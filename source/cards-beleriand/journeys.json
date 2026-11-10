@@ -1,0 +1,1279 @@
+[
+ {
+  "id": "journey:beren-luthien",
+  "title": "Beren and Lúthien",
+  "travellers": "Beren son of Barahir, Lúthien Thingol's daughter, Finrod, Huan",
+  "source": "The Silmarillion",
+  "dates": "about F.A. 465-467",
+  "blurb": "A mortal man and an Elf-maiden take a Silmaril from Morgoth's crown and pay for it with love and death.",
+  "book": "Beren, last of his house after the fall of Dorthonion, flees over the deadly Ered Gorgoroth. He passes through the haunted valley of Nan Dungortheb into Doriath. There he meets Lúthien, daughter of King Thingol, and they fall in love. Thingol sets Beren an impossible task: bring him a Silmaril from Morgoth's crown. Beren seeks help from Finrod in Nargothrond, and Finrod dies saving him from Sauron at Tol Sirion. Lúthien escapes her father's house, is freed from the sons of Fëanor by the hound Huan, and rescues Beren. Together they cross Taur-nu-Fuin and reach Angband, where her song puts Morgoth to sleep and Beren cuts out a Silmaril. The wolf Carcharoth bites off Beren's hand and the jewel with it. Eagles carry the pair back to Doriath, where the wolf is hunted down and Beren is slain. Lúthien chooses mortality, and the two live out a mortal span on Tol Galen. Other versions of this tale exist in Tolkien's earlier writings.",
+  "film": "",
+  "stages": [
+   {
+    "at": {
+     "near": "LA03",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Tarn Aeluin in Dorthonion",
+    "date": "",
+    "note": "Beren lives alone as an outlaw by the tarn where his father fell. When Sauron's hunters close in, he leaves the highlands and flees south.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "MT09",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Over the Ered Gorgoroth",
+    "date": "",
+    "note": "Beren climbs the sheer Mountains of Terror, where Elves and Men seldom pass, and survives by luck and stubbornness.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG10",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Through Nan Dungortheb",
+    "date": "",
+    "note": "He crosses the Valley of Dreadful Death, where the spawn of Ungoliant spin their webs and where madness haunts the air.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FO01",
+     "dx": 20,
+     "dy": 45
+    },
+    "title": "Into Doriath",
+    "date": "",
+    "note": "Beren reaches the northern edge of Doriath. Melian's magic ought to turn him away, but he passes through, half dead with weariness.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FO01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Meeting Lúthien in Neldoreth",
+    "date": "",
+    "note": "In the woods of Neldoreth, Beren sees Lúthien dancing and falls under her spell. She loves him in return.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Menegroth: Thingol's task",
+    "date": "",
+    "note": "Thingol brings Beren to Menegroth and sets him the price for Lúthien's hand: a Silmaril. Beren swears to fetch it.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FO03",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "West through Doriath",
+    "date": "",
+    "note": "Beren leaves the Thousand Caves and travels west across the forests of Doriath toward the realm of Finrod.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO02",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Nargothrond: Finrod's oath",
+    "date": "",
+    "note": "King Finrod honors the oath he owes to Beren's house. Ten companions follow him, but Celegorm and Curufin stand against the quest.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FJ02",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "North with Finrod",
+    "date": "",
+    "note": "Finrod and Beren go north in Orc disguise. The path leads them toward the pass of Sirion.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FT03",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Captured at Tol Sirion",
+    "date": "",
+    "note": "Sauron takes the company at his tower on Tol Sirion. Finrod wrestles a wolf and dies, saving Beren's life.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FO01",
+     "dx": 15,
+     "dy": 0
+    },
+    "title": "Lúthien escapes Hirilorn",
+    "date": "",
+    "note": "Lúthien lies confined in a treehouse by her father. She escapes by magic, and Huan the hound finds her.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO02",
+     "dx": 5,
+     "dy": 5
+    },
+    "title": "Nargothrond: Celegorm's captive",
+    "date": "",
+    "note": "Celegorm and Curufin hold Lúthien at Nargothrond. Huan, bound to Celegorm, grows weary of their wicked plans.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FT03",
+     "dx": 5,
+     "dy": -5
+    },
+    "title": "Rescue at Tol-in-Gaurhoth",
+    "date": "",
+    "note": "Huan defeats the wolves and Sauron himself. The tower falls and Beren is freed from the dungeon.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FO08",
+     "dx": -80,
+     "dy": 60
+    },
+    "title": "Edge of Taur-nu-Fuin",
+    "date": "",
+    "note": "Beren rides north alone to the edge of Taur-nu-Fuin and looks over Anfauglith. Lúthien and Huan overtake him there with the wolf and bat disguises.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG20",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Across Anfauglith",
+    "date": "",
+    "note": "They cross the burned plain in disguise and reach the dark land before Thangorodrim.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FT01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Angband and the Silmaril",
+    "date": "",
+    "note": "Lúthien's song puts Morgoth to sleep. Beren cuts a Silmaril from the iron crown, but Carcharoth bites off his hand.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG11",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Eagles over Dorthonion",
+    "date": "",
+    "note": "Thorondor's Eagles lift the pair from the doom of the north and carry them south over the highlands.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FO01",
+     "dx": 20,
+     "dy": 45
+    },
+    "title": "Eagles bring them home",
+    "date": "",
+    "note": "The Eagles set the pair down at the northern edge of Doriath. Beren is maimed and near death.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FO02",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The hunting of Carcharoth",
+    "date": "",
+    "note": "Carcharoth ravages Doriath. In the hunt Huan kills the wolf but dies. Beren, mortally wounded, gives Thingol the Silmaril cut from the wolf.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO01",
+     "dx": 5,
+     "dy": 5
+    },
+    "title": "Menegroth: death and return",
+    "date": "",
+    "note": "Beren is borne back to Menegroth and dies. Lúthien follows him to Mandos, who grants them both a second, mortal life.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG16",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Journey into Ossiriand",
+    "date": "",
+    "note": "Beren and Lúthien leave the Elf-kingdoms behind, as mortals, and travel toward the Land of Seven Rivers.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "IS02",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Tol Galen",
+    "date": "",
+    "note": "They dwell on the green isle in the river Adurant. Their son Dior is born here.",
+    "film": ""
+   }
+  ],
+  "sources": [
+   "The Silmarillion, chapter 19 'Of Beren and Lúthien'",
+   "Beren and Lúthien (ed. Christopher Tolkien)"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "journey:turin",
+  "title": "Túrin Turambar",
+  "travellers": "Túrin son of Húrin, Beleg, Gwindor, Mîm, Nienor",
+  "source": "The Silmarillion",
+  "dates": "F.A. 473-499",
+  "blurb": "A hero cursed by Morgoth moves from land to land, and his deeds bring ruin to everyone who loves him.",
+  "book": "After the Nirnaeth Arnoediad, the boy Túrin leaves Dor-lómin and is fostered by Thingol in Doriath. In young manhood, he slays a courtier by accident and flees into the wilds. He leads a band of outlaws south of the Teiglin, and with the archer Beleg he holds the hill of Amon Rûdh. Orcs betray the hill, and Túrin kills Beleg by mistake in Taur-nu-Fuin. Gwindor leads him to Nargothrond, where he rises to be its war-leader. His advice brings the Elves to disaster at Tumhalad, and the dragon Glaurung sacks the city. Túrin goes to Dor-lómin and finds his mother gone. He takes the name Turambar in Brethil, marries Níniel, who is his lost sister Nienor, and slays Glaurung at Cabed-en-Aras. When the truth is revealed, Nienor leaps to her death and Túrin falls on his sword. A longer and more detailed version of this tale is told in The Children of Húrin.",
+  "film": "",
+  "stages": [
+   {
+    "at": {
+     "near": "RG02",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Dor-lómin",
+    "date": "F.A. 473",
+    "note": "Túrin, a boy of eight, is sent away by his mother Morwen, who is expecting a child. He never lives in his home again.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "LA04",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Eithel Ivrin",
+    "date": "",
+    "note": "The guides take the boy past the springs of Ivrin and south through the mountain passes, away from Morgoth's hold on Hithlum.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FJ02",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Crossings of Teiglin",
+    "date": "",
+    "note": "Túrin travels south toward the borders of Doriath, with two old guides for company.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Menegroth",
+    "date": "",
+    "note": "Túrin grows up in King Thingol's halls as a foster-son. He quarrels with Saeros, who dies in the chase, and Túrin flees.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FJ02",
+     "dx": -20,
+     "dy": -35
+    },
+    "title": "Outlaws south of Teiglin",
+    "date": "",
+    "note": "Túrin leads a band of outlaws in the woods south of the Teiglin. Beleg finds him, but Túrin will not return. Beleg goes home, then later rejoins him.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "HI03",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Amon Rûdh",
+    "date": "",
+    "note": "With Mîm the Dwarf as a reluctant host, Túrin makes a hidden refuge on the hill. Orcs, guided by Mîm, betray it.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FO08",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Taur-nu-Fuin: the death of Beleg",
+    "date": "",
+    "note": "Orcs drag Túrin north. Beleg frees him, and in the dark Túrin kills his friend with Beleg's own sword.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "LA04",
+     "dx": 5,
+     "dy": 5
+    },
+    "title": "Healing at Eithel Ivrin",
+    "date": "",
+    "note": "Gwindor takes the grief-stricken Túrin to the springs at Eithel Ivrin, where he is slowly healed.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO02",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Nargothrond",
+    "date": "",
+    "note": "The two go to Nargothrond. Túrin rises to power as Mormegil, the Black Sword. Finduilas, daughter of Orodreth, loves him.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FI01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Tumhalad",
+    "date": "F.A. 495",
+    "note": "Túrin persuades the Elves to fight openly. Orcs and Glaurung destroy their army on the field of Tumhalad.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO02",
+     "dx": 5,
+     "dy": -5
+    },
+    "title": "Nargothrond sacked",
+    "date": "F.A. 495",
+    "note": "Glaurung comes to Nargothrond and breaks its gates. The Elves are killed or taken, and Finduilas is carried away.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "LA04",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "North by Ivrin",
+    "date": "",
+    "note": "Glaurung's lies send Túrin north to seek his mother and sister, not Finduilas. He hurries past the pools of Ivrin, fouled by the dragon.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG02",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Return to Dor-lómin",
+    "date": "",
+    "note": "Túrin finds the lands of his people in ruin. Morwen and Nienor have already left for Doriath.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "GR02",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Haudh-en-Elleth",
+    "date": "",
+    "note": "Túrin returns south and finds the grave of Finduilas on the borders of Brethil. He learns that he has failed her.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO08",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Ephel Brandir",
+    "date": "",
+    "note": "In Brethil, Túrin takes the name Turambar. He marries Níniel and lives in peace for a while.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "VA01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Cabed-en-Aras",
+    "date": "F.A. 499",
+    "note": "Túrin slays Glaurung at the ravine above the Teiglin. The dragon reveals Níniel's true name, and she leaps to her death. Túrin falls on his own sword.",
+    "film": ""
+   }
+  ],
+  "sources": [
+   "The Silmarillion, chapter 21 'Of Túrin Turambar'",
+   "The Children of Húrin"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "journey:tuor",
+  "title": "Tuor and the Hidden City",
+  "travellers": "Tuor son of Huor, Voronwë",
+  "source": "The Silmarillion",
+  "dates": "about F.A. 495-511",
+  "blurb": "Guided by Ulmo, Tuor reaches Gondolin, marries Idril, and later leads the survivors to the sea.",
+  "book": "Tuor, kinsman of Húrin, grows up among the Grey-elves of Mithrim and later lives as a thrall of the Easterlings in Hithlum. After he escapes, Ulmo's will draws him west by Cirith Ninniach and the Firth of Drengist to Nevrast. At the empty halls of Vinyamar, Ulmo himself bids him seek Gondolin. Voronwë, a mariner of Gondolin, becomes his guide. They go east by the Ered Wethrin, Eithel Ivrin, and the Crossings of Teiglin to the Brithiach. They reach the Dry River, the secret way into the city. Tuor stays in Gondolin and marries Turgon's daughter Idril. When Gondolin falls, he leads a company through the secret way of Cirith Thoronath and down the Sirion to Nan-tathren. They end at the Havens of Sirion, where his son Eärendil grows up. Other, more detailed versions of Tuor's tale appear in Unfinished Tales.",
+  "film": "",
+  "stages": [
+   {
+    "at": {
+     "near": "RG03",
+     "dx": -10,
+     "dy": -20
+    },
+    "title": "Androth in Mithrim",
+    "date": "",
+    "note": "Tuor, orphaned in Dor-lómin, grows up in a cave among the Grey-elves of Mithrim.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG02",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Dor-lómin: thrall of Lorgan",
+    "date": "",
+    "note": "He becomes a slave of the Easterlings and later escapes. Ulmo's will draws him toward the sea.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "VA02",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Cirith Ninniach",
+    "date": "",
+    "note": "Tuor follows an underground river to the Rainbow Cleft, where it falls into the sea.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "BA01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Firth of Drengist",
+    "date": "",
+    "note": "He wanders along the shores of the long inlet. He sees swans and sea birds, and his heart turns toward the water.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG04",
+     "dx": 0,
+     "dy": -20
+    },
+    "title": "Nevrast",
+    "date": "",
+    "note": "Tuor goes south through the empty lands of Nevrast. There he finds the deserted halls of Turgon's old home.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO04",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Vinyamar: Ulmo's message",
+    "date": "",
+    "note": "At Vinyamar, Ulmo comes from the sea and bids Tuor go to Gondolin. He meets Voronwë here.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "LA04",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Pools of Ivrin",
+    "date": "",
+    "note": "Tuor and Voronwë go east under the Ered Wethrin to Ivrin, fouled by Glaurung. There they see Túrin pass, hurrying north.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FJ02",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Crossings of Teiglin",
+    "date": "",
+    "note": "The pair slip past the edge of the haunted lands and reach the river Teiglin. They rest briefly, then press on.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FJ01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The Brithiach",
+    "date": "",
+    "note": "They cross the ford of the Sirion and enter the plain beneath the Echoriath.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "DO01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The Dry River and Orfalch Echor",
+    "date": "",
+    "note": "Voronwë leads Tuor down the bed of the Dry River and through a long cleft into the guarded mountains.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO03",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Gondolin: Tuor and Idril",
+    "date": "",
+    "note": "Tuor is brought to Turgon with Ulmo's message. He stays, wins the love of Idril, and has a son, Eärendil.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "VA07",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Escape by Cirith Thoronath",
+    "date": "F.A. 510",
+    "note": "The city falls to Morgoth's army. Tuor and the survivors flee by the secret way that Idril prepared.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FJ01",
+     "dx": 5,
+     "dy": -5
+    },
+    "title": "Back to the Brithiach",
+    "date": "",
+    "note": "The refugees come down from the mountains and journey south along the Sirion, through many perils.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "LA06",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Past Aelin-uial",
+    "date": "",
+    "note": "The survivors travel south, guided by Tuor, and pass the meres at the edge of Doriath.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FO09",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Nan-tathren",
+    "date": "",
+    "note": "They come to the willow-lands of Nan-tathren. Ulmo's power is strong here, and they rest from their long flight.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO07",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Havens of Sirion",
+    "date": "",
+    "note": "The remnant of Gondolin joins Elwing and the people of Doriath at the Havens. Eärendil grows to manhood.",
+    "film": ""
+   }
+  ],
+  "sources": [
+   "The Silmarillion, chapter 23 'Of Tuor and the Fall of Gondolin'",
+   "Unfinished Tales, 'Of Tuor and his Coming to Gondolin'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "journey:noldor",
+  "title": "The Return of the Noldor",
+  "travellers": "Fëanor and his sons, Fingolfin and his host, Finrod, Maedhros",
+  "source": "The Silmarillion",
+  "dates": "",
+  "blurb": "The Noldor land in Middle-earth, fight Morgoth's first host, and settle the lands around the north of Beleriand.",
+  "book": "Fëanor and his followers cross the sea and land at Losgar. Fëanor burns the ships, leaving the host of Fingolfin behind. In Mithrim, Fëanor's host fights the first Orcs in the Battle under Stars. Fëanor, filled with rage, pursues the survivors toward Angband. He is struck down by Gothmog, the Lord of Balrogs, and dies as his sons carry him back toward Mithrim. Meanwhile, Fingolfin leads his host over the Helcaraxë and arrives at Lammoth in the far north-west. The Moon and Sun rise above them. They march to the gates of Angband, but Morgoth does not answer them. They then enter Mithrim and meet the host of Fëanor. The Noldor then spread across the north of Beleriand. Fingolfin and Fingon hold Hithlum, Finrod takes Tol Sirion, Angrod and Aegnor hold Dorthonion, and Maedhros holds Himring. The exact dates and details of these years differ in later versions of the legends.",
+  "film": "",
+  "stages": [
+   {
+    "at": {
+     "near": "HA01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Losgar",
+    "date": "",
+    "note": "Fëanor lands his people and burns the ships. Fingolfin's host, left behind, must find another path.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG03",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Battle under Stars",
+    "date": "",
+    "note": "Fëanor's host camps by Lake Mithrim. Morgoth sends an Orc-army against the camp, and the Noldor win a great victory by starlight.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FT02",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Pursuit toward Angband",
+    "date": "",
+    "note": "Fëanor drives the Orcs out of Mithrim and pursues them north, far ahead of his main host.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG20",
+     "dx": 0,
+     "dy": -40
+    },
+    "title": "Chasing across Ard-galen",
+    "date": "",
+    "note": "Fëanor and his host press the beaten Orcs across the plain before Angband and outrun their friends.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG21",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Fëanor's last charge",
+    "date": "",
+    "note": "Fëanor rides far ahead of his men and reaches the borders of Angband. Balrogs surround him, and Gothmog wounds him.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FT02",
+     "dx": 12,
+     "dy": 8
+    },
+    "title": "Death of Fëanor",
+    "date": "",
+    "note": "His sons carry him back toward Mithrim. Near Eithel Sirion he halts, curses Morgoth and binds his sons to their oath. He dies, and his body burns to ash.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG23",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Fingolfin at Lammoth",
+    "date": "",
+    "note": "The host of Fingolfin crosses the grinding ice and reaches the northern coast of Hithlum. The Moon rises over their march.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG21",
+     "dx": -60,
+     "dy": -20
+    },
+    "title": "Through Dor Daedeloth",
+    "date": "",
+    "note": "Fingolfin marches east through Dor Daedeloth. The first Sun rises, flowers spring under his feet, and Morgoth's servants flee into hiding.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FT01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The gates of Angband",
+    "date": "",
+    "note": "Fingolfin's trumpets sound before the gates. Morgoth does not come out, and his servants hide.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG03",
+     "dx": 10,
+     "dy": 10
+    },
+    "title": "Fingolfin comes to Mithrim",
+    "date": "",
+    "note": "Fingolfin then withdraws to Lake Mithrim. The sons of Fëanor move to the southern shore, and the lake lies between the two hosts.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Hithlum: Fingolfin's realm",
+    "date": "",
+    "note": "Fingolfin and his son Fingon hold the lands of Hithlum, behind the Mountains of Shadow.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FT03",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Tol Sirion: Finrod's watch",
+    "date": "",
+    "note": "Finrod builds a tower on the isle in the Sirion pass, guarding the way into Beleriand from the north.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG11",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Dorthonion: Angrod and Aegnor",
+    "date": "",
+    "note": "The brothers of Finrod hold the highlands that overlook the northern plain.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FT04",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Himring: Maedhros",
+    "date": "",
+    "note": "Maedhros takes the hill of Himring and rules the lands to the east, where the sons of Fëanor settle.",
+    "film": ""
+   }
+  ],
+  "sources": [
+   "The Silmarillion, chapters 9-13, 'Of the Flight of the Noldor' to 'Of the Return of the Noldor'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "journey:hurin",
+  "title": "The Wanderings of Húrin",
+  "travellers": "Húrin Thalion",
+  "source": "The Silmarillion",
+  "dates": "about F.A. 500",
+  "blurb": "Freed by Morgoth, Húrin walks through ruined lands and brings grief with him to Nargothrond and Doriath.",
+  "book": "After the death of his children, Morgoth frees Húrin from his seat on Thangorodrim, in the hope that Húrin's anger will work evil. Húrin goes west across Anfauglith to Hithlum, where he finds his homeland stripped and silent. He wanders south to the Echoriath, and cries out to Turgon, who does not answer. Eagles watch over him. Húrin goes next to the Teiglin. He finds Morwen dying near the stone that marks the grave of Túrin, and she dies in his arms. Húrin goes then to Nargothrond, where he meets the Dwarf Mîm, who has lived in the ruins. He kills Mîm and takes only the Nauglamír from the hoard. Húrin brings the necklace to Menegroth and throws it at Thingol's feet. This act starts the final chain of grief. Tolkien described the details in several versions.",
+  "film": "",
+  "stages": [
+   {
+    "at": {
+     "near": "FT01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Angband",
+    "date": "",
+    "note": "Morgoth releases Húrin from the chair on Thangorodrim after many years, and sends him out to see the grief he has caused.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG20",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Across Anfauglith",
+    "date": "",
+    "note": "Húrin walks west over the burned plain and climbs into Hithlum, broken in spirit.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG02",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Hithlum",
+    "date": "",
+    "note": "Húrin finds his old home in ruins. Easterlings hold the land, and few of his people survive.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "LA04",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Past Eithel Ivrin",
+    "date": "",
+    "note": "He goes south through the mountain passes, by the springs where his son once rested.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FJ01",
+     "dx": 5,
+     "dy": 15
+    },
+    "title": "Foot of the Echoriath",
+    "date": "",
+    "note": "Húrin comes to the mountain walls above the Brithiach and cries out for Turgon. No answer comes, though Eagles see him.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "VA01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Cabed Naeramarth: Morwen",
+    "date": "",
+    "note": "Húrin reaches the Teiglin and the stone of Túrin. Morwen dies in his arms by the grave of her son.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO02",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Nargothrond: Mîm",
+    "date": "",
+    "note": "Húrin comes to the empty halls. He meets Mîm, who has taken the treasure, and kills him.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FO03",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "East through Doriath",
+    "date": "",
+    "note": "Húrin takes only the Nauglamír from the hoard and goes east into the realm of Thingol, bitter and proud.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Menegroth: the Nauglamír",
+    "date": "",
+    "note": "Húrin throws the Nauglamír before Thingol and speaks bitter words. Melian shows him how Morgoth has twisted his sight, and his anger fades.",
+    "film": ""
+   }
+  ],
+  "sources": [
+   "The Silmarillion, chapter 21 'Of Túrin Turambar' and chapter 22",
+   "The Children of Húrin"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "journey:aredhel",
+  "title": "Aredhel, Eöl and Maeglin",
+  "travellers": "Aredhel, Eöl the Dark Elf, Maeglin",
+  "source": "The Silmarillion",
+  "dates": "",
+  "blurb": "A restless princess leaves Gondolin, marries a Dark Elf, and her son later betrays the hidden city.",
+  "book": "Aredhel, sister of Turgon, grows tired of the hidden city of Gondolin and rides out alone. She goes east by the Brithiach and along the northern borders of Doriath, through the dreadful Nan Dungortheb. She comes to Himlad, where she hopes to meet her kinsmen the sons of Fëanor. She goes astray in Nan Elmoth, the gloomy forest of the Dark Elf Eöl, who traps her there and takes her as his wife. Their son Maeglin grows up in the forest. After years of captivity, Aredhel and Maeglin flee back to Gondolin. Eöl follows them and is seized by the guards of the hidden gate. He tries to kill Maeglin with a poisoned dart. Aredhel dies of the wound and Eöl is thrown from the walls. Maeglin later betrays Gondolin to Morgoth. Other accounts of this tale give different details of the journey, and the published version is brief.",
+  "film": "",
+  "stages": [
+   {
+    "at": {
+     "near": "TO03",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Gondolin",
+    "date": "",
+    "note": "Aredhel gets Turgon's grudging leave to ride out, though the king fears the journey.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FJ01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The Brithiach",
+    "date": "",
+    "note": "With three lords of Gondolin as her escort, she crosses the Sirion at the ford.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "BR01",
+     "dx": -40,
+     "dy": 0
+    },
+    "title": "Along the borders of Doriath",
+    "date": "",
+    "note": "The march-wardens of Doriath turn her away, so she takes the perilous road east between Doriath and the Ered Gorgoroth.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG10",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Nan Dungortheb",
+    "date": "",
+    "note": "In the shadows of Nan Dungortheb her escort loses her. She rides on alone, and the escort returns to Gondolin.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FJ04",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Arossiach",
+    "date": "",
+    "note": "She crosses the ford of the Aros and enters the lands of the east.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG12",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Himlad",
+    "date": "",
+    "note": "Celegorm and Curufin are away with Caranthir in Thargelion. Aredhel waits a while, then rides out alone.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FO05",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Lost in Nan Elmoth",
+    "date": "",
+    "note": "Aredhel strays into the dark forest and is lost among the trees. Eöl takes her to his house.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FO05",
+     "dx": 10,
+     "dy": -10
+    },
+    "title": "Maeglin's youth",
+    "date": "",
+    "note": "Aredhel lives unwillingly in Eöl's house. Her son Maeglin grows tall and clever there.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FJ04",
+     "dx": 5,
+     "dy": -5
+    },
+    "title": "The flight to the west",
+    "date": "",
+    "note": "Aredhel and Maeglin leave in secret while Eöl is away. Eöl returns and follows them.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FJ01",
+     "dx": 5,
+     "dy": 5
+    },
+    "title": "Back to the Brithiach",
+    "date": "",
+    "note": "The two come west by the old road. Eöl pursues them at a distance.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "DO01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The gates of Gondolin",
+    "date": "",
+    "note": "Eöl tracks them to the hidden gate. The guards seize him and bring him to Turgon.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO03",
+     "dx": 5,
+     "dy": 5
+    },
+    "title": "Gondolin: Eöl's doom",
+    "date": "",
+    "note": "Eöl casts a poisoned dart at Maeglin, but Aredhel springs before it and dies of the wound. Turgon has Eöl cast from the cliff.",
+    "film": ""
+   }
+  ],
+  "sources": [
+   "The Silmarillion, chapter 16 'Of Maeglin'",
+   "Unfinished Tales, 'The Tale of Aredhel'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "journey:nauglamir",
+  "title": "The Dwarves and the Nauglamír",
+  "travellers": "Dwarves of Nogrod, Thingol, Beren, the Green-elves",
+  "source": "The Silmarillion",
+  "dates": "about F.A. 502",
+  "blurb": "Greed for a jewelled necklace brings the Dwarves of Nogrod to Menegroth and leads to Thingol's death.",
+  "book": "Húrin gives Thingol the Nauglamír, and Thingol asks the Dwarves of Nogrod to set a Silmaril in it. The Dwarves, seeing the jewel, crave it and refuse to give it up. Thingol insults them, and in the quarrel the Dwarves kill him. A few Dwarves escape to Nogrod, and a host of Nogrod marches from the Ered Luin along the Dwarf-road. Melian has left Middle-earth, and her Girdle is gone, so they enter Menegroth and plunder it. The Dwarves carry the Nauglamír east. Beren and the Green-elves of Ossiriand wait for them at Sarn Athrad, and they slay most of the Dwarves. Beren takes the Nauglamír and brings it to Lúthien on Tol Galen. The Silmaril, set in the necklace, comes to Lúthien, who wears it and is seen once more in the world. Details of the ambush and the sack differ between Tolkien's earlier and later drafts.",
+  "film": "",
+  "stages": [
+   {
+    "at": {
+     "near": "TO01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Menegroth: the death of Thingol",
+    "date": "",
+    "note": "Dwarf smiths working in Menegroth set a Silmaril in the Nauglamír, then refuse to give it up. In the quarrel they slay Thingol.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO10",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Nogrod: the host gathers",
+    "date": "",
+    "note": "The few smiths who escape reach Nogrod. Their lies stir the Dwarves to send a host against Doriath.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FJ03",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Sarn Athrad",
+    "date": "",
+    "note": "The Dwarves who come to Doriath cross the ford of the Gelion, where the road to the west begins.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RD01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The Dwarf-road",
+    "date": "",
+    "note": "They follow the old road west through Estolad and the eastern wood toward the river Aros and Doriath.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO01",
+     "dx": -10,
+     "dy": -10
+    },
+    "title": "The sack of Menegroth",
+    "date": "",
+    "note": "The host of Nogrod plunders the halls. Melian has gone, and Mablung dies at the door of the treasury.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RD01",
+     "dx": 5,
+     "dy": 5
+    },
+    "title": "The road homeward",
+    "date": "",
+    "note": "The Dwarves carry their spoils back east along the same road, with the Nauglamír in their keeping.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FJ03",
+     "dx": 5,
+     "dy": 5
+    },
+    "title": "Ambush at Sarn Athrad",
+    "date": "",
+    "note": "Beren and the Green-elves catch them at the ford and slay almost all. Beren takes the Nauglamír.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG16",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Through Ossiriand",
+    "date": "",
+    "note": "Beren carries the Nauglamír south to Lúthien. The rest of the gold is cast into the river Ascar.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "IS02",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The Silmaril on Tol Galen",
+    "date": "",
+    "note": "The jewel comes to Lúthien, who wears it. Dior receives it later.",
+    "film": ""
+   }
+  ],
+  "sources": [
+   "The Silmarillion, chapter 22 'Of the Ruin of Doriath'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "journey:fingolfin",
+  "title": "The Ride of Fingolfin",
+  "travellers": "Fingolfin, Thorondor",
+  "source": "The Silmarillion",
+  "dates": "F.A. 456",
+  "blurb": "Grieving and desperate, the High King of the Noldor challenges Morgoth alone and falls with honor.",
+  "book": "After the Dagor Bragollach, the fire-storm that broke the Siege of Angband, Fingolfin sees his people overrun and his kinsmen routed. Desperate and full of rage, he rides alone from Barad Eithel in Hithlum across the burned plain of Anfauglith. He comes to the gates of Angband and calls Morgoth out. Morgoth comes, bearing the hammer Grond. Fingolfin wounds him seven times and he cries out, but the Dark Lord crushes him at last. Morgoth breaks Fingolfin's body and mocks it. Thorondor, King of the Eagles, swoops down, scars the face of Morgoth, and bears the body away. He lays it on a mountain above Gondolin, and Turgon raises a cairn there. Fingolfin's end is told briefly in the published Silmarillion, and other versions give a slightly different account.",
+  "film": "",
+  "stages": [
+   {
+    "at": {
+     "near": "FT02",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Barad Eithel in Hithlum",
+    "date": "F.A. 456",
+    "note": "Fingolfin, despairing after the Dagor Bragollach, takes his white horse Rochallor and rides out alone.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG20",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Across Anfauglith",
+    "date": "",
+    "note": "He crosses the burned plain, where no creature moves, and no Orc dares to stand in his way.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FT01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The gates of Angband",
+    "date": "",
+    "note": "Fingolfin sounds his horn and challenges Morgoth to single combat. The Dark Lord, shamed before his servants, comes out.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "MT02",
+     "dx": 0,
+     "dy": -20
+    },
+    "title": "The duel and Thorondor",
+    "date": "",
+    "note": "Fingolfin wounds Morgoth seven times before he falls. Thorondor then drives the Dark Lord back and seizes the body.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG11",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Thorondor over Dorthonion",
+    "date": "",
+    "note": "The Eagle flies south with the body of the king, high above the highlands, toward the hidden valley.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "MT08",
+     "dx": 0,
+     "dy": 30
+    },
+    "title": "A cairn above Gondolin",
+    "date": "",
+    "note": "The Eagle bears Fingolfin north of the hidden city and lays him on a peak. Turgon later builds a cairn there.",
+    "film": ""
+   }
+  ],
+  "sources": [
+   "The Silmarillion, chapter 18 'Of the Ruin of Beleriand and the Fall of Fingolfin'"
+  ],
+  "confidence": "high"
+ }
+]

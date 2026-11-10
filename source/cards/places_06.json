@@ -1,0 +1,943 @@
+[
+ {
+  "id": "CA003",
+  "title": "Brockenbores",
+  "kind": "Shire hobbit settlement",
+  "tier": 3,
+  "blurb": "A small Shire place whose name means badger burrowings, in the east of the Shire.",
+  "book": "Brockenbores, also spelled Brockenborings, is a minor Shire place name. It is said to mean badger burrowings and appears on the Shire map rather than in any scene.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Meaning": "Badger burrowings"
+  },
+  "related": [
+   "TO016",
+   "TO050"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue and map of the Shire"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "CA006",
+  "title": "Front Porch",
+  "kind": "Cave entrance",
+  "tier": 3,
+  "blurb": "A cave entrance on the eastern side of the Misty Mountains, listed in the map data set.",
+  "book": "This name comes from the map data set. I do not have a confirmed book source for it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Misty Mountains"
+  },
+  "related": [],
+  "sources": [
+   "Map data set"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "CA007",
+  "title": "Glittering Caves",
+  "kind": "Cave system of Rohan",
+  "tier": 2,
+  "blurb": "A vast cavern complex behind Helm's Deep, called Aglarond in Elvish.",
+  "book": "The Glittering Caves open behind the Hornburg in the White Mountains. Their Elvish name is Aglarond. The caverns hold great halls of stone that sparkle with many colours under torchlight.\n\nDuring the siege of Helm's Deep in T.A. 3019, the women and children of Rohan shelter in the caves. Gimli later describes them to Legolas with great love and promises to show them to him.\n\nAfter the War of the Ring, Gimli brings a company of Dwarves from Erebor and founds a colony there. The Dwarves of Aglarond are famous for their craft.",
+  "film": "The caves are not shown. The refugees hide in the inner keep of the fortress instead.",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "Other names": "Aglarond; Caverns of Helm's Deep",
+   "Fate": "Became a Dwarf colony under Gimli"
+  },
+  "related": [
+   "FT014",
+   "FT016",
+   "VA003",
+   "GR006"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Two Towers, Book III",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "CA008",
+  "title": "Henneth Annûn",
+  "kind": "Hidden cave refuge",
+  "tier": 2,
+  "blurb": "A hidden waterfall cave in Ithilien used by the Rangers of Gondor.",
+  "book": "Henneth Annûn means Window of the Sunset. It lies in the hills of Ithilien, behind a curtain of falling water. The Rangers of Ithilien use it as a secret refuge.\n\nCaptain Faramir takes Frodo and Sam there in T.A. 3019. The cave has an inner chamber lit by torches, and the sunset shines through the waterfall.\n\nFaramir questions the hobbits closely, and Gollum is caught fishing in the pool below. Faramir learns that Frodo carries the Ring but chooses to let him go.",
+  "film": "The film places Henneth Annûn in Ithilien and shows Faramir taking Frodo and Sam there. Faramir takes them to Osgiliath instead and briefly tries to bring the Ring to Minas Tirith.",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor, in Ithilien",
+   "Other names": "Window of the Sunset",
+   "People": "Rangers of Ithilien"
+  },
+  "related": [
+   "CA013",
+   "IS002",
+   "TO078"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Two Towers, Book IV"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "CA013",
+  "title": "Shelob's Lair",
+  "kind": "Spider's lair",
+  "tier": 2,
+  "blurb": "The tunnel of the great spider Shelob, above Minas Morgul in the Mountains of Shadow.",
+  "book": "Torech Ungol, the Spider's Lair, is a dark tunnel on the pass of Cirith Ungol. Shelob lives there. She is the last child of Ungoliant, and she feeds on anything that wanders into her path.\n\nGollum leads Frodo and Sam into the tunnel in T.A. 3019, hoping that she will kill them and leave him the Ring. Frodo uses the Phial of Galadriel to drive her back. She later stings him, and Sam drives her off with Sting.\n\nThe Orcs of the Tower of Cirith Ungol then capture the poisoned Frodo.",
+  "film": "In the film, Shelob appears in The Return of the King. Gollum betrays Frodo at the stairs, and Sam rescues Frodo from the spider.",
+  "series": "",
+  "facts": {
+   "Realm": "Mordor, Ephel Dúath",
+   "Other names": "Torech Ungol",
+   "People": "Shelob"
+  },
+  "related": [
+   "FT025",
+   "VA034",
+   "RD043",
+   "DO036"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Two Towers, Book IV"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "CA014",
+  "title": "Troll's Cave",
+  "kind": "Cave of three trolls",
+  "tier": 2,
+  "blurb": "The cave where Bert, Tom, and William kept stolen treasure, found by Thorin's company.",
+  "book": "This cave lies in the hills east of Rivendell, near the clearing where three trolls were turned to stone. The trolls were named Bert, Tom, and William.\n\nIn The Hobbit, Gandalf and the Dwarves find their hoard after the sun turns the trolls to stone. Elven swords lie there. Thorin takes Orcrist, Gandalf takes Glamdring, and Bilbo takes a small knife that serves as his sword and later gains the name Sting.\n\nThey also bury some gold nearby, which Bilbo later collects on his return trip.",
+  "film": "The film shows the trolls and the swords in the cave. Gandalf finds the swords there in An Unexpected Journey.",
+  "series": "",
+  "facts": {
+   "Realm": "Eriador",
+   "People": "Three trolls"
+  },
+  "related": [
+   "FO033",
+   "TO084"
+  ],
+  "sources": [
+   "The Hobbit, Chapter 2"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "FA007",
+  "title": "Rauros",
+  "kind": "Great waterfall",
+  "tier": 1,
+  "blurb": "The great falls of the River Anduin, south of Nen Hithoel.",
+  "book": "Rauros means roaring spray. It is the mighty fall of the Anduin at the southern end of the lake Nen Hithoel. The river drops there from the Emyn Muil down into the lands of Gondor.\n\nThe island Tol Brandir stands just above the falls, and the river splits around its steep sides. A rough path called the North Stair runs beside the falls for travellers who must carry their boats around.\n\nThe Fellowship of the Ring camps near the falls in February T.A. 3019. There, on the western shore, Boromir tries to take the Ring from Frodo, and Frodo decides to leave for Mordor alone.\n\nBoromir dies defending Merry and Pippin from Orcs. The Fellowship sends his body down the falls in a boat.",
+  "film": "The film shows Rauros as a huge waterfall with the Argonath above. Boromir's funeral boat goes over the falls.",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor, on the Anduin",
+   "Other names": "Rush-rain; Roar-rain",
+   "Meaning": "Roaring spray"
+  },
+  "related": [
+   "LA013",
+   "IS012",
+   "RI003",
+   "VA037",
+   "DO002"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II",
+   "The Two Towers, Book III"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "FA008",
+  "title": "Stair Falls",
+  "kind": "Waterfall at Moria's west gate",
+  "tier": 2,
+  "blurb": "A stream and falls near the western approach to the Doors of Durin.",
+  "book": "The Stair Falls lie near the Dimrill Stair, where the road climbs toward the Doors of Durin. The water falls down steep rock and feeds the dark pool in front of the west wall of Moria.\n\nThe Fellowship follows this path in January T.A. 3019 after failing to cross Caradhras. The Watcher in the Water lives in the pool nearby and seizes Frodo.\n\nThe Fellowship then enters Moria through the Doors.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Khazad-dûm",
+   "Fate": "Ruined stairway to the Doors"
+  },
+  "related": [
+   "DO009",
+   "VA035",
+   "MT006",
+   "TO066"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "GR001",
+  "title": "Balin's Tomb",
+  "kind": "Dwarf tomb in Moria",
+  "tier": 2,
+  "blurb": "The tomb of Balin, Lord of Moria, in the Chamber of Records.",
+  "book": "Balin son of Fundin led a company of Dwarves back to Moria in T.A. 2989. He ruled as Lord of Moria for a few years. An Orc archer killed him near the Mirrormere in T.A. 2994.\n\nHis followers buried him in the Chamber of Mazarbul. A slab of stone marks the tomb. The inscription is in Dwarvish runes.\n\nThe Fellowship finds the tomb in January T.A. 3019. Gandalf reads the Book of Mazarbul there and learns what happened to the colony. Orcs and a cave-troll attack the Fellowship in the chamber.",
+  "film": "The film shows the tomb in the Chamber of Mazarbul. Pippin knocks a skeleton into a well, and the noise draws the Orcs.",
+  "series": "",
+  "facts": {
+   "Realm": "Moria",
+   "Built by": "Balin's followers",
+   "Occupant": "Balin son of Fundin",
+   "Founded": "T.A. 2994"
+  },
+  "related": [
+   "TO066",
+   "LA012",
+   "BU041",
+   "DO009"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "GR003",
+  "title": "Barrowfield",
+  "kind": "Royal burial mounds of Rohan",
+  "tier": 2,
+  "blurb": "The grassy burial mounds of the Kings of Rohan outside Edoras.",
+  "book": "The Barrowfield lies below the hill of Edoras, in front of the hill's western slopes. Green mounds rise there, covered with white flowers called simbelmynë, or evermind.\n\nThe Kings of Rohan are buried in these mounds. The first line of the kings begins with Eorl the Young, who founded the realm in T.A. 2510. The mounds of the second line follow.\n\nKing Théoden's son Théodred is buried there in T.A. 3019. After the war, Théoden is brought back from Gondor and laid in a mound, and the people hold a great feast.",
+  "film": "The film shows Théodred's funeral at the mounds and the white flowers growing there.",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "Occupant": "Kings of Rohan",
+   "Founded": "Soon after T.A. 2510"
+  },
+  "related": [
+   "TO029",
+   "FT009",
+   "GR016"
+  ],
+  "sources": [
+   "The Two Towers, Book III",
+   "The Return of the King, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "GR005",
+  "title": "Battle Pit",
+  "kind": "Grave of the Battle of Bywater",
+  "tier": 3,
+  "blurb": "A pit in Bywater where the Shire hobbits buried the Ruffians slain in the last battle.",
+  "book": "After the Battle of Bywater in November T.A. 3019, the hobbits bury the dead Ruffians in a pit near the village. Later the hobbits erect a memorial for their own fallen.\n\nThe Scouring of the Shire ends here, and Merry and Pippin lead the hobbit fighters.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Occupant": "Ruffians slain at Bywater",
+   "Founded": "T.A. 3019"
+  },
+  "related": [
+   "TO016",
+   "LA002",
+   "TO050"
+  ],
+  "sources": [
+   "The Return of the King, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "GR006",
+  "title": "Death Down",
+  "kind": "Orc burial mound",
+  "tier": 3,
+  "blurb": "A great grassless hill heaped over the Orcs who died at Helm's Deep.",
+  "book": "After the Battle of the Hornburg on 4 March T.A. 3019, the dead Orcs are gathered and piled into a mound in front of Helm's Deep. It is called Death Down. The trees of the Huorns stand near it. Men say that grass will not grow on the hill.",
+  "film": "The film shows the aftermath of the battle but not this mound.",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "Occupant": "Orcs of Saruman",
+   "Founded": "T.A. 3019"
+  },
+  "related": [
+   "FT014",
+   "VA003",
+   "CA007"
+  ],
+  "sources": [
+   "The Two Towers, Book III",
+   "The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "GR008",
+  "title": "Haudh in Gwanûr",
+  "kind": "Burial mound of two Rohirrim",
+  "tier": 3,
+  "blurb": "The mound of the brothers Folcred and Fastred, who died fighting for Gondor.",
+  "book": "Folcred and Fastred were the sons of King Folcwine of Rohan. Folcwine sent them to Gondor's aid in T.A. 2885. They fought against the Haradrim at the crossings of the River Poros and fell together there. They were buried in a mound in southern Gondor.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Occupant": "Folcred and Fastred",
+   "Founded": "T.A. 2885",
+   "Meaning": "Mound of the brothers"
+  },
+  "related": [
+   "TO081",
+   "TO026"
+  ],
+  "sources": [
+   "The Return of the King, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "GR012",
+  "title": "House of the Kings",
+  "kind": "Tomb house in Minas Tirith",
+  "tier": 2,
+  "blurb": "The tomb house of the Kings of Gondor in Rath Dínen.",
+  "book": "The House of the Kings stands in the burial street Rath Dínen, behind the Citadel of Minas Tirith. It holds the tombs of the Kings of Gondor in long rows of stone beds.\n\nThe Stewards also keep a House of their own nearby. When Théoden dies at the Pelennor Fields in T.A. 3019, his body is laid in a chamber in Minas Tirith before it goes home to Rohan.\n\nAragorn walks the street after the war. In a later year, he lies in the House of the Kings.",
+  "film": "The film does not show the House of the Kings clearly.",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Built by": "Men of Gondor",
+   "Occupant": "Kings of Gondor"
+  },
+  "related": [
+   "TO065",
+   "GR013",
+   "RD031"
+  ],
+  "sources": [
+   "The Return of the King, Book V and Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "GR013",
+  "title": "House of the Stewards",
+  "kind": "Tomb house in Minas Tirith",
+  "tier": 2,
+  "blurb": "The tomb house of the Ruling Stewards of Gondor in Rath Dínen.",
+  "book": "The House of the Stewards is a tomb building in Rath Dínen. The Ruling Stewards of Gondor are laid there.\n\nIn T.A. 3019, Denethor believes that Faramir is dying and that Gondor will fall. He carries Faramir to the House and builds a pyre for both of them. Beregond and Gandalf stop him, and Denethor burns alone.\n\nAfter his death, the building is destroyed with its contents by fire.",
+  "film": "In the film, Denethor burns himself on a pyre near the Citadel instead.",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Occupant": "Ruling Stewards of Gondor",
+   "Fate": "Burned in T.A. 3019"
+  },
+  "related": [
+   "TO065",
+   "GR012",
+   "RD031"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "GR016",
+  "title": "Mound of Riders",
+  "kind": "Burial mound at the Fords of Isen",
+  "tier": 3,
+  "blurb": "A mound at the Fords of Isen, raised for Riders who fell in battle there.",
+  "book": "In February T.A. 3019, the Riders of Rohan fight Saruman's forces at the Fords of Isen. Many fall, including Théodred. The dead of the battle are buried in a green mound beside the road, and spears are planted around it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "Occupant": "Riders of Rohan",
+   "Founded": "T.A. 3019"
+  },
+  "related": [
+   "FJ008",
+   "FT017",
+   "GR003"
+  ],
+  "sources": [
+   "The Two Towers, Book III"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "GR018",
+  "title": "Mounds of Mundburg",
+  "kind": "Battle graves of the Pelennor",
+  "tier": 2,
+  "blurb": "The graves of those who died in the Battle of the Pelennor Fields.",
+  "book": "Mundburg is the Rohirric name for Minas Tirith. The Mounds of Mundburg are the graves on the Pelennor Fields, where Gondor and Rohan fought the armies of Mordor on 15 March T.A. 3019.\n\nMany Riders of Rohan lie there, among them those who fell with King Théoden. Men of Gondor also fell in the battle, as did Orcs and allies of Sauron.\n\nA mound for the horse Snowmane is raised there too, with a stone.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Occupant": "Fallen of the Pelennor Fields",
+   "Founded": "T.A. 3019"
+  },
+  "related": [
+   "FI024",
+   "TO065",
+   "WA006"
+  ],
+  "sources": [
+   "The Return of the King, Book V and Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "GR021",
+  "title": "Tomb of Elendil",
+  "kind": "Tomb on a beacon hill",
+  "tier": 2,
+  "blurb": "The burial place of Elendil on the hill of Halifirien, on the border of Rohan.",
+  "book": "Elendil led the Faithful from Númenor and became the first High King of Gondor and Arnor. He fell in battle on the slopes of Mount Doom in S.A. 3441, while he and Gil-galad defeated Sauron.\n\nHis son Isildur laid him to rest on the hill of Halifirien, one of the beacon hills of Gondor. Men called it the Hill of Awe in later times.\n\nLater, the Rohirrim held the hill as sacred. Rohan guards the border near it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Border of Gondor and Rohan",
+   "Occupant": "Elendil",
+   "Founded": "S.A. 3441"
+  },
+  "related": [
+   "BU085_54",
+   "TO065"
+  ],
+  "sources": [
+   "The Return of the King, Book V",
+   "The Return of the King, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "LA002",
+  "title": "Bywater Pool",
+  "kind": "Pond in the Shire",
+  "tier": 3,
+  "blurb": "A pond at the village of Bywater, near the Battle of Bywater.",
+  "book": "Bywater Pool is a pond near the village of Bywater, where the River Water widens. In November T.A. 3019, the hobbits fight the Ruffians nearby and win the Battle of Bywater.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire"
+  },
+  "related": [
+   "TO016",
+   "RI080",
+   "GR005"
+  ],
+  "sources": [
+   "The Return of the King, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "LA006",
+  "title": "Lake Evendim",
+  "kind": "Lake of Eriador",
+  "tier": 2,
+  "blurb": "A great lake in northern Eriador, beside the ruins of Annúminas.",
+  "book": "Lake Evendim lies north of the Shire. Its Elvish name is Nenuial, which means Lake of Twilight. The River Baranduin flows from it south through the Shire.\n\nThe city of Annúminas stands on its southern shore. Elendil founded it as the capital of Arnor after he arrived in Middle-earth in S.A. 3320. The Hills of Evendim lie to the north.\n\nAfter Arnor fell, the lake region was largely abandoned. Few people lived there in the Third Age.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Arnor, later abandoned",
+   "Other names": "Nenuial",
+   "Meaning": "Lake of Twilight"
+  },
+  "related": [
+   "TO006",
+   "HI032",
+   "RI006"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "LA009",
+  "title": "Long Lake",
+  "kind": "Lake in Rhovanion",
+  "tier": 2,
+  "blurb": "A lake east of Mirkwood, home of Lake-town and below the Lonely Mountain.",
+  "book": "Long Lake lies below the Lonely Mountain. The Running River flows into it from the north. Lake-town, built on wooden piles, stands on its waters.\n\nIn T.A. 2941, Smaug flies from the Lonely Mountain and burns Lake-town. Bard the Bowman kills the dragon with a black arrow.\n\nThe Men of the lake then help to rebuild the town. Thorin's company floats down the river into the lake in barrels in The Hobbit.",
+  "film": "The film shows Lake-town and the lake in The Desolation of Smaug, and Smaug attacks it in The Battle of the Five Armies.",
+  "series": "",
+  "facts": {
+   "Realm": "Kingdom of Dale",
+   "People": "Men of Lake-town"
+  },
+  "related": [
+   "TO053",
+   "MT029",
+   "TO024"
+  ],
+  "sources": [
+   "The Hobbit, Chapters 10 and 14"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "LA012",
+  "title": "Mirrormere",
+  "kind": "Mountain lake",
+  "tier": 2,
+  "blurb": "A still lake in Dimrill Dale beneath the mountains of Moria, a holy place of the Dwarves.",
+  "book": "The Mirrormere, called Kheled-zâram in Dwarvish, lies in Dimrill Dale. It is a still, clear pool below Celebdil. The stars are said to shine in its water by day.\n\nDurin the Deathless first looked into the water and saw a crown of stars above his head. The Dwarves hold the place sacred.\n\nThe Fellowship stops at the lake in January T.A. 3019 after fleeing Moria. Gimli looks into the water and sees the stars. The Dwarf Balin died near here in T.A. 2994.",
+  "film": "The film does not show the lake.",
+  "series": "",
+  "facts": {
+   "Realm": "Khazad-dûm",
+   "Other names": "Kheled-zâram; Nen Cenedril",
+   "Meaning": "Glass lake"
+  },
+  "related": [
+   "VA004",
+   "MT007",
+   "GR001",
+   "TO066"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "LA013",
+  "title": "Nen Hithoel",
+  "kind": "Lake on the Anduin",
+  "tier": 1,
+  "blurb": "A large lake on the Anduin, framed by the Argonath and the hills of the Emyn Muil.",
+  "book": "Nen Hithoel is a large lake on the Great River Anduin, between the Emyn Muil and the falls of Rauros. Its name means Mist-cool Water. Steep walls of rock enclose it on each side.\n\nThe Argonath stand at its northern end, two great statues of Isildur and Anárion. The island of Tol Brandir lies in the middle of the lake. On the shore to the west rises Amon Hen, the Hill of Sight, and Amon Lhaw rises on the east.\n\nThe Fellowship of the Ring enters the lake in February T.A. 3019. There Frodo wrestles with his choice, Boromir falls to the temptation of the Ring, and the Fellowship breaks apart. The lake is the last calm water before the roaring falls.",
+  "film": "The film shows the lake with the Argonath at its head and the Fellowship's boats on the water.",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Meaning": "Mist-cool Water"
+  },
+  "related": [
+   "DO002",
+   "IS012",
+   "FA007",
+   "HI022",
+   "RI003"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II",
+   "The Two Towers, Book III"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "LA019",
+  "title": "Sea of Rhûn",
+  "kind": "Inland sea",
+  "tier": 2,
+  "blurb": "A great inland sea in the far east, beyond Mirkwood.",
+  "book": "The Sea of Rhûn is a vast inland sea in the lands of Rhûn, east of Mirkwood. Rhûn means East. Easterlings live along its shores.\n\nThe Men of Gondor fought many wars against Easterlings who came from there. Tolkien mentions the sea in the Appendices and in the history of Gondor. Its far shores remain unexplored in the story, and few Men of the West have seen them.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rhûn",
+   "Meaning": "East"
+  },
+  "related": [
+   "LA017"
+  ],
+  "sources": [
+   "The Return of the King, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "LA017",
+  "title": "Sea of Núrnen",
+  "kind": "Inland sea in Mordor",
+  "tier": 2,
+  "blurb": "A large inland sea in the south of Mordor, the region of the slave fields.",
+  "book": "The Sea of Núrnen is a large, shallow inland sea in southern Mordor. Its name means sad-water. Rivers from the mountains feed it.\n\nThe lands around its shores are the slave fields of Mordor, where captives farm food for the armies of Sauron. Frodo and Sam see the region from the passes in the north of Mordor in March T.A. 3019.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Mordor",
+   "Other names": "Lake Núrnen",
+   "Meaning": "Sad-water"
+  },
+  "related": [
+   "LA019"
+  ],
+  "sources": [
+   "The Return of the King, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "IS019",
+  "title": "Tolfalas",
+  "kind": "Island off Gondor",
+  "tier": 3,
+  "blurb": "An island at the mouth of the Bay of Belfalas, off the coast of Gondor.",
+  "book": "Tolfalas is an island in the Bay of Belfalas, off the coast of Gondor near the mouths of the Anduin. Men of Gondor from the coast and islands came to defend Minas Tirith in T.A. 3019.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Other names": "Tol Falas"
+  },
+  "related": [
+   "BA003",
+   "TO081"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "IS012",
+  "title": "Tol Brandir",
+  "kind": "Island on the Anduin",
+  "tier": 2,
+  "blurb": "A steep island in the middle of Nen Hithoel, crowned by a great tower of rock.",
+  "book": "Tol Brandir is a steep island in Nen Hithoel, just above the falls of Rauros. Its name means Isle of the great Steeples. Sheer cliffs rise from the water on every side.\n\nNo man or beast ever set foot on the island. Eagles are said to nest on it.\n\nThe Fellowship of the Ring passes it in February T.A. 3019. Its steep sides split the Anduin into two channels, and the Fellowship takes the western channel to reach the shore.",
+  "film": "The film shows Tol Brandir in the lake near Rauros.",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Other names": "Tindrock",
+   "Meaning": "Isle of the great Steeples"
+  },
+  "related": [
+   "LA013",
+   "FA007",
+   "HI022"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "IS008",
+  "title": "Girdley Island",
+  "kind": "Island in the Brandywine",
+  "tier": 3,
+  "blurb": "A small island in the Brandywine River in the Shire.",
+  "book": "Girdley Island is a small island in the river Brandywine, near the east border of the Shire. It is shown on the Shire map but does not feature in the story. Few details about it appear in the books, and the name suggests a girdle of land in the river.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Meaning": "Girdle island"
+  },
+  "related": [
+   "RI006",
+   "TO016"
+  ],
+  "sources": [
+   "Map of the Shire"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "IS003",
+  "title": "Carrock",
+  "kind": "Rock island in the Anduin",
+  "tier": 2,
+  "blurb": "A great rock in the Anduin, the place where Beorn left the Dwarves and Bilbo.",
+  "book": "The Carrock is a great rock that stands in the River Anduin near the home of Beorn. It is the last piece of the Misty Mountains. A ford and a stair lead from the rock to the river bank.\n\nGandalf, Bilbo, and the Dwarves are carried there by eagles after the Goblins and wargs trap them in T.A. 2941. They watch the Goblins burn and Beorn changes his shape. They stay to rest.\n\nBeorn takes them to his hall the next day and feeds them.",
+  "film": "The film shows the Carrock briefly in An Unexpected Journey. The eagles drop the company there.",
+  "series": "",
+  "facts": {
+   "Realm": "Rhovanion",
+   "People": "Near Beorn's home"
+  },
+  "related": [
+   "FJ007",
+   "BU031",
+   "TO084"
+  ],
+  "sources": [
+   "The Hobbit, Chapter 6 and Chapter 7"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "IS002",
+  "title": "Cair Andros",
+  "kind": "Island fortress on the Anduin",
+  "tier": 2,
+  "blurb": "A long island fortress on the Anduin, guarding the northern approach to Gondor.",
+  "book": "Cair Andros is a long island in the Anduin north of Osgiliath. Its name means Ship of Long Foam. Gondor holds it as a fortress against Mordor.\n\nIn March T.A. 3019, the armies of Mordor cross the river there with Orcs and Easterlings and capture the island. Gondor's forces fall back toward Minas Tirith. The loss of the island opens a path toward the Pelennor Fields and the city.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "People": "Gondorian soldiers",
+   "Meaning": "Ship of Long Foam"
+  },
+  "related": [
+   "TO078",
+   "RI003",
+   "FI024"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BA013",
+  "title": "Icebay of Forochel",
+  "kind": "Northern bay",
+  "tier": 2,
+  "blurb": "A frozen bay in the far north of Eriador, home of the Lossoth.",
+  "book": "The Icebay of Forochel lies in the far north of Eriador. It is a cold place with ice, and the Lossoth, or Snowmen, live on its shores.\n\nIn T.A. 1975, King Arvedui of Arnor flees north to the Lossoth after the fall of Fornost. Círdan sends a ship to rescue him. Ice crushes the ship in the bay, and Arvedui dies in the wreck.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Far north, abandoned",
+   "People": "Lossoth"
+  },
+  "related": [
+   "TO035",
+   "BA012"
+  ],
+  "sources": [
+   "The Return of the King, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BA012",
+  "title": "Gulf of Lune",
+  "kind": "Bay in the west",
+  "tier": 2,
+  "blurb": "The large gulf in the west of Eriador, where the Lune meets the sea.",
+  "book": "The Gulf of Lune lies on the western coast of Eriador. It cuts into the land between the Blue Mountains. The River Lune flows into it.\n\nThe Grey Havens stand on its shores, and Círdan the Shipwright rules the harbor. Elven ships sail from there into the West. In T.A. 3021, Frodo, Bilbo, Gandalf, and the Elf-lords sail from the Grey Havens over the sea.",
+  "film": "The film shows the Grey Havens and the departure of the ship at the end of The Return of the King.",
+  "series": "",
+  "facts": {
+   "Realm": "Eriador",
+   "People": "Sindar and Círdan"
+  },
+  "related": [
+   "TO043"
+  ],
+  "sources": [
+   "The Return of the King, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BA007",
+  "title": "Cobas Haven",
+  "kind": "Bay on the coast of Gondor",
+  "tier": 3,
+  "blurb": "A bay on the southern coast of Gondor, named in the map data set.",
+  "book": "This name comes from the map data set. I do not have a confirmed book source for it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor"
+  },
+  "related": [
+   "BA003",
+   "TO026"
+  ],
+  "sources": [
+   "Map data set"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "BA003",
+  "title": "Bay of Belfalas",
+  "kind": "Great bay of the south",
+  "tier": 2,
+  "blurb": "The great bay south of Gondor, bounded by Belfalas and the Harad coast.",
+  "book": "The Bay of Belfalas is the great bay on the southern coast of Gondor. Dol Amroth stands on its northern shore. The Anduin flows into it south of Pelargir.\n\nPelargir and Dol Amroth are the two great ports. Corsairs from Umbar sail up the bay to raid. In T.A. 3019, the corsairs sail up the Anduin toward Minas Tirith, and Aragorn takes the ships.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor and Harad",
+   "Other names": "Windy Bay of Bel"
+  },
+  "related": [
+   "TO026",
+   "TO081",
+   "BA007"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "WA001",
+  "title": "City Wall",
+  "kind": "Wall of Minas Tirith",
+  "tier": 2,
+  "blurb": "The wall of the first circle, surrounding the lowest level of Minas Tirith.",
+  "book": "Minas Tirith has seven levels, and each level has its own wall. The outermost wall is the greatest, and it faces the Pelennor Fields. It is made of strong smooth stone that the Men of Gondor built with Númenórean skill.\n\nThe Great Gate stands in this wall. In March T.A. 3019, the Witch-king of Angmar breaks the gate with the battering ram Grond. The Orcs of Mordor then enter the city.",
+  "film": "The film shows the white city and the great gate being broken in The Return of the King.",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Other names": "Othram"
+  },
+  "related": [
+   "TO065",
+   "DO030",
+   "WA006"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "WA002",
+  "title": "Deeping Wall",
+  "kind": "Wall of Helm's Deep",
+  "tier": 2,
+  "blurb": "The great stone wall across the mouth of the gorge at Helm's Deep.",
+  "book": "The Deeping Wall closes the mouth of the gorge in front of the Hornburg. A culvert runs under it, and the Deeping-stream flows out through the culvert.\n\nSaruman's Orcs attack the wall on the night of 3 March T.A. 3019. They set an explosive in the culvert, and the wall breaks open. The Riders fall back into the Hornburg and the Glittering Caves. Aragorn and Éomer then ride out at dawn to scatter the attackers.",
+  "film": "The film shows the wall being blown up by an Uruk-hai with a torch.",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "Fate": "Broken by Saruman's explosive"
+  },
+  "related": [
+   "FT014",
+   "FT016",
+   "WA004",
+   "DO032"
+  ],
+  "sources": [
+   "The Two Towers, Book III"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "WA004",
+  "title": "Helm's Dike",
+  "kind": "Defensive earthwork of Rohan",
+  "tier": 2,
+  "blurb": "An earthwork bank and ditch that runs across the coomb in front of Helm's Deep.",
+  "book": "Helm's Dike is a great ditch with a bank, and it runs across the Deeping-coomb below the Hornburg. It is named after Helm Hammerhand, a king of Rohan.\n\nHelm held out in the Hornburg during the Long Winter in the Third Age. In T.A. 3019, Saruman's army takes the Dike. The Riders fall back behind the Deeping Wall. The Dike becomes the first line of the siege.",
+  "film": "In the film, there is no earthwork. The Riders fight within the fortress.",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "Built by": "Men of Rohan"
+  },
+  "related": [
+   "FT014",
+   "WA002",
+   "VA003"
+  ],
+  "sources": [
+   "The Two Towers, Book III",
+   "The Return of the King, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "WA005",
+  "title": "High Hay",
+  "kind": "Hedge of Buckland",
+  "tier": 2,
+  "blurb": "A great hedge that guards Buckland, the east border of the Shire.",
+  "book": "The High Hay is a very tall and thick hedge. It runs along the eastern edge of Buckland, between the Shire and the Old Forest. The hobbits of Buckland planted it in T.A. 2340 to keep out the trees of the forest.\n\nThe hedge has a gate that is shut every night. In T.A. 3018, Frodo and his friends travel through the gate with the Black Riders close behind.",
+  "film": "The film does not show the hedge. The hobbits cross the river by ferry.",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire, Buckland",
+   "Built by": "Hobbits of Buckland",
+   "Founded": "T.A. 2340"
+  },
+  "related": [
+   "DO005",
+   "BU032",
+   "RI083"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "WA006",
+  "title": "Rammas Echor",
+  "kind": "Outer wall of the Pelennor",
+  "tier": 2,
+  "blurb": "The great outer wall that surrounds the Pelennor Fields around Minas Tirith.",
+  "book": "The Rammas Echor is a great wall around the Pelennor Fields. Its name means Great-wall Circle. The Men of Gondor built it with great labour when Ithilien fell under shadow.\n\nA gate in the wall gives access to the Causeway Forts and the road to Osgiliath. On 13 March T.A. 3019, the armies of Mordor break the wall at several places and enter the Pelennor Fields. The Battle of the Pelennor Fields follows.",
+  "film": "The film does not show the Rammas Echor.",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Meaning": "Great-wall Circle"
+  },
+  "related": [
+   "FI024",
+   "TO065",
+   "DO006",
+   "WA001"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "WA007",
+  "title": "Ring of Isengard",
+  "kind": "Circular wall of Isengard",
+  "tier": 2,
+  "blurb": "The great circle of stone that surrounds Isengard and Orthanc.",
+  "book": "The Ring of Isengard is a huge wall of stone that makes a circle around the valley of Isengard. One tunnel gate leads through it. Inside stands the tower of Orthanc.\n\nSaruman holds Isengard in T.A. 3019. After the Battle of the Hornburg, the Ents break the wall and flood the valley. Gandalf later holds a parley with Saruman before the tower.",
+  "film": "The film shows the Ents breaking the ring and flooding the valley with the river Isen.",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "Built by": "Númenóreans",
+   "Fate": "Broken by the Ents"
+  },
+  "related": [
+   "FT017",
+   "DO017",
+   "FO012",
+   "RI086"
+  ],
+  "sources": [
+   "The Two Towers, Book III"
+  ],
+  "confidence": "medium"
+ }
+]

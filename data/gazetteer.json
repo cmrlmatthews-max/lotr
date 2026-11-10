@@ -1,0 +1,5596 @@
+[
+{
+"id": "TO002",
+"layer": "Towns",
+"name": "Aldburg",
+"x": 1059.0,
+"y": 845.5,
+"attrs": {
+"Type": "Town",
+"Location": "The Folde",
+"Realm": "Rohan",
+"Inhabitant": "Éomer, Rohirrim",
+"English": "\"Old Fortress\"",
+"Rohirric": "Aldburg"
+}
+},
+{
+"id": "TO006",
+"layer": "Towns",
+"name": "Annúminas",
+"x": 562.4,
+"y": 1550.8,
+"attrs": {
+"Type": "City",
+"Location": "Eriador, shores of Lake Nenuial",
+"Realm": "Abandoned",
+"Inhabitant": "Dúnedain of Arnor (originally); Abandoned",
+"Comments": "Had been in ruins for 2000 years by the War of the Ring",
+"English": "\"west tower\"",
+"Sindarin": "Annúminas"
+}
+},
+{
+"id": "TO007",
+"layer": "Towns",
+"name": "Archet",
+"x": 669.7,
+"y": 1441.0,
+"attrs": {
+"Type": "Town",
+"Location": "Central Eriador, near Bree",
+"Realm": "Bree-land",
+"Inhabitant": "Men, Hobbits",
+"English": "Archet; \"by the woods\"",
+"Other": "Arcet (Celtic)"
+}
+},
+{
+"id": "TO011",
+"layer": "Towns",
+"name": "Bree",
+"x": 665.2,
+"y": 1433.8,
+"attrs": {
+"Type": "Town",
+"Location": "East of The Shire and south of Fornost Erain",
+"Realm": "Bree-land",
+"Inhabitant": "Men, Hobbits",
+"English": "\"hill\"",
+"Other": "Bree (Celtic)"
+}
+},
+{
+"id": "TO012",
+"layer": "Towns",
+"name": "Breredon",
+"x": 599.5,
+"y": 1381.8,
+"attrs": {
+"Type": "Village",
+"Location": "In Buckland, near Haysend",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Briar Hill",
+"Other": "Braerdun (Old Hobbitish)"
+}
+},
+{
+"id": "TO014",
+"layer": "Towns",
+"name": "Bucklebury",
+"x": 607.6,
+"y": 1409.7,
+"attrs": {
+"Type": "Village",
+"Location": "Buckland, about a mile east of the banks of the River Brandywine",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Bucklebury; Buck-burg/Buck-town"
+}
+},
+{
+"id": "TO015",
+"layer": "Towns",
+"name": "Budgeford",
+"x": 596.1,
+"y": 1431.4,
+"attrs": {
+"Type": "Town",
+"Location": "Bridgefields district, along a tributary of the Brandywine called the Water",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Budgeford; Budge Ford"
+}
+},
+{
+"id": "TO016",
+"layer": "Towns",
+"name": "Bywater",
+"x": 554.7,
+"y": 1425.3,
+"attrs": {
+"Type": "Village",
+"Location": "The Westfarthing, north of the East Road",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Bywater"
+}
+},
+{
+"id": "TO017",
+"layer": "Towns",
+"name": "Calembel",
+"x": 1124.4,
+"y": 661.6,
+"attrs": {
+"Type": "Town",
+"Location": "Lamedon",
+"Realm": "Gondor",
+"Inhabitant": "Men",
+"Comments": "Deserted during the War of the Ring",
+"English": "\"Greenham\"",
+"Sindarin": "Calembel"
+}
+},
+{
+"id": "TO018",
+"layer": "Towns",
+"name": "Caras Galadhon",
+"x": 1214.9,
+"y": 1221.0,
+"attrs": {
+"Type": "City/Fortress",
+"Location": "The Naith",
+"Realm": "Lothlórien",
+"Inhabitant": "Galadhrim Elves, Galadriel, Celeborn",
+"English": "City of the Trees",
+"Sindarin": "Caras Galadhon"
+}
+},
+{
+"id": "TO019",
+"layer": "Towns",
+"name": "Carn Dûm",
+"x": 863.8,
+"y": 1778.9,
+"attrs": {
+"Type": "Fortress",
+"Realm": "Angmar",
+"Inhabitant": "Orcs, Men of Darkness, Wolves, Trolls"
+},
+"also": [
+"Fortresses"
+]
+},
+{
+"id": "TO021",
+"layer": "Towns",
+"name": "Combe",
+"x": 668.1,
+"y": 1436.2,
+"attrs": {
+"Type": "Town",
+"Location": "Central Eriador, near Bree",
+"Realm": "Bree-land",
+"Inhabitant": "Men, Hobbits",
+"English": "\"hollow/valley\"",
+"Other": "Combe (Celtic)"
+}
+},
+{
+"id": "TO022",
+"layer": "Towns",
+"name": "Crickhollow",
+"x": 611.3,
+"y": 1413.6,
+"attrs": {
+"Type": "Village?",
+"Location": "Buckland, northeast of Brandy Hall",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Crickhollow; \"low place by the hill\"",
+"Other": "Crycholh (Old Hobbitish)"
+}
+},
+{
+"id": "TO024",
+"layer": "Towns",
+"name": "Dale",
+"x": 1528.6,
+"y": 1593.6,
+"attrs": {
+"Type": "City state",
+"Location": "Northern Wilderland, between the southwest and southeast arms of Erebor",
+"Realm": "Kingdom of Dale",
+"Inhabitant": "Northmen",
+"English": "Dale/\"valley\""
+}
+},
+{
+"id": "TO025",
+"layer": "Towns",
+"name": "Deephallow",
+"x": 590.2,
+"y": 1386.0,
+"attrs": {
+"Type": "Village",
+"Location": "On the banks of the Brandywine River on the eastern border of the Shire",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Deephallow; \"deep haugh\"",
+"Other": "Deophealh (Old Hobbitish)"
+}
+},
+{
+"id": "TO026",
+"layer": "Towns",
+"name": "Dol Amroth",
+"x": 1026.4,
+"y": 551.8,
+"attrs": {
+"Type": "City/Castle",
+"Location": "Belfalas",
+"Realm": "Gondor",
+"Inhabitant": "Men (Númenórean Faithful)",
+"English": "\"hill upclimber\"",
+"Sindarin": "Dol Amroth"
+},
+"also": [
+"Hills"
+]
+},
+{
+"id": "TO027",
+"layer": "Towns",
+"name": "Dwaling",
+"x": 606.7,
+"y": 1460.1,
+"attrs": {
+"Type": "Village",
+"Location": "Eastfarthing",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Dwaling; \"descendants of Dwale\""
+}
+},
+{
+"id": "TO028",
+"layer": "Towns",
+"name": "Edhellond",
+"x": 1054.5,
+"y": 579.2,
+"attrs": {
+"Type": "Harbor",
+"Location": "Southern Gondor, confluence of the Ringló and Morthond rivers",
+"Realm": "Gondor",
+"Inhabitant": "Sindar, Nandor, Gondorians",
+"Comments": "Abandoned T.A. 1981 after all its elves sailed West",
+"English": "\"Elf Haven\"",
+"Sindarin": "Edhellond"
+},
+"also": [
+"Harbors"
+]
+},
+{
+"id": "TO029",
+"layer": "Towns",
+"name": "Edoras",
+"x": 1051.3,
+"y": 836.2,
+"attrs": {
+"Type": "Capital city",
+"Location": "White Mountains",
+"Realm": "Rohan",
+"Inhabitant": "Rohirrim",
+"English": "\"the courts\"",
+"Rohirric": "Edoras"
+}
+},
+{
+"id": "TO031",
+"layer": "Towns",
+"name": "Elvenking's Halls",
+"x": 1488.0,
+"y": 1575.7,
+"attrs": {
+"Type": "City",
+"Location": "Northeastern Mirkwood",
+"Realm": "Mirkwood",
+"Inhabitant": "Silvan Elves",
+"English": "Elvenking's Halls"
+},
+"also": [
+"Buildings"
+]
+},
+{
+"id": "TO034",
+"layer": "Towns",
+"name": "Forlond",
+"x": 122.0,
+"y": 1518.5,
+"attrs": {
+"Type": "Harbor",
+"Location": "Northern Lindon, on the shore of the Gulf of Lune",
+"Realm": "Lindon",
+"Inhabitant": "Elves",
+"English": "\"Northhaven\"",
+"Sindarin": "Forlond"
+},
+"also": [
+"Harbors"
+]
+},
+{
+"id": "TO035",
+"layer": "Towns",
+"name": "Fornost Erain",
+"x": 649.9,
+"y": 1514.3,
+"attrs": {
+"Type": "City/Fortress",
+"Location": "North Downs",
+"Realm": "Arthedain",
+"Inhabitant": "Dúnedain",
+"Comments": "Abandoned T.A. 1974",
+"English": "\"Northern Fortress (of the) Kings\"; Deadman's Dike (colloquial)",
+"Westron": "Norbury of the Kings",
+"Sindarin": "Fornost Erain"
+},
+"also": [
+"Fortresses"
+]
+},
+{
+"id": "TO036",
+"layer": "Towns",
+"name": "Framsburg",
+"x": 1214.2,
+"y": 1644.7,
+"attrs": {
+"Type": "Capital city",
+"Location": "Northwestern Wilderland at the source of the Anduin",
+"Realm": "Lands of the Éothéod",
+"Inhabitant": "Éothéod (originally); Abandoned",
+"Comments": "Abandoned circa T.A. 2510"
+}
+},
+{
+"id": "TO037",
+"layer": "Towns",
+"name": "Frogmorton",
+"x": 577.6,
+"y": 1423.8,
+"attrs": {
+"Type": "Village",
+"Location": "Eastfarthing, along the East Road",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Frogmorton; \"marshy land town/village\""
+}
+},
+{
+"id": "TO038",
+"layer": "Towns",
+"name": "Gamwich",
+"x": 444.4,
+"y": 1467.4,
+"attrs": {
+"Type": "Village",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Gamwich; \"game-village\"",
+"Westron": "Galabas (Hobbitish dialect)"
+}
+},
+{
+"id": "TO039",
+"layer": "Towns",
+"name": "Goblin-town",
+"x": 1188.7,
+"y": 1527.4,
+"attrs": {
+"Type": "City",
+"Location": "Central Misty Mountains east of Rivendell",
+"Realm": "Misty Mountains",
+"Inhabitant": "Goblins/Orcs",
+"English": "Goblin-town"
+}
+},
+{
+"id": "TO042",
+"layer": "Towns",
+"name": "Greenholm",
+"x": 463.6,
+"y": 1387.7,
+"attrs": {
+"Type": "Town or village",
+"Location": "Far Downs",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Greenholm; \"green island\""
+}
+},
+{
+"id": "TO043",
+"layer": "Towns",
+"name": "Grey Havens",
+"x": 307.6,
+"y": 1419.8,
+"attrs": {
+"Type": "Seaport",
+"Location": "Western Eriador, central Lindon",
+"Realm": "Lindon",
+"Inhabitant": "Elves",
+"English": "Grey Havens",
+"Sindarin": "Mithlond"
+},
+"also": [
+"Harbors"
+]
+},
+{
+"id": "TO045",
+"layer": "Towns",
+"name": "Harlond (Gondor)",
+"x": 1430.2,
+"y": 649.4,
+"attrs": {
+"Type": "Harbor",
+"Location": "West bank of Anduin a few miles south of Minas Tirith",
+"Realm": "Gondor",
+"Inhabitant": "Gondorians",
+"English": "\"Southhaven\"",
+"Sindarin": "Harlond"
+},
+"also": [
+"Harbors"
+]
+},
+{
+"id": "TO046",
+"layer": "Towns",
+"name": "Harlond (Lindon)",
+"x": 176.5,
+"y": 1350.4,
+"attrs": {
+"Type": "Seaport",
+"Location": "150 miles south-west of Mithlond, on the southern shores of the Gulf of Lhûn",
+"Realm": "Lindon",
+"Inhabitant": "Elves",
+"English": "\"Southhaven\"",
+"Sindarin": "Harlond"
+},
+"also": [
+"Harbors"
+]
+},
+{
+"id": "TO049",
+"layer": "Towns",
+"name": "Haysend",
+"x": 596.6,
+"y": 1383.3,
+"attrs": {
+"Type": "Village",
+"Location": "Southern tip of Buckland",
+"Realm": "Buckland",
+"Inhabitant": "Hobbits",
+"English": "\"hay's end\""
+}
+},
+{
+"id": "TO050",
+"layer": "Towns",
+"name": "Hobbiton",
+"x": 550.4,
+"y": 1426.4,
+"attrs": {
+"Type": "Village",
+"Location": "Westfarthing, central Shire",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Hobbiton"
+}
+},
+{
+"id": "TO051",
+"layer": "Towns",
+"name": "Kingdom under the Mountain",
+"x": 1524.0,
+"y": 1604.9,
+"attrs": {
+"Type": "Realm",
+"Location": "The Lonely Mountain",
+"Realm": "Erebor",
+"Inhabitant": "Durin's Folk/Longbeards (Dwarves)",
+"Comments": "Reclaimed T.A. 2941",
+"English": "Kingdom under the Mountain"
+}
+},
+{
+"id": "TO053",
+"layer": "Towns",
+"name": "Lake-town",
+"x": 1553.2,
+"y": 1546.4,
+"attrs": {
+"Type": "Town or city",
+"Location": "Rhovanion",
+"Realm": "Kingdom of Dale",
+"Inhabitant": "Lake-men",
+"English": "Lake-town; Esgaroth; Esgaroth upon the Long Lake"
+}
+},
+{
+"id": "TO054",
+"layer": "Towns",
+"name": "Linhir",
+"x": 1204.0,
+"y": 526.8,
+"attrs": {
+"Type": "Town/Seaport",
+"Location": "West of the confluence of the Gilrain and Serni in southern Gondor",
+"Realm": "Gondor",
+"Inhabitant": "Gondorians",
+"English": "Little Delving",
+"Sindarin": "Linhir"
+}
+},
+{
+"id": "TO055",
+"layer": "Towns",
+"name": "Little Delving",
+"x": 470.0,
+"y": 1421.2,
+"attrs": {
+"Type": "Village",
+"Location": "North-east of the Westfarthing",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"Other": "Lytel Delfing (Old Hobbitish)"
+}
+},
+{
+"id": "TO056",
+"layer": "Towns",
+"name": "Lond Daer",
+"x": 534.7,
+"y": 978.7,
+"attrs": {
+"Type": "Harbor",
+"Location": "Eriador, in Enedwaith, on the Gwathló river",
+"Realm": "Arnor",
+"Inhabitant": "Númenóreans",
+"Comments": "Abandoned after the Downfall of Númenor; ruins by the Third Age",
+"English": "\"Great Haven\"",
+"Quenya": "Vinyalondë (\"New Haven\")",
+"Sindarin": "Lond Daer Enedh (\"Great Haven\")"
+},
+"also": [
+"Harbors"
+]
+},
+{
+"id": "TO058",
+"layer": "Towns",
+"name": "Long Cleeve",
+"x": 499.9,
+"y": 1471.5,
+"attrs": {
+"Type": "Town",
+"Location": "Northfarthing",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Long Cleeve; Long \"cliff/hill\"",
+"Other": "Langbotm (Old Hobbitish)"
+}
+},
+{
+"id": "TO059",
+"layer": "Towns",
+"name": "Longbottom",
+"x": 538.8,
+"y": 1344.7,
+"attrs": {
+"Type": "Town or village",
+"Location": "Southfarthing",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Longbottom; \"Long Valley\""
+}
+},
+{
+"id": "TO061",
+"layer": "Towns",
+"name": "Michel Delving",
+"x": 478.3,
+"y": 1397.7,
+"attrs": {
+"Type": "Town",
+"Location": "White Downs in the Westfarthing, along the East Road",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "\"Large Excavation\"",
+"Other": "Micel Delfing (Old Hobbitish)"
+}
+},
+{
+"id": "TO064",
+"layer": "Towns",
+"name": "Minas Morgul",
+"x": 1506.5,
+"y": 680.0,
+"attrs": {
+"Type": "Tower/City",
+"Location": "On Ephel Dúath, Western Mordor",
+"Realm": "Mordor",
+"Inhabitant": "Orcs",
+"English": "\"Tower of Dark Sorcery\", Dead City; \"Tower of the Moon\" (formerly), Tower of the Rising Moon, Moon-tower (formerly)",
+"Sindarin": "Minas Morgul; Minas Ithil (formerly)"
+},
+"also": [
+"Fortresses"
+]
+},
+{
+"id": "TO065",
+"layer": "Towns",
+"name": "Minas Tirith",
+"x": 1428.8,
+"y": 653.1,
+"attrs": {
+"Type": "Tower/Capital city",
+"Location": "Easternmost point of the White Mountains, close to Anduin",
+"Realm": "Gondor",
+"Inhabitant": "Gondorians",
+"English": "\"Tower of the Guard\"; The Guarded City; \"Tower of the Sun\" (formerly)",
+"Sindarin": "Minas Tirith; Minas Arnor (formerly)",
+"Rohirric": "Mundburg (\"Protecting Hill\")",
+"Other": "Stone-houses (Woses of Drúadan Forest)"
+},
+"also": [
+"Fortresses"
+]
+},
+{
+"id": "TO066",
+"layer": "Towns",
+"name": "Moria",
+"x": 1111.8,
+"y": 1283.7,
+"attrs": {
+"Type": "City",
+"Location": "Middle of the Misty Mountains, beneath Celebdil, Caradhras and Fanuidhol",
+"Realm": "Khazad-dûm",
+"Inhabitant": "Durin's Folk/Longbeards (Dwarves)",
+"Comments": "Colony defeated T.A. 2994",
+"Westron": "Phurunargian (\"Dwarrowdelf\"/ \"Dwarf-delving\")",
+"Quenya": "Casarrondo",
+"Sindarin": "Moria (\"Dark Chasm\"), Hadhodrond",
+"Khuzdul": "Khazad-dûm (\"Dwarves' Mansion(s)\")"
+}
+},
+{
+"id": "TO069",
+"layer": "Towns",
+"name": "Needlehole",
+"x": 518.4,
+"y": 1441.8,
+"attrs": {
+"Type": "Town",
+"Location": "Westfarthing, near the border of the Northfarthing",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Needlehole"
+}
+},
+{
+"id": "TO070",
+"layer": "Towns",
+"name": "Newbury",
+"x": 610.3,
+"y": 1416.8,
+"attrs": {
+"Type": "Town",
+"Location": "North-eastern Buckland",
+"Realm": "Buckland",
+"Inhabitant": "Hobbits",
+"English": "Newbury"
+}
+},
+{
+"id": "TO072",
+"layer": "Towns",
+"name": "Nobottle",
+"x": 496.4,
+"y": 1433.4,
+"attrs": {
+"Type": "Town",
+"Location": "Westfarthing, west of Needlehole",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Nobottle",
+"Other": "Neowebotl (Old Hobbitish)"
+}
+},
+{
+"id": "TO075",
+"layer": "Towns",
+"name": "Oatbarton",
+"x": 566.1,
+"y": 1471.3,
+"attrs": {
+"Type": "Town or village",
+"Location": "Northfarthing",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Oatbarton"
+}
+},
+{
+"id": "TO078",
+"layer": "Towns",
+"name": "Osgiliath",
+"x": 1460.9,
+"y": 666.3,
+"attrs": {
+"Type": "City",
+"Location": "Anduin, between Minas Tirith and Minas Morgul",
+"Realm": "Gondor",
+"Inhabitant": "Gondorians",
+"Comments": "Original capital of Gondor",
+"English": "\"Fortress of the Host of Stars\"; \"Citadel of the Stars\"",
+"Sindarin": "Osgiliath (\"Citadel of the Stars\")"
+}
+},
+{
+"id": "TO079",
+"layer": "Towns",
+"name": "Ost-in-Edhil",
+"x": 897.8,
+"y": 1154.3,
+"attrs": {
+"Type": "Capital city",
+"Location": "At the confluence of Sirannon and Glanduin",
+"Realm": "Eregion",
+"Inhabitant": "Noldor, Celebrimbor",
+"Comments": "Destroyed S.A. 1697; encountered in ruins by the Fellowship",
+"English": "\"Fortress of the Elves\"",
+"Sindarin": "Ost-in-Edhil"
+}
+},
+{
+"id": "TO080",
+"layer": "Towns",
+"name": "Overhill",
+"x": 549.9,
+"y": 1436.3,
+"attrs": {
+"Type": "Village",
+"Location": "Westfarthing, north of Hobbiton",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Overhill"
+}
+},
+{
+"id": "TO081",
+"layer": "Towns",
+"name": "Pelargir",
+"x": 1370.6,
+"y": 526.9,
+"attrs": {
+"Type": "City",
+"Location": "Southern Gondor, on the Anduin",
+"Realm": "Gondor",
+"Inhabitant": "Gondorians",
+"English": "\"Garth of [the] Royal Ships\"",
+"Sindarin": "Pelargir"
+},
+"also": [
+"Harbors"
+]
+},
+{
+"id": "TO082",
+"layer": "Towns",
+"name": "Pincup",
+"x": 552.5,
+"y": 1396.5,
+"attrs": {
+"Type": "Village",
+"Location": "Northern corner of the Southfarthing",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Pincup"
+}
+},
+{
+"id": "TO083",
+"layer": "Towns",
+"name": "Quarry",
+"x": 597.8,
+"y": 1449.1,
+"attrs": {
+"Type": "Village?",
+"Location": "Northern Eastfarthing",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Quarry"
+}
+},
+{
+"id": "TO084",
+"layer": "Towns",
+"name": "Rivendell",
+"x": 1112.6,
+"y": 1485.2,
+"attrs": {
+"Type": "Town",
+"Location": "West of Hithaeglir",
+"Realm": "Elrond's dominion",
+"Inhabitant": "Elves, Elrond, Bilbo (during the War of the Ring)",
+"English": "Rivendell; the Last Homely House",
+"Westron": "Karningul",
+"Sindarin": "Imladris (\"deep dale of the cleft\")"
+}
+},
+{
+"id": "TO087",
+"layer": "Towns",
+"name": "Rushey",
+"x": 589.7,
+"y": 1394.3,
+"attrs": {
+"Type": "Village",
+"Location": "Eastfarthing, south of the Marish",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Rushey; \"Rush-isle\"",
+"Other": "Ryscieg (Old Hobbitish)"
+}
+},
+{
+"id": "TO088",
+"layer": "Towns",
+"name": "Scary",
+"x": 594.4,
+"y": 1449.0,
+"attrs": {
+"Type": "Village",
+"Location": "Northern parts of the Eastfarthing",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits; Sharkey's Men",
+"English": "Scary"
+}
+},
+{
+"id": "TO089",
+"layer": "Towns",
+"name": "Staddle",
+"x": 668.2,
+"y": 1433.5,
+"attrs": {
+"Type": "Village",
+"Location": "Central Eriador, near Bree",
+"Realm": "Bree-land",
+"Inhabitant": "Men, Hobbits",
+"English": "Staddle"
+}
+},
+{
+"id": "TO090",
+"layer": "Towns",
+"name": "Standelf",
+"x": 597.0,
+"y": 1395.7,
+"attrs": {
+"Type": "Village",
+"Location": "Southern Buckland",
+"Realm": "Buckland",
+"Inhabitant": "Hobbits",
+"English": "\"Stone-delving\"",
+"Other": "Stangedelf (Old Hobbitish)"
+}
+},
+{
+"id": "TO091",
+"layer": "Towns",
+"name": "Stock",
+"x": 599.1,
+"y": 1411.2,
+"attrs": {
+"Type": "Town",
+"Location": "Eastfarthing, north of the Marish",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Stock"
+}
+},
+{
+"id": "TO093",
+"layer": "Towns",
+"name": "Tharbad",
+"x": 731.0,
+"y": 1146.4,
+"attrs": {
+"Type": "Town",
+"Location": "Eriador, on the Gwathló river",
+"Realm": "Abandoned",
+"Inhabitant": "Men",
+"Comments": "In ruins at the time of the War of the Ring; the bridge is ruined and hazardous",
+"English": "\"road-crossing\"; \"the Stepping Stones\"",
+"Sindarin": "Tharbad"
+},
+"also": [
+"Fords"
+]
+},
+{
+"id": "TO094",
+"layer": "Towns",
+"name": "Tighfield",
+"x": 451.0,
+"y": 1438.6,
+"attrs": {
+"Type": "Town or village",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Tighfield"
+}
+},
+{
+"id": "TO096",
+"layer": "Towns",
+"name": "Tookbank",
+"x": 530.2,
+"y": 1403.7,
+"attrs": {
+"Type": "Village",
+"Location": "Westfarthing, slightly west of Tuckborough",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Tookbank; \"slope of the Tooks\"",
+"Other": "Tucbanca (Old Hobbitish)"
+}
+},
+{
+"id": "TO097",
+"layer": "Towns",
+"name": "Tuckborough",
+"x": 537.2,
+"y": 1403.7,
+"attrs": {
+"Type": "Town",
+"Location": "Westfarthing",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Tuckborough"
+}
+},
+{
+"id": "TO100",
+"layer": "Towns",
+"name": "Underharrow",
+"x": 1054.2,
+"y": 831.1,
+"attrs": {
+"Type": "Hamlet",
+"Realm": "Rohan",
+"Inhabitant": "Rohirrim",
+"English": "\"under-fane\""
+}
+},
+{
+"id": "TO101",
+"layer": "Towns",
+"name": "Underhill (village)",
+"x": 551.7,
+"y": 1430.6,
+"attrs": {
+"Type": "Village",
+"Location": "Part of Hobbiton",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"Comments": "Part of Hobbiton (TO050)",
+"English": "Underhill"
+}
+},
+{
+"id": "TO102",
+"layer": "Towns",
+"name": "Undertowers",
+"x": 375.3,
+"y": 1411.7,
+"attrs": {
+"Location": "Westmarch of the Shire",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits, Elanor Gardner (Sam's daughter), Fairbarn Family",
+"Comments": "Fourth Age",
+"English": "Undertowers"
+}
+},
+{
+"id": "TO103",
+"layer": "Towns",
+"name": "Upbourn",
+"x": 1054.3,
+"y": 830.4,
+"attrs": {
+"Type": "Hamlet",
+"Location": "South of Edoras, on the banks of the Snowbourn, in the valley of Harrowdale",
+"Realm": "Rohan",
+"Inhabitant": "Rohirrim",
+"English": "Upbourn",
+"Rohirric": "Upburnan"
+}
+},
+{
+"id": "TO107",
+"layer": "Towns",
+"name": "Waymeet",
+"x": 526.8,
+"y": 1413.9,
+"attrs": {
+"Type": "Town",
+"Location": "Westfarthing, on the East Road",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits; Sharkey's Men (during the War of the Ring)",
+"English": "Waymeet"
+}
+},
+{
+"id": "TO108",
+"layer": "Towns",
+"name": "Whitfurrows",
+"x": 593.0,
+"y": 1426.6,
+"attrs": {
+"Type": "Village",
+"Location": "The Eastfarthing, on the East Road",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits; Shirriffs (during the War of the Ring)",
+"English": "Whitfurrows; \"white furrows\"",
+"Other": "Hwitfure (Old Hobbitish)"
+}
+},
+{
+"id": "TO109",
+"layer": "Towns",
+"name": "Whitwell",
+"x": 523.0,
+"y": 1403.5,
+"attrs": {
+"Location": "the Green Hills",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits; Thain Paladin Took II (Pippin's father)",
+"English": "Whitwel; \"white spring\"",
+"Other": "Hwitwielle (Old Hobbitish)"
+}
+},
+{
+"id": "TO110",
+"layer": "Towns",
+"name": "Willowbottom",
+"x": 575.4,
+"y": 1378.7,
+"attrs": {
+"Type": "Village",
+"Location": "The Eastfarthing, near Woody End",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Willowbottom"
+}
+},
+{
+"id": "TO111",
+"layer": "Towns",
+"name": "Woodhall",
+"x": 582.6,
+"y": 1404.6,
+"attrs": {
+"Type": "Village",
+"Location": "The Eastfarthing within the woods of Woody End",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Woodhall; \"hall in a wood\"",
+"Other": "Wuduheall (Old Hobbitish)"
+}
+},
+{
+"id": "FT004",
+"layer": "Fortresses",
+"name": "Barad-dûr",
+"x": 1631.9,
+"y": 747.2,
+"attrs": {
+"Type": "Tower",
+"Realm": "Mordor",
+"Inhabitant": "Sauron, Nazgûl, Orcs",
+"English": "\"Dark Tower\"",
+"Sindarin": "Barad-Dûr",
+"Other": "Lugbúrz (Black Speech)"
+},
+"also": [
+"Buildings"
+]
+},
+{
+"id": "FT005",
+"layer": "Fortresses",
+"name": "Black Gate",
+"x": 1524.8,
+"y": 856.1,
+"attrs": {
+"Type": "Gate",
+"Realm": "Mordor",
+"Inhabitant": "Gondorians (originally); Orcs (during the War of the Ring)",
+"English": "Black Gate",
+"Sindarin": "Morannon"
+},
+"also": [
+"Doors_Gates"
+]
+},
+{
+"id": "FT006",
+"layer": "Fortresses",
+"name": "Carchost",
+"x": 1527.1,
+"y": 856.4,
+"attrs": {
+"Type": "Tower",
+"Realm": "Mordor",
+"Inhabitant": "Gondorians (originally); forces of Sauron (during the War of the Ring)",
+"English": "\"fang fort\"",
+"Sindarin": "Carchost"
+},
+"also": [
+"Buildings"
+]
+},
+{
+"id": "FT008",
+"layer": "Fortresses",
+"name": "Dol Guldur",
+"x": 1341.6,
+"y": 1232.5,
+"attrs": {
+"Type": "Fortress",
+"Realm": "Mirkwood",
+"Inhabitant": "Sauron, forces of Sauron, Khamûl",
+"English": "\"Hill of Sorcery\"",
+"Sindarin": "Dol Guldur"
+},
+"also": [
+"Buildings",
+"Hills"
+]
+},
+{
+"id": "FT009",
+"layer": "Fortresses",
+"name": "Dunharrow",
+"x": 1051.5,
+"y": 820.7,
+"attrs": {
+"Type": "Fortified refuge",
+"Realm": "Rohan",
+"Inhabitant": "Rohirrim",
+"English": "\"the heathen fane on the hillside\"",
+"Westron": "Dunharrow",
+"Rohirric": "Dúnharg/Dūnhaerg"
+}
+},
+{
+"id": "FT010",
+"layer": "Fortresses",
+"name": "Durthang",
+"x": 1501.5,
+"y": 788.0,
+"attrs": {
+"Type": "Fortress",
+"Realm": "Mordor",
+"Inhabitant": "Gondorians (originally); Orcs (during the War of the Ring)",
+"English": "\"Dark oppression\"",
+"Sindarin": "Durthang"
+},
+"also": [
+"Buildings"
+]
+},
+{
+"id": "FT014",
+"layer": "Fortresses",
+"name": "Helm's Deep",
+"x": 966.7,
+"y": 899.9,
+"attrs": {
+"Type": "Defensive System",
+"Realm": "Rohan",
+"Inhabitant": "Gondorians; Rohirrim",
+"English": "Helm's Deep"
+}
+},
+{
+"id": "FT016",
+"layer": "Fortresses",
+"name": "Hornburg",
+"x": 966.7,
+"y": 899.9,
+"attrs": {
+"Type": "Fortress",
+"Realm": "Rohan",
+"Inhabitant": "Gondorians; Rohirrim",
+"English": "horn fortress",
+"Rohirric": "Hornburg; Súthburg (\"southern fortress\"; former name)"
+}
+},
+{
+"id": "FT017",
+"layer": "Fortresses",
+"name": "Isengard",
+"x": 963.1,
+"y": 997.2,
+"attrs": {
+"Type": "Fortress",
+"Realm": "Rohan; Saruman's domain",
+"Inhabitant": "Dúnedain, Dunlendings; Saruman, Orcs, Wicked men; Ents, Huorns",
+"English": "\"Iron Fortress\"; \"Iron-courd\"",
+"Sindarin": "Angrenost",
+"Rohirric": "Isengard"
+}
+},
+{
+"id": "FT021",
+"layer": "Fortresses",
+"name": "Narchost",
+"x": 1521.4,
+"y": 856.2,
+"attrs": {
+"Type": "Tower",
+"Realm": "Mordor",
+"Inhabitant": "Gondorians (originally); forces of Sauron (during the War of the Ring)",
+"English": "\"bitter-biting fort\"",
+"Sindarin": "Narchost"
+},
+"also": [
+"Buildings"
+]
+},
+{
+"id": "FT025",
+"layer": "Fortresses",
+"name": "Tower of Cirith Ungol",
+"x": 1543.7,
+"y": 688.1,
+"attrs": {
+"Type": "Tower",
+"Realm": "Mordor",
+"Inhabitant": "Forces of Sauron",
+"English": "\"Spider's cleft\"",
+"Sindarin": "Cirith Ungol"
+},
+"also": [
+"Buildings"
+]
+},
+{
+"id": "HA008",
+"layer": "Harbors",
+"name": "Grindwall",
+"x": 599.5,
+"y": 1381.8,
+"attrs": {
+"Realm": "Arnor",
+"English": "Grindwall"
+}
+},
+{
+"id": "HA012",
+"layer": "Harbors",
+"name": "Mithe Steps",
+"x": 591.4,
+"y": 1385.2,
+"attrs": {
+"Realm": "The Shire",
+"Inhabitant": "None",
+"English": "Mithe Steps"
+}
+},
+{
+"id": "BU030",
+"layer": "Buildings",
+"name": "Bag End",
+"x": 544.2,
+"y": 1431.3,
+"attrs": {
+"Type": "Building",
+"Realm": "The Shire",
+"Inhabitant": "Bilbo, Frodo, Hobbits",
+"English": "Bag End",
+"Westron": "Laban-neg; Labin-nec"
+}
+},
+{
+"id": "BU029",
+"layer": "Buildings",
+"name": "White Towers",
+"x": 368.8,
+"y": 1419.4,
+"attrs": {
+"Type": "Tower",
+"Realm": "Lindon",
+"Inhabitant": "Elves",
+"Comments": "Includes Elostirion (BU015) along with two other towers",
+"English": "White Towers"
+}
+},
+{
+"id": "BU001",
+"layer": "Buildings",
+"name": "All-Welcome Inn",
+"x": 570.1,
+"y": 1421.9,
+"attrs": {
+"Type": "Inn",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "All-Welcome Inn"
+}
+},
+{
+"id": "BU015",
+"layer": "Buildings",
+"name": "Elostirion",
+"x": 361.0,
+"y": 1416.7,
+"attrs": {
+"Type": "Tower",
+"Realm": "Arnor",
+"Inhabitant": "Elves",
+"Sindarin": "Elostirion"
+}
+},
+{
+"id": "BU002",
+"layer": "Buildings",
+"name": "Bridge Inn",
+"x": 607.0,
+"y": 1426.0,
+"attrs": {
+"Type": "Inn",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Bridge Inn"
+}
+},
+{
+"id": "BU004",
+"layer": "Buildings",
+"name": "Green Dragon",
+"x": 554.7,
+"y": 1425.3,
+"attrs": {
+"Type": "Inn",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Green Dragon"
+}
+},
+{
+"id": "BU007",
+"layer": "Buildings",
+"name": "The Floating Log",
+"x": 577.6,
+"y": 1423.8,
+"attrs": {
+"Type": "Inn",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "The Floating Log"
+}
+},
+{
+"id": "BU008",
+"layer": "Buildings",
+"name": "The Golden Perch",
+"x": 599.1,
+"y": 1411.2,
+"attrs": {
+"Type": "Inn",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "The Golden Perch"
+}
+},
+{
+"id": "BU009",
+"layer": "Buildings",
+"name": "The Prancing Pony",
+"x": 665.2,
+"y": 1433.9,
+"attrs": {
+"Type": "Inn",
+"Realm": "Bree-land",
+"Inhabitant": "Bree-men, Hobbits, Barliman Butterbur, Nob, Bob",
+"English": "The Prancing Pony"
+}
+},
+{
+"id": "BU014",
+"layer": "Buildings",
+"name": "Durin's Tower",
+"x": 1070.4,
+"y": 1217.4,
+"attrs": {
+"Type": "Tower",
+"Realm": "Khazad-dûm",
+"Inhabitant": "Dwarves (originally); uninhabited (during the War of the Ring)",
+"English": "Durin's Tower"
+}
+},
+{
+"id": "BU021",
+"layer": "Buildings",
+"name": "Orthanc",
+"x": 962.9,
+"y": 997.1,
+"attrs": {
+"Type": "Tower",
+"Realm": "Gondor",
+"Inhabitant": "Dúnedain, Gondorians, Saruman (during the War of the Ring)",
+"English": "\"Mount Fang\" (Sindarin); \"Cunning Mind\" (Old English/Rohirric)",
+"Sindarin": "Orthanc",
+"Rohirric": "Orthanc"
+}
+},
+{
+"id": "BU026",
+"layer": "Buildings",
+"name": "Tower of Ecthelion",
+"x": 1428.9,
+"y": 653.7,
+"attrs": {
+"Type": "Tower",
+"Realm": "Gondor",
+"Inhabitant": "Gondorians",
+"English": "Tower of Ectelion; White Tower; Tower of Denthor"
+}
+},
+{
+"id": "BU031",
+"layer": "Buildings",
+"name": "Beorn's Hall",
+"x": 1291.5,
+"y": 1521.6,
+"attrs": {
+"Type": "Building",
+"Inhabitant": "Beorn (Man)",
+"English": "Beorn's Hall"
+}
+},
+{
+"id": "BU032",
+"layer": "Buildings",
+"name": "Brandy Hall",
+"x": 607.3,
+"y": 1408.3,
+"attrs": {
+"Type": "Building",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Brandy Hall"
+}
+},
+{
+"id": "BU034",
+"layer": "Buildings",
+"name": "Chamber of Mazarbul",
+"x": 1110.9,
+"y": 1283.9,
+"attrs": {
+"Type": "Building",
+"Realm": "Khazad-dûm",
+"Inhabitant": "Balin; Dwarves; uninhabited during the War of the Ring",
+"English": "Chamber of \"records\"",
+"Khuzdul": "Chamber of Mazarbul"
+}
+},
+{
+"id": "BU036",
+"layer": "Buildings",
+"name": "Cracks of Doom",
+"x": 1614.3,
+"y": 732.0,
+"attrs": {
+"Type": "Building",
+"Realm": "Mordor",
+"Inhabitant": "Sauron",
+"English": "Cracks of Doom",
+"Sindarin": "Sammath Naur"
+}
+},
+{
+"id": "BU038",
+"layer": "Buildings",
+"name": "Dome of Stars",
+"x": 1460.8,
+"y": 665.6,
+"attrs": {
+"Type": "Building",
+"Realm": "Gondor",
+"Inhabitant": "Gondorians",
+"English": "Dome of Stars"
+}
+},
+{
+"id": "BU041",
+"layer": "Buildings",
+"name": "Endless Stair",
+"x": 1110.9,
+"y": 1284.1,
+"attrs": {
+"Type": "Building",
+"Realm": "Khazad-dûm",
+"Inhabitant": "Uninhabited during the War of the Ring",
+"Comments": "Make this a line feature",
+"English": "Endless Stair"
+}
+},
+{
+"id": "BU042",
+"layer": "Buildings",
+"name": "Ent-houses",
+"x": 1031.4,
+"y": 1010.6,
+"attrs": {
+"Type": "Building",
+"Inhabitant": "Ents",
+"English": "Ent-houses"
+}
+},
+{
+"id": "BU045",
+"layer": "Buildings",
+"name": "First Hall",
+"x": 1143.7,
+"y": 1246.4,
+"attrs": {
+"Type": "Building",
+"Realm": "Khazad-dûm",
+"Inhabitant": "Dwarves (originally); Uninhabited during the War of the Ring",
+"English": "First Hall"
+}
+},
+{
+"id": "BU047",
+"layer": "Buildings",
+"name": "Great Chamber of Thrór",
+"x": 1527.8,
+"y": 1601.5,
+"attrs": {
+"Type": "Building",
+"Realm": "Erebor",
+"Inhabitant": "Dwarves; Smaug",
+"English": "Great Chamber of Thrór"
+}
+},
+{
+"id": "BU048",
+"layer": "Buildings",
+"name": "Great Hall of Feasts",
+"x": 1428.9,
+"y": 653.9,
+"attrs": {
+"Type": "Building",
+"Realm": "Gondor",
+"Inhabitant": "Gondorians",
+"English": "Great Hall of Feasts",
+"Sindarin": "Merethrond"
+}
+},
+{
+"id": "BU049",
+"layer": "Buildings",
+"name": "Great Hall of Osgiliath",
+"x": 1460.5,
+"y": 666.6,
+"attrs": {
+"Type": "Building",
+"Realm": "Gondor",
+"Inhabitant": "Gondorians",
+"English": "Great Hall of Osgiliath"
+}
+},
+{
+"id": "BU050",
+"layer": "Buildings",
+"name": "Great Hall of Thráin",
+"x": 1523.0,
+"y": 1607.0,
+"attrs": {
+"Type": "Building",
+"Realm": "Erebor",
+"Inhabitant": "Dwarves; Smaug",
+"English": "Great Hall of Thráin"
+}
+},
+{
+"id": "BU051",
+"layer": "Buildings",
+"name": "Great House",
+"x": 1553.1,
+"y": 1546.4,
+"attrs": {
+"Type": "Building",
+"Realm": "Esgaroth",
+"Inhabitant": "Men",
+"English": "Great House"
+}
+},
+{
+"id": "BU052",
+"layer": "Buildings",
+"name": "Great Smials",
+"x": 537.0,
+"y": 1403.6,
+"attrs": {
+"Type": "Building",
+"Realm": "The Shire",
+"Inhabitant": "Took family (Hobbits)",
+"English": "Great Smials"
+}
+},
+{
+"id": "BU054",
+"layer": "Buildings",
+"name": "Hall of Fire",
+"x": 1113.1,
+"y": 1484.9,
+"attrs": {
+"Type": "Building",
+"Realm": "Rivendell",
+"Inhabitant": "Elrond",
+"English": "Hall of Fire"
+}
+},
+{
+"id": "BU003",
+"layer": "Buildings",
+"name": "The Forsaken Inn",
+"x": 688.4,
+"y": 1430.3,
+"attrs": {
+"Type": "Inn",
+"Realm": "Bree-land",
+"Inhabitant": "(Abandoned) Bree-men, Hobbits",
+"English": "The Forsaken Inn"
+}
+},
+{
+"id": "BU005",
+"layer": "Buildings",
+"name": "Ivy Bush",
+"x": 554.7,
+"y": 1425.3,
+"attrs": {
+"Type": "Inn",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Ivy Bush"
+}
+},
+{
+"id": "BU023",
+"layer": "Buildings",
+"name": "Sea-ward Tower",
+"x": 1026.4,
+"y": 551.8,
+"attrs": {
+"Type": "Tower",
+"Realm": "Gondor",
+"Inhabitant": "Gondorians",
+"English": "Sea-ward Tower",
+"Sindarin": "Tirith Aear"
+}
+},
+{
+"id": "BU053",
+"layer": "Buildings",
+"name": "Grimslade",
+"x": 975.0,
+"y": 886.9,
+"attrs": {
+"Type": "Building",
+"Realm": "Rohan",
+"Inhabitant": "Rohirrim, Grimbold",
+"English": "Grimslade",
+"Rohirric": "Grimslaed"
+}
+},
+{
+"id": "BU061",
+"layer": "Buildings",
+"name": "House of the Mírdain",
+"x": 897.7,
+"y": 1154.6,
+"attrs": {
+"Type": "Building",
+"Realm": "Eregion",
+"Inhabitant": "Noldor, Celebrimbor",
+"Comments": "Second Age; destroyed",
+"English": "House of the \"Jewel-smiths\"",
+"Sindarin": "[House of the] Mírdain"
+}
+},
+{
+"id": "BU063",
+"layer": "Buildings",
+"name": "Houses of Healing",
+"x": 1428.7,
+"y": 653.3,
+"attrs": {
+"Type": "Building",
+"Realm": "Gondor",
+"Inhabitant": "Gondorians",
+"English": "Houses of Healing"
+}
+},
+{
+"id": "BU064",
+"layer": "Buildings",
+"name": "Huts of the raft-elves",
+"x": 1493.9,
+"y": 1571.0,
+"attrs": {
+"Type": "Building",
+"Realm": "Mirkwood",
+"Inhabitant": "Raft-elves",
+"English": "Huts of the raft-elves"
+}
+},
+{
+"id": "BU066",
+"layer": "Buildings",
+"name": "King's House",
+"x": 1460.7,
+"y": 666.6,
+"attrs": {
+"Type": "Building",
+"Realm": "Gondor",
+"Inhabitant": "Gondorian Kings (originally); uninhabited during the War of the Ring",
+"English": "King's House"
+}
+},
+{
+"id": "BU067",
+"layer": "Buildings",
+"name": "Lockholes",
+"x": 478.3,
+"y": 1397.7,
+"attrs": {
+"Type": "Building",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Lockholes"
+}
+},
+{
+"id": "BU069",
+"layer": "Buildings",
+"name": "Mathom-house",
+"x": 478.3,
+"y": 1397.7,
+"attrs": {
+"Type": "Building",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Mathom-house",
+"Westron": "kast (\"mathom\") [house]"
+}
+},
+{
+"id": "BU070",
+"layer": "Buildings",
+"name": "Meduseld",
+"x": 1051.2,
+"y": 836.6,
+"attrs": {
+"Type": "Building",
+"Realm": "Rohan",
+"Inhabitant": "Rohirrim",
+"English": "Golden Hall; \"Mead Hall\"/\"hall of feasts\"",
+"Rohirric": "Meduseld"
+}
+},
+{
+"id": "BU071",
+"layer": "Buildings",
+"name": "Old Grange",
+"x": 551.9,
+"y": 1430.8,
+"attrs": {
+"Type": "Building",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Old Grange"
+}
+},
+{
+"id": "BU072",
+"layer": "Buildings",
+"name": "Old Mill",
+"x": 552.5,
+"y": 1430.8,
+"attrs": {
+"Type": "Building",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Old Mill"
+}
+},
+{
+"id": "BU073",
+"layer": "Buildings",
+"name": "Rhosgobel",
+"x": 1315.3,
+"y": 1505.7,
+"attrs": {
+"Type": "Building",
+"Realm": "Mirkwood",
+"Inhabitant": "Radagast (Maia/Wizard)",
+"English": "\"russet village or 'town' (enclosure)\"",
+"Sindarin": "Rhosgobel"
+}
+},
+{
+"id": "BU074",
+"layer": "Buildings",
+"name": "Second Hall",
+"x": 1131.3,
+"y": 1263.1,
+"attrs": {
+"Type": "Building",
+"Realm": "Khazad-dûm",
+"Inhabitant": "Dwarves (originally); Uninhabited during the War of the Ring",
+"English": "Second Hall"
+}
+},
+{
+"id": "BU075",
+"layer": "Buildings",
+"name": "Shirriff-house",
+"x": 577.6,
+"y": 1423.8,
+"attrs": {
+"Type": "Building",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Shirriff-house"
+}
+},
+{
+"id": "BU080",
+"layer": "Buildings",
+"name": "Tower Hall",
+"x": 1428.9,
+"y": 653.7,
+"attrs": {
+"Type": "Building",
+"Realm": "Gondor",
+"Inhabitant": "Gondorians",
+"English": "Tower Hall"
+}
+},
+{
+"id": "BU081",
+"layer": "Buildings",
+"name": "Town Hole",
+"x": 478.3,
+"y": 1397.7,
+"attrs": {
+"Type": "Building",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits, mayor of Michel Delving",
+"English": "Town Hole"
+}
+},
+{
+"id": "BU082",
+"layer": "Buildings",
+"name": "Twenty-first Hall",
+"x": 1111.1,
+"y": 1283.3,
+"attrs": {
+"Type": "Building",
+"Realm": "Khazad-dûm",
+"Inhabitant": "Dwarves (originally); Uninhabited during the War of the Ring",
+"English": "Twenty-first Hall"
+}
+},
+{
+"id": "BU083",
+"layer": "Buildings",
+"name": "Two Watchers",
+"x": 1544.5,
+"y": 688.4,
+"attrs": {
+"Type": "Building",
+"Realm": "Mordor",
+"Inhabitant": "Forces of Sauron",
+"English": "Two Watchers"
+}
+},
+{
+"id": "BU085_54",
+"layer": "Buildings",
+"name": "Warning beacons of Gondor",
+"x": 1239.3,
+"y": 764.4,
+"attrs": {
+"Type": "Building",
+"Realm": "Gondor",
+"Inhabitant": "Gondorians",
+"Comments": "Series of points; should have a southern counterpart, but its location is unknown",
+"English": "Warning beacons of Gondor"
+}
+},
+{
+"id": "BU085_55",
+"layer": "Buildings",
+"name": "Warning beacons of Gondor",
+"x": 1292.9,
+"y": 758.7,
+"attrs": {
+"Type": "Building",
+"Realm": "Gondor",
+"Inhabitant": "Gondorians",
+"Comments": "Series of points; should have a southern counterpart, but its location is unknown",
+"English": "Warning beacons of Gondor"
+},
+"also": [
+"Buildings"
+]
+},
+{
+"id": "BU085_57",
+"layer": "Buildings",
+"name": "Warning beacons of Gondor",
+"x": 1337.3,
+"y": 730.8,
+"attrs": {
+"Type": "Building",
+"Realm": "Gondor",
+"Inhabitant": "Gondorians",
+"Comments": "Series of points; should have a southern counterpart, but its location is unknown",
+"English": "Warning beacons of Gondor"
+}
+},
+{
+"id": "BU085_58",
+"layer": "Buildings",
+"name": "Warning beacons of Gondor",
+"x": 1366.8,
+"y": 720.0,
+"attrs": {
+"Type": "Building",
+"Realm": "Gondor",
+"Inhabitant": "Gondorians",
+"Comments": "Series of points; should have a southern counterpart, but its location is unknown",
+"English": "Warning beacons of Gondor"
+}
+},
+{
+"id": "BU086",
+"layer": "Buildings",
+"name": "Wellinghall",
+"x": 1018.9,
+"y": 1031.8,
+"attrs": {
+"Type": "Building",
+"Realm": "Fangorn Forest",
+"Inhabitant": "Ents, Treebeard",
+"English": "\"hall (under or behind) the outflow of the spring of Entwash\""
+},
+"also": [
+"Cave_entrances"
+]
+},
+{
+"id": "BU088",
+"layer": "Buildings",
+"name": "Withy-weir",
+"x": 613.8,
+"y": 1387.4,
+"attrs": {
+"Type": "Building",
+"Realm": "Arnor",
+"English": "Withy-weir"
+}
+},
+{
+"id": "BU006",
+"layer": "Buildings",
+"name": "Old Guesthouse",
+"x": 1429.4,
+"y": 652.3,
+"attrs": {
+"Type": "Inn",
+"Realm": "Gondor",
+"Inhabitant": "Gondorians",
+"English": "Old Guesthouse",
+"Sindarin": "Sennas laur"
+}
+},
+{
+"id": "BU089",
+"layer": "Buildings",
+"name": "Black Pits",
+"x": 1631.9,
+"y": 747.3,
+"attrs": {
+"Type": "Building",
+"Realm": "Mordor",
+"Inhabitant": "Sauron, Nazgûl, Orcs",
+"English": "Black Pits"
+}
+},
+{
+"id": "BU090",
+"layer": "Buildings",
+"name": "Eagle's Eyrie",
+"x": 1230.8,
+"y": 1538.3,
+"attrs": {
+"Type": "Eyrie",
+"Realm": "Misty Mountains",
+"Inhabitant": "Eagles",
+"English": "Eagle's Eyrie"
+}
+},
+{
+"id": "BU085_65",
+"layer": "Buildings",
+"name": "Warning beacons of Gondor",
+"x": 1399.3,
+"y": 717.7,
+"attrs": {
+"Type": "Building",
+"Realm": "Gondor",
+"Inhabitant": "Gondorians",
+"Comments": "Series of points; should have a southern counterpart, but its location is unknown",
+"English": "Warning beacons of Gondor"
+}
+},
+{
+"id": "BU085_66",
+"layer": "Buildings",
+"name": "Warning beacons of Gondor",
+"x": 1427.6,
+"y": 709.3,
+"attrs": {
+"Type": "Building",
+"Realm": "Gondor",
+"Inhabitant": "Gondorians",
+"Comments": "Series of points; should have a southern counterpart, but its location is unknown",
+"English": "Warning beacons of Gondor"
+}
+},
+{
+"id": "DO002",
+"layer": "Doors_Gates",
+"name": "Argonath",
+"x": 1375.0,
+"y": 923.2,
+"attrs": {
+"Realm": "Gondor",
+"Owner": "Abandoned",
+"Maker": "Isildur and Anárion",
+"English": "Pillars of the Kings; Gates of Argonath; Gates of the Kings; Gates of Gondor",
+"Sindarin": "Argonath"
+}
+},
+{
+"id": "DO003",
+"layer": "Doors_Gates",
+"name": "Back Door",
+"x": 1513.3,
+"y": 1608.0,
+"attrs": {
+"Realm": "Erebor",
+"Owner": "Dwarves",
+"English": "Back Door"
+}
+},
+{
+"id": "DO005",
+"layer": "Doors_Gates",
+"name": "Buckland Gate",
+"x": 607.4,
+"y": 1426.1,
+"attrs": {
+"Realm": "The Shire",
+"Owner": "Hobbits of Buckland",
+"English": "Buckland Gate; Hay Gate; North Gate"
+}
+},
+{
+"id": "DO006",
+"layer": "Doors_Gates",
+"name": "Causeway Forts",
+"x": 1447.5,
+"y": 661.9,
+"attrs": {
+"Realm": "Gondor",
+"Owner": "Gondor",
+"English": "Causeway Forts"
+}
+},
+{
+"id": "DO007",
+"layer": "Doors_Gates",
+"name": "Dark Door",
+"x": 1052.3,
+"y": 816.2,
+"attrs": {
+"Realm": "King of the Dead's domain",
+"Owner": "King of the Dead",
+"English": "Dark Door; Gates of the Dead; Forbidden Door"
+}
+},
+{
+"id": "DO009",
+"layer": "Doors_Gates",
+"name": "Doors of Durin",
+"x": 1018.1,
+"y": 1199.7,
+"attrs": {
+"Realm": "Khazad-dûm",
+"Owner": "Dwarves",
+"Maker": "Celebrimbor and Narvi",
+"English": "Doors of Durin; West-gate; West-door of Moria; Elven Door; Moria Gate"
+}
+},
+{
+"id": "DO011",
+"layer": "Doors_Gates",
+"name": "Fen Hollen",
+"x": 1428.5,
+"y": 653.8,
+"attrs": {
+"Realm": "Gondor",
+"Owner": "A porter",
+"English": "Steward's Door; Closed Door; \"shut door\"",
+"Sindarin": "Fen Hollen"
+}
+},
+{
+"id": "DO012",
+"layer": "Doors_Gates",
+"name": "Forannest",
+"x": 1438.7,
+"y": 672.8,
+"attrs": {
+"Realm": "Gondor",
+"Owner": "Ingold",
+"English": "\"North Entrance\"",
+"Sindarin": "Forannest"
+}
+},
+{
+"id": "DO013",
+"layer": "Doors_Gates",
+"name": "Forest Gate",
+"x": 1283.5,
+"y": 1585.6,
+"attrs": {
+"Realm": "Mirkwood",
+"English": "Forest Gate"
+}
+},
+{
+"id": "DO014",
+"layer": "Doors_Gates",
+"name": "Front Gate",
+"x": 1528.2,
+"y": 1600.8,
+"attrs": {
+"Realm": "Erebor",
+"Owner": "Dwarves; Smaug",
+"Maker": "Dwarves",
+"English": "Front Gate; Gate of Erebor"
+}
+},
+{
+"id": "DO017",
+"layer": "Doors_Gates",
+"name": "Gate of Isengard",
+"x": 962.8,
+"y": 994.7,
+"attrs": {
+"Realm": "Rohan; Saruman's domain",
+"Owner": "Saruman",
+"English": "Gate of Isengard"
+}
+},
+{
+"id": "DO028",
+"layer": "Doors_Gates",
+"name": "Goblin-gate",
+"x": 1235.6,
+"y": 1533.9,
+"attrs": {
+"Realm": "Goblin-town",
+"Owner": "Orcs of the Misty Mountains",
+"Maker": "Orcs of the Misty Mountains",
+"English": "Goblin-gate; Back-door"
+}
+},
+{
+"id": "DO030",
+"layer": "Doors_Gates",
+"name": "Great Gate of Minas Tirith",
+"x": 1430.3,
+"y": 653.2,
+"attrs": {
+"Realm": "Gondor",
+"Owner": "Ruler of Gondor",
+"Maker": "Gondorians",
+"English": "Great Gate of Minas Tirith"
+}
+},
+{
+"id": "DO031",
+"layer": "Doors_Gates",
+"name": "Great Gates",
+"x": 1143.6,
+"y": 1246.3,
+"attrs": {
+"Realm": "Khazad-dûm",
+"English": "Great Gates; East Gates; Dimrill Gate; Moria Gate"
+}
+},
+{
+"id": "DO032",
+"layer": "Doors_Gates",
+"name": "Helm's Gate",
+"x": 970.8,
+"y": 900.3,
+"attrs": {
+"Realm": "Rohan",
+"Owner": "Rohan",
+"Maker": "Rohirrim",
+"English": "Helm's Gate"
+}
+},
+{
+"id": "DO036",
+"layer": "Doors_Gates",
+"name": "Undergate",
+"x": 1543.7,
+"y": 688.1,
+"attrs": {
+"Realm": "Mordor",
+"Owner": "Orcs",
+"English": "Undergate"
+}
+},
+{
+"id": "DO037",
+"layer": "Doors_Gates",
+"name": "West-gate of Bree",
+"x": 664.1,
+"y": 1433.8,
+"attrs": {
+"Realm": "Bree-land",
+"Owner": "Bree-folk",
+"English": "West-gate of Bree"
+}
+},
+{
+"id": "BR001",
+"layer": "Bridges",
+"name": "Brandywine Bridge",
+"x": 609.2,
+"y": 1426.5,
+"attrs": {
+"Realm": "The Shire",
+"English": "Brandywine Bridge; Bridge of Stonebows",
+"Sindarin": "i Varanduiniant"
+}
+},
+{
+"id": "BR003",
+"layer": "Bridges",
+"name": "Bridge of Khazad-dûm",
+"x": 1143.5,
+"y": 1246.4,
+"attrs": {
+"Realm": "Khazad-dûm",
+"English": "Bridge of Khazad-dûm; Durin's Bridge"
+}
+},
+{
+"id": "BR004",
+"layer": "Bridges",
+"name": "Bridge of Nimrodel",
+"x": 1159.5,
+"y": 1203.8,
+"attrs": {
+"Realm": "Lothlórien",
+"Comments": "Bridge destroyed long before the War of the Ring, but the Fellowship was able to ford the river",
+"English": "Bridge of Nimrodel"
+}
+},
+{
+"id": "BR005",
+"layer": "Bridges",
+"name": "Bridge of Tharbad",
+"x": 737.6,
+"y": 1144.6,
+"attrs": {
+"Realm": "Arnor and Gondor",
+"Comments": "In ruins when Boromir crossed it on the way to Rivendell; hazardous",
+"English": "Bridge of Tharbad"
+}
+},
+{
+"id": "BR006",
+"layer": "Bridges",
+"name": "Ethring",
+"x": 1163.3,
+"y": 637.2,
+"attrs": {
+"Realm": "Gondor",
+"English": "\"across [the Ringló river]\"",
+"Sindarin": "Ethring"
+}
+},
+{
+"id": "BR008",
+"layer": "Bridges",
+"name": "Last Bridge",
+"x": 917.2,
+"y": 1431.9,
+"attrs": {
+"Realm": "Arnor",
+"English": "Last Bridge"
+}
+},
+{
+"id": "FJ002",
+"layer": "Fords",
+"name": "Crossings of Erui",
+"x": 1401.0,
+"y": 606.4,
+"attrs": {
+"Realm": "Gondor",
+"English": "Crossings of Erui",
+"Sindarin": "Thraid Erui"
+}
+},
+{
+"id": "FJ003",
+"layer": "Fords",
+"name": "Entwade",
+"x": 1145.0,
+"y": 894.6,
+"attrs": {
+"Realm": "Rohan",
+"English": "Entwade; Ent \"ford\"",
+"Rohirric": "Endwaed"
+}
+},
+{
+"id": "FJ006",
+"layer": "Fords",
+"name": "Ford of Bruinen",
+"x": 1069.8,
+"y": 1463.5,
+"attrs": {
+"Realm": "Rivendell",
+"Comments": "Under the power of Elrond",
+"English": "Ford of Bruinen; Ford of Loudwater; Ford of Rivendell",
+"Sindarin": "[ford of] Bruinen"
+}
+},
+{
+"id": "FJ007",
+"layer": "Fords",
+"name": "Ford of Carrock",
+"x": 1277.0,
+"y": 1520.0,
+"attrs": {
+"Realm": "Rhovanion",
+"Inhabitant": "Beornings",
+"English": "Ford of Carrock"
+}
+},
+{
+"id": "FJ008",
+"layer": "Fords",
+"name": "Fords of Isen",
+"x": 963.1,
+"y": 929.6,
+"attrs": {
+"Realm": "Rohan",
+"Inhabitant": "Rohirrim",
+"English": "Fords of Isen; \"fords of iron\"",
+"Sindarin": "Ethraid Engrin (singular Athrad Angren)"
+}
+},
+{
+"id": "FJ009",
+"layer": "Fords",
+"name": "Crossings of Poros",
+"x": 1467.4,
+"y": 458.2,
+"attrs": {
+"Realm": "Gondor, South Gondor (Harondor)",
+"English": "Crossings of Poros; Fords of Poros"
+}
+},
+{
+"id": "FJ010",
+"layer": "Fords",
+"name": "North Undeep",
+"x": 1280.7,
+"y": 1102.1,
+"attrs": {
+"Realm": "Rohan/Brown Lands",
+"English": "North Undeep"
+}
+},
+{
+"id": "FJ011",
+"layer": "Fords",
+"name": "Old Ford",
+"x": 1285.8,
+"y": 1499.9,
+"attrs": {
+"Realm": "Rhovanion",
+"Comments": "Bridge disappeared by end of the Third Age; the crossing is just a ford",
+"English": "Old Ford"
+}
+},
+{
+"id": "FJ013",
+"layer": "Fords",
+"name": "Sarn Ford",
+"x": 580.0,
+"y": 1279.1,
+"attrs": {
+"Realm": "The Shire",
+"Inhabitant": "Rangers of the North (pre-War of the Ring); Ringwraiths",
+"English": "\"Stony Ford\"",
+"Sindarin": "Half-translation of Sarn Athrad"
+}
+},
+{
+"id": "FJ014",
+"layer": "Fords",
+"name": "South Undeep",
+"x": 1342.2,
+"y": 1036.4,
+"attrs": {
+"Realm": "Rohan/Brown Lands",
+"English": "South Undeep"
+}
+},
+{
+"id": "CA003",
+"layer": "Cave_entrances",
+"name": "Brockenbores",
+"x": 581.6,
+"y": 1451.0,
+"attrs": {
+"English": "Brockenbores; Brockenborings; \"badger-burrowings\""
+}
+},
+{
+"id": "CA006",
+"layer": "Cave_entrances",
+"name": "Front Porch",
+"x": 1174.9,
+"y": 1522.5,
+"attrs": {
+"English": "Front Porch"
+}
+},
+{
+"id": "CA007",
+"layer": "Cave_entrances",
+"name": "Glittering Caves",
+"x": 964.9,
+"y": 900.1,
+"attrs": {
+"English": "Glittering Caves; \"caves of glory\"; \"Caverns of Helm's Deep\"",
+"Sindarin": "Aglarond (\"caves of glory\")",
+"Rohirric": "Glæmscrafu (\"Caverms of Helm's Deep\")"
+}
+},
+{
+"id": "CA008",
+"layer": "Cave_entrances",
+"name": "Henneth Annûn",
+"x": 1462.5,
+"y": 743.7,
+"attrs": {
+"English": "\"Window of the Sunset\"/\"Window of the West\"",
+"Sindarin": "Henneth Annûn"
+},
+"also": [
+"Falls"
+]
+},
+{
+"id": "CA013",
+"layer": "Cave_entrances",
+"name": "Shelob's Lair",
+"x": 1542.5,
+"y": 688.1,
+"attrs": {
+"English": "Shelob's Lair",
+"Sindarin": "Torech Ungol (\"tunnel of the spider\")"
+}
+},
+{
+"id": "CA014",
+"layer": "Cave_entrances",
+"name": "Troll's Cave",
+"x": 1054.0,
+"y": 1452.5,
+"attrs": {
+"English": "Troll's Cave"
+}
+},
+{
+"id": "FA007",
+"layer": "Falls",
+"name": "Rauros",
+"x": 1371.6,
+"y": 877.6,
+"attrs": {
+"Realm": "Mordor Adjacent Lands",
+"English": "\"roaring spray\"; \"Rush-rain\"/\"Roar-rain\"",
+"Sindarin": "Rauros"
+}
+},
+{
+"id": "FA008",
+"layer": "Falls",
+"name": "Stair Falls",
+"x": 1017.9,
+"y": 1199.4,
+"attrs": {
+"Realm": "Khazad-dûm",
+"English": "Stair Falls"
+}
+},
+{
+"id": "GR001",
+"layer": "Graves_Tombs",
+"name": "Balin's Tomb",
+"x": 1111.1,
+"y": 1283.4,
+"attrs": {
+"Realm": "Moira",
+"Maker": "Balin's followers",
+"Occupant": "Balin",
+"Created": "T.A. 2994",
+"English": "Balin's Tomb"
+}
+},
+{
+"id": "GR003",
+"layer": "Graves_Tombs",
+"name": "Barrowfield",
+"x": 1046.0,
+"y": 835.0,
+"attrs": {
+"Realm": "Rohan",
+"Occupant": "Kings of Rohan",
+"Created": "T.A. 2545 - present",
+"English": "Barrowfield"
+}
+},
+{
+"id": "GR005",
+"layer": "Graves_Tombs",
+"name": "Battle Pit",
+"x": 553.7,
+"y": 1424.3,
+"attrs": {
+"Realm": "The Shire",
+"Maker": "Hobbits",
+"Occupant": "Ruffians killed in the Battle of Bywater",
+"Created": "T.A. 3019",
+"English": "Battle Pit"
+}
+},
+{
+"id": "GR006",
+"layer": "Graves_Tombs",
+"name": "Death Down",
+"x": 968.8,
+"y": 900.2,
+"attrs": {
+"Realm": "Rohan",
+"Maker": "Huorns",
+"Occupant": "Orcs",
+"Created": "T.A. 3019",
+"Comments": "Erected after the Battle of the Hornburg (4 March T.A. 3019)",
+"English": "Death Down"
+},
+"also": [
+"Hills"
+]
+},
+{
+"id": "GR008",
+"layer": "Graves_Tombs",
+"name": "Haudh in Gwanûr",
+"x": 1458.3,
+"y": 459.8,
+"attrs": {
+"Realm": "Gondor",
+"Maker": "Gondorians",
+"Occupant": "Folcred and Fastred",
+"Created": "T.A. 2885",
+"English": "\"mound of the brothers\"",
+"Sindarin": "Haudh in Gwanûr"
+}
+},
+{
+"id": "GR012",
+"layer": "Graves_Tombs",
+"name": "House of the Kings",
+"x": 1427.3,
+"y": 653.7,
+"attrs": {
+"Realm": "Gondor",
+"Maker": "Gondorians",
+"Occupant": "Kings of Gondor",
+"English": "House of the Kings"
+}
+},
+{
+"id": "GR013",
+"layer": "Graves_Tombs",
+"name": "House of the Stewards",
+"x": 1427.5,
+"y": 653.6,
+"attrs": {
+"Realm": "Gondor",
+"Occupant": "Stewards of Gondor",
+"Comments": "Destroyed by Denethor on 15 March T.A. 3019",
+"English": "House of the Stewards"
+}
+},
+{
+"id": "GR016",
+"layer": "Graves_Tombs",
+"name": "Mound of Riders",
+"x": 963.1,
+"y": 929.6,
+"attrs": {
+"Realm": "Rohan",
+"Maker": "Gandalf",
+"Occupant": "Rohirrim",
+"Created": "T.A. 3019",
+"Comments": "Erected after the Battle of the Fords of Isen (February T.A. 3019)",
+"English": "Mound of Riders"
+}
+},
+{
+"id": "GR018",
+"layer": "Graves_Tombs",
+"name": "Mounds of Mundburg",
+"x": 1440.8,
+"y": 662.5,
+"attrs": {
+"Realm": "Gondor",
+"Maker": "Gondorian and Rohirrim soldiers",
+"Occupant": "Those killed in the Battle of the Pelennor Fields",
+"Created": "T.A. 3019",
+"Comments": "Erected after the Battle of the Pelennor Fields (15 March T.A. 3019)",
+"English": "Mounds of Mundburg"
+}
+},
+{
+"id": "GR021",
+"layer": "Graves_Tombs",
+"name": "Tomb of Elendil",
+"x": 1239.5,
+"y": 764.3,
+"attrs": {
+"Realm": "Between Gondor and Rohan",
+"Maker": "Isildur",
+"Occupant": "Elendil",
+"Created": "S.A. 3441",
+"Comments": "Elendil's casket was removed when Rohan was founded",
+"English": "Tomb of Elendil; Mound of Elendil"
+}
+},
+{
+"id": "MT006",
+"layer": "Mountains_of_Moria",
+"name": "Caradhras",
+"x": 1065.4,
+"y": 1310.9,
+"attrs": {
+"Type": "Mountain",
+"Realm": "Khazad-dûm",
+"Inhabitant": "Mountain is actively hostile",
+"Range": "Misty Mountains",
+"Comments": "One of the Mountains of Moria",
+"English": "Redhorn",
+"Westron": "Redhorn",
+"Sindarin": "Caradhras",
+"Khuzdul": "Barazinbar/Baraz"
+},
+"area_km2": 741.0
+},
+{
+"id": "MT020",
+"layer": "Mountains_of_Moria",
+"name": "Fanuidhol",
+"x": 1142.6,
+"y": 1272.8,
+"attrs": {
+"Type": "Mountain",
+"Realm": "Khazad-dûm",
+"Range": "Misty Mountains",
+"Comments": "One of the Mountains of Moria",
+"English": "Cloudyhead",
+"Westron": "Cloudyhead",
+"Sindarin": "Fanuidhol",
+"Khuzdul": "Bundushathûr/Shathûr"
+},
+"area_km2": 1523.3
+},
+{
+"id": "MT007",
+"layer": "Mountains_of_Moria",
+"name": "Celebdil",
+"x": 1067.4,
+"y": 1217.9,
+"attrs": {
+"Type": "Mountain",
+"Realm": "Khazad-dûm",
+"Range": "Misty Mountains",
+"Comments": "One of the Mountains of Moria",
+"English": "Silvertine",
+"Westron": "Silvertine",
+"Sindarin": "Celebdil",
+"Khuzdul": "Zirakzigil"
+},
+"area_km2": 2281.3
+},
+{
+"id": "MT034",
+"layer": "Mountains",
+"name": "Misty Mountains",
+"x": 1103.3,
+"y": 1274.4,
+"attrs": {
+"Type": "Range",
+"Realm": "Khazad-dûm, numerous Orc tribes",
+"Inhabitant": "Durin's folk (Dwarves), Orcs, Trolls, Giants, Eagles",
+"Range": "Misty Mountains",
+"English": "Misty Mountains",
+"Sindarin": "Hithaeglir"
+},
+"area_km2": 75718.3
+},
+{
+"id": "MT022",
+"layer": "Mountains",
+"name": "Grey Mountains",
+"x": 1541.1,
+"y": 1664.8,
+"attrs": {
+"Type": "Range",
+"Realm": "Orc tribes; Dragon hoards",
+"Inhabitant": "Durin's Folk, Dragons, Orcs",
+"Range": "Grey Mountains",
+"English": "Grey Mountains",
+"Sindarin": "Ered Mithrin"
+},
+"area_km2": 8913.3
+},
+{
+"id": "MT055",
+"layer": "Mountains",
+"name": "White Mountains",
+"x": 1364.5,
+"y": 683.5,
+"attrs": {
+"Type": "Range",
+"Realm": "Gondor, Rohan",
+"Inhabitant": "Men, Dwarves",
+"Range": "White Mountains",
+"English": "White Mountains",
+"Sindarin": "Ered Nimrais"
+},
+"area_km2": 55475.8
+},
+{
+"id": "MT016",
+"layer": "Mountains",
+"name": "Ered Lithui",
+"x": 1745.3,
+"y": 825.1,
+"attrs": {
+"Type": "Range",
+"Realm": "Mordor",
+"Range": "Ered Lithui",
+"English": "Ash Mountains",
+"Sindarin": "Ered Lithui"
+},
+"area_km2": 37794.2
+},
+{
+"id": "MT036",
+"layer": "Mountains",
+"name": "Mount Doom",
+"x": 1614.5,
+"y": 730.6,
+"attrs": {
+"Type": "Volcano",
+"Realm": "Mordor",
+"English": "Mount Doom",
+"Sindarin": "Orodruin; Amon Amarth (\"Mount Doom\")"
+},
+"area_km2": 522.5
+},
+{
+"id": "MT005",
+"layer": "Mountains",
+"name": "Blue Mountains",
+"x": 266.6,
+"y": 1818.0,
+"attrs": {
+"Type": "Range",
+"Realm": "Eriador",
+"Inhabitant": "Dwarves (Broadbeams, Firebeards, and Longbeards)",
+"Range": "Blue Mountains",
+"English": "Blue Mountains; Mountains of Lindon",
+"Westron": "[Mountains of Lune]",
+"Sindarin": "Ered Luin (\"Blue Mountains\"); Ered Lindon (\"Mountains of Lindon\")",
+"Other": "Lhúndirien (Noldorin)"
+},
+"area_km2": 53195.9
+},
+{
+"id": "MT029",
+"layer": "Mountains",
+"name": "Lonely Mountain",
+"x": 1524.2,
+"y": 1606.7,
+"attrs": {
+"Type": "Mountain",
+"Realm": "Erebor",
+"Inhabitant": "Durin's Folk/Longbeards (Dwarves)",
+"Range": "None",
+"English": "Lonely Mountain",
+"Sindarin": "Erebor"
+},
+"area_km2": 268.8
+},
+{
+"id": "MT058",
+"layer": "Mountains",
+"name": "Amon Anwar",
+"x": 1239.2,
+"y": 764.3,
+"attrs": {
+"Type": "Mountain",
+"Realm": "Gondor, Rohan",
+"Inhabitant": "Gondorian beacon-wardens",
+"Range": "White Mountains",
+"English": "\"Hill of Awe\"; \"Holy Mountain\"",
+"Sindarin": "Amon Anwar (\"Hill of Awe\")",
+"Rohirric": "the Halifirien (\"Holy Mountain\")",
+"Other": "Eilenaer (pre-Númenórean Mannish)"
+},
+"area_km2": 1.4
+},
+{
+"id": "MT064",
+"layer": "Mountains",
+"name": "Írensaga",
+"x": 1061.1,
+"y": 824.8,
+"attrs": {
+"Type": "Mountain",
+"Realm": "Rohan",
+"Inhabitant": "Rohirrim",
+"Range": "White Mountains",
+"English": "\"iron-saw\"",
+"Rohirric": "Írensaga"
+},
+"area_km2": 146.0
+},
+{
+"id": "MT048",
+"layer": "Mountains",
+"name": "Ras Morthil",
+"x": 527.5,
+"y": 521.3,
+"attrs": {
+"Type": "Mountain",
+"Realm": "Gondor",
+"Inhabitant": "Possibly Druédain, possibly vacated",
+"Range": "White Mountains",
+"English": "\"dark/black horn\"",
+"Sindarin": "Ras Morthil"
+},
+"area_km2": 106.9
+},
+{
+"id": "MT009",
+"layer": "Mountains",
+"name": "Cûl Bîn",
+"x": 1095.5,
+"y": 678.0,
+"attrs": {
+"Type": "Mountain",
+"Realm": "Gondor",
+"Range": "White Mountains",
+"English": "\"Little Load\"",
+"Sindarin": "Cûl Bîn"
+},
+"area_km2": 1308.1
+},
+{
+"id": "MT011",
+"layer": "Mountains",
+"name": "Dol Tarlang",
+"x": 1111.0,
+"y": 726.7,
+"attrs": {
+"Type": "Mountain",
+"Realm": "Gondor",
+"Range": "White Mountains",
+"English": "\"Tarlang's Head\"",
+"Sindarin": "Dol Tarlang"
+},
+"area_km2": 161.7
+},
+{
+"id": "MT010",
+"layer": "Mountains",
+"name": "Cûl Veleg",
+"x": 1097.6,
+"y": 711.5,
+"attrs": {
+"Type": "Mountain",
+"Realm": "Gondor",
+"Range": "White Mountains",
+"English": "\"Big Load\"",
+"Sindarin": "Cûl Veleg"
+},
+"area_km2": 459.9
+},
+{
+"id": "MT024",
+"layer": "Mountains",
+"name": "Gundabad",
+"x": 1120.9,
+"y": 1709.3,
+"attrs": {
+"Type": "Mountain",
+"Realm": "Misty Mountains",
+"Inhabitant": "Orcs",
+"Range": "Misty Mountains",
+"Khuzdul": "Gundabad"
+},
+"area_km2": 82.4
+},
+{
+"id": "MT033",
+"layer": "Mountains",
+"name": "Mindolluin",
+"x": 1407.1,
+"y": 668.8,
+"attrs": {
+"Type": "Mountain",
+"Realm": "Gondor",
+"Inhabitant": "None",
+"Range": "White Mountains",
+"Comments": "Only Kings of Gondor visited",
+"English": "Mount Mindolluin",
+"Sindarin": "Mindolluin (\"towering-head-blue\")"
+},
+"area_km2": 2045.2
+},
+{
+"id": "MT039",
+"layer": "Mountains",
+"name": "Mountains of Angmar",
+"x": 997.1,
+"y": 1758.3,
+"attrs": {
+"Type": "Range",
+"Realm": "Angmar; Orc tribes",
+"Inhabitant": "Orcs, the Witch-king",
+"Range": "Mountains of Angmar",
+"English": "Mountains of Angmar"
+},
+"area_km2": 5035.0
+},
+{
+"id": "MT035",
+"layer": "Mountains",
+"name": "Morgai",
+"x": 1537.0,
+"y": 672.0,
+"attrs": {
+"Type": "Ridge",
+"Realm": "Mordor",
+"Range": "Ephel Dúath"
+},
+"area_km2": 2100.7
+},
+{
+"id": "MT014",
+"layer": "Mountains",
+"name": "Ephel Dúath",
+"x": 1575.0,
+"y": 416.6,
+"attrs": {
+"Type": "Range",
+"Realm": "Mordor",
+"Range": "Ephel Dúath",
+"English": "Mountains of Shadow",
+"Sindarin": "Ephel Dúath (\"outer fences of shadow\")"
+},
+"area_km2": 61842.4
+},
+{
+"id": "MT060",
+"layer": "Mountains",
+"name": "Calenhad",
+"x": 1289.6,
+"y": 756.9,
+"attrs": {
+"Type": "Beacon-hill",
+"Realm": "Gondor",
+"Inhabitant": "Gondorian beacon-wardens",
+"Range": "White Mountains",
+"English": "\"green space\"",
+"Sindarin": "Calenhad"
+},
+"area_km2": 60.5
+},
+{
+"id": "MT041",
+"layer": "Mountains",
+"name": "Mountains of Mirkwood",
+"x": 1514.8,
+"y": 1465.9,
+"attrs": {
+"Type": "Range",
+"Realm": "Mirkwood",
+"Inhabitant": "Elves (previously); Spiders and evil creatures",
+"Range": "Mountains of Mirkwood",
+"English": "Mountains of Mirkwood",
+"Sindarin": "Emyn Duir (\"the Dark Mountains\"); Emyn-nu-Fuin (\"the Mountains of Mirkwood\")"
+},
+"area_km2": 4321.7
+},
+{
+"id": "HI004",
+"layer": "Hills",
+"name": "Amon Hen",
+"x": 1365.2,
+"y": 884.3,
+"attrs": {
+"Realm": "Gondor",
+"Inhabitant": "Gondorians",
+"English": "\"Hill of the Eye\"; Hill of Sight",
+"Sindarin": "Amon Hen"
+},
+"area_km2": 16.5
+},
+{
+"id": "HI006",
+"layer": "Hills",
+"name": "Amon Lhaw",
+"x": 1378.2,
+"y": 889.0,
+"attrs": {
+"Realm": "Gondor",
+"English": "\"Hill of Hearing\"",
+"Sindarin": "Amon Lhaw"
+},
+"area_km2": 28.7
+},
+{
+"id": "HI013",
+"layer": "Hills",
+"name": "Buck Hill",
+"x": 612.1,
+"y": 1410.0,
+"attrs": {
+"Realm": "Buckland",
+"Inhabitant": "Hobbits",
+"English": "Buck Hill"
+},
+"area_km2": 32.1
+},
+{
+"id": "HI014",
+"layer": "Hills",
+"name": "Cerin Amroth",
+"x": 1214.8,
+"y": 1220.9,
+"attrs": {
+"Realm": "Lothlórien",
+"English": "\"Amroth's Mound\"",
+"Sindarin": "Cerin Amroth"
+},
+"area_km2": 4.7
+},
+{
+"id": "HI017",
+"layer": "Hills",
+"name": "Dol Baran",
+"x": 976.5,
+"y": 969.4,
+"attrs": {
+"Realm": "Rohan",
+"English": "\"Shaven hill\"",
+"Sindarin": "Dol Baran"
+},
+"area_km2": 3.1
+},
+{
+"id": "HI020",
+"layer": "Hills",
+"name": "Emyn Arnen",
+"x": 1457.1,
+"y": 633.5,
+"attrs": {
+"Realm": "Gondor",
+"Inhabitant": "House of Húrin (Gondorians)",
+"English": "\"the hills of Arnen\"",
+"Sindarin": "Emyn [Arnen]"
+},
+"area_km2": 347.7
+},
+{
+"id": "HI022",
+"layer": "Hills",
+"name": "Emyn Muil",
+"x": 1383.6,
+"y": 918.9,
+"attrs": {
+"Realm": "Gondor",
+"Inhabitant": "Uninhabited",
+"English": "\"the drear hills\"",
+"Sindarin": "Emyn Muil"
+},
+"area_km2": 6215.1
+},
+{
+"id": "HI023",
+"layer": "Hills",
+"name": "Erech",
+"x": 1072.8,
+"y": 743.8,
+"attrs": {
+"Realm": "Gondor",
+"Inhabitant": "Abandoned/Dead Men",
+"Comments": "Entrance to the Paths of the Dead",
+"English": "Hill of Erech",
+"Other": "Erech (pre-Númenórean Mannish)"
+},
+"area_km2": 457.2
+},
+{
+"id": "HI029",
+"layer": "Hills",
+"name": "Hill of Guard",
+"x": 1428.7,
+"y": 653.5,
+"attrs": {
+"Realm": "Gondor",
+"Inhabitant": "Gondorians",
+"English": "Hill of Guard",
+"Sindarin": "Amon Tirith"
+},
+"area_km2": 15.8
+},
+{
+"id": "HI052",
+"layer": "Hills",
+"name": "Weathertop",
+"x": 769.2,
+"y": 1438.5,
+"attrs": {
+"Realm": "Abandoned",
+"Inhabitant": "Uninhabited",
+"English": "Weathertop",
+"Sindarin": "Amon Sûl"
+},
+"area_km2": 7.9
+},
+{
+"id": "HI032",
+"layer": "Hills",
+"name": "Hills of Evendim",
+"x": 546.8,
+"y": 1632.4,
+"attrs": {
+"Realm": "Abandoned",
+"Inhabitant": "Uninhabited",
+"English": "Hills of Everdim; \"Hills of Dusk\"",
+"Sindarin": "Emyn Uial"
+},
+"area_km2": 6686.9
+},
+{
+"id": "HI035",
+"layer": "Hills",
+"name": "Hobbiton Hill",
+"x": 566.5,
+"y": 1431.7,
+"attrs": {
+"Realm": "The Shire",
+"Inhabitant": "Bilbo, Frodo, Hobbits",
+"English": "Hobbiton Hill; The Hill"
+},
+"area_km2": 14.9
+},
+{
+"id": "HI046",
+"layer": "Hills",
+"name": "Tarnost",
+"x": 1113.4,
+"y": 560.1,
+"attrs": {
+"Realm": "Gondor",
+"Inhabitant": "Uninhabited",
+"Comments": "not mentioned in the Lord of the Rings",
+"Other": "Tarnost (Noldorin)"
+},
+"area_km2": 6929.3
+},
+{
+"id": "HI039",
+"layer": "Hills",
+"name": "North Downs",
+"x": 711.1,
+"y": 1615.1,
+"attrs": {
+"Realm": "Abandoned",
+"Inhabitant": "Uninhabited; visited by Rangers of the North",
+"English": "North Downs"
+},
+"area_km2": 5774.8
+},
+{
+"id": "HI051",
+"layer": "Hills",
+"name": "Weather Hills",
+"x": 729.5,
+"y": 1483.3,
+"attrs": {
+"Realm": "Abandoned",
+"Inhabitant": "Men",
+"Comments": "Includes Weathertop (HI052)",
+"English": "Weather Halls"
+},
+"area_km2": 2177.0
+},
+{
+"id": "HI037",
+"layer": "Hills",
+"name": "Iron Hills",
+"x": 1646.6,
+"y": 1592.4,
+"attrs": {
+"Realm": "Rhovanion",
+"Inhabitant": "Durin's Folk/Longbeards (Dwarves)"
+},
+"area_km2": 3479.6
+},
+{
+"id": "HI036",
+"layer": "Hills",
+"name": "Hollin Ridge",
+"x": 993.1,
+"y": 1261.7,
+"attrs": {
+"Realm": "Misty Mountains",
+"Inhabitant": "Crebain",
+"English": "Hollin Ridge"
+},
+"area_km2": 1684.3
+},
+{
+"id": "HI048",
+"layer": "Hills",
+"name": "Tower Hills",
+"x": 365.4,
+"y": 1432.7,
+"attrs": {
+"Realm": "Lindon",
+"Inhabitant": "Elves",
+"English": "Tower Hills",
+"Sindarin": "Emyn Beriad"
+},
+"area_km2": 1693.4
+},
+{
+"id": "HI025",
+"layer": "Hills",
+"name": "Far Downs",
+"x": 509.5,
+"y": 1324.6,
+"attrs": {
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Far Downs; Fox Downs (incorrect printing)"
+},
+"area_km2": 863.6
+},
+{
+"id": "HI033",
+"layer": "Hills",
+"name": "Hills of Scary",
+"x": 597.4,
+"y": 1452.2,
+"attrs": {
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Hills of Scary"
+},
+"area_km2": 448.5
+},
+{
+"id": "HI053",
+"layer": "Hills",
+"name": "White Downs",
+"x": 462.8,
+"y": 1407.1,
+"attrs": {
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "White Downs"
+},
+"area_km2": 1797.4
+},
+{
+"id": "HI012",
+"layer": "Hills",
+"name": "Bree-hill",
+"x": 681.8,
+"y": 1445.7,
+"attrs": {
+"Realm": "Bree-land",
+"Inhabitant": "Men, Hobbits",
+"English": "Bree-hill"
+},
+"area_km2": 388.4
+},
+{
+"id": "HI045",
+"layer": "Hills",
+"name": "South Downs",
+"x": 750.5,
+"y": 1349.8,
+"attrs": {
+"Realm": "Abandoned",
+"Inhabitant": "Uninhabited",
+"English": "South Downs"
+},
+"area_km2": 5831.3
+},
+{
+"id": "HI011",
+"layer": "Hills",
+"name": "Barrow-downs",
+"x": 682.2,
+"y": 1366.2,
+"attrs": {
+"Realm": "Abandoned",
+"Inhabitant": "Barrow-wights",
+"English": "Barrow-downs",
+"Sindarin": "Tyrn Gorthad/Tyrn Goerthiad (plural)"
+},
+"area_km2": 3612.9
+},
+{
+"id": "HI042",
+"layer": "Hills",
+"name": "Ravenhill",
+"x": 1531.9,
+"y": 1599.3,
+"attrs": {
+"Realm": "Erebor",
+"Inhabitant": "Dwarves",
+"English": "Ravenhill"
+},
+"area_km2": 2.2
+},
+{
+"id": "HI027",
+"layer": "Hills",
+"name": "Green Hills",
+"x": 542.8,
+"y": 1404.8,
+"attrs": {
+"Realm": "The Shire",
+"Inhabitant": "Hobbits",
+"English": "Green Hills"
+},
+"area_km2": 879.3
+},
+{
+"id": "HI044",
+"layer": "Hills",
+"name": "Slag-hills",
+"x": 1513.3,
+"y": 853.7,
+"attrs": {
+"Realm": "Mordor",
+"English": "Slag-hills"
+},
+"area_km2": 54.7
+},
+{
+"id": "FO003",
+"layer": "Forests",
+"name": "Bindbole Wood",
+"x": 544.8,
+"y": 1454.7,
+"attrs": {
+"Inhabitant": "Hobbits",
+"English": "Bindbole/Bindbale Wood"
+},
+"area_km2": 211.8
+},
+{
+"id": "FO005",
+"layer": "Forests",
+"name": "Chetwood",
+"x": 678.9,
+"y": 1441.5,
+"attrs": {
+"Inhabitant": "Bree-men, Hobbits",
+"English": "Chetwood"
+},
+"area_km2": 320.6
+},
+{
+"id": "FO006",
+"layer": "Forests",
+"name": "Dimholt",
+"x": 1052.9,
+"y": 817.9,
+"attrs": {
+"Inhabitant": "Rohirrim",
+"Trees": "Fir",
+"English": "\"obscure/secret wood\"",
+"Rohirric": "Dimholt"
+},
+"area_km2": 3.6
+},
+{
+"id": "FO007",
+"layer": "Forests",
+"name": "Drúadan Forest",
+"x": 1405.2,
+"y": 717.5,
+"attrs": {
+"Inhabitant": "Drúedain",
+"Trees": "Pine",
+"Comments": "Avoided by the people of Gondor and Rohan",
+"English": "\"Forest of the Drúedain\""
+},
+"area_km2": 947.5
+},
+{
+"id": "FO010",
+"layer": "Forests",
+"name": "Eryn Vorn",
+"x": 425.6,
+"y": 1126.7,
+"attrs": {
+"Inhabitant": "Men (few, secretive)",
+"Trees": "Pine",
+"English": "\"Blackwood\"",
+"Sindarin": "Eryn Vorn"
+},
+"area_km2": 3347.0
+},
+{
+"id": "FO012",
+"layer": "Forests",
+"name": "Fangorn Forest",
+"x": 1075.3,
+"y": 1046.1,
+"attrs": {
+"Inhabitant": "Ents, Huorns, Trees",
+"English": "\"Treebeard\" Forest",
+"Westron": "Entwood",
+"Quenya": "Aldalómë (\"tree-twilight\"); Ambaróna (\"uprising/sunrise/orient\"); Tauremorna (\"black forest\")",
+"Sindarin": "Fangorn",
+"Rohirric": "Entwood/Entwudu"
+},
+"area_km2": 10092.5
+},
+{
+"id": "FO013",
+"layer": "Forests",
+"name": "Firienholt",
+"x": 1240.4,
+"y": 775.6,
+"attrs": {
+"Inhabitant": "Beacon-wardens (Gondorians)",
+"Trees": "Oak",
+"English": "Firien Wood; \"mountain wood\"; the Whispering Wood",
+"Sindarin": "Eryn Fuir (\"North Wood\")",
+"Rohirric": "Firienholt"
+},
+"area_km2": 869.3
+},
+{
+"id": "FO016",
+"layer": "Forests",
+"name": "Grey Wood",
+"x": 1428.5,
+"y": 697.1,
+"attrs": {
+"Inhabitant": "Drúedain",
+"Comments": "Avoided by the people of Gondor and Rohan",
+"English": "Grey Wood"
+},
+"area_km2": 51.8
+},
+{
+"id": "FO017",
+"layer": "Forests",
+"name": "Lothlórien",
+"x": 1188.8,
+"y": 1233.7,
+"attrs": {
+"Inhabitant": "Elves; (Sindarin/Noldorin/Telerin leadership), Silvan",
+"Trees": "Mallorn",
+"English": "\"Lórien of the Blossom\"/\"Dreamflower\"",
+"Quenya": "Lórien (Golden Wood); Laurelindórenan (\"Valley of Singing Gold\"); Laurenandë (\"Valley of gold\")",
+"Sindarin": "Glornan (\"Valley of gold\"); Nan Laur (\"Valley of gold\")",
+"Rohirric": "Dwimordene (\"haunted valley\")",
+"Other": "Lothlórien; Loth (Sindarin) + Lórien (Quenya) (\"Dreamflower\"); Lórinand (Silvan Elvish)"
+},
+"area_km2": 7215.5
+},
+{
+"id": "FO018",
+"layer": "Forests",
+"name": "Mirkwood",
+"x": 1443.2,
+"y": 1439.3,
+"attrs": {
+"Inhabitant": "Spiders, Wood-elves, Woodmen, Orcs, Olog-hai, Nazgûl",
+"English": "Mirkwood",
+"Westron": "Mirkwood",
+"Sindarin": "Taur-e-Ndaedelos (\"forest of the great fear\"); Taur-nu-Fuin (\"the forest under nightshade\"); Eryn Galen (\"Greenwood the Great\"; Second Age/early Third Age); Eryn Lasgalen (\"Wood of the Greenleaves\"; Fourth Age)"
+},
+"area_km2": 106391.7
+},
+{
+"id": "FO023",
+"layer": "Forests",
+"name": "Old Forest",
+"x": 613.0,
+"y": 1391.6,
+"attrs": {
+"Inhabitant": "Tom Bombadil, Goldberry, Trees, Huorns",
+"English": "Old Forest"
+},
+"area_km2": 1219.6
+},
+{
+"id": "FO032",
+"layer": "Forests",
+"name": "Treegarth of Orthanc",
+"x": 963.1,
+"y": 997.3,
+"attrs": {
+"Inhabitant": "Ents, Trees",
+"Comments": "Established after the Battle of Isengard",
+"English": "Treegarth of Orthanc; Watchwood"
+},
+"area_km2": 31.2
+},
+{
+"id": "FO033",
+"layer": "Forests",
+"name": "Trollshaws",
+"x": 985.9,
+"y": 1434.7,
+"attrs": {
+"Inhabitant": "Few trolls",
+"Trees": "Beech",
+"English": "Trollshaws"
+},
+"area_km2": 7726.5
+},
+{
+"id": "FO037",
+"layer": "Forests",
+"name": "Woody End",
+"x": 571.0,
+"y": 1399.7,
+"attrs": {
+"Inhabitant": "Wandering elves, Hobbits of Woodhall",
+"English": "Woody End"
+},
+"area_km2": 561.6
+},
+{
+"id": "SW002",
+"layer": "Swamps",
+"name": "Dead Marshes",
+"x": 1476.0,
+"y": 917.5,
+"attrs": {
+"Type": "Wetland",
+"Realm": "None",
+"Inhabitant": "Dead faces",
+"English": "Dead Marshes"
+},
+"area_km2": 2601.0
+},
+{
+"id": "SW014",
+"layer": "Swamps",
+"name": "Swanfleet",
+"x": 771.0,
+"y": 1164.0,
+"attrs": {
+"Type": "Marsh",
+"Realm": "Eriador",
+"Inhabitant": "Swans",
+"English": "Swanfleet",
+"Sindarin": "Nîn-in-Eilph (\"water-lands of the Swans\")"
+},
+"area_km2": 1029.8
+},
+{
+"id": "SW013",
+"layer": "Swamps",
+"name": "Rushock Bog",
+"x": 527.6,
+"y": 1438.3,
+"attrs": {
+"Type": "Swamp",
+"Realm": "The Shire",
+"English": "Rushock Bog",
+"Other": "Ryscuc (Old Hobbitish)"
+},
+"area_km2": 42.0
+},
+{
+"id": "SW012",
+"layer": "Swamps",
+"name": "Overbourn Marshes",
+"x": 589.1,
+"y": 1369.1,
+"attrs": {
+"Type": "Marsh",
+"Realm": "The Shire",
+"English": "Overbourn Marshes"
+},
+"area_km2": 493.3
+},
+{
+"id": "SW011",
+"layer": "Swamps",
+"name": "Nindalf",
+"x": 1401.8,
+"y": 852.3,
+"attrs": {
+"Type": "Swamp",
+"Realm": "Gondor",
+"Inhabitant": "None",
+"English": "\"wet flat field\"",
+"Westron": "Wetwang",
+"Sindarin": "Nindalf"
+},
+"area_km2": 4034.8
+},
+{
+"id": "SW010",
+"layer": "Swamps",
+"name": "Midgewater Marshes",
+"x": 700.8,
+"y": 1440.3,
+"attrs": {
+"Type": "Marsh",
+"Realm": "Abandoned",
+"Inhabitant": "None",
+"English": "Midgewater Marshes"
+},
+"area_km2": 503.4
+},
+{
+"id": "SW008",
+"layer": "Swamps",
+"name": "Marish",
+"x": 595.5,
+"y": 1405.4,
+"attrs": {
+"Type": "Bog",
+"Realm": "The Shire",
+"Inhabitant": "Stoors (Hobbits)",
+"English": "Marish"
+},
+"area_km2": 40.5
+},
+{
+"id": "SW007",
+"layer": "Swamps",
+"name": "Long Marshes",
+"x": 1523.6,
+"y": 1564.7,
+"attrs": {
+"Type": "Marsh",
+"Realm": "Rhovanion",
+"English": "Long Marshes"
+},
+"area_km2": 422.6
+},
+{
+"id": "SW006",
+"layer": "Swamps",
+"name": "Gladden Fields",
+"x": 1266.9,
+"y": 1419.8,
+"attrs": {
+"Type": "Marsh",
+"Realm": "Rhovanion",
+"Inhabitant": "Servants of Sauron searching for the One Ring",
+"English": "Gladden Fields",
+"Sindarin": "Loeg Ningloron"
+},
+"also": [
+"Fields"
+],
+"area_km2": 705.0
+},
+{
+"id": "SW004",
+"layer": "Swamps",
+"name": "Fenmark",
+"x": 1285.8,
+"y": 812.6,
+"attrs": {
+"Type": "Marsh",
+"Realm": "Rohan",
+"English": "Fenmark; Fenmarch"
+},
+"area_km2": 221.8
+},
+{
+"id": "LA002",
+"layer": "Lakes",
+"name": "Bywater Pool",
+"x": 556.7,
+"y": 1428.0,
+"attrs": {
+"Type": "Pond",
+"Realm": "The Shire",
+"English": "Bywater Pool"
+},
+"area_km2": 21.5
+},
+{
+"id": "LA006",
+"layer": "Lakes",
+"name": "Lake Evendim",
+"x": 560.8,
+"y": 1565.9,
+"attrs": {
+"Type": "Lake",
+"Realm": "Abandoned",
+"English": "Lake Evendim",
+"Sindarin": "Nenuial (\"Lake of Twilight\")"
+},
+"area_km2": 961.4
+},
+{
+"id": "LA009",
+"layer": "Lakes",
+"name": "Long Lake",
+"x": 1558.9,
+"y": 1536.7,
+"attrs": {
+"Type": "Lake",
+"Realm": "Kingdom of Dale",
+"English": "Long Lake"
+},
+"area_km2": 210.1
+},
+{
+"id": "LA012",
+"layer": "Lakes",
+"name": "Mirrormere",
+"x": 1147.4,
+"y": 1238.1,
+"attrs": {
+"Type": "Lake",
+"Realm": "Khazad-dûm",
+"English": "Mirrormere",
+"Sindarin": "Nen Cenedril (\"Lake Looking-glass\")",
+"Khuzdul": "Kheled-zâram (\"glass lake/pool\")"
+},
+"area_km2": 0.8
+},
+{
+"id": "LA013",
+"layer": "Lakes",
+"name": "Nen Hithoel",
+"x": 1371.9,
+"y": 900.9,
+"attrs": {
+"Type": "Lake",
+"Realm": "Gondor",
+"English": "\"Mist-cool Water\"",
+"Sindarin": "Nen Hithoel"
+},
+"area_km2": 604.1
+},
+{
+"id": "LA019",
+"layer": "Lakes",
+"name": "Sea of Rhûn",
+"x": 1998.2,
+"y": 1179.0,
+"attrs": {
+"Type": "Inland Sea",
+"Realm": "Rhûn",
+"English": "Sea of Rhûn",
+"Sindarin": "Rhûn (\"East\")"
+},
+"area_km2": 22436.8
+},
+{
+"id": "LA017",
+"layer": "Lakes",
+"name": "Sea of Núrnen",
+"x": 1915.2,
+"y": 525.8,
+"attrs": {
+"Type": "Inland Sea",
+"Realm": "Mordor",
+"English": "Sea of Núrnen; Lake Núrnen; \"sad-water\" lake/sea",
+"Sindarin": "[Sea/Lake] Núrnen"
+},
+"area_km2": 14297.8
+},
+{
+"id": "IS019",
+"layer": "Islands",
+"name": "Tolfalas",
+"x": 1162.8,
+"y": 420.9,
+"attrs": {
+"Realm": "Gondor",
+"Inhabitant": "Uninhabited",
+"Comments": "Almost destroyed during the Drowning of Númenor",
+"Sindarin": "Tol Falas"
+},
+"area_km2": 1798.8
+},
+{
+"id": "IS012",
+"layer": "Islands",
+"name": "Tol Brandir",
+"x": 1368.6,
+"y": 889.1,
+"attrs": {
+"Realm": "Gondor",
+"Inhabitant": "Uninhabited",
+"Comments": "\"no foot of man or beast had ever been set upon Tol Brandir\"",
+"English": "\"Isle of the great Steeples\"",
+"Westron": "Tindrock (archaic Westron)",
+"Sindarin": "Tol Brandir"
+},
+"area_km2": 7.6
+},
+{
+"id": "IS008",
+"layer": "Islands",
+"name": "Girdley Island",
+"x": 608.3,
+"y": 1431.1,
+"attrs": {
+"Realm": "The Shire",
+"Inhabitant": "Uninhabited?",
+"English": "Gridley Island; \"girdle-island\"",
+"Other": "Gyrdlieg (Old Hobbitish)"
+},
+"area_km2": 2.1
+},
+{
+"id": "IS003",
+"layer": "Islands",
+"name": "Carrock",
+"x": 1277.2,
+"y": 1520.8,
+"attrs": {
+"Realm": "Rhovanion",
+"Inhabitant": "Near the homes of Beorn and Radagast"
+},
+"area_km2": 1.2
+},
+{
+"id": "IS002",
+"layer": "Islands",
+"name": "Cair Andros",
+"x": 1451.2,
+"y": 729.9,
+"attrs": {
+"Realm": "Gondor",
+"Inhabitant": "Gondorians",
+"English": "\"Ship of Long Foam\"",
+"Sindarin": "Cair Andros"
+},
+"area_km2": 59.5
+},
+{
+"id": "BA013",
+"layer": "Bays",
+"name": "Icebay of Forochel",
+"x": 483.4,
+"y": 1895.7,
+"attrs": {
+"Inhabitant": "Abandoned",
+"English": "Icebay of Forochel"
+},
+"area_km2": 14173.0
+},
+{
+"id": "BA012",
+"layer": "Bays",
+"name": "Gulf of Lune",
+"x": 153.4,
+"y": 1420.5,
+"attrs": {
+"Inhabitant": "Sindar, Círdan",
+"English": "Gulf of Lune; Gulf of Lhûn"
+},
+"area_km2": 16385.7
+},
+{
+"id": "BA007",
+"layer": "Bays",
+"name": "Cobas Haven",
+"x": 1022.8,
+"y": 559.8,
+"attrs": {
+"Inhabitant": "Abandoned",
+"Quenya": "Kópas (\"Haven\")"
+},
+"area_km2": 878.7
+},
+{
+"id": "BA003",
+"layer": "Bays",
+"name": "Bay of Belfalas",
+"x": 922.1,
+"y": 392.0,
+"attrs": {
+"Inhabitant": "Gondorians (north), Haradrim (south)",
+"English": "Bay of Belfalas; windy Bay of Bel",
+"Sindarin": "Côf Belfalas;  Côf gwaeren Bêl (\"the windy Bay of Bêl\")"
+},
+"area_km2": 232431.4
+},
+{
+"id": "FI009",
+"layer": "Fields",
+"name": "Field of Celebrant",
+"x": 1240.2,
+"y": 1146.3,
+"attrs": {
+"Type": "Field",
+"Realm": "Rhovanion",
+"English": "Field of Celebrant; Field of \"Silverlode\"",
+"Sindarin": "[field of] Celebrant"
+},
+"area_km2": 2598.2
+},
+{
+"id": "FI011",
+"layer": "Fields",
+"name": "Firienfeld",
+"x": 1051.2,
+"y": 820.4,
+"attrs": {
+"Type": "Flat upland",
+"Realm": "Rohan",
+"Inhabitant": "Rohirrim",
+"English": "Dunharrow",
+"Rohirric": "Firienfeld"
+},
+"area_km2": 1.4
+},
+{
+"id": "FI025",
+"layer": "Fields",
+"name": "Plateau of Gorgoroth",
+"x": 1678.6,
+"y": 699.8,
+"attrs": {
+"Type": "Plain",
+"Realm": "Mordor",
+"Inhabitant": "Sauron, Orcs, Men allied to Sauron",
+"English": "Plateau of \"horror/dread\"",
+"Sindarin": "[plateau of] Gorgoroth"
+},
+"area_km2": 38139.9
+},
+{
+"id": "FI016",
+"layer": "Fields",
+"name": "Lithlad",
+"x": 1936.5,
+"y": 683.0,
+"attrs": {
+"Type": "Plain",
+"Realm": "Mordor",
+"Inhabitant": "Orcs",
+"English": "\"Ash Plain\"",
+"Sindarin": "Lithlad"
+},
+"area_km2": 72684.3
+},
+{
+"id": "FI017",
+"layer": "Fields",
+"name": "Desert of Lostladen",
+"x": 1687.1,
+"y": 324.3,
+"attrs": {
+"Type": "Desert",
+"Realm": "Mordor",
+"English": "Desert of Lostladen"
+},
+"area_km2": 9841.7
+},
+{
+"id": "FI021",
+"layer": "Fields",
+"name": "Parth Galen",
+"x": 1368.0,
+"y": 882.9,
+"attrs": {
+"Type": "Field",
+"Realm": "Gondor",
+"Inhabitant": "Uninhabited",
+"English": "\"green sward\"",
+"Sindarin": "Parth Galen"
+},
+"area_km2": 4.6
+},
+{
+"id": "FI022",
+"layer": "Fields",
+"name": "Party Field",
+"x": 544.2,
+"y": 1431.2,
+"attrs": {
+"Type": "Field",
+"Realm": "The Shire",
+"Inhabitant": "Hobbits; Bilbo",
+"English": "Party Field"
+},
+"area_km2": 0.0
+},
+{
+"id": "FI024",
+"layer": "Fields",
+"name": "Pelennor Fields",
+"x": 1437.7,
+"y": 662.9,
+"attrs": {
+"Type": "Field",
+"Realm": "Gondor",
+"Inhabitant": "Gondorians",
+"English": "\"fenced/encircled land\" Fields",
+"Sindarin": "Pelennor [fields]"
+},
+"area_km2": 414.0
+},
+{
+"id": "FI005",
+"layer": "Fields",
+"name": "Derndingle",
+"x": 1022.2,
+"y": 1017.8,
+"attrs": {
+"Type": "Hollow",
+"Realm": "Fangorn Forest",
+"Inhabitant": "Ents",
+"Comments": "Site of Entmoot"
+},
+"area_km2": 4.8
+},
+{
+"id": "FI010",
+"layer": "Fields",
+"name": "Field of Cormallen",
+"x": 1457.8,
+"y": 740.8,
+"attrs": {
+"Type": "Field",
+"Realm": "Gondor",
+"Inhabitant": "Men",
+"English": "Field of \"golden circle\"",
+"Sindarin": "Cormallen; Cormalthen (Gondor Sindarin)"
+},
+"area_km2": 25.4
+},
+{
+"id": "FI006",
+"layer": "Fields",
+"name": "Desolation of the Morannon",
+"x": 1525.1,
+"y": 867.6,
+"attrs": {
+"Type": "Dead land",
+"Realm": "Mordor Adjacent Lands",
+"Inhabitant": "Uninhabited",
+"English": "Desolation of the Morannon"
+},
+"area_km2": 334.6
+},
+{
+"id": "FI003",
+"layer": "Fields",
+"name": "Bonfire Glade",
+"x": 599.0,
+"y": 1388.8,
+"attrs": {
+"Type": "Glade",
+"Realm": "The Shire",
+"English": "Bonfire Glade"
+},
+"area_km2": 78.2
+},
+{
+"id": "FI004",
+"layer": "Fields",
+"name": "Dagorlad",
+"x": 1612.2,
+"y": 970.3,
+"attrs": {
+"Type": "Plain",
+"Realm": "Mordor Adjacent Lands",
+"Inhabitant": "Uninhabited",
+"English": "\"battle plain\"",
+"Sindarin": "Dagorlad"
+},
+"area_km2": 5996.5
+},
+{
+"id": "FI028",
+"layer": "Fields",
+"name": "The Wold",
+"x": 1244.6,
+"y": 1036.2,
+"attrs": {
+"Type": "Upland plain",
+"Realm": "Rohan",
+"Inhabitant": "Deserted",
+"English": "The Wold"
+},
+"area_km2": 13741.6
+},
+{
+"id": "VA041",
+"layer": "Valleys",
+"name": "Tarlang's Neck",
+"x": 1112.0,
+"y": 739.5,
+"attrs": {
+"Type": "Pass",
+"English": "Tarlang's Neck"
+},
+"area_km2": 184.9
+},
+{
+"id": "VA021",
+"layer": "Valleys",
+"name": "Udûn (valley)",
+"x": 1531.3,
+"y": 810.5,
+"attrs": {
+"Type": "Valley",
+"Inhabitant": "Orcs",
+"English": "\"dark pit/Underworld\"; \"hell\"",
+"Sindarin": "Udûn"
+},
+"area_km2": 1250.4
+},
+{
+"id": "VA026",
+"layer": "Valleys",
+"name": "Withered Heath",
+"x": 1554.0,
+"y": 1688.6,
+"attrs": {
+"Type": "Valley",
+"Inhabitant": "Dragons",
+"English": "Withered Heath"
+},
+"area_km2": 3438.4
+},
+{
+"id": "VA031",
+"layer": "Valleys",
+"name": "Cirith Gorgor",
+"x": 1525.2,
+"y": 847.5,
+"attrs": {
+"Type": "Guarded Pass",
+"Inhabitant": "Orcs",
+"Comments": "Sealed by the Black Gate (DO004; FT005; MO002)",
+"English": "\"pass of extreme horror\"",
+"Sindarin": "Cirith Gorgor"
+},
+"area_km2": 45.6
+},
+{
+"id": "VA030",
+"layer": "Valleys",
+"name": "Carach Angren",
+"x": 1542.0,
+"y": 791.3,
+"attrs": {
+"Type": "Guarded Pass",
+"Inhabitant": "Orcs",
+"English": "\"Iron-mouth\"",
+"Westron": "Isenmouthe (archaic)",
+"Sindarin": "Carach Angren"
+},
+"area_km2": 12.8
+},
+{
+"id": "VA034",
+"layer": "Valleys",
+"name": "Cirith Ungol",
+"x": 1525.2,
+"y": 664.4,
+"attrs": {
+"Type": "Pass",
+"Inhabitant": "Orcs, Shelob",
+"English": "\"Spider's Cleft\"",
+"Sindarin": "Cirith Ungol; Cirith Dúath (formerly)"
+},
+"area_km2": 88.6
+},
+{
+"id": "VA037",
+"layer": "Valleys",
+"name": "North Stair",
+"x": 1370.9,
+"y": 874.6,
+"attrs": {
+"Type": "Stair",
+"Inhabitant": "Uninhabited",
+"English": "North Stair"
+},
+"area_km2": 9.9
+},
+{
+"id": "VA036",
+"layer": "Valleys",
+"name": "High Pass",
+"x": 1204.7,
+"y": 1522.9,
+"attrs": {
+"Type": "Pass",
+"Inhabitant": "Beornings",
+"Comments": "There is a lower pass at the same location, but it's normally blocked by orcs",
+"English": "High Pass; Pass of Imladris",
+"Sindarin": "Cirith Forn en Andrath (\"the high-climbing pass of the north\")"
+},
+"area_km2": 169.8
+},
+{
+"id": "VA035",
+"layer": "Valleys",
+"name": "Dimrill Stair",
+"x": 1145.0,
+"y": 1244.6,
+"attrs": {
+"Type": "Pass",
+"Inhabitant": "Caradhras",
+"English": "Dimrill Stair"
+},
+"also": [
+"Roads"
+],
+"area_km2": 3.8
+},
+{
+"id": "VA028",
+"layer": "Valleys",
+"name": "Andrath",
+"x": 677.1,
+"y": 1398.1,
+"attrs": {
+"Type": "Defile",
+"Inhabitant": "Black Riders",
+"English": "\"Long Climb\"",
+"Sindarin": "Andrath"
+},
+"area_km2": 672.8
+},
+{
+"id": "VA018",
+"layer": "Valleys",
+"name": "Stonewain Valley",
+"x": 1417.7,
+"y": 718.7,
+"attrs": {
+"Type": "Valley",
+"Inhabitant": "Gondorians",
+"English": "Stonewain Valley",
+"Quenya": "Nand' Ondolunkava; Ondolunkanan(do)",
+"Sindarin": "Nan Gondresgion; Imrath Gondraich (\"Stonewain Valley\")",
+"Rohirric": "Stānwægna Dæl"
+},
+"area_km2": 98.0
+},
+{
+"id": "VA017",
+"layer": "Valleys",
+"name": "Ringló Vale",
+"x": 1253.9,
+"y": 685.1,
+"attrs": {
+"Type": "Valley",
+"Inhabitant": "Gondorians",
+"English": "Ringló Vale"
+},
+"area_km2": 92.6
+},
+{
+"id": "VA014",
+"layer": "Valleys",
+"name": "Nan Curunír",
+"x": 968.1,
+"y": 986.7,
+"attrs": {
+"Type": "Valley",
+"Inhabitant": "Saruman",
+"English": "\"Saruman's Vale\"",
+"Sindarin": "Nan Curunír"
+},
+"area_km2": 1050.4
+},
+{
+"id": "VA013",
+"layer": "Valleys",
+"name": "Morgul Vale",
+"x": 1513.2,
+"y": 681.0,
+"attrs": {
+"Type": "Valley",
+"Inhabitant": "Orcs",
+"English": "Morgul Vale; \"Deep/Narrow Valley of Black Sorcery\"",
+"Sindarin": "Imlad Morgul"
+},
+"area_km2": 58.0
+},
+{
+"id": "VA020",
+"layer": "Valleys",
+"name": "Tumladen (Gondor)",
+"x": 1356.0,
+"y": 631.0,
+"attrs": {
+"Type": "Valley",
+"Inhabitant": "Gondorians",
+"English": "\"Valley of Smoothness\"",
+"Sindarin": "Tumladen"
+},
+"area_km2": 122.3
+},
+{
+"id": "VA011",
+"layer": "Valleys",
+"name": "Imloth Melui",
+"x": 1402.2,
+"y": 597.0,
+"attrs": {
+"Type": "Valley",
+"Inhabitant": "Gondorians",
+"English": "\"sweet flower-valley\"",
+"Sindarin": "Imloth Melui"
+},
+"area_km2": 586.1
+},
+{
+"id": "VA008",
+"layer": "Valleys",
+"name": "Harrowdale",
+"x": 1054.1,
+"y": 824.0,
+"attrs": {
+"Type": "Valley",
+"Inhabitant": "Rohirrim",
+"English": "Harrowdale"
+},
+"area_km2": 37.1
+},
+{
+"id": "VA006",
+"layer": "Valleys",
+"name": "Entwash Vale",
+"x": 1287.3,
+"y": 828.6,
+"attrs": {
+"Type": "Valley",
+"Inhabitant": "Rohirrim",
+"English": "Entwash Vale"
+},
+"area_km2": 469.8
+},
+{
+"id": "VA005",
+"layer": "Valleys",
+"name": "Dwimorberg glen",
+"x": 1052.5,
+"y": 816.6,
+"attrs": {
+"Type": "Glen",
+"Inhabitant": "Uninhabited",
+"Comments": "Not given an official name in Tolkien's work"
+},
+"area_km2": 0.3
+},
+{
+"id": "VA004",
+"layer": "Valleys",
+"name": "Dimrill Dale",
+"x": 1147.0,
+"y": 1238.9,
+"attrs": {
+"Type": "Valley",
+"Inhabitant": "Uninhabited",
+"English": "Dimrill Dale",
+"Sindarin": "Nanduhirion",
+"Khuzdul": "Azanulbizar"
+},
+"area_km2": 6.1
+},
+{
+"id": "VA003",
+"layer": "Valleys",
+"name": "Deeping-coomb",
+"x": 967.5,
+"y": 900.4,
+"attrs": {
+"Type": "Valley",
+"Inhabitant": "Rohirrim",
+"English": "Deeping-coomb"
+},
+"area_km2": 7.6
+},
+{
+"id": "VA001",
+"layer": "Valleys",
+"name": "Blackroot Vale",
+"x": 1046.9,
+"y": 745.4,
+"attrs": {
+"Type": "Valley",
+"Inhabitant": "Gondorians",
+"English": "Blackroot Vale",
+"Sindarin": "Mornan (\"dark valley\")"
+},
+"area_km2": 296.2
+},
+{
+"id": "VA025",
+"layer": "Valleys",
+"name": "Water-valley",
+"x": 599.8,
+"y": 1427.6,
+"attrs": {
+"Type": "Valley",
+"Inhabitant": "Hobbits",
+"English": "Water-valley"
+},
+"area_km2": 446.4
+},
+{
+"id": "VA040",
+"layer": "Valleys",
+"name": "Paths of the Dead",
+"x": 1058.9,
+"y": 763.1,
+"attrs": {
+"Type": "Pass",
+"Inhabitant": "Dead Men",
+"English": "Paths of the Dead"
+},
+"area_km2": 63.6
+},
+{
+"id": "RI003",
+"layer": "Rivers",
+"name": "Anduin",
+"x": 1349.2,
+"y": 1090.4,
+"attrs": {
+"Outflow": "Bay of Belfalas (BA003)",
+"Tributary": "Rhimdath (RI066), Gladden (RI031), Celebrant (RI014), Limlight (RI049), Entwash (RI085), Morgulduin (RI056), Erui (RI023), Sirith (RI077), Poros (RI064)",
+"English": "Great River; Great River of Wilderland",
+"Sindarin": "Anduin",
+"Rohirric": "Langflood"
+}
+},
+{
+"id": "RI006",
+"layer": "Rivers",
+"name": "Baranduin",
+"x": 587.7,
+"y": 1300.7,
+"attrs": {
+"Outflow": "Belegaer",
+"Tributary": "The Water (RI080), Shirebourn (RI073), Withywindle (RI083), Norbourn (RI062), Stock-brook (RI093)",
+"English": "Brandywine",
+"Westron": "Branda-nîn (Hobbitish Westron; \"border water\"); Bralda-hîm (\"heady ale\")",
+"Sindarin": "Baranduin (\"golden-brown river\")"
+}
+},
+{
+"id": "RI011",
+"layer": "Rivers",
+"name": "Bruinen",
+"x": 987.3,
+"y": 1396.8,
+"attrs": {
+"Outflow": "Hoarwell (RI040)",
+"Tributary": "At least two, unnamed",
+"English": "Loudwater",
+"Sindarin": "Bruinen"
+}
+},
+{
+"id": "RI013",
+"layer": "Rivers",
+"name": "Carnen",
+"x": 1697.8,
+"y": 1501.3,
+"attrs": {
+"Outflow": "River Running (RI069)",
+"English": "Redwater",
+"Sindarin": "Carnen"
+}
+},
+{
+"id": "RI061",
+"layer": "Rivers",
+"name": "Nimrodel (river)",
+"x": 1135.5,
+"y": 1187.6,
+"attrs": {
+"Outflow": "Celebrant (RI014)",
+"Comments": "Water from this stream is said to be \"healing to the weary\"",
+"Sindarin": "Nimrodel"
+}
+},
+{
+"id": "RI014",
+"layer": "Rivers",
+"name": "Celebrant",
+"x": 1172.3,
+"y": 1200.4,
+"attrs": {
+"Outflow": "Anduin (RI003)",
+"Tributary": "Nimrodel (RI061)",
+"English": "Silverlode",
+"Sindarin": "Celebrant",
+"Khuzdul": "Kibil-nâla"
+}
+},
+{
+"id": "RI018",
+"layer": "Rivers",
+"name": "Ciril",
+"x": 1120.6,
+"y": 675.2,
+"attrs": {
+"Outflow": "Ringló (RI067)",
+"Other": "Ciril/Kiril (unknown origin)"
+}
+},
+{
+"id": "RI022",
+"layer": "Rivers",
+"name": "Enchanted River",
+"x": 1440.6,
+"y": 1524.1,
+"attrs": {
+"Outflow": "Forest River (RI027)",
+"English": "Enchanted River",
+"Sindarin": "Gûlduin; Gûlhir"
+}
+},
+{
+"id": "RI023",
+"layer": "Rivers",
+"name": "Erui",
+"x": 1403.1,
+"y": 597.9,
+"attrs": {
+"Outflow": "Anduin (RI003)",
+"Tributary": "None",
+"English": "\"single/alone\"",
+"Sindarin": "Erui"
+}
+},
+{
+"id": "RI029",
+"layer": "Rivers",
+"name": "Gilrain",
+"x": 1249.9,
+"y": 612.7,
+"attrs": {
+"Outflow": "Serni (RI072)",
+"Tributary": "At least one, unnamed",
+"English": "\"spark wander/stray\"",
+"Sindarin": "Gilrain"
+}
+},
+{
+"id": "RI032",
+"layer": "Rivers",
+"name": "Glanduin",
+"x": 874.4,
+"y": 1153.9,
+"attrs": {
+"Outflow": "Gwathló (RI038)",
+"Tributary": "Sirannon (RI092)",
+"English": "\"Border river\"; Swanfleet river",
+"Sindarin": "Glanduin"
+}
+},
+{
+"id": "RI035",
+"layer": "Rivers",
+"name": "Greylin",
+"x": 1237.3,
+"y": 1669.6,
+"attrs": {
+"Outflow": "Anduin (RI003)",
+"Tributary": "At least one, unnamed",
+"English": "\"the noisy one\"",
+"Rohirric": "Greylin?"
+}
+},
+{
+"id": "RI038",
+"layer": "Rivers",
+"name": "Gwathló",
+"x": 734.0,
+"y": 1133.7,
+"attrs": {
+"Outflow": "Belegaer",
+"Tributary": "Hoarwell (RI040), Glanduin (RI032)",
+"English": "Greyflood",
+"Sindarin": "Gwathló (\"Shadowy river from the fens\"); Gwathir (\"River of Shadow\")"
+}
+},
+{
+"id": "RI039",
+"layer": "Rivers",
+"name": "Harnen",
+"x": 1641.3,
+"y": 286.0,
+"attrs": {
+"Outflow": "Belegaer",
+"English": "\"South Water\"",
+"Sindarin": "Harnen"
+}
+},
+{
+"id": "RI040",
+"layer": "Rivers",
+"name": "Hoarwell",
+"x": 938.5,
+"y": 1489.9,
+"attrs": {
+"Outflow": "Gwathló (RI038)",
+"Tributary": "Bruinen (RI011)",
+"English": "Hoarwell; \"grey spring\"",
+"Sindarin": "Mitheithel (\"grey spring\")"
+}
+},
+{
+"id": "RI042",
+"layer": "Rivers",
+"name": "Langwell",
+"x": 1196.1,
+"y": 1645.6,
+"attrs": {
+"Outflow": "Anduin (RI003)",
+"English": "Langwell",
+"Rohirric": "Langwell?"
+}
+},
+{
+"id": "RI043",
+"layer": "Rivers",
+"name": "Lefnui",
+"x": 740.3,
+"y": 661.2,
+"attrs": {
+"Outflow": "Bay of Belfalas (BA003)",
+"English": "\"fifth\"",
+"Sindarin": "Lefnui"
+}
+},
+{
+"id": "RI045",
+"layer": "Rivers",
+"name": "Lhûn",
+"x": 391.8,
+"y": 1640.5,
+"attrs": {
+"Outflow": "Gulf of Lune (BA012)",
+"Tributary": "Little Lune (RI052); unnamed others",
+"Westron": "Lune",
+"Sindarin": "Lhûn (not valid Sindarin); Sîr Luin (\"Blue River\")",
+"Other": "Lhûn (Noldorin, \"Blue\")"
+}
+},
+{
+"id": "RI049",
+"layer": "Rivers",
+"name": "Limlight",
+"x": 1171.6,
+"y": 1121.8,
+"attrs": {
+"Outflow": "Anduin (RI003)",
+"English": "Limlight",
+"Other": "Limlaith; Limlich; Limliht; Limhîr"
+}
+},
+{
+"id": "RI052",
+"layer": "Rivers",
+"name": "Little Lune",
+"x": 335.7,
+"y": 1719.6,
+"attrs": {
+"Outflow": "Lune (RI045)",
+"English": "Little Lune"
+}
+},
+{
+"id": "RI056",
+"layer": "Rivers",
+"name": "Morgulduin",
+"x": 1495.4,
+"y": 683.1,
+"attrs": {
+"Outflow": "Anduin (RI003)",
+"English": "\"black magic river\"",
+"Sindarin": "Morgulduin"
+}
+},
+{
+"id": "RI057",
+"layer": "Rivers",
+"name": "Morthond",
+"x": 1006.6,
+"y": 688.9,
+"attrs": {
+"Outflow": "Ringló (RI067)",
+"Tributary": "Calenhir (RI012)",
+"English": "Blackroot",
+"Sindarin": "Morthond"
+}
+},
+{
+"id": "RI062",
+"layer": "Rivers",
+"name": "Norbourn",
+"x": 562.5,
+"y": 1447.0,
+"attrs": {
+"Outflow": "Bywater Pool (LA002)",
+"English": "Norbourn"
+}
+},
+{
+"id": "RI064",
+"layer": "Rivers",
+"name": "Poros",
+"x": 1421.7,
+"y": 450.6,
+"attrs": {
+"Outflow": "Anduin (RI003)",
+"Other": "Poros (unknown)"
+}
+},
+{
+"id": "RI066",
+"layer": "Rivers",
+"name": "Rhimdath",
+"x": 1243.4,
+"y": 1561.1,
+"attrs": {
+"Outflow": "Anduin (RI003)",
+"English": "Rushdown",
+"Other": "Rhimdath (Noldorin)"
+}
+},
+{
+"id": "RI067",
+"layer": "Rivers",
+"name": "Ringló",
+"x": 1168.3,
+"y": 643.7,
+"attrs": {
+"Outflow": "Cobas Haven (BA007)",
+"Tributary": "Ciril (RI018)",
+"English": "\"cold fenland\"",
+"Sindarin": "Ringló"
+}
+},
+{
+"id": "RI069",
+"layer": "Rivers",
+"name": "River Running",
+"x": 1722.0,
+"y": 1429.2,
+"attrs": {
+"Outflow": "Sea of Rhûn",
+"Tributary": "Forest River (RI027), unnamed tributary, Carnen (RI013)",
+"English": "River Running",
+"Sindarin": "Celduin"
+}
+},
+{
+"id": "RI072",
+"layer": "Rivers",
+"name": "Serni",
+"x": 1295.6,
+"y": 548.6,
+"attrs": {
+"Outflow": "Bay of Belfalas (BA003)",
+"Tributary": "Gilrain (RI029)",
+"English": "\"stony\"",
+"Sindarin": "Serni"
+}
+},
+{
+"id": "RI073",
+"layer": "Rivers",
+"name": "Shirebourn",
+"x": 563.4,
+"y": 1372.5,
+"attrs": {
+"Outflow": "Baranduin (RI006)",
+"Tributary": "Thistle Brook (RI094)",
+"English": "Shirebourn; \"River of the Shire\"; \"Bright-stream\"",
+"Other": "Scirburna (Old Hobbitish)"
+}
+},
+{
+"id": "RI077",
+"layer": "Rivers",
+"name": "Sirith",
+"x": 1352.6,
+"y": 599.6,
+"attrs": {
+"Outflow": "Anduin (RI003)",
+"Tributary": "Celos (RI017)",
+"English": "\"a flowing\"",
+"Sindarin": "Sirith"
+}
+},
+{
+"id": "RI017",
+"layer": "Rivers",
+"name": "Celos",
+"x": 1330.2,
+"y": 645.3,
+"attrs": {
+"Outflow": "Sirith (RI077)",
+"English": "\"flow out swiftly\"",
+"Sindarin": "Celos"
+}
+},
+{
+"id": "RI080",
+"layer": "Rivers",
+"name": "The Water",
+"x": 543.1,
+"y": 1429.3,
+"attrs": {
+"Outflow": "Baranduin (RI006)",
+"English": "The Water; the Shire-water"
+}
+},
+{
+"id": "RI083",
+"layer": "Rivers",
+"name": "Withywindle",
+"x": 616.8,
+"y": 1389.0,
+"attrs": {
+"Outflow": "Baranduin (RI006)",
+"English": "Withywindle; \"willow spindle/reel\"",
+"Other": "Withigwindel (Old Hobbitish)"
+}
+},
+{
+"id": "RI084",
+"layer": "Rivers",
+"name": "Adorn",
+"x": 858.9,
+"y": 848.0,
+"attrs": {
+"Outflow": "Isen (RI086)",
+"Other": "Adorn (pre-Númenórean origin)"
+}
+},
+{
+"id": "RI085",
+"layer": "Rivers",
+"name": "Entwash",
+"x": 1144.5,
+"y": 903.1,
+"attrs": {
+"Outflow": "Anduin (RI003)",
+"English": "Entwash",
+"Sindarin": "Onodló",
+"Rohirric": "Entwaesc"
+}
+},
+{
+"id": "RI086",
+"layer": "Rivers",
+"name": "Isen",
+"x": 809.3,
+"y": 901.1,
+"attrs": {
+"Outflow": "Belegaer",
+"Tributary": "Adorn (RI084)",
+"English": "\"Iron\"",
+"Sindarin": "Sîr Angren (\"iron river\")",
+"Rohirric": "Isen"
+}
+},
+{
+"id": "RI087",
+"layer": "Rivers",
+"name": "Mering Stream",
+"x": 1269.3,
+"y": 799.9,
+"attrs": {
+"Outflow": "Entwash (RI085)",
+"English": "\"Boundary stream\"",
+"Sindarin": "Glanhír",
+"Rohirric": "Mering [Stream]"
+}
+},
+{
+"id": "RI088",
+"layer": "Rivers",
+"name": "Snowbourn",
+"x": 1097.6,
+"y": 840.3,
+"attrs": {
+"Outflow": "Entwash (RI085)",
+"English": "Snowbourn",
+"Rohirric": "Snāwburna"
+}
+},
+{
+"id": "RI089",
+"layer": "Rivers",
+"name": "Deeping-stream",
+"x": 1051.5,
+"y": 920.8,
+"attrs": {
+"Outflow": "Entwash (RI085)?",
+"English": "Deeping-stream"
+}
+},
+{
+"id": "RI092",
+"layer": "Rivers",
+"name": "Sirannon",
+"x": 993.6,
+"y": 1200.6,
+"attrs": {
+"Outflow": "Glanduin (RI032)",
+"Comments": "Dammed prior to the War of the Ring and became a foul lake; presumably cleansed during the Fourth Age",
+"English": "Gate Stream",
+"Sindarin": "Sirannon"
+}
+},
+{
+"id": "RI093",
+"layer": "Rivers",
+"name": "Stock-brook",
+"x": 591.3,
+"y": 1405.2,
+"attrs": {
+"Outflow": "Baranduin (RI006)",
+"English": "Stock-brook; \"the brook running through Stock\"",
+"Other": "Se Stocbroc (Old Hobbitish)"
+}
+},
+{
+"id": "RI094",
+"layer": "Rivers",
+"name": "Thistle Brook",
+"x": 564.9,
+"y": 1382.3,
+"attrs": {
+"Outflow": "Shirebourn (RI073)",
+"English": "Thistle Brook"
+}
+},
+{
+"id": "RI027",
+"layer": "Rivers",
+"name": "Forest River",
+"x": 1414.3,
+"y": 1595.8,
+"attrs": {
+"Outflow": "River Running (RI069)",
+"Tributary": "Enchanted River (RI022)",
+"English": "Forest River"
+}
+},
+{
+"id": "RI031",
+"layer": "Rivers",
+"name": "Gladden River",
+"x": 1180.7,
+"y": 1402.4,
+"attrs": {
+"Outflow": "Anduin (RI003)",
+"Tributary": "At least two, unnamed",
+"English": "Gladden River",
+"Sindarin": "Sîr Ninglor (\"River Goldwater\")"
+}
+},
+{
+"id": "RD012",
+"layer": "Roads",
+"name": "Great East Road",
+"x": 820.5,
+"y": 1453.3,
+"attrs": {
+"Type": "Major road",
+"Realm": "Eriador, Arnor, the Shire",
+"English": "East Road; East-West Road; Great East Road; Old Road",
+"Name_1": "East Road"
+}
+},
+{
+"id": "RD017",
+"layer": "Roads",
+"name": "The Greenway",
+"x": 563.4,
+"y": 1297.1,
+"attrs": {
+"Type": "Road",
+"Realm": "Eriador",
+"Owner": "Abandoned",
+"Comments": "Portion of the North-South Road (RD024) around Bree-land; overgrown",
+"English": "Greenway; North-South Road; Great Road; Royal Road",
+"Name_1": "Greenway"
+}
+},
+{
+"id": "RD024",
+"layer": "Roads",
+"name": "North-South Road",
+"x": 993.4,
+"y": 874.2,
+"attrs": {
+"Type": "Major road",
+"Realm": "Bree-land, Rohan, Gondor",
+"English": "North-South Road; Great Road; Royal Road; Greenway; Old South Road; Great West Road; South Road",
+"Name_1": "North-South Road"
+}
+},
+{
+"id": "RD044",
+"layer": "Roads",
+"name": "Great West Road",
+"x": 1194.2,
+"y": 806.0,
+"attrs": {
+"Type": "Road",
+"Realm": "Rohan",
+"Owner": "Rohirrim",
+"Comments": "Portion of the North-South Road (RD024)",
+"English": "Great West Road",
+"Name_1": "Great West Road"
+}
+},
+{
+"id": "RD035",
+"layer": "Roads",
+"name": "South Road",
+"x": 1398.0,
+"y": 595.2,
+"attrs": {
+"Type": "Road",
+"Realm": "Gondor",
+"Comments": "Portion of the North-South Road (RD024) near Minas Tirith",
+"English": "South Road; North-South Road; Great Road; Royal Road",
+"Name_1": "South Road"
+}
+},
+{
+"id": "RD046",
+"layer": "Roads",
+"name": "Morgul Road",
+"x": 1553.9,
+"y": 709.5,
+"attrs": {
+"Type": "Road",
+"Realm": "Mordor",
+"Owner": "Orcs",
+"English": "Morgul Road",
+"Name_1": "Morgul Road"
+}
+},
+{
+"id": "RD047",
+"layer": "Roads",
+"name": "Gorgoroth Road",
+"x": 1631.6,
+"y": 747.9,
+"attrs": {
+"Type": "Road",
+"Realm": "Mordor",
+"Owner": "Orcs",
+"English": "Gorgoroth Road",
+"Name_1": "Gorgoroth Road"
+}
+},
+{
+"id": "RD018",
+"layer": "Roads",
+"name": "Harad Road",
+"x": 1436.9,
+"y": 386.9,
+"attrs": {
+"Type": "Road",
+"Realm": "Gondor",
+"Comments": "Southern parts likely fallen into disuse",
+"English": "Harad Road",
+"Name_1": "Harad Road"
+}
+},
+{
+"id": "RD049",
+"layer": "Roads",
+"name": "Sauron's Road",
+"x": 1607.8,
+"y": 730.1,
+"attrs": {
+"Type": "Road",
+"Realm": "Mordor",
+"Owner": "Sauron",
+"English": "Sauron's Road",
+"Name_1": "Sauron's Road"
+}
+},
+{
+"id": "RD005",
+"layer": "Roads",
+"name": "Bywater Road",
+"x": 515.6,
+"y": 1426.2,
+"attrs": {
+"Type": "Road",
+"Realm": "The Shire",
+"Owner": "Hobbits",
+"English": "Bywater Road",
+"Name_1": "Bywater Road"
+}
+},
+{
+"id": "RD006_10",
+"layer": "Roads",
+"name": "Causeway",
+"x": 597.1,
+"y": 1406.0,
+"attrs": {
+"Type": "Road",
+"Realm": "The Shire",
+"Owner": "Hobbits",
+"English": "Causeway",
+"Name_1": "Causeway"
+},
+"also": [
+"Roads"
+]
+},
+{
+"id": "RD004",
+"layer": "Roads",
+"name": "Bagshot Row",
+"x": 548.0,
+"y": 1430.1,
+"attrs": {
+"Type": "Road",
+"Realm": "The Shire",
+"Owner": "Hobbits",
+"Comments": "Destroyed during Saruman's occupation; rebuilt as New Row",
+"English": "Bagshot Row; New Row",
+"Name_1": "Bagshot Row"
+}
+},
+{
+"id": "RD013",
+"layer": "Roads",
+"name": "Elf-path",
+"x": 1397.3,
+"y": 1547.3,
+"attrs": {
+"Type": "Pathway",
+"Realm": "Mirkwood",
+"Owner": "Silvan Elves/Nandor",
+"English": "Elf-path",
+"Name_1": "Elf-path"
+}
+},
+{
+"id": "RD038",
+"layer": "Roads",
+"name": "Stock Road",
+"x": 568.3,
+"y": 1406.6,
+"attrs": {
+"Type": "Road",
+"Realm": "The Shire",
+"Owner": "Hobbits",
+"English": "Stock Road",
+"Name_1": "Stock Road"
+}
+},
+{
+"id": "RD025",
+"layer": "Roads",
+"name": "Northway",
+"x": 571.6,
+"y": 1446.4,
+"attrs": {
+"Type": "Road",
+"Realm": "The Shire",
+"Owner": "Hobbits",
+"English": "Northway",
+"Name_1": "Northway"
+}
+},
+{
+"id": "RD014",
+"layer": "Roads",
+"name": "Ferry Lane",
+"x": 597.9,
+"y": 1405.8,
+"attrs": {
+"Type": "Road",
+"Realm": "The Shire",
+"Owner": "Hobbits",
+"English": "Ferry Lane",
+"Name_1": "Ferry Lane"
+}
+},
+{
+"id": "RD016",
+"layer": "Roads",
+"name": "Gateway",
+"x": 1430.7,
+"y": 653.2,
+"attrs": {
+"Type": "Road",
+"Realm": "Gondor",
+"Owner": "Gondor",
+"English": "Gateway",
+"Name_1": "Gateway"
+}
+},
+{
+"id": "RD026",
+"layer": "Roads",
+"name": "Old Forest Road",
+"x": 1417.6,
+"y": 1453.3,
+"attrs": {
+"Type": "Road",
+"Realm": "Misty Mountains, Mirkwood",
+"Owner": "Dwarves (originally); Goblins",
+"Comments": "Second Age; Thorin and company planned to use this road, but it had fallen into such disrepair it became unpassable",
+"English": "Old Forest Road; Forest Road",
+"Sindarin": "Men-i-Naugrim (\"Road of the Dwarves\")",
+"Name_1": "Old Forest Road"
+}
+},
+{
+"id": "RD034",
+"layer": "Roads",
+"name": "South Lane",
+"x": 552.3,
+"y": 1426.2,
+"attrs": {
+"Type": "Lane",
+"Realm": "The Shire",
+"Owner": "Hobbits",
+"English": "South Lane",
+"Name_1": "South Lane"
+}
+},
+{
+"id": "RD019",
+"layer": "Roads",
+"name": "Hill Road",
+"x": 553.4,
+"y": 1432.4,
+"attrs": {
+"Type": "Road",
+"Realm": "The Shire",
+"Owner": "Hobbits",
+"English": "Hill Road",
+"Name_1": "Hill Road"
+}
+},
+{
+"id": "RD020",
+"layer": "Roads",
+"name": "Hobbiton Road",
+"x": 552.7,
+"y": 1426.2,
+"attrs": {
+"Type": "Road",
+"Realm": "The Shire",
+"Owner": "Hobbits",
+"Comments": "Part of the Bywater Road (RD005)",
+"English": "Hobbiton Road",
+"Name_1": "Hobbiton Road"
+}
+},
+{
+"id": "RD045",
+"layer": "Roads",
+"name": "Deeping-road",
+"x": 955.7,
+"y": 896.4,
+"attrs": {
+"Type": "Road",
+"Realm": "Rohan",
+"Owner": "Rohirrim",
+"English": "Deeping-road",
+"Name_1": "Deeping-road"
+}
+},
+{
+"id": "RD030",
+"layer": "Roads",
+"name": "Paths of the Dead",
+"x": 1054.0,
+"y": 790.0,
+"attrs": {
+"Type": "Pass",
+"Realm": "Gondor",
+"Owner": "The Dead; Aragorn",
+"English": "Paths of the Dead; Dwimorberg Pass",
+"Name_1": "Paths of the Dead"
+}
+},
+{
+"id": "RD021",
+"layer": "Roads",
+"name": "Lampwrights' Street",
+"x": 1430.0,
+"y": 652.8,
+"attrs": {
+"Type": "Street",
+"Realm": "Gondor",
+"Owner": "Gondor",
+"English": "Lampwrights' Street",
+"Sindarin": "Rath Celerdain",
+"Name_1": "Lampwrights' Street"
+}
+},
+{
+"id": "RD028",
+"layer": "Roads",
+"name": "Old South Road",
+"x": 862.7,
+"y": 1051.9,
+"attrs": {
+"Type": "Road",
+"Comments": "Portion of the North-South Road (RD024) south of the Enedwaith",
+"English": "Old South Road; North-South Road; Great Road; Royal Road",
+"Name_1": "Old South Road"
+}
+},
+{
+"id": "RD031",
+"layer": "Roads",
+"name": "Rath Dínen",
+"x": 1427.5,
+"y": 653.6,
+"attrs": {
+"Type": "Street",
+"Realm": "Gondor",
+"Owner": "Gondor",
+"English": "\"Silent Street\"",
+"Sindarin": "Rath Dínen",
+"Name_1": "Rath Dínen"
+}
+},
+{
+"id": "RD036",
+"layer": "Roads",
+"name": "Stair of the Hold",
+"x": 1052.2,
+"y": 821.9,
+"attrs": {
+"Type": "Road",
+"Realm": "Rohan",
+"Owner": "Rohan",
+"English": "Stair of the Hold",
+"Name_1": "Stair of the Hold"
+}
+},
+{
+"id": "RD040",
+"layer": "Roads",
+"name": "Straight Stair",
+"x": 1520.0,
+"y": 685.9,
+"attrs": {
+"Type": "Stair",
+"Realm": "Mordor",
+"Owner": "Orcs",
+"English": "Straight Stair; Stairs of Cirith Ungol",
+"Name_1": "Straight Stair"
+}
+},
+{
+"id": "RD043",
+"layer": "Roads",
+"name": "Winding Stair",
+"x": 1536.6,
+"y": 686.5,
+"attrs": {
+"Type": "Stair",
+"Realm": "Mordor",
+"Owner": "Orcs",
+"English": "Winding Stair; Stairs of Cirith Ungol",
+"Name_1": "Winding Stair"
+}
+},
+{
+"id": "RD041",
+"layer": "Roads",
+"name": "Under-way",
+"x": 1543.3,
+"y": 688.0,
+"attrs": {
+"Type": "Passage",
+"Realm": "Mordor",
+"Owner": "Orcs",
+"English": "Under-way",
+"Name_1": "Under-way"
+}
+},
+{
+"id": "RD048",
+"layer": "Roads",
+"name": "Southward Road",
+"x": 1482.9,
+"y": 779.3,
+"attrs": {
+"Type": "Road",
+"Realm": "Mordor",
+"Owner": "Orcs",
+"English": "Southward Road",
+"Name_1": "Southward Road"
+}
+},
+{
+"id": "WA001",
+"layer": "Walls",
+"name": "City Wall",
+"x": 1429.4,
+"y": 651.7,
+"attrs": {
+"Type": "Wall",
+"Realm": "Gondor",
+"English": "City Wall",
+"Sindarin": "Othram"
+}
+},
+{
+"id": "WA002",
+"layer": "Walls",
+"name": "Deeping Wall",
+"x": 966.7,
+"y": 899.9,
+"attrs": {
+"Type": "Wall",
+"Realm": "Rohan",
+"English": "Deeping Wall"
+}
+},
+{
+"id": "WA004",
+"layer": "Walls",
+"name": "Helm's Dike",
+"x": 967.1,
+"y": 900.0,
+"attrs": {
+"Type": "Wall",
+"Realm": "Rohan",
+"English": "Helm's Dike"
+}
+},
+{
+"id": "WA005",
+"layer": "Walls",
+"name": "High Hay",
+"x": 608.4,
+"y": 1404.9,
+"attrs": {
+"Type": "Hedge",
+"Realm": "The Shire",
+"English": "High Hay; The Hedge"
+}
+},
+{
+"id": "WA006",
+"layer": "Walls",
+"name": "Rammas Echor",
+"x": 1446.9,
+"y": 659.2,
+"attrs": {
+"Type": "Wall",
+"Realm": "Gondor",
+"English": "\"Great-wall Circle\"",
+"Sindarin": "Rammas Echor; the Rammas"
+}
+},
+{
+"id": "WA007",
+"layer": "Walls",
+"name": "Ring of Isengard",
+"x": 964.6,
+"y": 999.1,
+"attrs": {
+"Type": "Wall",
+"Realm": "Rohan",
+"English": "Ring of Isengard"
+}
+}
+]

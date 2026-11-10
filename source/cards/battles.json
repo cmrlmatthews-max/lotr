@@ -1,0 +1,1249 @@
+[
+ {
+  "id": "battle:sack-of-eregion",
+  "title": "War of the Elves and Sauron: Sack of Eregion",
+  "date": "S.A. 1697",
+  "year_sort": -1744,
+  "war": "War of the Elves and Sauron",
+  "at": {
+   "near": "HI036",
+   "dx": -30,
+   "dy": 10
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Elves of Eregion (Celebrimbor)",
+    "Elves of Lindon (late relief)"
+   ],
+   "b": [
+    "Sauron",
+    "Orc host of Mordor"
+   ]
+  },
+  "outcome": "Eregion is ruined and Celebrimbor dies, but Sauron is later driven back.",
+  "blurb": "Sauron, in his guise as a friend of the Elves, turns on Eregion and destroys it.",
+  "book": "Sauron had helped the Elven-smiths of Eregion to forge the Rings of Power, then revealed himself when he made the One Ring. The Elves hid their own Rings and Sauron demanded them. He began a war to take them. His armies overran Eregion in S.A. 1697. Celebrimbor, its lord, was captured and killed. Elrond escaped with a remnant and founded the refuge of Imladris. The western gate of Moria was shut against the enemy. Sauron then pushed on toward Lindon. Help came from Númenor, and Sauron's host was broken near the river Gwathló, so he withdrew from Eriador. The war left Eriador scarred.",
+  "film": "",
+  "series": "The Rings of Power shows the fall of Eregion and the death of Celebrimbor. It treats Sauron's deception and the forging of the Rings as the cause. Its details of the siege are invented for the screen.",
+  "related": [
+   "HI036",
+   "TO084",
+   "TO066",
+   "TO093",
+   "RI032"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Rings of Power and the Third Age",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "battle:dagorlad",
+  "title": "Battle of Dagorlad and Siege of Barad-dûr",
+  "date": "S.A. 3434-3441",
+  "year_sort": -7,
+  "war": "War of the Last Alliance",
+  "at": {
+   "near": "FI004",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 1,
+  "sides": {
+   "a": [
+    "Men of Númenor in exile (Elendil, Isildur, Anárion)",
+    "High Elves of Lindon (Gil-galad)",
+    "Elves of Greenwood and Lothlórien"
+   ],
+   "b": [
+    "Sauron",
+    "Orcs and Easterling and Southron allies"
+   ]
+  },
+  "outcome": "Sauron's host is broken, then Barad-dûr falls after a siege of seven years.",
+  "blurb": "The Last Alliance destroys Sauron's army on a vast plain and besieges his tower.",
+  "book": "After Númenor fell, Sauron regained strength in Mordor. Elendil and Gil-galad joined Elves and Men in the Last Alliance. They marched east over the mountains. They met the armies of Sauron on the plain of Dagorlad, before the gates of Mordor. Many fell, including Oropher of Greenwood. The Alliance won the field and pressed into Mordor. They then laid siege to Barad-dûr. The siege lasted seven years. Anárion, son of Elendil, was killed by a stone thrown from the tower. At last Sauron himself came out and fought on the slopes of Orodruin. He killed Gil-galad and Elendil. Isildur cut the Ring from Sauron's hand with the broken sword of his father. Sauron's body failed, but the Ring was not destroyed. That choice led to every later tragedy of the Ring. The war is also the reason the Ring survived into later ages. Elrond, who served as Gil-galad's herald, saw Isildur keep it and urged him to destroy it in the fire. Isildur refused. The victory of the Alliance was real, but it did not end the danger.",
+  "film": "The Lord of the Rings prologue shows the Last Alliance fighting Sauron's army on a battlefield close to Mount Doom. It compresses the siege into one assault. Sauron appears as an armoured giant who wields a mace, and Isildur cuts the Ring from his hand.",
+  "series": "",
+  "related": [
+   "FT004",
+   "FI006",
+   "MT036",
+   "SW002",
+   "MT024"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Rings of Power and the Third Age",
+   "The Lord of the Rings, Book II chapter 2",
+   "Unfinished Tales"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "battle:gladden-fields",
+  "title": "Disaster of the Gladden Fields",
+  "date": "T.A. 2",
+  "year_sort": 2,
+  "war": "Aftermath of the Last Alliance",
+  "at": {
+   "near": "SW006",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Orcs of the Misty Mountains"
+   ],
+   "b": [
+    "Isildur and his escort of Gondor and Arnor"
+   ]
+  },
+  "outcome": "Isildur is slain and the One Ring is lost in the Anduin.",
+  "blurb": "Orcs ambush Isildur's company by the river and the Ring slips into the water.",
+  "book": "Isildur marched north from Gondor to claim the realm of Arnor. His three eldest sons and a small force of soldiers marched with him. They camped near the Gladden Fields beside the Anduin. Orcs from the mountains attacked them without warning. Isildur wore the Ring and became unseen. He escaped into the river. The Ring betrayed him, slipping from his finger as he swam, and the Orcs then shot him as he surfaced. Only three men of his company survived. One of them carried the broken pieces of Narsil to Rivendell. The Ring lay in the river, hidden for a very long time until Déagol found it.",
+  "film": "The Fellowship prologue shows Isildur killed by Orcs at a river after he puts on the Ring. The setting and number of attackers are simplified.",
+  "series": "",
+  "related": [
+   "RI003",
+   "RI031",
+   "FO018",
+   "TO084"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A",
+   "Unfinished Tales, The Disaster of the Gladden Fields"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "battle:fall-of-amon-sul",
+  "title": "Fall of Amon Sûl",
+  "date": "T.A. 1409",
+  "year_sort": 1409,
+  "war": "Angmar wars",
+  "at": {
+   "near": "HI052",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Witch-king of Angmar",
+    "Orcs and Hillmen of Angmar"
+   ],
+   "b": [
+    "Dúnedain of Arthedain and Cardolan"
+   ]
+  },
+  "outcome": "The tower of Amon Sûl is burned and its palantír is carried to Fornost.",
+  "blurb": "The Witch-king destroys the great watchtower on Weathertop.",
+  "book": "Arnor had split into three weak kingdoms. Angmar, ruled by the Witch-king, pressed on them for centuries. In T.A. 1409 his armies attacked Arthedain and Cardolan together. They besieged the tower of Amon Sûl on Weathertop and burned it. The tower housed one of the palantíri of the north. The Dúnedain saved the stone and took it to Fornost. King Arveleg I of Arthedain was killed. Cardolan was shattered in the same war, and the Barrow-wights later haunted its lands. The tower never rose again.",
+  "film": "",
+  "series": "",
+  "related": [
+   "HI051",
+   "TO035",
+   "HI052",
+   "TO011"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A",
+   "The Lord of the Rings, Book I chapter 11"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "battle:burning-of-osgiliath",
+  "title": "Burning of Osgiliath in the Kin-strife",
+  "date": "T.A. 1437",
+  "year_sort": 1437,
+  "war": "Kin-strife",
+  "at": {
+   "near": "TO078",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 3,
+  "sides": {
+   "a": [
+    "Rebels led by Castamir the Usurper"
+   ],
+   "b": [
+    "Loyalists of King Eldacar of Gondor"
+   ]
+  },
+  "outcome": "Osgiliath burns and Eldacar flees north to Rhovanion.",
+  "blurb": "Gondor's civil war destroys part of its old capital.",
+  "book": "A civil war broke out in Gondor over the rule of King Eldacar, whose mother was not of pure Númenórean blood. Castamir, a leader of the fleets, led the rebels. The war reached Osgiliath, which was besieged and burned. Its great tower was ruined and its palantír was lost in the river. Eldacar escaped to his mother's kin in Rhovanion. Castamir was crowned and ruled harshly.",
+  "film": "",
+  "series": "",
+  "related": [
+   "TO078",
+   "BU049",
+   "TO081",
+   "RI003"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "battle:crossings-of-erui",
+  "title": "Battle of the Crossings of Erui",
+  "date": "T.A. 1447",
+  "year_sort": 1447,
+  "war": "Kin-strife",
+  "at": {
+   "near": "FJ002",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 3,
+  "sides": {
+   "a": [
+    "Eldacar, returning with northern allies"
+   ],
+   "b": [
+    "Castamir the Usurper"
+   ]
+  },
+  "outcome": "Castamir is killed and Eldacar regains his throne.",
+  "blurb": "Eldacar defeats the usurper at the river crossings of southern Gondor.",
+  "book": "After ten years of exile, Eldacar returned from Rhovanion with an army of northern men. He met Castamir near the crossings of the river Erui, in the south of Gondor. Castamir was slain in the battle. His followers retreated to Pelargir and held it under siege for a year before they sailed away to Umbar. They settled there and became enemies of Gondor in later ages.",
+  "film": "",
+  "series": "",
+  "related": [
+   "TO081",
+   "FJ009",
+   "TO078"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "battle:battle-of-the-camp",
+  "title": "Battle of the Camp",
+  "date": "T.A. 1944",
+  "year_sort": 1944,
+  "war": "Wainrider wars",
+  "at": {
+   "near": "SW002",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 3,
+  "sides": {
+   "a": [
+    "Gondor (Eärnil's southern army)"
+   ],
+   "b": [
+    "Wainriders and their allies (Easterlings)"
+   ]
+  },
+  "outcome": "The Wainriders are broken, but King Ondoher dies earlier in the war.",
+  "blurb": "Eärnil destroys the camp of the Easterlings and saves Gondor.",
+  "book": "The Wainriders were Easterlings who came in wagons and attacked Gondor from the east. King Ondoher and his sons marched north against them and were killed in an earlier battle. The southern army under Eärnil then arrived. It struck the enemy camp and took it, killing many. The surviving Easterlings fled toward the Dead Marshes, where many sank. Eärnil was then crowned king. The victory saved Gondor, though the realm remained weakened.",
+  "film": "",
+  "series": "",
+  "related": [
+   "FI004",
+   "SW002",
+   "TO065"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "battle:fornost",
+  "title": "Battle of Fornost",
+  "date": "T.A. 1975",
+  "year_sort": 1975,
+  "war": "Angmar wars",
+  "at": {
+   "near": "TO035",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Gondor (Eärnur)",
+    "Elves of Lindon (Círdan)",
+    "Remnant Dúnedain of Arnor"
+   ],
+   "b": [
+    "Witch-king of Angmar",
+    "Army of Angmar"
+   ]
+  },
+  "outcome": "Angmar is destroyed and the Witch-king flees to Mordor.",
+  "blurb": "A Gondorian force and Elves destroy the army of Angmar before Fornost.",
+  "book": "The Witch-king's attacks finished the northern kingdom of Arthedain. Its last king, Arvedui, was lost at sea. Help came from Gondor with a fleet and an army, led by Prince Eärnur, with Elves from Lindon under Círdan. They joined near Fornost and crushed the host of Angmar in the plain of Fornost. The Witch-king himself fled to Mordor. A prophecy was spoken then that no living man would slay him. That prophecy was fulfilled in the War of the Ring.",
+  "film": "",
+  "series": "",
+  "related": [
+   "TO035",
+   "TO084",
+   "TO046",
+   "MT039"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "battle:fall-of-minas-ithil",
+  "title": "Fall of Minas Ithil",
+  "date": "T.A. 2002",
+  "year_sort": 2002,
+  "war": "Wars of Gondor and Mordor",
+  "at": {
+   "near": "TO064",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 3,
+  "sides": {
+   "a": [
+    "Nazgûl and forces of Mordor"
+   ],
+   "b": [
+    "Defenders of Minas Ithil (Gondor)"
+   ]
+  },
+  "outcome": "Minas Ithil falls and later becomes Minas Morgul.",
+  "blurb": "The Nazgûl take the Tower of the Moon and its palantír.",
+  "book": "After the Witch-king returned to Mordor, the Nazgûl gathered forces to attack Gondor. They besieged Minas Ithil, the tower on the eastern border. It fell after a long siege in T.A. 2002. The palantír kept there was taken. The city became a place of fear, and in time it was called Minas Morgul. Gondor lost control of Ithilien after this.",
+  "film": "The films show Minas Morgul only in its later, corrupted state, not the siege itself.",
+  "series": "",
+  "related": [
+   "TO064",
+   "VA013",
+   "TO065",
+   "TO078",
+   "RI056"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "battle:field-of-celebrant",
+  "title": "Battle of the Field of Celebrant",
+  "date": "T.A. 2510",
+  "year_sort": 2510,
+  "war": "Wars of Gondor",
+  "at": {
+   "near": "FI009",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Gondor (Cirion)",
+    "Éothéod (Eorl the Young)"
+   ],
+   "b": [
+    "Balchoth",
+    "Orcs of the mountains"
+   ]
+  },
+  "outcome": "The invaders are destroyed and Gondor grants Rohan to the Éothéod.",
+  "blurb": "Eorl's riders rescue Gondor's army and destroy the Balchoth horde.",
+  "book": "The Balchoth, helped by Orcs, crossed the Anduin on rafts and attacked northern Gondor. The northern army of Gondor was driven back over the Limlight and trapped between the Easterlings and Orcs. Eorl and his riders had been called from the north and rode south at the right moment. They broke the enemy host and drove it back over the Limlight. Gondor gave Eorl the northern plain of Calenardhon as a gift. He founded the kingdom of Rohan and swore an oath of friendship with Gondor. The alliance of the two peoples lasted for many centuries afterward.",
+  "film": "",
+  "series": "",
+  "related": [
+   "RI014",
+   "RI003",
+   "FI028",
+   "TO065"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A",
+   "Unfinished Tales, Cirion and Eorl"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "battle:greenfields",
+  "title": "Battle of Greenfields",
+  "date": "T.A. 2747",
+  "year_sort": 2747,
+  "war": "Orc raids on the Shire",
+  "at": {
+   "near": "TO016",
+   "dx": 20,
+   "dy": 40
+  },
+  "tier": 3,
+  "sides": {
+   "a": [
+    "Hobbits of the Shire (Bandobras Took)"
+   ],
+   "b": [
+    "Orcs under Golfimbul"
+   ]
+  },
+  "outcome": "The Orc band is routed and Golfimbul is slain.",
+  "blurb": "A small Hobbit force defeats an Orc raid in the north of the Shire.",
+  "book": "A raiding band of Orcs entered the Shire under their leader, Golfimbul. Bandobras Took, called Bullroarer, led the Hobbits against them. He killed Golfimbul in the fight on the fields. The Orcs fled. The Hobbits remembered it as a great deed for generations. The exact site is only approximate on this map.",
+  "film": "",
+  "series": "",
+  "related": [
+   "TO016",
+   "TO050",
+   "LA002",
+   "HI048"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue and Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "battle:hornburg-long-winter",
+  "title": "Siege of the Hornburg in the Long Winter",
+  "date": "T.A. 2758-2759",
+  "year_sort": 2758.1,
+  "war": "Wars of Rohan",
+  "at": {
+   "near": "FT016",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Rohirrim of King Helm Hammerhand"
+   ],
+   "b": [
+    "Dunlendings under Wulf"
+   ]
+  },
+  "outcome": "The siege is lifted in spring, but Helm and many Rohirrim die.",
+  "blurb": "King Helm shelters in the old fortress while a bitter winter kills many.",
+  "book": "Dunlendings, led by Wulf, invaded Rohan while Corsairs attacked Gondor in a time of great cold. Wulf took Edoras and held it. King Helm of Rohan took refuge in the fortress at Helm's Gate, which was later called Helm's Deep. A harsh winter then trapped both sides. Helm made deadly raids from the fortress and died in the snow. His nephew Fréaláf Hildeson later retook Edoras. The siege lifted with the end of the winter. The place kept its name from the king who defended it.",
+  "film": "",
+  "series": "",
+  "related": [
+   "FT016",
+   "WA004",
+   "DO032",
+   "TO029",
+   "TO002"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A",
+   "The Lord of the Rings, Book III chapter 7"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "battle:sack-of-erebor",
+  "title": "Sack of Erebor by Smaug",
+  "date": "T.A. 2770",
+  "year_sort": 2770,
+  "war": "Dragon attacks",
+  "at": {
+   "near": "MT029",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Smaug the dragon"
+   ],
+   "b": [
+    "Dwarves of Erebor",
+    "Men of Dale"
+   ]
+  },
+  "outcome": "Erebor and Dale are destroyed, and Smaug takes the treasure.",
+  "blurb": "The dragon Smaug ruins the Dwarf kingdom and the town of Dale.",
+  "book": "Erebor was a rich Dwarf kingdom under Thrór. News of its wealth reached the dragon Smaug. In T.A. 2770 he came out of the north and attacked the town of Dale, then the Mountain. He destroyed the Dwarf-halls and drove the survivors out. Thrór and his son Thráin escaped through a secret door. Young Thorin was outside and survived. Smaug made his lair in the treasure hoard. The land around Dale became the Desolation of the Dragon. The Dwarves lived as wanderers for many years.",
+  "film": "The Hobbit films open with the attack, showing a large Dwarf army overwhelmed and Thorin watching Smaug destroy the Mountain.",
+  "series": "",
+  "related": [
+   "MT029",
+   "TO024",
+   "LA009",
+   "RI013"
+  ],
+  "sources": [
+   "The Hobbit, chapter 1",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "battle:azanulbizar",
+  "title": "Battle of Azanulbizar",
+  "date": "T.A. 2799",
+  "year_sort": 2799,
+  "war": "War of the Dwarves and Orcs",
+  "at": {
+   "near": "VA004",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Dwarves of all seven houses (Dáin Ironfoot, Thráin, Thorin)"
+   ],
+   "b": [
+    "Orcs of Moria (Azog)"
+   ]
+  },
+  "outcome": "The Dwarves win, but at a terrible cost, and Azog is slain.",
+  "blurb": "Dwarves and Orcs fight at the gate of Moria; Dáin kills Azog.",
+  "book": "The Orc Azog killed Thrór in Moria and sparked a war of vengeance. The Dwarves gathered all seven houses and hunted the Orcs through the Misty Mountains. The war ended in the valley before the eastern gate of Moria, called Azanulbizar. The fight raged through the day. Thorin lost his shield and used a branch of oak instead, which gave him his name. Dáin Ironfoot killed Azog at the gate. The Dwarves won, but so many fell that they did not enter Moria.",
+  "film": "The Hobbit films show the battle in flashback and make Azog survive, so that he hunts Thorin later. In the books Azog dies there.",
+  "series": "",
+  "related": [
+   "VA004",
+   "TO066",
+   "MT007",
+   "MT020",
+   "BR003"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A",
+   "The Hobbit, chapter 1"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "battle:dol-guldur-white-council",
+  "title": "Attack on Dol Guldur by the White Council",
+  "date": "T.A. 2941",
+  "year_sort": 2941.1,
+  "war": "War of the Ring (prelude)",
+  "at": {
+   "near": "FT008",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 3,
+  "sides": {
+   "a": [
+    "White Council (Saruman, Gandalf, Galadriel, Elrond, Celeborn)"
+   ],
+   "b": [
+    "Sauron"
+   ]
+  },
+  "outcome": "Sauron withdraws to Mordor, but returns soon after.",
+  "blurb": "The White Council drives Sauron out of his fortress in Mirkwood.",
+  "book": "Gandalf had learned that the Necromancer in Dol Guldur was Sauron. The White Council gathered in T.A. 2941 and attacked the fortress. Sauron fled and went in secret to Mordor. He declared himself openly there in T.A. 2951. Sauron's flight had been planned already. He now began to make Mordor ready for war.",
+  "film": "The Hobbit films show the Council attacking Dol Guldur and Galadriel, with other members, driving back the Nazgûl and Sauron, as a staged battle.",
+  "series": "",
+  "related": [
+   "FT008",
+   "FO018",
+   "TO084",
+   "FO017"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix B",
+   "The Hobbit, chapter 7"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "battle:five-armies",
+  "title": "Battle of Five Armies",
+  "date": "T.A. 2941",
+  "year_sort": 2941.2,
+  "war": "Hobbit-time wars",
+  "at": {
+   "near": "TO024",
+   "dx": 20,
+   "dy": -30
+  },
+  "tier": 1,
+  "sides": {
+   "a": [
+    "Dwarves of the Iron Hills (Dáin)",
+    "Men of Esgaroth and Dale (Bard)",
+    "Elves of Mirkwood (Thranduil)",
+    "Eagles",
+    "Beorn"
+   ],
+   "b": [
+    "Goblins of the Misty Mountains (Bolg)",
+    "Wargs"
+   ]
+  },
+  "outcome": "The Goblins are destroyed and Thorin dies, reconciled with his allies.",
+  "blurb": "Dwarves, Men, Elves, Eagles and Beorn unite against a Goblin army.",
+  "book": "After Smaug died, the treasure of Erebor drew many claims. Thranduil's Elves and Bard's Men of Lake-town came to demand a share. Thorin, who refused, called for Dáin and the Dwarves of the Iron Hills. Armies were about to fight when Goblins and Wargs came out of the northern mountains. The Elves, Men and Dwarves joined against the common enemy. The fight went badly until the Eagles arrived. Beorn then came in the form of a great bear and broke the Goblin host. Thorin was mortally wounded. He forgave Bilbo before he died. The battle ended the Goblin threat in the north for a time. Dáin Ironfoot became King under the Mountain. Bard became lord of rebuilt Dale. Bilbo took a small share of the treasure and went home. The old Dwarf kingdom lived again, and Dale grew prosperous in the years that followed. The dragon, the Goblins and the old quarrel were all ended in a single season.",
+  "film": "The Hobbit: The Battle of the Five Armies (2014) expands the fight greatly. Azog leads the Orcs, Legolas and Tauriel fight at Ravenhill, and Thorin kills Azog on the ice before he dies.",
+  "series": "",
+  "related": [
+   "TO024",
+   "MT029",
+   "LA009",
+   "BU031",
+   "MT024"
+  ],
+  "sources": [
+   "The Hobbit, chapters 17 and 18",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "battle:weathertop-3018",
+  "title": "Fight on Weathertop",
+  "date": "T.A. 3018, 3-6 October",
+  "year_sort": 3018.76,
+  "war": "War of the Ring",
+  "at": {
+   "near": "HI052",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Gandalf (first night)",
+    "Frodo and companions with Strider (second)"
+   ],
+   "b": [
+    "Nazgûl"
+   ]
+  },
+  "outcome": "Gandalf escapes and Frodo is stabbed with a Morgul blade.",
+  "blurb": "The Nazgûl attack Gandalf, and then Frodo's party on the old ruin.",
+  "book": "Gandalf reached Weathertop on 3 October and found the Nazgûl closing on him. He was besieged on the hilltop through the night. He escaped to the north in the morning. Three days later Frodo and his companions arrived there. The Nazgûl found them on the ruin. Frodo put on the Ring and saw them as they truly were. The Witch-king stabbed him with a Morgul-knife. Strider drove the Nazgûl back with fire and shouts. The wound made Frodo ill and led to the race to Rivendell. A fragment of the blade stayed inside the wound.",
+  "film": "The film shows the Nazgûl attack on Weathertop clearly. Strider fights with torches and a sword and Frodo is stabbed. Gandalf's earlier fight is not shown in the film.",
+  "series": "",
+  "related": [
+   "HI052",
+   "HI051",
+   "TO084",
+   "TO011"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I chapter 11 and Book II chapter 1"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "battle:ford-of-bruinen",
+  "title": "Ford of Bruinen",
+  "date": "T.A. 3018, 20 October",
+  "year_sort": 3018.8,
+  "war": "War of the Ring",
+  "at": {
+   "near": "FJ006",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Elrond and Gandalf",
+    "Frodo's party"
+   ],
+   "b": [
+    "Nazgûl"
+   ]
+  },
+  "outcome": "The Nazgûl are swept away and Frodo reaches Rivendell.",
+  "blurb": "Frodo defies the Nazgûl at the river and the flood sweeps them away.",
+  "book": "Frodo rode on Glorfindel's horse to reach the Ford of Bruinen with the Nazgûl behind him. He crossed and turned to face them. He told them that he would not go with them. The Witch-king raised his sword and the riders began to cross. Then a mighty flood came down the Bruinen from the mountains. It carried off the horses and the riders. Elrond commanded the flood, and Gandalf gave its waves the shape of white horses. The Nazgûl lost their horses. They were set back for a time, but not destroyed.",
+  "film": "The film shows a flood called up at the ford, but Arwen takes the place of Glorfindel, and she appears to summon the water herself.",
+  "series": "",
+  "related": [
+   "FJ006",
+   "RI011",
+   "TO084"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I chapter 12"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "battle:mazarbul-khazad-dum",
+  "title": "Fight in the Chamber of Mazarbul and Bridge of Khazad-dûm",
+  "date": "T.A. 3019, 15 January",
+  "year_sort": 3019.04,
+  "war": "War of the Ring",
+  "at": {
+   "near": "TO066",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 1,
+  "sides": {
+   "a": [
+    "The Fellowship of the Ring"
+   ],
+   "b": [
+    "Orcs of Moria",
+    "Cave-troll",
+    "Durin's Bane (a Balrog)"
+   ]
+  },
+  "outcome": "The Fellowship escapes but Gandalf falls into the abyss.",
+  "blurb": "The Fellowship fights Orcs in Balin's tomb and Gandalf falls on the bridge.",
+  "book": "The Fellowship entered Moria and found the tomb of Balin, who had tried to retake the mines years earlier. In the Chamber of Mazarbul they read the last records of his colony. Drums sounded in the deep, and Orcs attacked. Frodo was stabbed by a spear but was saved by his mithril coat. A cave-troll joined the Orcs and was driven back. The Fellowship fled to the east. A Balrog, an ancient spirit of fire, blocked their way at the Bridge of Khazad-dûm. Gandalf stood on the bridge and broke it beneath the creature. The Balrog's whip dragged him down into the dark. The Fellowship left Moria without its guide and went on in grief to Lothlórien. The Fellowship learned only later that Gandalf had survived the fall, fought the Balrog in the deeps, and returned changed. His sacrifice shaped everything the company did afterward, and Aragorn took the lead.",
+  "film": "The films keep this close to the book. They add a larger Orc attack and the Balrog's size and fire are greater. Frodo's mithril and the troll scenes are shown vividly.",
+  "series": "",
+  "related": [
+   "TO066",
+   "BR003",
+   "VA035",
+   "VA004",
+   "FO017"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II chapters 4 and 5"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "battle:first-fords-of-isen",
+  "title": "First Battle of the Fords of Isen",
+  "date": "T.A. 3019, 25 February",
+  "year_sort": 3019.15,
+  "war": "War of the Ring",
+  "at": {
+   "near": "FJ008",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 3,
+  "sides": {
+   "a": [
+    "Rohirrim (Théodred, Grimbold, Elfhelm)"
+   ],
+   "b": [
+    "Saruman's forces (Dunlendings and Uruk-hai)"
+   ]
+  },
+  "outcome": "Théodred is killed and the Rohirrim retreat.",
+  "blurb": "Saruman's army defeats the Rohirrim at the Isen and kills the heir of Rohan.",
+  "book": "Théoden's son Théodred led a force to the Fords of Isen to guard the border against Saruman. Saruman's army attacked there on 25 February. The Rohirrim fought hard but were outnumbered. Théodred was killed. The survivors retreated under Grimbold and Elfhelm. The loss of the heir left Rohan in grief. It was one of the first open battles of the war in the west.",
+  "film": "The Two Towers film shows Théodred as a dying man brought to Edoras, and it implies an attack at the Fords without showing the battle itself.",
+  "series": "",
+  "related": [
+   "FJ008",
+   "RI086",
+   "FT017",
+   "TO029"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book III chapters 5 and 8",
+   "Unfinished Tales, The Battles of the Fords of Isen"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "battle:parth-galen",
+  "title": "Breaking of the Fellowship at Parth Galen",
+  "date": "T.A. 3019, 26 February",
+  "year_sort": 3019.16,
+  "war": "War of the Ring",
+  "at": {
+   "near": "FI021",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "The Fellowship (Boromir, Merry, Pippin)"
+   ],
+   "b": [
+    "Uruk-hai of Isengard",
+    "Orcs of Mordor"
+   ]
+  },
+  "outcome": "Boromir is killed and Merry and Pippin are captured.",
+  "blurb": "Uruk-hai ambush the Fellowship near Amon Hen and capture two Hobbits.",
+  "book": "Frodo went off alone to think on Amon Hen. Boromir tried to take the Ring from him, and Frodo fled, wearing it. The rest of the Fellowship scattered to look for him. Uruk-hai from Isengard, led by Uglúk, then attacked at Parth Galen. Boromir defended Merry and Pippin and died of arrow wounds. The Orcs took the two Hobbits and ran west. Aragorn found Boromir dying and heard his confession. Frodo and Sam had already left across the river. The Fellowship was broken.",
+  "film": "The Fellowship film shows Boromir dying from many arrows and the Uruk-hai leader Lurtz. In the books Uglúk leads the band.",
+  "series": "",
+  "related": [
+   "FI021",
+   "HI004",
+   "FA007",
+   "FO012"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II chapter 10 and Book III chapter 1"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "battle:second-fords-of-isen",
+  "title": "Second Battle of the Fords of Isen",
+  "date": "T.A. 3019, 2 March",
+  "year_sort": 3019.18,
+  "war": "War of the Ring",
+  "at": {
+   "near": "FJ008",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 3,
+  "sides": {
+   "a": [
+    "Rohirrim (Grimbold, Elfhelm)"
+   ],
+   "b": [
+    "Saruman's army"
+   ]
+  },
+  "outcome": "The Rohirrim are overrun and scattered, and the road to Helm's Deep lies open.",
+  "blurb": "Saruman's army crosses the Isen and drives the Rohirrim back.",
+  "book": "After Théodred fell, Grimbold and Elfhelm held the Fords of Isen with the men of the Westfold. Saruman sent a much larger army against them. The Rohirrim were beaten and scattered. Erkenbrand drew off what men he could toward Helm's Deep. Saruman's army could then march on to the Hornburg. Gandalf later gathered the scattered Riders and brought them with Erkenbrand to the battle.",
+  "film": "",
+  "series": "",
+  "related": [
+   "FJ008",
+   "RI086",
+   "FT016",
+   "FT017"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book III chapter 7",
+   "Unfinished Tales, The Battles of the Fords of Isen"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "battle:ents-of-isengard",
+  "title": "Ents' Destruction of Isengard",
+  "date": "T.A. 3019, 2-3 March",
+  "year_sort": 3019.19,
+  "war": "War of the Ring",
+  "at": {
+   "near": "FT017",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Ents of Fangorn (Treebeard)",
+    "Huorns"
+   ],
+   "b": [
+    "Saruman's remaining garrison"
+   ]
+  },
+  "outcome": "Isengard is flooded and Saruman is trapped in Orthanc.",
+  "blurb": "Treebeard and the Ents break the walls of Isengard and flood the ring.",
+  "book": "Merry and Pippin told Treebeard about Saruman's felling of the trees. The Ents held a long Entmoot and then marched on Isengard. They found most of Saruman's army gone. The Ents tore down the walls and pillars of the ring. They diverted the river Isen and flooded the whole ring. Saruman remained in Orthanc, whose rock the Ents could not break. The huorns went to Helm's Deep that night. When Gandalf and Théoden came to Isengard they found the Ents guarding it.",
+  "film": "The Two Towers film shows the Ents attacking and the dam bursting. It makes Pippin's idea the cause of the Ents' decision.",
+  "series": "",
+  "related": [
+   "FT017",
+   "BU021",
+   "FO012",
+   "WA007",
+   "DO017"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book III chapters 4, 8 and 9"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "battle:hornburg",
+  "title": "Battle of the Hornburg",
+  "date": "T.A. 3019, 3-4 March",
+  "year_sort": 3019.2,
+  "war": "War of the Ring",
+  "at": {
+   "near": "FT016",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 1,
+  "sides": {
+   "a": [
+    "Rohirrim (Théoden, Éomer, Gamling, Erkenbrand)",
+    "Aragorn, Legolas and Gimli",
+    "Gandalf",
+    "Huorns of Fangorn"
+   ],
+   "b": [
+    "Saruman's army of Uruk-hai and Dunlendings"
+   ]
+  },
+  "outcome": "The siege fails and Saruman's army is destroyed.",
+  "blurb": "The Rohirrim hold the Hornburg through the night until help arrives.",
+  "book": "Saruman sent a huge host of Uruk-hai and Dunlendings to destroy Rohan at the fortress of Helm's Deep. Théoden, with Aragorn, Legolas and Gimli, held the Hornburg and the Deeping Wall. The Orcs blew up a section of the wall with fire and poured in. Fighting went on through the night. The defenders retreated to the keep. Théoden rode out at dawn with Aragorn. At the same moment Erkenbrand arrived with a force, and Gandalf came with him. The Orcs fled to a wood of strange trees. They did not come out of it. The victory saved Rohan. Théoden then rode on to Isengard with Gandalf, where they found the tower of Orthanc surrounded by water. Saruman was not defeated by arms alone. The hope of Rohan survived because the defenders held through one night, and the news that its king had won gave heart to the west.",
+  "film": "The film adds an army of Elves from Lothlórien, led by Haldir, and shows Haldir dying. Théoden's ride is given a large charge. Erkenbrand's role is given to Éomer.",
+  "series": "",
+  "related": [
+   "FT016",
+   "WA004",
+   "DO032",
+   "FT017",
+   "FO012"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book III chapter 7"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "battle:fall-of-osgiliath",
+  "title": "Fall of Osgiliath and Retreat to Minas Tirith",
+  "date": "T.A. 3019, 10-13 March",
+  "year_sort": 3019.22,
+  "war": "War of the Ring",
+  "at": {
+   "near": "TO078",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Gondor (Faramir)"
+   ],
+   "b": [
+    "Forces of Mordor led by the Witch-king"
+   ]
+  },
+  "outcome": "Gondor loses Osgiliath and the Rammas wall, and falls back to the city.",
+  "blurb": "Faramir's outposts are overrun and Gondor retreats to Minas Tirith.",
+  "book": "Gondor held the old ruined city of Osgiliath and the Rammas Echor wall as outposts. Boromir had once defended it. In March Mordor's army crossed the Anduin in great numbers. Faramir held the crossings for as long as he could. He retreated across the Pelennor. A Nazgûl's dart struck him down, and his men carried him to Minas Tirith. Cair Andros also fell. The outer defences were abandoned. The people of Gondor retreated within the walls of the White City.",
+  "film": "The Return of the King film shows a different Osgiliath fight. Faramir leads a hopeless assault on the city on Denethor's order and is carried back wounded.",
+  "series": "",
+  "related": [
+   "TO078",
+   "IS002",
+   "TO065",
+   "FI024",
+   "TO064"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V chapters 1 and 4"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "battle:assaults-on-lothlorien",
+  "title": "Assaults on Lothlórien",
+  "date": "T.A. 3019, 11, 15 and 22 March",
+  "year_sort": 3019.221,
+  "war": "War of the Ring",
+  "at": {
+   "near": "FO017",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 3,
+  "sides": {
+   "a": [
+    "Elves of Lothlórien (Celeborn, Galadriel)"
+   ],
+   "b": [
+    "Orcs of Dol Guldur"
+   ]
+  },
+  "outcome": "All three attacks are repelled, though the borders are damaged.",
+  "blurb": "Dol Guldur sends armies against the Golden Wood three times and is repelled.",
+  "book": "Sauron sent armies from Dol Guldur against the Elven wood of Lothlórien. The first attack came on 11 March, the second on 15 March and the third on 22 March. Celeborn and Galadriel led the defence. The Elves drove back the Orcs each time. Lothlórien stayed free, though the borders were damaged. In the end, Celeborn took the Elves across the Anduin and attacked Dol Guldur.",
+  "film": "",
+  "series": "",
+  "related": [
+   "FO017",
+   "TO018",
+   "FT008",
+   "RI003",
+   "RI014"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "battle:pelargir",
+  "title": "Battle of Pelargir",
+  "date": "T.A. 3019, 13-14 March",
+  "year_sort": 3019.23,
+  "war": "War of the Ring",
+  "at": {
+   "near": "TO081",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Aragorn and the Grey Company",
+    "The Dead Men of Dunharrow",
+    "Dúnedain, Gondorians"
+   ],
+   "b": [
+    "Corsairs of Umbar"
+   ]
+  },
+  "outcome": "The Corsair fleet is taken and used to carry reinforcements to Minas Tirith.",
+  "blurb": "Aragorn's army of the Dead terrifies the Corsairs and he takes their ships.",
+  "book": "Aragorn rode the Paths of the Dead and summoned the oathbreakers from the old days to his service. He rode to Pelargir with them and the Grey Company. The Corsairs of Umbar, who held the city and were about to sail up the river, fled in terror from the Dead. Aragorn captured their ships and released the Dead from their oath. Men of the southern fiefs joined him. He sailed up the Anduin with the fleet and landed at the Harlond. The reinforcements arrived on the Pelennor at a crucial moment.",
+  "film": "The Return of the King film shows the Dead Men taking the Corsair ships at Pelargir, and then sweeping the Pelennor itself, which does not happen in the books.",
+  "series": "",
+  "related": [
+   "TO081",
+   "HI023",
+   "FJ009",
+   "TO045",
+   "VA005"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V chapter 2 and chapter 9"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "battle:pelennor",
+  "title": "Battle of the Pelennor Fields",
+  "date": "T.A. 3019, 15 March",
+  "year_sort": 3019.24,
+  "war": "War of the Ring",
+  "at": {
+   "near": "FI024",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 1,
+  "sides": {
+   "a": [
+    "Gondor (Imrahil, Denethor's defenders)",
+    "Rohirrim (Théoden, Éomer, Éowyn)",
+    "Aragorn's forces"
+   ],
+   "b": [
+    "Mordor (Witch-king, Gothmog)",
+    "Haradrim with oliphaunts",
+    "Easterlings"
+   ]
+  },
+  "outcome": "The siege of Minas Tirith is broken and the Witch-king dies.",
+  "blurb": "Rohan arrives at dawn and, with Aragorn's fleet, breaks Mordor's host.",
+  "book": "Mordor's army broke through the Great Gate of Minas Tirith with a battering ram named Grond. At dawn the Witch-king rode in through the broken gate, but the horns of Rohan sounded. Théoden led the Rohirrim in a great charge across the field. He was killed by the Witch-king, who attacked his horse. Éowyn, disguised as the soldier Dernhelm, slew the Witch-king with Merry's help. Éomer took command. Then black ships appeared on the river, carrying Aragorn's army. The enemy believed these were their own Corsairs. Aragorn landed and joined the fight. By evening the Orcs and their allies were destroyed. The siege was broken and Gondor was saved. Théoden died of his wounds after speaking his farewell to Merry. Denethor, believing his son Faramir lost, burned himself on a pyre. The victory cost Gondor and Rohan many lives and gave the West a brief chance to reach the Black Gate. Aragorn healed the wounded in the Houses of Healing that night.",
+  "film": "The film shows the Pelennor on a larger scale, with the Army of the Dead helping to win the battle. Gothmog leads the Orc army and Théoden's death is staged with a fallen horse.",
+  "series": "",
+  "related": [
+   "FI024",
+   "TO065",
+   "DO030",
+   "TO045",
+   "TO078"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V chapters 4 to 6"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "battle:battle-under-the-trees",
+  "title": "Battle under the Trees",
+  "date": "T.A. 3019, 15 March",
+  "year_sort": 3019.245,
+  "war": "War of the Ring",
+  "at": {
+   "near": "FO018",
+   "dx": 60,
+   "dy": 120
+  },
+  "tier": 3,
+  "sides": {
+   "a": [
+    "Wood-elves of Thranduil"
+   ],
+   "b": [
+    "Orcs of Dol Guldur"
+   ]
+  },
+  "outcome": "The Elves hold Mirkwood's northern realm against Dol Guldur.",
+  "blurb": "Thranduil's Elves beat back Orcs of Dol Guldur in northern Mirkwood.",
+  "book": "As war spread across the north, armies of Dol Guldur marched against the Wood-elves in the north of Mirkwood. Thranduil's Elves met them among the trees. They repelled the attackers and held their realm. The fighting was fierce, but their halls stayed safe. In the same days, Lothlórien and Dale also fought. After Sauron's fall the Wood-elves cleared the forest.",
+  "film": "",
+  "series": "",
+  "related": [
+   "FO018",
+   "FT008",
+   "BU073",
+   "RD026"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "battle:battle-of-dale",
+  "title": "Battle of Dale and Siege of Erebor",
+  "date": "T.A. 3019, 17-27 March",
+  "year_sort": 3019.25,
+  "war": "War of the Ring",
+  "at": {
+   "near": "TO024",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Men of Dale (King Brand)",
+    "Dwarves of Erebor (King Dáin Ironfoot)"
+   ],
+   "b": [
+    "Easterlings allied with Sauron"
+   ]
+  },
+  "outcome": "Brand and Dáin fall in battle, but the siege is lifted when Sauron falls.",
+  "blurb": "Easterlings defeat Dale and besiege the Dwarves in the Lonely Mountain.",
+  "book": "Sauron sent an army of Easterlings from the east against Dale and Erebor. King Brand of Dale and Dáin Ironfoot fought side by side before the gates of Erebor. Both were killed in the Battle of Dale on 17 March. The survivors retreated into the Mountain, and the Easterlings besieged it. When news came that Sauron had fallen, the defenders came out. On 27 March they drove the enemy from Dale. Bard II, Brand's son, and Thorin III Stonehelm, Dáin's son, then ruled their peoples.",
+  "film": "",
+  "series": "",
+  "related": [
+   "TO024",
+   "MT029",
+   "LA009",
+   "TO036"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A and Appendix B"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "battle:morannon",
+  "title": "Battle of the Morannon",
+  "date": "T.A. 3019, 25 March",
+  "year_sort": 3019.28,
+  "war": "War of the Ring",
+  "at": {
+   "near": "FT005",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 1,
+  "sides": {
+   "a": [
+    "Armies of the West (Aragorn, Gandalf, Imrahil, Éomer)"
+   ],
+   "b": [
+    "Sauron's army (Mouth of Sauron)"
+   ]
+  },
+  "outcome": "The Armies of the West are almost lost when the Ring is destroyed and Sauron falls.",
+  "blurb": "A small Western army challenges the Black Gate to draw Sauron's eye from Frodo.",
+  "book": "After Pelennor, Aragorn and the Captains led a small army to the Black Gate. They hoped to draw Sauron's attention from Frodo and Sam, who were still in Mordor. The Mouth of Sauron came out to parley and showed Frodo's mithril. Gandalf refused his terms. The Gate opened and a vast host swarmed out. The Westerners made a stand on two hills. They were nearly overwhelmed. Then the Ring was cast into the Fire of Mount Doom. Sauron was destroyed, the Nazgûl died, and his armies broke in confusion. The Eagles came to rescue Frodo and Sam. Gollum had taken the Ring from Frodo at the edge of the Fire, then fell into it by accident. The Dark Tower fell, and the Nazgûl perished with the Ring. The Captains rejoiced in the end of a long war.",
+  "film": "The film is similar. The Mouth of Sauron shows the mithril to the Captains and in the extended edition Aragorn kills him, which does not happen in the book. The battle then turns on the Ring's destruction. The film makes Aragorn's speech and the charge more dramatic.",
+  "series": "",
+  "related": [
+   "FT005",
+   "VA031",
+   "FI006",
+   "MT036",
+   "FT004"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V chapter 10"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "battle:fall-of-dol-guldur",
+  "title": "Fall of Dol Guldur",
+  "date": "T.A. 3019, 28 March",
+  "year_sort": 3019.29,
+  "war": "War of the Ring",
+  "at": {
+   "near": "FT008",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 3,
+  "sides": {
+   "a": [
+    "Celeborn and the Elves of Lothlórien",
+    "Galadriel"
+   ],
+   "b": [
+    "Sauron's remaining forces at Dol Guldur"
+   ]
+  },
+  "outcome": "Dol Guldur is torn down and its pits are laid bare.",
+  "blurb": "Celeborn and Galadriel destroy the fortress after Sauron's fall.",
+  "book": "After Sauron fell, Celeborn led the army of Lothlórien across the Anduin. Galadriel threw down the walls of Dol Guldur and laid bare its pits. Celeborn and Thranduil then met in the forest. They renamed it Eryn Lasgalen, the Wood of Green Leaves, and agreed how to share it. The long shadow of the south of Mirkwood was gone.",
+  "film": "The films do not show this. The Hobbit films show an earlier assault on Dol Guldur.",
+  "series": "",
+  "related": [
+   "FT008",
+   "FO017",
+   "FO018",
+   "RI003"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix B and Book VI chapter 9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "battle:bywater",
+  "title": "Battle of Bywater",
+  "date": "T.A. 3019, 3 November",
+  "year_sort": 3019.84,
+  "war": "War of the Ring (Scouring of the Shire)",
+  "at": {
+   "near": "TO016",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Hobbits of the Shire (Merry, Pippin, Sam, Frodo)"
+   ],
+   "b": [
+    "Ruffians of Saruman (Sharkey's men)"
+   ]
+  },
+  "outcome": "The Ruffians are defeated, and the Shire is freed.",
+  "blurb": "The returning Hobbits lead an uprising and defeat Saruman's men.",
+  "book": "Frodo, Sam, Merry and Pippin came home to find the Shire under the rule of Sharkey, a name used by Saruman. Ruffians held the land and had cut down trees. Merry and Pippin raised the Hobbits with horn calls. They met a band of Ruffians in the village of Bywater. Nineteen Hobbits died. About seventy Ruffians were killed. Frodo asked that no Hobbit kill another Hobbit. Saruman was later killed by Wormtongue at Bag End. It was the last battle of the War of the Ring.",
+  "film": "",
+  "series": "",
+  "related": [
+   "TO016",
+   "LA002",
+   "TO050",
+   "TO015",
+   "FJ013"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book VI chapter 8"
+  ],
+  "confidence": "medium"
+ }
+]

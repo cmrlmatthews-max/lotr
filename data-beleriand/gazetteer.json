@@ -1,0 +1,972 @@
+[
+{
+"id": "MT01",
+"layer": "Mountains",
+"name": "Ered Engrin",
+"x": 560,
+"y": 1392,
+"attrs": {
+"Hint": "Iron Mountains, the wall of the far north, raised by Morgoth"
+}
+},
+{
+"id": "MT02",
+"layer": "Mountains",
+"name": "Thangorodrim",
+"x": 770,
+"y": 1364,
+"attrs": {
+"Hint": "three volcanic peaks piled above the gates of Angband"
+}
+},
+{
+"id": "MT03",
+"layer": "Mountains",
+"name": "Ered Lómin",
+"x": 345,
+"y": 965,
+"attrs": {
+"Hint": "Echoing Mountains, the west wall of Hithlum"
+}
+},
+{
+"id": "MT04",
+"layer": "Mountains",
+"name": "Ered Wethrin",
+"x": 520,
+"y": 800,
+"attrs": {
+"Hint": "Mountains of Shadow, the south and east wall of Hithlum"
+}
+},
+{
+"id": "MT05",
+"layer": "Mountains",
+"name": "Mountains of Mithrim",
+"x": 497,
+"y": 866,
+"attrs": {
+"Hint": "spur that parts Dor-lómin from Mithrim"
+}
+},
+{
+"id": "MT07",
+"layer": "Mountains",
+"name": "Mount Taras",
+"x": 262,
+"y": 760,
+"attrs": {
+"Hint": "great headland mountain at the south-west of Nevrast; Vinyamar lies below it"
+}
+},
+{
+"id": "MT08",
+"layer": "Mountains",
+"name": "Echoriath",
+"x": 748,
+"y": 742,
+"attrs": {
+"Hint": "Encircling Mountains around Tumladen and Gondolin"
+}
+},
+{
+"id": "MT09",
+"layer": "Mountains",
+"name": "Ered Gorgoroth",
+"x": 840,
+"y": 770,
+"attrs": {
+"Hint": "Mountains of Terror, the southern precipices of Dorthonion"
+}
+},
+{
+"id": "MT11",
+"layer": "Mountains",
+"name": "Ered Luin",
+"x": 1262,
+"y": 720,
+"attrs": {
+"Hint": "Blue Mountains, the eastern wall of Beleriand; Ered Lindon"
+}
+},
+{
+"id": "MT12",
+"layer": "Mountains",
+"name": "Mount Rerir",
+"x": 1172,
+"y": 842,
+"attrs": {
+"Hint": "western shoulder of the Blue Mountains above Lake Helevorn; source of Greater Gelion"
+}
+},
+{
+"id": "MT13",
+"layer": "Mountains",
+"name": "Mount Dolmed",
+"x": 1240,
+"y": 545,
+"attrs": {
+"Hint": "peak above the pass of the Dwarf-road, between Belegost and Nogrod"
+}
+},
+{
+"id": "HI01",
+"layer": "Hills",
+"name": "Taur-en-Faroth",
+"x": 458,
+"y": 585,
+"attrs": {
+"Hint": "High Faroth, wooded highlands west of the Narog above Nargothrond"
+}
+},
+{
+"id": "HI02",
+"layer": "Hills",
+"name": "Andram",
+"x": 800,
+"y": 456,
+"attrs": {
+"Hint": "the Long Wall, a line of hills and falling land from Nargothrond to Ramdal"
+}
+},
+{
+"id": "HI03",
+"layer": "Hills",
+"name": "Amon Rûdh",
+"x": 562,
+"y": 575,
+"attrs": {
+"Hint": "the Bald Hill; Bar-en-Danwedh, the house of Mîm, refuge of Túrin"
+}
+},
+{
+"id": "HI04",
+"layer": "Hills",
+"name": "Amon Ereb",
+"x": 966,
+"y": 425,
+"attrs": {
+"Hint": "the Lonely Hill in East Beleriand; Denethor of the Green-elves fell here"
+}
+},
+{
+"id": "HI05",
+"layer": "Hills",
+"name": "Ramdal",
+"x": 925,
+"y": 433,
+"attrs": {
+"Hint": "the Wall's End, where Andram ends"
+}
+},
+{
+"id": "HI06",
+"layer": "Hills",
+"name": "Amon Ethir",
+"x": 496,
+"y": 568,
+"attrs": {
+"Hint": "the Hill of Spies, a league east of the doors of Nargothrond"
+}
+},
+{
+"id": "CR01",
+"layer": "Mountains",
+"name": "Crissaegrim",
+"x": 716,
+"y": 706,
+"attrs": {
+"Hint": "the southern peaks of Echoriath, the eyries of Thorondor"
+}
+},
+{
+"id": "RI01",
+"layer": "Rivers",
+"name": "Sirion",
+"x": 628,
+"y": 400,
+"attrs": {
+"Hint": "the great river of Beleriand, 130 leagues from the Pass to the Delta"
+}
+},
+{
+"id": "RI02",
+"layer": "Rivers",
+"name": "Narog",
+"x": 520,
+"y": 460,
+"attrs": {
+"Hint": "chief river of West Beleriand, from Ivrin past Nargothrond to Sirion in Nan-tathren"
+}
+},
+{
+"id": "RI03",
+"layer": "Rivers",
+"name": "Teiglin",
+"x": 540,
+"y": 742,
+"attrs": {
+"Hint": "river from Ered Wethrin round the forest of Brethil to Sirion"
+}
+},
+{
+"id": "RI04",
+"layer": "Rivers",
+"name": "Esgalduin",
+"x": 722,
+"y": 610,
+"attrs": {
+"Hint": "the river of Doriath, past Menegroth; divides Neldoreth from Region"
+}
+},
+{
+"id": "RI05",
+"layer": "Rivers",
+"name": "Aros",
+"x": 838,
+"y": 572,
+"attrs": {
+"Hint": "river that bounds Doriath on the east and south"
+}
+},
+{
+"id": "RI06",
+"layer": "Rivers",
+"name": "Celon",
+"x": 952,
+"y": 730,
+"attrs": {
+"Hint": "river from Himring to Aros, past Nan Elmoth"
+}
+},
+{
+"id": "RI07",
+"layer": "Rivers",
+"name": "Mindeb",
+"x": 700,
+"y": 700,
+"attrs": {
+"Hint": "river from the mountains to Sirion; Dimbar lies between it and Sirion"
+}
+},
+{
+"id": "RI08",
+"layer": "Rivers",
+"name": "Gelion",
+"x": 1085,
+"y": 380,
+"attrs": {
+"Hint": "the great river of East Beleriand, twice as long as Sirion"
+}
+},
+{
+"id": "RI09",
+"layer": "Rivers",
+"name": "Ascar",
+"x": 1175,
+"y": 525,
+"attrs": {
+"Hint": "northernmost of the seven rivers of Ossiriand; later Rathlóriel"
+}
+},
+{
+"id": "RI10",
+"layer": "Rivers",
+"name": "Thalos",
+"x": 1175,
+"y": 468,
+"attrs": {
+"Hint": "second river of Ossiriand"
+}
+},
+{
+"id": "RI11",
+"layer": "Rivers",
+"name": "Legolin",
+"x": 1170,
+"y": 414,
+"attrs": {
+"Hint": "third river of Ossiriand"
+}
+},
+{
+"id": "RI12",
+"layer": "Rivers",
+"name": "Brilthor",
+"x": 1165,
+"y": 362,
+"attrs": {
+"Hint": "fourth river of Ossiriand"
+}
+},
+{
+"id": "RI13",
+"layer": "Rivers",
+"name": "Duilwen",
+"x": 1160,
+"y": 312,
+"attrs": {
+"Hint": "fifth river of Ossiriand"
+}
+},
+{
+"id": "RI14",
+"layer": "Rivers",
+"name": "Adurant",
+"x": 1205,
+"y": 270,
+"attrs": {
+"Hint": "sixth and southernmost river of Ossiriand, with the isle of Tol Galen"
+}
+},
+{
+"id": "RI15",
+"layer": "Rivers",
+"name": "Ginglith",
+"x": 452,
+"y": 700,
+"attrs": {
+"Hint": "tributary that joins the Narog above Nargothrond"
+}
+},
+{
+"id": "RI16",
+"layer": "Rivers",
+"name": "Ringwil",
+"x": 470,
+"y": 572,
+"attrs": {
+"Hint": "short stream that falls into the Narog at Nargothrond"
+}
+},
+{
+"id": "RI17",
+"layer": "Rivers",
+"name": "Brithon",
+"x": 325,
+"y": 640,
+"attrs": {
+"Hint": "river of the Falas that reaches the sea at Brithombar"
+}
+},
+{
+"id": "RI18",
+"layer": "Rivers",
+"name": "Nenning",
+"x": 372,
+"y": 590,
+"attrs": {
+"Hint": "river of the Falas that reaches the sea at Eglarest"
+}
+},
+{
+"id": "RI19",
+"layer": "Rivers",
+"name": "Rivil",
+"x": 676,
+"y": 846,
+"attrs": {
+"Hint": "stream from Rivil's Well in Dorthonion to Sirion at the Fen of Serech"
+}
+},
+{
+"id": "LA01",
+"layer": "Lakes",
+"name": "Lake Mithrim",
+"x": 518.0,
+"y": 928.0,
+"attrs": {
+"Hint": "lake in the east of Hithlum; first camps of the Noldor"
+}
+},
+{
+"id": "LA02",
+"layer": "Lakes",
+"name": "Lake Helevorn",
+"x": 1150.0,
+"y": 798.0,
+"attrs": {
+"Hint": "dark deep lake under Mount Rerir; Caranthir lived beside it"
+}
+},
+{
+"id": "LA03",
+"layer": "Lakes",
+"name": "Tarn Aeluin",
+"x": 870.0,
+"y": 835.0,
+"attrs": {
+"Hint": "clear mountain lake in Dorthonion; refuge of Barahir and his outlaws"
+}
+},
+{
+"id": "LA04",
+"layer": "Lakes",
+"name": "Eithel Ivrin",
+"x": 478.0,
+"y": 794.0,
+"attrs": {
+"Hint": "pools and falls of Ivrin, the source of the Narog"
+}
+},
+{
+"id": "LA05",
+"layer": "Lakes",
+"name": "Linaewen",
+"x": 342.0,
+"y": 813.0,
+"attrs": {
+"Hint": "great mere of birds in the middle of Nevrast"
+}
+},
+{
+"id": "LA06",
+"layer": "Lakes",
+"name": "Aelin-uial",
+"x": 664.0,
+"y": 512.0,
+"attrs": {
+"Hint": "Meres of Twilight, where Aros meets Sirion"
+}
+},
+{
+"id": "FO01",
+"layer": "Forests",
+"name": "Neldoreth",
+"x": 718.8,
+"y": 635.8,
+"attrs": {
+"Hint": "the northern beech-forest of Doriath; Lúthien was born here"
+}
+},
+{
+"id": "FO02",
+"layer": "Forests",
+"name": "Region",
+"x": 764.7,
+"y": 587.8,
+"attrs": {
+"Hint": "the greater southern forest of Doriath, around Menegroth"
+}
+},
+{
+"id": "FO03",
+"layer": "Forests",
+"name": "Nivrim",
+"x": 633.8,
+"y": 558.8,
+"attrs": {
+"Hint": "the West March of Doriath, oak-woods on the west bank of Sirion"
+}
+},
+{
+"id": "FO04",
+"layer": "Forests",
+"name": "Brethil",
+"x": 611.9,
+"y": 657.3,
+"attrs": {
+"Hint": "forest between Teiglin and Sirion; home of the Haladin"
+}
+},
+{
+"id": "FO05",
+"layer": "Forests",
+"name": "Nan Elmoth",
+"x": 928.8,
+"y": 634.0,
+"attrs": {
+"Hint": "dark wood east of Celon; Thingol met Melian here; later the home of Eöl"
+}
+},
+{
+"id": "FO06",
+"layer": "Forests",
+"name": "Taur-im-Duinath",
+"x": 853.8,
+"y": 258.1,
+"attrs": {
+"Hint": "the Forest between the Rivers, wild land south of Andram between Sirion and Gelion"
+}
+},
+{
+"id": "FO07",
+"layer": "Forests",
+"name": "Nimbrethil",
+"x": 520.8,
+"y": 270.0,
+"attrs": {
+"Hint": "birchwoods of Arvernien; timber of Vingilot"
+}
+},
+{
+"id": "FO08",
+"layer": "Forests",
+"name": "Taur-nu-Fuin",
+"x": 820.0,
+"y": 832.1,
+"attrs": {
+"Hint": "the pine forest of Dorthonion, later the Forest under Nightshade"
+}
+},
+{
+"id": "FO09",
+"layer": "Forests",
+"name": "Nan-tathren",
+"x": 640.6,
+"y": 336.0,
+"attrs": {
+"Hint": "Land of Willows, where Narog meets Sirion"
+}
+},
+{
+"id": "SW01",
+"layer": "Swamps",
+"name": "Fen of Serech",
+"x": 645.5,
+"y": 850.5,
+"attrs": {
+"Hint": "marsh north of the Pass of Sirion, where Rivil meets Sirion"
+}
+},
+{
+"id": "SW04",
+"layer": "Swamps",
+"name": "Lisgardh",
+"x": 630.5,
+"y": 240.0,
+"attrs": {
+"Hint": "land of reeds at the Mouths of Sirion"
+}
+},
+{
+"id": "RD01",
+"layer": "Roads",
+"name": "Dwarf-road",
+"x": 1010,
+"y": 606,
+"attrs": {
+"Hint": "road of the Dwarves from Nogrod and Belegost over Sarn Athrad into Beleriand"
+}
+},
+{
+"id": "RD02",
+"layer": "Roads",
+"name": "Old South Road",
+"x": 585,
+"y": 742,
+"attrs": {
+"Hint": "road from Tol Sirion along the eaves of Brethil to the Crossings of Teiglin and Nargothrond"
+}
+},
+{
+"id": "TO01",
+"layer": "Towns",
+"name": "Menegroth",
+"x": 793,
+"y": 617,
+"attrs": {
+"Hint": "the Thousand Caves, halls of Thingol and Melian on the Esgalduin"
+}
+},
+{
+"id": "TO02",
+"layer": "Towns",
+"name": "Nargothrond",
+"x": 489,
+"y": 565,
+"attrs": {
+"Hint": "hidden cave-fortress of Finrod Felagund in the west bank of the Narog"
+}
+},
+{
+"id": "TO03",
+"layer": "Towns",
+"name": "Gondolin",
+"x": 708,
+"y": 742,
+"attrs": {
+"Hint": "hidden city of Turgon on Amon Gwareth in the vale of Tumladen"
+}
+},
+{
+"id": "TO04",
+"layer": "Towns",
+"name": "Vinyamar",
+"x": 273,
+"y": 777,
+"attrs": {
+"Hint": "Turgon's first halls in Nevrast, under Mount Taras"
+}
+},
+{
+"id": "TO05",
+"layer": "Towns",
+"name": "Brithombar",
+"x": 293,
+"y": 603,
+"attrs": {
+"Hint": "northern haven of the Falas, of Círdan and the Falathrim"
+}
+},
+{
+"id": "TO06",
+"layer": "Towns",
+"name": "Eglarest",
+"x": 333,
+"y": 509,
+"attrs": {
+"Hint": "southern haven of the Falas"
+}
+},
+{
+"id": "TO07",
+"layer": "Towns",
+"name": "Havens of Sirion",
+"x": 629,
+"y": 240,
+"attrs": {
+"Hint": "refuge at the Mouths of Sirion after the falls of Doriath and Gondolin; Elwing and Eärendil"
+}
+},
+{
+"id": "TO08",
+"layer": "Towns",
+"name": "Ephel Brandir",
+"x": 607,
+"y": 651,
+"attrs": {
+"Hint": "stockaded home of the Haladin on Amon Obel in Brethil"
+}
+},
+{
+"id": "TO09",
+"layer": "Towns",
+"name": "Belegost",
+"x": 1265,
+"y": 606,
+"attrs": {
+"Hint": "Gabilgathol, Dwarf-city in the Blue Mountains north of Mount Dolmed"
+}
+},
+{
+"id": "TO10",
+"layer": "Towns",
+"name": "Nogrod",
+"x": 1265,
+"y": 500,
+"attrs": {
+"Hint": "Tumunzahar, Dwarf-city in the Blue Mountains south of Mount Dolmed"
+}
+},
+{
+"id": "FT01",
+"layer": "Fortresses",
+"name": "Angband",
+"x": 770,
+"y": 1345,
+"attrs": {
+"Hint": "Morgoth's fortress, the Hells of Iron, under Thangorodrim"
+}
+},
+{
+"id": "FT02",
+"layer": "Fortresses",
+"name": "Barad Eithel",
+"x": 619,
+"y": 905,
+"attrs": {
+"Hint": "fortress of Fingolfin and Fingon at Eithel Sirion, the source of Sirion"
+}
+},
+{
+"id": "FT03",
+"layer": "Fortresses",
+"name": "Tol Sirion",
+"x": 646,
+"y": 798,
+"attrs": {
+"Hint": "island in the Pass of Sirion with Finrod's tower Minas Tirith; later Tol-in-Gaurhoth, Sauron's Isle of Werewolves"
+}
+},
+{
+"id": "FT04",
+"layer": "Fortresses",
+"name": "Himring",
+"x": 1015,
+"y": 826,
+"attrs": {
+"Hint": "citadel of Maedhros on the cold Hill of Himring"
+}
+},
+{
+"id": "FT05",
+"layer": "Fortresses",
+"name": "Barad Nimras",
+"x": 259,
+"y": 549,
+"attrs": {
+"Hint": "watch-tower that Finrod raised on the cape west of Eglarest"
+}
+},
+{
+"id": "GR01",
+"layer": "Graves_Tombs",
+"name": "Haudh-en-Ndengin",
+"x": 760,
+"y": 1060,
+"attrs": {
+"Hint": "the Hill of Slain (Haudh-en-Nirnaeth) in the middle of Anfauglith"
+}
+},
+{
+"id": "GR02",
+"layer": "Graves_Tombs",
+"name": "Haudh-en-Elleth",
+"x": 579,
+"y": 671,
+"attrs": {
+"Hint": "mound of Finduilas near the Crossings of Teiglin"
+}
+},
+{
+"id": "VA01",
+"layer": "Valleys",
+"name": "Cabed-en-Aras",
+"x": 592,
+"y": 646,
+"attrs": {
+"Hint": "gorge of the Teiglin where Túrin slew Glaurung; later Cabed Naeramarth"
+}
+},
+{
+"id": "FA01",
+"layer": "Falls",
+"name": "Nen Girith",
+"x": 599,
+"y": 662,
+"attrs": {
+"Hint": "Dimrost, the falls of the Celebros stream in Brethil"
+}
+},
+{
+"id": "FA02",
+"layer": "Falls",
+"name": "Falls of Sirion",
+"x": 655,
+"y": 484,
+"attrs": {
+"Hint": "where Sirion falls over Andram and goes under the ground"
+}
+},
+{
+"id": "CA01",
+"layer": "Cave_entrances",
+"name": "Gates of Sirion",
+"x": 655,
+"y": 469,
+"attrs": {
+"Hint": "rock arches where Sirion comes out again, three leagues south of the falls"
+}
+},
+{
+"id": "FA03",
+"layer": "Falls",
+"name": "Rivil's Well",
+"x": 707,
+"y": 836,
+"attrs": {
+"Hint": "source of the Rivil in Dorthonion; Beren avenged his father here"
+}
+},
+{
+"id": "HA01",
+"layer": "Harbors",
+"name": "Losgar",
+"x": 306,
+"y": 884,
+"attrs": {
+"Hint": "landing of Fëanor at the mouth of Drengist; the burning of the ships"
+}
+},
+{
+"id": "VA02",
+"layer": "Valleys",
+"name": "Cirith Ninniach",
+"x": 405,
+"y": 877,
+"attrs": {
+"Hint": "the Rainbow Cleft at the head of the Firth of Drengist"
+}
+},
+{
+"id": "FJ01",
+"layer": "Fords",
+"name": "Brithiach",
+"x": 655,
+"y": 705,
+"attrs": {
+"Hint": "ford over Sirion north of Brethil"
+}
+},
+{
+"id": "FJ02",
+"layer": "Fords",
+"name": "Crossings of Teiglin",
+"x": 572,
+"y": 672,
+"attrs": {
+"Hint": "ford where the old South Road crosses the Teiglin"
+}
+},
+{
+"id": "FJ03",
+"layer": "Fords",
+"name": "Sarn Athrad",
+"x": 1112,
+"y": 512,
+"attrs": {
+"Hint": "the Ford of Stones on Gelion, where the Dwarf-road crosses"
+}
+},
+{
+"id": "FJ04",
+"layer": "Fords",
+"name": "Arossiach",
+"x": 905,
+"y": 705,
+"attrs": {
+"Hint": "the Fords of Aros, near the north-east edge of Doriath"
+}
+},
+{
+"id": "BR01",
+"layer": "Bridges",
+"name": "Iant Iaur",
+"x": 806,
+"y": 718,
+"attrs": {
+"Hint": "the Old Bridge over Esgalduin on the road through Nan Dungortheb"
+}
+},
+{
+"id": "VA03",
+"layer": "Valleys",
+"name": "Pass of Aglon",
+"x": 989,
+"y": 807,
+"attrs": {
+"Hint": "narrow pass between Dorthonion and Himring; a gate into Doriath-ward lands"
+}
+},
+{
+"id": "VA04",
+"layer": "Valleys",
+"name": "Pass of Sirion",
+"x": 647,
+"y": 818,
+"attrs": {
+"Hint": "the narrow vale of upper Sirion between Ered Wethrin and Dorthonion"
+}
+},
+{
+"id": "VA05",
+"layer": "Valleys",
+"name": "Anach",
+"x": 746,
+"y": 774,
+"attrs": {
+"Hint": "pass that comes down from Taur-nu-Fuin toward Dimbar"
+}
+},
+{
+"id": "VA06",
+"layer": "Valleys",
+"name": "Maglor's Gap",
+"x": 1105,
+"y": 830,
+"attrs": {
+"Hint": "open land between Himring and the Blue Mountains"
+}
+},
+{
+"id": "DO01",
+"layer": "Doors_Gates",
+"name": "Orfalch Echor",
+"x": 681,
+"y": 722,
+"attrs": {
+"Hint": "the ravine of the seven gates, the hidden way into Gondolin from the Dry River"
+}
+},
+{
+"id": "VA07",
+"layer": "Valleys",
+"name": "Cirith Thoronath",
+"x": 712,
+"y": 777,
+"attrs": {
+"Hint": "the Eagles' Cleft high in the north of Echoriath; the escape from Gondolin"
+}
+},
+{
+"id": "FI01",
+"layer": "Fields",
+"name": "Tumhalad",
+"x": 480,
+"y": 668,
+"attrs": {
+"Hint": "field between Ginglith and Narog; the last battle of Nargothrond"
+}
+},
+{
+"id": "IS02",
+"layer": "Islands",
+"name": "Tol Galen",
+"x": 1167,
+"y": 258,
+"attrs": {
+"Hint": "the Green Isle in the Adurant; Beren and Lúthien lived here"
+}
+},
+{
+"id": "BA01",
+"layer": "Bays",
+"name": "Firth of Drengist",
+"x": 345,
+"y": 885,
+"attrs": {
+"Hint": "long sea-inlet through the Echoing Mountains"
+}
+},
+{
+"id": "BA02",
+"layer": "Bays",
+"name": "Bay of Balar",
+"x": 700,
+"y": 130,
+"attrs": {
+"Hint": "great bay into which Sirion flows"
+}
+},
+{
+"id": "IS03",
+"layer": "Islands",
+"name": "Cape Balar",
+"x": 432,
+"y": 266,
+"attrs": {
+"Hint": "the south-west cape of Beleriand"
+}
+},
+{
+"id": "IS01",
+"layer": "Islands",
+"name": "Isle of Balar",
+"x": 590,
+"y": 150,
+"attrs": {
+"Hint": "island in the bay; last refuge of Círdan and Gil-galad"
+}
+}
+]

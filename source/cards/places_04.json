@@ -1,0 +1,711 @@
+[
+ {
+  "id": "BU023",
+  "title": "Sea-ward Tower",
+  "kind": "Tower of Dol Amroth",
+  "tier": 3,
+  "blurb": "A tower at the haven of Dol Amroth in southern Gondor, looking out over the sea.",
+  "book": "Its Sindarin name is Tirith Aear. The map places it at Dol Amroth, the seat of the Princes of Dol Amroth in Belfalas, facing the Bay of Belfalas. I cannot confirm this tower in the books.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Other names": "Tirith Aear",
+   "Place": "Dol Amroth, Belfalas"
+  },
+  "related": [
+   "TO026",
+   "TO028"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A",
+   "Unfinished Tales"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "BU053",
+  "title": "Grimslade",
+  "kind": "Rohirric dale",
+  "tier": 3,
+  "blurb": "A holding in the Westfold of Rohan, linked to the Rohirrim captain Grimbold.",
+  "book": "Grimslade lies in the Westfold of Rohan, close to the lands around Helm's Deep. Grimbold, a captain of the Westfold, takes his byname from the place. He leads Rohirrim men on the ride to Gondor and falls in the war.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "People": "Rohirrim, Grimbold's household",
+   "Region": "The Westfold"
+  },
+  "related": [
+   "FT014",
+   "TO029"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU061",
+  "title": "House of the Mírdain",
+  "kind": "Elven smiths' guild house",
+  "tier": 2,
+  "blurb": "The hall of the jewel-smiths of Eregion, the guild that helped to forge the Rings of Power.",
+  "book": "The Mírdain, or Gwaith-i-Mírdain, were the Elven jewel-smiths of Eregion, a Noldorin realm west of Moria. Their greatest craftsman was Celebrimbor, a descendant of Fëanor. Their city was Ost-in-Edhil.\n\nTaught by Sauron in his fair disguise, they made the Rings of Power in the Second Age. Celebrimbor made the Three Rings in secret. When Sauron invaded Eregion about S.A. 1697, Ost-in-Edhil was destroyed and the guild was broken.",
+  "film": "",
+  "series": "The series shows Celebrimbor's forge at Ost-in-Edhil, where he works with Annatar, Sauron in disguise, on the Rings.",
+  "facts": {
+   "Realm": "Eregion",
+   "People": "Noldor, led by Celebrimbor",
+   "Era": "Second Age",
+   "Fate": "Destroyed in Sauron's war, about S.A. 1697"
+  },
+  "related": [
+   "TO079",
+   "HI036",
+   "TO066"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Rings of Power",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU063",
+  "title": "Houses of Healing",
+  "kind": "Hospital of Minas Tirith",
+  "tier": 2,
+  "blurb": "The healing houses in the Sixth Circle of Minas Tirith, where the wounded of the Pelennor are tended.",
+  "book": "The Houses of Healing stand in the Sixth Circle of Minas Tirith. A Warden runs them, and the old wife Ioreth is among the women who serve there.\n\nAfter the Battle of the Pelennor Fields, Faramir, Éowyn and Merry are carried there. The Black Breath and wounds from the fight defeat the healers. Aragorn comes as a healer, uses the herb athelas, and calls the three back from the edge of death. This fulfils an old belief in Gondor that the true king can heal.",
+  "film": "The extended edition shows Aragorn healing Éowyn in the city. Faramir and Éowyn meet there briefly, much more briefly than in the book.",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Place": "Sixth Circle, Minas Tirith",
+   "Key event": "Aragorn heals Faramir, Éowyn and Merry",
+   "Herb": "Athelas, also called kingsfoil"
+  },
+  "related": [
+   "TO065",
+   "BU026",
+   "FI024"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Return of the King, Book V"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "BU064",
+  "title": "Huts of the Raft-elves",
+  "kind": "Wood-elf river huts",
+  "tier": 3,
+  "blurb": "Riverside dwellings of the Wood-elves who handle barrels on the Forest River.",
+  "book": "The raft-elves of Mirkwood live beside the Forest River near the Elvenking's realm. They gather the empty barrels sent down from the king's cellars and raft them on to Lake-town. The dwarves escape in barrels, and Bilbo rides along on top of one.",
+  "film": "The films show the barrel escape, but not the raft-elves' huts.",
+  "series": "",
+  "facts": {
+   "Realm": "Mirkwood",
+   "People": "Wood-elves of the Elvenking",
+   "Waterway": "Forest River"
+  },
+  "related": [
+   "RI027",
+   "TO031",
+   "LA009"
+  ],
+  "sources": [
+   "The Hobbit, Chapter 9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU066",
+  "title": "King's House",
+  "kind": "Royal house at Osgiliath",
+  "tier": 3,
+  "blurb": "The royal residence in Osgiliath, used by the Kings of Gondor before they moved to Minas Anor.",
+  "book": "Osgiliath was the first capital of Gondor, and its kings lived there. King Tarondor moved the royal seat to Minas Anor in T.A. 1640. Osgiliath then declined, and its buildings were empty and ruined during the War of the Ring.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Place": "Osgiliath",
+   "Fate": "Abandoned after the capital moved, T.A. 1640"
+  },
+  "related": [
+   "TO078",
+   "BU049",
+   "TO065"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU067",
+  "title": "Lockholes",
+  "kind": "Shire prison",
+  "tier": 3,
+  "blurb": "Old storage tunnels at Michel Delving that the ruffians use as a prison.",
+  "book": "The Lockholes are old storage tunnels at Michel Delving. During the Scouring of the Shire, the ruffians turn them into a prison and fill them with hobbits who oppose them. Will Whitfoot, the Mayor, is held there.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Place": "Michel Delving",
+   "People": "Hobbits"
+  },
+  "related": [
+   "TO061",
+   "BU069",
+   "BU081"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue",
+   "The Return of the King, Book VI"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "BU069",
+  "title": "Mathom-house",
+  "kind": "Shire museum",
+  "tier": 3,
+  "blurb": "The museum of Michel Delving, where hobbits store gifts they cannot use or keep.",
+  "book": "A mathom is a useful or pretty object that has no present use. Hobbits give these as presents, and unwanted ones pile up. The Mathom-house at Michel Delving collects such items. Bilbo's mithril coat was lent to it for a time.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Place": "Michel Delving",
+   "Meaning": "A house for mathoms"
+  },
+  "related": [
+   "TO061",
+   "BU067",
+   "BU081"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "BU070",
+  "title": "Meduseld",
+  "kind": "Golden Hall of Rohan",
+  "tier": 1,
+  "blurb": "The royal hall of the Kings of Rohan, on a terrace above Edoras.",
+  "book": "Meduseld is the great timbered hall of the Kings of Rohan. It stands on the high terrace of Edoras, below the White Mountains. Its thatched roof shines like gold from far away. Brego, son of Eorl, built it.\n\nIn The Two Towers, Gandalf, Aragorn, Legolas and Gimli come to the hall. Gríma Wormtongue has long advised King Théoden there. Gandalf breaks his hold, and Théoden rises, takes his sword, and rides to war.\n\nInside, the hall holds a central hearth and tapestries of old tales. After the war, a funeral feast for Théoden is held there.\n\nBelow the town, the barrows of the kings line the road. The doorwarden Háma bars weapons from the hall. Théoden's court gathers there in times of peace and of war.",
+  "film": "The film shows the hall with carved posts and a great hearth. Gandalf frees Théoden from Saruman's influence there. Gríma is driven out.",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "Place": "Edoras",
+   "Built by": "Brego, son of Eorl",
+   "Other names": "The Golden Hall"
+  },
+  "related": [
+   "TO029",
+   "FT009",
+   "VA008",
+   "TO002"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Two Towers, Book III",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "BU071",
+  "title": "Old Grange",
+  "kind": "Hobbit house",
+  "tier": 3,
+  "blurb": "A house in the Hobbiton area of the Shire, shown on the Shire map.",
+  "book": "The Old Grange is a hobbit house near Hobbiton and Bywater in the Shire. It appears on the map of the Shire. I cannot confirm its place in the story.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Place": "Near Hobbiton"
+  },
+  "related": [
+   "TO050",
+   "TO016",
+   "BU072"
+  ],
+  "sources": [
+   "The Lord of the Rings, map of the Shire"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "BU072",
+  "title": "Old Mill",
+  "kind": "Hobbiton water mill",
+  "tier": 3,
+  "blurb": "The old water mill at Hobbiton, owned by the Sandymans before the Scouring of the Shire.",
+  "book": "The Old Mill stands on the Water at Hobbiton and belongs to the Sandyman family. Ted Sandyman works there with his father. During the Scouring of the Shire, it is torn down and a larger mill full of noise and smoke is built for Sharkey. After the war, the hobbits clear the new mill away.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Place": "Hobbiton",
+   "Owner": "The Sandyman family"
+  },
+  "related": [
+   "TO050",
+   "LA002",
+   "TO016"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Return of the King, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU073",
+  "title": "Rhosgobel",
+  "kind": "Home of Radagast",
+  "tier": 2,
+  "blurb": "The house of the wizard Radagast the Brown, at the western edge of Mirkwood.",
+  "book": "Rhosgobel is the home of Radagast the Brown, one of the five Wizards. It lies on the western side of Mirkwood, near the Vales of Anduin. Radagast loves birds and beasts and lives among them.\n\nGandalf tells the Council of Elrond that Radagast visited him with news that the Nazgûl were abroad. Radagast came at the bidding of Saruman and also took word to the birds. The Hobbit mentions him as Gandalf's cousin, living at the edge of the wood.",
+  "film": "The Hobbit films show Rhosgobel as a cluttered home among trees, with Radagast's hedgehog and rabbit-drawn sled. Radagast sees the forest sickening there.",
+  "series": "",
+  "facts": {
+   "Realm": "Mirkwood",
+   "People": "Radagast the Brown",
+   "Meaning": "Russet village or enclosure"
+  },
+  "related": [
+   "FO018",
+   "SW006",
+   "BU090",
+   "RI003"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Fellowship of the Ring, Book II",
+   "The Hobbit, Chapter 7"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU074",
+  "title": "Second Hall",
+  "kind": "Hall of Moria",
+  "tier": 2,
+  "blurb": "A great hall of Khazad-dûm that the Fellowship crosses on their flight to the Bridge.",
+  "book": "The Second Hall is one of the great halls of Moria, the Dwarf-city under the Misty Mountains. The Dwarves numbered their halls and levels, and the Second Hall lay on the eastern side. It was empty and dark when the Fellowship passed through it.\n\nFlying from the Orcs and the Balrog, the Company crosses it on the way to the Bridge of Khazad-dûm. Gandalf holds the Bridge and falls with the Balrog.",
+  "film": "The film shows a vast hall of great pillars, where the Fellowship runs between stone columns before the Bridge.",
+  "series": "",
+  "facts": {
+   "Realm": "Khazad-dûm",
+   "People": "Dwarves, originally",
+   "Fate": "Empty in the War of the Ring"
+  },
+  "related": [
+   "TO066",
+   "BU045",
+   "BR003",
+   "BU082"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Fellowship of the Ring, Book II"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU075",
+  "title": "Shirriff-house",
+  "kind": "Shire station",
+  "tier": 3,
+  "blurb": "A station of the Shirriffs, the hobbit lawkeepers, at Frogmorton in the Shire.",
+  "book": "The Shirriffs are the Shire's police. They keep order and watch the borders. A Shirriff-house stands at Frogmorton in the Eastfarthing. In the Scouring of the Shire, Lotho greatly increases the Shirriffs. Frodo and his friends spend a night at the Frogmorton house on their way home.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Place": "Frogmorton",
+   "People": "Hobbit Shirriffs"
+  },
+  "related": [
+   "TO037",
+   "TO061",
+   "BU067"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue",
+   "The Return of the King, Book VI"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "BU080",
+  "title": "Tower Hall",
+  "kind": "Hall in Minas Tirith",
+  "tier": 3,
+  "blurb": "The great hall of the White Tower in the Citadel of Minas Tirith.",
+  "book": "The Tower Hall lies inside the Tower of Ecthelion in the Citadel. It holds the seat of the Stewards of Gondor. Denethor receives Gandalf and Pippin there, and Pippin swears his service to the Steward in that place.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Place": "Citadel, Minas Tirith",
+   "People": "Stewards of Gondor"
+  },
+  "related": [
+   "BU026",
+   "TO065",
+   "BU048"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU081",
+  "title": "Town Hole",
+  "kind": "Shire meeting hall",
+  "tier": 3,
+  "blurb": "The meeting hall of Michel Delving, where the Mayor of the Shire presides.",
+  "book": "The Town Hole is the meeting place of Michel Delving in the Westfarthing. It is the seat of the Mayor of the Shire, the chief hobbit official, who is elected every seven years. Hobbits also hold feasts and games there.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Place": "Michel Delving",
+   "Official": "The Mayor of the Shire"
+  },
+  "related": [
+   "TO061",
+   "BU067",
+   "BU069"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU082",
+  "title": "Twenty-first Hall",
+  "kind": "Hall of Moria",
+  "tier": 3,
+  "blurb": "A hall at the north end of Moria that the Fellowship reaches after a long climb.",
+  "book": "The Twenty-first Hall of the North-end lies on the seventh level of Khazad-dûm. Gandalf names it when the Company reaches it after a long climb. The Fellowship rests in it, and Gandalf finds the way on toward the East-gate.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Khazad-dûm",
+   "People": "Dwarves, originally",
+   "Fate": "Empty in the War of the Ring"
+  },
+  "related": [
+   "TO066",
+   "BU074",
+   "BU045"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Fellowship of the Ring, Book II"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU083",
+  "title": "Two Watchers",
+  "kind": "Guardian statues of Cirith Ungol",
+  "tier": 2,
+  "blurb": "Two great seated statues that guard the gate of the Tower of Cirith Ungol.",
+  "book": "The Two Watchers are huge seated stone figures at the gate of the Tower of Cirith Ungol, one on each side. Each has three bodies and three vulture-faced heads. An evil will dwells in them and lets no enemy pass.\n\nSam breaks their will with the phial of Galadriel and enters the tower to rescue Frodo. When the two hobbits escape, the phial gets them past again, but the Watchers cry out and the arch above the gate falls.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Mordor",
+   "People": "Forces of Sauron",
+   "Place": "Tower of Cirith Ungol",
+   "Appearance": "Two seated figures with many heads"
+  },
+  "related": [
+   "FT025",
+   "VA034",
+   "CA013",
+   "MT036"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Return of the King, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU085_54",
+  "title": "Halifirien",
+  "kind": "Beacon hill of Gondor",
+  "tier": 2,
+  "blurb": "The westernmost beacon hill of Gondor, on the border with Rohan.",
+  "book": "Halifirien, called Amon Anwar in Sindarin, is the last of the seven beacon hills along the White Mountains. It lies on the border of Gondor and Rohan, at the edge of the Firien Wood. The name means Holy Mountain.\n\nIn the Third Age, Cirion and Eorl swore the oath of friendship there. Elendil's hallow lay on the hill. During the War of the Ring, the beacons carry the call for aid west toward Rohan.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Other names": "Amon Anwar",
+   "Meaning": "Holy Mountain",
+   "Role": "Beacon, last of seven"
+  },
+  "related": [
+   "MT058",
+   "BU085_55",
+   "TO029",
+   "TO065"
+  ],
+  "sources": [
+   "Unfinished Tales, The Battles of the Fords of Isen",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU085_55",
+  "title": "Calenhad",
+  "kind": "Beacon hill of Gondor",
+  "tier": 3,
+  "blurb": "A beacon hill of Gondor in the White Mountains, east of Halifirien.",
+  "book": "Calenhad is the sixth of the seven beacon hills of Gondor, counting west from Minas Tirith. It lies in the White Mountains between Min-Rimmon and Halifirien. Watchmen keep a fire ready there, to light when the beacon to the east blazes.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Role": "Beacon, sixth from Minas Tirith"
+  },
+  "related": [
+   "MT060",
+   "BU085_54",
+   "BU085_57",
+   "TO065"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU085_57",
+  "title": "Erelas",
+  "kind": "Beacon hill of Gondor",
+  "tier": 3,
+  "blurb": "One of the seven beacon hills of Gondor in the White Mountains.",
+  "book": "Erelas is the fourth beacon hill west of Minas Tirith. Watchmen of Gondor keep a fire ready on it. When the beacon east of it is lit, the men of Erelas light their own, and the signal passes on.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Role": "Beacon, fourth from Minas Tirith"
+  },
+  "related": [
+   "BU085_58",
+   "BU085_55",
+   "TO065"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU085_58",
+  "title": "Nardol",
+  "kind": "Beacon hill of Gondor",
+  "tier": 3,
+  "blurb": "One of the seven beacon hills of Gondor, third from Minas Tirith.",
+  "book": "Nardol is the third beacon hill west of Minas Tirith. Its name means Fire-hill. Watchmen of Gondor keep a fire ready there, and it is lit when the signal comes from the east.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Meaning": "Fire-hill",
+   "Role": "Beacon, third from Minas Tirith"
+  },
+  "related": [
+   "BU085_65",
+   "BU085_57",
+   "TO065"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU085_65",
+  "title": "Eilenach",
+  "kind": "Beacon hill of Gondor",
+  "tier": 3,
+  "blurb": "One of the seven beacon hills of Gondor, second from Minas Tirith.",
+  "book": "Eilenach is the second beacon hill west of Minas Tirith. It lies on a height above the Drúadan Forest. Its watchmen light the fire when they see the beacon of Amon Dîn burning to the east.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Region": "Above the Drúadan Forest",
+   "Role": "Beacon, second from Minas Tirith"
+  },
+  "related": [
+   "BU085_66",
+   "BU085_58",
+   "TO065"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU085_66",
+  "title": "Amon Dîn",
+  "kind": "Beacon hill of Gondor",
+  "tier": 2,
+  "blurb": "The first beacon hill of Gondor, close to Minas Tirith, where the signal fire is lit.",
+  "book": "Amon Dîn is the first of the seven beacon hills. Its name means silent hill. It rises near Minas Tirith at the east end of the White Mountains. A watchtower and a beacon stand upon it.\n\nWhen Gondor needs help, the fire on Amon Dîn is lit first, and then the beacons pass the signal west. Pippin and Gandalf see the beacons burning as they ride toward Minas Tirith. The chain brings the news to Rohan.",
+  "film": "The film shows Pippin lighting the first beacon above Minas Tirith, and a long chain of fires running to Rohan. The hill is not named.",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Meaning": "Silent hill",
+   "Role": "Beacon, first from Minas Tirith"
+  },
+  "related": [
+   "TO065",
+   "BU085_65",
+   "BU085_55",
+   "FI024"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Return of the King, Book V"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "BU086",
+  "title": "Wellinghall",
+  "kind": "Ent dwelling",
+  "tier": 2,
+  "blurb": "Treebeard's home in Fangorn Forest, an ent-house built under a hillside.",
+  "book": "Wellinghall is the dwelling of Treebeard, the eldest of the Ents. It lies in Fangorn Forest, beneath a cliff near the spring that feeds the River Entwash. Water runs down into a stone basin at its mouth.\n\nMerry and Pippin stay there after Treebeard rescues them from the Orcs. The hobbits rest on beds of bracken, and Treebeard serves them Ent-draughts. The Ents later gather at the Entmoot before marching on Isengard.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Fangorn Forest",
+   "People": "Ents, led by Treebeard"
+  },
+  "related": [
+   "FO012",
+   "RI085",
+   "FI005",
+   "FT017"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Two Towers, Book III"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU088",
+  "title": "Withy-weir",
+  "kind": "Weir in the Shire",
+  "tier": 3,
+  "blurb": "A place name on the Shire map, near the Withywindle and the Brandywine.",
+  "book": "This name comes from the map data set. I cannot confirm it in The Hobbit, The Lord of the Rings, The Silmarillion or Unfinished Tales. The map places it near where the Withywindle meets the Brandywine.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Eriador, by the Old Forest",
+   "Place": "Near the Withywindle"
+  },
+  "related": [
+   "RI083",
+   "FO023",
+   "BR001"
+  ],
+  "sources": [
+   "The Lord of the Rings, map of the Shire"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "BU006",
+  "title": "Old Guesthouse",
+  "kind": "Inn of Minas Tirith",
+  "tier": 3,
+  "blurb": "A guesthouse in Minas Tirith, shown on the map of the city.",
+  "book": "The Old Guesthouse stands in Rath Celerdain, the Lampwrights' Street, in the first circle of Minas Tirith. In T.A. 3019 Pippin and the boy Bergil watch from there as the companies of the outlands march in. Its Sindarin name in the map data is not from the books.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Place": "Minas Tirith"
+  },
+  "related": [
+   "TO065",
+   "BU063",
+   "BU080"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU089",
+  "title": "Black Pits",
+  "kind": "Dungeons of Mordor",
+  "tier": 3,
+  "blurb": "A place name from the map data, linked to Sauron's dungeons at Barad-dûr.",
+  "book": "This name comes from the map data set. I do not have a confirmed book source for it. It is placed at Barad-dûr in Mordor, which suggests the dungeons of the Dark Tower.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Mordor",
+   "Place": "Barad-dûr"
+  },
+  "related": [
+   "FT004",
+   "MT036",
+   "FI025"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Return of the King"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "BU090",
+  "title": "Eagles' Eyrie",
+  "kind": "Nest of the Great Eagles",
+  "tier": 2,
+  "blurb": "The high nest of the Great Eagles in the northern Misty Mountains.",
+  "book": "The Eagles of the Misty Mountains nest on high crags, and their chief is Gwaihir, the Windlord. In The Hobbit, Gandalf, Bilbo and the dwarves flee the goblins and the wolves, and the Eagles carry them from burning trees to the Eyrie.\n\nThe Eagles then take the company to the Carrock. Later, Gwaihir saves Gandalf from the top of Orthanc and brings him to Edoras. The Eagles arrive at the Battle of Five Armies.",
+  "film": "The Hobbit films show the Eagles carrying the company to the Carrock. The Fellowship films show Gandalf rescued from Orthanc.",
+  "series": "",
+  "facts": {
+   "Realm": "Misty Mountains",
+   "People": "The Great Eagles, led by Gwaihir",
+   "Role": "Refuge in The Hobbit"
+  },
+  "related": [
+   "FJ007",
+   "IS003",
+   "FT017",
+   "BU073"
+  ],
+  "sources": [
+   "The Hobbit, Chapters 6 and 7",
+   "The Lord of the Rings, The Fellowship of the Ring, Book II"
+  ],
+  "confidence": "medium"
+ }
+]

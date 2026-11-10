@@ -1,0 +1,1181 @@
+[
+ {
+  "id": "TO01",
+  "title": "Menegroth",
+  "kind": "Hidden Elven city",
+  "tier": 1,
+  "blurb": "The Thousand Caves, underground halls of King Thingol and Queen Melian in the forest of Neldoreth.",
+  "book": "Menegroth lies in the heart of Doriath, on the river Esgalduin. It is a great underground palace, cut from the rock and hung with lamps and carvings. Its pillars are shaped like beech trees, and birds sing among them.\n\nThingol, King of the Sindar, rules from Menegroth with Melian the Maia. Her magic, the Girdle of Melian, protects the land around it. Dwarves of the Blue Mountains helped to build and furnish the halls.\n\nMany tales pass through Menegroth. Beren comes before Thingol to ask for Lúthien, and Thingol sets him the quest of a Silmaril. Túrin is fostered here in his youth. Beren and Lúthien later return the Silmaril to its halls.\n\nThe halls then fall in two stages. Dwarves of Nogrod kill Thingol in a quarrel over the Nauglamír, and a host from Nogrod later sacks Menegroth. Dior, Thingol's heir, restores the realm, but the sons of Fëanor attack it and kill him. Menegroth is left empty and ruined.\n\nThe land of Doriath sinks with the rest of Beleriand at the end of the age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin for the Thousand Caves",
+   "Other names": "The Thousand Caves"
+  },
+  "facts": {
+   "Realm": "Doriath",
+   "Ruler": "Thingol and Melian",
+   "Setting": "Esgalduin, in Neldoreth",
+   "Fate": "Sacked by Dwarves, then abandoned"
+  },
+  "related": [
+   "RG07",
+   "RI04",
+   "FO01",
+   "TO10",
+   "TO09"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 10 'Of the Sindar'",
+   "The Silmarillion, ch. 22 'Of the Ruin of Doriath'"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO02",
+  "title": "Nargothrond",
+  "kind": "Hidden cave-fortress of the Noldor",
+  "tier": 1,
+  "blurb": "The great hidden stronghold of Finrod Felagund, built into the western bank of the river Narog.",
+  "book": "Nargothrond is a deep fortress cut into the rock on the west side of the Narog. Finrod Felagund founds it, after he sees the caves of Menegroth and the Dwarves help him with the work. Its gate faces the river and is hidden among the hills and woods.\n\nFinrod rules a large realm from here. He leaves to help Beren, and he dies in the dungeons of Sauron. His brother Orodreth then rules. Celegorm and Curufin stay at Nargothrond for a time, and they try to keep Beren and Lúthien from their quest.\n\nTúrin comes to Nargothrond with Gwindor and takes a great place in its counsels. He persuades the Elves to give up their secrecy, and they build a great bridge over the Narog. The dragon Glaurung and his Orc host win the battle of Tumhalad and then cross that bridge. They sack the fortress about F.A. 495 and carry off Finduilas.\n\nThe Dwarf Mîm later takes the empty halls, and Húrin kills him there. Húrin takes only the Nauglamír from the hoard and brings it to Menegroth. The land sinks at the end of the First Age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin for the fortress on the Narog",
+   "Other names": "The Hidden Fortress of the Narog"
+  },
+  "facts": {
+   "Realm": "Nargothrond",
+   "Founder": "Finrod Felagund",
+   "Later rulers": "Orodreth, then Túrin as counsellor",
+   "Fate": "Sacked by Glaurung, about F.A. 495"
+  },
+  "related": [
+   "RI02",
+   "FI01",
+   "RG06",
+   "TO01"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'",
+   "The Children of Húrin"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO03",
+  "title": "Gondolin",
+  "kind": "Hidden city of the Noldor",
+  "tier": 1,
+  "blurb": "Turgon's secret white city on the hill of Amon Gwareth, hidden inside the ring of the Echoriath.",
+  "book": "Gondolin is a white city on a green hill, Amon Gwareth, in the vale of Tumladen. The sheer Encircling Mountains, the Echoriath, surround it. Turgon builds it after Ulmo advises him and leads him to the vale. Only one road, through the ravine of Orfalch Echor, leads in.\n\nTurgon founds the city about F.A. 116 after a long work. He and his people live there in secret for over three hundred years. Its fountains and towers, and the tree-shaped images of the Two Trees, are famous. Maeglin, Turgon's nephew, and Idril, his daughter, live there. Tuor arrives with a message from Ulmo, marries Idril, and has a son, Eärendil.\n\nMaeglin is captured by Morgoth and betrays the secret. Morgoth sends Orcs, Balrogs and dragons against the city about F.A. 510. The city is sacked and Turgon dies. Tuor, Idril and others escape through a secret way and reach the Mouths of Sirion. Other versions of the tale exist.\n\nGondolin is lost, and the land sinks at the end of the age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin, Hidden Rock; Quenya Ondolindë, Stone of Music",
+   "Other names": "Ondolindë; Gondobar; the Hidden City"
+  },
+  "facts": {
+   "Realm": "Hidden Kingdom of Gondolin",
+   "Ruler": "Turgon",
+   "Founded": "About F.A. 116",
+   "Fate": "Sacked about F.A. 510"
+  },
+  "related": [
+   "RG26",
+   "MT08",
+   "DO01",
+   "VA07"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 13 'Of the Return of the Noldor'",
+   "The Silmarillion, ch. 23 'Of Tuor and the Fall of Gondolin'"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO04",
+  "title": "Vinyamar",
+  "kind": "Noldorin halls in Nevrast",
+  "tier": 2,
+  "blurb": "Turgon's first halls beneath Mount Taras, in Nevrast by the western sea.",
+  "book": "Vinyamar is the dwelling that Turgon builds in Nevrast, under Mount Taras near the western sea. He lives there with his people after the return of the Noldor from Valinor. Ulmo's counsel later inspires Turgon to leave and seek the hidden vale of Gondolin.\n\nTurgon departs in secret and leaves Vinyamar empty. He leaves arms and armour behind for a messenger, as Ulmo had foretold.\n\nTuor later comes to the deserted halls. He finds the arms, and he wears the helm and mail of Turgon. Ulmo's message guides him from there towards Gondolin. The land of Nevrast is later empty and lonely.\n\nVinyamar is lost under the sea at the end of the age, with most of the west.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Quenya for new house",
+   "Other names": "The halls of Turgon in Nevrast"
+  },
+  "facts": {
+   "Realm": "Nevrast",
+   "Ruler": "Turgon",
+   "People": "Noldor",
+   "Fate": "Abandoned, later lost to the sea"
+  },
+  "related": [
+   "RG04",
+   "MT07",
+   "TO03"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 13 'Of the Return of the Noldor'",
+   "The Silmarillion, ch. 23 'Of Tuor and the Fall of Gondolin'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO05",
+  "title": "Brithombar",
+  "kind": "Elven haven of the Falas",
+  "tier": 2,
+  "blurb": "The northern harbour town of the Falas, where Círdan and the Falathrim build ships.",
+  "book": "Brithombar is the northern of the two Havens of the Falas, on the western coast of Beleriand. Círdan the Shipwright rules it with the Falathrim, the Sindar of the sea. Its people build ships there.\n\nThe Noldor help to fortify the haven, and it stands for many years as a refuge on the coast.\n\nAfter the Nírnaeth Arnoediad, Morgoth sends a great host against the Falas. The Orcs besiege and destroy Brithombar and its sister haven Eglarest. Círdan escapes with those he can and goes to the Isle of Balar and the Mouths of Sirion.\n\nThe haven does not survive the First Age, and the land sinks at its end.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin for the town by the river Brithon",
+   "Other names": "One of the Havens of the Falas"
+  },
+  "facts": {
+   "Realm": "The Falas",
+   "Ruler": "Círdan",
+   "People": "Falathrim",
+   "Fate": "Destroyed after the Nírnaeth"
+  },
+  "related": [
+   "RG05",
+   "TO06",
+   "RI17",
+   "IS01"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'",
+   "The Silmarillion, ch. 20 'Of the Fifth Battle'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO06",
+  "title": "Eglarest",
+  "kind": "Elven haven of the Falas",
+  "tier": 2,
+  "blurb": "The southern harbour town of the Falas, on the shore beside the river Nenning.",
+  "book": "Eglarest is the southern of the two Havens of the Falas. It lies on the coast of Beleriand near the mouth of the river Nenning. Círdan the Shipwright and the Falathrim live there and at Brithombar.\n\nFinrod raises the tower of Barad Nimras on the cape west of the haven, so that the Elves can watch the sea.\n\nAfter the Nírnaeth Arnoediad, Morgoth's host attacks the Falas. Orcs besiege and destroy Eglarest and Brithombar. Círdan and a remnant escape by sea to the Isle of Balar and the Mouths of Sirion.\n\nThe coast is later lost beneath the waves.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "One of the Havens of the Falas"
+  },
+  "facts": {
+   "Realm": "The Falas",
+   "Ruler": "Círdan",
+   "People": "Falathrim",
+   "Fate": "Destroyed after the Nírnaeth"
+  },
+  "related": [
+   "RG05",
+   "TO05",
+   "RI18",
+   "FT05"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'",
+   "The Silmarillion, ch. 20 'Of the Fifth Battle'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO07",
+  "title": "Havens of Sirion",
+  "kind": "Refuge at the river mouths",
+  "tier": 1,
+  "blurb": "The last refuge of the Elves of Beleriand, near the mouths of the river Sirion.",
+  "book": "The Havens of Sirion lie near the mouths of the Sirion, in the south of Beleriand. They begin as a camp for Elves who flee Morgoth after the Nírnaeth Arnoediad. The Falathrim of Círdan help to rebuild their ships and homes there.\n\nThe Havens grow larger when Tuor and Idril arrive with the survivors of Gondolin about F.A. 510. Tuor builds a ship, Eärrámë, and sails west with Idril. Their son Eärendil becomes lord of the Havens. He marries Elwing, the granddaughter of Beren and Lúthien. She brings with her a Silmaril.\n\nThe sons of Fëanor learn that the Silmaril is there. They attack the Havens and kill many Elves, in the third kinslaying of Elves by Elves. Elwing casts herself into the sea with the jewel. Ulmo turns her into a bird, and she flies to Eärendil.\n\nEärendil sails to Valinor with the Silmaril and begs the Valar for help. That plea leads to the War of Wrath. The Havens and the land around them are lost at its end.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "The Mouths of Sirion"
+  },
+  "facts": {
+   "Realm": "Refuge of the Elves",
+   "Rulers": "Círdan; later Eärendil",
+   "People": "Sindar, Noldor, survivors",
+   "Fate": "Sacked by Fëanor's sons"
+  },
+  "related": [
+   "RI01",
+   "BA02",
+   "IS01",
+   "TO03",
+   "TO05"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 23 'Of Tuor and the Fall of Gondolin'",
+   "The Silmarillion, ch. 24 'Of the Voyage of Eärendil'"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO08",
+  "title": "Ephel Brandir",
+  "kind": "Haladin settlement in Brethil",
+  "tier": 2,
+  "blurb": "The stockaded home of the Men of Brethil, on the hill of Amon Obel.",
+  "book": "Ephel Brandir is the settlement of the Haladin, the Men of Brethil. It stands on the hill of Amon Obel, in the middle of the forest. The name means the encircling fence of Brandir, who rules it.\n\nBrandir the Halfhanded becomes lord after Handir dies. Túrin, who calls himself Turambar, comes there after the fall of Nargothrond and becomes a leader of the Haladin.\n\nTúrin kills Glaurung at Cabed-en-Aras. Nienor, his sister, comes to Brethil with no memory of her past. Brandir loves her, and she marries Túrin. After she dies, Brandir brings the news, and Túrin kills him in anger.\n\nThe book does not say how the settlement ended. It is lost when the land sinks.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin for the fence of Brandir",
+   "Other names": "Home of the Haladin"
+  },
+  "facts": {
+   "Realm": "Brethil",
+   "Ruler": "Brandir the Halfhanded",
+   "People": "Haladin, Men of the House of Haleth",
+   "Setting": "Amon Obel"
+  },
+  "related": [
+   "FO04",
+   "RG08",
+   "VA01",
+   "RI03"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 21 'Of Túrin Turambar'",
+   "The Children of Húrin"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO09",
+  "title": "Belegost",
+  "kind": "Dwarf-city of the Blue Mountains",
+  "tier": 2,
+  "blurb": "Gabilgathol, a great Dwarf-city in the Blue Mountains, ruled by Lord Azaghâl.",
+  "book": "Belegost is a Dwarf-city in the Blue Mountains, north of Mount Dolmed. The Dwarves call it Gabilgathol. It is one of the two great cities of the Dwarves in the western mountains. The other is Nogrod.\n\nThe Dwarves of Belegost are renowned smiths and craftsmen. They meet the Elves of Beleriand, and the Sindar trade with them. They help Thingol build Menegroth. Their lord Azaghâl is a strong king.\n\nAzaghâl leads a Dwarf host to the Nírnaeth Arnoediad. He wounds the dragon Glaurung, who kills him, and the Dwarves carry his body home.\n\nBelegost is ruined during the War of Wrath, when the western mountains break. Many of its people move to Khazad-dûm.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin for Mickleburg, the great fortress",
+   "Other names": "Gabilgathol (Dwarvish)"
+  },
+  "facts": {
+   "Realm": "Dwarves of the Blue Mountains",
+   "Ruler": "Azaghâl, in the Nírnaeth",
+   "People": "Dwarves",
+   "Fate": "Ruined in the War of Wrath"
+  },
+  "related": [
+   "MT11",
+   "TO10",
+   "MT13",
+   "TO01"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 10 'Of the Sindar'",
+   "The Silmarillion, ch. 20 'Of the Fifth Battle'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO10",
+  "title": "Nogrod",
+  "kind": "Dwarf-city of the Blue Mountains",
+  "tier": 2,
+  "blurb": "Tumunzahar, the Dwarf-city whose smiths sacked Menegroth and killed King Thingol.",
+  "book": "Nogrod is a Dwarf-city in the Blue Mountains, south of Mount Dolmed. The Dwarves call it Tumunzahar. It is one of the two great Dwarf-cities of the west. The other is Belegost.\n\nThe Dwarves of Nogrod are skilled smiths. Telchar of Nogrod forges famous blades and helms. They trade with the Elves and help to build Menegroth.\n\nThingol asks smiths of Nogrod to set a Silmaril in the Nauglamír, a Dwarf-made necklace. The smiths covet it and kill Thingol in a quarrel over it. A host from Nogrod then sacks Menegroth.\n\nThe Elves of Ossiriand ambush the Dwarves at Sarn Athrad. They kill nearly all of them, and Beren takes back the Nauglamír.\n\nNogrod is ruined in the War of Wrath, when the mountains break.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin for Hollowbold, the hollow dwelling",
+   "Other names": "Tumunzahar (Dwarvish)"
+  },
+  "facts": {
+   "Realm": "Dwarves of the Blue Mountains",
+   "People": "Dwarves",
+   "Famed for": "Smiths such as Telchar",
+   "Fate": "Ruined in the War of Wrath"
+  },
+  "related": [
+   "MT11",
+   "TO09",
+   "FJ03",
+   "TO01"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 10 'Of the Sindar'",
+   "The Silmarillion, ch. 22 'Of the Ruin of Doriath'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FT01",
+  "title": "Angband",
+  "kind": "Fortress of Morgoth",
+  "tier": 1,
+  "blurb": "Morgoth's great northern fortress, the Hells of Iron, beneath the peaks of Thangorodrim.",
+  "book": "Angband is the stronghold of Morgoth in the far north of Middle-earth. Its name means the Hells of Iron. Morgoth builds it as a base and armoury. He sets Sauron to guard it, and he keeps it through the long ages of the Trees.\n\nWhen the Valar fight the War of the Powers, Angband is not fully cleared. Morgoth builds a great mountain mass, Thangorodrim, above its gates from slag and ash. After the return of Morgoth from Valinor, Angband is the centre of his power.\n\nThe Noldor besiege Angband for about four hundred years. The Dagor Bragollach breaks the siege, and the plain of Ard-galen becomes a desert, Anfauglith. After that, Morgoth's Orcs and dragons threaten all Beleriand.\n\nBeren and Lúthien enter Angband and cut a Silmaril from Morgoth's crown. Morgoth is brought down after the War of Wrath. The host of the Valar breaks Thangorodrim and Angband. The land is later lost beneath the sea.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin for the Iron Prison",
+   "Other names": "The Hells of Iron"
+  },
+  "facts": {
+   "Ruler": "Morgoth",
+   "Setting": "Beneath Thangorodrim",
+   "Besieged": "About four centuries",
+   "Fate": "Broken in the War of Wrath"
+  },
+  "related": [
+   "MT02",
+   "RG20",
+   "RG21",
+   "MT01"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 3 'Of the Coming of the Elves'",
+   "The Silmarillion, ch. 24 'Of the Voyage of Eärendil'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FT02",
+  "title": "Barad Eithel",
+  "kind": "Fortress of the Noldor",
+  "tier": 1,
+  "blurb": "The stronghold of Fingolfin and Fingon at Eithel Sirion, the spring of the river Sirion.",
+  "book": "Barad Eithel is the great fortress of the Noldor at Eithel Sirion. It stands on the eastern side of the Ered Wethrin, near the source of the Sirion. Fingolfin, High King of the Noldor, holds it with his sons. It guards the passes from the north.\n\nDuring the Siege of Angband its host watches the plain of Ard-galen. In the Nírnaeth Arnoediad, Morgoth's heralds slay the captive Gelmir before its walls.\n\nAfter the Dagor Bragollach, Morgoth's host breaks the siege. Fingolfin, in grief and rage, rides alone to Angband and challenges Morgoth to single combat. Morgoth wounds him many times. Fingolfin dies, and his son Fingon succeeds him.\n\nFingon rules from Hithlum and holds the fortress for the rest of his life. He falls at the Nírnaeth Arnoediad. The land is lost beneath the sea at the end of the age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin for the tower of the spring",
+   "Other names": "Eithel Sirion"
+  },
+  "facts": {
+   "Realm": "Hithlum",
+   "Ruler": "Fingolfin, then Fingon",
+   "People": "Noldor",
+   "Fate": "Lost with the wars of Hithlum"
+  },
+  "related": [
+   "MT04",
+   "RI01",
+   "RG01",
+   "FT01",
+   "VA04"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'",
+   "The Silmarillion, ch. 18 'Of the Ruin of Beleriand and the Fall of Fingolfin'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FT03",
+  "title": "Tol Sirion",
+  "kind": "Island fortress in the Sirion",
+  "tier": 1,
+  "blurb": "The island in the Pass of Sirion that bears Finrod's tower, later Sauron's Isle of Werewolves.",
+  "book": "Tol Sirion is an island in the river Sirion, in the pass between Ered Wethrin and Dorthonion. Finrod Felagund builds a strong watch-tower on it, called Minas Tirith. The tower guards the pass into Beleriand from the north.\n\nAfter the Dagor Bragollach, Sauron takes the island. Sauron drives out Finrod's brother Orodreth. The tower becomes a place of terror, and the island is known as Tol-in-Gaurhoth, the Isle of Werewolves.\n\nBeren and Finrod are taken to the island on their quest. Sauron holds them in his dungeons. Finrod holds his people's honour and wrestles with Sauron in a duel of song. Finrod dies when a werewolf kills him, saving Beren.\n\nLúthien and Huan the hound come to the island. They defeat Sauron's wolves and throw down his tower. Beren is freed. Sauron escapes, and the island is cleansed. The island is later lost with the land.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin for Isle of Sirion",
+   "Other names": "Minas Tirith (tower); Tol-in-Gaurhoth"
+  },
+  "facts": {
+   "Builder": "Finrod Felagund",
+   "Later holder": "Sauron",
+   "Setting": "Pass of Sirion",
+   "Fate": "Cleansed by Lúthien and Huan"
+  },
+  "related": [
+   "VA04",
+   "RI01",
+   "MT04",
+   "RG11"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'",
+   "The Silmarillion, ch. 19 'Of Beren and Lúthien'"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "FT04",
+  "title": "Himring",
+  "kind": "Fortress of Maedhros",
+  "tier": 1,
+  "blurb": "The high, bare hill and citadel of Maedhros, Fëanor's eldest son, on the marches of the east.",
+  "book": "Himring is a tall, bare hill in the north-east of Beleriand. It stands in the March of Maedhros, between Dorthonion and the Blue Mountains. Maedhros builds a strong fortress on its top. The hill is cold and windy, and its name means always cold.\n\nMaedhros leads the sons of Fëanor from Himring. After the Dagor Bragollach, he holds the east marches against the host of Morgoth. His brothers keep the lands around: Maglor guards the open land of Maglor's Gap.\n\nMaedhros then plans the Union of Maedhros, an alliance of Elves and Men against Morgoth. The Union ends in the disaster of the Nírnaeth Arnoediad. After the battle the sons of Fëanor are scattered, and the March is lost.\n\nAt the end of the age, Maedhros and Maglor seize the two Silmarils that remain, and Maedhros dies in despair. The hill of Himring survives the drowning of Beleriand as an island, Himling.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin for the always cold hill",
+   "Later name": "Himling (an isle after the sinking)"
+  },
+  "facts": {
+   "Realm": "March of Maedhros",
+   "Ruler": "Maedhros",
+   "People": "Noldor, Men",
+   "Fate": "Survives as the isle of Himling"
+  },
+  "related": [
+   "RG13",
+   "VA03",
+   "VA06",
+   "RG14"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'",
+   "The Silmarillion, ch. 18 'Of the Ruin of Beleriand and the Fall of Fingolfin'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FT05",
+  "title": "Barad Nimras",
+  "kind": "Elven watch-tower",
+  "tier": 3,
+  "blurb": "A watch-tower that Finrod built on the cape west of Eglarest.",
+  "book": "Barad Nimras is a tower on a cape west of Eglarest, on the coast of the Falas. Finrod Felagund builds it as a watch-tower against the sea.\n\nThe tower forms part of the defences of the Havens of the Falas. The book gives few details of its history. It is later lost beneath the waves.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin for the white-horn tower"
+  },
+  "facts": {
+   "Builder": "Finrod Felagund",
+   "Realm": "The Falas",
+   "Purpose": "Coastal watch"
+  },
+  "related": [
+   "TO06",
+   "RG05"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "GR01",
+  "title": "Haudh-en-Ndengin",
+  "kind": "Mound of the slain",
+  "tier": 2,
+  "blurb": "The Hill of Slain, a great mound heaped on the plain of Anfauglith after the Nírnaeth.",
+  "book": "Haudh-en-Ndengin is a great mound on the plain of Anfauglith. The name means the Hill of the Slain. It is also called Haudh-en-Nírnaeth.\n\nAfter the Nírnaeth Arnoediad, the Orcs heap the bodies of the fallen Elves and Men into one great hill on the desert plain. The Orcs do not touch it.\n\nGrass grows on the mound, though the rest of the plain is barren and dead. It stands as a memorial of those who fell.\n\nThe mound is lost with the rest of the north when Beleriand is broken at the end of the age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin for the Hill of the Slain",
+   "Other names": "Haudh-en-Nírnaeth"
+  },
+  "facts": {
+   "Setting": "Plain of Anfauglith",
+   "Origin": "Dead of the Nírnaeth Arnoediad",
+   "Fate": "Lost with the north"
+  },
+  "related": [
+   "RG20",
+   "FT01",
+   "FT04"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 20 'Of the Fifth Battle'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "GR02",
+  "title": "Haudh-en-Elleth",
+  "kind": "Grave-mound of Finduilas",
+  "tier": 2,
+  "blurb": "The green mound near the Crossings of Teiglin where Finduilas of Nargothrond lies.",
+  "book": "Haudh-en-Elleth is a mound near the Crossings of the Teiglin. The name means the Mound of the Elf-maid. It is the grave of Finduilas, the daughter of Orodreth of Nargothrond.\n\nOrcs take Finduilas captive when they sack Nargothrond. When the men of Brethil attack them at the Crossings of the Teiglin, the Orcs kill her. The men of Brethil bury her there, and Túrin later learns of her death at the mound.\n\nThe mound stays green, and it is a place of sorrow. Later Túrin finds Nienor, his sister, lying on the mound with no memory, and brings her to Brethil.\n\nThe mound is lost when the land is broken at the end of the First Age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin for the Mound of the Elf-maid"
+  },
+  "facts": {
+   "Grave of": "Finduilas of Nargothrond",
+   "Setting": "Near the Crossings of Teiglin",
+   "Fate": "Lost with Beleriand"
+  },
+  "related": [
+   "FJ02",
+   "RI03",
+   "FO04",
+   "TO02"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 21 'Of Túrin Turambar'",
+   "The Children of Húrin"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "VA01",
+  "title": "Cabed-en-Aras",
+  "kind": "Gorge of the Teiglin",
+  "tier": 2,
+  "blurb": "The ravine where Túrin slew Glaurung, later called Cabed Naeramarth.",
+  "book": "Cabed-en-Aras is a deep gorge of the river Teiglin, in the land of Brethil. Its name means the Deer's Leap. Deer leap across it to escape hunters.\n\nThe dragon Glaurung comes towards Ephel Brandir and must cross the gorge. Túrin and Hunthor go down into the ravine to ambush him. A falling stone kills Hunthor, and Túrin climbs up alone. He thrusts his black sword Gurthang into the dragon's soft belly as it passes over him.\n\nGlaurung dies, but he first reveals the truth about Túrin and Nienor. Nienor, hearing that she is Túrin's sister, throws herself from the cliff. The gorge is then called Cabed Naeramarth, the Leap of Dreadful Doom.\n\nTúrin takes his own life on his sword.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin for the Deer's Leap",
+   "Later name": "Cabed Naeramarth, the Leap of Dreadful Doom"
+  },
+  "facts": {
+   "Setting": "Teiglin, in Brethil",
+   "Event": "Túrin kills Glaurung",
+   "Fate": "Lost with Beleriand"
+  },
+  "related": [
+   "RI03",
+   "FO04",
+   "TO08",
+   "FA01"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 21 'Of Túrin Turambar'",
+   "The Children of Húrin"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "FA01",
+  "title": "Nen Girith",
+  "kind": "Waterfall in Brethil",
+  "tier": 3,
+  "blurb": "The Shuddering Water, a waterfall on the stream Celebros in the forest of Brethil.",
+  "book": "Nen Girith is a waterfall in Brethil, on the stream Celebros. The name means the Shuddering Water. It is also called Dimrost, the Rainy Stair, because of its spray.\n\nThe Celebros falls there on its way to the Teiglin. The place is part of the land of the Haladin and lies near the heart of the forest.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin for the Shuddering Water",
+   "Other names": "Dimrost, the Rainy Stair"
+  },
+  "facts": {
+   "Setting": "Celebros stream, Brethil",
+   "Realm": "Land of the Haladin"
+  },
+  "related": [
+   "FO04",
+   "RI03",
+   "VA01"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 21 'Of Túrin Turambar'",
+   "The Children of Húrin"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FA02",
+  "title": "Falls of Sirion",
+  "kind": "Waterfall of the Sirion",
+  "tier": 3,
+  "blurb": "The place where the Sirion falls beneath the hills of Andram and goes underground.",
+  "book": "The Falls of Sirion lie in the south of Beleriand, where the river meets the hills of Andram. There the Sirion plunges into a great chasm and flows underground for some miles.\n\nThe river comes out again at the Gates of Sirion, on the southern side of the hills. The Falls divide West Beleriand from East Beleriand.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "The place where Sirion goes under the hills"
+  },
+  "facts": {
+   "Setting": "Hills of Andram",
+   "River": "Sirion",
+   "Fate": "Lost with Beleriand"
+  },
+  "related": [
+   "RI01",
+   "HI02",
+   "CA01"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "CA01",
+  "title": "Gates of Sirion",
+  "kind": "Rock arches of the Sirion",
+  "tier": 3,
+  "blurb": "The arches where the Sirion comes out from beneath the hills of Andram.",
+  "book": "The Gates of Sirion are the rock arches where the river Sirion comes out of the hills. The river flows underground beneath the hills of Andram for three leagues. It comes out into the open at these arches.\n\nThe Gates mark the southern end of the underground passage that begins at the Falls of Sirion.",
+  "film": "",
+  "series": "",
+  "names": {},
+  "facts": {
+   "River": "Sirion",
+   "Setting": "South of Andram",
+   "Passage": "Three leagues underground"
+  },
+  "related": [
+   "RI01",
+   "FA02",
+   "HI02"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FA03",
+  "title": "Rivil's Well",
+  "kind": "Spring in Dorthonion",
+  "tier": 3,
+  "blurb": "The source of the stream Rivil in Dorthonion, where Beren avenged his father.",
+  "book": "Rivil's Well is the source of the stream Rivil, in the high land of Dorthonion. The Rivil flows from the spring down to the Fen of Serech.\n\nBeren, the son of Barahir, comes here after Orcs kill his father. He kills the Orc captain and takes back his father's ring.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Spring of the stream Rivil"
+  },
+  "facts": {
+   "Setting": "Dorthonion",
+   "River": "Rivil",
+   "Event": "Beren avenges Barahir"
+  },
+  "related": [
+   "RI19",
+   "RG11",
+   "SW01",
+   "LA03"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 19 'Of Beren and Lúthien'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "HA01",
+  "title": "Losgar",
+  "kind": "Landing place of the Noldor",
+  "tier": 2,
+  "blurb": "The landing place at the mouth of the Firth of Drengist where Fëanor burned the ships.",
+  "book": "Losgar is a place on the coast of Beleriand, at the mouth of the Firth of Drengist. Fëanor and his host land there after they cross the sea from Aman. The Noldor sailed in ships taken from the Teleri.\n\nFëanor orders the ships burned. The fire lights the sky. Fingolfin and his host see the flames from across the sea and know that Fëanor has abandoned them. They then have to cross the Helcaraxë, the grinding ice.\n\nThe burning of the ships also marks the final break between the house of Fëanor and the other Noldor. Fëanor and his sons go on to the battle of Dagor-nuin-Giliath.\n\nLosgar is lost with the land at the end of the age.",
+  "film": "",
+  "series": "",
+  "names": {},
+  "facts": {
+   "Setting": "Mouth of Drengist",
+   "Event": "Fëanor burns the ships",
+   "Fate": "Lost with Beleriand"
+  },
+  "related": [
+   "BA01",
+   "MT03",
+   "RG01",
+   "RG04"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 9 'Of the Flight of the Noldor'",
+   "The Silmarillion, ch. 13 'Of the Return of the Noldor'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "VA02",
+  "title": "Cirith Ninniach",
+  "kind": "Rainbow Cleft",
+  "tier": 2,
+  "blurb": "The Rainbow Cleft, where Tuor first saw the Great Sea on his way to Nevrast.",
+  "book": "Cirith Ninniach is a cleft in the cliffs on the western coast of Beleriand. The name means the Rainbow Cleft. A river runs through it, and the spray of the sea forms rainbows over it.\n\nTuor comes to the Cleft after he leaves Hithlum and passes through the hidden way of the Noldor. He sees the Great Sea for the first time. He hears the sound of the waves and feels the call of the sea, which stays with him.\n\nFrom there Tuor goes on to Nevrast. He finds the deserted halls of Vinyamar. Ulmo's counsel guides him, and he later goes on to Gondolin.\n\nThe Cleft is lost with the land at the end of the First Age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin for the Rainbow Cleft"
+  },
+  "facts": {
+   "Setting": "Western coast of Beleriand",
+   "Visitor": "Tuor",
+   "Fate": "Lost with Beleriand"
+  },
+  "related": [
+   "BA01",
+   "TO04",
+   "RG04",
+   "MT03"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 23 'Of Tuor and the Fall of Gondolin'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FJ01",
+  "title": "Brithiach",
+  "kind": "Ford of the Sirion",
+  "tier": 2,
+  "blurb": "The one ford over the Sirion north of Brethil, on the way from Hithlum to the south.",
+  "book": "Brithiach is the one ford across the river Sirion in its upper course. It lies north-east of the forest of Brethil, below Dimbar and the Echoriath. It is the main crossing for those who travel between the lands east and west of the Sirion.\n\nAredhel crosses it when she leaves Gondolin. Tuor and Voronwë cross it on their way to the Hidden City.\n\nThe ford is lost when the river and the land are broken at the end of the age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin for gravel-ford"
+  },
+  "facts": {
+   "River": "Sirion",
+   "Setting": "North of Brethil",
+   "Use": "Main crossing of the Sirion"
+  },
+  "related": [
+   "RI01",
+   "FO04",
+   "SW01",
+   "FJ02"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "FJ02",
+  "title": "Crossings of Teiglin",
+  "kind": "Ford on the Old South Road",
+  "tier": 2,
+  "blurb": "The fords where the Old South Road crosses the river Teiglin, at the edge of Brethil.",
+  "book": "The Crossings of Teiglin are the fords where the Old South Road crosses the river Teiglin. They lie at the north-western edge of Brethil. The road runs from the north to the south of Beleriand.\n\nThe Haladin of Brethil guard the Crossings against the Orcs. The Haladin fight Orcs there more than once.\n\nAfter the fall of Nargothrond, Orcs bring their captives north along the road. Finduilas is among them, and the Orcs kill her at the Crossings when the men of Brethil attack. The Woodmen bury her, and her mound becomes Haudh-en-Elleth.\n\nThe road and the fords are lost when the land is broken at the end of the age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Crossings of the river Teiglin"
+  },
+  "facts": {
+   "River": "Teiglin",
+   "Road": "Old South Road",
+   "Realm": "Edge of Brethil",
+   "Fate": "Lost with Beleriand"
+  },
+  "related": [
+   "RI03",
+   "RD02",
+   "GR02",
+   "FO04"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 21 'Of Túrin Turambar'",
+   "The Children of Húrin"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FJ03",
+  "title": "Sarn Athrad",
+  "kind": "Ford of Stones",
+  "tier": 2,
+  "blurb": "The Ford of Stones on the river Gelion, where the Dwarf-road crosses.",
+  "book": "Sarn Athrad is a ford across the river Gelion. The name means the Ford of Stones. The great Dwarf-road from the Blue Mountains to Beleriand crosses the river there.\n\nThe Dwarves of Nogrod sack Menegroth and kill King Thingol. They then travel home with the treasure, including the Nauglamír and its Silmaril.\n\nThe Elves of Ossiriand wait for them at Sarn Athrad. Beren leads them, and nearly all the Dwarves are slain. Beren takes the Nauglamír, and the rest of the gold is cast into the river Ascar. The few who flee are destroyed near Mount Dolmed.\n\nThe ford is lost when Beleriand sinks, though the Blue Mountains remain in part.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin for the Ford of Stones"
+  },
+  "facts": {
+   "River": "Gelion",
+   "Road": "Dwarf-road",
+   "Event": "Ambush of the Dwarves by Beren",
+   "Fate": "Lost with Beleriand"
+  },
+  "related": [
+   "RI08",
+   "RD01",
+   "TO10",
+   "TO01"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 22 'Of the Ruin of Doriath'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FJ04",
+  "title": "Arossiach",
+  "kind": "Fords of the Aros",
+  "tier": 3,
+  "blurb": "The fords of the river Aros, near the north-east border of Doriath.",
+  "book": "Arossiach is the name of the fords of the river Aros. They lie near the north-eastern borders of Doriath. The river Aros marks part of the edge of that kingdom.\n\nThe book mentions the fords only in passing. They are a crossing on the border lands of Doriath.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin for the fords of the Aros"
+  },
+  "facts": {
+   "River": "Aros",
+   "Setting": "Edge of Doriath"
+  },
+  "related": [
+   "RI05",
+   "RG07"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "BR01",
+  "title": "Iant Iaur",
+  "kind": "Old bridge over the Esgalduin",
+  "tier": 3,
+  "blurb": "The Old Bridge over the river Esgalduin, on the road along the northern edge of Doriath.",
+  "book": "Iant Iaur is the Old Bridge across the river Esgalduin. It lies in the north of Doriath, near the edge of Nan Dungortheb. It is a crossing on the northern road into the kingdom.\n\nThe bridge is part of the northern border of Doriath. The book names it only briefly.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin for the old bridge"
+  },
+  "facts": {
+   "River": "Esgalduin",
+   "Setting": "North of Doriath"
+  },
+  "related": [
+   "RI04",
+   "RG10",
+   "RG07"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "VA03",
+  "title": "Pass of Aglon",
+  "kind": "Mountain pass",
+  "tier": 2,
+  "blurb": "The narrow pass between Dorthonion and the hill of Himring, held by Celegorm and Curufin.",
+  "book": "The Pass of Aglon is a narrow pass between Dorthonion and the lands of Himring. It leads from the northern plain south into the Himlad. Celegorm and Curufin, sons of Fëanor, hold the pass.\n\nThe pass guards the way into Beleriand. In the Dagor Bragollach, the Orcs of Morgoth overwhelm it. Celegorm and Curufin are driven out and go to Nargothrond.\n\nThe pass is a hard place to defend, and its loss lets Morgoth's host pour into the lands beyond. It is lost with the land at the end of the age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin for the narrow pass"
+  },
+  "facts": {
+   "Setting": "Between Dorthonion and Himring",
+   "Holders": "Celegorm and Curufin",
+   "Fate": "Overrun in the Dagor Bragollach"
+  },
+  "related": [
+   "RG11",
+   "FT04",
+   "RG13",
+   "RG14"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'",
+   "The Silmarillion, ch. 18 'Of the Ruin of Beleriand and the Fall of Fingolfin'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "VA04",
+  "title": "Pass of Sirion",
+  "kind": "Mountain pass",
+  "tier": 2,
+  "blurb": "The narrow vale of the upper Sirion between Ered Wethrin and Dorthonion.",
+  "book": "The Pass of Sirion is the narrow valley of the upper Sirion. It runs between the Ered Wethrin and the highlands of Dorthonion. It is the main route from the north into the western lands of Beleriand.\n\nFinrod builds a tower on the island of Tol Sirion in the middle of the pass. The tower watches the road. The Elves hold the pass during the siege of Angband.\n\nAfter the Dagor Bragollach, Sauron captures Tol Sirion and holds the pass. His power poisons the vale. The pass becomes a place of dread, and travellers avoid it.\n\nLúthien and Huan later overthrow Sauron's tower on the island. The vale is lost with Beleriand at the end of the First Age.",
+  "film": "",
+  "series": "",
+  "names": {},
+  "facts": {
+   "River": "Sirion",
+   "Setting": "Between Ered Wethrin and Dorthonion",
+   "Key site": "Tol Sirion"
+  },
+  "related": [
+   "FT03",
+   "MT04",
+   "RG11",
+   "RI01"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'",
+   "The Silmarillion, ch. 18 'Of the Ruin of Beleriand and the Fall of Fingolfin'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "VA05",
+  "title": "Anach",
+  "kind": "Mountain pass",
+  "tier": 3,
+  "blurb": "A pass that leads from Taur-nu-Fuin down towards the region of Dimbar.",
+  "book": "Anach is a steep pass. It leads from the forest of Taur-nu-Fuin to the lands of Dimbar. It lies at the western end of the Ered Gorgoroth, near the Echoriath.\n\nThe pass is dark and dangerous. It lies beside the forest where Morgoth's servants roam.",
+  "film": "",
+  "series": "",
+  "names": {},
+  "facts": {
+   "Setting": "Between Taur-nu-Fuin and Dimbar"
+  },
+  "related": [
+   "FO08",
+   "RG09",
+   "MT09"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "VA06",
+  "title": "Maglor's Gap",
+  "kind": "Open land in the east",
+  "tier": 2,
+  "blurb": "The open land between Himring and the Blue Mountains, guarded by Maglor.",
+  "book": "Maglor's Gap is a wide stretch of open country. It lies between the hill of Himring and the northern end of the Blue Mountains. It has no hills or river to guard it, and it is the weak point in the east of Beleriand.\n\nMaglor, the second son of Fëanor, holds the Gap with his host. He keeps watch there for the forces of Morgoth. Maedhros holds Himring, and the brothers guard the eastern marches together.\n\nIn the Dagor Bragollach, Glaurung and a host of Orcs break through the Gap into East Beleriand. Maglor flees to Maedhros on Himring.\n\nIt is lost with Beleriand at the end of the age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Named for Maglor, who guarded it"
+  },
+  "facts": {
+   "Setting": "Between Himring and Blue Mountains",
+   "Holder": "Maglor",
+   "Danger": "Open to attack from the north"
+  },
+  "related": [
+   "FT04",
+   "MT11",
+   "RG13",
+   "RG14"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'",
+   "The Silmarillion, ch. 18 'Of the Ruin of Beleriand and the Fall of Fingolfin'"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "DO01",
+  "title": "Orfalch Echor",
+  "kind": "Ravine and hidden way",
+  "tier": 2,
+  "blurb": "The great ravine of the seven gates, the only way into hidden Gondolin.",
+  "book": "Orfalch Echor is a huge ravine cut through the Echoriath, the mountains that ring Gondolin. It is the only way into the Hidden City. The bed of a dry river forms the road.\n\nThe road passes through seven gates. Each is guarded and strongly built, and only those whom Turgon permits can pass.\n\nTuor and Voronwë come to Gondolin by this way. The guards bring them through to the city. When Morgoth attacks, his host comes over the northern mountains, not by this road.\n\nThe ravine is lost with the land at the end of the First Age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin for great ravine of the Encircling Mountains"
+  },
+  "facts": {
+   "Setting": "Echoriath, Gondolin",
+   "Defences": "Seven gates",
+   "Fate": "Lost with Beleriand"
+  },
+  "related": [
+   "TO03",
+   "MT08",
+   "VA07",
+   "RG26"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 23 'Of Tuor and the Fall of Gondolin'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "VA07",
+  "title": "Cirith Thoronath",
+  "kind": "Mountain pass",
+  "tier": 2,
+  "blurb": "The Eagles' Cleft in the northern Echoriath, the escape route from Gondolin.",
+  "book": "Cirith Thoronath is a cleft high in the Echoriath, in the north of the mountain ring around Gondolin. Its name means the Cleft of the Eagles. Eagles nest among the crags above it.\n\nAfter the city falls, Tuor leads a company of survivors, with Idril, by a secret way that she had prepared. They climb to the pass, where Orcs and a Balrog lie in ambush.\n\nGlorfindel fights the Balrog on the high path, and both fall into the abyss. The Eagles drive off the Orcs, and the company escapes. The survivors reach the Havens of Sirion.\n\nThe pass is lost when the land is broken at the end of the age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin for the Eagles' Cleft"
+  },
+  "facts": {
+   "Setting": "North of the Echoriath",
+   "Event": "Escape from Gondolin",
+   "Fate": "Lost with Beleriand"
+  },
+  "related": [
+   "MT08",
+   "TO03",
+   "DO01",
+   "TO07"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 23 'Of Tuor and the Fall of Gondolin'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FI01",
+  "title": "Tumhalad",
+  "kind": "Battlefield of Nargothrond",
+  "tier": 2,
+  "blurb": "The field between Ginglith and Narog where the army of Nargothrond was destroyed.",
+  "book": "Tumhalad is a valley between the rivers Ginglith and Narog, in the realm of Nargothrond.\n\nThe army of Nargothrond rides out to meet the host of Morgoth. Glaurung leads the Orcs. Orodreth, King of Nargothrond, and Gwindor lead the Elves. The Orcs surround them in the valley, and the dragon drives into their ranks.\n\nOrodreth dies there. Gwindor is mortally wounded, and he speaks to Túrin before he dies. The host of Nargothrond is destroyed.\n\nNargothrond lies open to Glaurung, who sacks it. Tumhalad is lost when the land sinks at the end of the age.",
+  "film": "",
+  "series": "",
+  "names": {},
+  "facts": {
+   "Realm": "Nargothrond",
+   "Event": "Last battle of Nargothrond",
+   "Fate": "Lost with Beleriand"
+  },
+  "related": [
+   "TO02",
+   "RI02",
+   "RI15",
+   "RG06"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 21 'Of Túrin Turambar'",
+   "The Children of Húrin"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "IS02",
+  "title": "Tol Galen",
+  "kind": "Green isle in the Adurant",
+  "tier": 2,
+  "blurb": "The green island in the river Adurant where Beren and Lúthien lived after their return.",
+  "book": "Tol Galen is a green island in the river Adurant, in Ossiriand. The Green Elves of that land live around it. It is a fair place, set in a land of rivers.\n\nBeren and Lúthien come to Tol Galen after Lúthien's return from the halls of Mandos. They have a mortal life together there. The island is their home for the rest of their time in Middle-earth.\n\nTheir son Dior lives there with them, and Lúthien wears the Silmaril on the isle. In time, Beren and Lúthien leave the world.\n\nTol Galen is lost when Ossiriand is broken in the War of Wrath.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin for the Green Isle",
+   "Other names": "The Green Isle"
+  },
+  "facts": {
+   "River": "Adurant",
+   "Realm": "Ossiriand",
+   "Residents": "Beren and Lúthien",
+   "Fate": "Lost with Ossiriand"
+  },
+  "related": [
+   "RI14",
+   "RG16",
+   "RG07"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 19 'Of Beren and Lúthien'",
+   "The Silmarillion, ch. 22 'Of the Ruin of Doriath'"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "BA01",
+  "title": "Firth of Drengist",
+  "kind": "Long sea inlet",
+  "tier": 2,
+  "blurb": "A long sea-inlet that cuts through the Echoing Mountains into Hithlum.",
+  "book": "The Firth of Drengist is a long arm of the sea. It runs inland through the Ered Lómin, the Echoing Mountains, towards Hithlum.\n\nFëanor lands at its mouth, at Losgar, and burns the ships. The firth is also the way by which the Noldor reach the north of Beleriand.\n\nLater, many of the Noldor settle in Hithlum and Nevrast near the firth.\n\nThe firth is lost beneath the sea when Beleriand breaks at the end of the First Age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "Drengist"
+  },
+  "facts": {
+   "Setting": "Through the Ered Lómin",
+   "Site": "Losgar at its mouth",
+   "Fate": "Lost with Beleriand"
+  },
+  "related": [
+   "HA01",
+   "MT03",
+   "RG01",
+   "RG04"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BA02",
+  "title": "Bay of Balar",
+  "kind": "Great bay of Beleriand",
+  "tier": 2,
+  "blurb": "The great bay on the southern coast into which the Sirion flows.",
+  "book": "The Bay of Balar is a great bay on the southern coast of Beleriand. The river Sirion flows into it. The Isle of Balar lies in its waters.\n\nThe Havens of Sirion stand on the bay near the river mouths. Círdan and his people take refuge there and on the isle after the fall of the Havens of the Falas.\n\nEärendil sails from the bay to the west, to ask the Valar for help. The bay is a place of ships and refuge in the last years of Beleriand.\n\nThe bay and its shores are lost beneath the sea at the end of the First Age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Named for the isle of Balar"
+  },
+  "facts": {
+   "River": "Sirion",
+   "Islands": "Isle of Balar",
+   "Fate": "Lost with Beleriand"
+  },
+  "related": [
+   "RI01",
+   "IS01",
+   "TO07",
+   "IS03"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'",
+   "The Silmarillion, ch. 24 'Of the Voyage of Eärendil'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "IS03",
+  "title": "Cape Balar",
+  "kind": "Cape of Beleriand",
+  "tier": 3,
+  "blurb": "The south-western cape of Beleriand, near the Bay of Balar.",
+  "book": "Cape Balar is the south-western cape of Beleriand. It lies on the coast near the Bay of Balar and the isle of that name.\n\nThe book mentions the cape only in passing. It is lost with the land at the end of the First Age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Named for the isle of Balar"
+  },
+  "facts": {
+   "Setting": "South-west of Beleriand",
+   "Near": "Bay of Balar"
+  },
+  "related": [
+   "BA02",
+   "IS01"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "IS01",
+  "title": "Isle of Balar",
+  "kind": "Island refuge",
+  "tier": 2,
+  "blurb": "An island in the Bay of Balar, last refuge of Círdan and, later, Gil-galad.",
+  "book": "The Isle of Balar is a large island in the Bay of Balar. It is the last refuge of the Elves of the Falas. Círdan holds its shores after Morgoth destroys the Havens of the Falas.\n\nCírdan and many of his people take refuge on Balar and at the Mouths of Sirion. Gil-galad, son of Fingon, comes there with Círdan after the Havens of the Falas fall. He becomes High King of the Noldor.\n\nThe Elves build ships and keep watch there. The isle gives hope to the people of Beleriand in the darkest years.\n\nAfter the War of Wrath, many Elves leave. The isle is lost with Beleriand at the end of the First Age.",
+  "film": "",
+  "series": "",
+  "names": {},
+  "facts": {
+   "Realm": "Refuge of the Falathrim",
+   "Rulers": "Círdan; Gil-galad",
+   "Setting": "Bay of Balar",
+   "Fate": "Lost with Beleriand"
+  },
+  "related": [
+   "BA02",
+   "TO07",
+   "TO05",
+   "TO06"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'",
+   "The Silmarillion, ch. 20 'Of the Fifth Battle'"
+  ],
+  "confidence": "medium"
+ }
+]

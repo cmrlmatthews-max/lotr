@@ -1,0 +1,1849 @@
+[
+ {
+  "id": "journey:frodo",
+  "title": "The Quest of the Ring",
+  "travellers": "Frodo Baggins and Samwise Gamgee, with companions for part of the way",
+  "source": "The Lord of the Rings",
+  "dates": "T.A. 3018, 23 September - T.A. 3019, 25 March",
+  "blurb": "Frodo carries the One Ring from the Shire across Middle-earth and destroys it in the fire of Mount Doom.",
+  "book": "Frodo leaves Bag End with Sam and Pippin, and Merry joins them at Crickhollow. They pass the Old Forest and the Barrow-downs and reach Bree, where Strider guides them east. A Morgul wound at Weathertop nearly kills Frodo, and Elrond heals him in Rivendell. The Council there chooses nine walkers. Snow defeats them on Caradhras, so they take the dark road through Moria, where Gandalf falls. After Lothlórien they sail down the Anduin. At Parth Galen the Fellowship breaks, and Frodo and Sam go on alone across the Emyn Muil and the Dead Marshes with Gollum as guide. Gollum leads them past the Black Gate, through Ithilien, and up the stairs above Minas Morgul. Shelob attacks in Cirith Ungol, and Sam rescues Frodo from the orc tower. They cross Mordor in exhaustion and reach the Cracks of Doom, where Gollum takes the Ring and falls with it into the fire.",
+  "film": "In the films Frodo leaves the Shire with Sam alone at first, Merry and Pippin join by accident, and the Old Forest and Bombadil are cut. Strider finds them at Bree. Faramir takes them to Osgiliath.",
+  "stages": [
+   {
+    "at": {
+     "near": "BU030",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Leaving Bag End",
+    "date": "23 September 3018",
+    "note": "Frodo leaves his home after Gandalf's warning, taking Sam and Pippin. He tells his neighbours that he is moving to Crickhollow in Buckland.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO016",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Across country past Bywater",
+    "date": "",
+    "note": "The three hobbits avoid the roads and walk east across fields and farmland, hoping to slip away before anyone follows.",
+    "film": "In the film Frodo and Sam leave alone."
+   },
+   {
+    "at": {
+     "near": "FO037",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Woody End and the Elves",
+    "date": "",
+    "note": "In the Woody End they meet a company of High-elves led by Gildor. The Elves share their food and say that Frodo must leave soon.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO111",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Woodhall",
+    "date": "",
+    "note": "The hobbits continue through the farmland of the Eastfarthing, close to Woodhall, and keep a watch for the Black Riders who pursue them.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RD014",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Bucklebury Ferry",
+    "date": "25 September 3018",
+    "note": "Pursued by a Black Rider, they reach the ferry across the Brandywine just in time and cross into Buckland.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO022",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Crickhollow",
+    "date": "",
+    "note": "Merry and Fatty Bolger have prepared the new house. The Black Riders attack it in the night, but by then Frodo has already left.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FO023",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Old Forest",
+    "date": "",
+    "note": "The hobbits take the short way through the Old Forest. Old Man Willow traps Frodo, Merry and Pippin until Sam and Tom Bombadil save them.",
+    "film": "The Old Forest and Tom Bombadil do not appear."
+   },
+   {
+    "at": {
+     "near": "HI011",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Barrow-downs",
+    "date": "",
+    "note": "A barrow-wight captures the hobbits in the downs. Tom Bombadil frees them and gives each hobbit an ancient blade from the barrow.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO011",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Bree",
+    "date": "",
+    "note": "At the Prancing Pony they meet Strider, a Ranger. Gandalf's letter confirms that he is a friend, and he agrees to guide them to Rivendell.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "SW010",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Midgewater Marshes",
+    "date": "",
+    "note": "Strider leads them through the marshes to avoid the road. Midges and wet ground slow them down, and the Black Riders keep searching.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "HI052",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Weathertop",
+    "date": "6 October 3018",
+    "note": "Five Nazgûl attack the hobbits on the hill. The Witch-king stabs Frodo with a Morgul blade, and a splinter stays in the wound.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "BR008",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Last Bridge",
+    "date": "",
+    "note": "The company crosses the Hoarwell at the Last Bridge. Frodo is growing weaker, and Strider hurries the party toward the Trollshaws.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FO033",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Trollshaws",
+    "date": "",
+    "note": "They find three stone trolls from Bilbo's old tale. Glorfindel, an Elf-lord from Rivendell, meets them and gives Frodo his horse.",
+    "film": "Glorfindel does not appear. Arwen rescues Frodo."
+   },
+   {
+    "at": {
+     "near": "FJ006",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Ford of Bruinen",
+    "date": "20 October 3018",
+    "note": "Frodo rides across the ford with the Nazgûl behind him. The river floods at Elrond's command and sweeps the Riders away.",
+    "film": "Arwen leads the flood."
+   },
+   {
+    "at": {
+     "near": "TO084",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Rivendell",
+    "date": "",
+    "note": "Frodo wakes in Elrond's house, healed. The Council of Elrond meets on 25 October and decides that the Ring must be destroyed.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "HI036",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Hollin",
+    "date": "8 January 3019",
+    "note": "The Fellowship leaves on 25 December and travels south along the mountains to the land of Hollin, an ancient Elf-country now empty and wild.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "MT006",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Caradhras",
+    "date": "",
+    "note": "The company tries to cross the Redhorn Pass. A fierce snowstorm forces them back, and Gandalf decides that they must go through Moria.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "DO009",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Doors of Durin",
+    "date": "",
+    "note": "Gandalf finds the hidden west door of Moria. A watcher in the lake seizes Frodo, and the Fellowship hurries inside as the doors close.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO066",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Moria",
+    "date": "",
+    "note": "They walk for days in the dark mines. In the Chamber of Mazarbul they find Balin's tomb, and orcs and a cave-troll attack them.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "VA004",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Dimrill Dale",
+    "date": "",
+    "note": "After the Balrog drags Gandalf from the bridge, the Fellowship escapes into the light. Aragorn leads the grieving company down toward Lothlórien.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO018",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Lothlórien",
+    "date": "17 January 3019",
+    "note": "The company rests in Caras Galadhon with Celeborn and Galadriel. Frodo looks into the Mirror, and each member receives a gift before they leave.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO018",
+     "dx": 45,
+     "dy": -30
+    },
+    "title": "Departure by boat",
+    "date": "16 February 3019",
+    "note": "The Fellowship leaves Lothlórien in grey Elven boats on the river. Galadriel's gifts include cloaks, waybread and a phial of light.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RI003",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "On the Anduin",
+    "date": "",
+    "note": "The boats travel south for several days. Frodo senses that Gollum is following them, and orc raiders are active on the eastern bank.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "DO002",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Argonath",
+    "date": "",
+    "note": "The boats pass between the two great stone statues of Isildur and Anárion, who guard the northern entrance to Gondor's land.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FI021",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Parth Galen",
+    "date": "26 February 3019",
+    "note": "Boromir tries to take the Ring and Frodo flees. Orcs kill Boromir, and the Fellowship breaks. Frodo and Sam cross the river alone.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "HI022",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Emyn Muil",
+    "date": "",
+    "note": "Frodo and Sam struggle through the barren hills and catch Gollum, who agrees to guide them to Mordor.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "SW002",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Dead Marshes",
+    "date": "",
+    "note": "Gollum guides them through the marshes. Frodo sees faces of the dead beneath the dark water, and a Nazgûl flies overhead.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FT005",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Black Gate",
+    "date": "",
+    "note": "They find the Morannon too well guarded to enter. Gollum offers to take them by another road, to a secret pass in the south.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "CA008",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Ithilien and Henneth Annûn",
+    "date": "",
+    "note": "Faramir captures them in Ithilien and takes them to the hidden cave of Henneth Annûn. He lets them go after he understands their task.",
+    "film": "Faramir takes them to Osgiliath."
+   },
+   {
+    "at": {
+     "near": "VA013",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Morgul Vale",
+    "date": "",
+    "note": "Gollum guides them to the Morgul Vale. The pale city of Minas Morgul glows, and an army of Mordor marches out as they pass.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "CA013",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Shelob's Lair",
+    "date": "",
+    "note": "Gollum leads them up the stairs into the dark tunnel of Cirith Ungol, where Shelob stings Frodo and Sam believes him dead.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FT025",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Tower of Cirith Ungol",
+    "date": "",
+    "note": "Sam takes the Ring, enters the tower and rescues Frodo from the orc captors. Both of them dress as orcs to escape.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "MT035",
+     "dx": 0,
+     "dy": 30
+    },
+    "title": "The Morgai",
+    "date": "",
+    "note": "They climb down into the valley behind the Morgai ridge and walk north for days. Their food and water run low.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FI025",
+     "dx": -60,
+     "dy": 40
+    },
+    "title": "Plateau of Gorgoroth",
+    "date": "",
+    "note": "Orcs force them along the road to the Isenmouthe, but they slip away. They follow the road toward Barad-dûr, then turn south across the plain to the mountain.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "MT036",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Mount Doom",
+    "date": "25 March 3019",
+    "note": "Frodo claims the Ring at the Cracks of Doom. Gollum bites off his finger and falls into the fire, and the Ring is destroyed.",
+    "film": ""
+   }
+  ],
+  "sources": [
+   "The Lord of the Rings, Books I-VI",
+   "The Lord of the Rings, Appendix B (The Tale of Years)"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "journey:thorin",
+  "title": "There and Back Again",
+  "travellers": "Bilbo Baggins, Gandalf (part of the way) and the thirteen dwarves of Thorin's Company",
+  "source": "The Hobbit",
+  "dates": "T.A. 2941, spring - autumn",
+  "blurb": "Bilbo joins thirteen dwarves to win back the treasure of Erebor from the dragon Smaug.",
+  "book": "Gandalf brings thirteen dwarves to Bilbo's door at Bag End, and Bilbo sets out as their burglar. They ride east along the Road, and trolls capture them in the Trollshaws. Gandalf rescues them, and in Rivendell Elrond reads the moon-letters on Thorin's map. In the Misty Mountains, goblins seize the company, but Gandalf leads them out. Bilbo finds a ring and meets Gollum, then escapes alone. Eagles carry the dwarves from burning trees to the Carrock, and Beorn lends them ponies and food. In Mirkwood the company loses the path, and spiders and Wood-elves capture them. Bilbo frees them in barrels down the river to Lake-town. The dwarves reach the Lonely Mountain and Bilbo finds the secret door. Smaug attacks Lake-town, and Bard kills him. Men, Elves, goblins and dwarves then fight at the Battle of Five Armies below the Lonely Mountain. Bilbo returns home with a share of the treasure and a ring.",
+  "film": "In the films Radagast and the White Council appear, and Azog hunts the company throughout. Legolas and Tauriel join the story, and the dwarves fight Smaug inside the mountain before he attacks Lake-town.",
+  "stages": [
+   {
+    "at": {
+     "near": "BU030",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Bag End",
+    "date": "April 2941",
+    "note": "Gandalf and thirteen dwarves arrive at Bilbo's home for an unexpected party. Bilbo agrees to be their burglar and leaves the next morning.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO011",
+     "dx": 40,
+     "dy": 0
+    },
+    "title": "Road east of Bree",
+    "date": "",
+    "note": "The company rides east along the Great East Road, through hobbit farms and then the wild Lone-lands. The weather turns wet and grim.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "BR008",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Last Bridge",
+    "date": "",
+    "note": "The party crosses the Hoarwell at the Last Bridge and continues toward the edge of the wild Trollshaws.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FO033",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The trolls",
+    "date": "",
+    "note": "Three trolls catch the company at the trolls' camp fire. Gandalf tricks them into arguing until sunrise turns them to stone. The dwarves find swords in their cave.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO084",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Rivendell",
+    "date": "",
+    "note": "Elrond welcomes the company and reads the hidden moon-letters on Thorin's map. They rest before crossing the mountains.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "VA036",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "High Pass",
+    "date": "",
+    "note": "On the pass a thunderstorm sends the company to shelter in a cave, which is a goblin tunnel.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO039",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Goblin-town",
+    "date": "",
+    "note": "Goblins take the company deep underground to their Great Goblin. Gandalf escapes, rescues the dwarves, and Bilbo, left behind, finds a ring and meets Gollum.",
+    "film": "Goblin-town has a bridge-and-platform design and a goblin king."
+   },
+   {
+    "at": {
+     "near": "BU090",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Eagles' Eyrie",
+    "date": "",
+    "note": "Eagles rescue the company from burning trees after the goblins and wargs hunt them, and set the travellers down near the Carrock.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "IS003",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The Carrock",
+    "date": "",
+    "note": "The eagles leave the party on the Carrock. Gandalf leads them across the Anduin to Beorn's lands.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "BU031",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Beorn's Hall",
+    "date": "",
+    "note": "Beorn, a skin-changer, hosts the company. He lends them ponies and food and warns them not to leave the path in Mirkwood.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "DO013",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Forest Gate",
+    "date": "",
+    "note": "The company reaches the edge of Mirkwood. Gandalf leaves them here to attend other business, and the dwarves enter the forest.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RD013",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The Elf-path",
+    "date": "",
+    "note": "The company follows the Elf-path for many days. The forest is dark, food runs low, and they feel that they are being watched.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RI022",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Enchanted River",
+    "date": "",
+    "note": "They cross a black enchanted stream, and Bombur falls in and sleeps. Later, starving, they leave the path to seek Elf-feasts, and giant spiders capture the dwarves.",
+    "film": "The enchanted stream and Bombur's fall appear."
+   },
+   {
+    "at": {
+     "near": "TO031",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Elvenking's Halls",
+    "date": "",
+    "note": "Wood-elves take the dwarves prisoner in the Elvenking's halls. Bilbo uses his ring to hide and arranges their escape in barrels.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO053",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Lake-town",
+    "date": "",
+    "note": "The barrels float down the river to Lake-town. The townspeople welcome the dwarves, though Thorin's quest worries some of them.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "DO003",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Back Door",
+    "date": "",
+    "note": "Bilbo finds the hidden door as Durin's Day approaches. He enters the mountain and steals a cup from Smaug's hoard.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO024",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Smaug's last flight",
+    "date": "",
+    "note": "While the dwarves hide in the mountain, Smaug flies past ruined Dale to attack Lake-town. Bard kills him with the black arrow after a thrush brings word of a weak spot.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "DO014",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Front Gate",
+    "date": "",
+    "note": "Thorin refuses to share the hoard when the Men and Elves arrive. The dwarves fortify the gate.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "HI042",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Ravenhill",
+    "date": "",
+    "note": "The Battle of Five Armies is fought on and around this hill. Thorin is mortally wounded and dies after a reconciliation with Bilbo.",
+    "film": "The film shows Thorin dying on the ice."
+   }
+  ],
+  "sources": [
+   "The Hobbit, Chapters 1-19",
+   "The Lord of the Rings, Appendix B (The Tale of Years)"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "journey:hunters",
+  "title": "The Hunt for Merry and Pippin",
+  "travellers": "Aragorn, Legolas and Gimli",
+  "source": "The Lord of the Rings",
+  "dates": "T.A. 3019, 26 February - 25 March",
+  "blurb": "Three companions chase the orcs who took Merry and Pippin, then fight in Rohan and Gondor.",
+  "book": "After the Fellowship breaks, Aragorn, Legolas and Gimli follow the orcs who capture Merry and Pippin. They run over the Emyn Muil and across the plains of Rohan. Éomer's riders meet them near the Entwash, and in Fangorn they meet Gandalf the White. He takes them to Edoras, where Théoden is freed from Saruman's spell. They ride to Helm's Deep and fight in the battle there, then see Saruman at Isengard. When the War begins, Aragorn takes the Paths of the Dead from Dunharrow and swears the Dead Men to the Stone of Erech. They ride south through Lamedon, cross the river Gilrain at Linhir, and capture ships at Pelargir. They sail up the Anduin and arrive at the Harlond to join the Battle of the Pelennor Fields. After the victory, Aragorn heals the sick at the Houses of Healing, and the Captains march to the Black Gate to draw Sauron's eye from Frodo.",
+  "film": "In the films the Dead Men rout the Corsairs at Pelargir and then sweep the Pelennor. Aragorn falls from a cliff on the road to Helm's Deep, and Elves from Lórien fight there.",
+  "stages": [
+   {
+    "at": {
+     "near": "FI021",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Parth Galen",
+    "date": "26 February 3019",
+    "note": "Aragorn, Legolas and Gimli find the camp empty and the boats gone. They decide to follow the orcs who carried off Merry and Pippin.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "HI022",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Emyn Muil",
+    "date": "",
+    "note": "The trio climbs the ridges of the Emyn Muil and follows the orc trail west. They run for days with little rest.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FO012",
+     "dx": 150,
+     "dy": -70
+    },
+    "title": "Plains of Rohan",
+    "date": "30 February 3019",
+    "note": "Éomer's Riders meet the three on the plains. After a tense meeting, Éomer tells them that his men burned the orcs near Fangorn and lends them horses.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FO012",
+     "dx": 50,
+     "dy": -20
+    },
+    "title": "Eaves of Fangorn",
+    "date": "",
+    "note": "The companions examine the orc pyre and find hobbit tracks leading into the forest. Aragorn searches the ground carefully.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FO012",
+     "dx": 20,
+     "dy": 0
+    },
+    "title": "Gandalf the White",
+    "date": "1 March 3019",
+    "note": "In Fangorn they meet a white-robed wizard who turns out to be Gandalf, returned from death. He tells them to ride to Edoras.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO029",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Edoras",
+    "date": "2 March 3019",
+    "note": "Gandalf frees Théoden from Saruman's influence. The king gathers the Riders and rides west to meet the army of Isengard.",
+    "film": "In the film Théodred, Théoden's son, dies at Edoras of wounds from the fords."
+   },
+   {
+    "at": {
+     "near": "FT014",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Helm's Deep",
+    "date": "3 March 3019",
+    "note": "The Rohirrim and their allies defend the Hornburg through the night. Aragorn and Gimli fight on the wall, and Legolas shoots many enemies.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FT017",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Isengard",
+    "date": "5 March 3019",
+    "note": "The Ents have flooded the fortress. Théoden and the others meet Saruman in Orthanc, and Gandalf casts him out of his order.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FT016",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The Hornburg and the Grey Company",
+    "date": "6 March 3019",
+    "note": "Riding back from Isengard, they meet the Grey Company of Rangers. At the Hornburg Aragorn looks into the Palantír and chooses the Paths of the Dead.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FT009",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Dunharrow",
+    "date": "7 March 3019",
+    "note": "Aragorn, Legolas, Gimli and the Grey Company reach Dunharrow at nightfall. Éowyn asks to ride with them, but Aragorn refuses.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "VA040",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Paths of the Dead",
+    "date": "8 March 3019",
+    "note": "Aragorn leads his company through the haunted Dwimorberg path. The Dead Men of Dunharrow follow him, because he is Isildur's heir.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "HI023",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Stone of Erech",
+    "date": "8 March 3019",
+    "note": "Aragorn calls the Dead Men at the Stone of Erech to fulfill their ancient oath, and they follow him south to fight Sauron's allies.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO017",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Calembel",
+    "date": "9 March 3019",
+    "note": "The company rides through Lamedon. The country folk flee in fear of the Dead Men that follow Aragorn.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO054",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Linhir",
+    "date": "11 March 3019",
+    "note": "At the fords of Gilrain the enemy flees before the Dead. Aragorn crosses into Lebennin and drives on toward Pelargir.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO081",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Pelargir",
+    "date": "13 March 3019",
+    "note": "The Dead Men attack the Corsairs of Umbar, who flee in terror. Aragorn takes the ships and sails with his army up the Anduin.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO045",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Harlond",
+    "date": "15 March 3019",
+    "note": "Aragorn's ships arrive at the Harlond and he raises the banner of the Stars. His army lands to help the beleaguered city.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FI024",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Pelennor Fields",
+    "date": "15 March 3019",
+    "note": "The sudden arrival of Aragorn's fleet turns the tide of the battle. Orcs and Haradrim are crushed.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO065",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Minas Tirith",
+    "date": "",
+    "note": "Aragorn enters the city and heals the wounded in the Houses of Healing. He declines to be crowned until the war is over.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO078",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Osgiliath and Ithilien",
+    "date": "",
+    "note": "The Host of the West crosses the Anduin at Osgiliath, passes the Cross-roads, and marches north through Ithilien toward the Morannon.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FT005",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The Black Gate",
+    "date": "25 March 3019",
+    "note": "The Captains of the West stand before the Black Gate. Mordor's army sallies out in force, and the Ring is destroyed at the height of the fight.",
+    "film": ""
+   }
+  ],
+  "sources": [
+   "The Lord of the Rings, Books III, V and VI",
+   "The Lord of the Rings, Appendix B (The Tale of Years)"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "journey:merry-pippin",
+  "title": "Captives and Squires",
+  "travellers": "Meriadoc Brandybuck and Peregrin Took",
+  "source": "The Lord of the Rings",
+  "dates": "T.A. 3019, 26 February - 15 March",
+  "blurb": "Merry and Pippin are carried off by orcs, escape into Fangorn, and then serve Rohan and Gondor.",
+  "book": "After the Fellowship breaks, orcs of Saruman and Mordor capture Merry and Pippin at Parth Galen. They carry the hobbits west across the Emyn Muil and the plains of Rohan. Éomer's Riders kill the orcs near Fangorn, and the hobbits slip away into the forest. There they meet Treebeard, who calls an Entmoot and leads the Ents against Isengard. They destroy the fortress with a flood. Merry and Pippin meet Gandalf and the king's company there. Pippin looks into the Palantír and Gandalf takes him on Shadowfax to Minas Tirith, where he swears to serve Denethor. Merry swears to serve Théoden and rides with him by mountain roads to Dunharrow. The king refuses to take him to war, but Merry rides with Dernhelm, who is Éowyn in disguise. They pass through the Drúadan Forest and the Grey Wood and reach the Pelennor Fields. Merry helps Éowyn kill the Witch-king and falls ill from the wound. Pippin's ride with Gandalf and Merry's ride with the Rohirrim are told in the notes below.",
+  "film": "In the films the Entmoot first decides not to fight, and Pippin leads Treebeard past the trees Saruman has felled to change his mind. Pippin looks into the Palantír at Edoras and later lights the beacon of Minas Tirith.",
+  "stages": [
+   {
+    "at": {
+     "near": "FI021",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Captured at Parth Galen",
+    "date": "26 February 3019",
+    "note": "Orcs led by Saruman's Uruk-hai kill Boromir and carry off Merry and Pippin.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "HI022",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Across the Emyn Muil",
+    "date": "",
+    "note": "The orcs drive the hobbits west across the ridges. Saruman's Uruk-hai and orcs from Mordor quarrel over where to take them.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FO012",
+     "dx": 150,
+     "dy": -70
+    },
+    "title": "Plains of Rohan",
+    "date": "",
+    "note": "The orc company runs across the grassland. Pippin leaves his brooch, and the Riders of Rohan overtake the orcs near the forest.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FO012",
+     "dx": 50,
+     "dy": -20
+    },
+    "title": "Escape into Fangorn",
+    "date": "29 February 3019",
+    "note": "Éomer's Riders surround and slay the orcs. The hobbits cut their bonds and creep into the forest in the dark.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "BU086",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Treebeard's Wellinghall",
+    "date": "",
+    "note": "Treebeard, the oldest Ent, hosts the hobbits and takes them to his home. Merry and Pippin tell him what Saruman has done.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FI005",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The Entmoot",
+    "date": "",
+    "note": "The Ents hold a long council at Derndingle. They decide to march against Isengard, which Saruman has filled with orcs and machines.",
+    "film": "Treebeard first refuses to march, then the Ents decide to go to war."
+   },
+   {
+    "at": {
+     "near": "FT017",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Isengard",
+    "date": "",
+    "note": "The Ents destroy Saruman's walls and flood the pits. Merry and Pippin greet Théoden's company. That night at Dol Baran, Pippin looks into the Palantír, and Gandalf takes him to Minas Tirith.",
+    "film": "In the film Pippin looks into the Palantír at Edoras."
+   },
+   {
+    "at": {
+     "near": "FT016",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Esquire of Rohan",
+    "date": "6 March 3019",
+    "note": "Merry offers his sword to Théoden and becomes his esquire. The king then leads his Riders by mountain roads to Harrowdale. Pippin has already gone with Gandalf.",
+    "film": "In the film the company returns to Edoras, and Pippin leaves with Gandalf from there."
+   },
+   {
+    "at": {
+     "near": "FT009",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Dunharrow",
+    "date": "9 March 3019",
+    "note": "The king's army gathers. Théoden refuses to take Merry to war, but Dernhelm, a young rider, offers to carry him secretly.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FO007",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Drúadan Forest",
+    "date": "13 March 3019",
+    "note": "In the Drúadan Forest the Riders meet the Woses. Their chief, Ghân-buri-Ghân, offers to guide them past the enemy on the road. Merry rides before Dernhelm.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "VA018",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Stonewain Valley",
+    "date": "",
+    "note": "The Woses lead the army through the ancient valley, bypassing the enemy that holds the main road.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FO016",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Grey Wood",
+    "date": "14 March 3019",
+    "note": "The Rohirrim wait in the Grey Wood for the right moment. Sauron's war-cloud lies over the land.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "WA006",
+     "dx": -10,
+     "dy": 20
+    },
+    "title": "Rammas Echor",
+    "date": "",
+    "note": "The Riders pass through a gap in the outer wall that the orcs have broken. They meet the enemy as the sun rises.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FI024",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Pelennor Fields",
+    "date": "15 March 3019",
+    "note": "Théoden is killed and Éowyn faces the Witch-king. Merry stabs the Nazgûl, and Éowyn destroys him, but both are gravely wounded.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "GR018",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Mounds of Mundburg",
+    "date": "",
+    "note": "Riders of Rohan who fell in the battle are buried in mounds beside the road. Théoden's body is carried into the city.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO065",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Minas Tirith",
+    "date": "",
+    "note": "Merry stumbles into the city behind Théoden's bier, and Pippin finds him in the street. Aragorn heals him in the Houses of Healing.",
+    "film": ""
+   }
+  ],
+  "sources": [
+   "The Lord of the Rings, Books III and V",
+   "The Lord of the Rings, Appendix B (The Tale of Years)"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "journey:gandalf",
+  "title": "The Wizard in the War",
+  "travellers": "Gandalf the Grey, later Gandalf the White",
+  "source": "The Lord of the Rings",
+  "dates": "T.A. 3018, April - T.A. 3019, 25 March",
+  "blurb": "Gandalf searches for the truth of the Ring, falls in Moria, returns, and leads the West to the Black Gate.",
+  "book": "In April 3018 Gandalf comes to Bag End and tells Frodo that his ring is the One Ring. At midsummer he meets Radagast and goes to Isengard to see Saruman, who imprisons him on the roof of Orthanc. The eagle Gwaihir carries him away, and he rides Shadowfax from Edoras to the Shire. He finds that Frodo has gone and follows him to Bree. At Weathertop the Nazgûl attack him, and he escapes to Rivendell. Gandalf then leads the Fellowship over the mountains and through Moria, where he fights the Balrog and falls. After a long battle he dies on the peak of Zirakzigil and returns as Gandalf the White. In Fangorn he finds the three hunters, frees Théoden at Edoras, and comes to Helm's Deep at dawn with Erkenbrand. He breaks Saruman at Isengard, rides to Minas Tirith with Pippin, and defends the city. He then leads the Captains of the West to the Black Gate.",
+  "film": "In the films Gandalf leaves for Minas Tirith to study the Ring only after Bilbo's party, and he returns to Helm's Deep with Éomer's riders instead of Erkenbrand's.",
+  "stages": [
+   {
+    "at": {
+     "near": "BU030",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Bag End",
+    "date": "12 April 3018",
+    "note": "Gandalf tells Frodo the history of his ring and confirms that it is the One. He urges Frodo to leave the Shire, then goes away on business in the south.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FT017",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Isengard",
+    "date": "10 July 3018",
+    "note": "Saruman, the head of Gandalf's order, imprisons him on the pinnacle of Orthanc after Gandalf refuses to join him.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO029",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Edoras",
+    "date": "20 September 3018",
+    "note": "Gwaihir carries Gandalf out of Isengard. At Edoras Théoden grudgingly lets him take a horse, and he chooses Shadowfax.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO050",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The Shire",
+    "date": "29 September 3018",
+    "note": "Gandalf arrives at Hobbiton and learns that Frodo has already left. He sets off at once to find him.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO011",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Bree",
+    "date": "30 September 3018",
+    "note": "Gandalf reaches Bree and finds that Frodo left that morning. The innkeeper had forgotten to send Gandalf's letter.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "HI052",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Weathertop",
+    "date": "3 October 3018",
+    "note": "Gandalf is besieged on the hill by Nazgûl for a night. He escapes the next morning and rides north to Rivendell.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO084",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Rivendell",
+    "date": "18 October 3018",
+    "note": "Gandalf joins Elrond's Council and chooses to go with the Fellowship. He leaves on 25 December to guide them south.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "HI036",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Hollin",
+    "date": "8 January 3019",
+    "note": "Gandalf leads the Fellowship down the mountain slopes to Hollin and plans a path over Caradhras.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "MT006",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Caradhras",
+    "date": "",
+    "note": "Aragorn favours the Redhorn Pass, but a snowstorm drives the company back. Gandalf then presses for the road through Moria, which he proposed earlier.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "DO009",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Doors of Durin",
+    "date": "",
+    "note": "Gandalf solves the riddle on the doors and opens the way into Moria, finding the password after much trying.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "BR003",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Bridge of Khazad-dûm",
+    "date": "15 January 3019",
+    "note": "Gandalf faces the Balrog on the bridge and breaks it. The Balrog drags him into the abyss.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "MT007",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Zirakzigil",
+    "date": "25 January 3019",
+    "note": "Gandalf pursues the Balrog to the peak of Zirakzigil. After a long fight, he casts it down and dies.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO018",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Lothlórien",
+    "date": "17 February 3019",
+    "note": "Gandalf is sent back to life. Gwaihir carries him to Lórien after the Fellowship has left, and there he is healed and clad in white.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FO012",
+     "dx": 20,
+     "dy": 0
+    },
+    "title": "Fangorn",
+    "date": "1 March 3019",
+    "note": "Gandalf, now white, meets Aragorn, Legolas and Gimli in Fangorn. He tells them that Merry and Pippin are alive.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO029",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Edoras again",
+    "date": "2 March 3019",
+    "note": "Gandalf frees Théoden from Saruman's control and rouses the Rohirrim. The king rides to war.",
+    "film": "In the film Gandalf drives Saruman's spirit out of a possessed Théoden."
+   },
+   {
+    "at": {
+     "near": "FT014",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Helm's Deep",
+    "date": "4 March 3019",
+    "note": "Gandalf returns at dawn with Erkenbrand's men. With the help of the Huorns, they break the army of Isengard besieging the Hornburg.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FT017",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Isengard",
+    "date": "5 March 3019",
+    "note": "Gandalf breaks Saruman's staff and expels him from the Order. He takes the Palantír and Pippin with him to Minas Tirith.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "BU085_54",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Beacon hills",
+    "date": "",
+    "note": "Gandalf and Pippin ride east along the beacon hills toward Gondor. Shadowfax runs through the night, and the beacons of Gondor are lit.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO065",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Minas Tirith",
+    "date": "9 March 3019",
+    "note": "Gandalf comes to the city, where he opposes Denethor's despair. He leads the defence against the Witch-king and the army of Mordor.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FI024",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Pelennor Fields",
+    "date": "15 March 3019",
+    "note": "Gandalf alone faces the Witch-king at the broken gate. When the horns of Rohan sound, he leaves to save Faramir from Denethor's pyre.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FT005",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Black Gate",
+    "date": "25 March 3019",
+    "note": "The Captains of the West stand before the Black Gate. Gandalf rejects the terms of the Mouth of Sauron, and battle begins. The Eagles arrive as the Ring is destroyed.",
+    "film": ""
+   }
+  ],
+  "sources": [
+   "The Lord of the Rings, Books I-VI",
+   "The Lord of the Rings, Appendix B (The Tale of Years)"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "journey:rohirrim",
+  "title": "The Ride of the Rohirrim",
+  "travellers": "Théoden King, Éomer, Éowyn (as Dernhelm), Merry and the Riders of Rohan",
+  "source": "The Lord of the Rings",
+  "dates": "T.A. 3019, March",
+  "blurb": "The Riders of Rohan answer Gondor's call and hurry to the Pelennor Fields in time to turn the battle.",
+  "book": "When the Red Arrow brings Gondor's call for aid, Théoden gathers his Riders at Dunharrow in the White Mountains. About six thousand ride out. Merry rides in secret with Dernhelm. The army rides down past Edoras and follows the Great West Road east, passing the beacon hills along Gondor's border and camping below Min-Rimmon. The enemy blocks the main road, so Ghân-buri-Ghân leads the Rohirrim through the Stonewain Valley in the Drúadan Forest. This path avoids the enemy and brings the Riders to the Grey Wood, outside the Rammas Echor. The army waits there until the cock crows and the horns sound. The Riders then break through the broken wall of the outer defences, ride across the Pelennor Fields, and attack the army of Mordor. Théoden falls and Éowyn defeats the Witch-king. The Riders and Gondor win the field with the help of Aragorn's fleet.",
+  "film": "In the films the Riders gather at Dunharrow and ride straight to the Pelennor. The Woses and the Stonewain Valley do not appear.",
+  "stages": [
+   {
+    "at": {
+     "near": "FT009",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Dunharrow muster",
+    "date": "9 March 3019",
+    "note": "Théoden reaches the muster at Dunharrow. A messenger brings the Red Arrow, Gondor's call for aid, and the king promises to ride.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO029",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Ride past Edoras",
+    "date": "10 March 3019",
+    "note": "On the Dawnless Day about six thousand Riders ride down from Harrowdale, pass Edoras and take the road east. Merry rides hidden with Dernhelm.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FO013",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Firienholt",
+    "date": "",
+    "note": "The army rides east along the Great West Road and passes the Firien Wood, on the border of Gondor.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "BU085_57",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Min-Rimmon",
+    "date": "12 March 3019",
+    "note": "The Riders camp below Min-Rimmon, one of the beacon hills of Gondor, and ride on along the line of signal hills.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FO007",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Drúadan Forest",
+    "date": "13 March 3019",
+    "note": "The Woses, led by Ghân-buri-Ghân, offer to guide the Riders around the enemy on the road.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "VA018",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Stonewain Valley",
+    "date": "",
+    "note": "The Woses lead the army through the ancient Stonewain Valley, a hidden path that bypasses the Orc-held road.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FO016",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Grey Wood",
+    "date": "14 March 3019",
+    "note": "The army waits in the Grey Wood for the right time to strike, hearing the distant noises of the battle.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "WA006",
+     "dx": -10,
+     "dy": 20
+    },
+    "title": "Rammas Echor",
+    "date": "",
+    "note": "The Riders ride through the breach in the Rammas Echor at first light. The sun rises as they charge into the orcs.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FI024",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Pelennor Fields",
+    "date": "15 March 3019",
+    "note": "The Rohirrim sweep across the fields. Théoden falls at the head of his men, and the Rohirrim and Gondor win the day.",
+    "film": ""
+   }
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V (Chapters 3 and 5)",
+   "The Lord of the Rings, Appendix B (The Tale of Years)"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "journey:nazgul",
+  "title": "The Hunt for the Ring",
+  "travellers": "The nine Black Riders (Nazgûl), led by the Witch-king",
+  "source": "The Lord of the Rings",
+  "dates": "T.A. 3018, summer - 20 October",
+  "blurb": "Sauron sends the Nazgûl from Minas Morgul to find the Ring and the hobbit who carries it.",
+  "book": "In 3018 Sauron learns from Gollum of the Shire and of Baggins. He sends the nine Nazgûl out of Minas Morgul. The books give few details of their route before the Shire, so this part of the line is uncertain. They probably cross the Anduin near Osgiliath and search northward through the Vales of Anduin without success. They then ride west by the Gap of Rohan and cross the Fords of Isen on 18 September. They turn north along the old road past ruined Tharbad and reach the Sarn Ford, where Rangers watch the border of the Shire. The Riders drive back the guards and enter the Shire on 23 September. One Rider comes to Hobbiton and others hunt toward the Woody End and Bucklebury. Frodo escapes across the Brandywine. The Nazgûl follow him to Bree and then to Weathertop, where the Witch-king stabs Frodo with a Morgul blade. At last they chase Frodo to the Ford of Bruinen, where the river rises and sweeps their horses away.",
+  "film": "In the films the Nazgûl ride straight to the Shire and attack the Prancing Pony and Weathertop. The films do not show the long search through the Vales of Anduin.",
+  "stages": [
+   {
+    "at": {
+     "near": "TO064",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Minas Morgul",
+    "date": "",
+    "note": "The nine Nazgûl set out from their fortress with Sauron's orders. They must find the Ring and bring it to the Dark Lord.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO078",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Crossing the Anduin",
+    "date": "",
+    "note": "The Riders cross the great river and begin a long search of the lands to the north. The exact crossing is not given, so Osgiliath is a guess.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FI009",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Vales of Anduin",
+    "date": "",
+    "note": "The Nazgûl search northward along the Vales of Anduin for news of the Shire, without success. The exact path is uncertain.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FJ008",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Fords of Isen",
+    "date": "18 September 3018",
+    "note": "The Riders pass through the Gap of Rohan, cross the Fords of Isen and turn north toward the Shire.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO093",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Tharbad",
+    "date": "",
+    "note": "The Riders follow the old road north past ruined Tharbad toward the Shire. The books do not describe this ride in detail.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FJ013",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Sarn Ford",
+    "date": "22 September 3018",
+    "note": "The Riders drive off the Rangers at the Sarn Ford and enter the Shire in the dark.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO050",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Hobbiton",
+    "date": "23 September 3018",
+    "note": "A Black Rider questions the Gaffer about Baggins at nightfall, just as Frodo slips away from Bag End.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FO037",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Woody End",
+    "date": "24 September 3018",
+    "note": "A Black Rider passes near the Woody End while the hobbits camp nearby, but the presence of Gildor's Elves sends it away.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO014",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Bucklebury",
+    "date": "25 September 3018",
+    "note": "The Riders follow Frodo toward Bucklebury. Frodo reaches the ferry first, and the Nazgûl then raid empty Crickhollow.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO011",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Bree",
+    "date": "30 September 3018",
+    "note": "In the early hours of 30 September the inn is raided. The attackers slash the hobbits' beds, but the hobbits are sleeping safely in a parlour.",
+    "film": "In the film the Nazgûl themselves stab the empty beds while the hobbits watch from Strider's room."
+   },
+   {
+    "at": {
+     "near": "HI052",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Weathertop",
+    "date": "6 October 3018",
+    "note": "The Nazgûl attack the hobbits on Weathertop. The Witch-king stabs Frodo with a Morgul blade.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FJ006",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Ford of Bruinen",
+    "date": "20 October 3018",
+    "note": "Frodo rides across the ford, and the Nazgûl follow. A flood summoned by Elrond sweeps their horses away and drives them back.",
+    "film": "Arwen faces the Riders on the ford."
+   }
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I (Chapters 3-12) and Book II, Chapter 1",
+   "The Lord of the Rings, Appendix B (The Tale of Years)"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "journey:boromir",
+  "title": "Boromir's Long Road North",
+  "travellers": "Boromir of Gondor, son of Denethor",
+  "source": "The Lord of the Rings",
+  "dates": "T.A. 3018, 4 July - 24 October",
+  "blurb": "Boromir rides from Minas Tirith to Rivendell, alone, to ask the meaning of a dream.",
+  "book": "Faramir dreams a strange dream many times, and Boromir once. Boromir decides to ride north to seek its meaning at Elrond's house, and his father lets him go unwillingly. He leaves Minas Tirith on 4 July. The books say little about his road, so most of this line is a guess. He probably rides through Rohan and the Gap of Rohan. He loses his horse at Tharbad while fording the Greyflood and goes on on foot. After one hundred and ten days he reaches Rivendell on 24 October, the night before the Council. There he tells of Gondor's war with Sauron and of the dream, and later he joins the Fellowship for his people.",
+  "film": "",
+  "stages": [
+   {
+    "at": {
+     "near": "TO065",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Minas Tirith",
+    "date": "4 July 3018",
+    "note": "Boromir leaves the city on a long ride north to find out what his father's and brother's dream means.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO029",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Edoras",
+    "date": "",
+    "note": "Boromir probably rides west through Rohan, the Riddermark, toward the Gap of Rohan. The book does not describe this part of his road.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FJ008",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Fords of Isen",
+    "date": "",
+    "note": "Boromir probably crosses the Fords of Isen into the lands beyond the Gap of Rohan. This point is a guess.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RD028",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Dunland",
+    "date": "",
+    "note": "The road north from the Gap passes through Dunland. The book does not say what Boromir met here, so this point is a guess.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO093",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Tharbad",
+    "date": "",
+    "note": "At Tharbad Boromir loses his horse while fording the Greyflood. He must continue on foot.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "HI036",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Northward along the mountains",
+    "date": "",
+    "note": "The route is not given in the books. Boromir travels north on foot through the wild country on the edge of the mountains.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO084",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Rivendell",
+    "date": "24 October 3018",
+    "note": "Boromir arrives after 110 days of travel. He joins the Council of Elrond and tells the delegates about Gondor's struggle.",
+    "film": ""
+   }
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II, Chapter 2 (The Council of Elrond)",
+   "The Lord of the Rings, Appendix B (The Tale of Years)"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "journey:return",
+  "title": "The Road Home",
+  "travellers": "Frodo, Sam, Merry, Pippin, Gandalf and companions; later Frodo, Sam, Bilbo and the Elves",
+  "source": "The Lord of the Rings",
+  "dates": "T.A. 3019, July - T.A. 3021, 29 September",
+  "blurb": "After the war, the hobbits travel home to the Shire, and Frodo later sails from the Grey Havens.",
+  "book": "After Aragorn is crowned, the hobbits stay in Minas Tirith for a time. On 22 July they ride north with the funeral escort of Théoden, with Gandalf, Elrond and Galadriel. They stop at Edoras for Théoden's burial and then visit Helm's Deep. At Isengard Treebeard reports that he has let Saruman go, and the company parts from Aragorn. They overtake Saruman on the road, and near the Misty Mountains Celeborn and Galadriel turn home to Lórien. The hobbits and Gandalf ride to Rivendell and visit Bilbo. They set out in early October, reach Bree, and find the Shire in the hands of Saruman's ruffians. In the Scouring of the Shire the hobbits drive the ruffians out in the Battle of Bywater. Frodo suffers from old wounds. In September 3021 Frodo rides out with Sam, meets Bilbo and the Elves, and rides to the Grey Havens. There Frodo and Bilbo sail with Elrond, Galadriel and Gandalf, and Sam returns home to Bag End.",
+  "film": "In the films the Scouring of the Shire does not appear. The hobbits return straight to Hobbiton, and Frodo later sails from the Grey Havens with Bilbo, Gandalf and the Elves.",
+  "stages": [
+   {
+    "at": {
+     "near": "TO065",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Minas Tirith",
+    "date": "22 July 3019",
+    "note": "The hobbits and their companions leave the city after the coronation of King Elessar and ride north.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO029",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Edoras",
+    "date": "",
+    "note": "At Edoras, Théoden is buried in his mound. Éomer rules as king, and the hobbits and Gandalf are honoured at the funeral feast.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FT014",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Helm's Deep",
+    "date": "",
+    "note": "The company stops at the Hornburg, where the hobbits see the site of the great battle, and then rides on toward Isengard.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FT017",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Isengard",
+    "date": "22 August 3019",
+    "note": "The company finds the Ents' work complete. Treebeard has let Saruman go and gives Orthanc's keys to King Elessar, who parts from the company here.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RD028",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Saruman on the road",
+    "date": "28 August 3019",
+    "note": "Near Dunland the company overtakes Saruman and Wormtongue, now beggars. Saruman scorns their pity and turns toward the Shire.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "HI036",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Hollin",
+    "date": "13 September 3019",
+    "note": "In sight of the mountains of Moria, Celeborn and Galadriel leave to go home to Lórien. The hobbits and the others ride north to Rivendell.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO084",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Rivendell",
+    "date": "21 September 3019",
+    "note": "The hobbits reach Rivendell and find Bilbo. They stay about two weeks before the long ride west.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO011",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Bree",
+    "date": "28 October 3019",
+    "note": "The travellers reach Bree and find the gates closed and guarded. They learn of trouble in the Shire.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "BR001",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Brandywine Bridge",
+    "date": "",
+    "note": "The hobbits find the Brandywine Bridge barred. They learn that Saruman's ruffians now control the Shire.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO016",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Bywater",
+    "date": "3 November 3019",
+    "note": "The hobbits raise the Shire against the ruffians. The Battle of Bywater ends the occupation, and Saruman is killed at Bag End.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "BU030",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Bag End",
+    "date": "",
+    "note": "Sam and his friends restore the Shire. Frodo remains in the Shire and lives at Bag End for a time.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FO037",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Woody End",
+    "date": "22 September 3021",
+    "note": "In the Woody End, Frodo and Sam meet Bilbo and the Elves going west. They ride together toward the sea.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO061",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Michel Delving",
+    "date": "",
+    "note": "Frodo and Sam travel west through the Westfarthing toward the sea. The exact path is not given, so this point is a guess.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "HI048",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Tower Hills",
+    "date": "",
+    "note": "Frodo and Sam ride past the Tower Hills, near the Elf-towers, on the way down to the Grey Havens.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO043",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Grey Havens",
+    "date": "29 September 3021",
+    "note": "Frodo sails into the West with Bilbo, Elrond, Galadriel and Gandalf. Sam watches the ship leave and goes home.",
+    "film": ""
+   }
+  ],
+  "sources": [
+   "The Lord of the Rings, Book VI, Chapters 6-9",
+   "The Lord of the Rings, Appendix B (The Tale of Years)"
+  ],
+  "confidence": "medium"
+ }
+]

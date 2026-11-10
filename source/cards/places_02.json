@@ -1,0 +1,878 @@
+[
+ {
+  "id": "TO056",
+  "title": "Lond Daer",
+  "kind": "Númenórean haven",
+  "tier": 3,
+  "blurb": "A ruined Númenórean harbor at the mouth of the Gwathló in southern Eriador.",
+  "book": "Lond Daer was a great Númenórean harbor near the mouth of the Gwathló, built for the Númenóreans who sailed to Middle-earth. It was long abandoned by the Third Age and lay in ruins.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Númenórean colony",
+   "People": "Númenóreans",
+   "Fate": "Abandoned; ruined by the Third Age"
+  },
+  "related": [
+   "RI038",
+   "TO093"
+  ],
+  "sources": [
+   "Unfinished Tales",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO058",
+  "title": "Long Cleeve",
+  "kind": "Hobbit village",
+  "tier": 3,
+  "blurb": "A village in the Northfarthing of the Shire.",
+  "book": "Long Cleeve is a small hobbit village in the Northfarthing of the Shire. Diamond of Long Cleeve, who married Peregrin Took, came from here. The village plays no part in the main story.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "Northfarthing",
+   "People": "Hobbits"
+  },
+  "related": [
+   "TO075"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix C"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO059",
+  "title": "Longbottom",
+  "kind": "Hobbit village",
+  "tier": 3,
+  "blurb": "A Southfarthing village famous for its pipe-weed.",
+  "book": "Longbottom lies in the Southfarthing of the Shire. It is known for Longbottom Leaf, the best pipe-weed of the Shire. Tobold Hornblower is said to have first grown the plant here in the Shire year 1070.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "Southfarthing",
+   "Known for": "Longbottom Leaf pipe-weed"
+  },
+  "related": [
+   "TO061"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO061",
+  "title": "Michel Delving",
+  "kind": "Chief town of the Shire",
+  "tier": 2,
+  "blurb": "The main town of the Shire, in the White Downs of the Westfarthing.",
+  "book": "Michel Delving is the chief town of the Shire. It stands on the White Downs in the Westfarthing, beside the Great East Road. The Mayor of Michel Delving is the highest officer of the Shire in peacetime. He is elected at the Free Fair every seventh year.\n\nThe town holds the Mathom-house, a museum where hobbits keep gifts and keepsakes they have no use for. Bilbo's mithril coat was lent to it for a time. The Mayor also serves as First Shirriff and Postmaster. After the war, Sam Gamgee is elected Mayor and holds the office for many years.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "White Downs, Westfarthing",
+   "People": "Hobbits",
+   "Ruler": "The Mayor of Michel Delving"
+  },
+  "related": [
+   "TO050",
+   "TO107",
+   "HI027"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue",
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO064",
+  "title": "Minas Morgul",
+  "kind": "Fortress city of the Nazgûl",
+  "tier": 1,
+  "blurb": "A haunted tower-city in the Morgul Vale, once Minas Ithil, home of the Witch-king.",
+  "book": "Minas Morgul stands in the Morgul Vale in the Ephel Dúath, the mountains on the western border of Mordor. It began as Minas Ithil, the Tower of the Moon, which Isildur founded. The Nazgûl captured it in T.A. 2002, and Sauron's servants then renamed it the Tower of Black Sorcery.\n\nThe Witch-king rules from it. A sickly pale light shines from its walls, and a poisoned stream, the Morgulduin, flows down the valley. The Morgul Road leads from its gate toward Gondor.\n\nIn T.A. 3019 Frodo and Sam see the city from the valley. They climb the stairs of Cirith Ungol above it. The Witch-king leads Sauron's army out of Minas Morgul to attack Minas Tirith. Few creatures of good will dare to come near the city.",
+  "film": "The film shows a glowing green city. Gollum leads Frodo and Sam up its road, and the Witch-king rides out at the head of the army of Mordor.",
+  "series": "",
+  "facts": {
+   "Realm": "Mordor",
+   "Founded": "As Minas Ithil, S.A. 3320",
+   "Ruler": "The Witch-king of Angmar",
+   "Fate": "Taken by the Nazgûl, T.A. 2002"
+  },
+  "related": [
+   "VA013",
+   "RI056",
+   "RD046",
+   "VA034",
+   "MT014"
+  ],
+  "sources": [
+   "The Two Towers, Book IV",
+   "The Return of the King, Book V"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO065",
+  "title": "Minas Tirith",
+  "kind": "Capital of Gondor",
+  "tier": 1,
+  "blurb": "The white citadel city of Gondor, built on seven levels against Mount Mindolluin.",
+  "book": "Minas Tirith is the capital of Gondor. It stands on a spur of Mount Mindolluin at the east end of the White Mountains, above the Pelennor Fields. The city has seven levels, each with its own wall. A tall white tower, the Tower of Ecthelion, rises in the Citadel at the top.\n\nIsildur's brother Anárion built it as Minas Anor, the Tower of the Sun. It became the royal seat when Osgiliath declined. Stewards ruled it after the kings ended, and Denethor II was the last ruling Steward.\n\nThe great siege falls in March of T.A. 3019. The Witch-king breaks the gate, and Éowyn and Merry slay him on the Pelennor. After the war Aragorn is crowned here. The Houses of Healing, where Faramir, Éowyn and Merry recover, stand on the sixth level.",
+  "film": "The film makes the city a single white mountain fortress. Gandalf and Pippin ride up through its levels, and the Dead White Tree stands in the court.",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Founded": "As Minas Anor, S.A. 3320",
+   "Other names": "Mundburg (Rohirric)",
+   "Ruler": "Denethor II, then King Elessar"
+  },
+  "related": [
+   "BU026",
+   "FI024",
+   "WA006",
+   "TO078",
+   "TO045"
+  ],
+  "sources": [
+   "The Return of the King, Book V",
+   "The Return of the King, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO066",
+  "title": "Moria",
+  "kind": "Dwarf-city of Khazad-dûm",
+  "tier": 1,
+  "blurb": "The vast Dwarf-mines beneath the Misty Mountains, abandoned after a Balrog woke there.",
+  "book": "Moria, properly Khazad-dûm, is a huge Dwarf-city under Caradhras, Celebdil and Fanuidhol in the Misty Mountains. Durin the Deathless founded it in the First Age. Its Dwarves mined mithril, a silver-like metal that was more precious than gold.\n\nIn T.A. 1980 the miners woke a Balrog. It killed King Durin VI and his son, and the Dwarves fled. Balin led a colony back in T.A. 2989, but the Orcs destroyed it by T.A. 2994.\n\nIn January T.A. 3019 the Fellowship passes through Moria. A tentacled Watcher in the lake guards the West-gate. They find Balin's tomb in the Chamber of Mazarbul. Gandalf fights the Balrog on the Bridge of Khazad-dûm and falls into the abyss. The survivors escape through the East-gate into Dimrill Dale.",
+  "film": "The Fellowship of the Ring film follows the book closely, with the cave-troll fight and the Balrog. An Unexpected Journey shows a battle before the gates of Moria in a flashback.",
+  "series": "Khazad-dûm appears as a thriving Dwarf-city in the Second Age, ruled by Durin III and his son Durin IV.",
+  "facts": {
+   "Realm": "Khazad-dûm",
+   "People": "Durin's Folk (Dwarves)",
+   "Other names": "Dwarrowdelf, Hadhodrond",
+   "Fate": "Abandoned T.A. 1981; colony lost T.A. 2994"
+  },
+  "related": [
+   "MT006",
+   "MT007",
+   "LA012",
+   "BU014",
+   "MT034"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO069",
+  "title": "Needlehole",
+  "kind": "Hobbit village",
+  "tier": 3,
+  "blurb": "A small village in the Westfarthing of the Shire.",
+  "book": "Needlehole is a small hobbit village in the Westfarthing of the Shire, close to the Northfarthing border. It is only a name on the map of the Shire.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "Westfarthing",
+   "People": "Hobbits"
+  },
+  "related": [
+   "TO072",
+   "TO080"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO070",
+  "title": "Newbury",
+  "kind": "Hobbit village",
+  "tier": 3,
+  "blurb": "A village in northeastern Buckland.",
+  "book": "Newbury is a small village in the northeast of Buckland, the hobbit land east of the Brandywine River. It lies not far from Bucklebury. It appears on the map but plays no part in the story.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Buckland",
+   "Location": "Northeast Buckland",
+   "People": "Hobbits"
+  },
+  "related": [
+   "TO014",
+   "TO091"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO072",
+  "title": "Nobottle",
+  "kind": "Hobbit village",
+  "tier": 3,
+  "blurb": "A Westfarthing village west of Needlehole.",
+  "book": "Nobottle is a village in the Westfarthing of the Shire, west of Needlehole. It is a hobbit settlement named on the Shire map and not described in the story.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "Westfarthing",
+   "People": "Hobbits"
+  },
+  "related": [
+   "TO069"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO075",
+  "title": "Oatbarton",
+  "kind": "Hobbit village",
+  "tier": 3,
+  "blurb": "A village in the Northfarthing of the Shire.",
+  "book": "Oatbarton is a hobbit village in the Northfarthing of the Shire. It is named on the Shire map. The story does not describe it. Its name suggests a farming place where oats grow.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "Northfarthing",
+   "People": "Hobbits"
+  },
+  "related": [
+   "TO058"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO078",
+  "title": "Osgiliath",
+  "kind": "Ruined first capital of Gondor",
+  "tier": 2,
+  "blurb": "The old capital of Gondor, a ruined city on both banks of the Anduin.",
+  "book": "Osgiliath was the first capital of Gondor. Isildur and Anárion founded it on both banks of the Anduin, joined by a great bridge. A dome of glass held a map of the stars and the Anor-stone, a palantír.\n\nThe Kin-strife in the fifteenth century of the Third Age burned much of the city, and the palantír was lost. A plague in T.A. 1636 emptied it, and the king moved to Minas Anor soon after. The city decayed into ruins.\n\nGondor held the west bank. In T.A. 3018 Boromir's men defended the crossing. In T.A. 3019 Sauron's host seized the whole city, and Faramir's men were driven back.",
+  "film": "The film shows Osgiliath as a ruined city. Faramir's men fight Orcs there, and a Nazgûl on a winged beast attacks Frodo.",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Founded": "S.A. 3320 by Isildur and Anárion",
+   "Meaning": "Citadel of the Stars",
+   "Fate": "Ruined; taken by Mordor T.A. 3019"
+  },
+  "related": [
+   "TO065",
+   "TO064",
+   "FI024",
+   "RI003"
+  ],
+  "sources": [
+   "The Return of the King, Appendix A",
+   "The Two Towers, Book IV"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO079",
+  "title": "Ost-in-Edhil",
+  "kind": "Elf-city of Eregion",
+  "tier": 2,
+  "blurb": "The capital of Eregion, where the Elven-smiths forged the Rings of Power.",
+  "book": "Ost-in-Edhil was the chief city of Eregion, a land of Noldor on the west side of the Misty Mountains. It stood not far from the West-gate of Moria. Celebrimbor ruled it, and its Elven-smiths were skilled in crafts.\n\nSauron came there in disguise as a gift-giver named Annatar. He taught the smiths, and they forged the Rings of Power. Celebrimbor made the three Elven Rings without Sauron's knowledge.\n\nIn S.A. 1697 Sauron's army destroyed Eregion and sacked Ost-in-Edhil. Celebrimbor died, and Elrond led survivors north to found Rivendell.",
+  "film": "",
+  "series": "Ost-in-Edhil appears as Celebrimbor's Elven city, where Annatar guides the smiths who forge the Rings.",
+  "facts": {
+   "Realm": "Eregion",
+   "People": "Noldor under Celebrimbor",
+   "Meaning": "Fortress of the Elves",
+   "Fate": "Destroyed S.A. 1697"
+  },
+  "related": [
+   "RI032",
+   "RI092",
+   "TO084",
+   "TO066"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Rings of Power",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO080",
+  "title": "Overhill",
+  "kind": "Hobbit village",
+  "tier": 3,
+  "blurb": "A village in the Westfarthing north of Hobbiton.",
+  "book": "Overhill is a hobbit village in the Westfarthing of the Shire, north of Hobbiton, on the far side of the hill. The story names it only as part of the Shire map.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "Westfarthing, north of Hobbiton",
+   "People": "Hobbits"
+  },
+  "related": [
+   "TO050",
+   "HI035"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO081",
+  "title": "Pelargir",
+  "kind": "Port city of Gondor",
+  "tier": 2,
+  "blurb": "Gondor's great harbor on the lower Anduin, a city of ships.",
+  "book": "Pelargir is the chief port of Gondor, built on the Anduin near the sea. Númenóreans founded it long before Gondor, and the Faithful of Númenor used it as a haven. Its name means roughly the garth of the royal ships.\n\nIn the Third Age it was Gondor's main fleet base in the south. Rebels in the Kin-strife held it, and later the Corsairs of Umbar raided it often.\n\nIn March of T.A. 3019 Aragorn leads the Dead Men of Dunharrow to Pelargir. They scatter the Corsairs, and Aragorn takes their black ships. He sails them up the Anduin to the battle at Minas Tirith.",
+  "film": "In the film, Aragorn and the Army of the Dead seize the Corsair ships on the river. The ships then carry them to the Pelennor.",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "People": "Gondorians",
+   "Meaning": "Garth of the Royal Ships",
+   "Fate": "Corsairs defeated T.A. 3019"
+  },
+  "related": [
+   "TO065",
+   "RI003",
+   "TO078"
+  ],
+  "sources": [
+   "The Return of the King, Book V",
+   "The Return of the King, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO082",
+  "title": "Pincup",
+  "kind": "Hobbit village",
+  "tier": 3,
+  "blurb": "A village in the north of the Southfarthing.",
+  "book": "Pincup is a hobbit village in the northern corner of the Southfarthing of the Shire. It is named on the Shire map and not described in the story.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "North Southfarthing",
+   "People": "Hobbits"
+  },
+  "related": [
+   "TO059"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO083",
+  "title": "Quarry",
+  "kind": "Hobbit village",
+  "tier": 3,
+  "blurb": "A village in the northern Eastfarthing near Scary.",
+  "book": "Quarry is a hobbit village in the northern part of the Eastfarthing of the Shire, beside the Hills of Scary. It takes its name from the stone workings nearby. It plays no part in the main story.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "North Eastfarthing",
+   "People": "Hobbits"
+  },
+  "related": [
+   "TO088",
+   "HI033"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO084",
+  "title": "Rivendell",
+  "kind": "Elven refuge of Elrond",
+  "tier": 1,
+  "blurb": "Elrond's hidden valley west of the Misty Mountains, called the Last Homely House.",
+  "book": "Rivendell, or Imladris, is a hidden valley in a deep cleft west of the Misty Mountains. Elrond founded it as a refuge in S.A. 1697, after Eregion fell. It is a house of lore, rest and healing, and Elrond keeps the Elven ring Vilya here.\n\nBilbo and the Dwarves rest here in The Hobbit, and Elrond finds the moon-letters on Thorin's map. Years later Bilbo comes to live here.\n\nFrodo arrives in October T.A. 3018 and is healed of his Morgul wound. The Council of Elrond meets here and decides to destroy the Ring. The Fellowship leaves on 25 December. After the war Elrond sails west, and Rivendell empties. Aragorn grew up here as Elrond's foster-son, and Elrond's daughter Arwen lives here.",
+  "film": "Both film trilogies show Rivendell as a grand Elven city of waterfalls and balconies. The Council of Elrond and the Fellowship's departure take place there.",
+  "series": "",
+  "facts": {
+   "Realm": "Elrond's dominion",
+   "People": "Elves, Elrond",
+   "Other names": "Imladris; Last Homely House",
+   "Founded": "S.A. 1697 by Elrond"
+  },
+  "related": [
+   "FJ006",
+   "RI011",
+   "HI052",
+   "TO079"
+  ],
+  "sources": [
+   "The Hobbit, A Short Rest",
+   "The Fellowship of the Ring, Book II"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO087",
+  "title": "Rushey",
+  "kind": "Hobbit village",
+  "tier": 3,
+  "blurb": "A village in the Eastfarthing south of the Marish.",
+  "book": "Rushey is a hobbit village in the Eastfarthing of the Shire, south of the Marish, a damp region near the Brandywine. It appears on the Shire map. The story does not describe it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "Eastfarthing, south of the Marish",
+   "People": "Hobbits"
+  },
+  "related": [
+   "SW008",
+   "TO090"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO088",
+  "title": "Scary",
+  "kind": "Hobbit village",
+  "tier": 3,
+  "blurb": "A village by the Hills of Scary in the Eastfarthing, with a quarry.",
+  "book": "Scary is a hobbit village in the northern Eastfarthing of the Shire, below the Hills of Scary. It has a stone quarry. It plays no part in the main story.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "North Eastfarthing",
+   "People": "Hobbits"
+  },
+  "related": [
+   "HI033",
+   "TO083"
+  ],
+  "sources": [
+   "The Return of the King, Book VI",
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO089",
+  "title": "Staddle",
+  "kind": "Bree-land village",
+  "tier": 3,
+  "blurb": "A village on the eastern side of Bree-hill, in Bree-land.",
+  "book": "Staddle is one of the four villages of Bree-land, with Bree, Combe and Archet. It lies on the east side of Bree-hill, and most of its folk are hobbits.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Bree-land",
+   "People": "Mostly hobbits",
+   "Location": "East of Bree-hill"
+  },
+  "related": [
+   "TO011",
+   "HI012",
+   "FO005"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I",
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO090",
+  "title": "Standelf",
+  "kind": "Buckland village",
+  "tier": 3,
+  "blurb": "A village in southern Buckland, near the Brandywine.",
+  "book": "Standelf is a hobbit village in the southern part of Buckland, the land the Brandybucks hold east of the Brandywine. It appears on the map only.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Buckland",
+   "Location": "South Buckland",
+   "People": "Hobbits"
+  },
+  "related": [
+   "TO014",
+   "TO087"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO091",
+  "title": "Stock",
+  "kind": "Hobbit village",
+  "tier": 3,
+  "blurb": "A village in the Eastfarthing beside the Stock-brook, north of the Marish.",
+  "book": "Stock is a hobbit village in the Eastfarthing of the Shire, on the Stock-brook north of the Marish. The Golden Perch inn stands here. Frodo and his friends pass close by on their way to the Bucklebury Ferry in T.A. 3018.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "Eastfarthing",
+   "People": "Hobbits"
+  },
+  "related": [
+   "RI093",
+   "RD038",
+   "SW008",
+   "TO014"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO093",
+  "title": "Tharbad",
+  "kind": "Ruined town on the Greyflood",
+  "tier": 2,
+  "blurb": "A Númenórean river-town on the Gwathló, broken and abandoned by the War of the Ring.",
+  "book": "Tharbad stood where the old North-South Road crossed the Gwathló, also called the Greyflood. Númenóreans built it as a river-port and bridge-town, and Gondor and Arnor kept it up together for many centuries.\n\nThe town declined as the kingdoms weakened. In T.A. 2912, after the Fell Winter, great floods ruined Tharbad and drove its people away.\n\nBy the War of the Ring only ruins remain. The bridge has fallen, and Boromir loses his horse at the crossing on his way north.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor and Arnor, later abandoned",
+   "People": "Númenórean descendants",
+   "Meaning": "Road-crossing",
+   "Fate": "Ruined by floods, T.A. 2912"
+  },
+  "related": [
+   "RI038",
+   "TO056",
+   "RD017"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A",
+   "The Fellowship of the Ring, Book II"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO094",
+  "title": "Tighfield",
+  "kind": "Hobbit village",
+  "tier": 3,
+  "blurb": "A village in the Westfarthing of the Shire.",
+  "book": "Tighfield is a hobbit village in the Westfarthing of the Shire. Several of Sam Gamgee's kin were rope-makers there, among them his uncle Andy. The story does not visit it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "Westfarthing",
+   "People": "Hobbits"
+  },
+  "related": [
+   "TO061"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix C"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "TO096",
+  "title": "Tookbank",
+  "kind": "Hobbit village",
+  "tier": 3,
+  "blurb": "A Westfarthing village near Tuckborough, in Took country.",
+  "book": "Tookbank is a hobbit village in the Westfarthing of the Shire, a little west of Tuckborough. Its name points to the Took family, whose lands lie nearby.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "Westfarthing, near Tuckborough",
+   "People": "Hobbits, Tooks"
+  },
+  "related": [
+   "TO097",
+   "HI027"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO097",
+  "title": "Tuckborough",
+  "kind": "Hobbit town of the Tooks",
+  "tier": 2,
+  "blurb": "The Took family's chief town in the Westfarthing, home of the Thain of the Shire.",
+  "book": "Tuckborough is a hobbit town in the Westfarthing of the Shire, in the Green Hills country. It is the chief seat of the Took family. The Great Smials, a huge many-roomed hobbit-hole dug into a hill, are here. The Thain of the Shire lives there.\n\nThe Thain is the Took chief and the military leader of the Shire in time of need. Pippin's father, Paladin II, holds the office in the War of the Ring. When Pippin returns in T.A. 3019, he and the Tooks rouse the Shire against Saruman's ruffians.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "Westfarthing, Green Hills",
+   "People": "The Took family",
+   "Ruler": "The Thain, Paladin II"
+  },
+  "related": [
+   "TO096",
+   "TO109",
+   "HI027",
+   "TO061"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue",
+   "The Return of the King, Book VI"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO100",
+  "title": "Underharrow",
+  "kind": "Rohan hamlet",
+  "tier": 3,
+  "blurb": "A small Rohan settlement in Harrowdale, beneath the road to Dunharrow.",
+  "book": "Underharrow is a hamlet of the Rohirrim in Harrowdale, in the White Mountains. It lies near the foot of the path up to Dunharrow, the mountain refuge above Edoras. Its name refers to its place below Dunharrow.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "Location": "Harrowdale",
+   "People": "Rohirrim"
+  },
+  "related": [
+   "VA008",
+   "FT009",
+   "TO103",
+   "TO029"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO101",
+  "title": "Underhill",
+  "kind": "Hobbiton village",
+  "tier": 3,
+  "blurb": "The part of Hobbiton on the slopes of the Hill, where Bag End lies.",
+  "book": "Underhill is the part of Hobbiton on the slopes of the Hill, in the Westfarthing of the Shire. Bilbo's address is Bag End, Underhill. Frodo takes the false name Mr. Underhill on his journey.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "Hobbiton, Westfarthing",
+   "People": "Hobbits"
+  },
+  "related": [
+   "TO050",
+   "BU030",
+   "HI035"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO102",
+  "title": "Undertowers",
+  "kind": "Hobbit home in Westmarch",
+  "tier": 3,
+  "blurb": "A hobbit home in Westmarch, in the Shire's western lands, in the Fourth Age.",
+  "book": "Undertowers is a hobbit home in the Westmarch, the land added to the Shire in the Fourth Age. It lies in the shadow of the Tower Hills. Elanor, Sam's daughter, and her husband Fastred settled there. Their family, the Fairbairns, became Wardens of Westmarch.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire, Westmarch",
+   "Founded": "Fourth Age",
+   "People": "Hobbits, the Fairbairns"
+  },
+  "related": [
+   "HI048",
+   "BU015",
+   "BU029"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix B",
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO103",
+  "title": "Upbourn",
+  "kind": "Rohan hamlet",
+  "tier": 3,
+  "blurb": "A hamlet on the Snowbourn in Harrowdale, south of Edoras.",
+  "book": "Upbourn is a Rohan hamlet on the Snowbourn in Harrowdale, south of Edoras. Its people are Rohirrim. It lies in the valley that leads up to Dunharrow.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "Location": "Harrowdale, on the Snowbourn",
+   "People": "Rohirrim"
+  },
+  "related": [
+   "RI088",
+   "VA008",
+   "TO029",
+   "TO100"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO107",
+  "title": "Waymeet",
+  "kind": "Hobbit town",
+  "tier": 3,
+  "blurb": "A Westfarthing town on the Great East Road.",
+  "book": "Waymeet is a hobbit town in the Westfarthing of the Shire, on the East Road. Roads from several parts of the Westfarthing meet here. It is not visited in the story.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "Westfarthing, East Road",
+   "People": "Hobbits"
+  },
+  "related": [
+   "TO061",
+   "RD012"
+  ],
+  "sources": [
+   "The Return of the King, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO108",
+  "title": "Whitfurrows",
+  "kind": "Hobbit village",
+  "tier": 3,
+  "blurb": "An Eastfarthing village on the Great East Road.",
+  "book": "Whitfurrows is a hobbit village in the Eastfarthing of the Shire, on the East Road. Its name means white furrows.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "Eastfarthing, East Road",
+   "People": "Hobbits"
+  },
+  "related": [
+   "TO091",
+   "RD012"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO109",
+  "title": "Whitwell",
+  "kind": "Hobbit village",
+  "tier": 3,
+  "blurb": "A village in the Green Hills of the Westfarthing, near Tuckborough.",
+  "book": "Whitwell is a hobbit village in the Green Hills of the Westfarthing of the Shire, near Tuckborough. Its name means white spring. It lies in Took country.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "Green Hills, Westfarthing",
+   "People": "Hobbits"
+  },
+  "related": [
+   "TO097",
+   "HI027"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO110",
+  "title": "Willowbottom",
+  "kind": "Hobbit village",
+  "tier": 3,
+  "blurb": "An Eastfarthing village near the Woody End.",
+  "book": "Willowbottom is a hobbit village in the Eastfarthing of the Shire, near the Woody End. It is named on the Shire map and is not described in the story.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "Eastfarthing, near Woody End",
+   "People": "Hobbits"
+  },
+  "related": [
+   "FO037",
+   "TO111"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO111",
+  "title": "Woodhall",
+  "kind": "Hobbit village",
+  "tier": 3,
+  "blurb": "A village in the Woody End of the Eastfarthing.",
+  "book": "Woodhall is a hobbit village in the Eastfarthing of the Shire, set among the trees of the Woody End. Its name means hall in a wood. In T.A. 3018, Frodo and his friends spend a night with Gildor's Elves in the woods above Woodhall.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "Woody End, Eastfarthing",
+   "People": "Hobbits"
+  },
+  "related": [
+   "FO037",
+   "TO110",
+   "RD038"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ }
+]

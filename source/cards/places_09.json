@@ -1,0 +1,592 @@
+[
+ {
+  "id": "VA041",
+  "title": "Tarlang's Neck",
+  "kind": "Mountain ridge pass",
+  "tier": 3,
+  "blurb": "A high ridge of the White Mountains running out to Dol Tarlang in Gondor.",
+  "book": "Tarlang's Neck is a ridge in the White Mountains. It links the heights of Dol Tarlang with the main range. It lies between the Blackroot Vale and the lands of Lamedon in Gondor. Travellers on the road to Erech pass close to it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Type": "Mountain ridge"
+  },
+  "related": [
+   "MT011",
+   "VA001",
+   "HI023"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "VA021",
+  "title": "Udûn",
+  "kind": "Valley of Mordor",
+  "tier": 2,
+  "blurb": "The fortified valley inside the Morannon where Sauron mustered his armies.",
+  "book": "Udûn is a deep valley in north-western Mordor. It lies behind the Black Gate, beyond the pass of Cirith Gorgor. Sauron filled it with Orcs and war machines, and the road beyond leads on to the Isenmouthe.\n\nUdûn is also the Sindarin name of Utumno, the first fortress of Morgoth in the Elder Days. In the War of the Ring the Host of the West marched against the Black Gate, and Sauron's forces poured out of the valley to meet it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Mordor",
+   "People": "Orcs",
+   "Ruler": "Sauron",
+   "Other names": "Sindarin name of Utumno"
+  },
+  "related": [
+   "VA031",
+   "VA030",
+   "FT005",
+   "FI006"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book VI",
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "VA026",
+  "title": "Withered Heath",
+  "kind": "Dragon-haunted waste",
+  "tier": 2,
+  "blurb": "A barren northern heath where dragons bred, beside the Grey Mountains.",
+  "book": "The Withered Heath lies in the far north of Rhovanion, at the eastern end of the Grey Mountains. Dragons bred there in the later Third Age. Their growing numbers and greed drove the Dwarves of Durin's folk out of the Grey Mountains.\n\nIn T.A. 2589 a cold-drake killed Dáin I and his son Frór. The survivors left their northern halls. Smaug the Golden came from this region to plunder Erebor in T.A. 2770. Thrór's Map in The Hobbit marks it as the place the great worms came from.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rhovanion, far north",
+   "People": "Dragons"
+  },
+  "related": [
+   "MT022",
+   "MT029",
+   "TO024"
+  ],
+  "sources": [
+   "The Hobbit",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "VA031",
+  "title": "Cirith Gorgor",
+  "kind": "Guarded pass of Mordor",
+  "tier": 2,
+  "blurb": "The pass into Mordor from the north-west, closed by the Black Gate.",
+  "book": "Cirith Gorgor is the main pass into Mordor. It runs between the Ephel Dúath and the Ered Lithui. The Black Gate, the Morannon, closes its mouth. On either side stand the Towers of the Teeth, Narchost and Carchost.\n\nGondor built the Towers of the Teeth after Sauron's first fall. Later the watch lapsed, and Sauron took them back. The wall and iron gate are his own work. Frodo and Sam looked on the Gate from the Desolation of the Morannon and then turned south to Cirith Ungol. In T.A. 3019 the Host of the West challenged the Gate to draw Sauron's eyes away.",
+  "film": "The film shows the Black Gate as a vast set of iron doors in a stony gap. The Host stands before it in the final battle.",
+  "series": "",
+  "facts": {
+   "Realm": "Mordor",
+   "People": "Orcs",
+   "Meaning": "Haunted Pass"
+  },
+  "related": [
+   "FT005",
+   "FT021",
+   "FT006",
+   "FI006",
+   "VA021"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book IV",
+   "The Lord of the Rings, Book VI"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "VA030",
+  "title": "Carach Angren",
+  "kind": "Fortified pass of Mordor",
+  "tier": 2,
+  "blurb": "The Isenmouth, an Orc-held pass at the north-west corner of Gorgoroth.",
+  "book": "Carach Angren is a narrow pass at the north-west edge of Gorgoroth, where the two arms of Mordor's mountains almost meet. Orcs hold it behind a ring of walls. Its name means Iron-mouth, and the Common Speech name is the Isenmouthe.\n\nA road runs through it from Udûn into the plateau of Gorgoroth, and the Orcs use it to bring supplies. An Orc company caught Frodo and Sam on the road and drove them along to the Isenmouthe. They slipped away in the crush at the gate.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Mordor",
+   "People": "Orcs",
+   "Other names": "The Isenmouthe",
+   "Meaning": "Iron-mouth"
+  },
+  "related": [
+   "VA021",
+   "FI025",
+   "FT010"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "VA034",
+  "title": "Cirith Ungol",
+  "kind": "Mountain pass of Mordor",
+  "tier": 1,
+  "blurb": "The high pass above Minas Morgul, home of Shelob and guarded by an Orc tower.",
+  "book": "Cirith Ungol is a pass over the Ephel Dúath, the western mountains of Mordor. It begins near the Cross-roads and climbs above Minas Morgul. The road reaches it by the Straight Stair and then the Winding Stair. Gollum leads Frodo and Sam this way.\n\nAn Orc tower guards the top, and Shelob lives in the tunnel below it. Her lair is a dark cave the Orcs avoid. Shelob wounds Frodo with her poison, and Sam fights her off. Orcs take Frodo to the tower, and Sam rescues him.\n\nIts name means the Pass of the Spider. Sauron trusts the pass, the spider and the tower to keep out all intruders. Yet the two small travellers still get through, and the Ring-bearer is taken only after the pass is nearly crossed.",
+  "film": "The film moves Shelob's attack and Gollum's betrayal to The Return of the King. It shows the stair as a long ruined flight above the glowing city.",
+  "series": "",
+  "facts": {
+   "Realm": "Mordor",
+   "People": "Orcs, Shelob",
+   "Meaning": "Pass of the Spider"
+  },
+  "related": [
+   "RD040",
+   "RD043",
+   "CA013",
+   "FT025",
+   "TO064"
+  ],
+  "sources": [
+   "The Two Towers, Book IV",
+   "The Return of the King, Book VI"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "VA037",
+  "title": "North Stair",
+  "kind": "Stair beside Rauros",
+  "tier": 3,
+  "blurb": "A steep stair on the west bank of the Anduin, beside the Falls of Rauros.",
+  "book": "The North Stair is a flight of steps cut beside the Falls of Rauros. It climbs from the river below the falls to the higher ground above. Boats cannot pass the falls. An old portage-way nearby let travellers carry boats down past them.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Old northern Gondor",
+   "Type": "Stair"
+  },
+  "related": [
+   "FA007",
+   "RI003",
+   "HI022"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "VA036",
+  "title": "High Pass",
+  "kind": "Pass of the Misty Mountains",
+  "tier": 2,
+  "blurb": "The mountain road over the Misty Mountains east of Rivendell.",
+  "book": "The High Pass is the road over the Misty Mountains east of Rivendell. It is also called the Pass of Imladris. Thorin's Company took it in The Hobbit, and it is a hard climb in bad weather.\n\nA storm caught them there while stone-giants hurled rocks across the valley. They sheltered in a cave, and goblins seized them in the night. Gandalf freed them in the tunnels. Bilbo was lost in the dark and met Gollum alone.\n\nIn the later Third Age the Beornings keep the pass open for travellers.",
+  "film": "The Hobbit film shows the stone-giants in battle as the Company clings to the cliff.",
+  "series": "",
+  "facts": {
+   "Realm": "Misty Mountains",
+   "Other names": "Pass of Imladris; Cirith Forn en Andrath",
+   "Meaning": "High climbing pass of the north"
+  },
+  "related": [
+   "TO084",
+   "MT022",
+   "FJ006"
+  ],
+  "sources": [
+   "The Hobbit"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "VA035",
+  "title": "Dimrill Stair",
+  "kind": "Mountain stair",
+  "tier": 2,
+  "blurb": "A steep stair running down from the Redhorn Gate to Dimrill Dale.",
+  "book": "The Dimrill Stair is a steep path beside the falling streams below Caradhras. It descends from the Redhorn Gate to Dimrill Dale.\n\nThe Fellowship tried the Redhorn pass first, but snow turned them back, so they did not use the stair. They went through Moria and came into the dale by the east gate instead.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Misty Mountains",
+   "Type": "Stair"
+  },
+  "related": [
+   "MT006",
+   "VA004",
+   "TO066"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "VA028",
+  "title": "Andrath",
+  "kind": "Defile on the Greenway",
+  "tier": 3,
+  "blurb": "A narrow defile where the Greenway passes between the Barrow-downs and the South Downs.",
+  "book": "Andrath is a narrow defile on the Greenway in the west of Eriador. The road runs through it between the Barrow-downs and the South Downs. The name is Sindarin for long climb. It is named in Unfinished Tales.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Eriador",
+   "Type": "Defile",
+   "Meaning": "Long climb"
+  },
+  "related": [
+   "TO011",
+   "HI052"
+  ],
+  "sources": [
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "VA018",
+  "title": "Stonewain Valley",
+  "kind": "Valley of Anorien",
+  "tier": 2,
+  "blurb": "A valley in Anórien where the Rohirrim passed to reach Minas Tirith.",
+  "book": "Stonewain Valley is a valley in Anórien, north-west of Minas Tirith. Ghân-buri-Ghân, chief of the Wild Men, led the Riders along it. They used old ways the Gondorians had forgotten. The valley gave them a hidden route toward the Pelennor and avoided Mordor's scouts. Ghân-buri-Ghân also showed them how to bypass the blocked road and the enemy waiting on it. The Riders then reached the Pelennor Fields at dawn.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "People": "Drúedain nearby",
+   "Other names": "Imrath Gondraich"
+  },
+  "related": [
+   "FI024",
+   "TO065",
+   "VA011"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "VA017",
+  "title": "Ringló Vale",
+  "kind": "Valley of Gondor",
+  "tier": 3,
+  "blurb": "A river valley of south-west Gondor, near Lamedon.",
+  "book": "Ringló Vale is a valley in south-west Gondor, near Lamedon. The river Ringló runs through it from the White Mountains. In T.A. 3019 Dervorin, son of its lord, led three hundred men from the vale to Minas Tirith.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "People": "Gondorians"
+  },
+  "related": [
+   "RI067",
+   "TO017",
+   "VA001"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "VA014",
+  "title": "Nan Curunír",
+  "kind": "Valley of Isengard",
+  "tier": 2,
+  "blurb": "The valley of Isengard, where Saruman built his stronghold at the Misty Mountains' southern end.",
+  "book": "Nan Curunír is the long valley at the southern end of the Misty Mountains. It holds Isengard and its tower, Orthanc. Its name means Saruman's Valley in Sindarin. In the Common Speech it is called the Wizard's Vale.\n\nSaruman settled there with Gondor's consent around T.A. 2759. He filled it with Orcs, Uruk-hai and engines. After the Ents flooded it in T.A. 3019 he was left a prisoner in Orthanc. Merry and Pippin wait there with the Ents for Théoden and Gandalf.",
+  "film": "The films show it as a ring of rock around Orthanc, with the pits where Saruman breeds Uruk-hai.",
+  "series": "",
+  "facts": {
+   "Realm": "Isengard",
+   "Ruler": "Saruman",
+   "Meaning": "Saruman's Valley"
+  },
+  "related": [
+   "FT017",
+   "BU021",
+   "FO012",
+   "RI086"
+  ],
+  "sources": [
+   "The Two Towers, Book III",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "VA013",
+  "title": "Morgul Vale",
+  "kind": "Valley of Minas Morgul",
+  "tier": 2,
+  "blurb": "The valley of Minas Morgul in the Ephel Dúath, once the vale of Minas Ithil.",
+  "book": "Morgul Vale is a deep valley cut into the Ephel Dúath. The city of Minas Morgul stands at its head, and a river called the Morgulduin runs down it. A pale, deadly flower grows beside the stream.\n\nIn the Second Age the vale held Minas Ithil and was a fair place. The Nazgûl took the city in T.A. 2002 and the valley turned dark. Frodo, Sam and Gollum come up the vale road and turn off before the bridge to climb the stairs. The Witch-king's army marches out of it for the war.",
+  "film": "The film shows the vale with an eerie green glow, and the army marches out in the night.",
+  "series": "",
+  "facts": {
+   "Realm": "Mordor",
+   "People": "Orcs",
+   "Meaning": "Valley of black sorcery"
+  },
+  "related": [
+   "TO064",
+   "VA034",
+   "RD040"
+  ],
+  "sources": [
+   "The Two Towers, Book IV",
+   "The Return of the King, Book V"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "VA020",
+  "title": "Tumladen",
+  "kind": "Valley of Gondor",
+  "tier": 3,
+  "blurb": "A green valley in Gondor, west of Minas Tirith.",
+  "book": "Tumladen is a valley of Gondor named only briefly in The Return of the King. Its name means smooth valley. The same name belongs to the hidden plain of Gondolin in the First Age.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Meaning": "Valley of smoothness"
+  },
+  "related": [
+   "TO065",
+   "VA011"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "VA011",
+  "title": "Imloth Melui",
+  "kind": "Valley in Gondor",
+  "tier": 3,
+  "blurb": "A flowering valley of Gondor, known for its roses.",
+  "book": "Imloth Melui is a valley of Gondor. Its Sindarin name means sweet flower-valley. Ioreth, the old wise-woman of the Houses of Healing, remembers the roses that grow there.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Meaning": "Sweet flower-valley"
+  },
+  "related": [
+   "TO065",
+   "VA020",
+   "FJ002"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "VA008",
+  "title": "Harrowdale",
+  "kind": "Valley of Rohan",
+  "tier": 2,
+  "blurb": "The valley below Dunharrow in Rohan, where the Rohirrim gathered for war.",
+  "book": "Harrowdale is a valley in the White Mountains in Rohan. It lies beneath the mountain refuge of Dunharrow and the Dwimorberg. The Stair of the Hold climbs from the valley up to the refuge.\n\nIn T.A. 3019 Théoden brought his riders here. They camped in the valley and in the Firienfeld above. Dernhelm rode with them in secret. The Rohirrim set out for Gondor from here, and Aragorn rode up to enter the Paths of the Dead.",
+  "film": "The films show Harrowdale as the camp at Dunharrow, with Théoden riding out from the hold.",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "People": "Rohirrim",
+   "Ruler": "Théoden"
+  },
+  "related": [
+   "FT009",
+   "FI011",
+   "RD036",
+   "VA005",
+   "TO029"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "VA006",
+  "title": "Entwash Vale",
+  "kind": "Valley of Rohan",
+  "tier": 3,
+  "blurb": "The wide grassy valley of the Entwash river in eastern Rohan.",
+  "book": "Entwash Vale is the grassy valley of the river Entwash in eastern Rohan. Horse herds graze there. Tolkien gives few other details about it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "People": "Rohirrim"
+  },
+  "related": [
+   "RI085",
+   "FJ003",
+   "FO013"
+  ],
+  "sources": [
+   "The Two Towers, Book III"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "VA005",
+  "title": "Dwimorberg glen",
+  "kind": "Glen below the Dwimorberg",
+  "tier": 3,
+  "blurb": "The glen beneath the Haunted Mountain, leading to the Dimholt and the Paths of the Dead.",
+  "book": "Tolkien does not name this glen. It lies at the foot of the Dwimorberg, the Haunted Mountain, above Dunharrow in Rohan. A path leads from it to the Dimholt, where the Door of the Paths of the Dead stands.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "Type": "Glen",
+   "Note": "Name not given by Tolkien"
+  },
+  "related": [
+   "FT009",
+   "VA040",
+   "VA008"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "VA004",
+  "title": "Dimrill Dale",
+  "kind": "Valley below Caradhras",
+  "tier": 2,
+  "blurb": "The valley east of Moria, where the Fellowship left the mines and Durin's Stone stands.",
+  "book": "Dimrill Dale is a long valley east of the Misty Mountains. It lies below Caradhras and Celebdil, under the east gate of Moria. Nanduhirion is its Sindarin name. The Mirrormere and Durin's Stone lie in the valley.\n\nThe Battle of Azanulbizar was fought here in T.A. 2799. The Dwarves of Durin's folk defeated the Orcs there after Azog killed Thrór. The Fellowship came out into the dale from Moria. Gimli looked into the Mirrormere there.",
+  "film": "The films do not show the dale. The Hobbit films show the battle only as a flashback.",
+  "series": "",
+  "facts": {
+   "Realm": "Misty Mountains",
+   "People": "Uninhabited",
+   "Other names": "Nanduhirion; Azanulbizar"
+  },
+  "related": [
+   "TO066",
+   "MT006",
+   "MT007",
+   "VA035"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "VA003",
+  "title": "Deeping-coomb",
+  "kind": "Valley of the Westfold",
+  "tier": 2,
+  "blurb": "The long valley that leads up to Helm's Deep and the Hornburg in the Westfold.",
+  "book": "Deeping-coomb is the valley that runs up into the White Mountains to Helm's Deep, in the Westfold of Rohan. The Deeping Stream flows down it from the gorge. Helm's Dike crosses its lower end, and the Hornburg guards its head.\n\nIn T.A. 3019 Saruman's army attacked the Hornburg. Rohirrim and refugees from the Westfold held the fortress through the night. At dawn Théoden rode out, and Gandalf and Erkenbrand arrived. The fleeing Orcs ran into a wood of Huorns that filled the coomb and were never seen again.",
+  "film": "The film shows Helm's Deep as a stone fortress. At dawn Gandalf arrives with Éomer and the Riders, not Erkenbrand.",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "Region": "Westfold",
+   "People": "Rohirrim"
+  },
+  "related": [
+   "FT014",
+   "WA004",
+   "DO032",
+   "FT017"
+  ],
+  "sources": [
+   "The Two Towers, Book III"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "VA001",
+  "title": "Blackroot Vale",
+  "kind": "Valley of the Morthond",
+  "tier": 2,
+  "blurb": "The valley of the Blackroot, which runs south from Erech through Gondor.",
+  "book": "Blackroot Vale is the valley of the river Blackroot, called Morthond in Sindarin. It runs from the White Mountains past Erech to the sea. The people of Gondor live there under Duinhir.\n\nAragorn's company came out of the Paths of the Dead into the vale. Duinhir's bowmen later went to Minas Tirith. His sons Duilin and Derufin died at the Pelennor Fields.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "People": "Gondorians",
+   "Ruler": "Duinhir",
+   "Other names": "Morthond Vale"
+  },
+  "related": [
+   "HI023",
+   "VA040",
+   "TO017",
+   "VA041"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "VA025",
+  "title": "Water-valley",
+  "kind": "Hobbit vale",
+  "tier": 3,
+  "blurb": "The valley of the Water, home of the hobbits of Hobbiton and Bywater.",
+  "book": "The Water-valley is the vale of the stream called the Water in the Shire. Hobbiton and Bywater lie in it, beside Bywater Pool. Hobbits farm there, and it is the home of Bilbo and Frodo.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits"
+  },
+  "related": [
+   "TO050",
+   "TO016",
+   "LA002",
+   "HI035"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "VA040",
+  "title": "Paths of the Dead",
+  "kind": "Haunted mountain tunnel",
+  "tier": 1,
+  "blurb": "A tunnel under the Dwimorberg where the Oathbreakers wait for the Heir of Isildur.",
+  "book": "The Paths of the Dead are a haunted passage beneath the Dwimorberg in the White Mountains. They begin at the Dimholt above Dunharrow in Rohan. They lead through to the Blackroot Vale in Gondor. Dread surrounds the Dwimorberg, the Haunted Mountain above. The Rohirrim fear the place, and the living do not come back from it.\n\nThe Dead are the Oathbreakers. They promised to fight for Isildur in the war against Sauron, then did not. He cursed them to wait until the oath was kept.\n\nAragorn enters in T.A. 3019 with the Grey Company, Legolas and Gimli. He calls the Dead to Erech, and they follow him to Pelargir. There they overcome the Corsairs of Umbar. Aragorn then releases them from the curse, and they vanish.",
+  "film": "The film changes the story. The Dead are an army that fights at the Pelennor Fields.",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan, Gondor",
+   "People": "Dead Men of Dunharrow",
+   "Fate": "Oath fulfilled, Dead released"
+  },
+  "related": [
+   "VA005",
+   "FT009",
+   "HI023",
+   "VA001",
+   "VA008"
+  ],
+  "sources": [
+   "The Return of the King, Book V",
+   "The Return of the King, Appendix A"
+  ],
+  "confidence": "high"
+ }
+]

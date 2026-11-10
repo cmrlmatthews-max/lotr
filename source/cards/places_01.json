@@ -1,0 +1,931 @@
+[
+ {
+  "id": "TO002",
+  "title": "Aldburg",
+  "kind": "Royal town of Rohan",
+  "tier": 2,
+  "blurb": "An old town of Rohan in the Folde, where Eorl the Young first built his house.",
+  "book": "Aldburg lies in the Folde, a district of Rohan east of Edoras. The name means old fortress in the speech of the Rohirrim.\n\nEorl the Young built his house here after the Rohirrim settled in Calenardhon. His son Brego later moved the royal seat to Edoras and built Meduseld. Aldburg remained a place of rank in the Mark.\n\nIn the War of the Ring, Aldburg is the home of Éomer. He is Third Marshal of the Mark, with charge of the eastern lands under King Théoden.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "Location": "The Folde",
+   "Meaning": "Old fortress"
+  },
+  "related": [
+   "TO029",
+   "BU070",
+   "FT009"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A",
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO006",
+  "title": "Annúminas",
+  "kind": "Ruined capital of Arnor",
+  "tier": 2,
+  "blurb": "The old royal city of Arnor beside Lake Evendim, long in ruins by the War of the Ring.",
+  "book": "Annúminas stands on the southern shore of Lake Nenuial, also called Evendim, in northern Eriador. Elendil founded it as the seat of the North-kingdom of Arnor after he reached Middle-earth.\n\nThe city fell out of use as the Dúnedain of the North declined. After Arnor split into three realms in T.A. 861, the kings of Arthedain ruled from Fornost.\n\nThe city lay in ruins for many centuries. After the War of the Ring, King Elessar came north and stayed for a time by Lake Evendim.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Arnor (ruined)",
+   "Founded": "By Elendil, c. S.A. 3320",
+   "Fate": "Abandoned, left in ruins"
+  },
+  "related": [
+   "TO035",
+   "LA006",
+   "TO050",
+   "HI032"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A",
+   "The Silmarillion, Of the Rings of Power"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO007",
+  "title": "Archet",
+  "kind": "Village of Bree-land",
+  "tier": 3,
+  "blurb": "A small village at the edge of the Chetwood in Bree-land.",
+  "book": "Archet is one of the four villages of Bree-land, with Bree, Staddle and Combe. It lies on the edge of the Chetwood, north-east of Bree-hill. Its folk are Men of Bree-land.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Bree-land",
+   "People": "Men",
+   "Meaning": "By the woods"
+  },
+  "related": [
+   "TO011",
+   "FO005",
+   "TO021"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO011",
+  "title": "Bree",
+  "kind": "Town of Men and Hobbits",
+  "tier": 1,
+  "blurb": "The chief town of Bree-land, where Frodo meets Aragorn at the Prancing Pony.",
+  "book": "Bree is a town on the western slope of Bree-hill, at the crossing of the Great East Road and the Greenway. It is the chief town of Bree-land, a small realm that also holds Staddle, Combe and Archet.\n\nMen and Hobbits live here side by side, and it is one of the few places where they share homes and streets. A hedge and a gate close the town at night. Its great inn is the Prancing Pony, kept by Barliman Butterbur.\n\nIn T.A. 3018, Frodo and his friends stop here on the journey from the Shire. At the inn they meet Strider, who is the Ranger Aragorn. He guides them toward Rivendell. The Black Riders also come to Bree in pursuit of the Ring.",
+  "film": "In the films the town looks muddy and crowded, with a tall timber gate. The Prancing Pony scene is shorter than in the book, and Barliman Butterbur is played for humour.",
+  "series": "",
+  "facts": {
+   "Realm": "Bree-land",
+   "People": "Men and Hobbits",
+   "Location": "Crossing of East Road and Greenway"
+  },
+  "related": [
+   "HI012",
+   "TO021",
+   "TO007",
+   "DO037",
+   "HI052"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I",
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO012",
+  "title": "Breredon",
+  "kind": "Hobbit village in Buckland",
+  "tier": 3,
+  "blurb": "A small Hobbit village in Buckland, near the southern end of the land.",
+  "book": "Breredon is a Hobbit village in Buckland, near Haysend at the southern end of the land. The name is found only on maps, not in the text of the books. It plays no part in the story.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire (Buckland)",
+   "People": "Hobbits"
+  },
+  "related": [
+   "TO049",
+   "TO025",
+   "TO014"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Prologue map"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "TO014",
+  "title": "Bucklebury",
+  "kind": "Village of Buckland",
+  "tier": 2,
+  "blurb": "A Hobbit village in Buckland, home of Brandy Hall and the Brandybuck family.",
+  "book": "Bucklebury is the main village of Buckland, on the eastern side of the Brandywine River. It lies beneath Buck Hill, where the great burrow of Brandy Hall holds the Brandybuck family.\n\nBuckland was settled by Hobbits from the Shire, led by the Oldbuck family. They closed it off with the High Hay against the Old Forest.\n\nIn T.A. 3018, Frodo and his friends cross the river by ferry and reach Bucklebury at night. When the Black Riders attack Crickhollow, the Horn-call of Buckland is sounded for the first time in a hundred years.",
+  "film": "The films skip most of Buckland. The hobbits escape a Black Rider at Bucklebury Ferry, but the village itself is not shown.",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire (Buckland)",
+   "People": "Hobbits, Brandybucks",
+   "Location": "East of the Brandywine"
+  },
+  "related": [
+   "BU032",
+   "HI013",
+   "TO022",
+   "DO005",
+   "BR001"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I",
+   "The Return of the King, Book VI"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO015",
+  "title": "Budgeford",
+  "kind": "Village in the Bridgefields",
+  "tier": 3,
+  "blurb": "A Hobbit village in the Bridgefields, on a stream near the Brandywine.",
+  "book": "Budgeford is a Hobbit village in the Bridgefields, in the Eastfarthing not far from the Brandywine Bridge. Fredegar Bolger, Frodo's friend, comes from Budgeford. The village is not visited in the story.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits"
+  },
+  "related": [
+   "BR001",
+   "TO037",
+   "RI080"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "TO016",
+  "title": "Bywater",
+  "kind": "Hobbit village",
+  "tier": 2,
+  "blurb": "A Hobbit village on the Water, near Hobbiton, and a place of the Scouring.",
+  "book": "Bywater is a village in the Westfarthing, beside a pool on the stream called the Water. It lies a short way east of Hobbiton. The Green Dragon inn stands here.\n\nThe Battle of Bywater takes place here on 3 November T.A. 3019. The Hobbits, roused by Merry and Pippin, defeat Sharkey's ruffians. The battle ends the Scouring of the Shire.",
+  "film": "The Green Dragon inn at Bywater appears in the films. The Scouring of the Shire and the Battle of Bywater do not.",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits",
+   "Location": "Westfarthing, by the Water",
+   "Fate": "Battle of Bywater, T.A. 3019"
+  },
+  "related": [
+   "TO050",
+   "LA002",
+   "RI080",
+   "TO101"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I",
+   "The Return of the King, Book VI"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO017",
+  "title": "Calembel",
+  "kind": "Town of Lamedon",
+  "tier": 3,
+  "blurb": "A town in Lamedon, in southern Gondor, passed by Aragorn and the Dead.",
+  "book": "Calembel is a town on the river Ciril in Lamedon, an upland fief of Gondor below the southern slopes of the White Mountains.\n\nIn March T.A. 3019, Aragorn rides here with the Grey Company and the Dead, after the Paths of the Dead and the Stone of Erech. They pass on toward Linhir and Pelargir.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Location": "On the Ciril, Lamedon"
+  },
+  "related": [
+   "RI018",
+   "TO054",
+   "HI023",
+   "RI067"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO018",
+  "title": "Caras Galadhon",
+  "kind": "Elven city of Lothlórien",
+  "tier": 1,
+  "blurb": "The tree-city of the Galadhrim, where Galadriel and Celeborn rule.",
+  "book": "Caras Galadhon is the chief city of Lothlórien. It stands inside the Naith, between the rivers Celebrant and Anduin. The city is built on a green hill and enclosed by a wall and a ditch.\n\nThe Galadhrim live in platforms called talans, high in the mallorn trees. The hill of Cerin Amroth stands nearby. Galadriel and Celeborn rule from here.\n\nIn T.A. 3019, the Fellowship rests in Caras Galadhon for about a month after Moria. Galadriel tests each member and gives gifts at their departure. She shows Frodo and Sam her Mirror. The Elves keep strict watch and blindfold strangers who enter.",
+  "film": "The films show the city as lamp-lit platforms and stairs high in great trees. The Mirror scene is in the main cut; the gift-giving appears only in the extended edition.",
+  "series": "",
+  "facts": {
+   "Realm": "Lothlórien",
+   "Rulers": "Galadriel and Celeborn",
+   "People": "Galadhrim, Silvan Elves",
+   "Fate": "Faded in the Fourth Age"
+  },
+  "related": [
+   "FO017",
+   "HI014",
+   "RI014",
+   "RI003",
+   "BR004"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO019",
+  "title": "Carn Dûm",
+  "kind": "Fortress of Angmar",
+  "tier": 2,
+  "blurb": "The chief fortress of the Witch-king's realm of Angmar, in the far north.",
+  "book": "Carn Dûm is a stronghold in the Mountains of Angmar. It is the chief fortress of Angmar, the northern realm that the Witch-king founded around T.A. 1300.\n\nFrom here, the Witch-king launched his long war against the Dúnedain of Arnor. His wars wore down the three realms that Arnor had split into in T.A. 861. In T.A. 1974, he captured Fornost with a great army, and Arthedain fell.\n\nIn T.A. 1975, the Elves of Lindon and a force from Gondor defeated Angmar in the Battle of Fornost. The Witch-king fled. Carn Dûm was later left empty, and its fate is not told in detail.",
+  "film": "The films do not show Carn Dûm. The Witch-king appears only as the Nazgûl lord.",
+  "series": "",
+  "facts": {
+   "Realm": "Angmar",
+   "People": "Orcs, Hill-men, evil creatures",
+   "Founded": "c. T.A. 1300",
+   "Fate": "Fell after T.A. 1975"
+  },
+  "related": [
+   "TO035",
+   "MT039",
+   "MT034",
+   "TO006"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO021",
+  "title": "Combe",
+  "kind": "Village of Bree-land",
+  "tier": 3,
+  "blurb": "A village of Men and Hobbits on the eastern side of Bree-hill.",
+  "book": "Combe is one of the villages of Bree-land, set in a hollow near Bree-hill. Men and Hobbits live here. Its name means a valley. Bree-land also holds Staddle and Archet.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Bree-land",
+   "People": "Men and Hobbits",
+   "Meaning": "Hollow or valley"
+  },
+  "related": [
+   "TO011",
+   "TO007",
+   "HI012"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO022",
+  "title": "Crickhollow",
+  "kind": "Hobbit house in Buckland",
+  "tier": 2,
+  "blurb": "A house in Buckland that Frodo buys before leaving the Shire.",
+  "book": "Crickhollow is a long, low house in Buckland, beyond Bucklebury and not far from Brandy Hall. Frodo Baggins buys it to hide his true plan to leave the Shire. He pretends to retire to Buckland.\n\nIn T.A. 3018, Frodo and his friends reach it after crossing the river. Here Frodo learns that Merry, Pippin and Sam already know of the Ring and his plan.\n\nFredegar Bolger stays behind to keep up the pretence. The Black Riders attack the house soon after the others leave.",
+  "film": "The films omit Crickhollow and the whole Buckland stage of the journey.",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire (Buckland)",
+   "People": "Hobbits",
+   "Location": "Near Brandy Hall"
+  },
+  "related": [
+   "BU032",
+   "TO014",
+   "HI013",
+   "TO050"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO024",
+  "title": "Dale",
+  "kind": "City of Men below Erebor",
+  "tier": 1,
+  "blurb": "A city of Men in the valley south of the Lonely Mountain.",
+  "book": "Dale is a city of Northmen in the valley beneath the Lonely Mountain. It grew rich through trade with the Dwarves of Erebor and was famed for its toys and bells.\n\nIn T.A. 2770, the dragon Smaug attacked and destroyed Dale and Erebor. The people fled to Lake-town and elsewhere, and the valley stayed empty and ruined.\n\nIn T.A. 2941, Smaug died at Lake-town, and the Battle of Five Armies was fought near Dale. Bard the Bowman, who killed the dragon, became king and rebuilt the city. Dale then prospered again as a friend of the Dwarves.\n\nIn T.A. 3019, Easterlings attacked Dale. King Brand and King Dáin fell, and the survivors were besieged in Erebor until news came of Sauron's fall.",
+  "film": "The Hobbit films show Dale in ruins, and its destruction by Smaug appears in a prologue. Part of the Battle of the Five Armies is fought in its streets.",
+  "series": "",
+  "facts": {
+   "Realm": "Kingdom of Dale",
+   "People": "Northmen",
+   "Ruler": "Bard, after T.A. 2941",
+   "Fate": "Destroyed T.A. 2770; rebuilt"
+  },
+  "related": [
+   "MT029",
+   "TO051",
+   "TO053",
+   "HI042",
+   "LA009"
+  ],
+  "sources": [
+   "The Hobbit, Chapters 10 to 18",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO025",
+  "title": "Deephallow",
+  "kind": "Hobbit village",
+  "tier": 3,
+  "blurb": "A Hobbit village on the Brandywine at the eastern edge of the Shire.",
+  "book": "Deephallow is a Hobbit village on the west bank of the Brandywine, in the Eastfarthing, across the river from southern Buckland. The name is found only on maps, not in the text of the books. It plays no part in the story.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire (Eastfarthing)",
+   "People": "Hobbits",
+   "Meaning": "Deep haugh"
+  },
+  "related": [
+   "TO049",
+   "TO014",
+   "TO012",
+   "RI006"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Prologue map"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "TO026",
+  "title": "Dol Amroth",
+  "kind": "City of the Prince of Dol Amroth",
+  "tier": 2,
+  "blurb": "A seaside city and castle of southern Gondor, seat of its greatest fief.",
+  "book": "Dol Amroth is a city and castle on a high headland in Belfalas, above the Bay of Belfalas. It is the seat of the Prince of Dol Amroth, the greatest lord of southern Gondor. The princes are of Númenórean blood and are said to have Elvish ancestry.\n\nThe city is named for Amroth, an Elven king of Lórien who was lost at sea off this coast. The emblem of its princes is a swan-ship.\n\nIn T.A. 3019, Prince Imrahil leads his knights to the defence of Minas Tirith. He finds Éowyn alive on the field. His sister Finduilas was the wife of Denethor and mother of Boromir and Faramir.",
+  "film": "The films never show Dol Amroth. Imrahil is not shown in the films.",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Ruler": "Prince Imrahil, T.A. 3019",
+   "People": "Men of Númenórean descent",
+   "Meaning": "Hill of Amroth"
+  },
+  "related": [
+   "FJ002",
+   "TO028",
+   "TO045",
+   "BA003",
+   "TO065"
+  ],
+  "sources": [
+   "The Return of the King, Book V",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO027",
+  "title": "Dwaling",
+  "kind": "Hobbit village",
+  "tier": 3,
+  "blurb": "A Hobbit village in the Eastfarthing of the Shire.",
+  "book": "Dwaling is a small Hobbit village in the Eastfarthing of the Shire. The name is found only on maps, not in the text of the books. It plays no part in the story.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits",
+   "Location": "Eastfarthing"
+  },
+  "related": [
+   "TO037",
+   "TO015",
+   "TO016"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Prologue map"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "TO028",
+  "title": "Edhellond",
+  "kind": "Elven haven of Gondor",
+  "tier": 2,
+  "blurb": "A harbour where Elves sailed west, abandoned in T.A. 1981.",
+  "book": "Edhellond is an Elven haven on the coast of Belfalas, at the mouth of the river Morthond near the Ringló. Sindar from Beleriand founded it, and Silvan Elves of Lórien later joined them.\n\nAmroth, king of Lórien, awaited the maiden Nimrodel here. He was lost at sea when his ship drifted away from the shore. The people of Edhellond built ships and sailed west.\n\nIn T.A. 1981, when the Balrog stirred in Moria, the Elves of Lórien fled. Many sailed from this haven. The harbour was abandoned after the last of its Elves departed.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "People": "Sindar, Silvan Elves",
+   "Meaning": "Elf haven",
+   "Fate": "Abandoned after T.A. 1981"
+  },
+  "related": [
+   "TO026",
+   "RI057",
+   "RI067",
+   "BA003",
+   "RI061"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II",
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO029",
+  "title": "Edoras",
+  "kind": "Capital of Rohan",
+  "tier": 1,
+  "blurb": "The royal seat of Rohan on a hill below the White Mountains.",
+  "book": "Edoras is the capital of Rohan. It stands on a green hill at the foot of the White Mountains, in Harrowdale, above the Snowbourn stream. A palisade and a ditch encircle it.\n\nAt its top is the golden hall of Meduseld, where the kings of the Mark sit. The Rohirrim moved their capital here under King Brego, about T.A. 2570.\n\nIn T.A. 3019, Gandalf, Aragorn, Legolas and Gimli come here to heal King Théoden of Wormtongue's influence. Théoden regains his strength and rides to war. The Rohirrim leave Edoras for Helm's Deep, and later to Gondor.\n\nAfter the war, Théoden's funeral is held at Edoras, and his nephew Éomer becomes king. Its name means the courts. Banners of a white horse on green fly above the hall.",
+  "film": "The films show Edoras as a hilltop town, with Meduseld on its crest. Gandalf frees Théoden from Saruman's hold there, and Gríma is driven out. The film also shows the warriors' departure from the city.",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "Built by": "Rohirrim; kings from Brego on",
+   "Ruler": "Théoden, T.A. 3019",
+   "Location": "Harrowdale, White Mountains"
+  },
+  "related": [
+   "BU070",
+   "FT009",
+   "GR003",
+   "RI088",
+   "VA008"
+  ],
+  "sources": [
+   "The Two Towers, Book III",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO031",
+  "title": "Elvenking's Halls",
+  "kind": "Cave-palace of Mirkwood",
+  "tier": 1,
+  "blurb": "The great cave-palace of the Elvenking Thranduil in northern Mirkwood.",
+  "book": "The Elvenking's Halls are a cave-palace in the north-east of Mirkwood, near the Forest River. They belong to Thranduil, king of the Wood-elves, who hold the northern forest.\n\nA great stone gate leads into the caves. The Elves feast here and keep a cellar of wine. Their dungeons hold prisoners.\n\nIn The Hobbit, the Dwarves of Thorin's company are captured by the Wood-elves and held here. Bilbo, invisible with the ring, rescues them in barrels floated down the river to Lake-town.\n\nThranduil joins the Battle of Five Armies. In T.A. 3019, his people fight Sauron's forces in Mirkwood.",
+  "film": "The films show the halls as a grand cave of stone and root. The Hobbit films give Thranduil a larger role and show the captive scenes at length.",
+  "series": "",
+  "facts": {
+   "Realm": "Mirkwood",
+   "Ruler": "Thranduil",
+   "People": "Silvan (Wood) Elves"
+  },
+  "related": [
+   "FO018",
+   "RI027",
+   "TO053",
+   "MT029",
+   "RI069"
+  ],
+  "sources": [
+   "The Hobbit, Chapters 8 and 9",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO034",
+  "title": "Forlond",
+  "kind": "Elven harbour of Lindon",
+  "tier": 2,
+  "blurb": "The northern haven on the Gulf of Lune in Lindon.",
+  "book": "Forlond is the northern harbour of Lindon, on the north shore of the Gulf of Lune. Its name means north haven. It stands opposite Harlond, the southern haven, and Mithlond lies at the head of the gulf between them.\n\nThe ships of the Elves sail from these havens into the West. Círdan the Shipwright rules this region.\n\nIt was part of the realm of Gil-galad in the Second Age.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Lindon",
+   "People": "Elves",
+   "Meaning": "North haven",
+   "Location": "North shore, Gulf of Lune"
+  },
+  "related": [
+   "BA012",
+   "TO046",
+   "TO043",
+   "RI045"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Rings of Power",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO035",
+  "title": "Fornost Erain",
+  "kind": "Fortress of Arthedain",
+  "tier": 2,
+  "blurb": "The northern capital of Arthedain, fallen to the Witch-king in T.A. 1974.",
+  "book": "Fornost Erain, the Northern Fortress of the Kings, stands on the North Downs in Eriador. It was the last capital of the Dúnedain of Arthedain, who ruled the north after Arnor split.\n\nThe king moved here from Annúminas. In T.A. 1974, the Witch-king of Angmar captured the city and Arthedain ended. The Dúnedain survived as Rangers.\n\nThe Witch-king was defeated in T.A. 1975 at the Battle of Fornost by an Elven force from Lindon and a host from Gondor. The city then lay empty, and the folk of Bree call it Deadmen's Dike.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Arthedain",
+   "People": "Dúnedain",
+   "Other names": "Norbury of the Kings",
+   "Fate": "Fell T.A. 1974; ruined"
+  },
+  "related": [
+   "TO006",
+   "HI039",
+   "TO019",
+   "TO011",
+   "HI051"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A",
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO036",
+  "title": "Framsburg",
+  "kind": "Éothéod settlement",
+  "tier": 3,
+  "blurb": "A mapped settlement of the Éothéod near the sources of the Anduin.",
+  "book": "This name comes from the map data set, not from Tolkien's books. The map places here a town of the Éothéod, the horse-folk who lived near the sources of the Anduin before they rode south to Rohan in T.A. 2510.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Lands of the Éothéod",
+   "People": "Éothéod"
+  },
+  "related": [
+   "RI003",
+   "TO053",
+   "TO084"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "TO037",
+  "title": "Frogmorton",
+  "kind": "Hobbit village",
+  "tier": 2,
+  "blurb": "A Hobbit village on the Great East Road in the Eastfarthing.",
+  "book": "Frogmorton is a Hobbit village in the Eastfarthing, near the Great East Road, close to the Brandywine Bridge. A well-known inn, the Floating Log, stands here.\n\nThe Shirriffs, the Hobbit constables, keep a house here. In T.A. 3019, the ruffians of Sharkey control the Shire. Frodo and his friends are stopped by Shirriffs at Frogmorton, but the travellers soon go on, and Merry rouses the Hobbits at Bywater.",
+  "film": "The films do not show Frogmorton.",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits",
+   "Location": "Eastfarthing, East Road"
+  },
+  "related": [
+   "BR001",
+   "TO015",
+   "TO016",
+   "TO050"
+  ],
+  "sources": [
+   "The Return of the King, Book VI",
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO038",
+  "title": "Gamwich",
+  "kind": "Hobbit village",
+  "tier": 3,
+  "blurb": "A Hobbit village in the Shire, linked to the origin of the name Gamgee.",
+  "book": "Gamwich is a small Hobbit village in the Westfarthing of the Shire. Hamfast of Gamwich, an early ancestor of Sam Gamgee, came from here, and the family name Gamgee grew from the village name. It is not visited in the story.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits",
+   "Location": "Westfarthing"
+  },
+  "related": [
+   "TO050",
+   "TO016",
+   "HI053"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix C",
+   "The Lord of the Rings, Appendix F"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "TO039",
+  "title": "Goblin-town",
+  "kind": "Goblin kingdom under the Misty Mountains",
+  "tier": 1,
+  "blurb": "The goblin stronghold under the Misty Mountains, where Bilbo finds the Ring.",
+  "book": "Goblin-town is a vast cave city beneath the Misty Mountains. It lies on the eastern side of the mountains, near the High Pass. The Great Goblin rules it. The goblins hate Dwarves and Elves.\n\nIn The Hobbit, Thorin's company and Bilbo shelter in a cave during a storm. Goblins seize the Dwarves and take them down to Goblin-town. Gandalf rescues the company and kills the Great Goblin.\n\nBilbo is left behind in the dark. He finds a ring on the floor and meets Gollum, whom he beats in a riddle contest. He escapes with the ring unseen. The company flees down the mountainside, where goblins and wolves trap them until the Eagles carry them away. The goblins of these mountains remain a danger to travellers for many years afterward.",
+  "film": "The Hobbit films show Goblin-town as a huge, rickety timber city, with a grotesque Great Goblin. Gandalf's rescue is dramatic.",
+  "series": "",
+  "facts": {
+   "Realm": "Misty Mountains",
+   "People": "Goblins (Orcs)",
+   "Ruler": "The Great Goblin"
+  },
+  "related": [
+   "MT034",
+   "FJ007",
+   "IS003",
+   "RI031"
+  ],
+  "sources": [
+   "The Hobbit, Chapters 4 to 6",
+   "The Fellowship of the Ring, Book II"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO042",
+  "title": "Greenholm",
+  "kind": "Hobbit village",
+  "tier": 3,
+  "blurb": "A Hobbit village in the Far Downs, in the west of the Shire.",
+  "book": "Greenholm is a small Hobbit village in the Shire, near the Far Downs in the far west. It appears only on the map and not in the story.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits",
+   "Location": "Far Downs"
+  },
+  "related": [
+   "HI025",
+   "HI053",
+   "HI048"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue map"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "TO043",
+  "title": "Grey Havens",
+  "kind": "Elven port of Lindon",
+  "tier": 1,
+  "blurb": "The Elven harbour of Círdan, from which the Elves sail into the West.",
+  "book": "The Grey Havens, or Mithlond, is a harbour at the head of the Gulf of Lune in Lindon. Círdan the Shipwright rules it. Círdan founded it at the start of the Second Age.\n\nShips leave from here toward Valinor, the Undying Lands. The Elves go there when they tire of Middle-earth.\n\nGil-galad, the High King of the Noldor, ruled Lindon in the Second Age, and Elrond served as his herald.\n\nAt the end of T.A. 3021, the Ring-bearers, Gandalf, Elrond and Galadriel set sail. Frodo and Bilbo go with them. Sam, Merry and Pippin watch them leave and ride home.",
+  "film": "The films show the Grey Havens as a white city by a calm sea. Frodo, Bilbo, Gandalf and the Elves sail from here at the end of The Return of the King.",
+  "series": "",
+  "facts": {
+   "Realm": "Lindon",
+   "Ruler": "Círdan the Shipwright",
+   "People": "Elves",
+   "Other names": "Mithlond"
+  },
+  "related": [
+   "BA012",
+   "TO034",
+   "TO046",
+   "HI048"
+  ],
+  "sources": [
+   "The Return of the King, Book VI",
+   "The Silmarillion, Of the Rings of Power"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO045",
+  "title": "Harlond",
+  "kind": "Harbour of Minas Tirith",
+  "tier": 2,
+  "blurb": "The river port on the Anduin, south of Minas Tirith.",
+  "book": "The Harlond is the river harbour of Minas Tirith. It lies on the west bank of the Anduin, south of the city, at the river edge of the Pelennor Fields. Its name means south haven.\n\nShips from the southern fiefs of Gondor dock here. In T.A. 3019, the host of Aragorn sails up the Anduin in captured ships from Pelargir. They land at the Harlond to join the Battle of the Pelennor Fields. Aragorn unfurls his banner as he arrives.",
+  "film": "In the films, Aragorn arrives by black ships and fights on the Pelennor. The harbour is not named.",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Meaning": "South haven",
+   "Location": "Anduin, south of Minas Tirith"
+  },
+  "related": [
+   "TO065",
+   "FI024",
+   "RI003",
+   "DO030"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO046",
+  "title": "Harlond",
+  "kind": "Elven harbour of Lindon",
+  "tier": 3,
+  "blurb": "The southern harbour on the Gulf of Lune, opposite Forlond.",
+  "book": "Harlond, meaning south haven, is the southern harbour of Lindon, on the south shore of the Gulf of Lune. It faces Forlond across the gulf. Elven ships sail from here with those that depart to the West. Mithlond lies between the two havens.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Lindon",
+   "People": "Elves",
+   "Meaning": "South haven"
+  },
+  "related": [
+   "TO034",
+   "TO043",
+   "BA012"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Rings of Power",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO049",
+  "title": "Haysend",
+  "kind": "Hobbit village in Buckland",
+  "tier": 3,
+  "blurb": "A small village at the southern end of Buckland, at the High Hay.",
+  "book": "Haysend is a Hobbit village at the southern tip of Buckland. Its name refers to the High Hay, the great hedge that guards Buckland against the Old Forest. It is a minor village and is not visited in the story.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire (Buckland)",
+   "People": "Hobbits"
+  },
+  "related": [
+   "TO025",
+   "TO012",
+   "FO023"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "TO050",
+  "title": "Hobbiton",
+  "kind": "Hobbit village of the Shire",
+  "tier": 1,
+  "blurb": "The village beside Bag End, where Bilbo and Frodo Baggins live.",
+  "book": "Hobbiton is a Hobbit village in the Westfarthing of the Shire. It lies on the Water, below Hobbiton Hill. Bag End, the Baggins home, is on the hill above.\n\nBilbo Baggins, the hero of The Hobbit, lives at Bag End. He returns here from his journey in T.A. 2942. His eleventy-first birthday party takes place in the meadow near the village in T.A. 3001.\n\nIn T.A. 3018, Frodo leaves Hobbiton with Sam and Pippin. The Ring has been Bilbo's, and Gandalf tells Frodo it is the One Ring. Hobbiton is the start of the quest.\n\nIn T.A. 3019, the ruffians of Sharkey mar the village. After the War, Sam, Frodo, Merry and Pippin help to restore the Shire.",
+  "film": "The films show Hobbiton as a green, round-doored village. Bag End is a major set, and the party scene is lively.",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits",
+   "Location": "Westfarthing",
+   "Notable": "Bag End, Baggins home"
+  },
+  "related": [
+   "HI035",
+   "TO016",
+   "TO080",
+   "TO101",
+   "LA002"
+  ],
+  "sources": [
+   "The Hobbit, Chapter 1",
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO051",
+  "title": "Kingdom under the Mountain",
+  "kind": "Dwarf realm of Erebor",
+  "tier": 1,
+  "blurb": "The Dwarf kingdom inside the Lonely Mountain, famed for its great hoard.",
+  "book": "The Kingdom under the Mountain is the Dwarf realm inside Erebor, the Lonely Mountain. Thráin I of Durin's Folk founded it in T.A. 1999, after the Dwarves fled Moria. They built great halls and mines, and their hoard grew vast, including the Arkenstone.\n\nIn T.A. 2770, the dragon Smaug drove the Dwarves out, destroyed Dale, and took the hoard. Thorin Oakenshield, heir to the throne, wished to reclaim it.\n\nIn The Hobbit, Thorin and his company, with Bilbo as burglar, travel to Erebor. Bilbo finds Smaug and learns of his weak spot. After Smaug dies, Thorin holds the hoard against Men and Elves. The Battle of Five Armies follows, and Thorin dies. Dáin Ironfoot becomes king of Erebor in T.A. 2941. The Dwarves hold the mountain for the rest of the Third Age. The great gate faces the valley of Dale.",
+  "film": "The Hobbit films show Erebor as a vast, golden hall with huge stone halls. Smaug's attack is dramatic, and Thorin's greed is a stronger theme.",
+  "series": "",
+  "facts": {
+   "Realm": "Erebor",
+   "People": "Durin's Folk (Dwarves)",
+   "Ruler": "Dáin Ironfoot, from T.A. 2941",
+   "Fate": "Refounded T.A. 2941"
+  },
+  "related": [
+   "MT029",
+   "TO024",
+   "TO053",
+   "TO031",
+   "HI037"
+  ],
+  "sources": [
+   "The Hobbit, Chapters 11 to 18",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO053",
+  "title": "Lake-town",
+  "kind": "Town of Men on the Long Lake",
+  "tier": 1,
+  "blurb": "A wooden town of Men built on the Long Lake, also called Esgaroth.",
+  "book": "Lake-town, or Esgaroth, is a town of the Lake-men, built on wooden piles in the Long Lake. A bridge joins it to the shore. It is south of Erebor and lives by trade along the River Running.\n\nIn The Hobbit, Thorin's company arrive in barrels and are welcomed by the Master of the town. Later, Smaug attacks the town. The archer Bard slays him with a black arrow, as a thrush tells him of the weak spot.\n\nThe town burns. After the Battle of Five Armies, Bard becomes king in Dale. The people of Lake-town rebuild their home. Bard gives gold from the hoard to help them.",
+  "film": "The Hobbit films show Lake-town as a grey, crowded canal town. Smaug's attack is long, and the Master is a comic villain.",
+  "series": "",
+  "facts": {
+   "Realm": "Lake-town, under its Master",
+   "People": "Lake-men",
+   "Other names": "Esgaroth",
+   "Fate": "Burned by Smaug, rebuilt"
+  },
+  "related": [
+   "LA009",
+   "MT029",
+   "TO024",
+   "RI069",
+   "TO031"
+  ],
+  "sources": [
+   "The Hobbit, Chapters 10 to 14",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO054",
+  "title": "Linhir",
+  "kind": "Port of southern Gondor",
+  "tier": 3,
+  "blurb": "A town on the Gilrain in Lebennin, taken by Corsairs and then freed.",
+  "book": "Linhir is a town on the river Gilrain in Lebennin, southern Gondor. In T.A. 3019, the Corsairs attack it. Aragorn and his company, with the Dead, fight and drive the enemy from Linhir. They then ride on to Pelargir.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Location": "Gilrain, Lebennin"
+  },
+  "related": [
+   "RI029",
+   "RI072",
+   "TO026",
+   "TO017"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "TO055",
+  "title": "Little Delving",
+  "kind": "Hobbit village",
+  "tier": 3,
+  "blurb": "A Hobbit village in the Westfarthing of the Shire.",
+  "book": "Little Delving is a Hobbit village in the Westfarthing of the Shire. It appears on the map but is not visited in the story.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits",
+   "Location": "Westfarthing"
+  },
+  "related": [
+   "TO050",
+   "TO038",
+   "TO016"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue map"
+  ],
+  "confidence": "low"
+ }
+]

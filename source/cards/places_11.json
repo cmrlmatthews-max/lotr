@@ -1,0 +1,1043 @@
+[
+ {
+  "id": "RI003",
+  "title": "Anduin",
+  "kind": "Great river of Middle-earth",
+  "tier": 1,
+  "blurb": "The Great River, flowing south through Wilderland, Rohan and Gondor to the Bay of Belfalas.",
+  "book": "The Anduin is the great river of the lands east of the Misty Mountains. It rises in the north and flows south past Mirkwood, the Carrock and the Gladden Fields. It then passes the borders of Lothlórien, and in its later course it bounds Rohan and Gondor.\n\nIsildur died near its banks at the Gladden Fields in T.A. 2, and the One Ring slipped from him there.\n\nThe Fellowship of the Ring travels down the river in boats from Lothlórien. They pass the Argonath, the great carved kings at the gate of Gondor, and rest at Parth Galen above the falls of Rauros. Boromir's funeral boat goes over the falls.\n\nFurther south the river runs beside Osgiliath and Minas Tirith, then past Pelargir. It reaches the sea in a wide delta at the Bay of Belfalas. Many tributaries join it, from the Gladden to the Erui and the Poros.",
+  "film": "The Argonath and Rauros are shown dramatically as the Fellowship rows south, and the river carries the boats of the Fellowship.",
+  "series": "",
+  "facts": {
+   "Realm": "Wilderland, Rohan and Gondor",
+   "Other names": "Langflood (Rohirric), Great River",
+   "Source": "Grey Mountains region",
+   "Mouth": "Bay of Belfalas"
+  },
+  "related": [
+   "RI031",
+   "RI014",
+   "RI085",
+   "RI023",
+   "FA007"
+  ],
+  "sources": [
+   "The Lord of the Rings, Books II to V",
+   "The Hobbit"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "RI006",
+  "title": "Baranduin",
+  "kind": "River of the Shire",
+  "tier": 1,
+  "blurb": "The Brandywine, the eastern border river of the Shire, flowing south and west to the sea.",
+  "book": "The Baranduin, called the Brandywine by hobbits, flows from the northern lands through the east of the Shire and then to the Great Sea. Its Sindarin name means golden-brown river. Hobbits made a joke of it and called it Bralda-hîm, meaning heady ale.\n\nIt forms the eastern boundary of the Shire. The Brandywine Bridge on the Great East Road is the only large crossing, and the Bridge is guarded. East of the river lies Buckland, home of the Brandybuck family, which is protected by the High Hay.\n\nThe river is wide and slow. Frodo, Sam and Pippin use a ferry to cross it at Bucklebury. Hobbits pass the river often in the story.\n\nSeveral streams run into it, including the Water, the Shirebourn, the Stock-brook and, from the Old Forest, the Withywindle. It rises in Lake Evendim, where Annúminas once stood.",
+  "film": "The Brandywine and Buckland ferry appear in the first film as the hobbits flee the Black Rider.",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire and Eriador",
+   "Other names": "Brandywine",
+   "Meaning": "Golden-brown river",
+   "Mouth": "The Great Sea"
+  },
+  "related": [
+   "RI080",
+   "RI083",
+   "RI093",
+   "RI073",
+   "TO091"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I",
+   "The Fellowship of the Ring, Prologue"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "RI011",
+  "title": "Bruinen",
+  "kind": "River near Rivendell",
+  "tier": 2,
+  "blurb": "The Loudwater, a swift river that runs below Rivendell and joins the Hoarwell.",
+  "book": "The Bruinen, called the Loudwater, runs from the Misty Mountains past Rivendell into the Hoarwell. Its water is quick and often loud.\n\nAt the Ford of Bruinen, on the Great East Road west of Rivendell, the Nazgûl pursue Frodo. Frodo is wounded by the Morgul blade and rides to the ford with Glorfindel's horse. The Black Riders try to cross, and Elrond commands the river to rise, and Gandalf gives the waves the shape of white horses. The flood sweeps away the riders and their horses.\n\nIn the Hobbit, the company crosses the river at the ford on their way to the Last Homely House. The river guards the Elvish refuge.",
+  "film": "Arwen carries Frodo to the ford and calls up the flood herself. Its waves take the shape of horses.",
+  "series": "",
+  "facts": {
+   "Realm": "Eriador",
+   "Other names": "Loudwater",
+   "Flows into": "The Hoarwell"
+  },
+  "related": [
+   "FJ006",
+   "TO084",
+   "RI040",
+   "FO033"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I",
+   "The Hobbit"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "RI013",
+  "title": "Carnen",
+  "kind": "River of Rhovanion",
+  "tier": 3,
+  "blurb": "The Redwater, a river that flows from the Iron Hills to the River Running.",
+  "book": "The Carnen, or Redwater, rises in the Iron Hills. It flows south and joins the River Running far east of Erebor. It is a minor river that appears chiefly on the maps of Wilderland.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Wilderland",
+   "Other names": "Redwater",
+   "Flows into": "River Running"
+  },
+  "related": [
+   "RI069",
+   "HI037"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A",
+   "The Lord of the Rings map"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI061",
+  "title": "Nimrodel",
+  "kind": "Stream of Lothlórien",
+  "tier": 2,
+  "blurb": "A bright stream on the edge of Lothlórien that flows into the Silverlode.",
+  "book": "The Nimrodel is a clear, quick stream that rises in the Misty Mountains and flows into the Celebrant. It runs by the western border of Lothlórien. Its waters are said to ease weariness.\n\nIt is named for the Silvan elf Nimrodel, who lived there long before. Legolas sings her sad tale to the Fellowship. She was lost in the mountains on her way south to sail with her love Amroth.\n\nThe Fellowship rests by the stream after leaving Moria. They wade across it, and Legolas bathes his feet in its cool water. Then they climb a tree and meet the Galadhrim of Lothlórien.",
+  "film": "The Nimrodel is not shown separately in the films.",
+  "series": "",
+  "facts": {
+   "Realm": "Lothlórien",
+   "Flows into": "The Celebrant (Silverlode)",
+   "Named for": "The elf Nimrodel"
+  },
+  "related": [
+   "RI014",
+   "FO017",
+   "VA004"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "RI014",
+  "title": "Celebrant",
+  "kind": "River of Lothlórien",
+  "tier": 2,
+  "blurb": "The Silverlode, a river from Dimrill Dale that runs through Lothlórien to the Anduin.",
+  "book": "The Celebrant, called the Silverlode, begins in the Mirrormere of Dimrill Dale. It flows through Lothlórien and joins the Anduin. The dwarves named it Kibil-nâla.\n\nThe Fellowship follows its bank after escaping Moria. The Nimrodel joins it near the border of the Golden Wood. It is bright and swift. The Fellowship crosses it at a rope bridge before meeting Celeborn and Galadriel.\n\nNear the meeting with the Anduin lies the tongue of land called Egladil, the Angle, where the Fellowship later sets out in Elven boats.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Lothlórien",
+   "Other names": "Silverlode, Kibil-nâla (Dwarvish)",
+   "Flows into": "The Anduin"
+  },
+  "related": [
+   "RI061",
+   "FO017",
+   "VA004",
+   "RI003"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "RI018",
+  "title": "Ciril",
+  "kind": "River of Lamedon",
+  "tier": 3,
+  "blurb": "A stream in Lamedon in western Gondor that joins the Ringló.",
+  "book": "The Ciril is a river of Lamedon, in the south of the White Mountains. It joins the Ringló. Aragorn's company crosses it at Calembel as he rides to Pelargir.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor (Lamedon)",
+   "Flows into": "The Ringló"
+  },
+  "related": [
+   "RI067",
+   "TO017"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI022",
+  "title": "Enchanted River",
+  "kind": "River in Mirkwood",
+  "tier": 2,
+  "blurb": "A dark stream in Mirkwood that casts a deep sleep on those who touch its water.",
+  "book": "The Enchanted River crosses the path through Mirkwood. Its water is black and the dwarves are warned not to drink or touch it. The wood-elves of the Elvenking live nearby.\n\nBeorn warns them that its water brings sleep and forgetting. Bilbo and the dwarves cross it by a boat on the far side, but Bombur falls in and sleeps for days. The company must carry him.\n\nOn the other side Bilbo and the dwarves see elven feasts that vanish. The Enchanted River flows on into the Forest River and the Running River.",
+  "film": "The Hobbit films keep Bombur's fall into the river and the sleep that follows.",
+  "series": "",
+  "facts": {
+   "Realm": "Mirkwood",
+   "Flows into": "The Forest River"
+  },
+  "related": [
+   "FO018",
+   "RI027",
+   "RI069"
+  ],
+  "sources": [
+   "The Hobbit"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI023",
+  "title": "Erui",
+  "kind": "River of Lebennin",
+  "tier": 3,
+  "blurb": "A river of Lebennin in southern Gondor that runs into the Anduin.",
+  "book": "The Erui is one of the rivers of Lebennin. It flows south from the White Mountains to the Anduin. Aragorn's host passes this country on the way to Pelargir.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor (Lebennin)",
+   "Flows into": "The Anduin"
+  },
+  "related": [
+   "FJ002",
+   "RI077",
+   "RI003"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI029",
+  "title": "Gilrain",
+  "kind": "River of Gondor",
+  "tier": 3,
+  "blurb": "A river of western Lebennin in Gondor with its mouth at Linhir.",
+  "book": "The Gilrain flows from the White Mountains toward the sea. Linhir stands near its mouth. There Aragorn and the Dead drive off the men of Umbar and Harad who are fighting the folk of Lamedon. The Gilrain and the Serni meet just before the sea.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor (Lebennin)",
+   "Mouth": "Bay of Belfalas"
+  },
+  "related": [
+   "RI072",
+   "TO054"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI032",
+  "title": "Glanduin",
+  "kind": "River of Eriador",
+  "tier": 3,
+  "blurb": "A river of southern Eriador that joins the Hoarwell to form the Greyflood.",
+  "book": "The Glanduin runs from the Misty Mountains toward the Gwathló. It forms the old boundary of the Elf-realm of Eregion. It flows through the marshes called the Swanfleet.\n\nThe Sirannon joins it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Eriador",
+   "Meaning": "Border river",
+   "Flows into": "The Gwathló"
+  },
+  "related": [
+   "RI038",
+   "RI092",
+   "TO093"
+  ],
+  "sources": [
+   "Unfinished Tales",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI035",
+  "title": "Greylin",
+  "kind": "River of Wilderland",
+  "tier": 3,
+  "blurb": "A northern stream of Wilderland that joins the Langwell to form the Anduin.",
+  "book": "The Greylin flows from the Grey Mountains in the far north of Wilderland. It meets the Langwell, and together they form the Anduin. It is named in the account of the old home of the Éothéod.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Wilderland",
+   "Flows into": "Joins Langwell to form Anduin"
+  },
+  "related": [
+   "RI042",
+   "RI003"
+  ],
+  "sources": [
+   "Unfinished Tales"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "RI038",
+  "title": "Gwathló",
+  "kind": "River of Eriador",
+  "tier": 2,
+  "blurb": "The Greyflood, the great river of southern Eriador, flowing past Tharbad to the sea.",
+  "book": "The Gwathló, called the Greyflood, drains much of Eriador. It is formed where the Mitheithel, or Hoarwell, joins the Glanduin. It flows south-west between Minhiriath and Enedwaith and reaches the sea. Its water is wide and often marshy.\n\nThe city of Tharbad stood upon it. Arnor and Gondor kept a bridge and fort there. Great floods in T.A. 2912 left the town in ruin and empty.\n\nThe Greyflood marks the border between Minhiriath and Enedwaith. The old North-South Road crosses it at Tharbad.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Eriador",
+   "Other names": "Greyflood",
+   "Meaning": "Shadowy river from the fens",
+   "Mouth": "The Great Sea"
+  },
+  "related": [
+   "TO093",
+   "BR005",
+   "RI040",
+   "RI032"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A",
+   "The Fellowship of the Ring, Book II",
+   "Unfinished Tales"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "RI039",
+  "title": "Harnen",
+  "kind": "River of southern Gondor",
+  "tier": 3,
+  "blurb": "The South Water, a river on the far southern edge of Gondor.",
+  "book": "The Harnen lies in Harondor, the southern region between Gondor and Harad. It is the southern border of Gondor's lands. The name means South Water in Elvish.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Harondor",
+   "Meaning": "South Water",
+   "Mouth": "The sea"
+  },
+  "related": [
+   "RI064"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI040",
+  "title": "Hoarwell",
+  "kind": "River of Eriador",
+  "tier": 2,
+  "blurb": "The Mitheithel, a river from the Ettenmoors that flows through the Trollshaws to the Greyflood.",
+  "book": "The Hoarwell, in Elvish Mitheithel, rises in the Ettenmoors in the north of the Misty Mountains. It flows south and west across Eriador. The Bruinen flows into it near the Trollshaws. It joins the Glanduin to form the Gwathló.\n\nIn the Hobbit, Thorin's company crosses it by the Last Bridge. This is an old stone bridge on the Great East Road.\n\nIts name means grey spring. Its water is fast and cold.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Eriador",
+   "Other names": "Mitheithel",
+   "Meaning": "Grey spring",
+   "Flows into": "The Gwathló"
+  },
+  "related": [
+   "RI011",
+   "RI038",
+   "FO033"
+  ],
+  "sources": [
+   "The Hobbit",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI042",
+  "title": "Langwell",
+  "kind": "River of Wilderland",
+  "tier": 3,
+  "blurb": "A northern stream from the Grey Mountains that joins the Greylin to form the Anduin.",
+  "book": "The Langwell is a stream in the north of Wilderland. It meets the Greylin, and together they form the Anduin. It is named in Unfinished Tales.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Wilderland",
+   "Flows into": "Joins Greylin to form Anduin"
+  },
+  "related": [
+   "RI035",
+   "RI003"
+  ],
+  "sources": [
+   "Unfinished Tales"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "RI043",
+  "title": "Lefnui",
+  "kind": "River of Gondor",
+  "tier": 3,
+  "blurb": "A river in the far west of Gondor that runs to the sea.",
+  "book": "The Lefnui flows from the White Mountains to the sea in southwestern Gondor. It reaches the sea west of Anfalas. The name is Elvish and means fifth.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Meaning": "Fifth",
+   "Mouth": "The Great Sea"
+  },
+  "related": [
+   "BA003"
+  ],
+  "sources": [
+   "Unfinished Tales",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "RI045",
+  "title": "Lhûn",
+  "kind": "River of Lindon",
+  "tier": 2,
+  "blurb": "The Lune, the river of the Blue Mountains that ends at the Gulf of Lune and Mithlond.",
+  "book": "The Lhûn, called the Lune, flows from the Ered Luin westward to the Gulf of Lune. It divides the Elvish land of Lindon into two parts. The Grey Havens, called Mithlond, stand at its mouth.\n\nThe Shire lies to the east of it, in Eriador. Frodo and the Elves sail from the Havens at the end of the Third Age. The Elves Círdan and Gil-galad ruled here.\n\nThe Little Lune is a tributary that joins it in the hills.",
+  "film": "The Grey Havens appear in the films as the place of the last departure.",
+  "series": "",
+  "facts": {
+   "Realm": "Lindon",
+   "Other names": "Lune",
+   "Mouth": "Gulf of Lune"
+  },
+  "related": [
+   "RI052",
+   "TO043",
+   "BA012"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue and Appendix A",
+   "The Return of the King, Book VI"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "RI049",
+  "title": "Limlight",
+  "kind": "River near Fangorn",
+  "tier": 3,
+  "blurb": "A river that flows from the Misty Mountains past Fangorn into the Anduin.",
+  "book": "The Limlight flows east from Fangorn Forest to the Anduin. It marks the northern border of Rohan. Celeborn names it when he describes the river journey to the Fellowship.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Northern border of Rohan",
+   "Flows into": "The Anduin"
+  },
+  "related": [
+   "RI085",
+   "FO012",
+   "RI003"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "RI052",
+  "title": "Little Lune",
+  "kind": "River of the Blue Mountains",
+  "tier": 3,
+  "blurb": "A small tributary of the Lune in the Blue Mountains.",
+  "book": "The Little Lune is a minor river in the northern Ered Luin. It joins the Lune. It is marked on maps of the west, and it is named in no story scene.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Eriador",
+   "Flows into": "The Lune"
+  },
+  "related": [
+   "RI045"
+  ],
+  "sources": [
+   "The Lord of the Rings map"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI056",
+  "title": "Morgulduin",
+  "kind": "River of Morgul Vale",
+  "tier": 3,
+  "blurb": "The stream that flows from Minas Morgul through the vale to the Anduin.",
+  "book": "The Morgulduin rises in the Morgul Vale under Minas Morgul. Its water is foul and gives off cold vapours. It runs through the vale and into the Anduin.\n\nFrodo and Sam come near its white bridge, but they turn off before crossing and climb toward Cirith Ungol.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor and Mordor",
+   "Meaning": "Black magic river",
+   "Flows into": "The Anduin"
+  },
+  "related": [
+   "TO064",
+   "RI003"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book IV"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI057",
+  "title": "Morthond",
+  "kind": "River of Gondor",
+  "tier": 2,
+  "blurb": "The Blackroot, a river from the Paths of the Dead that flows through Gondor to the sea.",
+  "book": "The Morthond, or Blackroot, rises in the White Mountains near the Paths of the Dead. It flows south through the Blackroot Vale to the sea near Dol Amroth. The hill of Erech lies near its headwaters.\n\nAragorn's company passes by it with the Dead after leaving the Stone of Erech. The folk of the Blackroot Vale follow Lord Duinhir of Morthond. They fight at the Pelennor.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Other names": "Blackroot",
+   "Meaning": "Black root",
+   "Mouth": "Bay of Belfalas"
+  },
+  "related": [
+   "HI023",
+   "TO026",
+   "RI067"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI062",
+  "title": "Norbourn",
+  "kind": "Stream in the Shire",
+  "tier": 3,
+  "blurb": "A small stream of the Shire named in the map data set.",
+  "book": "This name comes from the map data set. I do not have a confirmed book source for it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire"
+  },
+  "related": [
+   "RI080",
+   "TO050"
+  ],
+  "sources": [
+   "The Lord of the Rings map"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "RI064",
+  "title": "Poros",
+  "kind": "River on Gondor's southern border",
+  "tier": 3,
+  "blurb": "The river that marks the southern border of Gondor against Harad.",
+  "book": "The Poros is a river in southern Gondor. It forms the border between Gondor and Harad in the Third Age. It flows into the Anduin. Its crossings lie on the Harad Road.\n\nIn T.A. 2885 Gondor and Rohan beat the Haradrim at the Crossings of Poros. Fastred and Folcred, sons of King Folcwine of Rohan, fell there.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor and Harad",
+   "Flows into": "The Anduin"
+  },
+  "related": [
+   "FJ009",
+   "RD018",
+   "RI003"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI066",
+  "title": "Rhimdath",
+  "kind": "River of Wilderland",
+  "tier": 3,
+  "blurb": "A river from the Misty Mountains that runs into the Anduin north of the Gladden Fields.",
+  "book": "The Rhimdath, called the Rushdown, flows from the Misty Mountains into the Anduin. Tolkien names it in his later writings, but it plays no part in the main stories.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Wilderland",
+   "Other names": "Rushdown",
+   "Flows into": "The Anduin"
+  },
+  "related": [
+   "RI031",
+   "SW006",
+   "RI003"
+  ],
+  "sources": [
+   "Unfinished Tales"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "RI067",
+  "title": "Ringló",
+  "kind": "River of Gondor",
+  "tier": 3,
+  "blurb": "A river of south-west Gondor that flows into the Morthond.",
+  "book": "The Ringló rises in the White Mountains. It runs through Ringló Vale and joins the Morthond near the coast. The Ciril joins it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Flows into": "The Morthond"
+  },
+  "related": [
+   "RI018",
+   "BA007",
+   "TO017"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI069",
+  "title": "River Running",
+  "kind": "River of Wilderland",
+  "tier": 2,
+  "blurb": "The Celduin, which flows from the Lonely Mountain past Dale and Long Lake to the Sea of Rhûn.",
+  "book": "The River Running rises in the Lonely Mountain. It flows south past Dale and Long Lake and then east to the Sea of Rhûn. Its Sindarin name is Celduin.\n\nThe dwarves of Erebor and the men of Dale and Esgaroth trade on it. In The Hobbit, Bilbo's barrels float down the Forest River to the Long Lake, and the company reaches Lake-town.\n\nThe Forest River and the Carnen flow into it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Wilderland",
+   "Other names": "Celduin",
+   "Mouth": "Sea of Rhûn"
+  },
+  "related": [
+   "RI027",
+   "RI013",
+   "LA009",
+   "LA019",
+   "MT029"
+  ],
+  "sources": [
+   "The Hobbit"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "RI072",
+  "title": "Serni",
+  "kind": "River of Lebennin",
+  "tier": 3,
+  "blurb": "A river of Lebennin in Gondor that runs to the sea.",
+  "book": "The Serni is one of the five rivers of Lebennin. It flows from the White Mountains to the Bay of Belfalas. The Gilrain joins it near the sea. The name means stony.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor (Lebennin)",
+   "Meaning": "Stony",
+   "Mouth": "Bay of Belfalas"
+  },
+  "related": [
+   "RI029",
+   "BA003"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI073",
+  "title": "Shirebourn",
+  "kind": "Stream in the Shire",
+  "tier": 3,
+  "blurb": "A stream in the south of the Shire that runs into the Brandywine.",
+  "book": "The Shirebourn is a small stream in the Southfarthing of the Shire. It flows into the Brandywine. It is named only on maps of the Shire. ",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Flows into": "The Brandywine"
+  },
+  "related": [
+   "RI006",
+   "RI094"
+  ],
+  "sources": [
+   "The Lord of the Rings map"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "RI077",
+  "title": "Sirith",
+  "kind": "River of Lebennin",
+  "tier": 3,
+  "blurb": "A river of Lebennin that flows into the Anduin.",
+  "book": "The Sirith is one of the five rivers of Lebennin. It runs to the Anduin near Pelargir. The Celos joins it. The name means a flowing.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor (Lebennin)",
+   "Meaning": "A flowing",
+   "Flows into": "The Anduin"
+  },
+  "related": [
+   "RI017",
+   "RI003",
+   "TO081"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI017",
+  "title": "Celos",
+  "kind": "River of Lebennin",
+  "tier": 3,
+  "blurb": "A small river of Lebennin in Gondor that joins the Sirith.",
+  "book": "The Celos is a small stream in Lebennin, in the south of Gondor. It joins the Sirith. ",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor (Lebennin)",
+   "Flows into": "The Sirith"
+  },
+  "related": [
+   "RI077"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "RI080",
+  "title": "The Water",
+  "kind": "River of the Shire",
+  "tier": 2,
+  "blurb": "The main river of the central Shire, passing Hobbiton and Bywater.",
+  "book": "The Water is the stream that flows through the Westfarthing. It passes Hobbiton and enters the Bywater Pool. It then runs on to the Brandywine.\n\nIt is the heart of the Hobbiton countryside. Bilbo's home Bag End stands near it.\n\nBywater stands on the pool beside it. In the last chapters the hobbits fight the Battle of Bywater there. Its name is simple. Hobbits call it the Water.",
+  "film": "The Water appears briefly in the film landscape of the Shire.",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Flows into": "The Brandywine"
+  },
+  "related": [
+   "TO050",
+   "TO016",
+   "LA002",
+   "RI006"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I and Book VI",
+   "The Hobbit"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI083",
+  "title": "Withywindle",
+  "kind": "River of the Old Forest",
+  "tier": 2,
+  "blurb": "A winding river through the Old Forest that flows into the Brandywine.",
+  "book": "The Withywindle runs through the Old Forest, and into the Brandywine. It is a dark and slow river. Willows grow on its banks.\n\nOld Man Willow grows on its bank and traps the hobbits. Tom Bombadil comes along the river and saves them. He takes them upstream to his house.\n\nIt joins the Brandywine from the east, south of Buckland.",
+  "film": "The films omit the Old Forest and Tom Bombadil.",
+  "series": "",
+  "facts": {
+   "Realm": "The Old Forest",
+   "Flows into": "The Brandywine"
+  },
+  "related": [
+   "FO023",
+   "RI006",
+   "TO022"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "RI084",
+  "title": "Adorn",
+  "kind": "River of Dunland",
+  "tier": 3,
+  "blurb": "A river on the western border of Rohan that flows into the Isen.",
+  "book": "The Adorn is a western river in the lands near Dunland. It flows into the Isen. It is the boundary of the Rohirrim's western frontier.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan and Dunland",
+   "Flows into": "The Isen"
+  },
+  "related": [
+   "RI086"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A",
+   "Unfinished Tales"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "RI085",
+  "title": "Entwash",
+  "kind": "River of Rohan",
+  "tier": 2,
+  "blurb": "A river that rises in Fangorn and runs through the Eastemnet to the Anduin.",
+  "book": "The Entwash rises in Fangorn Forest. It flows south and east across Rohan, between the Eastemnet and the Westemnet, and then into the Anduin. It breaks into many channels near the end. Its mouth lies in a marsh called the Nindalf, the Wetwang.\n\nThe Snowbourn flows into it from the White Mountains. The Entwade, the ford, lies on its course.\n\nThe Rohirrim ride along it and cross it. It is one of the great rivers of Rohan.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "Other names": "Onodló (Sindarin)",
+   "Flows into": "The Anduin"
+  },
+  "related": [
+   "RI088",
+   "FJ003",
+   "RI003",
+   "FO012"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book III"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "RI086",
+  "title": "Isen",
+  "kind": "River of Rohan",
+  "tier": 2,
+  "blurb": "The river that rises in the Misty Mountains and flows through the Gap of Rohan to the sea.",
+  "book": "The Isen rises in the Misty Mountains near Isengard. It flows through the Gap of Rohan, between the White Mountains and the Misty Mountains. It then runs on to the sea.\n\nIt marks the western border of Rohan. The Fords of Isen are where the Rohirrim and Saruman's armies fight. The Battle of the Fords takes place there.\n\nSaruman's Isengard stands near its source. The Ents dam the river and turn it into Isengard to flood it. Later they let it return to its old bed.",
+  "film": "The Ents flood Isengard. The flooding is a major scene of The Two Towers.",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "Other names": "Sîr Angren",
+   "Meaning": "Iron",
+   "Mouth": "The Great Sea"
+  },
+  "related": [
+   "FJ008",
+   "FT017",
+   "RI084",
+   "DO030"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book III"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "RI087",
+  "title": "Mering Stream",
+  "kind": "Boundary stream of Rohan",
+  "tier": 3,
+  "blurb": "A stream that marks the border between Rohan and Gondor.",
+  "book": "The Mering Stream flows into the Entwash. It is the border between Rohan and Gondor. The Rohirrim cross it on the way to Minas Tirith.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan and Gondor",
+   "Meaning": "Boundary stream",
+   "Flows into": "The Entwash"
+  },
+  "related": [
+   "RI085",
+   "BU085_54"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI088",
+  "title": "Snowbourn",
+  "kind": "River of Rohan",
+  "tier": 2,
+  "blurb": "A river that flows from the White Mountains past Edoras into the Entwash.",
+  "book": "The Snowbourn flows from the snows of the White Mountains past the hill of Edoras. It runs through the valley and into the Entwash.\n\nBelow Edoras it runs through the Rohirric lands. The valley of Harrowdale and the Dunharrow road lie near it. It is named in the story of the ride to Dunharrow.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "Flows into": "The Entwash"
+  },
+  "related": [
+   "TO029",
+   "RI085",
+   "VA008"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book III"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI089",
+  "title": "Deeping-stream",
+  "kind": "Stream of Helm's Deep",
+  "tier": 3,
+  "blurb": "The stream that runs from the Deeping Coomb past Helm's Deep.",
+  "book": "The Deeping-stream flows from the Deeping Coomb below Helm's Deep. It runs through the gorge past the Hornburg and out into the vale. The Battle of the Hornburg takes place beside it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "Flows": "From Helm's Deep"
+  },
+  "related": [
+   "FT014",
+   "WA004"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book III"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI092",
+  "title": "Sirannon",
+  "kind": "Gate Stream of Moria",
+  "tier": 2,
+  "blurb": "The Gate Stream, which runs from the West-gate of Moria and joins the Glanduin.",
+  "book": "The Sirannon, called the Gate Stream, flows past the West-gate of Moria. The Doors of Durin stand beside it. It is dammed before the War of the Ring. The dam creates a still dark lake.\n\nThe Fellowship comes to the lake by the Gate. The Watcher in the Water lives in it. Its tentacles seize Frodo and the Fellowship runs into Moria.\n\nThe stream then continues down into the Glanduin.",
+  "film": "The film shows the lake and the Watcher in front of the Doors.",
+  "series": "",
+  "facts": {
+   "Realm": "Eregion",
+   "Meaning": "Gate Stream",
+   "Flows into": "The Glanduin"
+  },
+  "related": [
+   "RI032",
+   "TO066"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "RI093",
+  "title": "Stock-brook",
+  "kind": "Stream in the Shire",
+  "tier": 3,
+  "blurb": "The brook that runs through the village of Stock into the Brandywine.",
+  "book": "The Stock-brook runs through the village of Stock in the Eastfarthing of the Shire. It flows into the Brandywine. It is named only on maps of the Shire.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Flows into": "The Brandywine"
+  },
+  "related": [
+   "TO091",
+   "RI006"
+  ],
+  "sources": [
+   "The Lord of the Rings map"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI094",
+  "title": "Thistle Brook",
+  "kind": "Stream in the Shire",
+  "tier": 3,
+  "blurb": "A small stream of the Shire that flows into the Shirebourn.",
+  "book": "The Thistle Brook is a small stream in the south of the Shire. It flows into the Shirebourn. It appears only on maps of the Shire and has no part in the story.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Flows into": "The Shirebourn"
+  },
+  "related": [
+   "RI073"
+  ],
+  "sources": [
+   "The Lord of the Rings map"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "RI027",
+  "title": "Forest River",
+  "kind": "River of Mirkwood",
+  "tier": 2,
+  "blurb": "The river that flows past the halls of the Elvenking and out of Mirkwood to the Long Lake.",
+  "book": "The Forest River runs past the Elvenking's halls in Mirkwood and out of the forest to the Long Lake. The Enchanted River flows into it.\n\nIn the Hobbit, Bilbo and the dwarves escape from the Elvenking's cells in barrels. They float down the Forest River to Lake-town. The barrels pass out through a water-gate under the Elvenking's halls, then float on. The dwarves come close to drowning.",
+  "film": "The barrel escape is shown as a chase with orcs and elves on the river.",
+  "series": "",
+  "facts": {
+   "Realm": "Mirkwood",
+   "Flows into": "Long Lake"
+  },
+  "related": [
+   "RI022",
+   "RI069",
+   "LA009"
+  ],
+  "sources": [
+   "The Hobbit"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "RI031",
+  "title": "Gladden River",
+  "kind": "River of the Gladden Fields",
+  "tier": 3,
+  "blurb": "A river from the Misty Mountains that flows into the Anduin at the Gladden Fields.",
+  "book": "The Gladden River flows from the Misty Mountains into the Anduin. Its mouth forms the marshes of the Gladden Fields, where Isildur was killed. The One Ring was lost in the Anduin there.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Wilderland",
+   "Flows into": "The Anduin",
+   "Other names": "Sîr Ninglor"
+  },
+  "related": [
+   "SW006",
+   "RI003",
+   "RI066"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II",
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ }
+]

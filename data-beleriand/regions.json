@@ -1,0 +1,272 @@
+[
+ {
+  "id": "RG01",
+  "title": "Hithlum",
+  "type": "realm",
+  "tier": 1,
+  "x": 500,
+  "y": 975,
+  "radius_km": 110,
+  "hint": ""
+ },
+ {
+  "id": "RG02",
+  "title": "Dor-lómin",
+  "type": "region",
+  "tier": 2,
+  "x": 462,
+  "y": 842,
+  "radius_km": 40,
+  "hint": ""
+ },
+ {
+  "id": "RG03",
+  "title": "Mithrim",
+  "type": "region",
+  "tier": 2,
+  "x": 548,
+  "y": 900,
+  "radius_km": 40,
+  "hint": ""
+ },
+ {
+  "id": "RG04",
+  "title": "Nevrast",
+  "type": "realm",
+  "tier": 2,
+  "x": 332,
+  "y": 845,
+  "radius_km": 55,
+  "hint": ""
+ },
+ {
+  "id": "RG05",
+  "title": "The Falas",
+  "type": "realm",
+  "tier": 1,
+  "x": 322,
+  "y": 560,
+  "radius_km": 80,
+  "hint": ""
+ },
+ {
+  "id": "RG06",
+  "title": "Realm of Nargothrond",
+  "type": "realm",
+  "tier": 1,
+  "x": 545,
+  "y": 528,
+  "radius_km": 110,
+  "hint": "label sits east of the Narog; the realm reaches from the Falas border to Sirion"
+ },
+ {
+  "id": "RG07",
+  "title": "Doriath",
+  "type": "realm",
+  "tier": 1,
+  "x": 762,
+  "y": 572,
+  "radius_km": 110,
+  "hint": ""
+ },
+ {
+  "id": "RG08",
+  "title": "Land of the Haladin",
+  "type": "region",
+  "tier": 3,
+  "x": 613,
+  "y": 682,
+  "radius_km": 35,
+  "hint": "Brethil"
+ },
+ {
+  "id": "RG09",
+  "title": "Dimbar",
+  "type": "region",
+  "tier": 3,
+  "x": 680,
+  "y": 697,
+  "radius_km": 22,
+  "hint": ""
+ },
+ {
+  "id": "RG10",
+  "title": "Nan Dungortheb",
+  "type": "region",
+  "tier": 2,
+  "x": 812,
+  "y": 738,
+  "radius_km": 55,
+  "hint": ""
+ },
+ {
+  "id": "RG11",
+  "title": "Dorthonion",
+  "type": "realm",
+  "tier": 1,
+  "x": 815,
+  "y": 848,
+  "radius_km": 140,
+  "hint": "later Taur-nu-Fuin"
+ },
+ {
+  "id": "RG12",
+  "title": "Himlad",
+  "type": "region",
+  "tier": 2,
+  "x": 948,
+  "y": 748,
+  "radius_km": 25,
+  "hint": ""
+ },
+ {
+  "id": "RG13",
+  "title": "March of Maedhros",
+  "type": "realm",
+  "tier": 2,
+  "x": 1045,
+  "y": 872,
+  "radius_km": 80,
+  "hint": "the hills about Himring held by Maedhros"
+ },
+ {
+  "id": "RG14",
+  "title": "Lothlann",
+  "type": "region",
+  "tier": 2,
+  "x": 1110,
+  "y": 965,
+  "radius_km": 90,
+  "hint": ""
+ },
+ {
+  "id": "RG15",
+  "title": "Thargelion",
+  "type": "realm",
+  "tier": 1,
+  "x": 1170,
+  "y": 690,
+  "radius_km": 70,
+  "hint": "Dor Caranthir"
+ },
+ {
+  "id": "RG16",
+  "title": "Ossiriand",
+  "type": "realm",
+  "tier": 1,
+  "x": 1170,
+  "y": 392,
+  "radius_km": 110,
+  "hint": ""
+ },
+ {
+  "id": "RG17",
+  "title": "Estolad",
+  "type": "region",
+  "tier": 2,
+  "x": 982,
+  "y": 572,
+  "radius_km": 55,
+  "hint": ""
+ },
+ {
+  "id": "RG18",
+  "title": "East Beleriand",
+  "type": "region",
+  "tier": 1,
+  "x": 885,
+  "y": 492,
+  "radius_km": 150,
+  "hint": ""
+ },
+ {
+  "id": "RG19",
+  "title": "West Beleriand",
+  "type": "region",
+  "tier": 1,
+  "x": 405,
+  "y": 455,
+  "radius_km": 150,
+  "hint": ""
+ },
+ {
+  "id": "RG20",
+  "title": "Anfauglith",
+  "type": "region",
+  "tier": 1,
+  "x": 800,
+  "y": 1105,
+  "radius_km": 220,
+  "hint": "Ard-galen before the Dagor Bragollach"
+ },
+ {
+  "id": "RG21",
+  "title": "Dor Daedeloth",
+  "type": "region",
+  "tier": 2,
+  "x": 772,
+  "y": 1285,
+  "radius_km": 60,
+  "hint": ""
+ },
+ {
+  "id": "RG22",
+  "title": "Arvernien",
+  "type": "region",
+  "tier": 2,
+  "x": 545,
+  "y": 266,
+  "radius_km": 50,
+  "hint": ""
+ },
+ {
+  "id": "RG23",
+  "title": "Lammoth",
+  "type": "region",
+  "tier": 2,
+  "x": 318,
+  "y": 1012,
+  "radius_km": 60,
+  "hint": ""
+ },
+ {
+  "id": "RG24",
+  "title": "Talath Dirnen",
+  "type": "region",
+  "tier": 2,
+  "x": 542,
+  "y": 642,
+  "radius_km": 45,
+  "hint": ""
+ },
+ {
+  "id": "RG25",
+  "title": "Ladros",
+  "type": "region",
+  "tier": 3,
+  "x": 920,
+  "y": 866,
+  "radius_km": 30,
+  "hint": ""
+ },
+ {
+  "id": "RG27",
+  "title": "Dor Dínen",
+  "type": "region",
+  "tier": 3,
+  "x": 866,
+  "y": 738,
+  "radius_km": 25,
+  "hint": ""
+ },
+ {
+  "id": "RG26",
+  "title": "Hidden Realm of Gondolin",
+  "type": "realm",
+  "tier": 2,
+  "x": 708,
+  "y": 760,
+  "radius_km": 40,
+  "hint": "Tumladen inside the Encircling Mountains"
+ }
+]

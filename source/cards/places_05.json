@@ -1,0 +1,1123 @@
+[
+{
+"id": "FT004",
+"title": "Barad-dûr",
+"kind": "Dark Tower of Sauron",
+"tier": 1,
+"blurb": "The vast fortress of Sauron in Mordor, whose Eye watches all Middle-earth.",
+"book": "Barad-dûr, the Dark Tower, stands in Mordor on a high spur of the Ered Lithui, north of Mount Doom. Sauron began to build it in the Second Age, around S.A. 1000, and finished it about S.A. 1600, when he forged the One Ring. The tower held the Ring's power, and it could not fall while the Ring survived.\n\nAfter the Last Alliance defeated Sauron, the tower lay in ruins. He returned to Mordor in T.A. 2942 and openly rebuilt it. Orcs, Nazgûl, and other servants gathered there. From its summit Sauron's Eye searched for the Ring and for Frodo.\n\nIn the War of the Ring, Sauron sent his armies from Barad-dûr against Gondor and Rohan. Frodo and Sam never enter the tower, but they see it from the slopes of Mordor. When Gollum took the Ring into the fires of Mount Doom on 25 March T.A. 3019, the tower collapsed and Sauron's power ended.",
+"film": "The films show Barad-dûr as a black tower with a spiked crown, topped by a burning Eye that sweeps over the land. It also appears in the prologue, where Sauron fights on the slopes below. It crumbles as the Ring is destroyed.",
+"series": "",
+"facts": {
+"Realm": "Mordor",
+"Built by": "Sauron",
+"Other names": "Dark Tower; Lugbúrz",
+"Fate": "Fell when the Ring was destroyed, T.A. 3019"
+},
+"related": [
+"MT036",
+"FI025",
+"RD047",
+"FT005"
+],
+"sources": [
+"The Lord of the Rings, Book VI",
+"The Lord of the Rings, Appendix B",
+"The Silmarillion, Of the Rings of Power"
+],
+"confidence": "high"
+},
+{
+"id": "FT005",
+"title": "Black Gate",
+"kind": "Gate of Mordor",
+"tier": 1,
+"blurb": "The Morannon, the great iron gate guarding the northern entrance to Mordor.",
+"book": "The Black Gate, called the Morannon, closes the pass of Cirith Gorgor between the Ephel Dúath and the Ered Lithui. Gondor built it after the Last Alliance, to keep watch over Mordor. Two towers, Narchost and Carchost, stand on either side. Gondor later lost the guard, and Sauron took the gate back after he returned to Mordor.\n\nThe gate is the main way into Mordor from the north. Frodo and Sam come to it, but Gollum tells them that it is hopeless to try to enter there. They turn south instead toward Cirith Ungol.\n\nOn 25 March T.A. 3019, the army of the West marches to the Black Gate to draw Sauron's attention. Aragorn's captains stand before it. The gate opens, and the Mouth of Sauron comes out to speak with them. Then a great Mordor host attacks. The fall of Sauron ends the battle.",
+"film": "The films show the Black Gate as a huge fortified door in a rocky valley. Aragorn gives a speech before it, and the Mouth of Sauron appears in the extended version. Frodo and Sam also look at it from a distance.",
+"series": "",
+"facts": {
+"Realm": "Mordor",
+"Built by": "Gondorians, after the Last Alliance",
+"Other names": "Morannon",
+"Fate": "Fell with Sauron's defeat, T.A. 3019"
+},
+"related": [
+"FT006",
+"FT021",
+"VA031",
+"FI004"
+],
+"sources": [
+"The Lord of the Rings, Book IV",
+"The Lord of the Rings, Book VI"
+],
+"confidence": "high"
+},
+{
+"id": "FT006",
+"title": "Carchost",
+"kind": "Tower of the Teeth",
+"tier": 3,
+"blurb": "One of the two Teeth towers that stand beside the Black Gate.",
+"book": "Carchost is one of the two towers called the Towers of the Teeth. They stand on either side of the Morannon, at the entrance to Mordor. Gondor built them after Sauron's defeat to guard the pass. Sauron later seized them, and Orcs held them during the War of the Ring.",
+"film": "",
+"series": "",
+"facts": {
+"Realm": "Mordor",
+"Paired with": "Narchost",
+"Built by": "Gondorians"
+},
+"related": [
+"FT021",
+"FT005"
+],
+"sources": [
+"The Lord of the Rings, Book IV",
+"The Lord of the Rings, Appendix A"
+],
+"confidence": "high"
+},
+{
+"id": "FT008",
+"title": "Dol Guldur",
+"kind": "Fortress in southern Mirkwood",
+"tier": 1,
+"blurb": "The stronghold of the Necromancer, Sauron in hiding, on a hill in southern Mirkwood.",
+"book": "Dol Guldur rises on a stony hill in the southern part of Mirkwood. The hill was once called Amon Lanc. Around T.A. 1050, a shadow fell on the forest, and the name Dol Guldur came into use later. An evil power, called the Necromancer, settled there. Gandalf suspected that the Necromancer was Sauron.\n\nIn T.A. 2850, Gandalf entered the fortress and found the dying dwarf Thráin, who gave him the map and key of Erebor. The White Council attacked the fortress in T.A. 2941 and drove Sauron out. He retreated to Mordor.\n\nSauron returned openly to Dol Guldur in T.A. 2951 and used it as a base. Khamûl, the second of the Nazgûl, ruled it for him. In March T.A. 3019, armies from Lothlórien attacked it three times. Galadriel threw down its walls, and Celeborn cleansed the forest.",
+"film": "The Hobbit films show Dol Guldur as a ruined, misty fortress. In the films, Gandalf is captured there and the White Council attacks it to free him.",
+"series": "",
+"facts": {
+"Realm": "Mirkwood (southern)",
+"People": "Sauron; Khamûl; Orcs",
+"Other names": "Amon Lanc; Hill of Sorcery",
+"Fate": "Razed by Lothlórien, T.A. 3019"
+},
+"related": [
+"FO018",
+"FO017",
+"TO031"
+],
+"sources": [
+"The Hobbit",
+"The Lord of the Rings, Appendix B",
+"Unfinished Tales"
+],
+"confidence": "high"
+},
+{
+"id": "FT009",
+"title": "Dunharrow",
+"kind": "Refuge fortress of Rohan",
+"tier": 2,
+"blurb": "An ancient mountain refuge of Rohan, where the Riders gather before the ride to Gondor.",
+"book": "Dunharrow is a refuge high on the northern side of the White Mountains, above Harrowdale. A winding road, with ancient carved stones along it, climbs to a wide upland meadow. The place is older than Rohan. Its builders are unknown, and the Rohirrim feared it. The road leads towards the Dwimorberg, the haunted mountain.\n\nIn T.A. 3019, Théoden brings the Rohirrim to Dunharrow after the Battle of the Hornburg. Aragorn arrives there as well, with the Grey Company, and decides to take the Paths of the Dead. Éowyn is left behind, and she rides out in secret with Merry.",
+"film": "The films show Dunharrow as a vast stone camp, carved into the mountainside, where Rohan gathers. Aragorn goes from there into the Paths of the Dead.",
+"series": "",
+"facts": {
+"Realm": "Rohan",
+"People": "Rohirrim",
+"Other names": "Dúnharg",
+"Location": "Harrowdale, White Mountains"
+},
+"related": [
+"DO007",
+"VA008",
+"VA040",
+"TO029"
+],
+"sources": [
+"The Lord of the Rings, Book V"
+],
+"confidence": "high"
+},
+{
+"id": "FT010",
+"title": "Durthang",
+"kind": "Fortress of Mordor",
+"tier": 3,
+"blurb": "A former Gondorian castle in the Ephel Dúath, later held by Orcs of Sauron.",
+"book": "Durthang is a castle in the northern Ephel Dúath, on the edge of Mordor. Gondor built it to watch the land. Later it fell to Sauron, and Orcs held it. It appears only briefly in the books.",
+"film": "",
+"series": "",
+"facts": {
+"Realm": "Mordor",
+"Built by": "Gondorians",
+"People": "Orcs (later)"
+},
+"related": [
+"VA030",
+"FT005"
+],
+"sources": [
+"The Lord of the Rings, Appendix A",
+"Unfinished Tales"
+],
+"confidence": "medium"
+},
+{
+"id": "FT014",
+"title": "Helm's Deep",
+"kind": "Fortress and refuge of Rohan",
+"tier": 1,
+"blurb": "A defended gorge in the White Mountains where Rohan makes its stand against Saruman.",
+"book": "Helm's Deep is a great gorge in the western White Mountains, in the valley called the Deeping-coomb. The Hornburg, a tower fortress, stands at its mouth. A great wall, the Deeping Wall, crosses the gorge in front of it. Behind lie caves, where people take refuge.\n\nThe place is named for Helm Hammerhand, a king of Rohan. In the Long Winter of T.A. 2758 to 2759, he sheltered there during the Dunlending invasion. He died in the cold, and his horn is said to echo in the gorge.\n\nIn T.A. 3019, Théoden takes his people to Helm's Deep. Saruman sends an army of Uruk-hai and Dunlendings against it. Aragorn, Legolas, and Gimli fight beside the Rohirrim. The Orcs break the wall with fire. At dawn, Gandalf arrives with Erkenbrand's men and the Huorns, and the attackers are destroyed.",
+"film": "The films show Helm's Deep as a huge fortress carved into the cliffs. Elves from Lothlórien arrive to help, and a large Uruk-hai army attacks. Gandalf and Éomer's riders arrive at dawn.",
+"series": "",
+"facts": {
+"Realm": "Rohan",
+"Named for": "Helm Hammerhand",
+"Defences": "Hornburg; Deeping Wall",
+"Event": "Battle of the Hornburg, T.A. 3019"
+},
+"related": [
+"FT016",
+"WA002",
+"VA003",
+"RI089",
+"DO032"
+],
+"sources": [
+"The Lord of the Rings, Book III",
+"The Lord of the Rings, Appendix A"
+],
+"confidence": "high"
+},
+{
+"id": "FT016",
+"title": "Hornburg",
+"kind": "Fortress of Rohan",
+"tier": 2,
+"blurb": "The tower fortress that guards the mouth of Helm's Deep in Rohan.",
+"book": "The Hornburg is a tall stone tower on a spur of rock at the mouth of Helm's Deep. A walled court lies below it. The Deeping Wall runs from it across the gorge. It is said that Gondor built it long ago. The Rohirrim later held it as one of their strongest places.\n\nThe tower takes its name from the sound of a horn within the tower, which was supposed to sound in the gorge. This is linked to King Helm.\n\nIn T.A. 3019, Théoden and his people shelter there. Saruman's army attacks the wall and the gate. In the end, the Orcs break through.",
+"film": "The film shows the Hornburg as a central stone keep inside a much larger fortress. Its great gate is broken during the night attack.",
+"series": "",
+"facts": {
+"Realm": "Rohan",
+"Built by": "Gondorians (originally)",
+"Other names": "Súthburg (old)",
+"Event": "Battle of the Hornburg, T.A. 3019"
+},
+"related": [
+"FT014",
+"WA002",
+"WA004",
+"DO032"
+],
+"sources": [
+"The Lord of the Rings, Book III",
+"The Lord of the Rings, Appendix A"
+],
+"confidence": "medium"
+},
+{
+"id": "FT017",
+"title": "Isengard",
+"kind": "Fortress of Saruman",
+"tier": 1,
+"blurb": "The ring-shaped fortress around Orthanc, where Saruman built his army.",
+"book": "Isengard, or Angrenost, is a great ring of stone in Nan Curunír, at the southern end of the Misty Mountains. In the middle stands Orthanc, a black tower of smooth stone that Númenórean builders made. Gondor held it at first. In T.A. 2759, the Steward gave it to Saruman, who settled there and became its master.\n\nSaruman turned Isengard into a place of mines and furnaces. He cut down trees from Fangorn Forest to feed them. He kept a palantír in Orthanc and gathered Orcs, Uruk-hai, and Dunlendings there. He also held Gríma Wormtongue as his servant.\n\nIn T.A. 3019, the Ents march on Isengard, break the walls, and flood the ring with the river Isen. Saruman remains trapped in Orthanc. Gandalf, Théoden, and Aragorn's allies meet there afterward. Saruman is later released and killed in the Shire.",
+"film": "The films show Isengard as a vast pit of forges and an Uruk-hai breeding pit, around the tower Orthanc. The Ents flood it. Gandalf is held prisoner on the top of the tower.",
+"series": "",
+"facts": {
+"Realm": "Rohan (Saruman's domain)",
+"Other names": "Angrenost; Iron Fortress",
+"Ruler": "Saruman, T.A. 2759 to 3019",
+"Fate": "Flooded by the Ents, T.A. 3019"
+},
+"related": [
+"BU021",
+"DO017",
+"VA014",
+"WA007",
+"FO012"
+],
+"sources": [
+"The Lord of the Rings, Book III",
+"The Lord of the Rings, Appendix A"
+],
+"confidence": "high"
+},
+{
+"id": "FT021",
+"title": "Narchost",
+"kind": "Tower of the Teeth",
+"tier": 3,
+"blurb": "One of the two Teeth towers that stand beside the Black Gate.",
+"book": "Narchost is one of the two Towers of the Teeth, which stand on either side of the Black Gate. Gondor built them to guard Mordor's entrance. Sauron later took them over, and his forces held them during the War of the Ring. Its twin is Carchost.",
+"film": "",
+"series": "",
+"facts": {
+"Realm": "Mordor",
+"Paired with": "Carchost",
+"Built by": "Gondorians"
+},
+"related": [
+"FT006",
+"FT005"
+],
+"sources": [
+"The Lord of the Rings, Book IV",
+"The Lord of the Rings, Appendix A"
+],
+"confidence": "high"
+},
+{
+"id": "FT025",
+"title": "Tower of Cirith Ungol",
+"kind": "Orc tower in Mordor",
+"tier": 1,
+"blurb": "The watch tower at the pass of Cirith Ungol, where Frodo is taken captive.",
+"book": "The Tower of Cirith Ungol stands at the top of the pass of Cirith Ungol, on the western edge of Mordor. Gondor and its allies built it after the Last Alliance, to watch Mordor. Later it became a guard post for Sauron's Orcs. Its purpose was to keep people out of Mordor, and to keep anything inside from slipping out.\n\nBelow the pass lies the lair of Shelob, the great spider. Gollum leads Frodo and Sam there. Shelob stings Frodo, and Sam, believing him dead, takes the Ring. Orcs carry Frodo's body into the tower.\n\nGorbag's and Shagrat's Orcs quarrel and kill each other. Sam enters the tower, finds Frodo, and returns the Ring. The two hobbits escape past the watchers, using the power of the Phial of Galadriel.",
+"film": "The films show a tall, dark tower, with a dramatic winding stair leading up to it. Frodo is held in the tower and Sam is not shown fighting through the Orcs.",
+"series": "",
+"facts": {
+"Realm": "Mordor",
+"Built by": "Gondorians and allies",
+"Other names": "Spider's Cleft",
+"People": "Orcs of Sauron",
+"Event": "Frodo's capture, T.A. 3019"
+},
+"related": [
+"VA034",
+"DO036",
+"TO064",
+"MT014"
+],
+"sources": [
+"The Lord of the Rings, Book IV",
+"The Lord of the Rings, Book VI"
+],
+"confidence": "high"
+},
+{
+"id": "HA008",
+"title": "Grindwall",
+"kind": "Landing place",
+"tier": 3,
+"blurb": "A landing place on the map data set, near Buckland.",
+"book": "This name comes from the map data set. I do not have a confirmed book source for it.",
+"film": "",
+"series": "",
+"facts": {
+"Realm": "Arnor (per data set)"
+},
+"related": [],
+"sources": [
+"Map data set"
+],
+"confidence": "low"
+},
+{
+"id": "HA012",
+"title": "Mithe Steps",
+"kind": "Landing place",
+"tier": 3,
+"blurb": "A landing place on the map data set, near the Brandywine.",
+"book": "This name comes from the map data set. I do not have a confirmed book source for it.",
+"film": "",
+"series": "",
+"facts": {
+"Realm": "The Shire (per data set)"
+},
+"related": [],
+"sources": [
+"Map data set"
+],
+"confidence": "low"
+},
+{
+"id": "DO002",
+"title": "Argonath",
+"kind": "Great statues on the Anduin",
+"tier": 1,
+"blurb": "Two colossal statues of Isildur and Anárion guard the northern gate of Gondor.",
+"book": "The Argonath, or Pillars of the Kings, are two huge stone figures that rise from the Anduin at the northern edge of Gondor. They show Isildur and Anárion, the sons of Elendil who founded Gondor. Each figure holds up one hand in warning and carries an axe in the other. Rómendacil II ordered them to be carved, long after the founders' time.\n\nThey stand at the entrance to the gorge of Nen Hithoel, just below the Emyn Muil. The statues mark the boundary of Gondor and warned strangers away. By the time of the War of the Ring, the land beyond them was empty and unguarded.\n\nThe Fellowship passes between the Pillars on its journey down the Great River. Aragorn, who descends from Isildur, looks upon his ancestors with awe. They then reach the lake and the falls of Rauros. The Fellowship breaks soon afterward.",
+"film": "The films show the Argonath as enormous, dramatic figures, much larger than in the book. Aragorn gazes up at his ancestor Isildur as the boats go by.",
+"series": "",
+"facts": {
+"Realm": "Gondor",
+"People": "Statues of Isildur and Anárion",
+"Built by": "Order of Rómendacil II",
+"Other names": "Pillars of the Kings; Gates of Gondor"
+},
+"related": [
+"LA013",
+"FA007",
+"HI022",
+"RI003",
+"HI004"
+],
+"sources": [
+"The Lord of the Rings, Book II",
+"The Lord of the Rings, Appendix A"
+],
+"confidence": "high"
+},
+{
+"id": "DO003",
+"title": "Back Door",
+"kind": "Secret door of Erebor",
+"tier": 2,
+"blurb": "The hidden side door into the Lonely Mountain that Bilbo and the dwarves find.",
+"book": "The Back Door is a secret door in the western side of the Lonely Mountain, which Thorin's company is seeking. It is hidden in the rock, with a narrow path leading up to it. Dwarves made it long before Smaug came, and almost no one remembered it.\n\nThorin's map includes moon-letters, which explain how to find it. The company searches for days. Then, on Durin's Day, a thrush knocks a snail on the stone, and the setting sun lights the keyhole. Thorin turns the key, and the door opens.\n\nBilbo goes in alone and creeps down the tunnel. He steals a cup from the hoard, and Smaug notices the theft.",
+"film": "The Hobbit films show a hidden door in the mountainside. The key turns in the lock only when the last light of Durin's Day falls on it.",
+"series": "",
+"facts": {
+"Realm": "Erebor",
+"Built by": "Dwarves",
+"Other names": "Secret Door",
+"Found": "Durin's Day, with Thorin's key"
+},
+"related": [
+"MT029",
+"DO014",
+"TO024"
+],
+"sources": [
+"The Hobbit"
+],
+"confidence": "high"
+},
+{
+"id": "DO005",
+"title": "Buckland Gate",
+"kind": "Gate of the High Hay",
+"tier": 3,
+"blurb": "The main gate of Buckland, kept shut at night against the Old Forest.",
+"book": "The Buckland Gate, also called the Hay Gate, is where the road from the Brandywine Bridge enters Buckland through the High Hay. The Bucklanders kept it locked at night. They guarded against the dangers of the Old Forest, which lay beyond the hedge.",
+"film": "",
+"series": "",
+"facts": {
+"Realm": "The Shire (Buckland)",
+"Other names": "Hay Gate; North Gate",
+"People": "Hobbits of Buckland"
+},
+"related": [
+"BR001",
+"TO014",
+"FO023"
+],
+"sources": [
+"The Lord of the Rings, Book I"
+],
+"confidence": "medium"
+},
+{
+"id": "DO006",
+"title": "Causeway Forts",
+"kind": "Gondorian forts",
+"tier": 3,
+"blurb": "Forts on the road to Minas Tirith, held by Gondor against the army of Mordor.",
+"book": "The Causeway Forts guard the road across the Pelennor from Osgiliath to Minas Tirith. Gondor built them with the Rammas Echor, the great outer wall. In T.A. 3019, Faramir's men retreat to them after Osgiliath falls. Mordor's armies overrun them during the siege.",
+"film": "",
+"series": "",
+"facts": {
+"Realm": "Gondor",
+"Built by": "Gondorians",
+"Location": "Pelennor road"
+},
+"related": [
+"WA006",
+"FI024",
+"TO078"
+],
+"sources": [
+"The Lord of the Rings, Book V"
+],
+"confidence": "medium"
+},
+{
+"id": "DO007",
+"title": "Dark Door",
+"kind": "Entrance to the Paths of the Dead",
+"tier": 2,
+"blurb": "The black doorway under Dwimorberg that leads into the Paths of the Dead.",
+"book": "The Dark Door is the entrance to the Paths of the Dead. It opens in the side of the Dwimorberg, the haunted mountain above Dunharrow. A great black arch stands over it, and a huge standing stone lies before it. The Rohirrim feared the place and would not go near.\n\nInside the mountain lie the Oathbreakers, the dead men of the White Mountains. They swore to help Isildur against Sauron and then broke their oath. Isildur cursed them to remain until they fulfilled their pledge.\n\nIn T.A. 3019, Aragorn takes the Dark Door with Legolas, Gimli, and the Grey Company. He leads them through the mountain to Erech.",
+"film": "The films show the Dark Door as a huge entrance high above Dunharrow. Aragorn passes through it alone with Legolas and Gimli, and then the Army of the Dead helps win the battle at Minas Tirith.",
+"series": "",
+"facts": {
+"Realm": "Domain of the King of the Dead",
+"Location": "Dwimorberg, above Dunharrow",
+"Other names": "Forbidden Door; Gates of the Dead"
+},
+"related": [
+"VA040",
+"RD030",
+"FT009",
+"HI023",
+"VA005"
+],
+"sources": [
+"The Lord of the Rings, Book V"
+],
+"confidence": "high"
+},
+{
+"id": "DO009",
+"title": "Doors of Durin",
+"kind": "West gate of Moria",
+"tier": 1,
+"blurb": "The hidden elven-made west gate of Moria, opened with a word of friendship.",
+"book": "The Doors of Durin are the western entrance to Khazad-dûm. They stand at the end of a short road beside a dark lake, under a cliff. Celebrimbor of Eregion and Narvi the dwarf made them in friendship between Elves and Dwarves. The doors are made of ithildin, which shines only in starlight or moonlight, so they look like plain stone in daylight.\n\nIn T.A. 3019, the Fellowship comes there after failing to cross the Redhorn Pass. Gandalf reads the elvish words on the door. He tries many spells before he understands that the password is the elvish word for friend.\n\nThe Watcher in the Water seizes Frodo as the Company enters. The Fellowship hurries inside, and the creature breaks the door behind them. They must go on through Moria in the dark.",
+"film": "The films show the doors as a glowing arch within a cliff. Gandalf reads the riddle on the gate. A many-armed beast attacks the Company and blocks the way back.",
+"series": "",
+"facts": {
+"Realm": "Khazad-dûm",
+"Built by": "Celebrimbor and Narvi",
+"Other names": "West-gate of Moria; Elven Door",
+"Password": "Mellon"
+},
+"related": [
+"TO066",
+"DO031",
+"MT034",
+"MT006"
+],
+"sources": [
+"The Lord of the Rings, Book II"
+],
+"confidence": "high"
+},
+{
+"id": "DO011",
+"title": "Fen Hollen",
+"kind": "Closed Door of Minas Tirith",
+"tier": 3,
+"blurb": "The shut door at the back of Minas Tirith leading to the tombs.",
+"book": "Fen Hollen, the Closed Door, is a gate in the sixth circle of Minas Tirith. It leads to the Silent Street and the tombs of the Kings and Stewards. A porter keeps it, and it opens only for funerals or by the Steward's leave. Denethor passes through it on his last night.",
+"film": "",
+"series": "",
+"facts": {
+"Realm": "Gondor",
+"Other names": "Closed Door; Steward's Door",
+"Keeper": "A porter"
+},
+"related": [
+"TO065",
+"DO030"
+],
+"sources": [
+"The Lord of the Rings, Book V"
+],
+"confidence": "high"
+},
+{
+"id": "DO012",
+"title": "Forannest",
+"kind": "North entrance in Gondor",
+"tier": 3,
+"blurb": "A gate in Gondor named in the map data set.",
+"book": "This name comes from the map data set. I do not have a confirmed book source for it.",
+"film": "",
+"series": "",
+"facts": {
+"Realm": "Gondor (per data set)"
+},
+"related": [],
+"sources": [
+"Map data set"
+],
+"confidence": "low"
+},
+{
+"id": "DO013",
+"title": "Forest Gate",
+"kind": "Western entrance to Mirkwood",
+"tier": 3,
+"blurb": "The place where the path from Beorn's land enters Mirkwood.",
+"book": "The Forest Gate marks the place where the path from Beorn's country enters Mirkwood. Beorn leads Thorin's company to it and then tells them not to leave the path. The company sends back the borrowed ponies and goes in on foot.",
+"film": "",
+"series": "",
+"facts": {
+"Realm": "Mirkwood",
+"Location": "West edge of the forest"
+},
+"related": [
+"FO018",
+"BU031",
+"RD026"
+],
+"sources": [
+"The Hobbit"
+],
+"confidence": "medium"
+},
+{
+"id": "DO014",
+"title": "Front Gate",
+"kind": "Gate of Erebor",
+"tier": 2,
+"blurb": "The main gate of the dwarf-halls of the Lonely Mountain, above the river.",
+"book": "The Front Gate is the main entrance to Erebor, the Lonely Mountain. It faces south, and the Running River flows from it. The Dwarves of Durin's folk built it as the great door of their kingdom. A wide road led from it down to the town of Dale.\n\nSmaug destroyed the gate when he took the mountain. He then lay inside with the treasure. For many years, the Front Gate stood broken and unguarded.\n\nWhen Thorin's company comes, they use the hidden Back Door, not the Front Gate. After Smaug dies, Thorin shuts and walls up the Front Gate against the men and Elves who claim part of the treasure.",
+"film": "The Hobbit films show the Front Gate as huge stone doors with carved Dwarf kings on each side. Smaug's attack on it, and the later rebuilding, are shown at length.",
+"series": "",
+"facts": {
+"Realm": "Erebor",
+"Built by": "Dwarves",
+"Other names": "Gate of Erebor",
+"Fate": "Broken by Smaug; later rebuilt"
+},
+"related": [
+"DO003",
+"MT029",
+"TO024",
+"RI027"
+],
+"sources": [
+"The Hobbit",
+"The Lord of the Rings, Appendix A"
+],
+"confidence": "medium"
+},
+{
+"id": "DO017",
+"title": "Gate of Isengard",
+"kind": "Gateway of the Ring of Isengard",
+"tier": 3,
+"blurb": "The arched gate through the great wall around Orthanc.",
+"book": "The Gate of Isengard is a deep arch through the great stone ring of Isengard. It is the only way into the circle, and a guard watches it. Gandalf and his friends ride through it to meet Saruman. The Ents later break the wall around it.",
+"film": "",
+"series": "",
+"facts": {
+"Realm": "Isengard",
+"Ruler": "Saruman",
+"Fate": "Broken by Ents, T.A. 3019"
+},
+"related": [
+"FT017",
+"WA007",
+"BU021"
+],
+"sources": [
+"The Lord of the Rings, Book III"
+],
+"confidence": "medium"
+},
+{
+"id": "DO028",
+"title": "Goblin-gate",
+"kind": "Back door of Goblin-town",
+"tier": 3,
+"blurb": "The eastern exit of the goblin tunnels in the Misty Mountains.",
+"book": "The Goblin-gate is the back door of the goblins' tunnels under the Misty Mountains. It opens on the eastern slope, near the Eagles' eyrie. Bilbo escapes through it after he finds the Ring. Gandalf and the dwarves flee the goblins there.",
+"film": "",
+"series": "",
+"facts": {
+"Realm": "Goblin-town",
+"Built by": "Orcs of the Misty Mountains",
+"Other names": "Back-door"
+},
+"related": [
+"TO039",
+"MT034",
+"BU090"
+],
+"sources": [
+"The Hobbit"
+],
+"confidence": "medium"
+},
+{
+"id": "DO030",
+"title": "Great Gate of Minas Tirith",
+"kind": "City gate of Gondor",
+"tier": 2,
+"blurb": "The main gate of Minas Tirith, broken by the Witch-king in the siege.",
+"book": "The Great Gate is the main entrance to Minas Tirith. It stands in the outer wall, on the east side of the first circle. Gondorians built it of iron and steel. Its doors were thought to be impossible to break.\n\nIn T.A. 3019, the army of Mordor besieges the city. Its captain, the Witch-king of Angmar, rides to the gate. The Orcs use a battering ram named Grond to break it down. The gate falls on the morning of 15 March.\n\nThe Witch-king rides to enter, but Gandalf alone stands in his way. Before they fight, the horns of Rohan sound from the plain, and the cocks crow.",
+"film": "The film shows the gate breaking under Grond. Gandalf stands before it, the Witch-king stops, and a horn answers from the Rohirrim.",
+"series": "",
+"facts": {
+"Realm": "Gondor",
+"Built by": "Gondorians",
+"Location": "Minas Tirith, first circle",
+"Event": "Broken by Grond, 15 March T.A. 3019"
+},
+"related": [
+"TO065",
+"FI024",
+"WA006",
+"DO011"
+],
+"sources": [
+"The Lord of the Rings, Book V"
+],
+"confidence": "high"
+},
+{
+"id": "DO031",
+"title": "Great Gates",
+"kind": "East gate of Moria",
+"tier": 3,
+"blurb": "The eastern gates of Moria, opening to Dimrill Dale.",
+"book": "The Great Gates are the eastern exit of Khazad-dûm. They open from the Dimrill Stair into the Dimrill Dale. The Fellowship flees through them after Gandalf falls on the Bridge. Orcs and a cave-troll pursue them to the gates, and the Company escapes to the open air.",
+"film": "",
+"series": "",
+"facts": {
+"Realm": "Khazad-dûm",
+"Other names": "East Gates; Dimrill Gate",
+"Leads to": "Dimrill Dale"
+},
+"related": [
+"TO066",
+"VA004",
+"VA035",
+"BR003"
+],
+"sources": [
+"The Lord of the Rings, Book II"
+],
+"confidence": "high"
+},
+{
+"id": "DO032",
+"title": "Helm's Gate",
+"kind": "Gate of the Hornburg",
+"tier": 3,
+"blurb": "The gate to the Hornburg and Deeping Wall at Helm's Deep.",
+"book": "Helm's Gate is the gate at the mouth of Helm's Deep, in the Deeping Wall beside the Hornburg. The Rohirrim held it during the battle of T.A. 3019. The Orcs attacked it with a great ram. Aragorn and Éomer later led a sortie from it.",
+"film": "",
+"series": "",
+"facts": {
+"Realm": "Rohan",
+"Built by": "Rohirrim",
+"Location": "Helm's Deep"
+},
+"related": [
+"FT014",
+"FT016",
+"WA002"
+],
+"sources": [
+"The Lord of the Rings, Book III"
+],
+"confidence": "medium"
+},
+{
+"id": "DO036",
+"title": "Undergate",
+"kind": "Gate of Cirith Ungol",
+"tier": 3,
+"blurb": "The orc gate of the Tower of Cirith Ungol, through which Sam and Frodo escape.",
+"book": "The Undergate is the gate at the bottom of the Tower of Cirith Ungol, held by Orcs. Sam finds the tower empty of most guards after the Orcs fight. He and Frodo go out through the gate and leave the tower behind, using the Phial of Galadriel to pass the watchers.",
+"film": "",
+"series": "",
+"facts": {
+"Realm": "Mordor",
+"Owner": "Orcs of Sauron",
+"Part of": "Tower of Cirith Ungol"
+},
+"related": [
+"FT025",
+"VA034"
+],
+"sources": [
+"The Lord of the Rings, Book VI"
+],
+"confidence": "medium"
+},
+{
+"id": "DO037",
+"title": "West-gate of Bree",
+"kind": "Gate of Bree",
+"tier": 2,
+"blurb": "The gate in the hedge of Bree that faces the Great East Road.",
+"book": "The West-gate of Bree is the western gate in the great hedge and ditch that surround Bree. The Great East Road runs through it. A gatekeeper watches it and shuts it at night.\n\nIn T.A. 3018, Frodo and his friends reach it at dusk. The gatekeeper is cautious but lets them in. In the book, this is where Frodo first meets the Bree-folk, before he goes to the Prancing Pony.\n\nA few nights later, the Black Riders force their way through the gate. The Bree-folk, afraid of them, close the way behind the hobbits. Later, the Nazgûl come to find the Ring, and Strider leads the hobbits away east.",
+"film": "The film shows a gate in a stout timber wall, with a watchman behind a hatch. The watchman talks to Frodo before he lets the hobbits enter.",
+"series": "",
+"facts": {
+"Realm": "Bree-land",
+"People": "Bree-folk",
+"Kept by": "Gatekeeper, shut at dark",
+"Leads to": "The Great East Road"
+},
+"related": [
+"TO011",
+"HI012",
+"BU002",
+"HI052"
+],
+"sources": [
+"The Lord of the Rings, Book I"
+],
+"confidence": "high"
+},
+{
+"id": "BR001",
+"title": "Brandywine Bridge",
+"kind": "Bridge of the Shire",
+"tier": 2,
+"blurb": "The stone bridge that carries the Great East Road over the Brandywine, at the Shire's border.",
+"book": "The Brandywine Bridge is a long stone bridge over the river Baranduin, on the Great East Road. It marks the eastern border of the Shire. Arnor's builders made it, and the hobbits call it the Bridge of Stonebows. A gate and a guard-house stand at its eastern end, and the Bounders keep watch there.\n\nFrodo does not cross the bridge in the book. He and his friends go by a ferry, and a short way beyond it Buckland begins. The bridge is near the Bridge Inn and the Buckland Gate.\n\nIn T.A. 3019, ruffians take the bridge and bar the road when Saruman's agents control the Shire.",
+"film": "",
+"series": "",
+"facts": {
+"Realm": "The Shire",
+"Built by": "Men of Arnor",
+"Other names": "Bridge of Stonebows",
+"Event": "Blocked by ruffians, T.A. 3019"
+},
+"related": [
+"DO005",
+"BU002",
+"RI006",
+"TO014"
+],
+"sources": [
+"The Lord of the Rings, Book VI",
+"The Lord of the Rings, Prologue"
+],
+"confidence": "medium"
+},
+{
+"id": "BR003",
+"title": "Bridge of Khazad-dûm",
+"kind": "Bridge in Moria",
+"tier": 2,
+"blurb": "The narrow stone bridge over a chasm in Moria, where Gandalf faces the Balrog.",
+"book": "The Bridge of Khazad-dûm, also called Durin's Bridge, is a thin stone span over a deep chasm in Moria. It lies near the Great Gates. A single narrow arch with no rail crosses it. The bridge is the only way out toward the eastern gates.\n\nIn T.A. 3019, the Fellowship flees across it after Orcs and a Balrog pursue them. Gandalf stands on the bridge and faces the Balrog. He breaks the bridge beneath it with his staff. The Balrog falls, but it drags Gandalf down with its whip.\n\nThe Fellowship, led by Aragorn, escapes from Moria without him. Gandalf later returns as the White.",
+"film": "The film shows the bridge as a long, stepped stair around a chasm. Gandalf stands at the end of the bridge, and the Balrog falls with a roar.",
+"series": "",
+"facts": {
+"Realm": "Khazad-dûm",
+"Other names": "Durin's Bridge",
+"Event": "Gandalf and the Balrog, T.A. 3019"
+},
+"related": [
+"TO066",
+"DO031",
+"DO009",
+"VA004"
+],
+"sources": [
+"The Lord of the Rings, Book II"
+],
+"confidence": "high"
+},
+{
+"id": "BR004",
+"title": "Bridge of Nimrodel",
+"kind": "Bridge",
+"tier": 3,
+"blurb": "A bridge named in the map data set near the river Nimrodel.",
+"book": "This name comes from the map data set. I do not have a confirmed book source for it.",
+"film": "",
+"series": "",
+"facts": {
+"Realm": "Lothlórien (per data set)"
+},
+"related": [],
+"sources": [
+"Map data set"
+],
+"confidence": "low"
+},
+{
+"id": "BR005",
+"title": "Bridge of Tharbad",
+"kind": "Ruined bridge on the Greyflood",
+"tier": 2,
+"blurb": "The ruined bridge of Tharbad, where the Great South Road crosses the Gwathló.",
+"book": "The Bridge of Tharbad carried the Great South Road over the river Gwathló, also called the Greyflood. Tharbad was once a major city of Arnor and Gondor, with a bridge and a harbor. The river's floods grew worse and spoiled the city after a hard winter in T.A. 2911 and 2912, and its people left.\n\nBy the time of the War of the Ring, the bridge was broken and the town empty. The crossing was possible only with difficulty.\n\nBoromir tells the Council of Elrond that he crossed there on his way north to Rivendell. He lost his horse in the river and went on by foot.",
+"film": "",
+"series": "",
+"facts": {
+"Realm": "Arnor and Gondor",
+"Location": "Tharbad, on the Gwathló",
+"Fate": "Ruined after floods, T.A. 2912"
+},
+"related": [
+"TO093",
+"RI038",
+"RI032",
+"RD017"
+],
+"sources": [
+"The Lord of the Rings, Book II",
+"The Lord of the Rings, Appendix B"
+],
+"confidence": "medium"
+},
+{
+"id": "BR006",
+"title": "Ethring",
+"kind": "Crossing of the Ringló",
+"tier": 3,
+"blurb": "A crossing of the river Ringló in Gondor, on the road toward the sea.",
+"book": "Ethring is a crossing of the river Ringló in Lamedon, in southern Gondor. In T.A. 3019, Aragorn and his company ride past it. They are on their way from Erech to Pelargir.",
+"film": "",
+"series": "",
+"facts": {
+"Realm": "Gondor (Lamedon)",
+"Crosses": "River Ringló",
+"Meaning": "Across the Ringló"
+},
+"related": [
+"RI067",
+"VA017",
+"TO017",
+"TO054"
+],
+"sources": [
+"The Lord of the Rings, Book V"
+],
+"confidence": "medium"
+},
+{
+"id": "BR008",
+"title": "Last Bridge",
+"kind": "Bridge on the Great East Road",
+"tier": 3,
+"blurb": "The last bridge over the Hoarwell on the Great East Road before Rivendell.",
+"book": "The Last Bridge carries the Great East Road over the Hoarwell, east of the Trollshaws. Thorin's company passes it in The Hobbit. Frodo's party reaches it in The Lord of the Rings, after the Ringwraiths drive them along the road.",
+"film": "",
+"series": "",
+"facts": {
+"Realm": "Arnor",
+"Crosses": "River Hoarwell",
+"Road": "Great East Road"
+},
+"related": [
+"RI040",
+"FO033",
+"TO084",
+"FJ006"
+],
+"sources": [
+"The Hobbit",
+"The Lord of the Rings, Book I"
+],
+"confidence": "medium"
+},
+{
+"id": "FJ002",
+"title": "Crossings of Erui",
+"kind": "River crossings in Gondor",
+"tier": 3,
+"blurb": "Crossings of the river Erui in Gondor, named on the map.",
+"book": "This name comes from the map data set. I do not have a confirmed book source for it.",
+"film": "",
+"series": "",
+"facts": {
+"Realm": "Gondor (per data set)"
+},
+"related": [
+"RI023"
+],
+"sources": [
+"Map data set"
+],
+"confidence": "low"
+},
+{
+"id": "FJ003",
+"title": "Entwade",
+"kind": "Ford in Rohan",
+"tier": 3,
+"blurb": "A ford on the river Entwash in Rohan, named on the map.",
+"book": "This name comes from the map data set. I do not have a confirmed book source for it.",
+"film": "",
+"series": "",
+"facts": {
+"Realm": "Rohan (per data set)"
+},
+"related": [
+"RI085"
+],
+"sources": [
+"Map data set"
+],
+"confidence": "low"
+},
+{
+"id": "FJ006",
+"title": "Ford of Bruinen",
+"kind": "River ford near Rivendell",
+"tier": 1,
+"blurb": "The ford below Rivendell where Elrond's flood sweeps away the Black Riders.",
+"book": "The Ford of Bruinen crosses the river Bruinen, also called Loudwater, a short way west of Rivendell. The Great East Road passes over it. Elrond's power watches over the river, and he can send floods through it.\n\nIn T.A. 3018, the Nazgûl chase Frodo toward the ford. Glorfindel rescues him and sets him on his horse. Frodo rides into the water and turns to face them. He declares that he still holds the Ring and the Riders are not able to take it.\n\nThe river rises in a great flood, shaped like white horses. It sweeps the Riders away. Their horses are destroyed, and the Nazgûl are driven off for a long time. Frodo faints and wakes up in Rivendell.",
+"film": "The film shows Arwen, not Glorfindel, carrying Frodo to the ford. She calls the flood when the Riders cross. The flood is shown as white horses.",
+"series": "",
+"facts": {
+"Realm": "Rivendell",
+"Crosses": "River Bruinen",
+"Other names": "Ford of Loudwater",
+"Event": "Flight to the Ford, T.A. 3018"
+},
+"related": [
+"RI011",
+"TO084",
+"BR008",
+"FO033"
+],
+"sources": [
+"The Lord of the Rings, Book I"
+],
+"confidence": "high"
+},
+{
+"id": "FJ007",
+"title": "Ford of Carrock",
+"kind": "River ford on the Anduin",
+"tier": 2,
+"blurb": "The ford beside the Carrock where Gandalf's company crosses the Great River.",
+"book": "The Ford of Carrock is a ford on the Anduin, next to the Carrock, a great stone in the river. It lies north of Beorn's house. A flight of steps leads from the river up to the Carrock. The land around the ford belongs to Beorn.\n\nIn The Hobbit, Gandalf and Thorin's company cross it after escaping from the Orcs and the Wargs. Eagles carry them, and set them down near the Carrock. From there, Gandalf leads them to Beorn's house.\n\nLater, Beorn's folk, the Beornings, guard the crossings. Travelers on the road to Mirkwood and the Old Ford depend on them.",
+"film": "",
+"series": "",
+"facts": {
+"Realm": "Rhovanion",
+"People": "Beornings",
+"Crosses": "River Anduin",
+"Landmark": "The Carrock"
+},
+"related": [
+"IS003",
+"BU031",
+"FJ011",
+"BU090"
+],
+"sources": [
+"The Hobbit"
+],
+"confidence": "medium"
+},
+{
+"id": "FJ008",
+"title": "Fords of Isen",
+"kind": "Fords on the river Isen",
+"tier": 2,
+"blurb": "The crossings of the Isen on the road between Rohan and Gondor, scene of two battles.",
+"book": "The Fords of Isen cross the river Isen on the west road into Rohan, below Isengard. They mark the western border of Rohan. The ford is wide and shallow, and the Rohirrim often defended it.\n\nIn T.A. 3019, Saruman sends his forces across the Isen. Théodred, son of Théoden, leads the first defence. He is killed in the fight there. Soon after, Erkenbrand and the Rohirrim face the attackers again before they retreat to Helm's Deep.\n\nThe fords are an important route between Rohan and Gondor. Whoever held them controlled the western approach to Edoras.",
+"film": "The film shows Théodred as fatally wounded at the Fords of Isen, and shows the Rohirrim in battle with Saruman's riders.",
+"series": "",
+"facts": {
+"Realm": "Rohan",
+"People": "Rohirrim",
+"Crosses": "River Isen",
+"Event": "Battles of the Fords, T.A. 3019"
+},
+"related": [
+"RI086",
+"FT017",
+"FT014",
+"TO029"
+],
+"sources": [
+"The Lord of the Rings, Book III"
+],
+"confidence": "medium"
+},
+{
+"id": "FJ009",
+"title": "Crossings of Poros",
+"kind": "River crossings in Harondor",
+"tier": 3,
+"blurb": "Crossings of the river Poros on the road between Gondor and Harad.",
+"book": "The Crossings of Poros are fords on the river Poros, at the southern border of Gondor. The road from Harad runs through them. They are a key place between Gondor and the Haradrim, and the two peoples fought over them in the Third Age.",
+"film": "",
+"series": "",
+"facts": {
+"Realm": "Gondor (Harondor)",
+"Crosses": "River Poros",
+"Road": "Harad Road"
+},
+"related": [
+"RI064",
+"RD018",
+"MT014"
+],
+"sources": [
+"The Lord of the Rings, Appendix A"
+],
+"confidence": "medium"
+},
+{
+"id": "FJ010",
+"title": "North Undeep",
+"kind": "Ford",
+"tier": 3,
+"blurb": "A ford named in the map data set, between Rohan and the Brown Lands.",
+"book": "This name comes from the map data set. I do not have a confirmed book source for it.",
+"film": "",
+"series": "",
+"facts": {
+"Realm": "Rohan / Brown Lands (per data set)"
+},
+"related": [
+"FJ014"
+],
+"sources": [
+"Map data set"
+],
+"confidence": "low"
+},
+{
+"id": "FJ011",
+"title": "Old Ford",
+"kind": "Ford on the Anduin",
+"tier": 3,
+"blurb": "A crossing of the Anduin on the old road toward Mirkwood.",
+"book": "The Old Ford is a crossing of the Anduin where the old road to Mirkwood meets the river. A bridge once stood there, but it was gone by the end of the Third Age. Travelers use the ford. It lies near the Carrock and Beorn's land.",
+"film": "",
+"series": "",
+"facts": {
+"Realm": "Rhovanion",
+"Crosses": "River Anduin",
+"Fate": "Bridge lost; ford remains"
+},
+"related": [
+"FJ007",
+"IS003",
+"RD026",
+"BU031"
+],
+"sources": [
+"The Hobbit"
+],
+"confidence": "medium"
+},
+{
+"id": "FJ013",
+"title": "Sarn Ford",
+"kind": "Ford on the Brandywine",
+"tier": 3,
+"blurb": "The southern ford over the Brandywine, once guarded by Rangers.",
+"book": "Sarn Ford is a crossing over the Brandywine, at the southern end of the Shire. The Rangers of the North guarded it. In T.A. 3018, the Ringwraiths overpowered the guards and entered the Shire there, searching for the Ring.",
+"film": "",
+"series": "",
+"facts": {
+"Realm": "The Shire (south)",
+"People": "Rangers; Nazgûl",
+"Crosses": "River Baranduin"
+},
+"related": [
+"RI006",
+"RD017",
+"TO093"
+],
+"sources": [
+"The Lord of the Rings, Book I"
+],
+"confidence": "medium"
+},
+{
+"id": "FJ014",
+"title": "South Undeep",
+"kind": "Ford",
+"tier": 3,
+"blurb": "A ford named in the map data set, between Rohan and the Brown Lands.",
+"book": "This name comes from the map data set. I do not have a confirmed book source for it.",
+"film": "",
+"series": "",
+"facts": {
+"Realm": "Rohan / Brown Lands (per data set)"
+},
+"related": [
+"FJ010"
+],
+"sources": [
+"Map data set"
+],
+"confidence": "low"
+}
+]

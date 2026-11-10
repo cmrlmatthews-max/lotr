@@ -1,0 +1,589 @@
+[
+ {
+  "id": "RI01",
+  "title": "Sirion",
+  "kind": "Great river of Beleriand",
+  "tier": 1,
+  "blurb": "The greatest river of western Beleriand, flowing from Eithel Sirion to the sea beyond the Mouths of Sirion.",
+  "book": "Sirion rises at Eithel Sirion, on the eastern side of the Ered Wethrin. It passes the Fen of Serech and then runs south through the Pass of Sirion, where Finrod built his watch-tower on Tol Sirion. Further south it passes the Brithiach ford. Doriath lies along its eastern bank, and the wood of Nivrim lies on the western side.\n\nFar to the south it spreads into the Meres of Twilight, where the Aros joins it. Then it falls over the Andram at the Falls of Sirion and runs under the hills. It comes out at the Gates of Sirion and meets the Narog at Nan-tathren. It then spreads into a wide delta of reeds and enters the Bay of Balar.\n\nThe Vala Ulmo loves Sirion above the other rivers of Beleriand. Survivors of Gondolin, led by Tuor, flee down it toward the sea. After the fall of Doriath other refugees build the Havens of Sirion at its mouths, and Eärendil sets sail from there.\n\nThe whole valley sinks beneath the sea at the end of the First Age. Nothing of the river survives.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "From an Elvish word for river"
+  },
+  "facts": {
+   "Realm": "West Beleriand, bordering Doriath",
+   "Source": "Eithel Sirion, Ered Wethrin",
+   "Mouth": "Bay of Balar",
+   "Fate": "Drowned at end of First Age"
+  },
+  "related": [
+   "FT03",
+   "VA04",
+   "FA02",
+   "CA01",
+   "FO09"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'",
+   "The Silmarillion, ch. 23 'Of Tuor and the Fall of Gondolin'"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "RI02",
+  "title": "Narog",
+  "kind": "River of West Beleriand",
+  "tier": 1,
+  "blurb": "The chief river of West Beleriand, running from the pools of Ivrin past Nargothrond to the Sirion.",
+  "book": "The Narog rises at the pools and falls of Ivrin, below the Ered Wethrin. It flows south through the west of Beleriand. On its west side rise the highlands of Taur-en-Faroth. The streams Ginglith and Ringwil join it before it reaches Nargothrond, and it meets the Sirion in Nan-tathren, the Land of Willows.\n\nFinrod Felagund takes the caves above its west bank for his hidden fortress, Nargothrond. The river gives its name to the whole realm and guards its doors. Sindar and Noldor live on both sides of it.\n\nIn the tale of Túrin, a great bridge is built over the Narog before the doors of Nargothrond, against the wishes of Gwindor. When the host of Morgoth comes with Glaurung, the army of Nargothrond is beaten at Tumhalad. The fortress is then sacked, and the realm falls.\n\nThe river and its land sink under the sea at the end of the First Age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin river name; the realm is named after it"
+  },
+  "facts": {
+   "Realm": "Nargothrond",
+   "Source": "Eithel Ivrin",
+   "Joins": "Sirion at Nan-tathren",
+   "Fate": "Drowned at end of First Age"
+  },
+  "related": [
+   "TO02",
+   "LA04",
+   "HI01",
+   "FO09",
+   "FI01"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'",
+   "The Silmarillion, ch. 21 'Of Túrin Turambar'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI03",
+  "title": "Teiglin",
+  "kind": "River of Brethil",
+  "tier": 1,
+  "blurb": "A river from the Ered Wethrin that runs around Brethil and joins the Sirion.",
+  "book": "The Teiglin rises in the Ered Wethrin and flows south and east. It bounds Brethil on the west and south, the forest of the Haladin, before it joins the Sirion. The old road from Nargothrond to the Pass of Sirion crosses it at the Crossings of Teiglin.\n\nThe river has a central place in the story of Túrin. Near the Crossings stands the mound where Finduilas lies, after the orcs of the north take her prisoner. Túrin kills the dragon Glaurung from beneath, in a deep gorge of the Teiglin called Cabed-en-Aras. Túrin later dies there on his own sword. Nienor leaps into the same gorge in grief, and it is then called Cabed Naeramarth, the Leap of Dreadful Doom.\n\nThe Haladin of Brethil watch the river and keep the orcs from their woods. Ephel Brandir, their stockaded home, stands within the forest above it.\n\nThe river sinks under the sea with Beleriand at the end of the First Age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Later name": "Cabed Naeramarth for the gorge"
+  },
+  "facts": {
+   "Realm": "Border of Brethil",
+   "Source": "Ered Wethrin",
+   "Mouth": "Joins Sirion",
+   "Fate": "Drowned at end of First Age"
+  },
+  "related": [
+   "FO04",
+   "FJ02",
+   "VA01",
+   "GR02",
+   "TO08"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 21 'Of Túrin Turambar'",
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI04",
+  "title": "Esgalduin",
+  "kind": "River of Doriath",
+  "tier": 1,
+  "blurb": "The enchanted river of Doriath, which flows past Menegroth and divides Neldoreth from Region.",
+  "book": "The Esgalduin flows through the heart of the Hidden Kingdom of Doriath. It comes down from the north and turns west. It divides the northern forest of Neldoreth from the southern forest of Region. It finally meets the Sirion. Its name means the River under Veil, for the Girdle of Melian hides the land through which it runs.\n\nThe halls of Menegroth stand on its southern bank, and a bridge crosses the water before the gate. Thingol and Melian rule from there.\n\nNear the northern border of Doriath an old bridge, Iant Iaur, crosses the river.\n\nDoriath is overthrown by the Dwarves of Nogrod, and later by the sons of Fëanor. The Esgalduin and its forests are drowned at the end of the First Age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "River under Veil (Sindarin)"
+  },
+  "facts": {
+   "Realm": "Doriath",
+   "People": "Sindar of Thingol",
+   "Mouth": "Joins Sirion",
+   "Fate": "Drowned at end of First Age"
+  },
+  "related": [
+   "TO01",
+   "FO01",
+   "FO02",
+   "BR01",
+   "RG07"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'",
+   "The Silmarillion, ch. 10 'Of the Sindar'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI05",
+  "title": "Aros",
+  "kind": "River on the border of Doriath",
+  "tier": 2,
+  "blurb": "A river that bounds Doriath on the east and south before joining the Sirion.",
+  "book": "The Aros flows along the eastern and southern borders of Doriath. It marks the edge of the Hidden Kingdom against the lands of East Beleriand. The Celon runs down from the hills near Himring and joins it, and the Aros itself enters the Sirion at the Meres of Twilight, Aelin-uial.\n\nThe Fords of Aros, Arossiach, lie in the north-east of Doriath. The Girdle of Melian guards the land inside the river, and travellers need leave from Thingol to cross it. The Aros is a natural wall as well as a magic one.\n\nIts waters, like all the rivers of the First Age, are lost when Beleriand sinks beneath the sea.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin river name"
+  },
+  "facts": {
+   "Realm": "Eastern and southern border of Doriath",
+   "Tributary": "Celon",
+   "Mouth": "Meres of Twilight"
+  },
+  "related": [
+   "FJ04",
+   "LA06",
+   "RI06",
+   "RG07"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI06",
+  "title": "Celon",
+  "kind": "River from Himring to the Aros",
+  "tier": 2,
+  "blurb": "A river that flows from the hills of Himring, past Nan Elmoth, to join the Aros.",
+  "book": "The Celon rises in the hills around Himring, the stronghold of Maedhros. It flows south-west across East Beleriand and passes the dark wood of Nan Elmoth on the way. It then joins the Aros on the eastern edge of Doriath.\n\nNan Elmoth stands east of the Celon. Thingol first meets Melian in that wood, and they fall into a long enchantment. Many years later Eöl the Dark Elf makes his home there, and his son Maeglin is born in it.\n\nIt is lost beneath the sea at the end of the First Age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin river name"
+  },
+  "facts": {
+   "Realm": "East Beleriand",
+   "Source": "Hills of Himring",
+   "Mouth": "Joins the Aros",
+   "Fate": "Drowned at end of First Age"
+  },
+  "related": [
+   "FO05",
+   "FT04",
+   "RI05"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'",
+   "The Silmarillion, ch. 16 'Of Maeglin'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI07",
+  "title": "Mindeb",
+  "kind": "River of Dimbar",
+  "tier": 3,
+  "blurb": "A river that runs from the mountains to the Sirion, with Dimbar between it and the Sirion.",
+  "book": "The Mindeb runs from the northern mountains toward the Sirion. It runs along the north-western edge of Doriath, near Neldoreth. The land of Dimbar lies in the angle between the Mindeb and the Sirion. The Mindeb is a minor stream in the tales and appears mostly as a boundary mark.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin river name"
+  },
+  "facts": {
+   "Realm": "Border of Doriath and Dimbar",
+   "Mouth": "Joins Sirion"
+  },
+  "related": [
+   "RG09",
+   "RI01",
+   "RG07"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI08",
+  "title": "Gelion",
+  "kind": "Great river of East Beleriand",
+  "tier": 1,
+  "blurb": "The great river of East Beleriand, fed by streams from the Blue Mountains.",
+  "book": "The Gelion has two sources, the Little Gelion and the Greater Gelion. The Little Gelion rises in the Hills of Himring, and the Greater Gelion on Mount Rerir. They meet before the river flows south. It runs through East Beleriand, past the borders of Thargelion, and on to the sea. It is much longer than the Sirion.\n\nSix streams join it from the Blue Mountains. Together with the Gelion they give Ossiriand its name, the Land of Seven Rivers. The Green-elves live in the forests between them.\n\nThe Dwarf-road crosses the river at Sarn Athrad, the Ford of Stones. After the Dwarves of Nogrod kill Thingol, Beren and the Green-elves ambush them there and take back the treasure of Doriath.\n\nBeleriand is broken in the War of Wrath, and most of Ossiriand and its rivers are lost beneath the waves.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin river name",
+   "Other names": "Its two sources: Little and Greater Gelion"
+  },
+  "facts": {
+   "Realm": "East Beleriand and Ossiriand",
+   "Source": "Hills of Himring and Mount Rerir",
+   "Crossing": "Sarn Athrad",
+   "Fate": "Lost with Beleriand"
+  },
+  "related": [
+   "FJ03",
+   "RG16",
+   "MT12",
+   "MT13",
+   "RD01"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'",
+   "The Silmarillion, ch. 22 'Of the Ruin of Doriath'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI09",
+  "title": "Ascar",
+  "kind": "First river of Ossiriand",
+  "tier": 2,
+  "blurb": "The northernmost of the six streams that run from the Blue Mountains into the Gelion.",
+  "book": "The Ascar is the northernmost of the six rivers that flow down from the Blue Mountains into the Gelion. It forms the northern edge of Ossiriand. The name means rushing, which suits its swift fall from the mountains.\n\nThe Dwarves of Nogrod cross it on their way home after they kill Thingol. Beren and the Green-elves fall on them at Sarn Athrad. Beren keeps only the Nauglamír, and the rest of the gold is cast into the Ascar. From then on the river is called Rathlóriel, the Goldenbed.\n\nOther accounts of this tale differ in small details. The river sinks with the rest of Ossiriand at the end of the First Age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Rushing (Sindarin)",
+   "Later name": "Rathlóriel, the Goldenbed"
+  },
+  "facts": {
+   "Realm": "Northern Ossiriand",
+   "Joins": "Gelion",
+   "Fate": "Drowned at end of First Age"
+  },
+  "related": [
+   "RI08",
+   "FJ03",
+   "RG16",
+   "MT11"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'",
+   "The Silmarillion, ch. 22 'Of the Ruin of Doriath'"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "RI10",
+  "title": "Thalos",
+  "kind": "Second river of Ossiriand",
+  "tier": 3,
+  "blurb": "The second of the six streams that run from the Blue Mountains into the Gelion.",
+  "book": "The Thalos is the second river of Ossiriand, counting from the north. It comes down from the Blue Mountains and joins the Gelion. The Green-elves live in the woods between these streams. The Silmarillion names the river only in the account of Ossiriand.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin river name"
+  },
+  "facts": {
+   "Realm": "Ossiriand",
+   "Joins": "Gelion"
+  },
+  "related": [
+   "RI08",
+   "RG16",
+   "MT11"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI11",
+  "title": "Legolin",
+  "kind": "Third river of Ossiriand",
+  "tier": 3,
+  "blurb": "The third of the six streams that run from the Blue Mountains into the Gelion.",
+  "book": "The Legolin is the third river of Ossiriand, counting from the north. It runs from the Blue Mountains to the Gelion through the lands of the Green-elves. The books name it as part of the Land of Seven Rivers and tell little more.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin river name"
+  },
+  "facts": {
+   "Realm": "Ossiriand",
+   "Joins": "Gelion"
+  },
+  "related": [
+   "RI08",
+   "RG16",
+   "MT11"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI12",
+  "title": "Brilthor",
+  "kind": "Fourth river of Ossiriand",
+  "tier": 3,
+  "blurb": "The fourth of the six streams that run from the Blue Mountains into the Gelion.",
+  "book": "The Brilthor is the fourth river of Ossiriand. Like its neighbours, it flows from the Blue Mountains to the Gelion. It is named in the list of the seven rivers and has no tale of its own in the published books.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin river name"
+  },
+  "facts": {
+   "Realm": "Ossiriand",
+   "Joins": "Gelion"
+  },
+  "related": [
+   "RI08",
+   "RG16",
+   "MT11"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI13",
+  "title": "Duilwen",
+  "kind": "Fifth river of Ossiriand",
+  "tier": 3,
+  "blurb": "The fifth of the six streams that run from the Blue Mountains into the Gelion.",
+  "book": "The Duilwen is the fifth river of Ossiriand. It runs from the Blue Mountains to the Gelion, south of the Brilthor and north of the Adurant. The books name it only as one of the Seven Rivers.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin river name"
+  },
+  "facts": {
+   "Realm": "Ossiriand",
+   "Joins": "Gelion"
+  },
+  "related": [
+   "RI08",
+   "RG16",
+   "MT11"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI14",
+  "title": "Adurant",
+  "kind": "Southernmost river of Ossiriand",
+  "tier": 2,
+  "blurb": "The sixth and southern stream of Ossiriand, which circles the isle of Tol Galen.",
+  "book": "The Adurant is the southernmost of the six rivers that flow from the Blue Mountains into the Gelion. Before it reaches the Gelion it divides into two arms. Between those arms lies the green isle of Tol Galen.\n\nBeren and Lúthien live on Tol Galen after their return from the dead. Their son Dior Eluchíl is born of that union, and their line leads on to Elwing and Eärendil. The Green-elves of Ossiriand protect the quiet isle.\n\nThe river, the isle, and the land around them are drowned at the end of the First Age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin river name"
+  },
+  "facts": {
+   "Realm": "Southern Ossiriand",
+   "Joins": "Gelion",
+   "Feature": "Isle of Tol Galen"
+  },
+  "related": [
+   "IS02",
+   "RI08",
+   "RG16"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'",
+   "The Silmarillion, ch. 19 'Of Beren and Lúthien'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI15",
+  "title": "Ginglith",
+  "kind": "Tributary of the Narog",
+  "tier": 2,
+  "blurb": "A stream that joins the Narog just north of Nargothrond.",
+  "book": "The Ginglith is a short river that runs into the Narog above Nargothrond. The field of Tumhalad lies between the Ginglith and the Narog. There the army of Nargothrond meets the host of Morgoth.\n\nThe army of Orodreth, with Gwindor beside the king, is beaten there by orcs and the dragon Glaurung. Orodreth is killed, and Gwindor dies of his wounds in Túrin's arms. Nargothrond lies open after the battle and is soon sacked.\n\nThe river is drowned with the rest of Beleriand at the end of the First Age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin river name"
+  },
+  "facts": {
+   "Realm": "Nargothrond",
+   "Joins": "Narog",
+   "Event": "Battle of Tumhalad"
+  },
+  "related": [
+   "FI01",
+   "RI02",
+   "TO02"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 21 'Of Túrin Turambar'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI16",
+  "title": "Ringwil",
+  "kind": "Stream at Nargothrond",
+  "tier": 3,
+  "blurb": "A short stream that falls into the Narog at Nargothrond.",
+  "book": "The Ringwil is a small stream that runs into the Narog near the caves of Nargothrond. It flows from the highlands to the west.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin river name"
+  },
+  "facts": {
+   "Realm": "Nargothrond",
+   "Joins": "Narog"
+  },
+  "related": [
+   "RI02",
+   "TO02",
+   "HI01"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI17",
+  "title": "Brithon",
+  "kind": "River of the Falas",
+  "tier": 3,
+  "blurb": "A river of the Falas that reaches the sea at the haven of Brithombar.",
+  "book": "The Brithon runs through the Falas and enters the sea at the northern haven of Brithombar. The haven stands at the river's mouth. Círdan and the Falathrim live in this port. The haven is destroyed by Morgoth's armies the year after the Nírnaeth Arnoediad.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin river name"
+  },
+  "facts": {
+   "Realm": "The Falas",
+   "Mouth": "Brithombar"
+  },
+  "related": [
+   "TO05",
+   "RG05"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI18",
+  "title": "Nenning",
+  "kind": "River of the Falas",
+  "tier": 3,
+  "blurb": "A river of the Falas that reaches the sea at the haven of Eglarest.",
+  "book": "The Nenning runs through the Falas and enters the sea at Eglarest, the southern haven of the Falathrim. Finrod and the Noldor later help Círdan's people to fortify it. After the Nírnaeth Arnoediad the havens fall to the army of Morgoth, and the survivors flee to the Isle of Balar.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin river name"
+  },
+  "facts": {
+   "Realm": "The Falas",
+   "Mouth": "Eglarest"
+  },
+  "related": [
+   "TO06",
+   "RG05"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 'Of Beleriand and its Realms'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI19",
+  "title": "Rivil",
+  "kind": "Stream from Dorthonion",
+  "tier": 2,
+  "blurb": "A stream that rises at Rivil's Well in Dorthonion and joins the Sirion at the Fen of Serech.",
+  "book": "The Rivil rises at Rivil's Well on the heights of Dorthonion. It runs down to the Fen of Serech, a marsh north of the Pass of Sirion, where it joins the Sirion.\n\nBy the well, Beren tracks down the orcs who killed his father Barahir and his outlaw band. He kills their captain and takes back his father's ring. The fen lies on the way between Dorthonion and the Pass of Sirion.\n\nThe stream and its fen are drowned at the end of the First Age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sindarin river name"
+  },
+  "facts": {
+   "Realm": "Dorthonion",
+   "Source": "Rivil's Well",
+   "Joins": "Sirion at the Fen of Serech"
+  },
+  "related": [
+   "FA03",
+   "SW01",
+   "RG11",
+   "RI01"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 19 'Of Beren and Lúthien'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RD01",
+  "title": "Dwarf-road",
+  "kind": "Road of the Dwarves",
+  "tier": 2,
+  "blurb": "The road by which the Dwarves of Nogrod and Belegost travel into Beleriand.",
+  "book": "The Dwarf-road runs from Nogrod and Belegost, the Dwarf-cities of the Blue Mountains. It crosses the passes near Mount Dolmed. It then leads over the river Gelion at Sarn Athrad, the Ford of Stones, and on into the lands of Beleriand.\n\nThe Dwarves use it to trade with the Elves, and it brings the craftsmen who help build Menegroth. It is also the road home for the Dwarves of Nogrod after they kill Thingol in Menegroth. Beren and the Green-elves wait for them at Sarn Athrad, and most of the Dwarves die there.\n\nThe road vanishes with the lands it crossed at the end of the First Age.",
+  "film": "",
+  "series": "",
+  "names": {},
+  "facts": {
+   "Origin": "Nogrod and Belegost",
+   "Crossing": "Sarn Athrad on the Gelion",
+   "People": "Dwarves of the Blue Mountains"
+  },
+  "related": [
+   "FJ03",
+   "TO10",
+   "TO09",
+   "MT13",
+   "RI08"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 10 'Of the Sindar'",
+   "The Silmarillion, ch. 22 'Of the Ruin of Doriath'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RD02",
+  "title": "Old South Road",
+  "kind": "Ancient road of West Beleriand",
+  "tier": 2,
+  "blurb": "An old road from Tol Sirion along the edge of Brethil to the Crossings of Teiglin and Nargothrond.",
+  "book": "The Old South Road runs from the Pass of Sirion, near Tol Sirion, south along the edge of the forest of Brethil. It crosses the Teiglin at the Crossings and then leads on to Nargothrond.\n\nIn the tale of Túrin, the road links Nargothrond to the northern lands. After the sack, Orcs drive Finduilas north along it as a prisoner. Deceived by Glaurung, Túrin goes to Dor-lómin instead of following her. When the men of Brethil attack the Orcs at the Crossings, the captives are slain.\n\nThe road is lost with the land at the end of the First Age.",
+  "film": "",
+  "series": "",
+  "names": {},
+  "facts": {
+   "Region": "West Beleriand",
+   "Passes": "Tol Sirion, Brethil, Crossings of Teiglin",
+   "Ends": "Nargothrond"
+  },
+  "related": [
+   "FJ02",
+   "FT03",
+   "FO04",
+   "TO02",
+   "RI03"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 21 'Of Túrin Turambar'"
+  ],
+  "confidence": "low"
+ }
+]

@@ -1,0 +1,765 @@
+[
+ {
+  "id": "RD012",
+  "title": "Great East Road",
+  "kind": "Major road of Eriador",
+  "tier": 2,
+  "blurb": "The long main road running east from the Grey Havens through the Shire and Bree to Rivendell.",
+  "book": "The Great East Road is the chief east-west route of Eriador. It begins at the Grey Havens, crosses the Shire, and passes through Bree. East of Bree it runs on past Weathertop, over the Last Bridge, and into the Trollshaws before it reaches the Ford of Bruinen and Rivendell.\n\nIt dates from the days of Arnor and the Dwarves. Dwarves still travel it between the Blue Mountains and the east. Frodo and his friends leave it in the Shire to avoid pursuit. After Bree, Strider leads them across country to Weathertop, and they rejoin the road later.",
+  "film": "The films show the hobbits fleeing along the road and hiding beside it as a Black Rider passes. They do not name it.",
+  "series": "",
+  "facts": {
+   "Realm": "Eriador, Arnor, the Shire",
+   "Other names": "East Road, East-West Road",
+   "Runs": "Grey Havens to Rivendell"
+  },
+  "related": [
+   "TO043",
+   "TO011",
+   "TO084",
+   "BR008",
+   "HI052"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Fellowship of the Ring, Book I",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RD017",
+  "title": "The Greenway",
+  "kind": "Old road near Bree",
+  "tier": 3,
+  "blurb": "The Bree-land name for the old North-South Road, now grassy and little used.",
+  "book": "The Greenway is the name Bree folk give to the ancient North-South Road where it passes their land. It is old, overgrown, and little travelled. It crosses the Great East Road close to Bree. Rangers and a few travellers use it, but traffic has dwindled since the fall of Arnor.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Eriador, Bree-land",
+   "Other names": "North Road, North-South Road",
+   "Condition": "Overgrown, rarely used"
+  },
+  "related": [
+   "RD024",
+   "TO011",
+   "FJ013"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Fellowship of the Ring, Book I",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RD024",
+  "title": "North-South Road",
+  "kind": "Great road of the west",
+  "tier": 2,
+  "blurb": "The long road linking Arnor in the north to Gondor in the south through Bree-land and Rohan.",
+  "book": "The North-South Road is the great highway of the western lands. It runs from Fornost in the north, through Bree-land, and across Enedwaith at Tharbad. It continues past the Fords of Isen, through Rohan, and on to Gondor and Minas Tirith.\n\nIt has local names, such as the Greenway near Bree. The kings of Arnor and Gondor built and kept it. In the Third Age it falls into disrepair in the north, though parts stay in use in Rohan and Gondor.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Arnor, Rohan, Gondor",
+   "Other names": "Greenway, North Road",
+   "Built by": "Kings of Arnor and Gondor"
+  },
+  "related": [
+   "RD017",
+   "RD044",
+   "RD035",
+   "TO093",
+   "TO011"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Fellowship of the Ring, Book I",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RD044",
+  "title": "Great West Road",
+  "kind": "Road in Rohan",
+  "tier": 3,
+  "blurb": "The stretch of the long road running west from Edoras toward the Fords of Isen.",
+  "book": "The Great West Road leaves Edoras and leads west through the Riddermark toward the Fords of Isen. It is a main way for the Rohirrim when they ride to defend their western border against Saruman and the Dunlendings.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "People": "Rohirrim",
+   "Leads to": "Fords of Isen"
+  },
+  "related": [
+   "TO029",
+   "FJ008",
+   "RD024"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Two Towers, Book III"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "RD035",
+  "title": "South Road",
+  "kind": "Road near Minas Tirith",
+  "tier": 3,
+  "blurb": "The part of the great road running south from Minas Tirith across the Pelennor.",
+  "book": "This road leaves Minas Tirith and runs south across the Pelennor. It passes the Rammas Echor and goes on toward Lossarnach and Pelargir. The companies from the southern fiefs march up it to the city.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Near": "Minas Tirith, Pelennor"
+  },
+  "related": [
+   "TO065",
+   "FI024",
+   "WA006",
+   "RD024"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Return of the King, Book V"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "RD046",
+  "title": "Morgul Road",
+  "kind": "Road of Minas Morgul",
+  "tier": 2,
+  "blurb": "The road leading from Minas Morgul down its vale toward the Cross-roads and the west.",
+  "book": "The Morgul Road runs from the gate of Minas Morgul, down the pale Morgul Vale, and westward to the Cross-roads in Ithilien. From there it meets the road to Osgiliath and Minas Tirith. A white bridge carries it over the stream before the city gate.\n\nSauron's armies march along it when they go to war against Gondor. Frodo and Sam see the Nazgûl host leave on it, and the Witch-king rides out at its head. Its western end is old, the road of the Men of Gondor.",
+  "film": "The film shows the Witch-king leading his army out over the bridge of Minas Morgul on this road, drawing Frodo toward the city.",
+  "series": "",
+  "facts": {
+   "Realm": "Mordor, Ithilien",
+   "People": "Orcs, Nazgûl",
+   "Leads": "Minas Morgul to the Cross-roads"
+  },
+  "related": [
+   "TO064",
+   "TO078",
+   "RD047",
+   "VA034"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Two Towers, Book IV",
+   "The Lord of the Rings, The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RD047",
+  "title": "Gorgoroth Road",
+  "kind": "Road in Mordor",
+  "tier": 3,
+  "blurb": "A road crossing the bleak plateau of Gorgoroth, used by the orc armies of Mordor.",
+  "book": "This name comes from the map data set. I do not have a confirmed book source for it. Tolkien does describe roads across Gorgoroth that link Barad-dûr with the Isenmouthe and Sauron's other forts.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Mordor",
+   "People": "Orcs",
+   "Near": "Plateau of Gorgoroth"
+  },
+  "related": [
+   "FI025",
+   "FT004",
+   "RD049",
+   "RD046"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Return of the King, Book VI"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "RD018",
+  "title": "Harad Road",
+  "kind": "Road of Southern Gondor",
+  "tier": 2,
+  "blurb": "The old road running south from Gondor and Ithilien toward Harad.",
+  "book": "The Harad Road runs south through Ithilien and crosses the river Poros at its crossings before it continues into the southern lands of Harad. In the days of the Kings it was an important route. In the Third Age its southern stretches are not well kept.\n\nFaramir's Rangers ambush a force of Southrons on it in Ithilien. Frodo and Sam watch the fight and see a great oliphaunt.",
+  "film": "The Two Towers film shows Faramir's men ambushing the Haradrim and their oliphaunts in Ithilien.",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor, Ithilien",
+   "Leads to": "Harad",
+   "Crosses": "The river Poros"
+  },
+  "related": [
+   "FJ009",
+   "RI064",
+   "TO065",
+   "RD046"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Two Towers, Book IV",
+   "The Lord of the Rings, The Return of the King, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RD049",
+  "title": "Sauron's Road",
+  "kind": "Road to Mount Doom",
+  "tier": 3,
+  "blurb": "The road Sauron built from Barad-dûr to the Sammath Naur on Mount Doom.",
+  "book": "Sauron's Road runs from Barad-dûr to the Sammath Naur, the cavern of fire on the slope of Mount Doom. Sam carries Frodo up the lower slopes until they reach it. Gollum attacks them on the road, and Frodo goes on alone to the cavern.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Mordor",
+   "Owner": "Sauron",
+   "Leads": "Barad-dûr to Mount Doom"
+  },
+  "related": [
+   "FT004",
+   "MT036",
+   "RD047"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Return of the King, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RD005",
+  "title": "Bywater Road",
+  "kind": "Road in the Shire",
+  "tier": 3,
+  "blurb": "The road in the Shire connecting Hobbiton to Bywater.",
+  "book": "The Bywater Road runs from Hobbiton down to Bywater. Hobbits use it for travel between the villages of the Westfarthing.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits",
+   "Links": "Hobbiton, Bywater"
+  },
+  "related": [
+   "TO050",
+   "TO016",
+   "RD020",
+   "BR001"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RD006_10",
+  "title": "Causeway",
+  "kind": "Road in the Shire",
+  "tier": 3,
+  "blurb": "A raised road in the eastern Shire near Stock and the Brandywine.",
+  "book": "The Causeway is a raised road through the low, wet Marish beside the Brandywine. Farmer Maggot drives Frodo, Sam and Pippin along it in his wagon toward the Bucklebury Ferry.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits",
+   "Near": "Stock, Brandywine"
+  },
+  "related": [
+   "TO091",
+   "RD014",
+   "RD038"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RD004",
+  "title": "Bagshot Row",
+  "kind": "Hobbit row of homes",
+  "tier": 2,
+  "blurb": "A row of hobbit-holes below Bag End, home to Gaffer Gamgee and his son Sam.",
+  "book": "Bagshot Row is a row of hobbit-holes in Hobbiton, dug into the hill below Bag End. Gaffer Gamgee lives at Number 3, and his son Sam grows up there.\n\nDuring the Scouring of the Shire, Saruman's ruffians destroy the Row and dig a sand-pit in its place. After the hobbits return and defeat them, it is rebuilt as New Row. Sam later raises his family at Bag End itself.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits (Gamgees)",
+   "Fate": "Destroyed, rebuilt as New Row"
+  },
+  "related": [
+   "BU030",
+   "TO050",
+   "HI035",
+   "RD019"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Fellowship of the Ring, Book I",
+   "The Lord of the Rings, The Return of the King, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RD013",
+  "title": "Elf-path",
+  "kind": "Path through Mirkwood",
+  "tier": 2,
+  "blurb": "The enchanted path through Mirkwood that Thorin's company strays from.",
+  "book": "The Elf-path is a narrow road through Mirkwood laid out by Wood-elves. It runs from the western edge across the forest. Beorn warns Thorin's company to stay on it. The dark trees press close, and nothing is safe beyond it.\n\nBilbo and the Dwarves lose it after they stray to taste a fire and feast. Giant spiders catch them, and the Elves of the Elvenking later find them.",
+  "film": "The Hobbit films show the dwarves leaving the path and meeting the spiders.",
+  "series": "",
+  "facts": {
+   "Realm": "Mirkwood",
+   "People": "Silvan Elves",
+   "Leads": "West to east through the forest"
+  },
+  "related": [
+   "FO018",
+   "MT041",
+   "RD026",
+   "BU031"
+  ],
+  "sources": [
+   "The Hobbit"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RD038",
+  "title": "Stock Road",
+  "kind": "Road in the Shire",
+  "tier": 3,
+  "blurb": "A road in the Shire's Eastfarthing leading toward Stock.",
+  "book": "This name comes from the map data set. I do not have a confirmed book source for it. A road in the Eastfarthing does lead to Stock, and Frodo and his friends head that way before cutting across country.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits",
+   "Leads to": "Stock"
+  },
+  "related": [
+   "TO091",
+   "RI093",
+   "RD014"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "RD025",
+  "title": "Northway",
+  "kind": "Road in the Shire",
+  "tier": 3,
+  "blurb": "A small road in the northern Shire running through Hobbiton country.",
+  "book": "This name comes from the map data set. I do not have a confirmed book source for it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits"
+  },
+  "related": [
+   "TO050",
+   "RD005"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "RD014",
+  "title": "Ferry Lane",
+  "kind": "Lane in the Shire",
+  "tier": 3,
+  "blurb": "A lane leading to the ferry over the Brandywine into Buckland.",
+  "book": "Ferry Lane runs through the Shire's eastern border to the Bucklebury Ferry. This is the crossing of the Brandywine into Buckland. Frodo and his friends use the ferry as they flee from the Black Riders.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits",
+   "Leads to": "Bucklebury Ferry"
+  },
+  "related": [
+   "BR001",
+   "TO091",
+   "RD038"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "RD016",
+  "title": "Gateway",
+  "kind": "Street in Minas Tirith",
+  "tier": 3,
+  "blurb": "A street in Minas Tirith near the Great Gate.",
+  "book": "This name comes from the map data set. I do not have a confirmed book source for it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Near": "Great Gate of Minas Tirith"
+  },
+  "related": [
+   "TO065",
+   "DO030"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Return of the King, Book V"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "RD026",
+  "title": "Old Forest Road",
+  "kind": "Dwarf road to Mirkwood",
+  "tier": 2,
+  "blurb": "The old Dwarf road across the Misty Mountains and Anduin toward Mirkwood and Erebor.",
+  "book": "The Old Forest Road is an ancient road that crosses the Misty Mountains, descends to the Anduin, and enters Mirkwood on its way to the Lonely Mountain. Unfinished Tales calls it the Dwarf-road.\n\nGandalf tells Thorin's company that goblins now use it. He says its eastern end is overgrown and runs into marshes. They take the Elf-path instead.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Misty Mountains, Mirkwood",
+   "Other names": "Men-i-Naugrim, Forest Road",
+   "Built by": "Dwarves"
+  },
+  "related": [
+   "RD013",
+   "FJ011",
+   "FO018",
+   "BU031"
+  ],
+  "sources": [
+   "The Hobbit",
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RD034",
+  "title": "South Lane",
+  "kind": "Lane in the Shire",
+  "tier": 3,
+  "blurb": "A small lane near Hobbiton in the Shire.",
+  "book": "This name comes from the map data set. I do not have a confirmed book source for it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits"
+  },
+  "related": [
+   "TO050",
+   "TO016"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "RD019",
+  "title": "Hill Road",
+  "kind": "Lane up Hobbiton Hill",
+  "tier": 3,
+  "blurb": "The lane climbing Hobbiton Hill toward Bag End.",
+  "book": "This name comes from the map data set. I do not have a confirmed book source for it. It marks the lane that climbs the Hill to Bag End.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits",
+   "Leads to": "Bag End"
+  },
+  "related": [
+   "BU030",
+   "HI035",
+   "RD004"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "RD020",
+  "title": "Hobbiton Road",
+  "kind": "Road in Hobbiton",
+  "tier": 3,
+  "blurb": "The section of the Bywater Road that passes through Hobbiton.",
+  "book": "This name comes from the map data set. I do not have a confirmed book source for it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits"
+  },
+  "related": [
+   "TO050",
+   "RD005",
+   "TO016"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "RD045",
+  "title": "Deeping-road",
+  "kind": "Road to Helm's Deep",
+  "tier": 3,
+  "blurb": "The road in Rohan leading to the Hornburg and Helm's Deep.",
+  "book": "The Deeping-road leads through the Westfold of Rohan to the Hornburg and Helm's Deep. Théoden's people use it to flee there before Saruman's armies. The road follows the Deeping Coomb up to the fortress.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "People": "Rohirrim",
+   "Leads to": "Helm's Deep"
+  },
+  "related": [
+   "FT014",
+   "TO029",
+   "DO032"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Two Towers, Book III"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RD030",
+  "title": "Paths of the Dead",
+  "kind": "Haunted pass under mountain",
+  "tier": 1,
+  "blurb": "The haunted passage under Dwimorberg, which Aragorn takes to summon the Dead Men of Dunharrow.",
+  "book": "The Paths of the Dead is a tunnel beneath Dwimorberg, the Haunted Mountain, reached from the Dark Door at Dunharrow. It leads through the White Mountains to the vale of Morthond in Gondor. Only the Dead dwell there.\n\nThey are the Oathbreakers, Men of the mountains who broke their oath to Isildur and were cursed to stay until it was fulfilled. Aragorn, as Isildur's heir, leads the Grey Company and Legolas and Gimli through it. The living fear it, and Éowyn tries to stop him.\n\nAragorn takes the Dead to Erech, calls them to keep their oath, and uses them to defeat the corsairs at Pelargir. Once the battle at Pelargir is won, Aragorn releases the Dead from their oath, and they fade away.",
+  "film": "The films show the Dead as a ghostly army that sweeps the corsair ships and then Pelennor, a far larger role than in the book.",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan, Gondor, White Mountains",
+   "People": "The Dead, Aragorn",
+   "Leads": "Dunharrow to Morthond Vale"
+  },
+  "related": [
+   "DO007",
+   "FT009",
+   "HI023",
+   "VA005",
+   "TO081"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Return of the King, Book V",
+   "The Lord of the Rings, The Return of the King, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "RD021",
+  "title": "Lampwrights' Street",
+  "kind": "Street in Minas Tirith",
+  "tier": 3,
+  "blurb": "A street in Minas Tirith, home of the lampwrights.",
+  "book": "Lampwrights' Street, called Rath Celerdain in Sindarin, is a street in Minas Tirith. Beregond and his son Bergil live there. Pippin meets Bergil during his service in the city.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Sindarin": "Rath Celerdain",
+   "Near": "Minas Tirith"
+  },
+  "related": [
+   "TO065",
+   "RD031",
+   "BU063"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RD028",
+  "title": "Old South Road",
+  "kind": "Road of Eriador",
+  "tier": 3,
+  "blurb": "The old name for the North-South Road south of Bree.",
+  "book": "The Old South Road is another name for the North-South Road where it runs south of the Greenway and toward Enedwaith. Few travel it in the Third Age, since the road is in disrepair.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Eriador, Enedwaith",
+   "Other names": "North-South Road, Royal Road",
+   "Part of": "North-South Road"
+  },
+  "related": [
+   "RD024",
+   "TO093",
+   "RD017"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "RD031",
+  "title": "Rath Dínen",
+  "kind": "Street of the Tombs",
+  "tier": 2,
+  "blurb": "The Silent Street of Minas Tirith, leading to the tombs of the Kings and Stewards.",
+  "book": "Rath Dínen, the Silent Street, is a long way that leads from the Citadel of Minas Tirith to the burial hill of the Kings and Stewards. It begins at the door Fen Hollen, which stays shut except for funerals. Only the Lord of the City and those who tend the tombs may use it.\n\nDenethor goes down it with his fevered son Faramir, meaning to burn them both in the House of the Stewards. Pippin fetches Gandalf, Beregond guards the door, and they save Faramir. Denethor dies in the fire.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Meaning": "Silent Street",
+   "Leads to": "House of the Stewards",
+   "Gate": "Fen Hollen"
+  },
+  "related": [
+   "DO011",
+   "GR013",
+   "GR012",
+   "TO065"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Return of the King, Book V"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "RD036",
+  "title": "Stair of the Hold",
+  "kind": "Stair at Dunharrow",
+  "tier": 3,
+  "blurb": "The winding stair that climbs from Harrowdale up to the Hold at Dunharrow.",
+  "book": "The Stair of the Hold climbs the steep slope from Harrowdale to the high field of Dunharrow. The Rohirrim and their allies climb it when they gather. Éowyn and Merry set out from there.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "People": "Rohirrim",
+   "Leads to": "Dunharrow"
+  },
+  "related": [
+   "FT009",
+   "VA008",
+   "TO029"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RD040",
+  "title": "Straight Stair",
+  "kind": "Stair of Cirith Ungol",
+  "tier": 2,
+  "blurb": "The first of the two great stairs that Gollum leads Frodo and Sam up near Minas Morgul.",
+  "book": "The Straight Stair is the first of the great stairs of Cirith Ungol, in the mountains above Morgul Vale. It climbs a steep cliff in a narrow cleft. Gollum leads Frodo and Sam up it. They go in silence and in terror of the Nazgûl.\n\nAt the top they reach the Winding Stair. The two stairs make the secret road to Mordor that Gollum recommends.",
+  "film": "The films show a single long stair, with Sam and Frodo struggling up toward Cirith Ungol.",
+  "series": "",
+  "facts": {
+   "Realm": "Mordor",
+   "People": "Orcs",
+   "Leads to": "Winding Stair"
+  },
+  "related": [
+   "RD043",
+   "VA034",
+   "FT025",
+   "TO064"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Two Towers, Book IV"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RD043",
+  "title": "Winding Stair",
+  "kind": "Stair of Cirith Ungol",
+  "tier": 2,
+  "blurb": "The second stair, climbing to the pass of Cirith Ungol and the lair of Shelob.",
+  "book": "The Winding Stair is the second stair of Cirith Ungol, above the Straight Stair. It winds along the mountainside beyond the cleft. At its top lies the high pass and the tunnel of Shelob's lair.\n\nFrodo and Sam climb it, led by Gollum. It is dangerous, and watchers on the Tower above guard the pass. Here begins Frodo's trial by Shelob.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Mordor",
+   "People": "Orcs",
+   "Leads to": "Shelob's Lair"
+  },
+  "related": [
+   "RD040",
+   "CA013",
+   "FT025",
+   "VA034"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Two Towers, Book IV"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RD041",
+  "title": "Under-way",
+  "kind": "Passage through the mountain",
+  "tier": 3,
+  "blurb": "The passage under the Tower of Cirith Ungol, used by the orcs.",
+  "book": "The Under-way is the tunnel from Shelob's lair to the under-gate of the Tower of Cirith Ungol. The Orcs carry Frodo through it into the tower and shut its stone door against Sam. Sam must go round over the pass and enter by the main gate.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Mordor",
+   "People": "Orcs",
+   "Near": "Tower of Cirith Ungol"
+  },
+  "related": [
+   "FT025",
+   "DO036",
+   "CA013"
+  ],
+  "sources": [
+   "The Two Towers, Book IV",
+   "The Return of the King, Book VI"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "RD048",
+  "title": "Southward Road",
+  "kind": "Road in Mordor",
+  "tier": 3,
+  "blurb": "A road running south from the Morannon toward the Cross-roads.",
+  "book": "The Southward Road leaves the Black Gate and runs south through Ithilien, below the Ephel Dúath. It joins the lands of Mordor to the Cross-roads and the way to Harad. I do not have a confirmed book source for the name.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Mordor, Ithilien",
+   "People": "Orcs",
+   "Leads": "South from the Morannon"
+  },
+  "related": [
+   "FT005",
+   "RD018",
+   "RD046"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Two Towers, Book IV"
+  ],
+  "confidence": "low"
+ }
+]

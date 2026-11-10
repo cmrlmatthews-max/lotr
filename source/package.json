@@ -1,0 +1,9 @@
+{
+  "name": "middle-earth-explorer",
+  "private": true,
+  "description": "Build tools for the Middle-earth Explorer (three.js bundled with esbuild).",
+  "dependencies": {
+    "esbuild": "^0.28.2",
+    "three": "^0.187.0"
+  }
+}

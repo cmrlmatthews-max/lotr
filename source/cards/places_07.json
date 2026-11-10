@@ -1,0 +1,1239 @@
+[
+ {
+  "id": "MT006",
+  "title": "Caradhras",
+  "kind": "Mountain peak",
+  "tier": 1,
+  "blurb": "A great red-capped peak of the Misty Mountains that turned the Fellowship back.",
+  "book": "Caradhras is the northernmost of the three Mountains of Moria. The Elves call it Caradhras. Men call it Redhorn. The Dwarves call it Barazinbar. It stands above the Redhorn Gate, a high pass that crosses the Misty Mountains.\n\nIn January of T.A. 3019 the Fellowship of the Ring tries this pass. Gandalf hopes to avoid the dark road through Moria. Heavy snow, bitter wind and falling stones drive the company back. Legolas says that the mountain itself is hostile. Gandalf suspects that a hidden enemy may be at work.\n\nThe company turns back and goes down to Hollin. They then have no choice but to enter Moria. The Dwarves have long said that Caradhras is cruel to travellers. The peak is also one of the three towers that watch over Dimrill Dale and the Dwarf kingdom of Khazad-dûm.",
+  "film": "In the film, Saruman is shown working a spell from afar that brings down an avalanche on the Fellowship. The book leaves the cause of the storm uncertain.",
+  "series": "",
+  "facts": {
+   "Realm": "Khazad-dûm, Misty Mountains",
+   "Other names": "Redhorn; Barazinbar (Khuzdul)",
+   "Role": "Mountain pass and peak"
+  },
+  "related": [
+   "MT007",
+   "MT020",
+   "TO066",
+   "MT034",
+   "HI036"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "MT020",
+  "title": "Fanuidhol",
+  "kind": "Mountain peak",
+  "tier": 2,
+  "blurb": "The Cloudyhead, the middle peak of the three Mountains of Moria.",
+  "book": "Fanuidhol is the middle peak of the three great mountains above Moria. The Elves call it Fanuidhol, which means Cloudyhead, because clouds so often cover its crown. The Dwarves call it Bundushathûr.\n\nIt stands between Caradhras, the Redhorn, to the north and Celebdil, the Silvertine, to the south. The three peaks form the high walls above the Dwarf kingdom of Khazad-dûm. Dimrill Dale lies at their eastern feet.\n\nThe Fellowship of the Ring sees the three mountains when Gimli tells of their old Dwarf names and of the lost city beneath them. Fanuidhol itself is not climbed in the story.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Khazad-dûm, Misty Mountains",
+   "Other names": "Cloudyhead; Bundushathûr (Khuzdul)"
+  },
+  "related": [
+   "MT006",
+   "MT007",
+   "TO066",
+   "VA004"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "MT007",
+  "title": "Celebdil",
+  "kind": "Mountain peak",
+  "tier": 1,
+  "blurb": "The Silvertine, a snow-crowned peak above Moria where Gandalf fought the Balrog.",
+  "book": "Celebdil is the southernmost of the three Mountains of Moria. The Elves call it Celebdil, meaning Silvertine. The Dwarves call it Zirakzigil. Its summit is white with snow all year.\n\nDeep inside the mountain lies the Endless Stair, which climbs from the lowest halls of Moria to Durin's Tower at the very top. After Gandalf breaks the Bridge of Khazad-dûm in T.A. 3019, the Balrog drags him into the abyss. The two fall into deep water and fight their way up through the mountain's depths. They come out on the stair and climb to the peak.\n\nThere the Balrog is defeated and thrown down the mountainside. Gandalf the Grey dies on the summit. Gwaihir the Eagle later carries his body to Lothlórien. Gandalf is sent back to Middle-earth as Gandalf the White.",
+  "film": "In the film, Gandalf falls with the Balrog and the fight ends on the high peak. The Two Towers shows this battle as a flashback.",
+  "series": "",
+  "facts": {
+   "Realm": "Khazad-dûm, Misty Mountains",
+   "Other names": "Silvertine; Zirakzigil (Khuzdul)",
+   "Summit": "Durin's Tower",
+   "Fate": "Balrog destroyed here, T.A. 3019"
+  },
+  "related": [
+   "BU014",
+   "MT006",
+   "MT020",
+   "TO066",
+   "TO018"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II",
+   "The Two Towers, Book III"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "MT034",
+  "title": "Misty Mountains",
+  "kind": "Mountain range",
+  "tier": 1,
+  "blurb": "The great mountain chain that divides Eriador from the lands beyond the Anduin.",
+  "book": "The Misty Mountains run north and south for hundreds of miles. The Elves call them Hithaeglir. They begin near the Grey Mountains and Mount Gundabad in the far north. They end at Methedras, near the Gap of Rohan in the south.\n\nThe mountains divide Eriador in the west from the valley of the Anduin in the east. Few passes cross them. The best known are the High Pass above Rivendell and the Redhorn Gate beneath Caradhras. Under them lies the Dwarf kingdom of Khazad-dûm, also called Moria.\n\nOrcs, wolves, trolls, giants and Eagles all live in these mountains. In The Hobbit, Thorin's company is captured by goblins here, and Bilbo finds the Ring in the dark under the roots of the range. In T.A. 3019 the Fellowship passes beneath the range through Moria.",
+  "film": "The films show the mountains in sweeping aerial views. The Hobbit films add the great goblin city of Goblin-town and a fight on a giant's shoulder.",
+  "series": "",
+  "facts": {
+   "Realm": "Eriador, Khazad-dûm, many Orc tribes",
+   "People": "Dwarves, Orcs, Trolls, Eagles",
+   "Other names": "Hithaeglir (Sindarin)"
+  },
+  "related": [
+   "MT006",
+   "MT007",
+   "MT024",
+   "TO066",
+   "TO084"
+  ],
+  "sources": [
+   "The Hobbit, Chapter IV",
+   "The Fellowship of the Ring, Book II"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "MT022",
+  "title": "Grey Mountains",
+  "kind": "Mountain range",
+  "tier": 2,
+  "blurb": "A northern range, once home to Dwarves and later to dragons and Orcs.",
+  "book": "The Grey Mountains, called Ered Mithrin in Sindarin, lie in the far north of Rhovanion. They stand to the north of Mirkwood and join the Misty Mountains at the western end. The range was once rich in gold and other metals.\n\nDurin's folk, the Longbeard Dwarves, settled there and mined its wealth. Dragons later came to the mountains, drawn by the Dwarf hoards. The cold-drakes bred in these northern wastes, and they drove the Dwarves out. Orcs also took many places in the range.\n\nThe Dwarves who fled moved to other halls. Some of Durin's line went to Erebor, the Lonely Mountain, and to the Iron Hills.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rhovanion, far north",
+   "People": "Dwarves, Dragons, Orcs",
+   "Other names": "Ered Mithrin (Sindarin)"
+  },
+  "related": [
+   "MT029",
+   "HI037",
+   "VA026",
+   "MT034",
+   "MT024"
+  ],
+  "sources": [
+   "The Hobbit, Chapter I",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "MT055",
+  "title": "White Mountains",
+  "kind": "Mountain range",
+  "tier": 1,
+  "blurb": "The long white range that forms the southern wall of Rohan and the spine of Gondor.",
+  "book": "The White Mountains, called Ered Nimrais in Sindarin, run from west to east across southern Middle-earth. Their snowy peaks stand between Rohan in the north and Gondor in the south. The range ends in the east at Mount Mindolluin, beside Minas Tirith.\n\nThe mountains cut Gondor into many lands, such as Lamedon, Lebennin and Anórien. Beacon hills stand along the northern ridge, from Amon Dîn in the east to the Halifirien in the west. When danger comes, each beacon is lit in turn to carry the call for help.\n\nDeep in the range lies Dunharrow, a refuge of the Rohirrim. Beyond it opens the Dark Door, the entrance to the Paths of the Dead. In T.A. 3019 Aragorn leads the Grey Company through the Paths to reach the south.",
+  "film": "The films show the beacons blazing from peak to peak in a famous sequence, with the camera racing across the range.",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor and Rohan",
+   "Other names": "Ered Nimrais (Sindarin)",
+   "Ends at": "Mindolluin, near Minas Tirith",
+   "Feature": "Chain of beacon hills"
+  },
+  "related": [
+   "MT033",
+   "FT009",
+   "VA040",
+   "DO007",
+   "BU085_54"
+  ],
+  "sources": [
+   "The Return of the King, Book V",
+   "The Two Towers, Book III"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "MT016",
+  "title": "Ered Lithui",
+  "kind": "Mountain range",
+  "tier": 2,
+  "blurb": "The Ash Mountains, a harsh range forming the northern wall of Mordor.",
+  "book": "Ered Lithui means the Ash Mountains. They form the northern wall of Mordor and also bend around its eastern side. Together with the Ephel Dúath in the west, they enclose the plateau of Gorgoroth and the Dark Land.\n\nThe range is barren and grey. Few paths cross it, and Sauron guards them all. The mountains protect Sauron's land and hide his preparations for war. Beyond them lie the harsh lands of Núrn, where slaves work the fields to feed his armies.\n\nIn T.A. 3019 Frodo and Sam cross Gorgoroth with the Ash Mountains to the north. They avoid the Orcs as they go to Mount Doom.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Mordor",
+   "Other names": "Ash Mountains",
+   "Role": "Northern wall of Mordor"
+  },
+  "related": [
+   "MT014",
+   "MT036",
+   "FI025",
+   "VA031",
+   "TO064"
+  ],
+  "sources": [
+   "The Return of the King, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "MT036",
+  "title": "Mount Doom",
+  "kind": "Volcano",
+  "tier": 1,
+  "blurb": "The fiery volcano of Mordor where the One Ring was forged and destroyed.",
+  "book": "Mount Doom rises from the plateau of Gorgoroth in Mordor. The Elves call it Orodruin, the Mountain of Fire, and the name Amon Amarth means Mount Doom. It is an active volcano that glows with fire.\n\nSauron forged the One Ring in its Sammath Naur, the Chambers of Fire, about S.A. 1600. Only there could the Ring be unmade. At the end of the Second Age, Isildur cut the Ring from Sauron's hand but did not cast it into the fire.\n\nIn March of T.A. 3019 Frodo and Sam climb the mountain after a long journey across Mordor. At the Crack of Doom, Frodo cannot give up the Ring. Gollum seizes it, bites off Frodo's finger and falls into the fire with the Ring. The Ring is destroyed. The mountain erupts, and Sauron's power collapses.",
+  "film": "The films show Mount Doom as a rocky cone with lava at its heart. Gollum falls with the Ring in the final film.",
+  "series": "The series shows Orodruin forming when Adar's Orcs cause a great eruption in the Southlands. This origin is invented for the show.",
+  "facts": {
+   "Realm": "Mordor",
+   "Other names": "Orodruin; Amon Amarth",
+   "Ring forged": "S.A. 1600",
+   "Fate": "Ring destroyed, T.A. 3019"
+  },
+  "related": [
+   "FT004",
+   "FI025",
+   "MT016",
+   "RD047",
+   "FI010"
+  ],
+  "sources": [
+   "The Return of the King, Book VI",
+   "The Silmarillion, Of the Rings of Power"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "MT005",
+  "title": "Blue Mountains",
+  "kind": "Mountain range",
+  "tier": 2,
+  "blurb": "The range on the western edge of Eriador, home to Dwarf settlements and the border of Lindon.",
+  "book": "The Blue Mountains, called Ered Luin in Sindarin, mark the western border of Eriador. In the First Age they stood in Beleriand, and the sea broke in after the War of Wrath. Only the eastern part of the old range remained as the Blue Mountains of the Third Age.\n\nThe Gulf of Lune cuts the range in two. Lindon, the Elf land, lies to the west of the mountains. Three Dwarf houses lived there: Broadbeams, Firebeards and Longbeards.\n\nAfter Smaug destroyed Erebor in T.A. 2770, Thorin Oakenshield and his people settled in the Blue Mountains. Thorin lives here in exile when Gandalf meets him.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Eriador, borders Lindon",
+   "People": "Dwarves",
+   "Other names": "Ered Luin; Ered Lindon (Sindarin)"
+  },
+  "related": [
+   "TO043",
+   "TO034",
+   "MT029",
+   "HI048"
+  ],
+  "sources": [
+   "The Hobbit, Chapter I",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "MT029",
+  "title": "Lonely Mountain",
+  "kind": "Mountain and Dwarf kingdom",
+  "tier": 1,
+  "blurb": "Erebor, the great Dwarf kingdom and hoard that Smaug seized and Bilbo helped to win back.",
+  "book": "The Lonely Mountain stands alone to the east of Mirkwood, above the town of Dale. The Dwarves call it Erebor. Thráin the Old founded the kingdom here around T.A. 1999. It grew rich on gold and gems, and the Arkenstone, the Heart of the Mountain, was its greatest treasure.\n\nIn T.A. 2770 the dragon Smaug attacked and destroyed Dale. He took the Dwarf halls and the hoard. Thrór's grandson Thorin Oakenshield wandered in exile for many years.\n\nIn T.A. 2941 Thorin leads a company of Dwarves, with Gandalf and Bilbo Baggins, to retake the mountain. Bilbo finds a secret door and steals a cup from the dragon. Smaug attacks Esgaroth and is killed by Bard. The Battle of Five Armies follows. Thorin dies, and Dáin Ironfoot becomes king.",
+  "film": "The Hobbit films show Erebor's vast halls with golden columns and rivers of treasure. The fight between Thorin's company and Smaug takes place there.",
+  "series": "",
+  "facts": {
+   "Realm": "Erebor, Rhovanion",
+   "People": "Durin's folk (Dwarves)",
+   "Founded": "T.A. 1999 by Thráin I",
+   "Fate": "Taken by Smaug T.A. 2770; won back T.A. 2941"
+  },
+  "related": [
+   "TO051",
+   "TO024",
+   "HI042",
+   "DO003",
+   "DO014"
+  ],
+  "sources": [
+   "The Hobbit, Chapters XI-XVIII",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "MT058",
+  "title": "Amon Anwar",
+  "kind": "Hill and beacon",
+  "tier": 2,
+  "blurb": "The Halifirien, a holy hill on the border of Gondor and Rohan, topped by a beacon.",
+  "book": "Amon Anwar is the Sindarin name of the hill that the Rohirrim call the Halifirien. Both names mean a holy or awesome mountain. It rises at the western end of the White Mountains, above the Firienwood, on the border between Gondor and Rohan.\n\nThe tomb of Elendil is said to lie there. The hill was held in great reverence by Men. A beacon of Gondor stands on its crest. It is the last, westernmost of the seven beacons that carry warnings from Minas Tirith toward Rohan.\n\nIn T.A. 3019 the beacons are lit one after another when Gondor calls for aid. The Halifirien's fire is the last.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Border of Gondor and Rohan",
+   "Other names": "Halifirien; Hill of Awe",
+   "Role": "Westernmost beacon of Gondor"
+  },
+  "related": [
+   "BU085_54",
+   "MT060",
+   "FO013",
+   "MT055"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "MT064",
+  "title": "Írensaga",
+  "kind": "Mountain peak",
+  "tier": 3,
+  "blurb": "A jagged peak above Dunharrow in the White Mountains of Rohan.",
+  "book": "Írensaga is a sharp, saw-toothed peak of the White Mountains. Its name is Rohirric and means iron-saw. It rises above the refuge of Dunharrow and the Firienfeld. Riders of Rohan gather beneath its ridges before the ride to Gondor.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "Other names": "Iron-saw",
+   "Range": "White Mountains"
+  },
+  "related": [
+   "FT009",
+   "FI011",
+   "MT055"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "MT048",
+  "title": "Ras Morthil",
+  "kind": "Mountain peak",
+  "tier": 3,
+  "blurb": "A peak named on the map at the far western end of the White Mountains.",
+  "book": "Ras Morthil is named on the map as a peak near the western end of the White Mountains, in far western Gondor. The name means dark horn. The story does not visit this region, and the books say very little about it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor, far west",
+   "Meaning": "Dark horn",
+   "Range": "White Mountains"
+  },
+  "related": [
+   "MT055"
+  ],
+  "sources": [
+   "The Lord of the Rings, Map of Gondor"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "MT009",
+  "title": "Cûl Bîn",
+  "kind": "Mountain peak",
+  "tier": 3,
+  "blurb": "A name from the map data set with no confirmed book source.",
+  "book": "This name comes from the map data set. I do not have a confirmed book source for it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Range": "White Mountains"
+  },
+  "related": [
+   "MT055"
+  ],
+  "sources": [
+   "Map data set only"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "MT011",
+  "title": "Dol Tarlang",
+  "kind": "Mountain peak",
+  "tier": 3,
+  "blurb": "A mountain peak of the White Mountains near Tarlang's Neck in Gondor.",
+  "book": "Dol Tarlang is a peak in the southern side of the White Mountains, near the ridge named Tarlang's Neck. Aragorn and the Grey Company cross that ridge after they leave Erech. They ride on toward the river Ciril and the coast.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Range": "White Mountains",
+   "Near": "Tarlang's Neck"
+  },
+  "related": [
+   "VA041",
+   "HI023",
+   "MT055"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "MT010",
+  "title": "Cûl Veleg",
+  "kind": "Mountain peak",
+  "tier": 3,
+  "blurb": "A name from the map data set with no confirmed book source.",
+  "book": "This name comes from the map data set. I do not have a confirmed book source for it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Range": "White Mountains"
+  },
+  "related": [
+   "MT055"
+  ],
+  "sources": [
+   "Map data set only"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "MT024",
+  "title": "Gundabad",
+  "kind": "Mountain and Orc stronghold",
+  "tier": 2,
+  "blurb": "Mount Gundabad, an old Dwarf site in the north of the Misty Mountains later held by Orcs.",
+  "book": "Mount Gundabad stands in the far north of the Misty Mountains. It is an ancient place of the Dwarves. Durin the Deathless is said to have awoken near it, and the Dwarves held it sacred.\n\nOrcs later seized the mountain and made it a main stronghold. Orcs from Gundabad fought the Dwarves in the great war that ended at the battle of Azanulbizar in T.A. 2799. They also served Sauron and the Witch-king of Angmar.\n\nIn The Hobbit, the goblins of the north gather at Gundabad before the Battle of Five Armies. Bolg, son of Azog, leads them from there to attack the Lonely Mountain.",
+  "film": "The Hobbit films show Gundabad as an Orc fortress from which Azog gathers an army.",
+  "series": "",
+  "facts": {
+   "Realm": "Northern Misty Mountains",
+   "People": "Orcs; once Dwarves",
+   "Fate": "Orcs gather here before Five Armies"
+  },
+  "related": [
+   "MT034",
+   "MT039",
+   "MT029"
+  ],
+  "sources": [
+   "The Hobbit, Chapter XVII",
+   "The Silmarillion, Of the Rings of Power"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "MT033",
+  "title": "Mindolluin",
+  "kind": "Mountain",
+  "tier": 2,
+  "blurb": "The great mountain at the eastern end of the White Mountains, beside Minas Tirith.",
+  "book": "Mount Mindolluin is the high peak at the eastern end of the White Mountains. The city of Minas Tirith is built on a spur of the mountain. The city climbs in seven levels up its slope, and the mountain stands behind it like a wall.\n\nThe tombs of the Kings and Stewards of Gondor lie in the Silent Street on its flank. Few climbed the high snowy slopes. After the War of the Ring, Aragorn goes up the mountain with Gandalf. There he finds a young sapling of the White Tree, which is planted in the court of the fountain.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Range": "White Mountains",
+   "Meaning": "Towering blue head (Sindarin)"
+  },
+  "related": [
+   "TO065",
+   "BU026",
+   "MT055",
+   "HI029"
+  ],
+  "sources": [
+   "The Return of the King, Book V and Book VI"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "MT039",
+  "title": "Mountains of Angmar",
+  "kind": "Mountain range",
+  "tier": 2,
+  "blurb": "A northern range where the Witch-king founded his evil realm of Angmar.",
+  "book": "The Mountains of Angmar lie at the northern end of the Misty Mountains. In the Third Age the Witch-king of Angmar, chief of the Nazgûl, ruled here. His land, Angmar, spread across these mountains and the cold lands around them.\n\nThe Witch-king gathered Orcs and evil men and made war on the Dúnedain kingdoms of Arnor. His main fortress was Carn Dûm. The war lasted for centuries and destroyed Arnor.\n\nAngmar fell in T.A. 1975, when an army from Gondor and Elves from Lindon defeated its forces near Fornost. The Witch-king fled and later appeared in Mordor.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Angmar",
+   "People": "Orcs, evil Men, the Witch-king",
+   "Stronghold": "Carn Dûm",
+   "Fate": "Realm fell T.A. 1975"
+  },
+  "related": [
+   "TO019",
+   "MT034",
+   "MT024",
+   "TO035"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "MT035",
+  "title": "Morgai",
+  "kind": "Mountain ridge",
+  "tier": 2,
+  "blurb": "The dark inner ridge of Mordor, west of the plateau of Gorgoroth.",
+  "book": "The Morgai is a harsh ridge that runs along the inner side of the Ephel Dúath in western Mordor. Between the two lies a dark and narrow valley. Past the Morgai, the land falls to the plateau of Gorgoroth.\n\nIn T.A. 3019 Frodo and Sam escape from the Tower of Cirith Ungol and cross the Morgai. They climb its steep, bare rock and pass down the other side. There they stay hidden from Orc patrols while they look across Gorgoroth to Mount Doom.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Mordor",
+   "Role": "Inner ridge of the Ephel Dúath",
+   "Seen in": "Frodo and Sam's journey"
+  },
+  "related": [
+   "MT014",
+   "FI025",
+   "FT025",
+   "MT036"
+  ],
+  "sources": [
+   "The Return of the King, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "MT014",
+  "title": "Ephel Dúath",
+  "kind": "Mountain range",
+  "tier": 2,
+  "blurb": "The Mountains of Shadow, forming the western and southern walls of Mordor.",
+  "book": "The Ephel Dúath, or Mountains of Shadow, form the western and southern walls of Mordor. They separate Mordor from Ithilien and from Gondor. Their name means the outer fences of shadow.\n\nA few passes cross them. The best known is Cirith Ungol above Minas Morgul, where the Tower of Cirith Ungol stands guard. Shelob, the great spider, lurks in a cave beneath the pass.\n\nMinas Morgul stands at the foot of the range, in the Valley of the Morgul. In T.A. 3019 Frodo, Sam and Gollum climb into the range toward Cirith Ungol. Frodo later crosses the inner ridge, the Morgai, to enter Mordor.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Mordor",
+   "Other names": "Mountains of Shadow",
+   "Pass": "Cirith Ungol"
+  },
+  "related": [
+   "VA034",
+   "FT025",
+   "TO064",
+   "MT035",
+   "MT016"
+  ],
+  "sources": [
+   "The Two Towers, Book IV",
+   "The Return of the King, Book VI"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "MT060",
+  "title": "Calenhad",
+  "kind": "Beacon hill",
+  "tier": 3,
+  "blurb": "One of the seven beacon hills of Gondor, in the White Mountains.",
+  "book": "Calenhad is a hill in the northern ridge of the White Mountains. Its name means green space. A beacon of Gondor stands on its crest, in the chain that links Minas Tirith to Rohan. In T.A. 3019 its fire is lit to carry the call for help from Gondor to King Théoden.",
+  "film": "The films show the beacons lit in a single fiery chain across the mountains.",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Meaning": "Green space",
+   "Role": "Beacon hill of Gondor"
+  },
+  "related": [
+   "BU085_55",
+   "MT058",
+   "MT055"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "MT041",
+  "title": "Mountains of Mirkwood",
+  "kind": "Mountain range",
+  "tier": 2,
+  "blurb": "A dark range in the north of Mirkwood, once Elvish and later infested by evil creatures.",
+  "book": "The Mountains of Mirkwood are a range in the northern part of the great forest of Mirkwood. In Sindarin they are Emyn Duir, the Dark Mountains. The Elves who lived in the forest once held these lands.\n\nAs the shadow grew in Mirkwood, the area became dangerous. Giant spiders and other evil creatures made their homes in the mountains and the woods around them. The Wood-elves of the Elvenking withdrew to the northern parts of the forest.\n\nThe range is named in the lore of the forest but does not appear in the main story of Bilbo or the Fellowship.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Northern Mirkwood",
+   "Other names": "Emyn Duir (Sindarin)",
+   "People": "Spiders, evil creatures; Elves once"
+  },
+  "related": [
+   "FO018",
+   "FT008",
+   "MT029"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A",
+   "Unfinished Tales"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "HI004",
+  "title": "Amon Hen",
+  "kind": "Hill and seat",
+  "tier": 1,
+  "blurb": "The Hill of Sight above Nen Hithoel, where the Fellowship of the Ring broke apart.",
+  "book": "Amon Hen is the Hill of the Eye, also called the Hill of Sight. It stands on the western shore of the lake Nen Hithoel, close to the falls of Rauros. The kings of Gondor built a high seat on its top. Anyone who sat there could see far across the surrounding lands.\n\nIts twin, Amon Lhaw, the Hill of Hearing, stands on the opposite shore. In T.A. 3019 the Fellowship camps near the hills while Frodo decides whether to go to Gondor or to Mordor.\n\nFrodo climbs Amon Hen alone. On the seat he puts on the Ring and sees many distant lands. He also feels the Eye of Sauron searching for him. Boromir tries to seize the Ring, and Frodo escapes. The Fellowship breaks, and Boromir dies defending Merry and Pippin from Orcs.",
+  "film": "The film shows Frodo's vision and the Uruk-hai attack on the slopes of the hill. Boromir's last stand is shown here.",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Meaning": "Hill of the Eye",
+   "Counterpart": "Amon Lhaw",
+   "Fate": "Fellowship breaks here, T.A. 3019"
+  },
+  "related": [
+   "HI006",
+   "LA013",
+   "FA007",
+   "DO002",
+   "HI022"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "HI006",
+  "title": "Amon Lhaw",
+  "kind": "Hill",
+  "tier": 2,
+  "blurb": "The Hill of Hearing, the twin of Amon Hen, on the eastern shore of Nen Hithoel.",
+  "book": "Amon Lhaw is the Hill of Hearing. It stands on the eastern bank of the Anduin at Nen Hithoel, opposite its twin Amon Hen, the Hill of Sight. Both hills were once part of the guarded lands of Gondor. The kings placed a seat on each hill, and these seats were long a point of watch.\n\nIn T.A. 3019 the Fellowship rests between the two hills at Parth Galen. Frodo sees the hill across the water. After the company breaks, Frodo and Sam cross toward the eastern shore and the Emyn Muil.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Meaning": "Hill of Hearing",
+   "Counterpart": "Amon Hen"
+  },
+  "related": [
+   "HI004",
+   "LA013",
+   "FA007",
+   "HI022"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "HI013",
+  "title": "Buck Hill",
+  "kind": "Hill",
+  "tier": 3,
+  "blurb": "The hill in Buckland where Brandy Hall is dug into the slope.",
+  "book": "Buck Hill rises in Buckland, east of the Brandywine River. Brandy Hall, the great Hobbit dwelling of the Brandybuck family, is dug into its side. Many Hobbits of the Brandybuck clan live inside the hill.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Buckland",
+   "People": "Brandybuck Hobbits",
+   "Contains": "Brandy Hall"
+  },
+  "related": [
+   "BU032",
+   "TO014",
+   "BR001"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "HI014",
+  "title": "Cerin Amroth",
+  "kind": "Hill",
+  "tier": 2,
+  "blurb": "A mound in the heart of Lothlórien, the centre of old Elvendom.",
+  "book": "Cerin Amroth is a high green mound in Lothlórien. Its slopes are covered with the golden elanor and white niphredil flowers. On its summit stands a ring of white trees, and a great mallorn with Amroth's flet.\n\nIt was the heart of the old Elf land. Amroth, a lord of Lothlórien, once dwelt there before he was lost at sea.\n\nHere Aragorn and Arwen plighted their troth in T.A. 2980. Frodo walks up the hill in T.A. 3019 and sees the beauty of the Elf land as it was long ago. Arwen later returns here and dies in Fo.A. 121.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Lothlórien",
+   "Meaning": "Mound of Amroth",
+   "Event": "Aragorn and Arwen pledge, T.A. 2980"
+  },
+  "related": [
+   "TO018",
+   "FO017",
+   "RI014",
+   "FI009"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "HI017",
+  "title": "Dol Baran",
+  "kind": "Hill",
+  "tier": 3,
+  "blurb": "A name from the map data set with no confirmed book source.",
+  "book": "This name comes from the map data set. I do not have a confirmed book source for it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "Meaning": "Shaven hill"
+  },
+  "related": [
+   "FO012",
+   "FT017"
+  ],
+  "sources": [
+   "Map data set only"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "HI020",
+  "title": "Emyn Arnen",
+  "kind": "Hills",
+  "tier": 2,
+  "blurb": "The hills of Ithilien, south of Osgiliath, later the home of Faramir.",
+  "book": "Emyn Arnen is a range of hills in southern Ithilien, east of the Anduin and south of Osgiliath. The name means hills of Arnen. It lies close to Minas Tirith.\n\nThe House of Húrin, one of the great families of Gondor, held lands near it. The hills were also associated with the Stewards.\n\nAfter the War of the Ring, King Elessar makes Faramir the Prince of Ithilien. Faramir and his wife Éowyn settle at Emyn Arnen. There they raise their family in peace, in the green hills east of the great river.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor, Ithilien",
+   "Meaning": "Hills of Arnen",
+   "Later seat": "Faramir, Prince of Ithilien"
+  },
+  "related": [
+   "TO065",
+   "TO078",
+   "FI024"
+  ],
+  "sources": [
+   "The Return of the King, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "HI022",
+  "title": "Emyn Muil",
+  "kind": "Hill country",
+  "tier": 2,
+  "blurb": "A wild, rocky hill country east of the Anduin, where Frodo and Sam became lost.",
+  "book": "The Emyn Muil is a maze of high, jagged ridges and bare cliffs. The name means the drear hills. It lies on both sides of the Anduin between Nen Hithoel and the Dead Marshes. No one lives there.\n\nAfter the Fellowship breaks, Frodo and Sam cross the river and enter the Emyn Muil. They find it hard to move through. They wander among crags, cliffs and gullies for days.\n\nGollum finds them there. They lower themselves down a sheer cliff on an Elven rope, a gift from Galadriel. Frodo then takes Gollum as a guide. Gollum leads them through the marshes toward the Black Gate.",
+  "film": "The films show the Emyn Muil as sharp grey rocks, where Sam and Frodo pull Gollum along on the Elven rope.",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor, uninhabited",
+   "Meaning": "The drear hills",
+   "Role": "Frodo and Sam meet Gollum"
+  },
+  "related": [
+   "HI004",
+   "HI006",
+   "SW002",
+   "DO002"
+  ],
+  "sources": [
+   "The Two Towers, Book IV"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "HI023",
+  "title": "Erech",
+  "kind": "Hill",
+  "tier": 2,
+  "blurb": "A hill with a black stone where the Men of the Mountains swore a broken oath.",
+  "book": "Erech is a lonely hill in the south of the White Mountains, near the Paths of the Dead. On its top stands a great round black stone. Isildur brought it from Númenor.\n\nThe Men of the Mountains swore an oath to Isildur there, to fight against Sauron. They broke it by failing to come to the war. Isildur cursed them to remain unresting until they fulfilled the oath. They became the Dead Men of Dunharrow.\n\nIn T.A. 3019 Aragorn leads the Grey Company through the Paths of the Dead and reaches Erech. He calls the dead to the Stone and demands that they honour their oath. They follow him.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Feature": "Black Stone of Isildur",
+   "Event": "Oath of the Dead; Aragorn's summons",
+   "Near": "Paths of the Dead"
+  },
+  "related": [
+   "VA040",
+   "RD030",
+   "DO007",
+   "MT055"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "HI029",
+  "title": "Hill of Guard",
+  "kind": "Hill",
+  "tier": 3,
+  "blurb": "The hill on which the citadel of Minas Tirith stands.",
+  "book": "The Hill of Guard is the hill on which Minas Tirith is built. It rises from the spur of Mindolluin. The city climbs its slope in seven levels. The Citadel stands at the top.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Other names": "Amon Tirith",
+   "Site of": "Minas Tirith"
+  },
+  "related": [
+   "TO065",
+   "MT033",
+   "BU026"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "HI052",
+  "title": "Weathertop",
+  "kind": "Hill with ruined tower",
+  "tier": 1,
+  "blurb": "Amon Sûl, an ancient watch-hill where the Nazgûl wounded Frodo.",
+  "book": "Weathertop is a bare hill at the southern end of the Weather Hills, east of Bree. Its Elvish name is Amon Sûl. The Dúnedain of Arnor built the great Tower of Amon Sûl there. It once held the chief palantír of the northern kingdom.\n\nThe tower was burned and broken by the Witch-king's forces in T.A. 1409. Only a ruined ring of stones remains on the summit. The hill is bare, windy and gives wide views over the roads below, which makes it a good watch-place.\n\nOn 6 October T.A. 3018 Frodo and his friends camp there with Strider. The Nazgûl attack at night. The Witch-king stabs Frodo with a Morgul-blade, and the wound nearly kills him. Aragorn finds on a stone a sign left by Gandalf, which shows that Gandalf passed there days before.",
+  "film": "The film shows the attack at Weathertop. Frodo wears the Ring and the Witch-king stabs him.",
+  "series": "",
+  "facts": {
+   "Realm": "Eriador, Arnor ruins",
+   "Other names": "Amon Sûl",
+   "Tower burned": "T.A. 1409",
+   "Event": "Frodo wounded, T.A. 3018"
+  },
+  "related": [
+   "HI051",
+   "TO011",
+   "TO084",
+   "SW010",
+   "FO033"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "HI032",
+  "title": "Hills of Evendim",
+  "kind": "Hills",
+  "tier": 3,
+  "blurb": "Hills in northern Eriador, near Lake Evendim and the ruins of Annúminas.",
+  "book": "The Hills of Evendim lie in northern Eriador, close to Lake Evendim. Their Sindarin name is Emyn Uial, the hills of dusk. The ruined city of Annúminas stands near them. The lands are empty in the Third Age.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Eriador, north",
+   "Other names": "Emyn Uial (Sindarin)",
+   "Near": "Annúminas"
+  },
+  "related": [
+   "TO006",
+   "HI039"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "HI035",
+  "title": "Hobbiton Hill",
+  "kind": "Hill",
+  "tier": 2,
+  "blurb": "The Hill, where Bag End and many Hobbit homes lie above Hobbiton.",
+  "book": "Hobbiton Hill, often called simply the Hill, rises above the village of Hobbiton and the river called the Water. Bag End, the home of Bilbo and later of Frodo Baggins, is dug into its side at the top of Bagshot Row.\n\nMany Hobbit holes line the slope. The Party Field lies beneath it, where Bilbo gives his farewell party in T.A. 3001.\n\nGandalf visits Bag End in the Hill, and Frodo leaves it in T.A. 3018 to take the Ring away. After the Scouring of the Shire, Sam rebuilds the Hobbiton homes and settles at Bag End.",
+  "film": "The film shows the Hill with its round green doors and gardens. Bag End sits among the rolling hills.",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits",
+   "Houses": "Bag End, Bagshot Row"
+  },
+  "related": [
+   "BU030",
+   "TO050",
+   "RI080",
+   "TO016"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "HI046",
+  "title": "Tarnost",
+  "kind": "Hills",
+  "tier": 3,
+  "blurb": "A name from the map data set with no confirmed book source.",
+  "book": "This name comes from the map data set. I do not have a confirmed book source for it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor"
+  },
+  "related": [
+   "MT055"
+  ],
+  "sources": [
+   "Map data set only"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "HI039",
+  "title": "North Downs",
+  "kind": "Hills",
+  "tier": 3,
+  "blurb": "Grassy hills in northern Eriador, near the ruins of Fornost.",
+  "book": "The North Downs are low hills in northern Eriador. The ruined fortress of Fornost Erain stands on them. Few people live there in the Third Age. The Rangers of the North still ride through the area to watch for danger.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Eriador, north",
+   "Near": "Fornost Erain",
+   "People": "Rangers pass through"
+  },
+  "related": [
+   "TO035",
+   "HI051",
+   "TO006"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "HI051",
+  "title": "Weather Hills",
+  "kind": "Hill range",
+  "tier": 2,
+  "blurb": "A range of hills in Eriador east of Bree, with Weathertop at the southern end.",
+  "book": "The Weather Hills, in Sindarin Emyn Sûl, are a line of rough hills in Eriador, east of Bree. Weathertop, the tall hill with the ruins of Amon Sûl, stands at the southern end.\n\nThe hills belonged to the kingdom of Arnor. The Dúnedain kept watch from them in old days. In the Third Age they are empty of people.\n\nIn T.A. 3018 Frodo, his friends and Strider travel along the northern side of the hills. The road passes through bare hilly country on the way to Rivendell. They then reach the Last Bridge and the Trollshaws.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Eriador",
+   "Other names": "Emyn Sûl (Sindarin)",
+   "Highest hill": "Weathertop (Amon Sûl)"
+  },
+  "related": [
+   "HI052",
+   "TO011",
+   "FO033",
+   "BR008"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "HI037",
+  "title": "Iron Hills",
+  "kind": "Hill range",
+  "tier": 2,
+  "blurb": "A range east of the Lonely Mountain, home to a mighty Dwarf realm.",
+  "book": "The Iron Hills lie east of the Lonely Mountain, in the north of Rhovanion. They are rich in iron and other metals. A strong Dwarf colony of Durin's folk lives there.\n\nWhen Smaug destroyed Erebor in T.A. 2770, many Dwarves fled to the Iron Hills. Dáin Ironfoot, cousin of Thorin Oakenshield, became lord of the Iron Hills.\n\nAfter Thorin's company retakes the Lonely Mountain in T.A. 2941, Dáin comes quickly to help them. He brings a large army of Dwarves and takes part in the Battle of Five Armies. After Thorin's death, Dáin becomes king under the Mountain.",
+  "film": "In The Hobbit films, Dáin brings an armoured army to the Lonely Mountain. He is shown riding a war boar.",
+  "series": "",
+  "facts": {
+   "Realm": "Rhovanion, east of Erebor",
+   "People": "Durin's folk (Dwarves)",
+   "Ruler": "Dáin II Ironfoot"
+  },
+  "related": [
+   "MT029",
+   "MT022",
+   "TO051",
+   "TO024"
+  ],
+  "sources": [
+   "The Hobbit, Chapter XVII",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "HI036",
+  "title": "Hollin Ridge",
+  "kind": "Ridge",
+  "tier": 3,
+  "blurb": "A ridge in Hollin, west of the Misty Mountains, where the Fellowship saw spying crebain.",
+  "book": "Hollin Ridge lies in Hollin, the old land of Eregion, west of the Misty Mountains. In T.A. 3019 the Fellowship rests here after turning back from Caradhras. Legolas sees dark birds, the crebain of Dunland, flying overhead. The company hides until the birds pass.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Hollin (Eregion)",
+   "Event": "Crebain spy on the Fellowship"
+  },
+  "related": [
+   "MT006",
+   "TO066",
+   "MT034"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "HI048",
+  "title": "Tower Hills",
+  "kind": "Hills",
+  "tier": 3,
+  "blurb": "Hills west of the Shire where the Elf-towers of Emyn Beriad stand.",
+  "book": "The Tower Hills lie on the western edge of the Shire. The Elves built tall white towers on them. The tallest, Elostirion, holds the palantír of Elendil. It looks only across the sea toward Valinor. Cirdan the Shipwright keeps the Grey Havens nearby.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Lindon border",
+   "Other names": "Emyn Beriad (Sindarin)",
+   "Contains": "Elostirion, the White Towers"
+  },
+  "related": [
+   "BU029",
+   "BU015",
+   "TO102",
+   "TO043"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue and Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "HI025",
+  "title": "Far Downs",
+  "kind": "Hills",
+  "tier": 3,
+  "blurb": "Low hills on the western side of the Shire, toward the Tower Hills.",
+  "book": "The Far Downs are low, rolling hills on the western side of the Shire. They stand between the Westfarthing and the Tower Hills. Hobbits live in the countryside there. The Shire road to the Grey Havens passes this way.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire, west",
+   "People": "Hobbits"
+  },
+  "related": [
+   "HI053",
+   "HI048",
+   "TO061"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "HI033",
+  "title": "Hills of Scary",
+  "kind": "Hills",
+  "tier": 3,
+  "blurb": "Hills in the Shire, named on the map of the Shire.",
+  "book": "The Hills of Scary lie in the Shire. They are named on the map of the Shire. The area has quarries and rough ground. The village of Scary lies close to the hills.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits"
+  },
+  "related": [
+   "TO050",
+   "TO016"
+  ],
+  "sources": [
+   "The Lord of the Rings, Map of the Shire"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "HI053",
+  "title": "White Downs",
+  "kind": "Hills",
+  "tier": 3,
+  "blurb": "Chalk hills in the western Shire, where the town of Michel Delving stands.",
+  "book": "The White Downs are chalk hills in the Westfarthing of the Shire. Michel Delving, the chief town of the Shire, stands on them. The Hobbits who live there keep the Mathom-house and the Shire's main offices.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire, Westfarthing",
+   "People": "Hobbits",
+   "Town": "Michel Delving"
+  },
+  "related": [
+   "TO061",
+   "HI025",
+   "HI027"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "HI012",
+  "title": "Bree-hill",
+  "kind": "Hill",
+  "tier": 2,
+  "blurb": "The hill above Bree, with the village on its western slope.",
+  "book": "Bree-hill is a large hill in Bree-land, east of the Shire. The village of Bree stands on its western slope, and Staddle lies on the other side. The Great East Road and the Greenway cross near its foot.\n\nThe Men of Bree live in the upper houses, and Hobbits live in holes in the hillside. The hill rises above the marshes to the east and the hills around it.\n\nFrodo and his friends reach Bree in T.A. 3018 and stay at the Prancing Pony. They meet Strider there. The Barrow-downs and the Weather Hills lie to the south and east.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Bree-land",
+   "People": "Men and Hobbits",
+   "Villages": "Bree, Staddle"
+  },
+  "related": [
+   "TO011",
+   "DO037",
+   "SW010",
+   "HI052"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "HI045",
+  "title": "South Downs",
+  "kind": "Hills",
+  "tier": 3,
+  "blurb": "Hills south of Bree and the Barrow-downs, named on the map of Eriador.",
+  "book": "The South Downs are grassy hills in Eriador, south of Bree and the Barrow-downs. The Greenway road passes along them toward the south. Few people live there in the Third Age.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Eriador",
+   "Near": "Barrow-downs, Bree-land"
+  },
+  "related": [
+   "HI011",
+   "TO011",
+   "TO093"
+  ],
+  "sources": [
+   "The Lord of the Rings, Map of Eriador"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "HI011",
+  "title": "Barrow-downs",
+  "kind": "Hills and burial mounds",
+  "tier": 2,
+  "blurb": "Haunted downs east of the Old Forest, full of ancient burial mounds and wights.",
+  "book": "The Barrow-downs are a line of low hills east of the Old Forest and west of Bree. Ancient burial mounds cover them. The Dúnedain kings and lords of Cardolan were buried there long ago.\n\nIn the days of the Witch-king, evil spirits from Angmar entered the mounds. These barrow-wights still haunt the downs.\n\nIn T.A. 3018 Frodo, Sam, Merry and Pippin are taken by a barrow-wight. Tom Bombadil rescues them and breaks the spell. He gives each Hobbit an old Dúnedain dagger from the barrow hoard. Merry's blade later helps to kill the Witch-king.",
+  "film": "The films do not show the Barrow-downs. The book scene with the wight and Tom Bombadil is left out.",
+  "series": "",
+  "facts": {
+   "Realm": "Eriador, formerly Cardolan",
+   "People": "Barrow-wights",
+   "Event": "Hobbits rescued by Tom Bombadil"
+  },
+  "related": [
+   "FO023",
+   "TO011",
+   "HI045",
+   "RI083"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "HI042",
+  "title": "Ravenhill",
+  "kind": "Hill and watch-post",
+  "tier": 2,
+  "blurb": "A hill by the Lonely Mountain, used as a watch-post by Dwarves and ravens.",
+  "book": "Ravenhill is a rocky hill before the Lonely Mountain. An old Dwarf guard-post stands on its top. Ravens live there, led by the great raven Roäc. They are friends to the Dwarves.\n\nIn T.A. 2941 Thorin's company learns from the ravens that Smaug is dead. Bilbo watches the Battle of Five Armies from Ravenhill. Thorin and his Dwarf kin fight there.\n\nThe ravens help bring news to Dáin and the Dwarves. Roäc brings warnings to Thorin as well. After the battle, the ravens of Ravenhill remain allies of the Dwarves under the Mountain.",
+  "film": "In the Hobbit films, Thorin fights Azog on Ravenhill, in a ruined stone watch-post.",
+  "series": "",
+  "facts": {
+   "Realm": "Erebor",
+   "People": "Ravens; Dwarf watch",
+   "Event": "Part of the Battle of Five Armies"
+  },
+  "related": [
+   "MT029",
+   "TO051",
+   "TO024"
+  ],
+  "sources": [
+   "The Hobbit, Chapters XV-XVIII"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "HI027",
+  "title": "Green Hills",
+  "kind": "Hills",
+  "tier": 3,
+  "blurb": "The rolling hills of the Shire around Hobbiton and Tuckborough.",
+  "book": "The Green Hills are rolling hills in the Shire. Many Hobbits live in the holes in their slopes. The countryside around Hobbiton and Tuckborough is known as Green Hill Country.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits",
+   "Region": "Green Hill Country"
+  },
+  "related": [
+   "TO097",
+   "TO050",
+   "HI035"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "HI044",
+  "title": "Slag-hills",
+  "kind": "Slag heaps",
+  "tier": 3,
+  "blurb": "Heaps of slag and refuse before the Black Gate of Mordor.",
+  "book": "The Slag-hills are huge heaps of waste, ash and rubble that lie before the Black Gate of Mordor. They were made by the work of Sauron's servants and by the labour of Orc diggers. Frodo and Sam pass close to them.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Mordor, outside the Gate",
+   "Near": "Morannon"
+  },
+  "related": [
+   "FI006",
+   "VA031",
+   "FI004"
+  ],
+  "sources": [
+   "The Two Towers, Book IV"
+  ],
+  "confidence": "low"
+ }
+]

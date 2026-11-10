@@ -1,0 +1,981 @@
+[
+ {
+  "id": "MT01",
+  "title": "Ered Engrin",
+  "kind": "Mountain range of the far north",
+  "tier": 2,
+  "blurb": "The Iron Mountains form the great northern wall behind Morgoth's strongholds.",
+  "book": "Ered Engrin is the long chain of mountains that closes the far north of the world. Its name means the Iron Mountains.\n\nMorgoth made his fortresses in this region. Before the Sun and Moon, his first great stronghold Utumno lay in the north, and the mountains stood as a barrier behind his lands. After the Valar broke Utumno, he kept Angband in the same northern country, below Thangorodrim.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Iron Mountains",
+   "Other names": "Iron Mountains"
+  },
+  "facts": {
+   "Region": "Far north, behind Angband",
+   "Ruler": "Morgoth's domain"
+  },
+  "related": [
+   "MT02",
+   "FT01",
+   "RG20"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 3 and 4"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "MT02",
+  "title": "Thangorodrim",
+  "kind": "Volcanic towers above Angband",
+  "tier": 1,
+  "blurb": "Three smoking peaks raised by Morgoth above the gates of Angband.",
+  "book": "Thangorodrim is a mass of three great peaks that Morgoth piled up from the slag and ash taken out of the pits of Angband. It stands in the north of the world, just beyond the plain of Ard-galen. The name means the Mountains of Tyranny.\n\nThe peaks stand over the gates of Angband and pour out smoke. In the Dagor Bragollach, the Battle of Sudden Flame, rivers of fire ran from them and burned the green plain, which then became Anfauglith.\n\nBefore these gates Fingolfin rode alone, challenged Morgoth to single combat, and died after wounding his enemy seven times. Beren and Lúthien passed through the gates in their quest for a Silmaril. After the Nírnaeth Arnoediad, Morgoth bound Húrin on a stone seat on the heights and made him watch the doom of his children.\n\nIn the War of Wrath the host of the Valar broke Thangorodrim apart, and Beleriand collapsed in the upheaval.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Mountains of Tyranny",
+   "Other names": "Thangorodrim"
+  },
+  "facts": {
+   "Realm": "Morgoth's fortress of Angband",
+   "Built": "After Morgoth returned with the Silmarils",
+   "Fate": "Broken in the War of Wrath"
+  },
+  "related": [
+   "FT01",
+   "RG20",
+   "MT01",
+   "RG21"
+  ],
+  "sources": [
+   "The Silmarillion, chs. 4, 18, 19 and 22",
+   "The Children of Húrin"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "MT03",
+  "title": "Ered Lómin",
+  "kind": "Echoing Mountains of Hithlum",
+  "tier": 2,
+  "blurb": "The Echoing Mountains are the western wall of Hithlum, above the Firth of Drengist.",
+  "book": "Ered Lómin is the mountain chain that forms the western wall of Hithlum. It runs near the sea and shuts the land off from the coast of Lammoth. The name means Echoing Mountains.\n\nThe mountains earn their name from the strange echoes that fill the land below them. The Silmarillion links the echoes to the terrible cry of Morgoth when Ungoliant seized him in Lammoth. The Firth of Drengist cuts into the range from the sea.\n\nThe Sindar of Hithlum and later the Noldor of Fingolfin lived east of these peaks, which gave Hithlum a natural western defence. The range did not survive the breaking of Beleriand.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Echoing Mountains",
+   "Other names": "Echoing Mountains"
+  },
+  "facts": {
+   "Region": "West wall of Hithlum",
+   "Nearby": "Lammoth and Firth of Drengist"
+  },
+  "related": [
+   "RG01",
+   "RG23",
+   "BA01",
+   "MT04"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 13 and 14"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "MT04",
+  "title": "Ered Wethrin",
+  "kind": "Mountains of Shadow",
+  "tier": 1,
+  "blurb": "The great mountain wall that guards Hithlum on the south and east.",
+  "book": "Ered Wethrin is the mighty chain of dark mountains that rings Hithlum on its southern and eastern sides. Its name means the Mountains of Shadow. The range separates Hithlum from the lands to the south and from Dorthonion.\n\nThe mountains shield Hithlum from Beleriand. On their eastern side stands the fortress of Barad Eithel at Eithel Sirion, held by Fingolfin and later by Fingon.\n\nThe Eldar and Edain of Hithlum guarded these heights as the defence of the north-west. At their foot lie the pools of Eithel Ivrin, from which the river Narog flows.\n\nIn the Nírnaeth Arnoediad the hosts of Fingon and Hithlum marched out from these mountains toward the plain of Anfauglith. After the defeat, Morgoth's servants poured into Hithlum, and the Elves and Edain lost their northern home.\n\nThe range sank with Beleriand at the end of the First Age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Mountains of Shadow",
+   "Other names": "Shadowy Mountains"
+  },
+  "facts": {
+   "Realm": "Hithlum, the Noldor of Fingolfin",
+   "Role": "South and east wall of Hithlum",
+   "Fate": "Drowned with Beleriand"
+  },
+  "related": [
+   "RG01",
+   "FT02",
+   "LA04",
+   "RG11",
+   "MT03"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 and 18",
+   "Unfinished Tales"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "MT05",
+  "title": "Mountains of Mithrim",
+  "kind": "Mountain spur of Hithlum",
+  "tier": 2,
+  "blurb": "A spur of mountains that divides the land of Mithrim from Dor-lómin.",
+  "book": "The Mountains of Mithrim form a spur of the great northern highlands. They stand between the lake country of Mithrim and the land of Dor-lómin to the west. The spur ties into the Ered Wethrin.\n\nMithrim was the home of Grey-elves and later of the Noldor. Dor-lómin became the realm of the House of Hador. These mountains marked the border of the two lands.\n\nThe heights played little direct part in the great tales, but they lie within the guarded country of Hithlum.",
+  "film": "",
+  "series": "",
+  "names": {},
+  "facts": {
+   "Region": "Between Mithrim and Dor-lómin"
+  },
+  "related": [
+   "RG03",
+   "RG02",
+   "MT04"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "MT07",
+  "title": "Mount Taras",
+  "kind": "Headland mountain of Nevrast",
+  "tier": 2,
+  "blurb": "A tall mountain at the western edge of Nevrast, beneath which Turgon built Vinyamar.",
+  "book": "Mount Taras is a great headland mountain at the western end of Nevrast, close to the sea. It rises above the shore like a fortress of stone.\n\nTurgon chose a site at the foot of the mountain for Vinyamar, his first dwelling in Beleriand. There he built a tower and a high hall, looking out over Nevrast and the sea. Turgon left Vinyamar when he moved to the hidden city of Gondolin.\n\nYears later Tuor came to the empty halls of Vinyamar. Ulmo had guided him there, and he found the weapons that Turgon had left for him. From Vinyamar, he began his road toward Gondolin.\n\nThe mountain sank in the ruin of Beleriand.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "Taras"
+  },
+  "facts": {
+   "Region": "Nevrast, near the sea",
+   "Nearby": "Vinyamar at its foot"
+  },
+  "related": [
+   "TO04",
+   "RG04",
+   "LA05",
+   "TO03"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 15 and 23",
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "MT08",
+  "title": "Echoriath",
+  "kind": "Encircling Mountains around Gondolin",
+  "tier": 1,
+  "blurb": "The ring of steep mountains that hides the valley of Tumladen and Gondolin.",
+  "book": "The Echoriath, the Encircling Mountains, form a great ring of sheer peaks in the middle of Beleriand. Inside them lies the green valley of Tumladen, and on its hill stands the hidden city of Gondolin.\n\nThe mountains are so steep that nothing can cross them except the eagles. Only one way leads inside: a hidden tunnel and then a deep ravine, the Orfalch Echor, guarded by seven gates. Turgon sealed it when he went in with his people and let no stranger pass. Morgoth searched for the valley for centuries and never found it.\n\nThe southern peaks, called Crissaegrim, are the home of Thorondor and the eagles.\n\nThe mountains kept the city safe until Maeglin betrayed its secret. Morgoth's army, with balrogs and dragons, then came over the heights and destroyed Gondolin. Tuor and the survivors fled by a secret path, and the range itself sank beneath the waves at the end of the age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Encircling Mountains",
+   "Other names": "Encircling Mountains"
+  },
+  "facts": {
+   "Realm": "Hidden kingdom of Gondolin",
+   "People": "Noldor of Turgon; Eagles on the south",
+   "Fate": "Sunk at the end of the First Age"
+  },
+  "related": [
+   "TO03",
+   "DO01",
+   "CR01",
+   "VA07"
+  ],
+  "sources": [
+   "The Silmarillion, chs. 15 and 23",
+   "The Fall of Gondolin"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "MT09",
+  "title": "Ered Gorgoroth",
+  "kind": "Mountains of Terror",
+  "tier": 2,
+  "blurb": "The steep southern cliffs of Dorthonion that overlook the haunted valley of Nan Dungortheb.",
+  "book": "Ered Gorgoroth, the Mountains of Terror, are the southern precipices of Dorthonion. They drop down toward Nan Dungortheb, the Valley of Dreadful Death, where the monstrous spiders bred by Ungoliant lived.\n\nThe cliffs are among the most dangerous places in Beleriand. After Sauron's servants hunted him in the northern woods, Beren climbed these mountains alone and in despair. He was close to ruin when he came down to the forest of Doriath. The lands below the mountains were so full of dread that few Elves ever went near them.\n\nOn their other side lay the wide valley of Nan Dungortheb. They did not survive the sinking of Beleriand.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Mountains of Terror",
+   "Other names": "Mountains of Terror"
+  },
+  "facts": {
+   "Region": "South edge of Dorthonion",
+   "Below": "Nan Dungortheb",
+   "Fate": "Lost with Beleriand"
+  },
+  "related": [
+   "RG11",
+   "RG10",
+   "RG07",
+   "FO08"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 and 19"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "MT11",
+  "title": "Ered Luin",
+  "kind": "Blue Mountains, east wall of Beleriand",
+  "tier": 1,
+  "blurb": "The Blue Mountains form the eastern wall of Beleriand and hold the Dwarf-cities.",
+  "book": "Ered Luin, the Blue Mountains, stand at the eastern edge of Beleriand and divide it from the lands beyond. The Eldar crossed them in the Great Journey, and Dwarves settled in their roots.\n\nThe Dwarves of Belegost and Nogrod built great mansions on the eastern side of the range. They traded with Doriath and made much of its beauty. The Dwarf-road ran from the mountains toward the fords of Gelion at Sarn Athrad. Dwarves and Elves worked together there before the quarrel over the Nauglamír.\n\nAfter the return of the Noldor, Caranthir settled Thargelion below the northern end of the range. Maglor's Gap and Lake Helevorn lay near that end.\n\nWhen Beleriand sank, the range was broken and the sea came through it, but the mountains survived. West of them a remnant of Ossiriand stayed above water as Lindon, which the Elves kept in the Second Age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Blue Mountains",
+   "Other names": "Ered Lindon, Blue Mountains"
+  },
+  "facts": {
+   "Realm": "Eastern boundary of Beleriand",
+   "People": "Dwarves of Belegost and Nogrod",
+   "Fate": "Broken, but survives into later ages"
+  },
+  "related": [
+   "TO09",
+   "TO10",
+   "RD01",
+   "FJ03",
+   "MT13"
+  ],
+  "sources": [
+   "The Silmarillion, chs. 2, 10, 13 and 24"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "MT12",
+  "title": "Mount Rerir",
+  "kind": "Mountain of the Blue Mountains",
+  "tier": 2,
+  "blurb": "A peak at the northern end of Ered Luin, above Lake Helevorn and a source of the Gelion.",
+  "book": "Mount Rerir is a mountain at the northern end of the Blue Mountains. It looms above Lake Helevorn, and the river Gelion rises among its slopes.\n\nThe land below it belonged to Caranthir, third son of Fëanor, who ruled Thargelion. His folk lived in the lands around the lake. The Fëanorian settlement guarded the region against attacks from the north.\n\nThe mountain was part of the eastern wall of Beleriand and perished with the sinking of that land.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "Rerir"
+  },
+  "facts": {
+   "Region": "North of Ered Luin",
+   "Nearby": "Lake Helevorn; source of Gelion"
+  },
+  "related": [
+   "LA02",
+   "RI08",
+   "RG15",
+   "MT11"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "MT13",
+  "title": "Mount Dolmed",
+  "kind": "Peak of the Blue Mountains",
+  "tier": 2,
+  "blurb": "A great peak of Ered Luin, close to the cities of Belegost and Nogrod.",
+  "book": "Mount Dolmed is a high peak in the central Blue Mountains. The Dwarf-cities of Nogrod and Belegost lay near it, on the eastern side of the range.\n\nThe Dwarves worked the mountains around it. The Dwarf-road came over the range near its heights and ran west into Beleriand.\n\nThe tales tell little about it. It stands as a landmark of Dwarf-country.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "Dolmed"
+  },
+  "facts": {
+   "Region": "Ered Luin, near Dwarf-cities",
+   "Nearby": "Belegost and Nogrod"
+  },
+  "related": [
+   "MT11",
+   "TO09",
+   "TO10",
+   "RD01"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 22"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "HI01",
+  "title": "Taur-en-Faroth",
+  "kind": "Wooded highlands above Nargothrond",
+  "tier": 2,
+  "blurb": "The High Faroth are wooded hills west of the Narog, above the caves of Nargothrond.",
+  "book": "Taur-en-Faroth, the Highlands of the Hunters, is a rugged region of wooded hills on the western side of the river Narog. It rises directly above the hidden halls of Nargothrond. The Elves of Nargothrond hunted in these woods.\n\nFinrod Felagund founded Nargothrond below these heights after he saw Menegroth. The hills formed a natural watch above the caves.\n\nThe highlands sank with the rest of Beleriand.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Highlands of the Hunters",
+   "Other names": "High Faroth, the Faroth"
+  },
+  "facts": {
+   "Realm": "Nargothrond",
+   "Region": "West bank of the Narog",
+   "Fate": "Sunk at the end of the First Age"
+  },
+  "related": [
+   "TO02",
+   "RI02",
+   "HI06",
+   "RG06"
+  ],
+  "sources": [
+   "The Silmarillion, chs. 14 and 21"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "HI02",
+  "title": "Andram",
+  "kind": "Line of hills called the Long Wall",
+  "tier": 2,
+  "blurb": "The Long Wall is a ridge that runs east from the Narog and divides Beleriand.",
+  "book": "Andram, the Long Wall, is a line of hills where the land of Beleriand falls from the north to the south. It runs from the area of Nargothrond in the west to Ramdal in the east.\n\nWhere the Sirion meets the Wall, it falls in a great cataract and runs under the hills, coming out again at the Gates of Sirion. Beyond the Wall, the land becomes lower and flatter, with the Forest between the Rivers lying to the south.\n\nThe Wall served as a natural boundary between the northern and southern halves of Beleriand.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Long Wall",
+   "Other names": "Long Wall"
+  },
+  "facts": {
+   "Region": "Central Beleriand, east-west ridge",
+   "Ends": "Ramdal in the east"
+  },
+  "related": [
+   "HI05",
+   "CA01",
+   "FA02",
+   "FO06"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "HI03",
+  "title": "Amon Rûdh",
+  "kind": "Bald Hill, lair of Túrin",
+  "tier": 1,
+  "blurb": "The Bald Hill is a barren mount where Mîm the Dwarf lived and Túrin made his stronghold.",
+  "book": "Amon Rûdh, the Bald Hill, is a lonely hill whose top is bare of trees. It stands in the highlands south of the river Teiglin, near Nargothrond. Its caves held the house of Mîm, one of the Petty-dwarves.\n\nTúrin, son of Húrin, became an outlaw after he left Doriath. His band was called the Gaurwaith. They captured Mîm and spared his life for a ransom. Mîm then took them to the hill, and they lived in his halls, Bar-en-Danwedh, the House of Ransom.\n\nBeleg Cuthalion found Túrin there and joined him. For a while the band prospered. Then Mîm betrayed them to the Orcs. The Orcs captured Túrin, and many of his men died. Mîm had already lost a son, Khîm, to an outlaw's arrow when the band first caught him. Húrin later killed Mîm at Nargothrond.\n\nThe hill sank with Beleriand.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Bald Hill",
+   "Dwarvish name": "Sharbhund",
+   "House within": "Bar-en-Danwedh, House of Ransom"
+  },
+  "facts": {
+   "Dweller": "Mîm, a Petty-dwarf",
+   "Outlaws": "Túrin's band, the Gaurwaith",
+   "Fate": "Sunk at the end of the First Age"
+  },
+  "related": [
+   "HI01",
+   "HI06",
+   "TO02",
+   "FO08"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 21",
+   "The Children of Húrin"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "HI04",
+  "title": "Amon Ereb",
+  "kind": "Lonely Hill of East Beleriand",
+  "tier": 2,
+  "blurb": "A solitary hill in East Beleriand where Denethor, king of the Green-elves, was slain.",
+  "book": "Amon Ereb, the Lonely Hill, stands by itself in the open lands of East Beleriand. It lies west of the river Gelion.\n\nThere Denethor, leader of the Green-elves of Ossiriand, fell in the first great battle against Morgoth's Orcs. He had come to help Thingol, and his folk lost much of their strength there.\n\nAfter this, the Green-elves withdrew to the forests of Ossiriand. The hill remained a lonely mark in the land.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Lonely Hill",
+   "Other names": "Lonely Hill"
+  },
+  "facts": {
+   "Region": "East Beleriand",
+   "Event": "Death of Denethor"
+  },
+  "related": [
+   "RG16",
+   "RG18",
+   "RI08",
+   "HI05"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 and 17"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "HI05",
+  "title": "Ramdal",
+  "kind": "Eastern end of the Andram",
+  "tier": 2,
+  "blurb": "Ramdal, the Wall's End, is where the Long Wall of Andram comes to an end.",
+  "book": "Ramdal means the Wall's End. It marks the eastern end of the Andram, the long ridge that crosses Beleriand from the Narog. The ridge there falls away to the lands near the river Gelion.\n\nThe place is a landmark of East Beleriand and lies near Amon Ereb.\n\nLittle happens there in the tales.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Wall's End"
+  },
+  "facts": {
+   "Region": "East Beleriand",
+   "Nearby": "Andram, Amon Ereb"
+  },
+  "related": [
+   "HI02",
+   "HI04",
+   "RI08"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "HI06",
+  "title": "Amon Ethir",
+  "kind": "Hill of Spies near Nargothrond",
+  "tier": 2,
+  "blurb": "A great mound raised by Finrod a league east of the gates of Nargothrond.",
+  "book": "Amon Ethir, the Hill of Spies, is a tall hill raised by Finrod Felagund. It stands about a league east of the doors of Nargothrond, on the plain across the river Narog.\n\nFrom the top, a watcher could see far across the land. Finrod made it with great labour.\n\nAfter the fall of Nargothrond, Mablung led Morwen and Nienor there to learn news of Túrin. Glaurung came out against them, and on the hill Nienor fell under his spell and lost all memory.\n\nThe hill was lost when Beleriand sank.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Hill of Spies",
+   "Other names": "Hill of Spies"
+  },
+  "facts": {
+   "Maker": "Finrod Felagund",
+   "Realm": "Nargothrond"
+  },
+  "related": [
+   "TO02",
+   "HI01",
+   "HI03",
+   "RI02"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 21",
+   "The Children of Húrin"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "CR01",
+  "title": "Crissaegrim",
+  "kind": "Eagle peaks of the Echoriath",
+  "tier": 2,
+  "blurb": "The southern peaks of the Echoriath, where Thorondor and the Eagles keep their eyries.",
+  "book": "Crissaegrim is the group of tall peaks at the southern end of the Echoriath. The Great Eagles have their nests there, and Thorondor, lord of the Eagles, lives among them.\n\nThe Eagles watch Beleriand from these heights. They are the only creatures that can cross the Encircling Mountains with ease, and they keep the secret of Gondolin.\n\nWhen Beren and Lúthien escaped from Angband, Thorondor rescued them and took them to safety. Thorondor also carried the body of Fingolfin from Thangorodrim. The Eagles served as messengers for the Valar and Turgon.\n\nThe peaks were lost when the land sank.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "Eyries of Thorondor"
+  },
+  "facts": {
+   "Dweller": "Thorondor and the Eagles",
+   "Realm": "Gondolin's southern mountains"
+  },
+  "related": [
+   "MT08",
+   "TO03",
+   "MT02"
+  ],
+  "sources": [
+   "The Silmarillion, chs. 18 and 19",
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "LA01",
+  "title": "Lake Mithrim",
+  "kind": "Lake of Hithlum",
+  "tier": 2,
+  "blurb": "A large lake in eastern Hithlum where the Noldor made their first camps.",
+  "book": "Lake Mithrim is a wide lake in the eastern part of Hithlum. It lies below the mountains and gives its name to the surrounding land of Mithrim.\n\nThe host of Fëanor came there after the burning of the ships at Losgar. They camped on the northern shore and fought the first great battle against Morgoth's Orcs there, the Dagor-nuin-Giliath. Fëanor won that battle but chased the enemy too far and was mortally wounded near Angband.\n\nFingolfin's people came later, after they crossed the Grinding Ice. The Moon first rose as they reached Middle-earth, and the Sun first rose as they marched into Mithrim. Fëanor's people withdrew to the southern shore, and Fingolfin's host camped on the northern. The feud eased only after Fingon rescued Maedhros.\n\nThe lake later lay within the land held by Fingolfin's folk.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "Mithrim"
+  },
+  "facts": {
+   "Region": "East Hithlum",
+   "People": "Sindar, then Noldor",
+   "Event": "First camps of the Noldor"
+  },
+  "related": [
+   "RG03",
+   "RG01",
+   "MT05",
+   "MT04"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 13"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "LA02",
+  "title": "Lake Helevorn",
+  "kind": "Dark lake beneath Mount Rerir",
+  "tier": 3,
+  "blurb": "A deep dark lake below Mount Rerir, near the home of Caranthir.",
+  "book": "Lake Helevorn is a deep, dark lake that lies below Mount Rerir in the north of the Blue Mountains. Its water is black as glass.\n\nCaranthir, the third son of Fëanor, lived on its shore. His people lived in Thargelion and guarded the passes against enemies from the north.\n\nThe lake was lost when Beleriand sank.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Black glass",
+   "Other names": "Helevorn"
+  },
+  "facts": {
+   "Lord": "Caranthir",
+   "Realm": "Thargelion"
+  },
+  "related": [
+   "MT12",
+   "RG15",
+   "RI08"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "LA03",
+  "title": "Tarn Aeluin",
+  "kind": "Mountain lake of Dorthonion",
+  "tier": 2,
+  "blurb": "A clear lake high in Dorthonion where Barahir and his outlaws made their last camp.",
+  "book": "Tarn Aeluin is a clear, cold lake in the highlands of Dorthonion. Its pure water lies among the heights, away from Morgoth's servants.\n\nAfter the Dagor Bragollach, Barahir and a small band of men stayed to defend the land after Morgoth conquered it. They had Finrod's ring as a sign of friendship. These outlaws made their home near the tarn and lived by hunting and raiding the Orcs.\n\nA traitor named Gorlim finally told Sauron where they were hidden. Orcs attacked the camp and killed Barahir and nearly all his men. Beren was away and escaped. He returned, buried his father, and took the ring.\n\nThe lake was lost when Beleriand sank.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "Aeluin"
+  },
+  "facts": {
+   "Region": "Dorthonion",
+   "Outlaws": "Barahir and his band",
+   "Event": "Last camp of Barahir"
+  },
+  "related": [
+   "RG11",
+   "FO08",
+   "MT09"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 18 and 19"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "LA04",
+  "title": "Eithel Ivrin",
+  "kind": "Spring and falls of the Narog",
+  "tier": 3,
+  "blurb": "The pools and falls under the Ered Wethrin where the river Narog rises.",
+  "book": "Eithel Ivrin is the source of the river Narog. Clear pools and falls lie at the foot of the Ered Wethrin, and from them the river flows south to Nargothrond.\n\nThe Elves held the place dear, and its waters were counted as pure.\n\nThe springs vanished with the sinking of Beleriand.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Spring of Ivrin",
+   "Other names": "Ivrin"
+  },
+  "facts": {
+   "Region": "Foot of Ered Wethrin",
+   "Feeds": "River Narog"
+  },
+  "related": [
+   "RI02",
+   "MT04",
+   "TO02"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 and 20"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "LA05",
+  "title": "Linaewen",
+  "kind": "Mere of birds in Nevrast",
+  "tier": 3,
+  "blurb": "A great mere in the middle of Nevrast, full of water birds.",
+  "book": "Linaewen is a large mere in the middle of Nevrast. Many water birds live on it, and the name expresses this.\n\nWhen Tuor travelled through Nevrast, he saw the mere and its birds on his way to Vinyamar.\n\nIt sank with the land at the end of the age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Mere of birds"
+  },
+  "facts": {
+   "Realm": "Nevrast",
+   "Nearby": "Vinyamar and Mount Taras"
+  },
+  "related": [
+   "RG04",
+   "TO04",
+   "MT07"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "LA06",
+  "title": "Aelin-uial",
+  "kind": "Meres of Twilight",
+  "tier": 2,
+  "blurb": "A marshy region of pools and reeds where the river Aros joins the Sirion.",
+  "book": "Aelin-uial, the Meres of Twilight, is a region of pools, reeds, and low islands. It lies where the river Aros flows into the river Sirion, at the edge of Doriath.\n\nThe pools are often covered in mist, and the light there is dim, which is how the place got its name. The meres lie in the south of Doriath and form part of its border.\n\nThey sank at the end of the First Age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Meres of Twilight",
+   "Other names": "Meres of Twilight"
+  },
+  "facts": {
+   "Region": "South border of Doriath",
+   "Rivers": "Aros and Sirion"
+  },
+  "related": [
+   "RI05",
+   "RI01",
+   "RG07"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FO01",
+  "title": "Neldoreth",
+  "kind": "Beech forest of Doriath",
+  "tier": 1,
+  "blurb": "The northern beech forest of Doriath, where Beren first saw Lúthien dancing.",
+  "book": "Neldoreth is the great beech forest in the north of Doriath. It stands north of the river Esgalduin. The Elves also called it Taur-na-Neldor. It is a land of high trees and quiet glades.\n\nLúthien, the daughter of Thingol and Melian, loved to walk in these woods. Beren first saw her here, dancing among the hemlock at twilight, and loved her at once. Their meeting began the tale of Beren and Lúthien.\n\nThingol's great tree, Hirilorn, grew in Neldoreth. When Thingol learned that Lúthien wished to leave and find Beren, he held her in a house high in its branches. She escaped by using her skill, and she began her quest.\n\nAfter Thingol's death, Melian departed and her Girdle failed, and then the Dwarves sacked Menegroth. Neldoreth was left open to ruin. The land later sank with Beleriand.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Land of beeches",
+   "Other names": "Taur-na-Neldor"
+  },
+  "facts": {
+   "Realm": "Doriath",
+   "People": "Sindar of Thingol",
+   "Event": "Beren first sees Lúthien",
+   "Fate": "Lost with Beleriand"
+  },
+  "related": [
+   "RG07",
+   "TO01",
+   "FO02",
+   "RI04"
+  ],
+  "sources": [
+   "The Silmarillion, chs. 10, 19 and 22",
+   "Beren and Lúthien"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "FO02",
+  "title": "Region",
+  "kind": "Southern forest of Doriath",
+  "tier": 2,
+  "blurb": "The large forest in the south of Doriath, around the halls of Menegroth.",
+  "book": "Region is the larger forest in the southern half of Doriath. It lies between the rivers Esgalduin and Aros. The halls of Menegroth stand in this forest on the south side of the Esgalduin.\n\nThe forest was part of Thingol's kingdom, and the Girdle of Melian protected it from outsiders. The Elves of Doriath hunted and lived under its trees.\n\nMany important events of Doriath happened near or within Region. The mighty hall of Thingol, the home of his court, lay beneath its eaves. Beren came there and asked for Lúthien. Túrin lived there as a fosterling.\n\nWhen Doriath fell, the forest lost its protection. The land sank with Beleriand.",
+  "film": "",
+  "series": "",
+  "names": {},
+  "facts": {
+   "Realm": "Doriath",
+   "Contains": "Menegroth",
+   "Fate": "Lost with Beleriand"
+  },
+  "related": [
+   "RG07",
+   "TO01",
+   "FO01",
+   "RI04",
+   "RI05"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 and 22"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FO03",
+  "title": "Nivrim",
+  "kind": "West March of Doriath",
+  "tier": 2,
+  "blurb": "The oak woods on the west bank of the Sirion, forming the West March of Doriath.",
+  "book": "Nivrim is the West March of Doriath. It is a stretch of oak woods on the western bank of the river Sirion. Melian's Girdle covered it, and it formed part of Thingol's land beyond the river.\n\nThe woods are tall and dim, and the land is wilder than the inner forests of Doriath.\n\nThe woods sank with the land at the end of the First Age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "West March",
+   "Other names": "West March"
+  },
+  "facts": {
+   "Realm": "Doriath",
+   "Location": "West of the Sirion"
+  },
+  "related": [
+   "RG07",
+   "RI01",
+   "FO04"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FO04",
+  "title": "Brethil",
+  "kind": "Forest of the Haladin",
+  "tier": 1,
+  "blurb": "A forest between the Teiglin and the Sirion, home of the Folk of Haleth.",
+  "book": "Brethil is a forest that lies in the angle between the river Teiglin and the river Sirion. It was the home of the Haladin, the people of Haleth, who withdrew there after their wars with the Orcs. The Haladin lived as woodsmen in wooden houses.\n\nTheir capital was Ephel Brandir, a settlement on the hill of Amon Obel, in the centre of the forest. The Haladin ruled themselves, outside the Girdle of Melian.\n\nTúrin came to Brethil under the name Turambar after the fall of Nargothrond. He killed the dragon Glaurung at the ravine of Cabed-en-Aras. His wife Nienor then died there in grief. Túrin took his own life on the sword Gurthang, and the Haladin buried him on a mound.\n\nThe forest sank beneath the sea at the end of the First Age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "Forest of the Haladin"
+  },
+  "facts": {
+   "Realm": "People of Haleth",
+   "Capital": "Ephel Brandir",
+   "Event": "Death of Glaurung and Túrin"
+  },
+  "related": [
+   "TO08",
+   "VA01",
+   "GR02",
+   "RI03",
+   "RI01"
+  ],
+  "sources": [
+   "The Silmarillion, chs. 14 and 21",
+   "The Children of Húrin"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "FO05",
+  "title": "Nan Elmoth",
+  "kind": "Dark wood east of the Celon",
+  "tier": 1,
+  "blurb": "A dark forest east of the Celon where Thingol met Melian and where Eöl later lived.",
+  "book": "Nan Elmoth is a wood in East Beleriand, east of the river Celon. The trees there grow thick and tall, and the light beneath them is dim.\n\nIn the Years of the Trees, Thingol heard the nightingales of Melian sing in these woods. He stood entranced and met her there. They later founded Doriath together.\n\nMany years later, Eöl, a dark elf of the Teleri, made his home in the wood. He disliked the Sun and the Noldor. He caught Aredhel, sister of Turgon, as she wandered, and he married her. Their son was Maeglin, who later betrayed Gondolin.\n\nEöl was finally executed at Gondolin, after his javelin killed Aredhel. The wood sank with Beleriand when the First Age ended.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "Elmoth"
+  },
+  "facts": {
+   "Realm": "Thingol, then Eöl",
+   "Event": "Meeting of Thingol and Melian",
+   "Fate": "Lost with East Beleriand"
+  },
+  "related": [
+   "RI06",
+   "RG18",
+   "RG07",
+   "TO03"
+  ],
+  "sources": [
+   "The Silmarillion, chs. 4, 16 and 22"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FO06",
+  "title": "Taur-im-Duinath",
+  "kind": "Forest between the Rivers",
+  "tier": 3,
+  "blurb": "A wild land south of the Andram, lying between the Sirion and the Gelion.",
+  "book": "Taur-im-Duinath means the Forest between the Rivers. It is a wild wooded land south of the Andram, between the river Sirion and the river Gelion.\n\nFew Elves lived there, and the Noldor did not settle it. It formed a rough and empty tract of southern Beleriand.\n\nIt was lost when Beleriand sank at the end of the First Age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Forest between the Rivers"
+  },
+  "facts": {
+   "Region": "Between Sirion and Gelion",
+   "North": "Andram"
+  },
+  "related": [
+   "HI02",
+   "RI01",
+   "RI08"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FO07",
+  "title": "Nimbrethil",
+  "kind": "Birch forest of Arvernien",
+  "tier": 2,
+  "blurb": "Birch woods in Arvernien, from which Eärendil took the timber to build Vingilot.",
+  "book": "Nimbrethil is a forest of white birch trees in Arvernien, the land at the south-west of Beleriand near the mouths of Sirion. The trees grow tall and pale.\n\nAfter the fall of Gondolin, Eärendil dwelled at the Havens of Sirion with Elwing. He wished to sail west to seek aid from the Valar. With the help of Círdan the Shipwright, he used the timber from Nimbrethil to build his ship Vingilot.\n\nThat ship later carried Eärendil across the sea. The woods themselves sank with Beleriand soon after.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "White birch forest",
+   "Other names": "Birches of Arvernien"
+  },
+  "facts": {
+   "Region": "Arvernien, south-west coast",
+   "Use": "Timber of Vingilot"
+  },
+  "related": [
+   "RG22",
+   "TO07",
+   "SW04"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 24"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FO08",
+  "title": "Taur-nu-Fuin",
+  "kind": "Forest under Night",
+  "tier": 1,
+  "blurb": "The pine forest of Dorthonion, turned by Morgoth into a place of horror.",
+  "book": "Taur-nu-Fuin, the Forest under Night, is the new name for the pine forests of Dorthonion after the Dagor Bragollach. Morgoth took the highland and corrupted it. Before then, the Noldor had called it Dorthonion. After the change, it was also called Deldúwath, the Deadly Nightshade.\n\nThe trees stood so thick that no light could pass through. Spies, wolves, and spiders lived there, and the Noldor feared the place.\n\nBeren's father Barahir and his companions had made a home in the highlands, but Morgoth's servants hunted them down.\n\nBeleg Cuthalion followed the Orcs who held Túrin into the forest. There he met Gwindor, an Elf who had escaped from Angband. Together they freed Túrin from the Orc camp at night. Túrin woke in the dark, took Beleg for an enemy, and killed him. Gwindor then led him away in his grief.\n\nThe forest sank with Beleriand.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Forest under Night",
+   "Other names": "Deldúwath; Dorthonion pine forest",
+   "Earlier name": "Dorthonion"
+  },
+  "facts": {
+   "Region": "Dorthonion",
+   "Lord": "Morgoth after F.A. 455",
+   "Event": "Death of Beleg"
+  },
+  "related": [
+   "RG11",
+   "MT09",
+   "LA03",
+   "HI03"
+  ],
+  "sources": [
+   "The Silmarillion, chs. 18 and 21",
+   "The Children of Húrin"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "FO09",
+  "title": "Nan-tathren",
+  "kind": "Land of Willows",
+  "tier": 2,
+  "blurb": "A beautiful land of willows where the Narog flows into the Sirion.",
+  "book": "Nan-tathren, the Land of Willows, lies where the river Narog flows into the Sirion. Willows grow there in great numbers, and the meadows are green and sweet.\n\nUlmo, Lord of Waters, loved the Sirion and took an interest in this land. Tuor came there after the fall of Gondolin. He and his people had fled down the Sirion with Idril and their son Eärendil.\n\nTuor loved the place and lingered there. He felt the longing for the sea and eventually built the ship Eärrámë to sail west. Idril sailed with him.\n\nThe land fell into the sea in the final destruction of Beleriand.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Valley of willows",
+   "Other names": "Land of Willows"
+  },
+  "facts": {
+   "Rivers": "Narog and Sirion",
+   "People": "Tuor's company briefly"
+  },
+  "related": [
+   "RI02",
+   "RI01",
+   "TO07",
+   "FO07"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14 and 23"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "SW01",
+  "title": "Fen of Serech",
+  "kind": "Marsh north of the Pass of Sirion",
+  "tier": 2,
+  "blurb": "A great marsh north of the Pass of Sirion, where the stream Rivil flows into the Sirion.",
+  "book": "The Fen of Serech is a marsh on the northern edge of the Pass of Sirion. The stream Rivil flows there out of Dorthonion and sinks into the fen.\n\nThe Fen was a battleground in the retreat of the Elves and Edain. Húrin and Huor, with the men of Dor-lómin, held back the pursuing Orcs. Huor died there, struck by a poisoned arrow.\n\nThe Fen of Serech was lost in the sinking of Beleriand.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "Serech"
+  },
+  "facts": {
+   "Region": "North of the Pass of Sirion",
+   "Stream": "Rivil",
+   "Event": "Rearguard battle after the Nírnaeth"
+  },
+  "related": [
+   "VA04",
+   "RI19",
+   "FA03",
+   "RG11"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 20"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "SW04",
+  "title": "Lisgardh",
+  "kind": "Land of reeds at the Sirion's mouths",
+  "tier": 3,
+  "blurb": "A wet land of reeds in the delta of the river Sirion.",
+  "book": "Lisgardh means the Land of Reeds. It is a marshy region at the mouths of the Sirion, where the river splits into many channels before reaching the sea.\n\nThe reeds grow thick there, and many birds live among them. The land lies near the Havens of Sirion.\n\nAs Beleriand sank, the delta was drowned.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Land of reeds"
+  },
+  "facts": {
+   "Region": "Mouths of the Sirion",
+   "Nearby": "Havens of Sirion"
+  },
+  "related": [
+   "RI01",
+   "TO07",
+   "FO07"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 14"
+  ],
+  "confidence": "medium"
+ }
+]

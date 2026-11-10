@@ -1,0 +1,924 @@
+[
+ {
+  "id": "FO003",
+  "title": "Bindbole Wood",
+  "kind": "Wood in the Shire",
+  "tier": 3,
+  "blurb": "A wood in the Shire near Hobbiton, shown on the map of the Shire.",
+  "book": "Bindbole Wood lies in the Westfarthing of the Shire, close to Hobbiton and Bywater. It appears on the map of the Shire and is a place of ordinary hobbit country. The name is spelled Bindbale in some texts.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits",
+   "Other names": "Bindbale Wood"
+  },
+  "related": [
+   "TO050",
+   "TO016"
+  ],
+  "sources": [
+   "The Lord of the Rings, map of the Shire"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FO005",
+  "title": "Chetwood",
+  "kind": "Forest near Bree",
+  "tier": 3,
+  "blurb": "A wood east of Bree-hill that gives its name to part of Bree-land.",
+  "book": "Chetwood is a forest on the eastern side of Bree-hill, in Bree-land. Bree-men and hobbits live nearby. Its name comes from an old British word for a wood. Travellers on the Great East Road pass its edge before they reach the Midgewater Marshes.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Bree-land",
+   "People": "Men and hobbits of Bree"
+  },
+  "related": [
+   "TO011",
+   "SW010",
+   "HI012"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I",
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FO006",
+  "title": "Dimholt",
+  "kind": "Haunted wood of Rohan",
+  "tier": 2,
+  "blurb": "A dark fir wood below Dwimorberg in Harrowdale, leading to the Paths of the Dead.",
+  "book": "Dimholt is a gloomy wood of dark firs at the foot of the Dwimorberg, at the head of Harrowdale in Rohan. Inside it stands the Dimholt Road, which leads to the door of the Paths of the Dead.\n\nThe Rohirrim fear the place and avoid it. A great stone, the Dark Door, stands at the end of the road. In T.A. 3019 Aragorn, with the Dúnedain, Legolas, and Gimli, rode into Dimholt and entered the Paths of the Dead to summon the oathbreakers.",
+  "film": "The films show the Dimholt Road as a cliff-side track leading to a carved door in the mountain. The wood itself is not a main feature.",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "People": "None; avoided by Men",
+   "Meaning": "Obscure, secret wood"
+  },
+  "related": [
+   "FI011",
+   "VA008",
+   "FT009"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "FO007",
+  "title": "Drúadan Forest",
+  "kind": "Forest of Gondor",
+  "tier": 2,
+  "blurb": "A pine forest in Anórien where the Drúedain live, near the road to Minas Tirith.",
+  "book": "The Drúadan Forest covers the hills of Anórien north of the road to Minas Tirith. The Drúedain, called Woses, live there. They are a small, ancient people, and the Men of Gondor and Rohan avoid them.\n\nIn T.A. 3019 the chieftain Ghân-buri-Ghân led the Rohirrim through the forest along the old Stonewain Valley. This path let them bypass the enemy and reach the Pelennor Fields in time for the great battle. Éomer and King Théoden then made a pact with the Woses.",
+  "film": "The films leave out the Drúedain and the forest. The Rohirrim simply arrive at the Pelennor without this guided march.",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor, in Anórien",
+   "People": "Drúedain (Woses)",
+   "Meaning": "Forest of the Drúedain"
+  },
+  "related": [
+   "FO016",
+   "FI024",
+   "VA018"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "FO010",
+  "title": "Eryn Vorn",
+  "kind": "Forest on Eriador's coast",
+  "tier": 3,
+  "blurb": "A wooded headland on the western coast of Eriador, south of the Brandywine mouth.",
+  "book": "Eryn Vorn is a dark, forested headland on the coast of Eriador, south of the mouth of the Baranduin. Its name means Black Wood. Only a few secretive Men live there. It is a remote region, rarely visited in the tales, and appears mostly on maps of Eriador.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Eriador",
+   "People": "Few secretive Men",
+   "Meaning": "Blackwood"
+  },
+  "related": [
+   "RI006"
+  ],
+  "sources": [
+   "The Lord of the Rings, map of Middle-earth"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FO012",
+  "title": "Fangorn Forest",
+  "kind": "Ancient forest",
+  "tier": 1,
+  "blurb": "The great old forest below the Misty Mountains, home of the Ents.",
+  "book": "Fangorn is an ancient forest on the eastern slopes of the Misty Mountains, south of Lothlórien. It is named for Fangorn, also called Treebeard, the eldest of the Ents, who guard the trees. Huorns, which are trees that move, also dwell there. Travellers fear the forest, for the trees are often hostile to strangers.\n\nIn T.A. 3019 Merry and Pippin escaped the Uruk-hai into Fangorn and met Treebeard. Gandalf, newly returned, met Aragorn, Legolas, and Gimli at its edge. The Ents held an Entmoot, marched on Isengard, and broke the dam to flood it.\n\nFangorn is also the last home of the Ents, whose wives, the Entwives, were lost long ago. The Ents have grown more tree-like with the ages. Treebeard drinks the clear water of the Entwash and keeps to his halls near the forest's heart.",
+  "film": "The films show Fangorn as a dark, towering forest. The Ents are slow to decide, and Treebeard marches only after Pippin tricks him into seeing the felled trees.",
+  "series": "",
+  "facts": {
+   "Realm": "Wilderness near Rohan",
+   "People": "Ents, Huorns",
+   "Other names": "Entwood",
+   "Meaning": "Beard of trees"
+  },
+  "related": [
+   "FI005",
+   "FT017",
+   "FO032",
+   "RI085"
+  ],
+  "sources": [
+   "The Two Towers, Book III",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "FO013",
+  "title": "Firienholt",
+  "kind": "Oak wood of Gondor",
+  "tier": 3,
+  "blurb": "An oak wood on the slopes of Halifirien, on the border of Rohan and Gondor.",
+  "book": "Firienholt, also called Firienwood, grows on the slopes of Halifirien, a hill on the border between Gondor and Rohan. Its oaks surround the Tomb of Elendil. The beacon on Halifirien, one of the warning beacons, is guarded by wardens. Rohirrim call it the Whispering Wood.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Border of Gondor and Rohan",
+   "People": "Beacon-wardens",
+   "Other names": "Firien Wood, Whispering Wood"
+  },
+  "related": [
+   "GR021",
+   "FJ003"
+  ],
+  "sources": [
+   "The Return of the King, Book V",
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FO016",
+  "title": "Grey Wood",
+  "kind": "Wood in Anórien",
+  "tier": 3,
+  "blurb": "A small wood in Anórien near the Drúadan Forest, avoided by Men.",
+  "book": "The Grey Wood lies in Anórien, close to the Drúadan Forest and the Stonewain Valley. Like the larger forest, it is avoided by the Men of Gondor and Rohan because the Woses live nearby. In T.A. 3019 the Rohirrim passed this region on their ride to Minas Tirith.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor, in Anórien",
+   "People": "Drúedain"
+  },
+  "related": [
+   "FO007",
+   "VA018"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FO017",
+  "title": "Lothlórien",
+  "kind": "Elven forest",
+  "tier": 1,
+  "blurb": "The golden mallorn forest where Galadriel and Celeborn rule, east of the Misty Mountains.",
+  "book": "Lothlórien lies between the rivers Celebrant and Anduin, east of the Misty Mountains. Its mallorn trees keep golden leaves in autumn and bear silver bark. Galadriel and Celeborn rule the Elves here from the city of Caras Galadhon. The realm is protected by the power of Galadriel and her ring, Nenya.\n\nIn T.A. 3019 the Fellowship rested in Lothlórien after Moria. Galadriel tested each member and gave them gifts. Enemies who entered the wood rarely came out. Dol Guldur attacked it several times but never took it.\n\nThe Fellowship left by boat down the Anduin. After the War of the Ring, Galadriel passed over the Sea, and the wood slowly faded.\n\nThe Elves there are mostly Silvan Elves, led by lords of the Sindar and Noldor. Few outsiders know the land, and Haldir and his brothers patrol its borders.",
+  "film": "The films show Lothlórien as a misty, golden wood with high platforms. They also show Galadriel's test of Frodo at the Mirror. The Elves send Haldir's company to guard the Fellowship.",
+  "series": "",
+  "facts": {
+   "Realm": "Lothlórien",
+   "People": "Galadhrim (Silvan and Sindarin Elves)",
+   "Ruler": "Galadriel and Celeborn",
+   "Other names": "Lórien, Laurelindórenan"
+  },
+  "related": [
+   "TO018",
+   "HI014",
+   "RI014",
+   "FO012"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "FO018",
+  "title": "Mirkwood",
+  "kind": "Great forest of Rhovanion",
+  "tier": 1,
+  "blurb": "The vast dark forest east of the Misty Mountains, home of Wood-elves and spiders.",
+  "book": "Mirkwood is the great forest of Rhovanion, east of the Anduin. It was once called Greenwood the Great. A shadow fell on the forest around T.A. 1050. From T.A. 2460 the Necromancer, who was Sauron, ruled from Dol Guldur, and giant spiders and Orcs filled the wood. The Wood-elves of King Thranduil live in the north, and Woodmen live near the western edge.\n\nIn The Hobbit, Bilbo and the Dwarves cross the forest by the Elven-path. The spiders trap them, and Bilbo rescues them with his ring and sword. Thranduil's guards capture them. The Elf-path leads out near the Long Lake.\n\nIn T.A. 2941 the White Council drove Sauron from Dol Guldur. He returned to Mordor, and Mirkwood stayed dark until the end of the Third Age.",
+  "film": "The Hobbit films show the forest as a sickly, dark place with spiders and illusions. Thranduil's halls are carved in stone, and Gandalf's journey to Dol Guldur is a major plot thread.",
+  "series": "",
+  "facts": {
+   "Realm": "Rhovanion",
+   "People": "Wood-elves, Woodmen, spiders",
+   "Other names": "Greenwood the Great, Eryn Lasgalen",
+   "Fate": "Cleansed after T.A. 3019; later Eryn Lasgalen"
+  },
+  "related": [
+   "FT008",
+   "MT041",
+   "SW007",
+   "LA009"
+  ],
+  "sources": [
+   "The Hobbit",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "FO023",
+  "title": "Old Forest",
+  "kind": "Ancient forest of Eriador",
+  "tier": 1,
+  "blurb": "A dense, hostile forest east of the Shire's Brandywine, home of Tom Bombadil.",
+  "book": "The Old Forest lies east of the Brandywine River and the High Hay of Buckland. Its trees are old, close, and unfriendly to those who walk beneath them. Some say it is a remnant of the ancient forests that once covered Eriador. Tom Bombadil and Goldberry live beyond its eastern side, near the Withywindle.\n\nIn T.A. 3018 the hobbits entered the forest to avoid the Black Riders. Old Man Willow trapped Merry and Pippin in his trunk. Tom Bombadil saved them, and later sheltered them in his house before they reached the Barrow-downs.\n\nThe hobbits of Buckland fear the forest and keep the High Hay to hold it back. Long ago the trees attacked the hedge, and the hobbits burned a clearing, which they call the Bonfire Glade.",
+  "film": "The films skip the Old Forest and Tom Bombadil. The hobbits go directly from the Shire to Bree.",
+  "series": "",
+  "facts": {
+   "Realm": "Eriador",
+   "People": "Tom Bombadil, Goldberry, Old Man Willow"
+  },
+  "related": [
+   "RI083",
+   "BU088",
+   "HI011",
+   "TO022"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "FO032",
+  "title": "Treegarth of Orthanc",
+  "kind": "Ent-planted grove",
+  "tier": 2,
+  "blurb": "A grove planted by the Ents around Orthanc after Isengard fell.",
+  "book": "After the fall of Isengard in T.A. 3019, the Ents stayed in Nan Curunír and kept the flooded ring under watch. Over the following years they planted trees around Orthanc, forming the Treegarth, also called the Watchwood. The tower stood at its centre. Treebeard and the Ents guarded it as Aragorn gave Orthanc to them. Saruman was released from imprisonment there in T.A. 3019.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Nan Curunír (Isengard)",
+   "People": "Ents, trees",
+   "Founded": "After T.A. 3019",
+   "Other names": "Watchwood"
+  },
+  "related": [
+   "BU021",
+   "FT017",
+   "FO012"
+  ],
+  "sources": [
+   "The Return of the King, Book VI",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FO033",
+  "title": "Trollshaws",
+  "kind": "Forest in Eriador",
+  "tier": 2,
+  "blurb": "A hilly forest west of Rivendell where the trolls of The Hobbit were found.",
+  "book": "The Trollshaws is a wooded region of Eriador between the Last Bridge and the Ford of Bruinen, close to Rivendell. A few trolls still dwell there. It is a wild country with beeches, hills, and old paths.\n\nIn The Hobbit, Bilbo and the Dwarves met three trolls here. Gandalf tricked them into arguing until dawn turned them to stone. The party found a troll hoard, including Elven swords. In The Lord of the Rings, Frodo and his companions crossed these woods on the road to the Ford of Bruinen.",
+  "film": "The Hobbit films show the troll encounter in a wooded clearing and Gandalf's trick. The Fellowship's journey through the region is less visible.",
+  "series": "",
+  "facts": {
+   "Realm": "Eriador",
+   "People": "Few trolls"
+  },
+  "related": [
+   "BR008",
+   "FJ006",
+   "TO084",
+   "RI040"
+  ],
+  "sources": [
+   "The Hobbit",
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "FO037",
+  "title": "Woody End",
+  "kind": "Wood in the Shire",
+  "tier": 2,
+  "blurb": "A wood in the south-east Shire where hobbits meet Elves on the way to Buckland.",
+  "book": "The Woody End is a large forest in the Eastfarthing of the Shire, near Woodhall and Stock. Wandering Elves sometimes pass through, and hobbits of Woodhall live on its edge.\n\nIn T.A. 3018 Frodo, Sam, and Pippin walked through the Woody End to avoid the road. A Black Rider followed them there. The party met the High Elves led by Gildor Inglorion, who gave them shelter and food.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits of Woodhall, wandering Elves"
+  },
+  "related": [
+   "TO091",
+   "TO097",
+   "RI093",
+   "HA012"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "SW002",
+  "title": "Dead Marshes",
+  "kind": "Marsh of Rhovanion",
+  "tier": 1,
+  "blurb": "A haunted marsh before Mordor where the faces of the dead gaze from the water.",
+  "book": "The Dead Marshes lie between the Emyn Muil and the Black Gate, before the plain of Dagorlad. They grew over the battlefield where the Last Alliance fought Sauron. Pale lights, called candles, drift in the mist. Faces of the dead lie beneath the water, and they draw the unwary toward them.\n\nIn T.A. 3019 Gollum led Frodo and Sam through the marsh by a hidden path. Frodo was nearly lured into the water, and a Nazgûl later flew over it. The three travelled for several days, hiding by day and moving by night, until they reached the dead, ash-grey land before the Black Gate. Gollum warned them never to look at the lights or the faces beneath the water, or to touch the water at all.",
+  "film": "The films show the marshes as a misty fen with pale corpses. Frodo is nearly pulled under by a vision of dead warriors, and Gollum rescues him.",
+  "series": "",
+  "facts": {
+   "Realm": "Between Emyn Muil and Mordor",
+   "People": "None; the dead",
+   "Founded": "Grew over the Dagorlad battlefield"
+  },
+  "related": [
+   "FI004",
+   "SW011",
+   "FI006",
+   "HI022"
+  ],
+  "sources": [
+   "The Two Towers, Book IV",
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "SW014",
+  "title": "Swanfleet",
+  "kind": "Marsh in Eriador",
+  "tier": 3,
+  "blurb": "A wide marsh in Eriador where the river Glanduin joins the Greyflood, home to swans.",
+  "book": "The Swanfleet is the marshy land in Eriador where the Glanduin meets the Gwathló, near Tharbad. Swans live there. Its Elvish name means Water-lands of the Swans.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Eriador",
+   "People": "Swans",
+   "Meaning": "Water-lands of the Swans"
+  },
+  "related": [
+   "RI032",
+   "TO093",
+   "RI038"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A",
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "SW013",
+  "title": "Rushock Bog",
+  "kind": "Bog in the Shire",
+  "tier": 3,
+  "blurb": "A small swamp in the Shire near Bywater and Hobbiton.",
+  "book": "Rushock Bog is a small swampy area in the Shire. It appears on the map of the Shire as a patch of low, wet land. Its old hobbit name is Ryscuc.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits nearby",
+   "Other names": "Ryscuc"
+  },
+  "related": [
+   "TO016",
+   "TO050"
+  ],
+  "sources": [
+   "The Lord of the Rings, map of the Shire"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "SW012",
+  "title": "Overbourn Marshes",
+  "kind": "Marsh in the Shire",
+  "tier": 3,
+  "blurb": "A marshland in the southern Shire, near the Brandywine.",
+  "book": "The Overbourn Marshes lie in the southern Shire, near the Brandywine River and the Marish. They are low, wet country between the Shire's farms and the river. They appear on the map of the Shire as part of its lowland edge.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits nearby"
+  },
+  "related": [
+   "SW008",
+   "RI006"
+  ],
+  "sources": [
+   "The Lord of the Rings, map of the Shire"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "SW011",
+  "title": "Nindalf",
+  "kind": "Great marsh of Gondor",
+  "tier": 2,
+  "blurb": "A vast marsh south of the Dead Marshes where the Anduin spreads before Rauros.",
+  "book": "The Nindalf, also called the Wetwang, is a great marsh in southern Rhovanion, where the Anduin spreads out beyond the Emyn Muil. Its name means wet flat land. The marsh lies on the border of Gondor.\n\nIn T.A. 3019 Frodo and Sam travelled north of it on their way to Mordor, and Gollum guided them past it into the Dead Marshes. Few people dwell there.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Border of Gondor",
+   "People": "None",
+   "Other names": "Wetwang",
+   "Meaning": "Wet flat land"
+  },
+  "related": [
+   "SW002",
+   "RI003",
+   "FA007",
+   "HI022"
+  ],
+  "sources": [
+   "The Two Towers, Book IV",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "SW010",
+  "title": "Midgewater Marshes",
+  "kind": "Marsh near Bree",
+  "tier": 2,
+  "blurb": "A marsh of biting midges between Bree and Weathertop.",
+  "book": "The Midgewater Marshes lie east of Bree and Chetwood, along the Great East Road. Clouds of biting midges give them their name. The land is damp, with pools and reeds, and it is almost uninhabited.\n\nIn T.A. 3018 Strider led the hobbits across the marsh to avoid the road. The midges tormented them as they travelled. After the marsh, they reached the hills of the Weather Hills and Weathertop. Strider chose this way to hide from the Black Riders.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Eriador (abandoned land)",
+   "People": "None"
+  },
+  "related": [
+   "FO005",
+   "HI052",
+   "TO011"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "SW008",
+  "title": "Marish",
+  "kind": "Marshland in the Shire",
+  "tier": 3,
+  "blurb": "A low, wet district in the Eastfarthing, home of the Stoor hobbits.",
+  "book": "The Marish is a low, marshy district in the Eastfarthing of the Shire, near the Brandywine. Stoor hobbits live there. They keep to the water and are fond of boats. In The Lord of the Rings, Farmer Maggot's farm lies at its edge.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Stoor hobbits"
+  },
+  "related": [
+   "RI006",
+   "TO091"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I",
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "SW007",
+  "title": "Long Marshes",
+  "kind": "Marsh near Lonely Mountain",
+  "tier": 3,
+  "blurb": "A marsh at the northern end of Mirkwood, near the Lonely Mountain.",
+  "book": "The Long Marshes lie between the Lonely Mountain and the northern end of Mirkwood. They appear on the map of Rhovanion in The Hobbit. They lie in the wild lands between Mirkwood and the Lonely Mountain.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rhovanion",
+   "People": "None"
+  },
+  "related": [
+   "MT029",
+   "LA009",
+   "FO018"
+  ],
+  "sources": [
+   "The Hobbit, map of Wilderland"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "SW006",
+  "title": "Gladden Fields",
+  "kind": "Marsh by the Anduin",
+  "tier": 2,
+  "blurb": "The marshes where Isildur was killed by Orcs and lost the One Ring.",
+  "book": "The Gladden Fields are a marshland along the Anduin, where the Gladden River joins the great river. Wild irises grow there, from which the place takes its name.\n\nIn T.A. 2 Isildur marched north with his men and was ambushed by Orcs here. He put on the Ring and swam into the river, but the Ring slipped from his finger. Orcs killed him with arrows. The Ring lay in the river until Déagol found it in about T.A. 2463. Sméagol killed Déagol for it.",
+  "film": "The film prologue shows Isildur killed by Orc arrows at a river after the Ring slips from his finger. The name Gladden Fields is not used.",
+  "series": "",
+  "facts": {
+   "Realm": "Rhovanion",
+   "People": "Stoors lived nearby",
+   "Other names": "Loeg Ningloron"
+  },
+  "related": [
+   "RI031",
+   "RI003",
+   "FO018"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II",
+   "The Lord of the Rings, Appendix A",
+   "Unfinished Tales"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "SW004",
+  "title": "Fenmark",
+  "kind": "Marsh in Rohan",
+  "tier": 3,
+  "blurb": "A marshy region of Rohan near the Entwash, home of the Fenmarchers.",
+  "book": "The Fenmark, or Fenmarch, is a marshy land in the east of Rohan, near the Entwash. Its people, the Fenmarchers, fought for King Théoden. Some of them rode to the Pelennor Fields in T.A. 3019.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "People": "Fenmarchers"
+  },
+  "related": [
+   "RI085",
+   "VA006"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FI009",
+  "title": "Field of Celebrant",
+  "kind": "Plains of Rhovanion",
+  "tier": 2,
+  "blurb": "The wide grassland between the Silverlode and the Anduin, site of a great Gondorian defeat and victory.",
+  "book": "The Field of Celebrant is a grassland south of Lothlórien, between the Silverlode (Celebrant) and the Anduin.\n\nIn T.A. 2510 the Balchoth and Orcs attacked Gondor from the north. Gondor's army was cut off, and Eorl the Young brought his Riders of the Éothéod to help. Their charge defeated the enemy. Cirion, the Steward, then gave Eorl the land that became Rohan.",
+  "film": "The films do not show the Field of Celebrant. The oath of Cirion and Eorl is not shown on screen.",
+  "series": "",
+  "facts": {
+   "Realm": "Rhovanion",
+   "People": "Gondorians, Éothéod",
+   "Fate": "Battle of Celebrant, T.A. 2510"
+  },
+  "related": [
+   "RI014",
+   "FO017",
+   "RI003"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A",
+   "Unfinished Tales"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "FI011",
+  "title": "Firienfeld",
+  "kind": "Highland plain of Rohan",
+  "tier": 2,
+  "blurb": "The high green field of Dunharrow, where Rohan's army gathered before the war.",
+  "book": "Firienfeld is a grassy highland at the head of Harrowdale in Rohan, beneath the Dwimorberg. Dunharrow, an ancient refuge, lies on its edge. A double row of standing stones leads up to the mountain.\n\nIn T.A. 3019 the Rohirrim gathered at Dunharrow. King Théoden and his riders came there before their ride to Minas Tirith. Éowyn also arrived, and Aragorn visited, leading the Dúnedain to the Dark Door.",
+  "film": "The films show Dunharrow as a high camp on a rocky mountain-side. Aragorn asks Théoden to ride to Minas Tirith while he takes the Dimholt Road.",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "People": "Rohirrim",
+   "Other names": "Dunharrow"
+  },
+  "related": [
+   "FT009",
+   "FO006",
+   "VA008",
+   "TO029"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "FI025",
+  "title": "Plateau of Gorgoroth",
+  "kind": "Plain in Mordor",
+  "tier": 2,
+  "blurb": "A bleak volcanic plateau in Mordor between Mount Doom and Barad-dûr.",
+  "book": "Gorgoroth is the high plateau of Mordor, between the Ephel Dúath and the Ered Lithui. It lies around Mount Doom and the tower of Barad-dûr. The land is ash and rock, and Orcs and Men serving Sauron fill its camps.\n\nIn T.A. 3019 Frodo and Sam crossed it, disguised as Orcs. They joined a marching column, then travelled alone toward Mount Doom. The plain was filled with the armies of Sauron.",
+  "film": "The films show Gorgoroth as a vast ash plain, with Orc armies and Frodo and Sam in orc armour.",
+  "series": "",
+  "facts": {
+   "Realm": "Mordor",
+   "People": "Orcs, Men allied to Sauron",
+   "Meaning": "Horror, dread"
+  },
+  "related": [
+   "MT036",
+   "FT004",
+   "MT016",
+   "RD047"
+  ],
+  "sources": [
+   "The Return of the King, Book VI"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "FI016",
+  "title": "Lithlad",
+  "kind": "Ash plain of Mordor",
+  "tier": 3,
+  "blurb": "A vast plain in eastern Mordor, called the Ash Plain.",
+  "book": "Lithlad is the great plain in the east of Mordor. Its name means Ash Plain. It lies beyond the Ered Lithui, and the Orcs of Sauron dwell there. It appears on maps of Mordor, with few details in the tales.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Mordor",
+   "People": "Orcs",
+   "Meaning": "Ash Plain"
+  },
+  "related": [
+   "MT016",
+   "FI025"
+  ],
+  "sources": [
+   "The Lord of the Rings, map of Middle-earth"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FI017",
+  "title": "Desert of Lostladen",
+  "kind": "Desert of Mordor",
+  "tier": 3,
+  "blurb": "A desert in the south of Mordor, shown on the map.",
+  "book": "The Desert of Lostladen appears on maps of the Mordor region. It is not part of the main story, and I have little detail about it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Mordor (south)"
+  },
+  "related": [
+   "MT014",
+   "FI025"
+  ],
+  "sources": [
+   "The Lord of the Rings, map of Middle-earth"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "FI021",
+  "title": "Parth Galen",
+  "kind": "Lawn on Nen Hithoel",
+  "tier": 2,
+  "blurb": "A green lawn on the western shore of Nen Hithoel where the Fellowship broke up.",
+  "book": "Parth Galen is a grassy lawn on the western shore of Nen Hithoel, below Amon Hen and near the Falls of Rauros. The Fellowship camped there in T.A. 3019.\n\nFrodo wandered away to think, and Boromir tried to take the Ring from him. Frodo put it on and fled up Amon Hen, then decided to go to Mordor alone. Orcs attacked the camp and took Merry and Pippin. Boromir died defending them. The others set his body in a boat and sent it over the falls.",
+  "film": "The film shows Boromir's death at Amon Hen against many Uruk-hai. Aragorn forgives him, and Boromir is sent over the falls.",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "People": "Uninhabited",
+   "Meaning": "Green sward"
+  },
+  "related": [
+   "HI004",
+   "LA013",
+   "FA007",
+   "HI006"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II",
+   "The Two Towers, Book III"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "FI022",
+  "title": "Party Field",
+  "kind": "Field in Hobbiton",
+  "tier": 2,
+  "blurb": "The meadow below Bag End where Bilbo gave his farewell birthday party.",
+  "book": "The Party Field is a meadow below Hobbiton Hill, near Bag End. A great tree, called the Party Tree, stands there. In T.A. 3001 Bilbo Baggins held his eleventy-first birthday party in the field. Hundreds of hobbits attended, and fireworks made by Gandalf lit the night. Bilbo vanished from the party, using the One Ring. The field was later damaged in the Scouring of the Shire. Hobbits planted a mallorn nearby afterwards.",
+  "film": "The film shows the party with fireworks, a large dragon firework, and Bilbo's speech. He then vanishes with the ring.",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits",
+   "Fate": "Damaged in T.A. 3019; later replanted"
+  },
+  "related": [
+   "TO050",
+   "HI035",
+   "TO016",
+   "GR005"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "FI024",
+  "title": "Pelennor Fields",
+  "kind": "Plain of Minas Tirith",
+  "tier": 1,
+  "blurb": "The great plain around Minas Tirith, site of the decisive battle of the War of the Ring.",
+  "book": "The Pelennor Fields are the farmland around Minas Tirith, enclosed by the wall called the Rammas Echor. The plain stretches east to the Anduin and Osgiliath. Many farms and villages stood here, and the people withdrew to the city in time of war.\n\nOn 15 March, T.A. 3019 the Witch-king and the armies of Mordor besieged Minas Tirith. The Rohirrim arrived at dawn and charged the Orc lines. Gandalf and Prince Imrahil of Dol Amroth also fought in the defence. Théoden died, Éowyn and Merry slew the Witch-king, and Aragorn arrived by black ships from Pelargir. The enemy was routed. The Mounds of Mundburg mark the graves of the fallen. Gondor lost many of its people, but the city held, and the war turned toward the Black Gate.",
+  "film": "The film shows a massive battle with Mûmakil, flying Nazgûl, and the Rohirrim charge. The Army of the Dead is shown clearing the field.",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "People": "Gondorians",
+   "Fate": "Battle of the Pelennor Fields, T.A. 3019",
+   "Meaning": "Fenced land"
+  },
+  "related": [
+   "TO065",
+   "WA006",
+   "GR018",
+   "TO078"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "FI005",
+  "title": "Derndingle",
+  "kind": "Hollow in Fangorn",
+  "tier": 2,
+  "blurb": "A hidden hollow in Fangorn where the Ents held the Entmoot.",
+  "book": "Derndingle is a sheltered hollow on the edge of Fangorn Forest, near the source of the Entwash. Its name means secret dale. Here the Ents held the Entmoot in T.A. 3019. Merry and Pippin attended, and Treebeard explained Saruman's crimes to the gathering. After three days, the Ents decided to march against Isengard. Their march began at Derndingle, and the Huorns followed them.",
+  "film": "The films show the Entmoot in a clearing in Fangorn. The Ents refuse to fight until Pippin's trick shows them the destruction near Isengard.",
+  "series": "",
+  "facts": {
+   "Realm": "Fangorn Forest",
+   "People": "Ents",
+   "Fate": "Site of the Entmoot, T.A. 3019"
+  },
+  "related": [
+   "FO012",
+   "FT017",
+   "RI085"
+  ],
+  "sources": [
+   "The Two Towers, Book III"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FI010",
+  "title": "Field of Cormallen",
+  "kind": "Field in Ithilien",
+  "tier": 2,
+  "blurb": "A green field in Ithilien where Frodo and Sam were honoured after the Ring's destruction.",
+  "book": "Cormallen is a green field in Ithilien, near the Anduin. After Mount Doom's fall, the Eagles carried Frodo and Sam to Ithilien, and they awoke at Cormallen. The armies of the West gathered there to celebrate. Aragorn and Gandalf greeted them. A minstrel sang the Lay of Frodo of the Nine Fingers. Frodo and Sam were honoured before the whole host, and then travelled to Minas Tirith for Aragorn's crowning.",
+  "film": "The films show a brief scene of Frodo waking in Minas Tirith instead of Cormallen. The Cormallen field itself is omitted.",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor, in Ithilien",
+   "People": "Men of Gondor",
+   "Meaning": "Golden circle"
+  },
+  "related": [
+   "TO065",
+   "CA008",
+   "IS002"
+  ],
+  "sources": [
+   "The Return of the King, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FI006",
+  "title": "Desolation of the Morannon",
+  "kind": "Wasteland before the Black Gate",
+  "tier": 2,
+  "blurb": "A barren, poisoned land before the Black Gate of Mordor.",
+  "book": "The Desolation of the Morannon is the wasteland before the Black Gate of Mordor. The land is dead, with ash, slag heaps, and poisoned pools. It lies at the northern end of the Ephel Dúath, where the road from Ithilien meets the Morannon.\n\nIn T.A. 3019 Frodo and Sam passed near it on their way. The armies of the West came there on 25 March to fight Sauron's forces and to draw his eye from the Ring. It was the site of the last battle, where Sauron's armies broke after the Ring fell.",
+  "film": "The film shows the battle before the Black Gate as a massive clash, and Aragorn leads his small army there.",
+  "series": "",
+  "facts": {
+   "Realm": "Mordor's borders",
+   "People": "None",
+   "Fate": "Battle of the Black Gate, T.A. 3019"
+  },
+  "related": [
+   "FT005",
+   "FI004",
+   "SW002"
+  ],
+  "sources": [
+   "The Two Towers, Book IV",
+   "The Return of the King, Book V"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "FI003",
+  "title": "Bonfire Glade",
+  "kind": "Clearing in the Old Forest",
+  "tier": 3,
+  "blurb": "A clearing in the Old Forest where Buckland hobbits once burned trees.",
+  "book": "Bonfire Glade is a clearing in the Old Forest, near the Withywindle. Long ago the trees attacked the High Hay of Buckland. The hobbits cut down many trees and burned them in a great bonfire. The glade took its name from that fire. Merry tells of it in The Fellowship of the Ring.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Old Forest (Buckland)",
+   "People": "Buckland hobbits long ago"
+  },
+  "related": [
+   "FO023",
+   "RI083"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FI004",
+  "title": "Dagorlad",
+  "kind": "Battle plain",
+  "tier": 2,
+  "blurb": "The wide plain before Mordor where the Last Alliance won its great victory.",
+  "book": "Dagorlad is a wide, barren plain north of Mordor, between the Emyn Muil and the Ered Lithui. Its name means Battle Plain. It was the site of the great battle in S.A. 3434, where the Last Alliance of Elves and Men defeated Sauron's armies. After their victory, the allies besieged Barad-dûr for seven years.\n\nThe Dead Marshes grew over the dead. In T.A. 1944 the Wainriders also fought Gondor at Dagorlad. Later, in T.A. 3019, Aragorn's army marched across it to the Black Gate.",
+  "film": "The film prologue shows the battle of the Last Alliance on a wide plain before Mordor. Elendil, Gil-galad, and Isildur fight Sauron's armies.",
+  "series": "",
+  "facts": {
+   "Realm": "North of Mordor",
+   "People": "None",
+   "Fate": "Battle of Dagorlad, S.A. 3434",
+   "Meaning": "Battle plain"
+  },
+  "related": [
+   "SW002",
+   "FI006",
+   "FT005"
+  ],
+  "sources": [
+   "The Silmarillion",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "FI028",
+  "title": "The Wold",
+  "kind": "Upland plain of Rohan",
+  "tier": 3,
+  "blurb": "A deserted upland plain east of Fangorn, in the north of Rohan.",
+  "book": "The Wold is an upland plain in the north-east of Rohan, east of Fangorn Forest. It is largely deserted. In T.A. 3019 Aragorn's company crossed the uplands near here while chasing the Uruk-hai, and the Riders of Éomer patrolled the region.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "People": "Deserted"
+  },
+  "related": [
+   "FO012",
+   "RI003"
+  ],
+  "sources": [
+   "The Two Towers, Book III"
+  ],
+  "confidence": "medium"
+ }
+]

@@ -1,0 +1,1472 @@
+{
+ "realms": [
+  {
+   "id": "RG01",
+   "title": "Hithlum",
+   "type": "realm",
+   "kind": "Noldorin realm of the north-west",
+   "tier": 1,
+   "status": "Overrun after F.A. 472",
+   "blurb": "Hithlum is the mist-shadowed north-western land where Fingolfin and Fingon ruled as High Kings of the Noldor.",
+   "book": "Hithlum is the north-western land of Beleriand. Mountains shut it in. The Ered Lómin, the Echoing Mountains, form its western wall. The Ered Wethrin, the Mountains of Shadow, form its southern and eastern wall. Inside lie the basin of Lake Mithrim and the highland of Dor-lómin.\n\nGrey-elves lived in Mithrim before the Noldor came. Fëanor's host landed first and fought the Orcs of Morgoth there. Fingolfin's people reached Hithlum after the crossing of the Helcaraxë. Fingolfin became High King of the Noldor and made Hithlum his chief realm. His son Fingon ruled after him. The fortress of Barad Eithel stood on the eastern slope of the Ered Wethrin and watched over the plain of Ard-galen.\n\nFingolfin gave Dor-lómin to Hador of the Edain. Hador's house became the strongest Mannish kin in the realm. After Fingolfin fell in F.A. 455, Fingon held the land in the hard years that followed.\n\nIn F.A. 472 Fingon led the northern host to the Nírnaeth Arnoediad and died there. Morgoth's servants then entered Hithlum. The Easterlings who had served him received the land and enslaved the remaining Edain and Elves. Hithlum stayed in Morgoth's hand until the end of the Age. Tuor, a child of this land, later left it for Gondolin.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Sindarin for a land of mist and shadow",
+    "Other names": "Hísilómë in Quenya"
+   },
+   "facts": {
+    "Ruler": "Fingolfin, then Fingon",
+    "Chief place": "Barad Eithel",
+    "People": "Noldor, Sindar, House of Hador",
+    "Fate": "Taken by Morgoth after the Nírnaeth"
+   },
+   "peoples": [
+    "people:noldor",
+    "people:sindar",
+    "people:house-of-hador",
+    "people:easterlings"
+   ],
+   "related": [
+    "FT02",
+    "MT03",
+    "MT04",
+    "LA01",
+    "MT05",
+    "VA04"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of the Return of the Noldor; Of the Ruin of Beleriand)",
+    "The Children of Húrin"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "RG02",
+   "title": "Dor-lómin",
+   "type": "region",
+   "kind": "Region of Hithlum",
+   "tier": 2,
+   "status": "Enslaved after F.A. 472",
+   "blurb": "Dor-lómin is the south-western region of Hithlum, the fief of the House of Hador.",
+   "book": "Dor-lómin is the south-western part of Hithlum. It lies west of Mithrim, between the Echoing Mountains and the Mountains of Shadow.\n\nFingolfin gave this land to Hador Lórindol of the Edain as a fief. Hador's son Galdor held it after him, and then Galdor's son Húrin. Húrin and his wife Morwen lived there with their children Túrin and Urwen.\n\nThe Edain of Dor-lómin fought in the Dagor Bragollach and in the Nírnaeth Arnoediad. Huor died at the Nírnaeth, and Húrin was captured by Morgoth. The Easterling chieftain Lorgan then took the land and made the remaining people slaves. Túrin was sent away to Doriath. Huor also dwelt here, but his son Tuor was born among the Grey-elves of Mithrim.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Sindarin for the land of echoes"
+   },
+   "facts": {
+    "Ruler": "Hador, Galdor, then Húrin",
+    "People": "House of Hador",
+    "Fate": "Ruled by Easterlings under Lorgan"
+   },
+   "peoples": [
+    "people:house-of-hador",
+    "people:easterlings"
+   ],
+   "related": [
+    "MT03",
+    "MT04",
+    "LA01",
+    "FT02"
+   ],
+   "sources": [
+    "The Silmarillion: Of Men; Of Túrin Turambar",
+    "The Children of Húrin"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "RG03",
+   "title": "Mithrim",
+   "type": "region",
+   "kind": "Region of Hithlum",
+   "tier": 2,
+   "status": "Overrun after F.A. 472",
+   "blurb": "Mithrim is the lake basin of Hithlum, where the Noldor first met the Grey-elves of the north.",
+   "book": "Mithrim is the basin around the great lake of the same name in eastern Hithlum. Mountains ring it in.\n\nGrey-elves lived here in the early days, and they were the first Elves the exiled Noldor met in Beleriand. Fëanor's host camped on the northern shore. There they fought the Orcs of Morgoth in the battle called Dagor-nuin-Giliath, the Battle under Stars. Fëanor was mortally wounded in the pursuit and died soon after. Fingolfin's host arrived with the first rising of the Sun.\n\nThe two hosts met in peace after Fingon rescued his cousin Maedhros from Thangorodrim. Maedhros gave up his claim to the kingship in favour of Fingolfin. Mithrim became a core of the realm of Hithlum. It fell with the rest of the land after the Nírnaeth Arnoediad.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Sindarin; mith means grey. The name was also used for the Grey-elves living there"
+   },
+   "facts": {
+    "Chief place": "Lake Mithrim",
+    "People": "Sindar, Noldor",
+    "Fate": "Fell to Morgoth after F.A. 472"
+   },
+   "peoples": [
+    "people:sindar",
+    "people:noldor"
+   ],
+   "related": [
+    "LA01",
+    "MT05"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of the Return of the Noldor; Of the Sun and Moon)"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "RG04",
+   "title": "Nevrast",
+   "type": "realm",
+   "kind": "Noldorin realm of the west",
+   "tier": 2,
+   "status": "Abandoned, later drowned",
+   "blurb": "Nevrast is the western coastland where Turgon first dwelt, and where Ulmo called him to Gondolin.",
+   "book": "Nevrast is a broad coastal land in the north-west, lying west of Hithlum beyond the Echoing Mountains and south of the Firth of Drengist. Its name means hither shore.\n\nAfter the Noldor settled in Beleriand, Fingolfin's son Turgon led his people to Nevrast and built the city of Vinyamar below Mount Taras. Turgon dwelt there for many years and ruled as a lord under his father Fingolfin.\n\nThen Ulmo spoke to Turgon in a dream and told him to leave Nevrast and found a hidden city. Turgon obeyed and withdrew to Gondolin. Nevrast fell quiet and lay empty. Years later Tuor found the empty halls of Vinyamar. In the end the whole western coast was lost beneath the sea.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Sindarin for hither shore"
+   },
+   "facts": {
+    "Ruler": "Turgon, before Gondolin",
+    "Chief place": "Vinyamar",
+    "People": "Noldor",
+    "Fate": "Empty after Turgon left"
+   },
+   "peoples": [
+    "people:noldor",
+    "people:falathrim"
+   ],
+   "related": [
+    "TO04",
+    "MT07",
+    "BA01"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of the Return of the Noldor; Of Tuor and the Fall of Gondolin)",
+    "Unfinished Tales: Of Tuor and His Coming to Gondolin"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "RG05",
+   "title": "The Falas",
+   "type": "realm",
+   "kind": "Sindarin shore realm",
+   "tier": 1,
+   "status": "Ruined after F.A. 472",
+   "blurb": "The Falas is the western shore of Beleriand, home of Círdan and the shipwrights of the Havens.",
+   "book": "The Falas is the long western coast of Beleriand. It runs south from the border of Nevrast to the lands near the mouth of the Sirion. Its Sindarin name means the coast.\n\nThe Falathrim, the Falas-folk, live here. They are Sindar of the Teleri who stayed beside the sea. Their lord is Círdan the Shipwright, a vassal of King Thingol of Doriath. Círdan founded two harbour cities, Brithombar in the north and Eglarest in the south.\n\nFinrod of Nargothrond was a friend of Círdan. He built the tower of Barad Nimras near Eglarest to watch the sea. The coast lived in peace through the long Siege of Angband.\n\nAfter the Nírnaeth Arnoediad, Morgoth's host marched to the sea. Brithombar and Eglarest were broken and burned. Círdan's people fled by ship to the Isle of Balar and to the mouth of Sirion. Gil-galad, the heir of Fingon, took refuge with them. The shore, ruined and empty, later sank beneath the sea.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Sindarin for the shore or coast",
+    "Other names": "Western coast of Beleriand"
+   },
+   "facts": {
+    "Ruler": "Círdan the Shipwright",
+    "Chief place": "Brithombar and Eglarest",
+    "People": "Falathrim",
+    "Fate": "Havens destroyed after the Nírnaeth"
+   },
+   "peoples": [
+    "people:falathrim",
+    "people:sindar",
+    "people:noldor"
+   ],
+   "related": [
+    "TO05",
+    "TO06",
+    "IS01",
+    "TO07",
+    "HA01"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of the Sindar; Of the Ruin of Beleriand)"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "RG06",
+   "title": "Realm of Nargothrond",
+   "type": "realm",
+   "kind": "Noldorin realm",
+   "tier": 1,
+   "status": "Fell F.A. 495",
+   "blurb": "Nargothrond is the hidden Noldorin kingdom of Finrod Felagund beside the River Narog.",
+   "book": "The Realm of Nargothrond is a Noldorin kingdom in western Beleriand, built on the River Narog. Finrod Felagund, son of Finarfin, founded it after he saw the caves of the Narog. The hidden halls of Nargothrond were delved above the river with the help of Dwarves. The realm stretched from the borders of the Falas to the River Sirion, and it reached the Teiglin in the north. The hills of Taur-en-Faroth rose north of the halls.\n\nFinrod ruled both Noldor and Sindar there. When he left on the quest of Beren, Celegorm and Curufin gained sway for a time, until the people drove them out. Orodreth then ruled in Finrod's place. Túrin of Dor-lómin came there after his years as an outlaw. He gained great influence and persuaded Orodreth to abandon secrecy.\n\nIn F.A. 495 the dragon Glaurung and an army of Orcs destroyed the kingdom at the Battle of Tumhalad. Orodreth died in the fight, and Glaurung entered the halls. Glaurung gathered the treasure and lay upon it, and the captives were driven north.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Sindarin for the fortress by the river Narog"
+   },
+   "facts": {
+    "Ruler": "Finrod, then Orodreth",
+    "Chief place": "Nargothrond",
+    "People": "Noldor, Sindar",
+    "Fate": "Sacked by Glaurung in F.A. 495"
+   },
+   "peoples": [
+    "people:noldor",
+    "people:sindar",
+    "people:dwarves-of-belegost-and-nogrod",
+    "people:dragons"
+   ],
+   "related": [
+    "TO02",
+    "RI02",
+    "HI01",
+    "FI01",
+    "RI03",
+    "RI17"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of Beleg and Mîm; Of the Ruin of Doriath)",
+    "The Children of Húrin"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "RG07",
+   "title": "Doriath",
+   "type": "realm",
+   "kind": "Sindarin kingdom",
+   "tier": 1,
+   "status": "Ruined F.A. 506",
+   "blurb": "Doriath is the guarded kingdom of King Thingol and Queen Melian, ringed by the Girdle of Melian.",
+   "book": "Doriath is the kingdom of Thingol, king of the Sindar, and Melian the Maia. It lies in the heart of Beleriand between the rivers Sirion and Aros. The Girdle of Melian, a magical barrier, kept every enemy away. Only those whom the king and queen allowed could enter.\n\nNeldoreth, the northern woodland, and the great forest of Region, in the south, make up most of the land. The river Esgalduin runs through it. Menegroth, the Thousand Caves, was Thingol's hall on the south bank. Dwarves of Belegost helped to carve it.\n\nDoriath held many of the Sindar, the kin of Thingol. Beren and Lúthien met in Neldoreth. Their quest for a Silmaril changed the history of the Age. When Thingol wanted the jewel set in the Nauglamír, the Dwarves who worked the gold killed him. Melian then left Middle-earth, and the Girdle failed. A host of Dwarves from Nogrod then sacked Menegroth.\n\nLúthien's son Dior held the Silmaril. The sons of Fëanor attacked Doriath in F.A. 506 and killed him. Doriath never recovered.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Sindarin for the land of the fence",
+    "Other names": "Land of the Girdle; Eglador before the Girdle"
+   },
+   "facts": {
+    "Ruler": "King Thingol, Queen Melian",
+    "Chief place": "Menegroth",
+    "People": "Sindar, with Melian",
+    "Fate": "Destroyed by Fëanor's sons"
+   },
+   "peoples": [
+    "people:sindar",
+    "people:ainur-in-beleriand",
+    "people:dwarves-of-belegost-and-nogrod",
+    "people:noldor"
+   ],
+   "related": [
+    "TO01",
+    "FO01",
+    "FO02",
+    "RI04",
+    "FO03",
+    "BR01"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of Thingol and Melian; Of Beren and Lúthien; Of the Ruin of Doriath)",
+    "Beren and Lúthien"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "RG08",
+   "title": "Land of the Haladin",
+   "type": "region",
+   "kind": "Forest land of the Edain",
+   "tier": 3,
+   "status": "Lost in the ruin of Beleriand",
+   "blurb": "This is Brethil, the forest between the Teiglin and the Sirion, home of the House of Haleth.",
+   "book": "The Land of the Haladin is Brethil, a forest between the rivers Teiglin and Sirion. The people of Haleth, the Haladin, lived here, and their chief place was Ephel Brandir. They were a small Mannish folk who guarded their forest against Orcs.\n\nTúrin came to Brethil as a refugee and lived there under another name. He killed Glaurung near its border. The forest was lost in the ruin of Beleriand.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Named for the Haladin, the people of Haleth"
+   },
+   "facts": {
+    "Ruler": "Haleth; later Halmir, Handir, then Brandir",
+    "Chief place": "Ephel Brandir",
+    "People": "House of Haleth, Drúedain",
+    "Fate": "Lost with Beleriand"
+   },
+   "peoples": [
+    "people:house-of-haleth",
+    "people:druedain"
+   ],
+   "related": [
+    "FO04",
+    "TO08",
+    "RI03",
+    "FJ02",
+    "GR02",
+    "FA01"
+   ],
+   "sources": [
+    "The Silmarillion: Of Men; Of Túrin Turambar",
+    "Unfinished Tales: The Wanderings of Húrin"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "RG09",
+   "title": "Dimbar",
+   "type": "region",
+   "kind": "Highland between rivers",
+   "tier": 3,
+   "status": "Fate not told in detail",
+   "blurb": "Dimbar is the land between the Sirion and the Mindeb, below the peaks of Crissaegrim.",
+   "book": "Dimbar is a highland between the River Sirion and the River Mindeb. It lies south of the Crissaegrim, the high mountains where the Eagles nested. It lay close to the hidden realm of Gondolin.\n\nThe land was under the shadow of the northern wars. It was a hard place for travellers. Its fate is not told in detail in the published Silmarillion.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Sindarin name; the sense is uncertain"
+   },
+   "facts": {
+    "Chief place": "Crissaegrim to the north",
+    "People": "March-wardens of Doriath at times",
+    "Fate": "Not told in detail"
+   },
+   "peoples": [
+    "people:sindar",
+    "people:eagles"
+   ],
+   "related": [
+    "RI07",
+    "CR01",
+    "RI01"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of the Return of the Noldor; Of Túrin Turambar)"
+   ],
+   "confidence": "low"
+  },
+  {
+   "id": "RG10",
+   "title": "Nan Dungortheb",
+   "type": "region",
+   "kind": "Valley of terror",
+   "tier": 2,
+   "status": "Evil until Beleriand sank",
+   "blurb": "Nan Dungortheb is the poisoned valley below the Mountains of Terror, haunted by the spawn of Ungoliant.",
+   "book": "Nan Dungortheb is a valley in northern Beleriand. It lies between the Ered Gorgoroth, the Mountains of Terror, and the northern edge of Doriath. Its name means the valley of dreadful death.\n\nThe great spiders there were the children of Ungoliant. Ungoliant had fled to the south after the theft of the Silmarils. Her brood spun webs and poisoned the water, and nothing fair could grow. The Girdle of Melian marked the valley's southern edge, so Doriath stood just beyond its horrors.\n\nBeren crossed the Ered Gorgoroth into Doriath after his father's death, through the worst part of the land. His story is told as a feat of great courage. Later the Elves of Doriath still feared to go north. The valley stayed evil until Beleriand sank beneath the sea.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Sindarin for the valley of dreadful death"
+   },
+   "facts": {
+    "Chief place": "Ered Gorgoroth to the north",
+    "People": "Spiders of Ungoliant's brood",
+    "Fate": "Evil until Beleriand sank"
+   },
+   "peoples": [
+    "people:werewolves-and-creatures-of-sauron"
+   ],
+   "related": [
+    "MT09",
+    "FO01"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of Beren and Lúthien; Of the Sindar)"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "RG11",
+   "title": "Dorthonion",
+   "type": "realm",
+   "kind": "Highland of the north",
+   "tier": 1,
+   "status": "Became Taur-nu-Fuin after F.A. 455",
+   "blurb": "Dorthonion is the high pine land of the north march, held by Finarfin's sons and Bëor's house.",
+   "book": "Dorthonion is a high, pine-covered plateau in the north of Beleriand. It lies south of the plain of Ard-galen and north of Doriath. Its name means land of pines. The Fen of Serech lies at its western foot.\n\nThe sons of Finarfin held the north march. Angrod and Aegnor, brothers of Finrod, guarded the plateau for him. The Edain of the House of Bëor settled the land after they were invited in. Bregolas and his brother Barahir were their lords.\n\nThe Dagor Bragollach fell upon Dorthonion first. Morgoth sent fire and Orcs across Ard-galen in F.A. 455. Angrod, Aegnor and Bregolas died. Barahir's survivors held out on the high ground. Barahir's outlaw band was later betrayed by Gorlim and slain by Orcs. Beren was away at the time. He took back his father's ring and left the land for Doriath.\n\nAfter the Bragollach the forest turned dark and cursed. Its new name was Taur-nu-Fuin, the Forest under Night. Sauron's servants later hid there, and few dared to enter.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Sindarin for land of pines",
+    "Other names": "Taur-nu-Fuin, the Forest under Night"
+   },
+   "facts": {
+    "Ruler": "Angrod, Aegnor, Bregolas, Barahir",
+    "Chief place": "Tarn Aeluin",
+    "People": "Noldor, House of Bëor",
+    "Fate": "Corrupted, became Taur-nu-Fuin"
+   },
+   "peoples": [
+    "people:noldor",
+    "people:house-of-beor",
+    "people:orcs"
+   ],
+   "related": [
+    "FO08",
+    "LA03",
+    "SW01",
+    "MT02"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of Beren and Lúthien; Of the Fifth Battle)"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "RG12",
+   "title": "Himlad",
+   "type": "region",
+   "kind": "Plain of the Fëanorians",
+   "tier": 2,
+   "status": "Lost after F.A. 455",
+   "blurb": "Himlad is the cool plain where Celegorm and Curufin held land, near the Pass of Aglon.",
+   "book": "Himlad is an open plain in northern East Beleriand. It lies between the rivers Aros and Celon. The Pass of Aglon leads north from it toward the hills of Himring and Dorthonion. Its name is Sindarin and means cool plain.\n\nCelegorm and Curufin, two sons of Fëanor, held Himlad. Their people stood watch over the southern side of Aglon and guarded the way into Beleriand.\n\nAfter the Dagor Bragollach in F.A. 455, the forces of Morgoth broke through at Aglon. Himlad became a battlefield. Celegorm and Curufin fled westward to the kingdom of Nargothrond, where they later made trouble. The plain was left open to Morgoth's armies.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Sindarin for cool plain"
+   },
+   "facts": {
+    "Ruler": "Celegorm and Curufin",
+    "Chief place": "Pass of Aglon",
+    "People": "Noldor of Fëanor's house",
+    "Fate": "Abandoned after the Bragollach"
+   },
+   "peoples": [
+    "people:noldor"
+   ],
+   "related": [
+    "VA03",
+    "RI05",
+    "RI06"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of the Return of the Noldor; Of the Fifth Battle)"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "RG13",
+   "title": "March of Maedhros",
+   "type": "realm",
+   "kind": "Border march of the Noldor",
+   "tier": 2,
+   "status": "Lost after the Nírnaeth",
+   "blurb": "The March of Maedhros is the hill country around Himring, held by Fëanor's eldest son against Morgoth.",
+   "book": "The March of Maedhros is the hill country east of Dorthonion, around the hill of Himring. Maedhros, Fëanor's eldest son, held it. It closed the open land between Dorthonion and the Ered Luin. Himring was his great fortress.\n\nMaglor, his brother, held the Gap that bears his name. This was a pass between the hills of Himring and the Ered Luin. Maglor's people guarded it.\n\nThe March was the eastern shield of Beleriand. After the Dagor Bragollach, Maedhros held on. He then planned the great Union of Maedhros, which drew Elves and Men into a single alliance. The alliance failed at the Nírnaeth Arnoediad in F.A. 472. Afterwards the sons of Fëanor lost much, and the March was lost.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Named for Maedhros, son of Fëanor"
+   },
+   "facts": {
+    "Ruler": "Maedhros",
+    "Chief place": "Himring",
+    "People": "Noldor of Fëanor's house",
+    "Fate": "Broken after the Nírnaeth"
+   },
+   "peoples": [
+    "people:noldor",
+    "people:easterlings"
+   ],
+   "related": [
+    "FT04",
+    "VA06",
+    "FT05"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of the Return of the Noldor; Of the Fifth Battle; Nírnaeth Arnoediad)"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "RG14",
+   "title": "Lothlann",
+   "type": "region",
+   "kind": "Wide plain in the north-east",
+   "tier": 2,
+   "status": "Fate not told in detail",
+   "blurb": "Lothlann is the wide, open plain north of Thargelion and east of the hills of Himring.",
+   "book": "Lothlann is a broad, open plain in the north-east of Beleriand. It lies north of Thargelion and beyond the hills of Himring. Its name means wide and empty.\n\nThe plain lay on the edge of the lands that Morgoth's armies could reach. The Elves of Maedhros kept watch on it from Himring. Its open ground favoured the Orcs and made it hard to defend.\n\nThe books say little more of Lothlann. It lay under the shadow of the north. Its end is not told in the published Silmarillion.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Sindarin for wide and empty"
+   },
+   "facts": {
+    "Chief place": "Open plain east of Himring",
+    "People": "Few; patrols of Maedhros",
+    "Fate": "Not told in detail"
+   },
+   "peoples": [
+    "people:noldor"
+   ],
+   "related": [
+    "FT04",
+    "MT12"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of the Return of the Noldor; Of the Fifth Battle)"
+   ],
+   "confidence": "low"
+  },
+  {
+   "id": "RG15",
+   "title": "Thargelion",
+   "type": "realm",
+   "kind": "Noldorin realm of the east",
+   "tier": 1,
+   "status": "Overrun after F.A. 455",
+   "blurb": "Thargelion is Dor Caranthir, the north-eastern land where Caranthir ruled beside the Ered Luin.",
+   "book": "Thargelion is a realm in the north-east of Beleriand. It lies east of the River Gelion and west of the Ered Luin. The Noldor call it Dor Caranthir, after its lord, Caranthir, the fourth son of Fëanor. Its Sindarin name means the land beyond the river, meaning the Gelion.\n\nCaranthir held the land from the slopes of Mount Rerir. His halls lay by Lake Helevorn, beneath the mountain. Caranthir himself was harsh and quick to anger. They traded with the Dwarves of the Blue Mountains, who came through the passes.\n\nThe Dagor Bragollach in F.A. 455 broke the realm. Caranthir fled south across the Gelion, and the sons of Fëanor gave up the land. Orcs overran the lands about Lake Helevorn. Thargelion never returned to Elvish hands. Later, Ulfang the Easterling and his sons took service with Caranthir.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Sindarin for the land beyond the river",
+    "Other names": "Dor Caranthir"
+   },
+   "facts": {
+    "Ruler": "Caranthir son of Fëanor",
+    "Chief place": "Mount Rerir",
+    "People": "Noldor, Easterlings, Dwarves",
+    "Fate": "Fell after the Bragollach"
+   },
+   "peoples": [
+    "people:noldor",
+    "people:easterlings",
+    "people:dwarves-of-belegost-and-nogrod"
+   ],
+   "related": [
+    "MT12",
+    "LA02",
+    "RI08",
+    "MT11"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of the Return of the Noldor; Of Men; Of the Fifth Battle)"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "RG16",
+   "title": "Ossiriand",
+   "type": "realm",
+   "kind": "Land of the Green-elves",
+   "tier": 1,
+   "status": "Mostly drowned at the Age's end",
+   "blurb": "Ossiriand is the Land of Seven Rivers, where the Laiquendi dwell between the Gelion and the Ered Luin.",
+   "book": "Ossiriand is the Land of Seven Rivers in the far south-east of Beleriand. It lies between the River Gelion and the Ered Luin. Its rivers are the Gelion and six streams from the Blue Mountains: the Ascar, the Thalos, the Legolin, the Brilthor, the Duilwen and the Adurant. The land is green and wooded.\n\nThe Laiquendi, or Green-elves, live here. They are Nandor, who left the great march of the Eldar long ago. Their leader Lenwë left the march, and his son Denethor later led them into Ossiriand. Denethor came to the aid of Thingol and fell at Amon Ereb. The Laiquendi wear green and stay hidden among the trees.\n\nOssiriand sits behind rivers that Orcs rarely cross. Beren and Lúthien lived on the island of Tol Galen in the Adurant after their return. Dior, their son, was born there.\n\nWhen Dwarves of Nogrod fled with the Nauglamír, Beren and the Laiquendi caught them at Sarn Athrad and killed them. Most of the land was drowned in the ruin of Beleriand.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Sindarin for land of seven rivers",
+    "Other names": "Lindon, the land of song; the name later passed to the coast that survived"
+   },
+   "facts": {
+    "Ruler": "Denethor, son of Lenwë; no king after him",
+    "Chief place": "Tol Galen",
+    "People": "Laiquendi, Green-elves",
+    "Fate": "Mostly drowned in the War of Wrath"
+   },
+   "peoples": [
+    "people:laiquendi",
+    "people:dwarves-of-belegost-and-nogrod"
+   ],
+   "related": [
+    "RI08",
+    "RI14",
+    "IS02",
+    "RI09",
+    "RI10",
+    "RI11"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of the Sindar; Of Beren and Lúthien; Of the Ruin of Doriath)"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "RG17",
+   "title": "Estolad",
+   "type": "region",
+   "kind": "Camp of the first Edain",
+   "tier": 2,
+   "status": "Emptied as the Edain moved on",
+   "blurb": "Estolad is the land of the Encampment, where the first Edain settled between the Celon and the Gelion.",
+   "book": "Estolad is a land in East Beleriand between the River Celon and the River Gelion. Its name means the encampment. The Edain, the first Men to enter Beleriand, settled here.\n\nBëor's people came first, after they crossed the Ered Luin. The Haladin came second, but most of them went on to Thargelion. The followers of Marach came last and settled here.\n\nLater, the Noldor of the north called the Edain to their service. The people of Bëor moved to Dorthonion and Ladros. Marach's people moved to Hithlum, where Fingolfin gave them Dor-lómin. The Haladin went west to Brethil. Estolad was left almost empty. Some Men stayed, but the place was no longer the camp of a great people.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Sindarin for the encampment"
+   },
+   "facts": {
+    "Chief place": "Between the Celon and the Gelion",
+    "People": "Edain of Bëor and Marach",
+    "Fate": "Emptied when the Edain left"
+   },
+   "peoples": [
+    "people:house-of-beor",
+    "people:house-of-hador",
+    "people:house-of-haleth",
+    "people:noldor"
+   ],
+   "related": [
+    "RI06",
+    "RI08",
+    "FJ03"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of Men)"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "RG18",
+   "title": "East Beleriand",
+   "type": "region",
+   "kind": "Eastern half of Beleriand",
+   "tier": 1,
+   "status": "Lost in the ruin of Beleriand",
+   "blurb": "East Beleriand is the land east of the Sirion, from Doriath to the Gelion and the Ered Luin.",
+   "book": "East Beleriand is the half of Beleriand east of the River Sirion. It reaches to the River Gelion and the foothills of the Ered Luin. Doriath, the greatest of its realms, lies in its western half. Estolad, Himlad and Thargelion lie farther east and north.\n\nSindar lived in the forests of this land from the earliest days. The Noldor of the House of Fëanor settled the eastern plains. The Edain of Bëor and Marach later camped between the Celon and the Gelion. Dwarves from the Blue Mountains traded along the Dwarf-road, which crossed the Gelion at Sarn Athrad.\n\nThe hill of Amon Ereb stood alone in the plain, and Elves of Ossiriand fell there in the first battle. The sons of Fëanor held the northern part of the land for many years. After the Dagor Bragollach and the Nírnaeth Arnoediad, the Orcs broke through to the south.\n\nEast Beleriand fell into Morgoth's hands piece by piece. Its western part, Doriath, lasted longest, behind the Girdle of Melian. Most of the land sank in the War of Wrath.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Descriptive name; the land east of the Sirion"
+   },
+   "facts": {
+    "Chief place": "Doriath and Estolad",
+    "People": "Sindar, Noldor, Edain, Dwarves",
+    "Fate": "Mostly drowned in the War of Wrath"
+   },
+   "peoples": [
+    "people:sindar",
+    "people:noldor",
+    "people:house-of-beor"
+   ],
+   "related": [
+    "RD01",
+    "RI08",
+    "RI06",
+    "FJ03",
+    "HI04",
+    "VA03"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of the Sindar; Of Men; Of the Ruin of Doriath)"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "RG19",
+   "title": "West Beleriand",
+   "type": "region",
+   "kind": "Western half of Beleriand",
+   "tier": 1,
+   "status": "Drowned in the War of Wrath",
+   "blurb": "West Beleriand is the land west of the Sirion, from the Falas coast to the Narog.",
+   "book": "West Beleriand is the half of Beleriand west of the River Sirion. It stretches from the northern hills to the sea. The Falas, the western shore, is its coast. The Narog, the Teiglin and the Nenning drain the land, and they run toward the Sirion or the sea.\n\nThe Sindar and the Noldor ruled it in two realms. Círdan the Shipwright held the Falas and the Havens. Finrod Felagund and his heirs held Nargothrond and the lands around it. The hills of Taur-en-Faroth stood in the north, and the Guarded Plain lay beside them. Far south, near the meeting of the Narog and the Sirion, lay the fair land of Nan-tathren.\n\nAfter the Nírnaeth Arnoediad, the Orcs came down across the Narog and the Sirion. The Havens of the Falas fell in the year after the battle. Nargothrond fell to Glaurung in F.A. 495. In the end the lands west of the Sirion were swallowed by the sea.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Descriptive name; the land west of the Sirion"
+   },
+   "facts": {
+    "Chief place": "Nargothrond",
+    "People": "Falathrim, Noldor, Sindar",
+    "Fate": "Drowned in the War of Wrath"
+   },
+   "peoples": [
+    "people:falathrim",
+    "people:noldor",
+    "people:sindar"
+   ],
+   "related": [
+    "TO02",
+    "RI02",
+    "RI03",
+    "HI01",
+    "FO09",
+    "RI18"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of the Sindar; Of the Ruin of Beleriand)"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "RG20",
+   "title": "Anfauglith",
+   "type": "region",
+   "kind": "Waste of the north",
+   "tier": 1,
+   "status": "Dust until the Age's end",
+   "blurb": "Anfauglith is the Gasping Dust, the green plain of Ard-galen burned to ash by Morgoth.",
+   "book": "Anfauglith is the great plain north of Beleriand, between Dorthonion, the Mountains of Shadow and Thangorodrim. Before F.A. 455 it was called Ard-galen, the green region. Grass grew there as far as the eye could see. The Noldor of the north kept a watch across it and held Morgoth in siege for many years.\n\nThe siege ended in the Dagor Bragollach. Morgoth sent rivers of fire from Angband across the plain. The grass burned and the land was left a desert of ash. Elves then named it Anfauglith, the Gasping Dust. Fingolfin, in despair, rode alone to the gates of Angband and challenged Morgoth. He wounded the Dark Lord seven times, and Morgoth killed him. Thorondor then took his body from the field.\n\nThe Nírnaeth Arnoediad was fought on this plain in F.A. 472. The hosts of the Elves and Men were beaten here, and Húrin held the retreat at the Fen of Serech. The dead lay under the great mound of Haudh-en-Ndengin. The Dust remained until the end of the Age.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Sindarin for the Gasping Dust",
+    "Other names": "Ard-galen; Dor-nu-Fauglith"
+   },
+   "facts": {
+    "Chief place": "Haudh-en-Ndengin",
+    "People": "Orcs, Elves and Men in battle",
+    "Fate": "Desert until the Age's end"
+   },
+   "peoples": [
+    "people:orcs",
+    "people:dragons",
+    "people:noldor",
+    "people:eagles"
+   ],
+   "related": [
+    "GR01",
+    "MT02",
+    "FT02",
+    "SW01"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of the Fifth Battle; Of Beren and Lúthien; Nírnaeth Arnoediad)"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "RG21",
+   "title": "Dor Daedeloth",
+   "type": "region",
+   "kind": "Land of Morgoth",
+   "tier": 2,
+   "status": "Broken in the War of Wrath",
+   "blurb": "Dor Daedeloth is the Land of the Shadow of Horror, the dark realm around Angband and Thangorodrim.",
+   "book": "Dor Daedeloth is the land of Morgoth, in the far north of Middle-earth. It lies beneath the peaks of Thangorodrim, above the gates of Angband. Its name means the land of the shadow of horror.\n\nMorgoth raised Thangorodrim from the slag of his tunnels. Beneath it lay the pits and halls of Angband. Orcs, Balrogs, wolves and dragons filled the land. Sauron was Morgoth's chief servant here. The Iron Mountains, the Ered Engrin, closed the north.\n\nThe Elves of Beleriand lived under this threat for centuries. Fingolfin rode to its gates to challenge Morgoth. Beren and Lúthien entered it to take a Silmaril from Morgoth's crown.\n\nIn the War of Wrath the hosts of the Valar broke Angband. Thangorodrim fell, and Morgoth was cast out of the world.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Sindarin for the land of the shadow of horror"
+   },
+   "facts": {
+    "Ruler": "Morgoth",
+    "Chief place": "Angband",
+    "People": "Orcs, Balrogs, dragons",
+    "Fate": "Broken in the War of Wrath"
+   },
+   "peoples": [
+    "people:ainur-in-beleriand",
+    "people:orcs",
+    "people:balrogs",
+    "people:dragons"
+   ],
+   "related": [
+    "FT01",
+    "MT02",
+    "MT01"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of the Coming of the Elves; Of Beren and Lúthien; Of the Voyage of Eärendil)"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "RG22",
+   "title": "Arvernien",
+   "type": "region",
+   "kind": "Coast near the Sirion's mouth",
+   "tier": 2,
+   "status": "Lost in the ruin of Beleriand",
+   "blurb": "Arvernien is the southern coast by the mouth of the Sirion, where Eärendil built his ship.",
+   "book": "Arvernien is a coastal land in the south-west of Beleriand, near the mouth of the River Sirion. It lies near the Havens of Sirion. The Falathrim and other Elves of the refuge lived there after the destruction of the northern havens.\n\nAfter the Nírnaeth Arnoediad and the fall of Gondolin, many Elves and Men gathered at the Havens. Eärendil, son of Tuor and Idril, became their lord. He wed Elwing, daughter of Dior, there. With the aid of Círdan, he built the ship Vingilot in Arvernien. He sailed over the sea to plead with the Valar.\n\nThe sons of Fëanor attacked the Havens to take the Silmaril. Elwing escaped with it into the sea. The land was lost in the ruin of Beleriand.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Sindarin name of the southern coast"
+   },
+   "facts": {
+    "Chief place": "Havens of Sirion",
+    "People": "Falathrim, Elves and Men of the refuge",
+    "Fate": "Lost beneath the sea"
+   },
+   "peoples": [
+    "people:falathrim",
+    "people:house-of-hador",
+    "people:noldor"
+   ],
+   "related": [
+    "TO07",
+    "RI01",
+    "IS01"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of the Voyage of Eärendil and the War of Wrath)"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "RG23",
+   "title": "Lammoth",
+   "type": "region",
+   "kind": "Region of Hithlum",
+   "tier": 2,
+   "status": "Echoing waste of the north-west",
+   "blurb": "Lammoth is the narrow echoing country below the Ered Lómin, beside the Firth of Drengist.",
+   "book": "Lammoth is a stretch of land along the north-western coast of Beleriand. It lies below the Ered Lómin, the Echoing Mountains, and beside the Firth of Drengist. Its name means great echo.\n\nThe country owes its name to Morgoth's cry. When Ungoliant turned on Morgoth there, he gave a terrible cry. The cry rang along the shore and the mountains. Echoes of it lingered, and any loud voice there woke them.\n\nLammoth lay west of Hithlum, outside its mountain wall. Few people lived in Lammoth, and the books give no ruler for it.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Sindarin for great echo"
+   },
+   "facts": {
+    "Chief place": "Ered Lómin and the Drengist shore",
+    "People": "Few dwellers",
+    "Fate": "Empty to the end"
+   },
+   "peoples": [
+    "people:noldor",
+    "people:ainur-in-beleriand"
+   ],
+   "related": [
+    "MT03",
+    "BA01"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of the Flight of the Noldor; Of the Return of the Noldor)"
+   ],
+   "confidence": "low"
+  },
+  {
+   "id": "RG24",
+   "title": "Talath Dirnen",
+   "type": "region",
+   "kind": "Plain north of Nargothrond",
+   "tier": 2,
+   "status": "Overrun after F.A. 495",
+   "blurb": "Talath Dirnen is the Guarded Plain that shielded Nargothrond from the north.",
+   "book": "Talath Dirnen is a wide plain north of Nargothrond, between the River Narog and the Teiglin. Its name means the guarded plain. The Elves of Nargothrond kept scouts and watchers on its grass to see the enemy's approach.\n\nIt was the main road of any army that marched on Nargothrond. Just west of it, between the Ginglith and the Narog, lay Tumhalad, the field where the host of Nargothrond fought Glaurung and the Orcs in F.A. 495 and was beaten.\n\nAfter the fall of the kingdom, the plain lay open. The Orcs moved over it freely, and Elves no longer guarded it.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Sindarin for the guarded plain"
+   },
+   "facts": {
+    "Ruler": "Held by Nargothrond",
+    "Chief place": "Between the Narog and the Teiglin",
+    "People": "Scouts of Nargothrond",
+    "Fate": "Lost after Nargothrond fell"
+   },
+   "peoples": [
+    "people:noldor",
+    "people:sindar",
+    "people:dragons"
+   ],
+   "related": [
+    "FI01",
+    "RI02",
+    "HI01",
+    "RI03"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of Túrin Turambar)",
+    "The Children of Húrin"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "RG25",
+   "title": "Ladros",
+   "type": "region",
+   "kind": "Land of the Edain of Bëor",
+   "tier": 3,
+   "status": "Lost with Dorthonion",
+   "blurb": "Ladros is the north-eastern fringe of Dorthonion, given to the House of Bëor.",
+   "book": "Ladros is a land at the north-eastern edge of Dorthonion. The Noldor gave it to the House of Bëor. The Edain of Bëor lived there as vassals of the Noldor kings of the north. It fell in the Dagor Bragollach with the rest of the north.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Sindarin name; the sense is uncertain"
+   },
+   "facts": {
+    "Ruler": "House of Bëor",
+    "People": "Edain of Bëor",
+    "Fate": "Lost in the Bragollach"
+   },
+   "peoples": [
+    "people:house-of-beor"
+   ],
+   "related": [
+    "HI04",
+    "FO08"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of Men; Of the Fifth Battle)"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "RG27",
+   "title": "Dor Dínen",
+   "type": "region",
+   "kind": "Silent land of the north",
+   "tier": 3,
+   "status": "Empty to the end",
+   "blurb": "Dor Dínen is the Silent Land, a bare and empty country north of Doriath.",
+   "book": "Dor Dínen is a bare country north of Doriath, between the upper waters of the Esgalduin and the Aros. Its name means the silent land. No people lived there, and the land was still and bare. The books tell little else about it.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Sindarin for the silent land"
+   },
+   "facts": {
+    "Chief place": "Between the upper Esgalduin and the Aros",
+    "People": "None",
+    "Fate": "Empty to the end"
+   },
+   "peoples": [],
+   "related": [
+    "RI05",
+    "RI06"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of the Sindar; Of Beren and Lúthien)"
+   ],
+   "confidence": "low"
+  },
+  {
+   "id": "RG26",
+   "title": "Hidden Realm of Gondolin",
+   "type": "realm",
+   "kind": "Hidden Noldorin kingdom",
+   "tier": 2,
+   "status": "Fell about F.A. 510",
+   "blurb": "Gondolin is the hidden city of Turgon, built in the plain of Tumladen inside the Encircling Mountains.",
+   "book": "Gondolin is the hidden kingdom of Turgon, son of Fingolfin. It stands on the green plain of Tumladen. The Echoriath, the Encircling Mountains, ring the plain on every side. The only way in is the long passage of Orfalch Echor.\n\nTurgon built the city at Ulmo's urging with the Noldor who followed him from Nevrast. He closed the gates after the Nírnaeth Arnoediad. Idril, his daughter, wed Tuor. Maeglin, Turgon's nephew, desired Idril.\n\nMaeglin was captured and told Morgoth the way. Morgoth sent Orcs, Balrogs and dragons against the city. The city fell about F.A. 510 after a great battle in which Ecthelion slew Gothmog. Turgon died in the ruins. Idril and Tuor escaped through a secret way with Eärendil and some of their people.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Sindarin for the hidden rock",
+    "Other names": "Ondolindë in Quenya; the Hidden City"
+   },
+   "facts": {
+    "Ruler": "King Turgon",
+    "Chief place": "Gondolin on Amon Gwareth, in Tumladen",
+    "People": "Noldor of Fingolfin's house",
+    "Fate": "Sacked by Morgoth, about F.A. 510"
+   },
+   "peoples": [
+    "people:noldor",
+    "people:eagles",
+    "people:balrogs",
+    "people:dragons"
+   ],
+   "related": [
+    "TO03",
+    "MT08",
+    "DO01",
+    "VA07"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of Maeglin; Of the Fall of Gondolin; Of Tuor and the Fall of Gondolin)",
+    "The Fall of Gondolin"
+   ],
+   "confidence": "high"
+  }
+ ],
+ "peoples": [
+  {
+   "id": "people:noldor",
+   "title": "Noldor",
+   "kind": "Exiled High Elves",
+   "blurb": "The Noldor are the Elves who left Valinor to follow Fëanor and pursue Morgoth.",
+   "book": "The Noldor are the second kindred of the Eldar. They learned much from the Valar in Aman and became great smiths, scholars and builders. Their first king was Finwë. After Morgoth stole the Silmarils and killed Finwë, Fëanor led most of them out of Valinor in revolt. Fëanor and his sons swore an oath to recover the jewels.\n\nThree houses led the exiles in Beleriand. The house of Fëanor held the eastern marches under Maedhros and his brothers. The house of Fingolfin held Hithlum, Nevrast and later hidden Gondolin, under Fingon and Turgon. The house of Finarfin held Nargothrond and Dorthonion under Finrod and his brothers.\n\nThe Noldor spoke Quenya, but in Beleriand they took up the Sindarin tongue. Their kingdoms fell one by one. The Dagor Bragollach, the Nírnaeth Arnoediad and the sack of Gondolin ruined them. A remnant under Gil-galad and Círdan survived and later founded Lindon.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Homeland": "Valinor, then Beleriand",
+    "Language": "Quenya, then Sindarin",
+    "Notable figures": "Fëanor, Fingolfin, Finrod, Turgon, Maedhros"
+   },
+   "realms": [
+    "RG01",
+    "RG04",
+    "RG06",
+    "RG13",
+    "RG15",
+    "RG26"
+   ],
+   "related": [
+    "FT04",
+    "TO02",
+    "TO03",
+    "FT02",
+    "TO04"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of the Noldor; Of the Flight of the Noldor)"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "people:sindar",
+   "title": "Sindar",
+   "kind": "Grey-elves of Beleriand",
+   "blurb": "The Sindar are the Grey-elves who stayed in Beleriand under King Thingol of Doriath.",
+   "book": "The Sindar are Elves of the Teleri who stayed behind in Middle-earth. They lost the Great Journey west and waited in Beleriand. Their king was Elwë, called Thingol, who met Melian the Maia and built the kingdom of Doriath. The Sindar spoke Sindarin, a tongue shaped by long years apart from Valinor.\n\nMost of them lived in Doriath. Smaller groups lived in Mithrim and on the coast. Some lived under Círdan in the Falas.\n\nWhen the Noldor returned, the Sindar welcomed their knowledge. After he learned of the Kinslaying, Thingol banned the Quenya tongue in his realm. Sindar fought in all the great wars of Beleriand. Beleg Strongbow and Mablung of the Heavy Hand were famed Sindarin captains. The Sindar of Doriath suffered most from the ruin of Menegroth.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Homeland": "Doriath, Mithrim, the Falas",
+    "Language": "Sindarin",
+    "Notable figures": "Thingol, Beleg, Mablung, Daeron, Círdan"
+   },
+   "realms": [
+    "RG07",
+    "RG03",
+    "RG05",
+    "RG01"
+   ],
+   "related": [
+    "TO01",
+    "FO01",
+    "TO05",
+    "LA01"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of the Sindar; Of Thingol and Melian)"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "people:falathrim",
+   "title": "Falathrim",
+   "kind": "Sindar of the western shore",
+   "blurb": "The Falathrim are the Sindar of the Falas, shipwrights who followed Círdan.",
+   "book": "The Falathrim are the Sindarin Elves of the western coast of Beleriand, in the land called the Falas. Their lord is Círdan the Shipwright. They are of the Teleri and love the sea. Ossë, a Maia of the sea, was their friend.\n\nThey built the harbours of Brithombar and Eglarest. They sailed the coast and the nearby seas. Thingol held Círdan as a vassal and let him rule the shore.\n\nFinrod of Nargothrond was their friend and built the tower of Barad Nimras near Eglarest. They lived long in peace during the Siege of Angband.\n\nAfter the Nírnaeth Arnoediad, Morgoth destroyed their havens. Círdan and many Falathrim fled to the Isle of Balar and to the mouth of Sirion. Later they built the ship Vingilot with Eärendil. After the War of Wrath, Círdan lived on in Lindon.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Homeland": "The Falas and the Havens",
+    "Language": "Sindarin",
+    "Notable figures": "Círdan, Gil-galad (as guest)"
+   },
+   "realms": [
+    "RG05",
+    "RG22",
+    "RG19"
+   ],
+   "related": [
+    "TO05",
+    "TO06",
+    "IS01",
+    "TO07"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of the Sindar; Of the Ruin of Beleriand; Of the Voyage of Eärendil)"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "people:laiquendi",
+   "title": "Laiquendi",
+   "kind": "Green-elves of Ossiriand",
+   "blurb": "The Laiquendi are the Green-elves, the Nandor who dwell in the Land of Seven Rivers.",
+   "book": "The Laiquendi, or Green-elves, are Nandorin Elves. Their ancestors left the Great Journey at the Misty Mountains. Their leader Lenwë turned south, and his son Denethor later led them into Ossiriand. There they lived in the woods beyond the River Gelion.\n\nThey wore green and kept to the trees. They were shy of strangers, but the Sindar of Doriath were their allies. Denethor aided King Thingol in the first battle of Beleriand and fell on Amon Ereb.\n\nThe Laiquendi were skilled at hunting and woodcraft, and few outsiders ever saw them. Their lands were protected by the many rivers.\n\nBeren and Lúthien lived among them on the island of Tol Galen. When Dwarves of Nogrod fled with the Nauglamír, the Laiquendi helped Beren to kill them at Sarn Athrad. Their old home was drowned in the ruin of Beleriand.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Homeland": "Ossiriand",
+    "Language": "Nandorin",
+    "Notable figures": "Lenwë, Denethor"
+   },
+   "realms": [
+    "RG16"
+   ],
+   "related": [
+    "IS02",
+    "RI08",
+    "RI14",
+    "FJ03"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of the Sindar; Of the Ruin of Doriath)"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "people:house-of-beor",
+   "title": "House of Bëor",
+   "kind": "First house of the Edain",
+   "blurb": "The House of Bëor is the first kindred of Men to enter Beleriand and the line of Beren.",
+   "book": "The House of Bëor is the first of the three houses of the Edain, the Elf-friends. They crossed the Ered Luin and entered Beleriand, led by Bëor the Old. He became the man of Finrod Felagund, and the elves gave his people lands.\n\nThe Beorians are mostly dark-haired and grey-eyed. They lived at first in Estolad. Later they settled in Dorthonion and Ladros as vassals of the sons of Finarfin. Bregolas and Barahir held the highland when the Dagor Bragollach came. Both fought bravely, and Bregolas was slain.\n\nBarahir's son Beren won the love of Lúthien. Their son Dior became king of Doriath, and Dior's daughter Elwing carried the Silmaril to the sea. Elwing's son Elrond, by Eärendil, is a lineal heir of the house. The line of Bëor, through Beren and Dior, mixed with the Elves and with the other Edain.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Homeland": "Dorthonion and Ladros",
+    "Language": "Taliska, then Sindarin",
+    "Notable figures": "Bëor, Barahir, Beren, Dior"
+   },
+   "realms": [
+    "RG11",
+    "RG25",
+    "RG17"
+   ],
+   "related": [
+    "LA03",
+    "FO08",
+    "TO01"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of Men; Of Beren and Lúthien)"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "people:house-of-haleth",
+   "title": "House of Haleth",
+   "kind": "Haladin of Brethil",
+   "blurb": "The Haladin are the second house of the Edain to enter Beleriand, who dwelt in Brethil under Haleth.",
+   "book": "The House of Haleth, the Haladin, is one of the three houses of the Edain. They were a small folk and kept apart from the Elves. Their first chieftain was Haldad, and when he and his son Haldar fell, Haleth, his daughter, led them. She was a strong and proud woman.\n\nThe Haladin entered Beleriand after the Bëorians and before the people of Marach. Thingol let them settle in Brethil between the Teiglin and the Sirion. They guarded the forest against Orcs without help from the Noldor. They kept their own laws.\n\nHandir, the lord of Brethil, fell fighting Orcs after the Nírnaeth. Brandir the Lame, his son, ruled afterwards. Túrin Turambar found a home among them and slew the dragon Glaurung near their land. The whole land was lost in the ruin of Beleriand.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Homeland": "Brethil",
+    "Language": "Haladin tongue",
+    "Notable figures": "Haleth, Handir, Brandir, Hunthor"
+   },
+   "realms": [
+    "RG08"
+   ],
+   "related": [
+    "FO04",
+    "TO08",
+    "RI03",
+    "GR02"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of Men; Of Túrin Turambar)",
+    "Unfinished Tales"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "people:house-of-hador",
+   "title": "House of Hador",
+   "kind": "Third house of the Edain",
+   "blurb": "The House of Hador is the golden-haired line of Dor-lómin, kin of Húrin and Tuor.",
+   "book": "The House of Hador is the third and greatest of the houses of the Edain. They are tall, golden-haired Men, of the kin of Marach. They served the High Kings of the Noldor in Hithlum. Fingolfin gave Hador Lórindol the land of Dor-lómin as a fief.\n\nHador's son Galdor held the land after him, and Galdor's sons Húrin and Huor after that. They fought in the Dagor Bragollach and in the Nírnaeth Arnoediad. At the Nírnaeth, Huor fell, and Húrin was taken to Angband and cursed by Morgoth. Túrin, Húrin's son, became a great warrior and an unlucky hero. Tuor, Huor's son, became a friend of Ulmo and entered Gondolin.\n\nTuor wed Idril, the daughter of Turgon. Their son was Eärendil the Mariner. In this way the House of Hador joined with the Noldor and with the line of Elros and Elrond.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Homeland": "Dor-lómin in Hithlum",
+    "Language": "Taliska, then Sindarin",
+    "Notable figures": "Hador, Galdor, Húrin, Túrin, Tuor"
+   },
+   "realms": [
+    "RG02",
+    "RG01",
+    "RG26"
+   ],
+   "related": [
+    "TO03",
+    "FT02"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of Men; Of Túrin Turambar)",
+    "The Children of Húrin"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "people:easterlings",
+   "title": "Easterlings",
+   "kind": "Swarthy Men of the east",
+   "blurb": "The Easterlings are Men from the east, some loyal to the Elves and many sworn to Morgoth.",
+   "book": "The Easterlings are Men who came into Beleriand from the east after the Edain. The Silmarillion calls them swarthy or dark Men. Their chiefs Bór and Ulfang came through the Ered Luin and took service with the sons of Fëanor. Bór followed Maedhros and Maglor, and Ulfang followed Caranthir.\n\nBór and his sons stayed loyal to Maedhros. Ulfang and his sons were secretly aligned with Morgoth. In the Nírnaeth Arnoediad, Ulfang's sons Uldor, Ulfast and Ulwarth joined the Union of Maedhros but turned on the Elves at the key moment. After the battle Lorgan led an Easterling folk into Hithlum and enslaved the Edain who remained. Other Easterlings lived in the lands of the east and fought for Morgoth.\n\nThe Elves held the Easterlings in fear and scorn. The sons of Bór died in the Nírnaeth fighting Morgoth's army.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Homeland": "Far east of Beleriand",
+    "Language": "Easterling tongues",
+    "Notable figures": "Bór, Ulfang, Uldor, Lorgan"
+   },
+   "realms": [
+    "RG15",
+    "RG01",
+    "RG02"
+   ],
+   "related": [
+    "MT12",
+    "LA02"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of Men; Nírnaeth Arnoediad)"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "people:dwarves-of-belegost-and-nogrod",
+   "title": "Dwarves of Belegost and Nogrod",
+   "kind": "Naugrim of the Blue Mountains",
+   "blurb": "The Naugrim are the Dwarves of Belegost and Nogrod, smiths and miners of the Ered Luin.",
+   "book": "The Naugrim, or Stunted People, are the Dwarves of Middle-earth. Aulë the Vala made them in secret before the Elves awoke. They are strong, proud and secretive. Their own name for their language is Khuzdul, which they taught to no outsiders.\n\nTwo great cities of the Naugrim stood in the Ered Luin. Belegost and Nogrod lay on the eastern edge of the range. Dwarves of both cities traded with the Elves, and they helped to build Menegroth and the halls of Nargothrond. The Dwarves of Belegost were friends of Thingol. They taught the Sindar much of craft in stone and metal. The Dwarf-road led from the mountains to Doriath.\n\nIn the Nírnaeth Arnoediad, Azaghâl of Belegost was killed by Glaurung. The Nauglamír was made long before for Finrod. Dwarves of Nogrod later set the Silmaril in it and killed Thingol. They sacked Menegroth, but the Laiquendi destroyed them at Sarn Athrad.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Homeland": "Ered Luin (Belegost, Nogrod)",
+    "Language": "Khuzdul",
+    "Notable figures": "Azaghâl, Telchar"
+   },
+   "realms": [
+    "RG07",
+    "RG15",
+    "RG06"
+   ],
+   "related": [
+    "TO09",
+    "TO10",
+    "FJ03",
+    "RD01",
+    "TO01"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of Aulë and Yavanna; Of the Sindar; Of the Ruin of Doriath)"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "people:petty-dwarves",
+   "title": "Petty-dwarves",
+   "kind": "Outcast Dwarves of Beleriand",
+   "blurb": "The Petty-dwarves are a small, bitter folk of Dwarves who lived apart from the Naugrim.",
+   "book": "The Petty-dwarves, or Noegyth Nibin, were a small and dwindling people. The other Dwarves cast them out long ago. They wandered into Beleriand and lived in secret caves, hated by the Elves and by their own kin.\n\nElves hunted them, and they dwindled in number. The last of them were Mîm and his two sons, Ibun and Khîm, who lived at Amon Rûdh.\n\nTúrin's band of outlaws captured Mîm, and later used Amon Rûdh as a base. Mîm in revenge led Orcs there and betrayed them. Later Mîm took Nargothrond's hoard after Glaurung left, and Húrin killed him. His curse fell on the treasure.\n\nWith Mîm their race came to its end, and the Elves in Beleriand remembered them with little love.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Homeland": "Amon Rûdh and Nargothrond's caves",
+    "Language": "Khuzdul",
+    "Notable figures": "Mîm, Ibun, Khîm"
+   },
+   "realms": [
+    "RG06",
+    "RG19"
+   ],
+   "related": [
+    "HI03",
+    "TO02"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of Túrin Turambar)",
+    "The Children of Húrin"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "people:druedain",
+   "title": "Drúedain",
+   "kind": "Wild Men of the woods",
+   "blurb": "The Drúedain are the short, stout Wild Men, wise in woodcraft and carvers of stone watchers.",
+   "book": "The Drúedain, the Woses, are a short, stocky Mannish folk of the old forests. They have deep-set eyes. They are skilled hunters and stone-carvers. They carve watchers of stone that guard their paths.\n\nIn Beleriand, some Drúedain dwelt in the forest of Brethil beside the Haladin. The Haladin accepted them as neighbours, and the two peoples lived side by side.\n\nThey did not trust outsiders. They seldom joined the wars of the Elves. Most remained in the hills and woods and lived by hunting. Their lore is told mainly in Unfinished Tales. The Wild Men of the Third Age appear in The Lord of the Rings.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Homeland": "Forests of Brethil; later White Mountains",
+    "Language": "Their own tongue",
+    "Notable figures": "Ghân-buri-Ghân (later age)"
+   },
+   "realms": [
+    "RG08"
+   ],
+   "related": [
+    "FO04",
+    "TO08"
+   ],
+   "sources": [
+    "Unfinished Tales: The Drúedain",
+    "The Lord of the Rings: Appendix F"
+   ],
+   "confidence": "low"
+  },
+  {
+   "id": "people:orcs",
+   "title": "Orcs",
+   "kind": "Servants of Morgoth",
+   "blurb": "The Orcs are Morgoth's soldiers, bred in Angband to destroy the Elves and Men.",
+   "book": "The Orcs are the foot soldiers of Morgoth. They are cruel creatures that hate light and love fire and ruin. The Silmarillion says that Morgoth made them in mockery of the Elves, though it admits that their true origin is unclear.\n\nThey first came to Beleriand in the long dark before the Sun, when Morgoth sent them out from Angband. The Dagor-nuin-Giliath, or Battle under Stars, was the first great fight between the Noldor and Orcs. The Orcs were slaughtered, but they came back in greater numbers each time.\n\nThey served as the main armies of Morgoth in the Dagor Bragollach and the Nírnaeth Arnoediad. They moved in great hosts under the command of Balrogs and captains. They hated the Sun. They raided and took prisoners.\n\nIn the War of Wrath the Orcs were destroyed in great numbers. A few escaped and later lived in hidden places in the mountains.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Homeland": "Angband and the north",
+    "Language": "Crude tongues",
+    "Notable figures": "Few are named in the published Silmarillion"
+   },
+   "realms": [
+    "RG20",
+    "RG21",
+    "RG11"
+   ],
+   "related": [
+    "FT01",
+    "MT02",
+    "GR01"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of the Coming of the Elves; Of the Fifth Battle; Nírnaeth Arnoediad)"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "people:balrogs",
+   "title": "Balrogs",
+   "kind": "Fire demons of Morgoth",
+   "blurb": "The Balrogs are Maiar of fire who serve Morgoth, led by Gothmog, Lord of Balrogs.",
+   "book": "The Balrogs are spirits of fire, Maiar corrupted by Morgoth in the first days. They wield whips of flame and swords of fire. They live in the deep halls of Angband.\n\nIn the First Age, Balrogs came out against the Noldor several times. They wounded Fëanor in the pursuit after the Dagor-nuin-Giliath, and he died soon after. Their number is not given in the Silmarillion.\n\nGothmog was the highest of them, the Lord of Balrogs and captain of Angband. He killed the High King Fingon in the Nírnaeth Arnoediad. In the sack of Gondolin, he led the Balrogs and fought Ecthelion, who killed him but also died.\n\nIn the War of Wrath most Balrogs perished. A few survived and fled into the roots of the earth. One of them was later awoken in Moria in the Third Age.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Homeland": "Angband",
+    "Language": "Not told",
+    "Notable figures": "Gothmog, Lord of Balrogs"
+   },
+   "realms": [
+    "RG21",
+    "RG26",
+    "RG20"
+   ],
+   "related": [
+    "FT01",
+    "MT02",
+    "TO03"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of the Flight of the Noldor; Nírnaeth Arnoediad; Of the Fall of Gondolin)"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "people:dragons",
+   "title": "Dragons",
+   "kind": "Fire-drakes of Angband",
+   "blurb": "Dragons are Morgoth's great reptilian weapons, led by Glaurung, Father of Dragons.",
+   "book": "The Dragons are great, cunning reptiles bred by Morgoth in Angband. They are strong, fierce and fond of gold. Glaurung was the first of them. He is called the Father of Dragons. He had no wings and was a deadly serpent with a charmed gaze.\n\nGlaurung first came out while still young, and Fingon drove him back. In the Dagor Bragollach he came again in full strength. In the Nírnaeth Arnoediad he ravaged the Elves and Men with the help of his army. Later he sacked Nargothrond and cursed Túrin and Nienor. Túrin killed him with the sword Gurthang at Cabed-en-Aras.\n\nWinged dragons came after him. In the sack of Gondolin, Morgoth sent drakes of fire. In the War of Wrath, Ancalagon the Black led the winged dragons. Eärendil killed him in the sky and his body fell on Thangorodrim and broke it.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Homeland": "Angband",
+    "Language": "Glaurung spoke with cunning",
+    "Notable figures": "Glaurung, Ancalagon"
+   },
+   "realms": [
+    "RG06",
+    "RG20",
+    "RG21"
+   ],
+   "related": [
+    "TO02",
+    "VA01",
+    "FT01"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of the Fifth Battle; Of Túrin Turambar; Of the War of Wrath)"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "people:werewolves-and-creatures-of-sauron",
+   "title": "Werewolves and creatures of Sauron",
+   "kind": "Beasts and fell spirits of the north",
+   "blurb": "Sauron led werewolves and the wolves of Angband. The spiders of Nan Dungortheb are also listed here.",
+   "book": "Sauron was Morgoth's chief servant. He commanded fell beasts. Among them were wolves of Angband and werewolves. The first of them was Draugluin, whom Huan the Hound of Valinor killed. Sauron himself took wolf shape and fought Huan on Tol Sirion, but Huan beat him.\n\nCarcharoth was the greatest of the wolves, the Hound of Angband. He bit off Beren's hand with the Silmaril and was then maddened by the jewel's fire. Huan killed him in the Hunting of the Wolf and died of his wounds.\n\nSauron held Tol Sirion after it was taken from the Noldor. It became Tol-in-Gaurhoth, the isle of werewolves. Lúthien and Huan then freed it. Thuringwethil served Sauron as a vampire.\n\nIn Nan Dungortheb the spiders of Ungoliant's brood lived. Shelob came of that line.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Homeland": "Tol Sirion and Angband",
+    "Language": "Not told",
+    "Notable figures": "Sauron, Draugluin, Carcharoth, Thuringwethil"
+   },
+   "realms": [
+    "RG10",
+    "RG11",
+    "RG21"
+   ],
+   "related": [
+    "FT03",
+    "FO08",
+    "MT09"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of Beren and Lúthien)",
+    "Beren and Lúthien"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "people:eagles",
+   "title": "Great Eagles of Thorondor",
+   "kind": "Eagles of Manwë",
+   "blurb": "The Great Eagles are the messengers of Manwë, led by Thorondor, King of the Eagles.",
+   "book": "The Great Eagles are the servants of Manwë, the Lord of the Winds. They are huge birds that live in the high places. Their king in the First Age was Thorondor, and he was the greatest of all birds.\n\nThorondor and his people nested on the Crissaegrim, the peaks beside Gondolin. They watched the realm of Turgon and brought news of Morgoth's armies. They kept Gondolin hidden from the enemy's spies in the air.\n\nThorondor bore Fingon up to rescue Maedhros from Thangorodrim. He later took the body of Fingolfin from the field, and saved it from Morgoth. He also carried Beren and Lúthien out of Angband. He also tore the face of Morgoth after the death of Fingolfin.\n\nThe Eagles joined the War of Wrath. In the Third Age, Gwaihir the Windlord was a later lord of the Eagles.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Homeland": "Crissaegrim and Thangorodrim's cliffs",
+    "Language": "Speech of the Eagles",
+    "Notable figures": "Thorondor, Gwaihir (later)"
+   },
+   "realms": [
+    "RG26",
+    "RG09"
+   ],
+   "related": [
+    "CR01",
+    "TO03",
+    "MT02"
+   ],
+   "sources": [
+    "The Silmarillion: Quenta Silmarillion (Of the Return of the Noldor; Of Beren and Lúthien; Of the Fifth Battle)"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "people:ainur-in-beleriand",
+   "title": "Ainur in Beleriand",
+   "kind": "Maiar and Valar in the Age",
+   "blurb": "Melian, Ulmo, Morgoth and Sauron are the mighty Ainur who shaped the First Age.",
+   "book": "The Ainur are the holy spirits who sang the world into being. Some of them entered it. In the First Age four are most important in Beleriand.\n\nMelian was a Maia who served Vána and Estë. She came to Middle-earth and wed Thingol, and she raised the Girdle around Doriath. Her daughter was Lúthien. After Thingol's death, she left Beleriand and returned to Aman.\n\nUlmo, the Lord of Waters, sent counsel to Turgon, Tuor and others. He spoke to them in rivers and the sea. He guided Tuor to Gondolin.\n\nMorgoth, once called Melkor, was the first Dark Lord and the origin of the evils of the Age. He lived in Angband and fought against the Elves and Men.\n\nSauron, a Maia once of Aulë, was Morgoth's chief lieutenant. He commanded Tol Sirion and the hunters of the north. Morgoth was cast out by the Valar in the War of Wrath. Sauron fled and hid.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Homeland": "Valinor and Beleriand",
+    "Language": "Their own tongue",
+    "Notable figures": "Melian, Ulmo, Morgoth, Sauron"
+   },
+   "realms": [
+    "RG07",
+    "RG21",
+    "RG26"
+   ],
+   "related": [
+    "TO01",
+    "FT01",
+    "FT03",
+    "RI01"
+   ],
+   "sources": [
+    "The Silmarillion: Ainulindalë; Valaquenta; Quenta Silmarillion"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "people:ents",
+   "title": "Ents",
+   "kind": "Shepherds of the trees",
+   "blurb": "The Ents are the Onodrim, tree-herders made by Yavanna, whose lore is told only in brief.",
+   "book": "The Ents are the shepherds of trees, tall folk of great strength and slow speech. Yavanna asked for them to guard the woods against harm. The Sindar called them Onodrim.\n\nThe oldest Ents wandered in the forests of Beleriand in the First Age. The Silmarillion mentions them only in passing. The Elves were their friends, and the Ents learned to speak from them. After the fight at Sarn Athrad, the Shepherds of the Trees fell upon the fleeing Dwarves.\n\nTreebeard, the eldest Ent in the Third Age, remembered Beleriand in the old days. The Ents and Entwives separated, and the Entwives were lost. Their lore is mostly known from the Lord of the Rings.\n\nThe forests of Beleriand were lost in the sinking of the land. A few Ents lived on in Fangorn in the Third Age.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Homeland": "The forests of Beleriand, later Fangorn",
+    "Language": "Entish",
+    "Notable figures": "Treebeard (later age)"
+   },
+   "realms": [
+    "RG07"
+   ],
+   "related": [
+    "FO01",
+    "FO02"
+   ],
+   "sources": [
+    "The Lord of the Rings: The Two Towers, Treebeard",
+    "The Silmarillion: Quenta Silmarillion (Of Aulë and Yavanna)"
+   ],
+   "confidence": "low"
+  }
+ ]
+}

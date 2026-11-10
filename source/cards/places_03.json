@@ -1,0 +1,715 @@
+[
+ {
+  "id": "BU030",
+  "title": "Bag End",
+  "kind": "Hobbit smial",
+  "tier": 1,
+  "blurb": "The comfortable hobbit-hole under Hobbiton Hill, home of Bilbo and later Frodo Baggins.",
+  "book": "Bag End is a large and well-furnished hobbit-hole dug into Hobbiton Hill. It lies at the end of Bagshot Row, above the village of Hobbiton in the Shire.\n\nBungo Baggins built it for his bride Belladonna Took. Their son Bilbo lived there for decades after his journey in The Hobbit. He brought back a share of Smaug's treasure and a magic ring.\n\nBilbo held his famous farewell party there in T.A. 3001 and then left the Shire. He gave Bag End to his heir Frodo. Gandalf visited Frodo there in T.A. 3018 and explained the true nature of the Ring.\n\nFrodo sold the house to the Sackville-Bagginses and left in the autumn of T.A. 3018. During the Scouring of the Shire, Saruman's ruffians damaged Bag End. After the Hobbits returned, Sam Gamgee and his family restored the house and garden.",
+  "film": "Bag End appears in the films as a warm, round-doored home on a green hillside. The Hobbiton film set is built around it.",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Bilbo, Frodo, later Sam Gamgee",
+   "Built by": "Bungo Baggins"
+  },
+  "related": [
+   "TO050",
+   "HI035",
+   "TO016",
+   "RD020"
+  ],
+  "sources": [
+   "The Hobbit, chapter 1",
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "BU029",
+  "title": "White Towers",
+  "kind": "Elven towers",
+  "tier": 3,
+  "blurb": "Three tall Elven towers on the Tower Hills beyond the western border of the Shire.",
+  "book": "The White Towers stand on the Tower Hills, called Emyn Beraid, west of the Shire. Gil-galad is said to have built them for Elendil in the Second Age. The tallest, Elostirion, holds a palantír. It is said that the Sea can be seen from the top of the tallest.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Lindon, near the Shire",
+   "People": "Elves",
+   "Built by": "Said to be Gil-galad, for Elendil"
+  },
+  "related": [
+   "BU015",
+   "HI048",
+   "TO043"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Prologue",
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU001",
+  "title": "All-Welcome Inn",
+  "kind": "Hobbit inn",
+  "tier": 3,
+  "blurb": "A Shire inn named in the map data set.",
+  "book": "This name comes from the map data set. I do not have a confirmed book source for it. The map places it in the Shire, west of the Brandywine Bridge.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits"
+  },
+  "related": [
+   "TO016",
+   "TO050"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "BU015",
+  "title": "Elostirion",
+  "kind": "Elven tower",
+  "tier": 2,
+  "blurb": "The tallest of the White Towers on the Tower Hills, holding Elendil's seeing-stone.",
+  "book": "Elostirion is the highest of the three White Towers on the Tower Hills, called Emyn Beraid, west of the Shire. Gil-galad is said to have built them for Elendil in the Second Age.\n\nElendil placed one palantír in Elostirion. This stone looks only westward, across the sea toward Eressëa. It does not show other palantíri or other places.\n\nElves kept the stone after the fall of Arnor. Círdan of the Grey Havens watched over this region. Hobbits of the Shire saw the towers on the far western horizon.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Lindon, near western Shire",
+   "People": "Elves",
+   "Built by": "Elves of Lindon",
+   "Held": "A palantír looking only west"
+  },
+  "related": [
+   "BU029",
+   "HI048",
+   "TO043",
+   "TO084"
+  ],
+  "sources": [
+   "Unfinished Tales",
+   "The Fellowship of the Ring, Prologue",
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU002",
+  "title": "Bridge Inn",
+  "kind": "Hobbit inn",
+  "tier": 3,
+  "blurb": "An inn standing by the Brandywine Bridge on the eastern edge of the Shire.",
+  "book": "The Bridge Inn stands near the Brandywine Bridge, where the Great East Road crosses the river into the Shire, north of Buckland. Travellers on the road stop there. Little else is known of it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits, travellers"
+  },
+  "related": [
+   "BR001",
+   "TO014",
+   "DO005"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "BU004",
+  "title": "Green Dragon",
+  "kind": "Hobbit inn",
+  "tier": 2,
+  "blurb": "A well-known Hobbit inn at Bywater, near Hobbiton.",
+  "book": "The Green Dragon is an inn at Bywater, a village by the pool close to Hobbiton. Local Hobbits gather there to drink and trade news.\n\nIn the spring of T.A. 3018, Sam Gamgee and Ted Sandyman argue there about strange tales. Sam speaks of walking giants and of Elves sailing into the West, and Ted mocks him. Sam walks home thinking of the Elves.",
+  "film": "The film shows a hobbit tavern of this name at Bywater, and Hobbits gather there to drink and sing.",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits"
+  },
+  "related": [
+   "TO016",
+   "BU005",
+   "TO050",
+   "LA002"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU007",
+  "title": "The Floating Log",
+  "kind": "Hobbit inn",
+  "tier": 3,
+  "blurb": "An inn at Frogmorton in the Eastfarthing of the Shire.",
+  "book": "The Floating Log is an inn at Frogmorton in the Eastfarthing, on the East Road. It is named when Frodo and his friends pass through Frogmorton on their way home in T.A. 3019.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits"
+  },
+  "related": [
+   "TO037",
+   "BU075"
+  ],
+  "sources": [
+   "The Return of the King, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU008",
+  "title": "The Golden Perch",
+  "kind": "Hobbit inn",
+  "tier": 3,
+  "blurb": "An inn at Stock in the Eastfarthing, known for good ale.",
+  "book": "The Golden Perch is an inn at Stock in the Eastfarthing of the Shire. Hobbits praise its ale. Pippin praises its beer, but the hobbits hurry past Stock to the ferry.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits"
+  },
+  "related": [
+   "TO091",
+   "RI093",
+   "TO014"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU009",
+  "title": "The Prancing Pony",
+  "kind": "Inn of Bree",
+  "tier": 1,
+  "blurb": "The famous inn at Bree where Frodo meets Strider.",
+  "book": "The Prancing Pony is the chief inn of Bree. It stands on the Great East Road, inside the West-gate of the town. Its keeper is Barliman Butterbur. Men and Hobbits drink in its common room, and travellers from many lands stop there.\n\nOn 29 September, T.A. 3018, Frodo and his friends reach the inn. Frodo gives his name as Underhill. Pippin begins to tell too much, and Frodo slips and puts on the Ring. A strange man named Strider watches them and warns them that Black Riders are near.\n\nGandalf had meant to meet them there, but he never arrived. Barliman Butterbur forgot to send Gandalf's letter. The inn becomes the first stop in the long journey toward Rivendell.\n\nMonths later, in T.A. 3019, Frodo, Sam, Merry, Pippin, and Gandalf stop at the inn on the road home. They find Butterbur still keeping the house.",
+  "film": "The films show the inn as a lively, crowded place. Frodo meets Aragorn there, and the Hobbits leave the Shire behind.",
+  "series": "",
+  "facts": {
+   "Realm": "Bree-land",
+   "People": "Barliman Butterbur, Nob, Bob",
+   "Kept by": "Barliman Butterbur",
+   "Fate": "Survives into the Fourth Age"
+  },
+  "related": [
+   "TO011",
+   "DO037",
+   "BU003",
+   "HI012"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I",
+   "The Return of the King, Book VI"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "BU014",
+  "title": "Durin's Tower",
+  "kind": "Tower of Moria",
+  "tier": 2,
+  "blurb": "A tower carved into the summit of Celebdil above Khazad-dûm.",
+  "book": "Durin's Tower is a tower at the top of Celebdil, one of the three peaks above Moria. The Dwarves built it at the summit of the mountain. A great stair, the Endless Stair, leads up to it from the depths of Moria.\n\nGandalf fought the Balrog on that peak. The fight ended there in January T.A. 3019, and the peak was left in ruins.\n\nGandalf destroyed the Balrog and then died on the peak. Gwaihir the Eagle later found him there. Gandalf returned to Middle-earth as Gandalf the White.",
+  "film": "The Two Towers opens with Gandalf's fall and briefly shows the fight on a snowy peak. The tower is not named.",
+  "series": "",
+  "facts": {
+   "Realm": "Khazad-dûm",
+   "People": "Dwarves, originally",
+   "Built on": "The peak of Celebdil",
+   "Fate": "Ruined in the fight with the Balrog"
+  },
+  "related": [
+   "MT007",
+   "TO066",
+   "BU041",
+   "MT006"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II",
+   "The Two Towers, Book III"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU021",
+  "title": "Orthanc",
+  "kind": "Tower of Isengard",
+  "tier": 1,
+  "blurb": "The black tower at the centre of Isengard where Saruman lives and rules.",
+  "book": "Orthanc is a tall black tower in the circle of Isengard. The Númenóreans built it of hard stone that cannot be broken. Its name has two meanings: Mount Fang in Elvish, and Cunning Mind in the speech of Rohan.\n\nGondor gave Isengard and Orthanc to Saruman in T.A. 2759. He used it as his stronghold. A palantír was kept in the tower, and through it he later fell under Sauron's influence.\n\nGandalf was held on the summit in T.A. 3018 until Gwaihir rescued him. In T.A. 3019 the Ents of Fangorn broke the walls of Isengard and flooded the valley. Saruman stayed locked inside the tower.\n\nGandalf spoke with Saruman at its foot. Wormtongue threw the palantír from a window. Pippin picked it up, and he looked into it that night at Dol Baran.",
+  "film": "Peter Jackson shows Orthanc as a very tall black spire. Gandalf is held prisoner at its top. In the extended edition, Saruman dies there.",
+  "series": "",
+  "facts": {
+   "Realm": "Isengard, held by Gondor",
+   "People": "Saruman",
+   "Built by": "Númenóreans",
+   "Other names": "Mount Fang; Cunning Mind"
+  },
+  "related": [
+   "FT017",
+   "VA014",
+   "FO012",
+   "DO017",
+   "WA007"
+  ],
+  "sources": [
+   "The Two Towers, Book III",
+   "The Fellowship of the Ring, Book II"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "BU026",
+  "title": "Tower of Ecthelion",
+  "kind": "Tower of Minas Tirith",
+  "tier": 2,
+  "blurb": "The tall white tower of Minas Tirith, seat of the Stewards of Gondor.",
+  "book": "The Tower of Ecthelion is the great white tower at the top of Minas Tirith. It stands in the seventh circle of the city, on the edge of the great rock. It is also called the White Tower. Ecthelion I rebuilt it in T.A. 2698.\n\nThe Stewards of Gondor ruled from the tower. Denethor II sat there in the High Hall. Gandalf and Pippin met him in that hall during the War of the Ring.\n\nDenethor's fall came in March, T.A. 3019.",
+  "film": "The films show the tower rising above the city. Denethor's throne room and the White Tree stand in its great court.",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "People": "Stewards of Gondor",
+   "Built by": "Rebuilt by Ecthelion I",
+   "Other names": "White Tower"
+  },
+  "related": [
+   "TO065",
+   "DO030",
+   "BU048"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU031",
+  "title": "Beorn's Hall",
+  "kind": "Wooden hall of Beorn",
+  "tier": 2,
+  "blurb": "The wooden hall of the skin-changer Beorn between the Misty Mountains and Mirkwood.",
+  "book": "Beorn's Hall is a large wooden hall in the lands between the Misty Mountains and Mirkwood. It stands near the Carrock beyond the Anduin. Beorn, a skin-changer who can become a great bear, lives there. He keeps honey bees and tame animals.\n\nGandalf brings Bilbo and the Dwarves to Beorn's Hall in T.A. 2941 after the escape from the Goblins. Beorn lends them ponies and food for the journey through Mirkwood.\n\nBeorn later fights in the Battle of Five Armies. Afterward he becomes a great chief in the lands west of Mirkwood.",
+  "film": "The Hobbit film shows Beorn's house as a rustic homestead. Beorn appears as a man and as a huge bear.",
+  "series": "",
+  "facts": {
+   "Realm": "Wilderland, east of Anduin",
+   "People": "Beorn",
+   "Founded": "By Beorn",
+   "Fate": "Held by Beorn's people afterward"
+  },
+  "related": [
+   "FJ007",
+   "IS003",
+   "FO018",
+   "RI003"
+  ],
+  "sources": [
+   "The Hobbit, chapters 6 and 7"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "BU032",
+  "title": "Brandy Hall",
+  "kind": "Hobbit smial",
+  "tier": 2,
+  "blurb": "The great smial of the Brandybuck family in Buckland, east of the Brandywine River.",
+  "book": "Brandy Hall is the huge smial of the Brandybuck family in Buckland, near Bucklebury. Gorhendad Oldbuck began it, then took the name Brandybuck. It is dug deep into the hill by the river.\n\nMany Brandybuck Hobbits live there. Frodo's mother Primula was a Brandybuck. After his parents drowned, Frodo lived at Brandy Hall. Bilbo adopted him later. Meriadoc Brandybuck is Frodo's friend and kinsman.\n\nIn T.A. 3018, Frodo leaves for Crickhollow, which lies near Brandy Hall. The Old Forest lies beyond Buckland.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Buckland, the Shire",
+   "People": "Brandybuck family",
+   "Founded": "By Gorhendad Oldbuck"
+  },
+  "related": [
+   "TO014",
+   "TO022",
+   "BR001",
+   "DO005"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I",
+   "The Fellowship of the Ring, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU034",
+  "title": "Chamber of Mazarbul",
+  "kind": "Chamber in Moria",
+  "tier": 2,
+  "blurb": "A chamber in Moria where the Fellowship finds Balin's tomb and a record book.",
+  "book": "The Chamber of Mazarbul is a room in Moria, whose name means records in the Dwarf-tongue. It lies beside the Twenty-first Hall. Balin's tomb stands here.\n\nBalin led a Dwarf colony into Moria in T.A. 2989. Orcs attacked the colony, and the Dwarves died. The Fellowship finds the Book of Mazarbul beside the tomb. Gandalf reads it.\n\nWhile he reads, drums sound in the deep and Orcs and a cave-troll attack. Frodo is struck by a spear. His mithril shirt saves his life.",
+  "film": "The film shows this scene. The Fellowship finds Balin's tomb, and a cave-troll attacks.",
+  "series": "",
+  "facts": {
+   "Realm": "Khazad-dûm",
+   "People": "Balin and his Dwarf colony",
+   "Meaning": "Records",
+   "Fate": "Abandoned after Orc attack"
+  },
+  "related": [
+   "TO066",
+   "BU045",
+   "BU041",
+   "BR003"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "BU036",
+  "title": "Cracks of Doom",
+  "kind": "Fire chamber of Mount Doom",
+  "tier": 1,
+  "blurb": "The fiery chasm inside Mount Doom where the One Ring was made and destroyed.",
+  "book": "The Cracks of Doom lie inside Mount Doom, called Orodruin. The chamber is named Sammath Naur in Elvish. Sauron forged the One Ring here in the Second Age. Only fire from this place can melt the Ring.\n\nIn T.A. 3019 Frodo and Sam climb the mountain. Gollum follows them. At the chamber door Frodo claims the Ring for himself. Gollum attacks Frodo, bites off his finger, and takes the Ring. In his joy he falls into the fire, and the Ring melts.\n\nThe destruction of the Ring ends Sauron's power for good. Barad-dûr falls, the Nazgûl perish, and Sauron's armies lose heart. The date is 25 March, T.A. 3019.\n\nThe mountain erupts. Gandalf sends Gwaihir and the Eagles to rescue the two Hobbits.",
+  "film": "The film shows the chamber with a narrow stone path over the lava. Frodo claims the Ring, and Gollum falls with it after a fight.",
+  "series": "",
+  "facts": {
+   "Realm": "Mordor",
+   "Other names": "Sammath Naur",
+   "Fate": "Ring destroyed here, 25 March T.A. 3019"
+  },
+  "related": [
+   "MT036",
+   "FT004",
+   "FT025"
+  ],
+  "sources": [
+   "The Return of the King, Book VI",
+   "The Fellowship of the Ring, Book II"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "BU038",
+  "title": "Dome of Stars",
+  "kind": "Hall of Osgiliath",
+  "tier": 3,
+  "blurb": "A great domed hall in Osgiliath that held the city's palantír.",
+  "book": "The Dome of Stars stood in Osgiliath, the old capital of Gondor. It held the city's palantír. In the Kin-strife, the city burned, and the Dome and its palantír fell into the river.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Place": "Osgiliath",
+   "Fate": "Burned in the Kin-strife"
+  },
+  "related": [
+   "TO078",
+   "BU049",
+   "TO065"
+  ],
+  "sources": [
+   "The Return of the King, Appendix A",
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU041",
+  "title": "Endless Stair",
+  "kind": "Stair of Khazad-dûm",
+  "tier": 2,
+  "blurb": "A huge stair from the deep places of Moria up to the peak of Celebdil.",
+  "book": "The Endless Stair is a great spiral stair in Khazad-dûm. It rises from the deepest places of Moria to the summit of Celebdil, where Durin's Tower stands.\n\nGandalf fell into the dark with the Balrog after the Bridge of Khazad-dûm. They fought through the lower levels and climbed the stair. The fight ended at the summit.\n\nGandalf tells the story later to his friends, after he returns as Gandalf the White.",
+  "film": "The films do not show the Endless Stair.",
+  "series": "",
+  "facts": {
+   "Realm": "Khazad-dûm",
+   "Leads to": "Durin's Tower on Celebdil"
+  },
+  "related": [
+   "BU014",
+   "MT007",
+   "TO066"
+  ],
+  "sources": [
+   "The Two Towers, Book III",
+   "The Fellowship of the Ring, Book II"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU042",
+  "title": "Ent-houses",
+  "kind": "Dwellings of Ents",
+  "tier": 3,
+  "blurb": "Dwelling places of the Ents in and near Fangorn Forest.",
+  "book": "The Ents live in halls and deep dells in Fangorn Forest. Treebeard's home is Wellinghall, a hollow under a rock near a spring. The Ents do not build houses as Men do.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Fangorn Forest",
+   "People": "Ents",
+   "Example": "Wellinghall"
+  },
+  "related": [
+   "FO012",
+   "VA014",
+   "FT017"
+  ],
+  "sources": [
+   "The Two Towers, Book III"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU045",
+  "title": "First Hall",
+  "kind": "Hall in Khazad-dûm",
+  "tier": 3,
+  "blurb": "A great hall in Moria near the Dimrill Gate.",
+  "book": "The First Hall is a great hall of Moria in the eastern part of the Dwarf-mines. It lies near the Great Gates. The Fellowship passes it after the Bridge fight.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Khazad-dûm",
+   "People": "Dwarves"
+  },
+  "related": [
+   "TO066",
+   "BR003",
+   "VA004"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "BU047",
+  "title": "Great Chamber of Thrór",
+  "kind": "Dwarf chamber in Erebor",
+  "tier": 3,
+  "blurb": "A large royal chamber inside the Lonely Mountain.",
+  "book": "The Great Chamber of Thrór is a royal hall in Erebor, the Lonely Mountain. Thrór ruled the Dwarves there before Smaug came in T.A. 2770.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Erebor",
+   "Ruler": "Thrór",
+   "Fate": "Taken by Smaug, T.A. 2770"
+  },
+  "related": [
+   "MT029",
+   "TO024",
+   "BU050"
+  ],
+  "sources": [
+   "The Hobbit, chapters 12 and 13"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "BU048",
+  "title": "Great Hall of Feasts",
+  "kind": "Hall of Minas Tirith",
+  "tier": 3,
+  "blurb": "A great feasting hall in Minas Tirith, named Merethrond in Elvish.",
+  "book": "The Great Hall of Feasts is a hall in Minas Tirith. Its Elvish name is Merethrond. Gondor uses it for feasts and gatherings. It stands in the city of the Stewards, below the high tower.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Other names": "Merethrond"
+  },
+  "related": [
+   "TO065",
+   "BU026",
+   "DO030"
+  ],
+  "sources": [
+   "The Return of the King, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU049",
+  "title": "Great Hall of Osgiliath",
+  "kind": "Hall of Osgiliath",
+  "tier": 3,
+  "blurb": "A great hall in Osgiliath, the ruined old capital of Gondor.",
+  "book": "This name comes from the map data set. I do not have a confirmed book source for a hall of this name. Osgiliath was the first capital of Gondor, and it fell into ruin after the Kin-strife and the Great Plague.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Place": "Osgiliath",
+   "Fate": "City fell into ruin"
+  },
+  "related": [
+   "TO078",
+   "BU038",
+   "TO065"
+  ],
+  "sources": [
+   "The Return of the King, Appendix A"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "BU050",
+  "title": "Great Hall of Thráin",
+  "kind": "Dwarf hall in Erebor",
+  "tier": 3,
+  "blurb": "A great hall inside Erebor named for the Dwarf king Thráin.",
+  "book": "The Great Hall of Thráin is a large hall within Erebor, the Lonely Mountain. Thráin I founded the Dwarf kingdom there in T.A. 1999. Smaug later held the hall.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Erebor",
+   "Named for": "Thráin I",
+   "Fate": "Held by Smaug"
+  },
+  "related": [
+   "MT029",
+   "TO024",
+   "BU047"
+  ],
+  "sources": [
+   "The Hobbit, chapter 12",
+   "The Return of the King, Appendix A"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "BU051",
+  "title": "Great House",
+  "kind": "Master's house in Lake-town",
+  "tier": 3,
+  "blurb": "The large house of the Master of Lake-town.",
+  "book": "The Great House is the hall of the Master of Lake-town. Thorin's company is welcomed there in T.A. 2941. The Master doubts Thorin, but gives the company boats and supplies, glad to see them go.",
+  "film": "The Hobbit films show the Master's hall as a grand house on the lake.",
+  "series": "",
+  "facts": {
+   "Realm": "Esgaroth",
+   "People": "The Master of Lake-town"
+  },
+  "related": [
+   "TO053",
+   "MT029",
+   "TO024"
+  ],
+  "sources": [
+   "The Hobbit, chapter 10"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU052",
+  "title": "Great Smials",
+  "kind": "Hobbit smial",
+  "tier": 2,
+  "blurb": "The huge smial at Tuckborough where the Thain of the Shire lives.",
+  "book": "The Great Smials is the large smial of the Took family at Tuckborough in the Tookland of the Shire. The Thain of the Shire lives there. The Thain is the head of the Took family.\n\nIsengrim II dug it out and enlarged it. Many Took relatives live in it, in a large network of tunnels. Pippin Took comes from this family. Bilbo Baggins had a Took mother.\n\nPippin later becomes Thain and lives there.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Took family, Thain",
+   "Place": "Tuckborough"
+  },
+  "related": [
+   "TO097",
+   "TO107",
+   "TO061"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Prologue",
+   "The Return of the King, Appendix B"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU054",
+  "title": "Hall of Fire",
+  "kind": "Hall of Rivendell",
+  "tier": 2,
+  "blurb": "The hall in Elrond's house where Elves gather for song and story.",
+  "book": "The Hall of Fire is a hall in Elrond's house at Rivendell.  Elves gather here to sing and tell stories.\n\nFrodo wakes in Rivendell after the wound from Weathertop. He then hears music in the Hall of Fire. Bilbo sings his song of Eärendil there. Frodo feels peace.\n\nThe hall serves as a place of rest and song. Elrond's guests, Hobbits and Elves alike, gather here to listen to the minstrels.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rivendell",
+   "Ruler": "Elrond",
+   "People": "Elves"
+  },
+  "related": [
+   "TO084",
+   "MT007"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU003",
+  "title": "The Forsaken Inn",
+  "kind": "Abandoned inn east of Bree",
+  "tier": 3,
+  "blurb": "An abandoned inn on the Great East Road east of Bree.",
+  "book": "The Forsaken Inn stood a day's walk east of Bree on the Great East Road. It was abandoned long before the War of the Ring.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Eriador, east of Bree-land",
+   "Fate": "Abandoned"
+  },
+  "related": [
+   "TO011",
+   "BU009",
+   "HI012"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU005",
+  "title": "Ivy Bush",
+  "kind": "Hobbit inn",
+  "tier": 3,
+  "blurb": "A small inn at Bywater where Hobbits talk and drink.",
+  "book": "The Ivy Bush is a small inn on the road from Hobbiton to Bywater. Before Bilbo's party in T.A. 3001, the Gaffer Gamgee and his neighbours gossip there about Bilbo, Frodo and the Bagginses.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "People": "Hobbits",
+   "Place": "Bywater"
+  },
+  "related": [
+   "TO016",
+   "BU004",
+   "TO050"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "medium"
+ }
+]

@@ -1,0 +1,835 @@
+[
+ {
+  "id": "battle:first-battle-of-beleriand",
+  "title": "First Battle of Beleriand",
+  "date": "Y.T. (before the Sun; exact year not given)",
+  "year_sort": -400,
+  "war": "Wars of Beleriand",
+  "at": {
+   "near": "HI04",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Thingol and the Grey-elves of Beleriand",
+    "Denethor and the Green-elves of Ossiriand"
+   ],
+   "b": [
+    "Orcs of Morgoth"
+   ]
+  },
+  "outcome": "The Elves destroyed the Orc host, but Denethor was slain.",
+  "blurb": "Elves of Beleriand beat the first Orc army, at the cost of Denethor.",
+  "book": "Morgoth returns to Middle-earth and sends Orcs south into Beleriand. They fall upon the Elves, who have few good weapons. Thingol of Doriath calls his people to war.\n\nDenethor, leader of the Green-elves, brings his folk north from Ossiriand to help. The two hosts fight the Orcs, and the Orcs are driven back with heavy losses. Denethor falls on the hill of Amon Ereb in the east.\n\nThe victory is real, but it shows the Elves how weak their arms are. Afterwards Thingol and Melian raise the Girdle of Melian around the heart of the land. The Green-elves lose their king and never again have one.",
+  "film": "",
+  "series": "",
+  "related": [
+   "RG07",
+   "RG16",
+   "MT11"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Sindar; Of Beleriand and its Realms"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "battle:dagor-nuin-giliath",
+  "title": "Dagor-nuin-Giliath (Battle under Stars)",
+  "date": "Y.T. 1497 (before the Sun)",
+  "year_sort": -1,
+  "war": "Wars of Beleriand",
+  "at": {
+   "near": "LA01",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 1,
+  "sides": {
+   "a": [
+    "Noldor of Fëanor"
+   ],
+   "b": [
+    "Orcs of Morgoth"
+   ]
+  },
+  "outcome": "The Noldor routed the Orcs, but Fëanor was mortally wounded.",
+  "blurb": "The Noldor wreck an Orc army by starlight in Mithrim, but Fëanor dies.",
+  "book": "The sons of Fëanor land in the north of Beleriand and burn the ships at Losgar. Their host marches to Mithrim and makes camp by the great lake.\n\nMorgoth sends an army of Orcs against the newcomers. The Noldor are strong, well armed, and angry. They destroy the Orcs under the light of the stars, and the survivors are chased far across the plain.\n\nFëanor, filled with rage, drives on ahead of his people almost to the gates of Angband. Balrogs come out and surround him. His sons rescue him, but his wounds are mortal.\n\nBefore he dies, Fëanor looks on the mountains of Thangorodrim and curses Morgoth. He makes his sons swear again to win the Silmarils.\n\nThe battle is a great Elvish victory, yet it costs the Noldor their greatest smith and leader. It also gives them a first sight of the power of Morgoth and of the Balrogs. The Noldor camp beside Lake Mithrim afterwards.",
+  "film": "",
+  "series": "",
+  "related": [
+   "RG03",
+   "MT02",
+   "FT01"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Return of the Noldor"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "battle:battle-of-the-lammoth",
+  "title": "Battle of the Lammoth",
+  "date": "about F.A. 1 (around the first rising of the Sun)",
+  "year_sort": 1,
+  "war": "Wars of Beleriand",
+  "at": {
+   "near": "VA02",
+   "dx": -85,
+   "dy": 135
+  },
+  "tier": 3,
+  "sides": {
+   "a": [
+    "Noldor of Fingolfin"
+   ],
+   "b": [
+    "Orcs of Morgoth"
+   ]
+  },
+  "outcome": "The Silmarillion tells of no real fight: the Orcs did not stand against Fingolfin's host.",
+  "blurb": "Fingolfin's host lands at Lammoth; the books record no true battle there.",
+  "book": "After the crossing of the Helcaraxë, the host of Fingolfin reaches the northern shores of Beleriand. The land there is called Lammoth, the Great Echo.\n\nThe published Silmarillion tells of no battle there. The host marches on into Mithrim as the Sun first rises, and the servants of Morgoth do not stand against them. Some of Tolkien's unpublished drafts give other details.",
+  "film": "",
+  "series": "",
+  "related": [
+   "RG03",
+   "RG01"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Sun and Moon and the Hiding of Valinor"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "battle:dagor-aglareb",
+  "title": "Dagor Aglareb (the Glorious Battle)",
+  "date": "F.A. 60",
+  "year_sort": 60,
+  "war": "Wars of Beleriand",
+  "at": {
+   "near": "GR01",
+   "dx": -30,
+   "dy": -60
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Noldor",
+    "Sindar",
+    "Fingolfin",
+    "Maedhros"
+   ],
+   "b": [
+    "Orcs of Morgoth"
+   ]
+  },
+  "outcome": "The Elves drove the Orcs back to Angband, and the Siege began.",
+  "blurb": "A great Elvish victory that begins the long Siege of Angband.",
+  "book": "After the first years of war, Orcs march out of Angband to take Beleriand. The Noldor and Sindar are ready. Fingolfin leads one host from Hithlum, and Maedhros leads another from the east.\n\nThe Orcs are defeated with great slaughter. The Elves chase them across the plain of Ard-galen and drive them back into Angband. The Noldor then set a watch around the fortress.\n\nThis victory begins the Siege of Angband, which lasts for about four centuries. During that time Morgoth is held inside his own land, and the Elves of Beleriand have long years of peace.",
+  "film": "",
+  "series": "",
+  "related": [
+   "FT01",
+   "MT02",
+   "FT02",
+   "FT04"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Return of the Noldor"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "battle:first-coming-of-glaurung",
+  "title": "First coming of Glaurung",
+  "date": "about F.A. 260",
+  "year_sort": 260,
+  "war": "Wars of Beleriand",
+  "at": {
+   "near": "GR01",
+   "dx": 0,
+   "dy": 60
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Noldor",
+    "Fingon"
+   ],
+   "b": [
+    "Glaurung",
+    "Orcs of Morgoth"
+   ]
+  },
+  "outcome": "The Noldor turned Glaurung back before he reached full strength.",
+  "blurb": "Glaurung, the first of the dragons, comes out of Angband and is driven back.",
+  "book": "Morgoth sends Glaurung, the first of the dragons, out of Angband across Ard-galen. He is still young and has not grown to his full power.\n\nThe Noldor are alarmed, but Fingon and his mounted archers meet the beast. They ring him round with riders, and he cannot yet bear their arrows. He flees back to Angband.\n\nThe Elves win the field, but they have learned what Morgoth keeps in reserve. Glaurung will return in later years, fully grown. Some dates in this part of the story are uncertain.",
+  "film": "",
+  "series": "",
+  "related": [
+   "FT01",
+   "MT02"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Return of the Noldor"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "battle:dagor-bragollach",
+  "title": "Dagor Bragollach (Battle of Sudden Flame)",
+  "date": "F.A. 455",
+  "year_sort": 455,
+  "war": "Wars of Beleriand",
+  "at": {
+   "near": "GR01",
+   "dx": 20,
+   "dy": -20
+  },
+  "tier": 1,
+  "sides": {
+   "a": [
+    "Noldor",
+    "Sindar",
+    "Edain",
+    "Men of the north"
+   ],
+   "b": [
+    "Morgoth",
+    "Orcs",
+    "Balrogs",
+    "Glaurung",
+    "Wolves"
+   ]
+  },
+  "outcome": "Morgoth broke the Siege, burned Ard-galen, and overran Dorthonion.",
+  "blurb": "Morgoth breaks the Siege of Angband with rivers of fire and a vast host.",
+  "book": "In midwinter, in the dark, Morgoth sends fire down from Thangorodrim. Streams of flame cross the plain of Ard-galen and burn its green grass to a barren waste. The Elves rename it Anfauglith, the Gasping Dust.\n\nBehind the fire come Orcs, wolves, Balrogs, and Glaurung, now fully grown. The Siege is broken. Many of the Noldor are slain, and the land of Dorthonion is overrun.\n\nBregolas, lord of the House of Bëor, dies in the fighting. Barahir, his brother, saves Finrod and receives his ring. Angrod and Aegnor fall. Fingolfin and Fingon are driven back to the Ered Wethrin, and Hador dies defending Eithel Sirion. Himring holds out, but many realms are lost.\n\nThe Elves lose the whole plain, and the northern passes are open to Morgoth. After this battle the Elves are on the defense. Morgoth is free to strike where he wills. The Noldor never again have the strength to besiege him.",
+  "film": "",
+  "series": "",
+  "related": [
+   "RG11",
+   "FT04",
+   "VA03",
+   "FT01",
+   "MT02"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Ruin of Beleriand and the Fall of Fingolfin"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "battle:duel-fingolfin-morgoth",
+  "title": "Duel of Fingolfin and Morgoth",
+  "date": "F.A. 455",
+  "year_sort": 455.5,
+  "war": "Wars of Beleriand",
+  "at": {
+   "near": "FT01",
+   "dx": 0,
+   "dy": -4
+  },
+  "tier": 1,
+  "sides": {
+   "a": [
+    "Fingolfin, High King of the Noldor"
+   ],
+   "b": [
+    "Morgoth"
+   ]
+  },
+  "outcome": "Fingolfin wounded Morgoth seven times, but Morgoth crushed him.",
+  "blurb": "Fingolfin challenges Morgoth at the gates of Angband and dies.",
+  "book": "After the Bragollach, Fingolfin sees his people overwhelmed and believes all is lost. He rides alone across the burned plain to the gate of Angband and blows his horn. He calls Morgoth out to single combat.\n\nMorgoth comes, wearing black armour and carrying the great hammer Grond. The two fight a long time. Fingolfin is quick and brave, and he wounds Morgoth seven times. Morgoth limps for ever after.\n\nIn the end Fingolfin grows weary. Morgoth strikes him down and sets a foot on his neck. Even then the dying king stabs the foot of Morgoth with his sword.\n\nThorondor, king of the Eagles, rescues the body and bears it to a mountain north of Gondolin. Turgon builds a high cairn over it, and no Orc dares come near.",
+  "film": "",
+  "series": "",
+  "related": [
+   "MT02",
+   "GR01",
+   "TO03"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Ruin of Beleriand and the Fall of Fingolfin"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "battle:fall-of-minas-tirith",
+  "title": "Fall of Minas Tirith on Tol Sirion",
+  "date": "F.A. 457",
+  "year_sort": 457,
+  "war": "Wars of Beleriand",
+  "at": {
+   "near": "FT03",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Sauron",
+    "Orcs and wolves of Morgoth"
+   ],
+   "b": [
+    "Orodreth",
+    "Noldor of Minas Tirith"
+   ]
+  },
+  "outcome": "Sauron took the tower, and the island became Tol-in-Gaurhoth.",
+  "blurb": "Sauron captures Finrod's watch-tower and makes the island a place of dread.",
+  "book": "Sauron, the chief servant of Morgoth, leads an army against the tower of Minas Tirith on Tol Sirion. Finrod built the tower to guard the pass between Dorthonion and the mountains of Hithlum.\n\nOrodreth, Finrod's brother, holds the tower. The defenders cannot stand against Sauron's host, and the tower falls. Orodreth escapes to Nargothrond.\n\nSauron takes the island for himself and fills it with wolves and werewolves. It is called Tol-in-Gaurhoth, the Isle of Werewolves. The pass is closed to Elves and Men, and the road to the south lies open to Morgoth's servants.",
+  "film": "",
+  "series": "",
+  "related": [
+   "VA04",
+   "SW01",
+   "TO02"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Ruin of Beleriand and the Fall of Fingolfin"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "battle:end-of-barahirs-outlaws",
+  "title": "End of Barahir's outlaws at Tarn Aeluin",
+  "date": "about F.A. 460",
+  "year_sort": 460,
+  "war": "Wars of Beleriand",
+  "at": {
+   "near": "LA03",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Orcs of Morgoth"
+   ],
+   "b": [
+    "Barahir and his companions"
+   ]
+  },
+  "outcome": "Orcs killed Barahir and his companions; only Beren survived.",
+  "blurb": "The last of the Edain in Dorthonion are betrayed and slain.",
+  "book": "After Dorthonion falls, Barahir and a few companions hide on Tarn Aeluin in the highlands. They live as outlaws and strike at Morgoth's forces.\n\nGorlim, one of the band, is lured by a false vision of his wife and tells where Barahir hides. The Orcs find the camp and kill the outlaws while Beren is away. Beren returns and finds them dead.\n\nHe follows the Orcs, kills their captain, and recovers his father's ring, given by Finrod. For four years Beren fights on alone. Then he flees south over the Mountains of Terror. His road leads him to Doriath and Lúthien.",
+  "film": "",
+  "series": "",
+  "related": [
+   "FO08",
+   "FA03",
+   "RG11"
+  ],
+  "sources": [
+   "The Silmarillion, Of Beren and Lúthien"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "battle:duel-at-tol-in-gaurhoth",
+  "title": "Duel of Lúthien and Huan with Sauron",
+  "date": "about F.A. 466",
+  "year_sort": 466,
+  "war": "Quest of the Silmaril",
+  "at": {
+   "near": "FT03",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Lúthien",
+    "Huan"
+   ],
+   "b": [
+    "Sauron",
+    "Werewolves"
+   ]
+  },
+  "outcome": "Lúthien and Huan overcame Sauron and freed the prisoners.",
+  "blurb": "Sauron falls to Huan and to Lúthien's power, and the island is freed.",
+  "book": "Beren and Finrod come to Sauron's isle in disguise with their companions and are taken. Finrod and Sauron fight a contest of song and power, and Finrod loses. Werewolves devour the prisoners one by one.\n\nLúthien, with Huan the hound of Valinor, comes to the isle to find Beren. Huan kills the wolves one at a time and at last battles Sauron, who takes many shapes. Sauron yields, and Lúthien takes command of the isle. Her power breaks its spells.\n\nSauron flees as a vampire. Lúthien frees Beren and the other prisoners. Finrod is already dead, and Beren buries him on the isle.",
+  "film": "",
+  "series": "",
+  "related": [
+   "VA04",
+   "LA03",
+   "TO02"
+  ],
+  "sources": [
+   "The Silmarillion, Of Beren and Lúthien"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "battle:hunting-of-carcharoth",
+  "title": "Hunting of Carcharoth in Doriath",
+  "date": "about F.A. 467",
+  "year_sort": 467,
+  "war": "Quest of the Silmaril",
+  "at": {
+   "near": "FO01",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Thingol",
+    "Huan",
+    "Beren",
+    "Beleg",
+    "Mablung"
+   ],
+   "b": [
+    "Carcharoth"
+   ]
+  },
+  "outcome": "Huan slew Carcharoth, but both Huan and Beren received mortal wounds.",
+  "blurb": "Beren and Huan hunt the great wolf that carries a Silmaril.",
+  "book": "After Beren cuts a Silmaril from the crown of Morgoth, Carcharoth the wolf bites off his hand and the jewel. The Silmaril burns the wolf from within and drives him mad. He runs wild across Beleriand.\n\nThe wolf enters Doriath, and the Girdle of Melian cannot stop him. Thingol, Beren, Beleg, Mablung, and Huan pursue him through the forest.\n\nHuan kills Carcharoth and is himself killed. Beren is wounded and dies soon after, but he returns to life later. The Silmaril is recovered and given to Thingol.",
+  "film": "",
+  "series": "",
+  "related": [
+   "RG07",
+   "RI04",
+   "FO01"
+  ],
+  "sources": [
+   "The Silmarillion, Of Beren and Lúthien"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "battle:nirnaeth-arnoediad",
+  "title": "Nírnaeth Arnoediad (Battle of Unnumbered Tears)",
+  "date": "F.A. 472",
+  "year_sort": 472,
+  "war": "Wars of Beleriand",
+  "at": {
+   "near": "GR01",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 1,
+  "sides": {
+   "a": [
+    "Morgoth",
+    "Orcs",
+    "Balrogs",
+    "Glaurung and the dragons",
+    "Easterlings of Uldor"
+   ],
+   "b": [
+    "Noldor of Fingon and Maedhros",
+    "Turgon and the host of Gondolin",
+    "Edain of Dor-lómin and Brethil",
+    "Dwarves of Belegost",
+    "Gwindor's company from Nargothrond",
+    "Easterlings of Bór"
+   ]
+  },
+  "outcome": "The Union of Maedhros was destroyed, and the Noldor were broken for ever.",
+  "blurb": "The great alliance of Elves and Men is crushed on the plain of Anfauglith.",
+  "book": "Maedhros builds a great alliance of Elves, Men, and Dwarves to attack Morgoth. Fingon will lead the army of Hithlum from the west, and Maedhros will march from the east. A signal fire will start the attack.\n\nMorgoth tricks the Elves. His forces lure out the host of Fingon, and the army of Maedhros is held back. Then Morgoth sends in Orcs, Balrogs, and Glaurung with the dragons. Many Men of the east, led by Uldor, turn traitor in the field.\n\nGwindor leads the Elves of Nargothrond in a charge, and he is taken prisoner. Gothmog, lord of the Balrogs, slays Fingon. Húrin and Huor of Dor-lómin guard the retreat of Turgon. Huor dies, and Húrin is taken alive.\n\nThe free peoples never again form a great alliance. Morgoth holds most of Beleriand, and only Doriath, Nargothrond, and Gondolin stay free for a while. The dead are piled into the mound of Haudh-en-Ndengin.",
+  "film": "",
+  "series": "",
+  "related": [
+   "RG20",
+   "MT02",
+   "FT04",
+   "TO03",
+   "RG01"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Fifth Battle: Nirnaeth Arnoediad"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "battle:fall-of-the-falas",
+  "title": "Fall of the Falas",
+  "date": "F.A. 473",
+  "year_sort": 473,
+  "war": "Wars of Beleriand",
+  "at": {
+   "near": "TO05",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Orcs of Morgoth"
+   ],
+   "b": [
+    "Círdan",
+    "Falathrim of Brithombar and Eglarest"
+   ]
+  },
+  "outcome": "Orcs sacked the havens, and Círdan fled to the Isle of Balar.",
+  "blurb": "The Elves of the coast lose their havens and flee to the Isle of Balar.",
+  "book": "After the Nírnaeth, Morgoth turns his armies on the coast. The Elves of the Falas, led by Círdan, defend the two havens of Brithombar and Eglarest for a time.\n\nThe Orcs of Morgoth besiege the havens with great force. Both towns are burned and their walls thrown down. Many of the Falathrim are killed.\n\nCírdan and the survivors sail to the Isle of Balar in the south. They hold the island as a last refuge. The Falas is lost for the rest of the Age.",
+  "film": "",
+  "series": "",
+  "related": [
+   "TO06",
+   "IS01",
+   "RG05",
+   "FT05"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Fifth Battle: Nirnaeth Arnoediad"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "battle:fall-of-bar-en-danwedh",
+  "title": "Fall of Bar-en-Danwedh on Amon Rûdh",
+  "date": "about F.A. 489",
+  "year_sort": 489,
+  "war": "Wars of Beleriand",
+  "at": {
+   "near": "HI03",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 3,
+  "sides": {
+   "a": [
+    "Orcs of Morgoth"
+   ],
+   "b": [
+    "Túrin",
+    "Beleg Cuthalion",
+    "Outlaws of Túrin"
+   ]
+  },
+  "outcome": "Orcs took the hill after Mîm's betrayal and killed most of the outlaws.",
+  "blurb": "Mîm betrays Túrin's outlaw band, and Orcs take Amon Rûdh.",
+  "book": "Túrin and his outlaws take over the house of the Dwarf Mîm on Amon Rûdh. Mîm yields it as ransom for his life, and it is called Bar-en-Danwedh.\n\nLater Mîm is captured by Orcs and betrays the hiding place to save his own life. The Orcs surprise and overrun the hill. All the outlaws but Túrin are killed. Túrin is taken alive, and Beleg is left wounded.",
+  "film": "",
+  "series": "",
+  "related": [
+   "RG06",
+   "FT03"
+  ],
+  "sources": [
+   "The Silmarillion, Of Túrin Turambar"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "battle:battle-of-tumhalad",
+  "title": "Battle of Tumhalad and the sack of Nargothrond",
+  "date": "F.A. 495",
+  "year_sort": 495,
+  "war": "Wars of Beleriand",
+  "at": {
+   "near": "FI01",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Orcs of Morgoth",
+    "Glaurung"
+   ],
+   "b": [
+    "Elves of Nargothrond",
+    "Orodreth",
+    "Gwindor"
+   ]
+  },
+  "outcome": "The army of Nargothrond was destroyed, and Glaurung sacked the city.",
+  "blurb": "Glaurung and the Orcs crush the army of Nargothrond in the field.",
+  "book": "Túrin persuades Nargothrond to give up secrecy and fight in the open. Morgoth answers with a great army and the dragon Glaurung.\n\nThe Elves meet the Orcs between Ginglith and Narog on the field of Tumhalad. The army of Nargothrond is cut off and destroyed. Orodreth and Gwindor are both killed. Glaurung then goes to Nargothrond.\n\nHe burns and sacks the city. Túrin is held by the dragon's spell, and Finduilas is carried off with many other captives. The hidden realm of Nargothrond falls, and its strength is lost for ever.",
+  "film": "",
+  "series": "",
+  "related": [
+   "TO02",
+   "RI15",
+   "RI02",
+   "VA01"
+  ],
+  "sources": [
+   "The Silmarillion, Of Túrin Turambar"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "battle:slaying-of-glaurung",
+  "title": "Slaying of Glaurung at Cabed-en-Aras",
+  "date": "F.A. 499",
+  "year_sort": 499,
+  "war": "Wars of Beleriand",
+  "at": {
+   "near": "VA01",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Túrin Turambar"
+   ],
+   "b": [
+    "Glaurung"
+   ]
+  },
+  "outcome": "Túrin killed Glaurung with a sword thrust from beneath.",
+  "blurb": "Túrin kills the great dragon in a gorge of the Teiglin.",
+  "book": "Glaurung comes out of Nargothrond to attack Brethil. Túrin plans to kill him at the gorge of Cabed-en-Aras. He goes there with two companions, Dorlas and Hunthor. Dorlas loses heart and turns back.\n\nHunthor is killed by a falling stone. Túrin crosses the river, climbs the far cliff beneath the dragon, and drives his sword Gurthang into Glaurung's belly.\n\nThe dragon's venom strikes Túrin, and he falls into a faint. Nienor finds him there. The dying dragon tells her the truth about their kinship, and she leaps from the cliff into the river. Túrin later kills himself with the same sword.",
+  "film": "",
+  "series": "",
+  "related": [
+   "FO04",
+   "RI03",
+   "TO08"
+  ],
+  "sources": [
+   "The Silmarillion, Of Túrin Turambar"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "battle:sack-of-menegroth",
+  "title": "Sack of Menegroth by the Dwarves",
+  "date": "about F.A. 503",
+  "year_sort": 503,
+  "war": "Quest of the Silmaril",
+  "at": {
+   "near": "TO01",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Dwarves of Nogrod"
+   ],
+   "b": [
+    "Thingol",
+    "Elves of Doriath"
+   ]
+  },
+  "outcome": "The Dwarves slew Thingol; later a Dwarf host sacked Menegroth and took the Nauglamír with the Silmaril.",
+  "blurb": "Dwarves of Nogrod kill Thingol, then return to sack Menegroth for the Nauglamír.",
+  "book": "Thingol asks the Dwarves of Nogrod to set a Silmaril into the Nauglamír, a necklace they made earlier for Finrod. The Dwarves covet the jewel and claim it for themselves. Thingol answers them with scorn.\n\nThe Dwarves kill him in the deep halls and flee with the necklace. The Elves hunt them down and recover it, but two escape to Nogrod.\n\nMelian then leaves Doriath, and her Girdle fails. A great host from Nogrod comes into the open realm and sacks Menegroth. Mablung falls at the doors of the treasury, and the Dwarves take the Nauglamír with the Silmaril.\n\nThe Dwarves then march east towards their home. Their path leads to Sarn Athrad on the river Gelion.",
+  "film": "",
+  "series": "",
+  "related": [
+   "RG07",
+   "RI04",
+   "FJ03"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Ruin of Doriath"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "battle:battle-of-sarn-athrad",
+  "title": "Battle of Sarn Athrad",
+  "date": "about F.A. 503",
+  "year_sort": 503.5,
+  "war": "Quest of the Silmaril",
+  "at": {
+   "near": "FJ03",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 3,
+  "sides": {
+   "a": [
+    "Beren",
+    "Green-elves of Ossiriand"
+   ],
+   "b": [
+    "Dwarves of Nogrod"
+   ]
+  },
+  "outcome": "The Dwarves were slain, and Beren recovered the Nauglamír.",
+  "blurb": "Beren with the Green-elves destroys the Dwarves and takes back the Silmaril.",
+  "book": "The Dwarves of Nogrod carry the Nauglamír east to the river Gelion. At the ford of Sarn Athrad, Beren and the Green-elves of Ossiriand ambush them. The Dwarves are slain.\n\nBeren takes the Nauglamír and the Silmaril. Those who flee are destroyed by the Shepherds of the Trees, and none come home to Nogrod. The rest of the Dwarf-gold is sunk in the river. The Silmaril passes to Dior and then to Elwing.",
+  "film": "",
+  "series": "",
+  "related": [
+   "RD01",
+   "RI08",
+   "RG16"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Ruin of Doriath"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "battle:second-kinslaying",
+  "title": "Second Kinslaying in Doriath",
+  "date": "about F.A. 506",
+  "year_sort": 506,
+  "war": "Kinslayings",
+  "at": {
+   "near": "TO01",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Sons of Fëanor: Celegorm, Curufin, Caranthir, Maedhros, Maglor, Amrod, Amras"
+   ],
+   "b": [
+    "Dior Eluchíl",
+    "Elves of Doriath"
+   ]
+  },
+  "outcome": "Dior was slain and Doriath fell, but Elwing escaped with the Silmaril.",
+  "blurb": "The sons of Fëanor attack Doriath and kill Dior to take the Silmaril.",
+  "book": "Dior, son of Beren and Lúthien, rules Doriath and holds the Silmaril. The sons of Fëanor send him a demand for it. He does not answer.\n\nThe sons attack Menegroth in winter. Celegorm, Curufin, and Caranthir are killed. Dior and his wife Nimloth are slain, and their young sons are lost. A servant carries their daughter Elwing away with the Silmaril, and she flees to the Mouths of Sirion.\n\nThe sons of Fëanor take Menegroth but do not find the Silmaril. Many Elves die on both sides, and Doriath is never restored.",
+  "film": "",
+  "series": "",
+  "related": [
+   "RG07",
+   "TO07",
+   "RI04"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Ruin of Doriath"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "battle:fall-of-gondolin",
+  "title": "Fall of Gondolin",
+  "date": "F.A. 510",
+  "year_sort": 510,
+  "war": "Wars of Beleriand",
+  "at": {
+   "near": "TO03",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 1,
+  "sides": {
+   "a": [
+    "Morgoth",
+    "Orcs",
+    "Balrogs",
+    "Dragons",
+    "Maeglin"
+   ],
+   "b": [
+    "Turgon",
+    "Elves of Gondolin",
+    "Tuor",
+    "Idril"
+   ]
+  },
+  "outcome": "Gondolin was burned and Turgon slain, but Tuor, Idril, and Eärendil escaped.",
+  "blurb": "Morgoth, guided by Maeglin's betrayal, destroys the hidden city.",
+  "book": "Maeglin, nephew of Turgon, is caught by Morgoth's servants and tells them where the city lies. He wants Idril for himself. Morgoth sends a great army with Balrogs and dragons.\n\nThe host comes by night on a feast day. The Elves fight in the streets and houses, and great houses of the city make last stands. The Orcs break the walls and the city burns. Turgon holds his tower to the end and dies when it falls.\n\nTuor and Idril lead survivors through a secret way into the mountains. Maeglin dies by Tuor's hand. The refugees flee south to the mouths of Sirion, with Tuor's young son Eärendil among them.\n\nThe hidden kingdom is no more, and Morgoth is left almost unopposed in Beleriand. Eärendil survives and later sails West to seek help. Other versions of the tale exist, and they differ in detail. The Fall of Gondolin tells the full story.",
+  "film": "",
+  "series": "",
+  "related": [
+   "MT04",
+   "FT03",
+   "TO07",
+   "RI01"
+  ],
+  "sources": [
+   "The Silmarillion, Of Tuor and the Fall of Gondolin",
+   "The Fall of Gondolin"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "battle:third-kinslaying",
+  "title": "Third Kinslaying at the Havens of Sirion",
+  "date": "about F.A. 538",
+  "year_sort": 538,
+  "war": "Kinslayings",
+  "at": {
+   "near": "TO07",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Sons of Fëanor: Maedhros, Maglor, Amrod, Amras"
+   ],
+   "b": [
+    "Elwing",
+    "Elves of the Havens"
+   ]
+  },
+  "outcome": "The Fëanorians took the Havens, but Elwing leapt into the sea with the Silmaril.",
+  "blurb": "The last sons of Fëanor attack the Havens for the Silmaril.",
+  "book": "Elwing and the refugees of Gondolin and Doriath have settled at the mouths of Sirion. Maedhros and Maglor learn that she holds the Silmaril. They send a last demand.\n\nElwing and her people refuse, and the sons of Fëanor attack. Many of the people die, and Amrod and Amras are slain. Elwing throws herself into the sea with the jewel.\n\nUlmo carries her as a bird to her husband Eärendil. Maglor takes her sons Elrond and Elros into his care. The Fëanorians remain, but the Silmaril is lost to them.",
+  "film": "",
+  "series": "",
+  "related": [
+   "SW04",
+   "BA02",
+   "IS01"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Voyage of Eärendil and the War of Wrath"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "battle:war-of-wrath",
+  "title": "War of Wrath",
+  "date": "about F.A. 545-587",
+  "year_sort": 545,
+  "war": "War of Wrath",
+  "at": {
+   "near": "FT01",
+   "dx": 0,
+   "dy": -40
+  },
+  "tier": 1,
+  "sides": {
+   "a": [
+    "Host of the Valar",
+    "Maiar",
+    "Vanyar",
+    "Noldor of Valinor",
+    "Teleri",
+    "Elves and Men of Beleriand"
+   ],
+   "b": [
+    "Morgoth",
+    "Balrogs",
+    "Dragons",
+    "Orcs",
+    "Easterlings"
+   ]
+  },
+  "outcome": "Morgoth was defeated and cast out; Beleriand was broken and drowned.",
+  "blurb": "The Host of the Valar overthrows Morgoth and destroys Beleriand.",
+  "book": "Eärendil reaches Valinor and begs mercy for Elves and Men. The Valar hear him, and a great host sails to Middle-earth.\n\nThe war is long and fierce. The Valar and their allies fight their way across the north to Angband. Morgoth sends out winged dragons for the first time. Ancalagon the Black is the greatest of them, and Eärendil slays him from Vingilot.\n\nMorgoth is overthrown, bound with a chain, and thrust out through the Door of Night. The Silmarils are taken. Thangorodrim is broken, and Beleriand is torn apart and drowned beneath the sea.\n\nOnly a small land in the east remains, which later becomes Lindon. The dates given here are the usual estimates, not exact figures. The war ends the First Age. The Silmarils are lost to Fëanor's sons soon afterwards, as the oath brings them to ruin. Many Elves later sail West.",
+  "film": "",
+  "series": "",
+  "related": [
+   "MT02",
+   "MT01",
+   "BA02"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Voyage of Eärendil and the War of Wrath",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "high"
+ }
+]

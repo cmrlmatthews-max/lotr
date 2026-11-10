@@ -1,0 +1,2406 @@
+{
+ "realms": [
+  {
+   "id": "realm:the-shire",
+   "title": "The Shire",
+   "type": "realm",
+   "kind": "Hobbit country",
+   "tier": 1,
+   "status": "Standing; scoured T.A. 3019",
+   "center": {
+    "near": "TO050",
+    "dx": -10,
+    "dy": -15
+   },
+   "radius_km": 75,
+   "blurb": "A peaceful, well-ordered farmland of hobbits in north-west Eriador, home of Bilbo and Frodo.",
+   "book": "The Shire is a gentle country of fields, hills and villages in north-west Eriador. The Far Downs and the Tower Hills lie to the west. The Brandywine River marks the eastern edge. It is divided into four Farthings, and the land of Buckland, east of the river, was added later.\n\nHobbits settled it in T.A. 1601. Marcho and Blanco led them across the Brandywine with the permission of Argeleb II, a king of Arthedain. After the northern kingdom fell in T.A. 1974, the hobbits kept their own order. The Mayor of Michel Delving is chosen every seven years and has few duties beyond the post and the Shirriffs. Since T.A. 2340 the Thain has been a Took. He is the head of the Shire's council and of its muster.\n\nThe Shire is not wholly free of trouble. Orcs were beaten at the Battle of Greenfields in T.A. 2747, and wolves crossed the frozen river in the Fell Winter of T.A. 2911. The Rangers of the North watch the borders, though most hobbits know nothing of them.\n\nThe Shire begins and ends the story of the Ring. Bilbo lives at Bag End, Frodo leaves from Hobbiton, and four hobbits later return to find ruffians and Saruman's agents in charge. They lead the Scouring of the Shire in T.A. 3019. The hobbits' courage there matters as much as the great battles in the south.",
+   "film": "The films show the Shire as a green, rolling land filmed in New Zealand. They leave out the Scouring of the Shire entirely, so the hobbits return to a Shire that is unchanged.",
+   "series": "",
+   "facts": {
+    "Capital": "Michel Delving (Mayor's seat)",
+    "Ruler (T.A. 3019)": "Mayor Will Whitfoot; Thain Paladin Took II",
+    "Founded": "T.A. 1601 by Marcho and Blanco",
+    "People": "Hobbits"
+   },
+   "peoples": [
+    "people:hobbits"
+   ],
+   "related": [
+    "TO050",
+    "TO061",
+    "BU030",
+    "TO097",
+    "TO091"
+   ],
+   "sources": [
+    "The Lord of the Rings, Prologue and Appendix B"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "realm:bree-land",
+   "title": "Bree-land",
+   "type": "region",
+   "kind": "Small Men and hobbit land",
+   "tier": 2,
+   "status": "Standing",
+   "center": {
+    "near": "TO011",
+    "dx": -10,
+    "dy": 3
+   },
+   "radius_km": 25,
+   "blurb": "A tiny country of four villages around Bree-hill where Men and hobbits live side by side.",
+   "book": "Bree-land is a small district on the Great East Road, where it meets the old North Road. It has four villages: Bree, Staddle, Combe and Archet. They lie on and around Bree-hill, with the Chetwood to the north-east.\n\nMen and hobbits live there together, and the hobbits of Bree claim to be the oldest hobbit settlement in the west. The folk are friendly but suspicious of strangers. The Prancing Pony inn is the chief meeting place for travellers, Dwarves and Rangers.\n\nIn T.A. 3018 Frodo and his companions stop here and meet Strider. Black Riders enter the village soon after.",
+   "film": "In the films, Bree is a muddy, crowded town of Men with a very small hobbit presence. Its gate-keeper and the inn scene are shortened.",
+   "series": "",
+   "facts": {
+    "Capital": "Bree",
+    "Ruler (T.A. 3019)": "No lord; free villagers",
+    "People": "Men of Bree, hobbits"
+   },
+   "peoples": [
+    "people:men-of-bree",
+    "people:hobbits",
+    "people:dunedain-of-the-north"
+   ],
+   "related": [
+    "TO011",
+    "TO089",
+    "TO021",
+    "TO007",
+    "BU009",
+    "HI012"
+   ],
+   "sources": [
+    "The Lord of the Rings, Book I, chapters 9-10"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "realm:lindon",
+   "title": "Lindon",
+   "type": "realm",
+   "kind": "Elven realm",
+   "tier": 1,
+   "status": "Standing; Elves sailing West",
+   "center": {
+    "near": "TO043",
+    "dx": -87,
+    "dy": 21
+   },
+   "radius_km": 110,
+   "blurb": "The Elven land west of the Blue Mountains, where Círdan keeps the Grey Havens.",
+   "book": "Lindon is the part of Beleriand that survived the drowning of that land at the end of the First Age. It lies between the Blue Mountains, Ered Luin, and the western sea. The Gulf of Lune splits it into two parts. The Grey Havens stand at the head of the gulf, and the harbours of Forlond and Harlond lie on its two shores.\n\nGil-galad, the last High King of the Noldor in Middle-earth, ruled Lindon and was killed at the end of the Second Age. Círdan the Shipwright, a Sindarin Elf of great age, keeps the Havens and builds the ships. Elves of Lindon helped the Men of Arnor against Angmar. Ships from the Havens carry Elves who wish to leave Middle-earth to the Undying Lands.\n\nAt the end of the story, Frodo and Bilbo travel to the Grey Havens. Elrond, Galadriel and Gandalf go with them. They sail West together in T.A. 3021.",
+   "film": "In the films, the Grey Havens are a white harbour town with a single great ship. Círdan appears as a long-bearded Elf in the Havens.",
+   "series": "In the series, Lindon is the Elven kingdom of High King Gil-galad. Its capital, with a harbour and white towers, appears in the story of the Second Age.",
+   "facts": {
+    "Capital": "Mithlond (the Grey Havens)",
+    "Ruler (T.A. 3019)": "Círdan the Shipwright",
+    "Founded": "End of the First Age",
+    "People": "Noldor, Sindar"
+   },
+   "peoples": [
+    "people:noldor",
+    "people:sindar"
+   ],
+   "related": [
+    "TO043",
+    "TO034",
+    "TO046",
+    "BU015",
+    "BU029",
+    "HI048"
+   ],
+   "sources": [
+    "The Lord of the Rings, Appendix A and B",
+    "The Silmarillion"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "realm:eriador",
+   "title": "Eriador",
+   "type": "region",
+   "kind": "Great western region",
+   "tier": 1,
+   "status": "Mostly empty or in ruin",
+   "center": {
+    "near": "HI051",
+    "dx": 70,
+    "dy": -80
+   },
+   "radius_km": 450,
+   "blurb": "The wide lands between the Blue Mountains and the Misty Mountains, once the heart of Arnor.",
+   "book": "Eriador is the great region west of the Misty Mountains and east of the Blue Mountains. Its northern border runs near the Mountains of Angmar and the cold lands of Forodwaith. In the south it ends at the River Greyflood and the lands of Enedwaith. The rivers Lune, Baranduin, Greyflood and Hoarwell drain it.\n\nIn the Second Age, Men of Númenor built havens at the mouths of rivers there, and Elves built Eregion. At the end of the Second Age it became the kingdom of Arnor. In the Third Age Arnor split into Arthedain, Rhudaur and Cardolan. Angmar and plague broke these realms. By T.A. 3019, Eriador is a thinly settled land. Only the Shire, Bree-land, Rivendell and the Grey Havens are still home to peoples with settled communities. Scattered folk live in old ruins, and Rangers of the Dúnedain watch the roads.\n\nThe main trade way is the Great East Road, which runs from the Grey Havens to Rivendell. The story of the Ring begins and travels through Eriador for a large part of The Fellowship of the Ring. Many ruins on Weathertop, Fornost and in the Barrow-downs recall its past. Travellers find mostly abandoned stone and green grass.\n\nThe long road from Hobbiton to Rivendell crosses Eriador and takes Frodo through the Old Forest, the Barrow-downs and the Trollshaws.",
+   "film": "The films show Eriador mostly as open hills and empty country between the Shire and Rivendell. Place names are used far less.",
+   "series": "",
+   "facts": {
+    "Boundaries": "Blue Mountains to Misty Mountains",
+    "Ruler (T.A. 3019)": "None; Rangers keep watch",
+    "People": "Hobbits, Men of Bree, Dúnedain, Elves"
+   },
+   "peoples": [
+    "people:hobbits",
+    "people:men-of-bree",
+    "people:dunedain-of-the-north",
+    "people:noldor",
+    "people:sindar"
+   ],
+   "related": [
+    "TO011",
+    "TO084",
+    "TO043",
+    "TO050",
+    "HI052",
+    "TO035"
+   ],
+   "sources": [
+    "The Lord of the Rings, Prologue and Appendix A"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "realm:arnor",
+   "title": "Arnor",
+   "type": "realm",
+   "kind": "Fallen kingdom",
+   "tier": 2,
+   "status": "Fallen; broken T.A. 861",
+   "center": {
+    "near": "TO035",
+    "dx": 0,
+    "dy": -14
+   },
+   "radius_km": 250,
+   "blurb": "The northern kingdom of the Dúnedain, founded by Elendil and later split into three.",
+   "book": "Arnor is the northern kingdom that Elendil founded in Middle-earth after the fall of Númenor in S.A. 3320. It covered much of Eriador, with its first royal seat at Annúminas by Lake Evendim. The tower of Amon Sûl, on Weathertop, held one of the seeing-stones of the north.\n\nElendil died in the War of the Last Alliance. Isildur was killed soon after, in T.A. 2. Arnor was ruled by their heirs and grew weaker during the Third Age. In T.A. 861 it split into three realms: Arthedain, Rhudaur and Cardolan, because the heirs of Eärendur could not agree.\n\nThe Witch-king of Angmar waged war on these successors. The last remains of the kingdom fell with Arthedain in T.A. 1974. Aragorn is the heir of its kings.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Capital": "Annúminas, later Fornost",
+    "Founded": "S.A. 3320 by Elendil",
+    "Fell": "T.A. 1974",
+    "People": "Dúnedain"
+   },
+   "peoples": [
+    "people:dunedain-of-the-north"
+   ],
+   "related": [
+    "TO006",
+    "TO035",
+    "HI052",
+    "LA006",
+    "HI032"
+   ],
+   "sources": [
+    "The Lord of the Rings, Appendix A (I)"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "realm:arthedain",
+   "title": "Arthedain",
+   "type": "realm",
+   "kind": "Fallen kingdom",
+   "tier": 2,
+   "status": "Fallen T.A. 1974",
+   "center": {
+    "near": "TO035",
+    "dx": -40,
+    "dy": 10
+   },
+   "radius_km": 140,
+   "blurb": "The longest-lasting of Arnor's three successor kingdoms, which ended with the battle of Fornost.",
+   "book": "Arthedain is the north-western part of the old kingdom of Arnor. It lay between the River Lune and the Weather Hills, and included the Shire. After the kingdom split in T.A. 861, its kings kept the claim to the whole of Arnor.\n\nArthedain stood against Angmar for many centuries, with aid from Círdan of Lindon and from Rivendell. Its kings moved from Annúminas to Fornost. In T.A. 1974 the Witch-king took Fornost. King Arvedui fled north and drowned in the Ice-bay of Forochel. Aid came from Gondor under Eärnur, son of King Eärnil, and the Witch-king was beaten in T.A. 1975.\n\nThe heirs then lived as Chieftains of the Dúnedain.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Capital": "Fornost Erain",
+    "Last king": "Arvedui",
+    "Fell": "T.A. 1974",
+    "People": "Dúnedain, hobbits (later)"
+   },
+   "peoples": [
+    "people:dunedain-of-the-north",
+    "people:hobbits"
+   ],
+   "related": [
+    "TO035",
+    "TO006",
+    "HI039",
+    "TO043"
+   ],
+   "sources": [
+    "The Lord of the Rings, Appendix A (I)"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "realm:cardolan",
+   "title": "Cardolan",
+   "type": "realm",
+   "kind": "Fallen kingdom",
+   "tier": 3,
+   "status": "Fallen; ruined by plague",
+   "center": {
+    "near": "HI011",
+    "dx": 0,
+    "dy": -60
+   },
+   "radius_km": 130,
+   "blurb": "Southern successor of Arnor between the Baranduin and the Greyflood, stricken by plague.",
+   "book": "Cardolan was the southern part of Arnor, between the Baranduin and the Greyflood. After the split of T.A. 861 its royal line ended in the long war with Angmar. Its dead lie in the Barrow-downs.\n\nThe great plague of T.A. 1636 killed most of its people. Few Dúnedain remained. Evil spirits from Angmar settled in the barrows. Tom Bombadil helps the hobbits there.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Burial hills": "Tyrn Gorthad (Barrow-downs)",
+    "Location": "South of the Great East Road",
+    "Fell": "T.A. 1636 (plague)",
+    "People": "Dúnedain"
+   },
+   "peoples": [
+    "people:dunedain-of-the-north"
+   ],
+   "related": [
+    "HI011",
+    "TO093",
+    "FO023",
+    "BR005"
+   ],
+   "sources": [
+    "The Lord of the Rings, Appendix A (I)"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "realm:rhudaur",
+   "title": "Rhudaur",
+   "type": "realm",
+   "kind": "Fallen kingdom",
+   "tier": 2,
+   "status": "Fallen; ruled by Angmar",
+   "center": {
+    "near": "RI040",
+    "dx": -30,
+    "dy": -10
+   },
+   "radius_km": 130,
+   "blurb": "The north-eastern part of Arnor, where hill-men soon fell under the sway of Angmar.",
+   "book": "Rhudaur was the north-eastern part of Arnor, between the Weather Hills, the Misty Mountains and the Hoarwell. After T.A. 861 the Dúnedain there were few, and hill-men of evil mind gained power. A king, who was an ally of Angmar, then held the realm.\n\nIts forces killed King Argeleb I of Arthedain in T.A. 1356. Afterwards the land fell under the Witch-king's rule. It was later nearly empty, with trolls in the Trollshaws. The Great East Road crosses its southern part, and the Last Bridge over the Hoarwell stands near its edge. In the story, Frodo passes through it on the way to Rivendell.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Location": "Between Hoarwell and Weather Hills",
+    "Fell": "Under Angmar by T.A. 1356",
+    "People": "Hill-men, Dúnedain"
+   },
+   "peoples": [
+    "people:dunedain-of-the-north"
+   ],
+   "related": [
+    "HI052",
+    "FO033",
+    "RI040",
+    "BR008"
+   ],
+   "sources": [
+    "The Lord of the Rings, Appendix A (I)"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "realm:angmar",
+   "title": "Angmar",
+   "type": "realm",
+   "kind": "Evil realm, fallen",
+   "tier": 2,
+   "status": "Fallen T.A. 1975",
+   "center": {
+    "near": "MT039",
+    "dx": -60,
+    "dy": -10
+   },
+   "radius_km": 150,
+   "blurb": "The northern realm of the Witch-king, destroyed after a long war with the Dúnedain.",
+   "book": "Angmar was a realm in the far north of the Misty Mountains, founded around T.A. 1300. Its lord was the chief of the Nazgûl, called the Witch-king. Evil Men, hill-men and Orcs served him. His capital was Carn Dûm.\n\nHe waged war on the Dúnedain of Arnor for centuries and helped break the kingdom in T.A. 1409 and T.A. 1974. In T.A. 1975 Eärnur's army and Elves of Lindon and Rivendell defeated him at Fornost. He fled and returned in secret to Mordor.\n\nAfter its fall the realm lay empty, though Orcs lived on in the mountains.",
+   "film": "The films do not show the realm, though the Witch-king of Angmar is named.",
+   "series": "",
+   "facts": {
+    "Capital": "Carn Dûm",
+    "Ruler": "The Witch-king",
+    "Founded": "About T.A. 1300",
+    "Fell": "T.A. 1975"
+   },
+   "peoples": [
+    "people:orcs",
+    "people:nazgul"
+   ],
+   "related": [
+    "TO019",
+    "MT039",
+    "MT024",
+    "TO035"
+   ],
+   "sources": [
+    "The Lord of the Rings, Appendix A (I)"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "realm:rivendell",
+   "title": "Rivendell (Imladris)",
+   "type": "realm",
+   "kind": "Hidden Elven house",
+   "tier": 2,
+   "status": "Standing; Elrond's refuge",
+   "center": {
+    "near": "TO084",
+    "dx": 0,
+    "dy": 0
+   },
+   "radius_km": 30,
+   "blurb": "A hidden valley and last homely house where Elrond shelters travellers and keeps lore.",
+   "book": "Rivendell, in Elvish Imladris, is a hidden valley on the western side of the Misty Mountains, at the eastern end of the road from the Shire. Elrond Half-elven founded it in S.A. 1697 as a refuge during the war with Sauron. It lies near the Ford of Bruinen.\n\nElrond keeps the lore of Elves and Men there. The heirs of Isildur lived in his house as children, and the Dúnedain of the North entrust their heirlooms to him. He holds the ring Vilya.\n\nHere Frodo is healed and Elrond's council decides to take the Ring to Mount Doom. After the council, the Fellowship departs. Bilbo lives here in T.A. 3018.",
+   "film": "In the films, Rivendell is a light-filled, waterfall city. The Council of Elrond and the reforging of Narsil are shown there.",
+   "series": "",
+   "facts": {
+    "Lord": "Elrond Half-elven",
+    "Founded": "S.A. 1697",
+    "Role": "Refuge and house of lore",
+    "People": "High Elves"
+   },
+   "peoples": [
+    "people:noldor"
+   ],
+   "related": [
+    "TO084",
+    "FJ006",
+    "BU054",
+    "RI011",
+    "CA014"
+   ],
+   "sources": [
+    "The Lord of the Rings, Book II, chapters 1-3",
+    "Appendix B"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "realm:eregion",
+   "title": "Eregion (Hollin)",
+   "type": "realm",
+   "kind": "Fallen Elven realm",
+   "tier": 2,
+   "status": "Deserted ruins",
+   "center": {
+    "near": "TO079",
+    "dx": 50,
+    "dy": 50
+   },
+   "radius_km": 80,
+   "blurb": "The Elven land of Celebrimbor, where the Rings of Power were made, now an empty country of holly.",
+   "book": "Eregion, also called Hollin, lies on the western side of the Misty Mountains, south of Rivendell. Noldor under Celebrimbor founded it, drawn by the mithril of Moria. Its chief city was Ost-in-Edhil. Its smiths were known as the Gwaith-i-Mírdain.\n\nThey were friends with the Dwarves of Khazad-dûm. In the Second Age Sauron came to them in a fair disguise and taught them craft. With his help they made the Rings of Power, and Celebrimbor then made the three Elven rings in secret. Sauron attacked Eregion in S.A. 1697 and destroyed it, and Celebrimbor died. Elrond led the survivors to found Rivendell.\n\nIn the Third Age Hollin is empty, with ruins and many holly trees. Gandalf's Fellowship passes through it before they reach the gates of Moria.",
+   "film": "The Fellowship of the Ring film shows the company resting on its rocky hills when the crebain fly over.",
+   "series": "In the series, Eregion appears as the forge land of Celebrimbor. It shows Ost-in-Edhil, a city of towers and gardens, and the making of the rings.",
+   "facts": {
+    "Capital": "Ost-in-Edhil",
+    "Ruler": "Celebrimbor (S.A.)",
+    "Fell": "S.A. 1697",
+    "People": "Noldor"
+   },
+   "peoples": [
+    "people:noldor"
+   ],
+   "related": [
+    "TO079",
+    "BU061",
+    "HI036",
+    "RI032"
+   ],
+   "sources": [
+    "The Silmarillion, Of the Rings of Power",
+    "The Lord of the Rings, Appendix B"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "realm:khazad-dum",
+   "title": "Khazad-dûm (Moria)",
+   "type": "realm",
+   "kind": "Fallen Dwarf kingdom",
+   "tier": 2,
+   "status": "Ruined; held by Orcs",
+   "center": {
+    "near": "TO066",
+    "dx": 0,
+    "dy": 0
+   },
+   "radius_km": 50,
+   "blurb": "The greatest Dwarf-city of the world, abandoned after Durin's Bane was woken and now held by Orcs.",
+   "book": "Khazad-dûm, later called Moria, is the great Dwarf-city under the Misty Mountains. Durin the Deathless founded it in the First Age, and Durin's Folk lived there for thousands of years. It had mines, halls and the only known source of mithril.\n\nIn T.A. 1980 the Dwarves dug too deep and woke a Balrog, called Durin's Bane. King Durin VI was killed, and his son Náin soon after. The survivors fled. Orcs then took the halls.\n\nIn T.A. 2989 Balin led a colony back. It was destroyed within a few years. The Fellowship crosses Moria in T.A. 3019. There Gandalf fights the Balrog on the Bridge of Khazad-dûm and falls.",
+   "film": "The films show Moria as a vast, grand hall system. Orcs, a cave troll and the Balrog appear there.",
+   "series": "In the series, Khazad-dûm is a thriving Dwarf kingdom under King Durin III. It shows Elrond's friendship with Prince Durin IV.",
+   "facts": {
+    "Capital": "Khazad-dûm",
+    "Ruler (T.A. 3019)": "None; Orcs hold it",
+    "Founded": "First Age by Durin",
+    "People": "Durin's Folk, Orcs"
+   },
+   "peoples": [
+    "people:durins-folk",
+    "people:orcs"
+   ],
+   "related": [
+    "TO066",
+    "DO009",
+    "BR003",
+    "BU034",
+    "LA012",
+    "MT007"
+   ],
+   "sources": [
+    "The Lord of the Rings, Book II, chapters 4-5",
+    "Appendix A (III)"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "realm:lothlorien",
+   "title": "Lothlórien",
+   "type": "realm",
+   "kind": "Elven realm",
+   "tier": 1,
+   "status": "Standing; ruled by Galadriel",
+   "center": {
+    "near": "FO017",
+    "dx": 0,
+    "dy": 0
+   },
+   "radius_km": 55,
+   "blurb": "The golden forest of the mallorn trees, guarded by the power of Galadriel.",
+   "book": "Lothlórien is a woodland realm of Elves between the Anduin and the Celebrant, below the Misty Mountains. Its great mallorn trees keep their gold leaves through winter. The Elves of the wood are mostly Silvan, and live in talans, or platforms, among the branches. Their chief city is Caras Galadhon. The hill of Cerin Amroth lies nearby.\n\nThe Lady Galadriel rules with her husband Celeborn. She holds the ring Nenya, and its power guards the wood from outside evil. Few strangers find the way in, and the Elves close their borders to most travellers.\n\nIn T.A. 3019 the Fellowship rests there after the loss of Gandalf in Moria. Galadriel gives each member a gift and watches Frodo closely. She refuses the offer of the Ring.\n\nDol Guldur, a stronghold of the Enemy, lies not far to the south. In March T.A. 3019 Orcs attack the wood from there three times. Celeborn leads the Elves across the Anduin and takes the fortress, and Galadriel throws down its walls. After the Ring is destroyed, her power fades. The Elves leave in the Fourth Age.",
+   "film": "The films show Lothlórien as a quiet, bright place with silver-white trees. Haldir leads Elves to Helm's Deep, which does not happen in the book.",
+   "series": "",
+   "facts": {
+    "Capital": "Caras Galadhon",
+    "Ruler (T.A. 3019)": "Galadriel and Celeborn",
+    "People": "Silvan Elves, Noldor",
+    "Ring of power": "Nenya"
+   },
+   "peoples": [
+    "people:silvan-elves",
+    "people:noldor",
+    "people:sindar"
+   ],
+   "related": [
+    "TO018",
+    "HI014",
+    "FO017",
+    "RI014",
+    "RI061",
+    "FT008"
+   ],
+   "sources": [
+    "The Lord of the Rings, Book II, chapters 6-8",
+    "Appendix B"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "realm:fangorn",
+   "title": "Fangorn",
+   "type": "region",
+   "kind": "Ancient forest of the Ents",
+   "tier": 2,
+   "status": "Standing; Ents guard it",
+   "center": {
+    "near": "FO012",
+    "dx": 0,
+    "dy": 0
+   },
+   "radius_km": 70,
+   "blurb": "A deep, old forest on the southern Misty Mountains, home of Treebeard and the last Ents.",
+   "book": "Fangorn is an ancient forest below the southern end of the Misty Mountains. It stands north of Rohan and west of the Wold. Treebeard, also called Fangorn, is its chief guardian. He is the oldest of the Ents, the shepherds of the trees.\n\nThe forest is dark, wild and unfriendly to those who hurt trees. Huorns live there. These are tree-like beings that can move unseen.\n\nIn T.A. 3019 Merry and Pippin find Treebeard. He decides that the Ents must act against Saruman, who has cut and burned the forest. The Ents march on Isengard, wreck its gates and turn the River Isen in to flood it.\n\nGandalf also returns to the Fellowship here, as the White Rider.",
+   "film": "In the films, Fangorn is a thick, shadowy wood. Treebeard refuses to join the war until Merry and Pippin show him the felled trees.",
+   "series": "",
+   "facts": {
+    "Guardian": "Treebeard (Fangorn)",
+    "Boundary": "Misty Mountains to Rohan",
+    "People": "Ents, Huorns"
+   },
+   "peoples": [
+    "people:ents"
+   ],
+   "related": [
+    "FO012",
+    "FI005",
+    "BU042",
+    "BU086",
+    "FT017"
+   ],
+   "sources": [
+    "The Lord of the Rings, Book III, chapters 4-5"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "realm:isengard",
+   "title": "Isengard",
+   "type": "realm",
+   "kind": "Fortress of Saruman",
+   "tier": 2,
+   "status": "Ruined by Ents T.A. 3019",
+   "center": {
+    "near": "FT017",
+    "dx": 0,
+    "dy": 0
+   },
+   "radius_km": 30,
+   "blurb": "The ring-fortress with the Tower of Orthanc, held by Saruman until the Ents drowned it.",
+   "book": "Isengard is a great ring of stone in the valley of Nan Curunír, at the southern end of the Misty Mountains. In its centre stands the tower of Orthanc, built by Númenóreans in the early days of Gondor. Its stone cannot be broken.\n\nGondor's Steward gave Isengard to the Wizard Saruman in T.A. 2759. He filled it with workshops and forges and began to breed a great army of Orcs and Uruk-hai. He allied with the Dunlendings and made war on Rohan.\n\nThe Ents flooded it in T.A. 3019, on the same night as the battle of Helm's Deep, and Saruman was trapped in Orthanc. Treebeard later let him go, and he went on to the Shire.",
+   "film": "The films show Isengard as a huge industrial pit under Orthanc. In the extended Return of the King, Saruman falls from his tower.",
+   "series": "",
+   "facts": {
+    "Citadel": "Orthanc",
+    "Ruler (T.A. 3019)": "Saruman the White",
+    "Built by": "Númenóreans of Gondor",
+    "People": "Uruk-hai, Dunlendings"
+   },
+   "peoples": [
+    "people:istari",
+    "people:uruk-hai",
+    "people:dunlendings"
+   ],
+   "related": [
+    "FT017",
+    "BU021",
+    "FO032",
+    "FJ008",
+    "VA014"
+   ],
+   "sources": [
+    "The Lord of the Rings, Book III, chapters 8-10",
+    "Appendix A (II)"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "realm:rohan",
+   "title": "Rohan",
+   "type": "realm",
+   "kind": "Kingdom of Men",
+   "tier": 1,
+   "status": "Standing; Théoden king",
+   "center": {
+    "near": "TO029",
+    "dx": 50,
+    "dy": 40
+   },
+   "radius_km": 250,
+   "blurb": "The grassland kingdom of the Rohirrim, horse-lords who ride to Gondor's aid.",
+   "book": "Rohan is a broad country of grassland north of the White Mountains. It lies between the River Isen in the west and the Entwash and Anduin in the east. Before T.A. 2510 it was Calenardhon, a province of Gondor. Its own people call it the Mark, and themselves the Eorlingas.\n\nThe Éothéod, horse-breeders from the northern vales of Anduin, came south in T.A. 2510. Eorl the Young led them in aid of Gondor at the battle of the Field of Celebrant. Cirion, Steward of Gondor, gave them Calenardhon in thanks. The two lands swore oaths of friendship.\n\nRohan's capital is Edoras, and Meduseld is its king's hall. The Riders defend the Westfold at Helm's Deep, named for King Helm Hammerhand. Many Rohirrim also live at Dunharrow and on the plains.\n\nBy T.A. 3019 King Théoden is old, and Gríma Wormtongue has weakened him. Gandalf frees him. Rohan wins at Helm's Deep, and Théoden's army arrives at the Pelennor and destroys the host of Mordor. Théoden dies there, and Éomer becomes king.",
+   "film": "In the films, Haldir and Elves join the defence of Helm's Deep, which does not happen in the book. Éomer is banished before the battle.",
+   "series": "",
+   "facts": {
+    "Capital": "Edoras",
+    "Ruler (T.A. 3019)": "King Théoden, then Éomer",
+    "Founded": "T.A. 2510 by Eorl",
+    "People": "Rohirrim"
+   },
+   "peoples": [
+    "people:rohirrim",
+    "people:dunlendings"
+   ],
+   "related": [
+    "TO029",
+    "BU070",
+    "FT014",
+    "FT009",
+    "TO002",
+    "FI024"
+   ],
+   "sources": [
+    "The Lord of the Rings, Book III and Appendix A (II)"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "realm:gondor",
+   "title": "Gondor",
+   "type": "realm",
+   "kind": "Kingdom of Men",
+   "tier": 1,
+   "status": "Standing; ruled by a Steward",
+   "center": {
+    "near": "TO065",
+    "dx": -180,
+    "dy": -10
+   },
+   "radius_km": 400,
+   "blurb": "The great southern kingdom of the Dúnedain and the chief enemy of Mordor.",
+   "book": "Gondor is the southern kingdom of the Dúnedain. Isildur and Anárion, sons of Elendil, founded it in S.A. 3320 after the fall of Númenor. Its realm reaches from the White Mountains and the coast of Belfalas to the River Anduin and the borders of Mordor. The capital is Minas Tirith.\n\nGondor reached its greatest power around the middle of the Third Age, but it later declined. A civil war, the Kin-strife, and the plague of T.A. 1636 weakened it. Osgiliath fell into ruin, and the kings finally died out when Eärnur rode to Minas Morgul in T.A. 2050 and never came back.\n\nThe Stewards, descendants of Mardil, kept the rule for the absent king. Denethor II is Steward in T.A. 3019. He is proud and wise, but grief for his son Boromir and false visions from a seeing-stone drive him to despair.\n\nIn the War of the Ring, Gondor holds the Pelennor against the Witch-king and Sauron's armies. Aragorn comes up the river with men of the southern fiefs, and the battle is won. He is crowned king in T.A. 3019.",
+   "film": "The films show Denethor as a more cruel ruler, and Faramir as at first harsh with Frodo. The beacons of Gondor are shown, and Minas Tirith is a white city of seven levels.",
+   "series": "",
+   "facts": {
+    "Capital": "Minas Tirith",
+    "Ruler (T.A. 3019)": "Denethor II, then King Elessar",
+    "Founded": "S.A. 3320",
+    "People": "Dúnedain, Men of Gondor"
+   },
+   "peoples": [
+    "people:men-of-gondor",
+    "people:dunedain-of-the-north"
+   ],
+   "related": [
+    "TO065",
+    "TO078",
+    "TO064",
+    "TO026",
+    "TO081",
+    "FI024"
+   ],
+   "sources": [
+    "The Lord of the Rings, Book V and Appendix A (I)"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "realm:anorien",
+   "title": "Anórien",
+   "type": "region",
+   "kind": "Region of Gondor",
+   "tier": 3,
+   "status": "Standing; beacon land",
+   "center": {
+    "near": "TO065",
+    "dx": -100,
+    "dy": 105
+   },
+   "radius_km": 100,
+   "blurb": "The northern province of Gondor, between the White Mountains and the Entwash.",
+   "book": "Anórien is the northern province of Gondor. It lies between the White Mountains and the River Entwash, north of Minas Tirith. The hill Amon Dîn holds the first beacon of Gondor, and its fire is the signal that calls Rohan. The Drúadan Forest and Grey Wood lie within it.\n\nThe Rohirrim ride through Anórien to the Pelennor. Woses guide them by a hidden track.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Capital": "Minas Tirith (nearest)",
+    "Beacon": "Amon Dîn",
+    "People": "Men of Gondor, Drúedain"
+   },
+   "peoples": [
+    "people:men-of-gondor",
+    "people:druedain"
+   ],
+   "related": [
+    "FO007",
+    "FO016",
+    "BU085_65",
+    "BU085_66",
+    "TO065"
+   ],
+   "sources": [
+    "The Lord of the Rings, Book V, chapters 1 and 5"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "realm:ithilien",
+   "title": "Ithilien",
+   "type": "region",
+   "kind": "Region of Gondor",
+   "tier": 2,
+   "status": "Contested; edge of Mordor",
+   "center": {
+    "near": "TO078",
+    "dx": 10,
+    "dy": -26
+   },
+   "radius_km": 120,
+   "blurb": "A green land of woods and streams east of Anduin, lost to Gondor's enemies.",
+   "book": "Ithilien is the land between the Anduin and the Ephel Dúath, the mountains on the border of Mordor. Isildur founded Minas Ithil there, and Gondor long held it as a garden land. It is divided into North and South Ithilien.\n\nIn T.A. 2002 the Nazgûl took Minas Ithil, which became Minas Morgul. Gondor slowly lost Ithilien. Most of its people left by T.A. 2901 because of raids from Mordor. Gondor's Rangers, led by Faramir, still hide in the woods and ambush Orcs and Haradrim. They keep the secret hideout of Henneth Annûn.\n\nFrodo and Sam cross Ithilien in T.A. 3019 and meet Faramir. After the war the land is restored, and Faramir becomes its Prince.",
+   "film": "In the films, Faramir takes Frodo and Sam to Osgiliath. This does not happen in the book. Ithilien is shown as a wooded rocky land.",
+   "series": "",
+   "facts": {
+    "Border": "Anduin to Ephel Dúath",
+    "Captain (T.A. 3019)": "Faramir",
+    "Rangers": "Rangers of Ithilien",
+    "People": "Men of Gondor"
+   },
+   "peoples": [
+    "people:men-of-gondor"
+   ],
+   "related": [
+    "CA008",
+    "TO064",
+    "IS002",
+    "TO078",
+    "FO007"
+   ],
+   "sources": [
+    "The Lord of the Rings, Book IV, chapters 4-6"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "realm:lossarnach",
+   "title": "Lossarnach",
+   "type": "region",
+   "kind": "Region of Gondor",
+   "tier": 3,
+   "status": "Standing",
+   "center": {
+    "near": "VA011",
+    "dx": -10,
+    "dy": 25
+   },
+   "radius_km": 45,
+   "blurb": "A flowering valley south-west of Minas Tirith, home of sturdy hill-farmers.",
+   "book": "Lossarnach is a fertile land of gardens and flowers in the hills below Minas Tirith. It is a province of Gondor, and its people are rugged but steady. They come to the city's defence in T.A. 3019 under their lord Forlong the Fat. Its folk are known for bearing axes.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Lord (T.A. 3019)": "Forlong the Fat",
+    "Location": "South-west of Minas Tirith",
+    "People": "Men of Gondor"
+   },
+   "peoples": [
+    "people:men-of-gondor"
+   ],
+   "related": [
+    "VA011",
+    "RI018",
+    "TO065"
+   ],
+   "sources": [
+    "The Lord of the Rings, Book V, chapters 1 and 6"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "realm:lebennin",
+   "title": "Lebennin",
+   "type": "region",
+   "kind": "Region of Gondor",
+   "tier": 3,
+   "status": "Standing",
+   "center": {
+    "near": "RI077",
+    "dx": -60,
+    "dy": -5
+   },
+   "radius_km": 90,
+   "blurb": "A river-land of Gondor south of the White Mountains, watered by five streams.",
+   "book": "Lebennin is a fertile province of Gondor lying south of Minas Tirith and the White Mountains. Five rivers cross it: the Erui, Sirith, Celos, Serni and Gilrain. The city of Pelargir stands on the river at its southern end. The men of Lebennin join the defence of Gondor in T.A. 3019 by following Aragorn up the river.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Rivers": "Erui, Sirith, Celos, Serni, Gilrain",
+    "Port": "Pelargir",
+    "People": "Men of Gondor"
+   },
+   "peoples": [
+    "people:men-of-gondor"
+   ],
+   "related": [
+    "TO081",
+    "RI072",
+    "RI029",
+    "RI077",
+    "RI023"
+   ],
+   "sources": [
+    "The Lord of the Rings, Book V, chapters 1 and 9"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "realm:belfalas",
+   "title": "Belfalas",
+   "type": "region",
+   "kind": "Region of Gondor",
+   "tier": 3,
+   "status": "Standing; Prince Imrahil rules",
+   "center": {
+    "near": "TO026",
+    "dx": 10,
+    "dy": 25
+   },
+   "radius_km": 90,
+   "blurb": "The coastal fief of Dol Amroth, where Elf-blood runs in the princely house.",
+   "book": "Belfalas is the long coast of Gondor along the Bay of Belfalas. Its chief place is Dol Amroth, home of Prince Imrahil. The people of the fief are tall and keen-eyed, and say Elvish blood runs in their princes. The Swan Knights of Dol Amroth are renowned. Imrahil comes to Minas Tirith to help in the siege.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Seat": "Dol Amroth",
+    "Prince (T.A. 3019)": "Imrahil",
+    "People": "Men of Gondor"
+   },
+   "peoples": [
+    "people:men-of-gondor"
+   ],
+   "related": [
+    "TO026",
+    "BU023",
+    "TO028",
+    "BA007"
+   ],
+   "sources": [
+    "The Lord of the Rings, Book V, chapter 1 and Appendix A (I)"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "realm:lamedon",
+   "title": "Lamedon",
+   "type": "region",
+   "kind": "Region of Gondor",
+   "tier": 3,
+   "status": "Standing",
+   "center": {
+    "near": "TO017",
+    "dx": 45,
+    "dy": 10
+   },
+   "radius_km": 70,
+   "blurb": "A hill-country of Gondor in the south of the White Mountains, under Angbor.",
+   "book": "Lamedon is a mountain province of Gondor, in the south of the White Mountains, near Calembel and Linhir. Its lord in T.A. 3019 is Angbor the Fearless. When the Dead pass through the land, the people of Lamedon are afraid. Angbor offers aid, and the men of Lamedon follow Aragorn.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Town": "Calembel",
+    "Lord (T.A. 3019)": "Angbor the Fearless",
+    "People": "Men of Gondor"
+   },
+   "peoples": [
+    "people:men-of-gondor"
+   ],
+   "related": [
+    "TO017",
+    "TO054",
+    "VA017",
+    "RI067"
+   ],
+   "sources": [
+    "The Lord of the Rings, Book V, chapters 2 and 9"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "realm:anfalas",
+   "title": "Anfalas (Langstrand)",
+   "type": "region",
+   "kind": "Region of Gondor",
+   "tier": 3,
+   "status": "Standing",
+   "center": {
+    "near": "TO026",
+    "dx": -150,
+    "dy": -20
+   },
+   "radius_km": 90,
+   "blurb": "A long coastal land of western Gondor, called Langstrand in the Common Speech.",
+   "book": "Anfalas, or Langstrand, is the western coast of Gondor, beyond Dol Amroth. The people there are mostly fishers and herders, and they live in small, scattered holdings far from the great cities. Their lord in T.A. 3019 is Golasgil. He leads many of them to Minas Tirith to help.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Lord (T.A. 3019)": "Golasgil",
+    "Location": "West coast of Gondor",
+    "People": "Men of Gondor"
+   },
+   "peoples": [
+    "people:men-of-gondor"
+   ],
+   "related": [
+    "TO026",
+    "BA003"
+   ],
+   "sources": [
+    "The Lord of the Rings, Book V, chapter 1"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "realm:mordor",
+   "title": "Mordor",
+   "type": "realm",
+   "kind": "Dark land of Sauron",
+   "tier": 1,
+   "status": "Standing; ruined T.A. 3019",
+   "center": {
+    "near": "FI025",
+    "dx": -20,
+    "dy": 20
+   },
+   "radius_km": 200,
+   "blurb": "The Black Land of Sauron, ringed by mountains, with Mount Doom at its heart.",
+   "book": "Mordor is the dark land of Sauron in the south-east. It is surrounded by two mountain walls, the Ephel Dúath in the west and the Ered Lithui in the north. The plain of Gorgoroth fills its centre, and Mount Doom rises in the middle of it. In the north, the Morannon is the Black Gate, which guards its only open entrance.\n\nSauron chose it in S.A. 1000 and built his fortress, Barad-dûr. After the Last Alliance defeated him, Gondor watched Mordor. The watch lapsed when plague weakened Gondor, and the Nazgûl came back in T.A. 2000. Sauron returned openly in T.A. 2951.\n\nIts people include Orcs, Trolls, and servants from Rhûn and Harad. Food is brought from the lands of Núrn, in the south.\n\nIn T.A. 3019 Frodo and Sam cross Mordor by way of Cirith Ungol and destroy the Ring at the Cracks of Doom. Barad-dûr collapses, and Sauron is defeated.",
+   "film": "The films show Mordor as a jagged, ash-filled land. The Eye of Sauron burns on top of Barad-dûr.",
+   "series": "In the series, the Southlands become Mordor when the volcano erupts. The change happens in the Second Age.",
+   "facts": {
+    "Capital": "Barad-dûr",
+    "Ruler (T.A. 3019)": "Sauron",
+    "Founded": "About S.A. 1000",
+    "People": "Orcs, Trolls, Easterlings, Haradrim"
+   },
+   "peoples": [
+    "people:orcs",
+    "people:uruk-hai",
+    "people:trolls",
+    "people:nazgul",
+    "people:easterlings",
+    "people:haradrim"
+   ],
+   "related": [
+    "FT004",
+    "MT036",
+    "FT005",
+    "TO064",
+    "FT025",
+    "FI025"
+   ],
+   "sources": [
+    "The Lord of the Rings, Book VI and Appendix B",
+    "The Silmarillion, Of the Rings of Power"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "realm:dunland",
+   "title": "Dunland",
+   "type": "region",
+   "kind": "Land of the Dunlendings",
+   "tier": 2,
+   "status": "Standing; hostile to Rohan",
+   "center": {
+    "near": "FT017",
+    "dx": -83,
+    "dy": 43
+   },
+   "radius_km": 110,
+   "blurb": "A hilly land in the south-west of the Misty Mountains, home of wary hill-men.",
+   "book": "Dunland lies on the western slopes of the Misty Mountains, south of Eregion and near the Gap of Rohan. Its people, the Dunlendings, are hill-men who remember that their ancestors once held the land of Rohan. They hate the Rohirrim.\n\nSaruman gathered them to serve him in T.A. 3019. The Dunlendings fought at the Fords of Isen and Helm's Deep. After Saruman falls, they lose their leader. In the book, the Dunlendings are a hill people of mixed fortune, and they mostly appear as enemies of the Mark.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Location": "South of Eregion",
+    "People": "Dunlendings",
+    "Relation": "Enemies of Rohan"
+   },
+   "peoples": [
+    "people:dunlendings"
+   ],
+   "related": [
+    "FT017",
+    "FJ008",
+    "RI032"
+   ],
+   "sources": [
+    "The Lord of the Rings, Appendix A (II)"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "realm:enedwaith",
+   "title": "Enedwaith",
+   "type": "region",
+   "kind": "Wild middle land",
+   "tier": 2,
+   "status": "Sparsely peopled wilds",
+   "center": {
+    "near": "TO056",
+    "dx": 166,
+    "dy": 12
+   },
+   "radius_km": 150,
+   "blurb": "The wild lands between the Greyflood and the Isen, called the Middle Country.",
+   "book": "Enedwaith is the wide country between the Greyflood and the River Isen. It is wild and lightly peopled, partly hills and partly plain. Its western end touched the old Númenórean haven of Lond Daer.\n\nIn the Third Age scattered Men, mostly Dunlendings, live there. The Gap of Rohan lies at its eastern edge. The old North-South Road crosses it from Tharbad to the Fords of Isen. The old haven and the nearby bridge show that Men of Númenor once built there, but most of this land is now a quiet wild.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Boundaries": "Greyflood to Isen",
+    "Old haven": "Lond Daer",
+    "People": "Dunlendings"
+   },
+   "peoples": [
+    "people:dunlendings"
+   ],
+   "related": [
+    "TO056",
+    "TO093",
+    "RI038",
+    "RI086"
+   ],
+   "sources": [
+    "The Lord of the Rings, Appendix A (I)"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "realm:minhiriath",
+   "title": "Minhiriath",
+   "type": "region",
+   "kind": "Land between rivers",
+   "tier": 2,
+   "status": "Sparsely peopled",
+   "center": {
+    "near": "FJ013",
+    "dx": 15,
+    "dy": -50
+   },
+   "radius_km": 100,
+   "blurb": "A damp land between the Baranduin and the Greyflood, with the forest of Eryn Vorn.",
+   "book": "Minhiriath lies between the Baranduin and the Greyflood. It once formed part of Cardolan. The forest of Eryn Vorn grows on its south-western coast. After the plague and the wars of the Third Age, only a few folk remain.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Boundaries": "Baranduin to Greyflood",
+    "Forest": "Eryn Vorn",
+    "People": "Few Men"
+   },
+   "peoples": [
+    "people:dunedain-of-the-north"
+   ],
+   "related": [
+    "FJ013",
+    "FO010",
+    "RI006",
+    "TO093"
+   ],
+   "sources": [
+    "The Lord of the Rings, Prologue and Appendix A"
+   ],
+   "confidence": "low"
+  },
+  {
+   "id": "realm:rhovanion",
+   "title": "Rhovanion (Wilderland)",
+   "type": "region",
+   "kind": "Great eastern region",
+   "tier": 1,
+   "status": "Sparsely settled",
+   "center": {
+    "near": "FO018",
+    "dx": 0,
+    "dy": -90
+   },
+   "radius_km": 400,
+   "blurb": "The wide wild lands east of the Misty Mountains, from Mirkwood to the Sea of Rhûn.",
+   "book": "Rhovanion, also called Wilderland, is the great region east of the Misty Mountains. It reaches from the Misty Mountains east toward the River Running and the Sea of Rhûn. The Anduin flows through it. The Vales of Anduin, Mirkwood, Dale and the Lonely Mountain are all part of it.\n\nMen called Northmen lived there. Gondor was friendly with them, and they gave aid in Gondor's wars. In T.A. 1856 the Wainriders, a people from the east, attacked Rhovanion and enslaved many Northmen. The plague of T.A. 1636 and later wars also weakened the realm.\n\nIn T.A. 2510 the Éothéod left the northern vales for Calenardhon. Beorn, the dwarves of Erebor and the Elves of Mirkwood hold local lands, and Orcs roam the mountains. In The Hobbit, Bilbo travels through Wilderland on the road to Erebor.\n\nThe shadow of Dol Guldur falls on the south. Few kings rule the whole region, and its peoples live in scattered settlements.",
+   "film": "In The Hobbit films, Wilderland appears as the journey from Rivendell to Erebor, with the Misty Mountains and Mirkwood as great set pieces.",
+   "series": "",
+   "facts": {
+    "Boundaries": "Misty Mountains to Sea of Rhûn",
+    "Ruler (T.A. 3019)": "No single ruler",
+    "People": "Northmen, Beornings, Elves, Dwarves"
+   },
+   "peoples": [
+    "people:beornings",
+    "people:men-of-dale-and-the-lake",
+    "people:silvan-elves",
+    "people:durins-folk",
+    "people:easterlings",
+    "people:great-eagles"
+   ],
+   "related": [
+    "FO018",
+    "TO051",
+    "RI003",
+    "FO017",
+    "FT008",
+    "TO024"
+   ],
+   "sources": [
+    "The Hobbit",
+    "The Lord of the Rings, Appendix A (I) and Appendix B"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "realm:woodland-realm",
+   "title": "Woodland Realm",
+   "type": "realm",
+   "kind": "Elven realm",
+   "tier": 1,
+   "status": "Standing; Thranduil's kingdom",
+   "center": {
+    "near": "TO031",
+    "dx": -18,
+    "dy": -65
+   },
+   "radius_km": 100,
+   "blurb": "The Elven kingdom of Thranduil in northern Mirkwood, home of the wood-elves.",
+   "book": "The Woodland Realm is the Elven kingdom in the northern part of Mirkwood. Thranduil rules it from the caves called the Elvenking's Halls, beside the Forest River. His people are Silvan and Sindarin Elves. They are wild and wary of strangers.\n\nThe forest has been dark since Sauron settled in Dol Guldur, and wolves, spiders and Orcs trouble the land. Thranduil's people hold the northern part of the forest against them.\n\nBilbo and the Dwarves are taken to the halls in T.A. 2941. Thranduil holds the Dwarves for trespass, and Bilbo helps them escape in barrels. Later, the Elves join the Battle of the Five Armies. In T.A. 3019 Thranduil's folk fight the Enemy in the forest and win. Thranduil's son Legolas is a member of the Fellowship.\n\nAfter the war, Thranduil and Celeborn divide the forest. Thranduil keeps its north. The old halls remain a great Elven stronghold and a place of feasting and song.",
+   "film": "In the Hobbit films, Thranduil is shown as a stern, haughty king in a vast stone-hall. The film adds Tauriel, who is not in the book. Legolas appears in the films at the time of The Hobbit.",
+   "series": "",
+   "facts": {
+    "Capital": "Elvenking's Halls",
+    "Ruler (T.A. 3019)": "King Thranduil",
+    "People": "Silvan Elves, Sindar",
+    "Prince": "Legolas"
+   },
+   "peoples": [
+    "people:silvan-elves",
+    "people:sindar"
+   ],
+   "related": [
+    "TO031",
+    "BU064",
+    "FO018",
+    "RI027",
+    "FT008"
+   ],
+   "sources": [
+    "The Hobbit, chapters 8-9",
+    "The Lord of the Rings, Book II, chapter 2"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "realm:erebor",
+   "title": "Erebor (Kingdom under the Mountain)",
+   "type": "realm",
+   "kind": "Dwarf kingdom",
+   "tier": 1,
+   "status": "Restored T.A. 2941",
+   "center": {
+    "near": "TO051",
+    "dx": 0,
+    "dy": 0
+   },
+   "radius_km": 25,
+   "blurb": "The Lonely Mountain, the Dwarves' great hall, lost to Smaug and then won back.",
+   "book": "Erebor, the Lonely Mountain, rises alone in the east of Wilderland. The Kingdom under the Mountain, which Durin's Folk made their home, lies beneath it. It is a great city of halls and treasure. Thráin I led Durin's Folk there in T.A. 1999 after they fled Moria, and the Arkenstone was found there.\n\nIn T.A. 2770 the dragon Smaug attacked, destroyed Dale and took the hall. Thrór's family fled. The Dwarves lived in the Ered Luin and Iron Hills for many years.\n\nIn T.A. 2941 Thorin Oakenshield and twelve other Dwarves came with Gandalf and Bilbo Baggins. Smaug was killed by Bard at Lake-town. The Battle of the Five Armies followed, and Thorin died. Dáin Ironfoot became king under the Mountain.\n\nDáin and Brand of Dale defend the Mountain against Easterlings in T.A. 3019. Dáin falls at the gate of Erebor, and Thorin III Stonehelm succeeds him, and the Dwarves rebuild what the war has broken.",
+   "film": "The Hobbit films show Erebor as a huge, bright stone city, with the Dwarf kingdom beneath it. Dáin appears as a fierce warrior leader. Thorin, Fíli and Kíli are shown dying in battle.",
+   "series": "",
+   "facts": {
+    "Capital": "Kingdom under the Mountain",
+    "Ruler (T.A. 3019)": "Dáin II Ironfoot, then Thorin III",
+    "Founded": "T.A. 1999 by Thráin I",
+    "People": "Durin's Folk"
+   },
+   "peoples": [
+    "people:durins-folk",
+    "people:men-of-dale-and-the-lake"
+   ],
+   "related": [
+    "TO051",
+    "MT029",
+    "DO014",
+    "BU050",
+    "HI042",
+    "TO024"
+   ],
+   "sources": [
+    "The Hobbit",
+    "The Lord of the Rings, Appendix A (III)"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "realm:dale",
+   "title": "Dale",
+   "type": "realm",
+   "kind": "Kingdom of Men",
+   "tier": 2,
+   "status": "Standing; King Brand",
+   "center": {
+    "near": "TO024",
+    "dx": 0,
+    "dy": 0
+   },
+   "radius_km": 25,
+   "blurb": "A trading city of Men in the shadow of the Lonely Mountain, rebuilt after Smaug.",
+   "book": "Dale is a city of Men beneath the Lonely Mountain. It grew rich by trading with the Dwarves of Erebor. In T.A. 2770 Smaug destroyed it and its people fled to Lake-town.\n\nBard the Bowman, who killed Smaug in T.A. 2941, rebuilt Dale and became its king in T.A. 2944. The city was rebuilt, with help from the Dwarves. Brand, Bard's grandson, was king in T.A. 3019, when Easterlings attacked. He fell at the gate of Erebor. His son Bard II succeeded him.",
+   "film": "The Hobbit films show Dale as a snowy city of stone and open squares. Girion's fall and the town's burning are shown in more detail.",
+   "series": "",
+   "facts": {
+    "Ruler (T.A. 3019)": "King Brand, then Bard II",
+    "Founded": "Before T.A. 2770",
+    "Rebuilt": "T.A. 2944 by Bard",
+    "People": "Men of Dale"
+   },
+   "peoples": [
+    "people:men-of-dale-and-the-lake"
+   ],
+   "related": [
+    "TO024",
+    "TO051",
+    "HI042",
+    "TO053"
+   ],
+   "sources": [
+    "The Hobbit, chapters 14-18",
+    "The Lord of the Rings, Appendix B"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "realm:esgaroth",
+   "title": "Esgaroth (Lake-town)",
+   "type": "realm",
+   "kind": "Town of Men",
+   "tier": 3,
+   "status": "Standing; rebuilt",
+   "center": {
+    "near": "TO053",
+    "dx": 0,
+    "dy": 0
+   },
+   "radius_km": 15,
+   "blurb": "A wooden town of Men built on pillars in the Long Lake.",
+   "book": "Esgaroth, or Lake-town, is a trading town on the Long Lake, built on pillars over the water. Its people are traders and boatmen who deal with Elves, Dwarves and Men. A Master governs it. Smaug destroyed the town in T.A. 2941, and Bard the Bowman killed him. The town was then rebuilt.",
+   "film": "In the films, Lake-town is a ramshackle town on wood stilts, with a greedy Master and a mob of fishermen.",
+   "series": "",
+   "facts": {
+    "Ruler": "The Master of Lake-town",
+    "Location": "Long Lake",
+    "People": "Men of the Lake"
+   },
+   "peoples": [
+    "people:men-of-dale-and-the-lake"
+   ],
+   "related": [
+    "TO053",
+    "LA009",
+    "BU051"
+   ],
+   "sources": [
+    "The Hobbit, chapters 10 and 14"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "realm:iron-hills",
+   "title": "Iron Hills",
+   "type": "region",
+   "kind": "Dwarf realm",
+   "tier": 2,
+   "status": "Standing; Dwarf colony",
+   "center": {
+    "near": "HI037",
+    "dx": 0,
+    "dy": 0
+   },
+   "radius_km": 70,
+   "blurb": "A range east of Erebor where Dáin Ironfoot ruled a strong Dwarf colony.",
+   "book": "The Iron Hills are a range of hills east of the Lonely Mountain. Grór, brother of King Thrór, led Dwarves of Durin's Folk there in T.A. 2590. More came after Smaug took Erebor. Dáin Ironfoot ruled there before he became king under the Mountain. Dwarves from the hills marched to the Battle of the Five Armies in T.A. 2941.",
+   "film": "In the films, the Dwarf army of Dáin comes from the Iron Hills to the Battle of the Five Armies.",
+   "series": "",
+   "facts": {
+    "Lord": "Dáin Ironfoot (to T.A. 2941)",
+    "Location": "East of Erebor",
+    "People": "Durin's Folk"
+   },
+   "peoples": [
+    "people:durins-folk"
+   ],
+   "related": [
+    "HI037",
+    "TO051",
+    "MT029"
+   ],
+   "sources": [
+    "The Hobbit, chapters 15 and 17",
+    "The Lord of the Rings, Appendix A (III)"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "realm:vales-of-anduin",
+   "title": "Vales of Anduin (Beornings)",
+   "type": "region",
+   "kind": "River vales of Men",
+   "tier": 2,
+   "status": "Standing; Beornings keep watch",
+   "center": {
+    "near": "SW006",
+    "dx": 15,
+    "dy": 50
+   },
+   "radius_km": 90,
+   "blurb": "The river valleys between Mirkwood and the Misty Mountains, home of Beorn and his people.",
+   "book": "The Vales of Anduin lie between Mirkwood and the Misty Mountains, along the upper Anduin. In the Third Age, Men called Beornings and Woodmen live there. Beorn, a great shape-changer who can take bear form, lives in a hall near the Carrock.\n\nBeorn helps Bilbo and the Dwarves on their way to Erebor and later fights at the Battle of Five Armies. His people keep the High Pass and the Ford of Carrock against Orcs. The Éothéod lived in these vales before moving south to Rohan. Gladden Fields and the Old Ford also lie here.",
+   "film": "In The Hobbit films, Beorn is a huge man who turns into a bear. Gandalf and the Dwarves seek refuge in his house.",
+   "series": "",
+   "facts": {
+    "Lord": "Beorn and his heirs",
+    "Landmarks": "Carrock, Old Ford, High Pass",
+    "People": "Beornings, Woodmen"
+   },
+   "peoples": [
+    "people:beornings",
+    "people:great-eagles"
+   ],
+   "related": [
+    "BU031",
+    "FJ007",
+    "FJ011",
+    "SW006",
+    "VA036"
+   ],
+   "sources": [
+    "The Hobbit, chapter 7",
+    "The Lord of the Rings, Appendix A"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "realm:dol-guldur",
+   "title": "Dol Guldur",
+   "type": "realm",
+   "kind": "Fortress of the Necromancer",
+   "tier": 2,
+   "status": "Razed T.A. 3019",
+   "center": {
+    "near": "FT008",
+    "dx": 0,
+    "dy": 0
+   },
+   "radius_km": 50,
+   "blurb": "The Hill of Sorcery in southern Mirkwood, where Sauron hid as the Necromancer.",
+   "book": "Dol Guldur is a fortress on a hill in southern Mirkwood. A dark power called the Necromancer arose there about T.A. 1050. He withdrew during the Watchful Peace and returned in T.A. 2460. In T.A. 2850 Gandalf learned that he was Sauron. The forest became dark and dangerous, and the Wood-elves stayed in the north.\n\nIn T.A. 2941 the White Council drove him out, and he went in secret to Mordor. Orcs still held the place, and Sauron's servants used it again after he rose openly in Mordor in T.A. 2951. The Elves of Lothlórien felt the shadow nearby for centuries. In March T.A. 3019 Celeborn's host crossed the Anduin and took it. Galadriel threw down its walls.",
+   "film": "The Hobbit films show the Necromancer's fortress and the White Council's attack. Sauron appears as a shadow and then an eye.",
+   "series": "",
+   "facts": {
+    "Ruler": "Sauron, as the Necromancer",
+    "Occupied": "About T.A. 1050 to 3019",
+    "Destroyed": "March, T.A. 3019",
+    "People": "Orcs, spirits"
+   },
+   "peoples": [
+    "people:orcs",
+    "people:nazgul"
+   ],
+   "related": [
+    "FT008",
+    "FO018",
+    "FO017"
+   ],
+   "sources": [
+    "The Lord of the Rings, Appendix B",
+    "The Hobbit, chapter 7"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "realm:brown-lands",
+   "title": "The Brown Lands",
+   "type": "region",
+   "kind": "Bare plains",
+   "tier": 3,
+   "status": "Bleak; few inhabitants",
+   "center": {
+    "near": "RI003",
+    "dx": 120,
+    "dy": 0
+   },
+   "radius_km": 130,
+   "blurb": "A bare country of dry grass south of Mirkwood and east of the Anduin.",
+   "book": "The Brown Lands lie south of Mirkwood and east of the Anduin, above the Emyn Muil. It is a dry, empty country. Few people live there.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Location": "East of Anduin, south of Mirkwood",
+    "Nature": "Barren plains",
+    "People": "Few or none"
+   },
+   "peoples": [],
+   "related": [
+    "RI003",
+    "FI004",
+    "HI022"
+   ],
+   "sources": [
+    "The Lord of the Rings, Book III and Book IV"
+   ],
+   "confidence": "low"
+  },
+  {
+   "id": "realm:dagorlad",
+   "title": "Dagorlad",
+   "type": "region",
+   "kind": "Battle plain",
+   "tier": 3,
+   "status": "Haunted battlefield",
+   "center": {
+    "near": "FI004",
+    "dx": 0,
+    "dy": 0
+   },
+   "radius_km": 90,
+   "blurb": "The great plain before the Black Gate, where the Last Alliance defeated Sauron's armies.",
+   "book": "Dagorlad is the Battle Plain, on the north-western side of Mordor. The armies of the Last Alliance of Elves and Men won a great victory over Sauron there in S.A. 3434. The Dead Marshes grew on the old graves of the fallen. Its dryness and old war scars make it harsh. Frodo and Sam cross its edge on the way to the Morannon.",
+   "film": "In the films, the Last Alliance battle appears in the prologue on a barren plain below Mount Doom. Dagorlad is not named.",
+   "series": "",
+   "facts": {
+    "Battle": "Last Alliance, S.A. 3434",
+    "Location": "Before the Morannon",
+    "Nearby": "Dead Marshes"
+   },
+   "peoples": [],
+   "related": [
+    "FI004",
+    "SW002",
+    "FT005",
+    "FI006"
+   ],
+   "sources": [
+    "The Lord of the Rings, Book IV, chapter 2",
+    "The Silmarillion"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "realm:rhun",
+   "title": "Rhûn",
+   "type": "region",
+   "kind": "Eastern lands",
+   "tier": 2,
+   "status": "Mostly unknown",
+   "center": {
+    "near": "LA019",
+    "dx": 100,
+    "dy": -30
+   },
+   "radius_km": 250,
+   "blurb": "A vast eastern land beyond the Sea of Rhûn, home of the Easterlings.",
+   "book": "Rhûn is the name for the lands east of the Sea of Rhûn. Few people of the west know them. Tribes of Easterlings live there, and some of these peoples serve Sauron. The Wainriders came from there to attack Gondor and Rhovanion. Many Easterlings fought for Sauron at the Pelennor. Their lands are large and little known, and the tales of the west say little about their cities or kings.\n\nLater notes say that the two Blue Wizards went far into the East.",
+   "film": "The Two Towers film shows Easterling soldiers marching through the Black Gate. Rhûn itself is not shown.",
+   "series": "",
+   "facts": {
+    "Location": "East of the Sea of Rhûn",
+    "People": "Easterlings",
+    "Role": "Source of Sauron's allies"
+   },
+   "peoples": [
+    "people:easterlings"
+   ],
+   "related": [
+    "LA019",
+    "FI016"
+   ],
+   "sources": [
+    "The Lord of the Rings, Appendix A and B",
+    "Unfinished Tales"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "realm:harondor",
+   "title": "Harondor (South Gondor)",
+   "type": "region",
+   "kind": "Lost Gondor land",
+   "tier": 3,
+   "status": "Abandoned; border region",
+   "center": {
+    "near": "RI064",
+    "dx": 100,
+    "dy": -60
+   },
+   "radius_km": 130,
+   "blurb": "A southern borderland of Gondor between the rivers Poros and Harnen, lost to Harad.",
+   "book": "Harondor is the land between the River Poros and the River Harnen. It was once part of Gondor. Gondor and the Haradrim fought over it for ages, and by the end of the Third Age Gondor no longer holds it. The Haradrim came north along the Harad Road, as they do in T.A. 3019.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Rivers": "Poros and Harnen",
+    "Once held by": "Gondor",
+    "People": "Haradrim, few Gondorians"
+   },
+   "peoples": [
+    "people:haradrim",
+    "people:men-of-gondor"
+   ],
+   "related": [
+    "RI064",
+    "RI039",
+    "RD018"
+   ],
+   "sources": [
+    "The Lord of the Rings, Appendix A (I)"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "realm:harad",
+   "title": "Harad (northern edge)",
+   "type": "region",
+   "kind": "Southern lands",
+   "tier": 3,
+   "status": "Ruled by chiefs; ally of Sauron",
+   "center": {
+    "near": "RI039",
+    "dx": 60,
+    "dy": 40
+   },
+   "radius_km": 220,
+   "blurb": "The hot southern land of the Haradrim, only partly shown at the northern edge of the map.",
+   "book": "Harad, the South, is the vast country south of Gondor and Mordor. Its people are the Haradrim. Many of them serve Sauron, and in T.A. 3019 they come to the Pelennor with oliphaunts. Only its northern edge appears on this map. Its wider lands, such as Umbar and Far Harad, lie beyond.",
+   "film": "In the films, the Haradrim ride huge oliphaunts at the Battle of the Pelennor Fields.",
+   "series": "",
+   "facts": {
+    "People": "Haradrim",
+    "Beasts": "Oliphaunts",
+    "Ruler (T.A. 3019)": "Local chiefs; Sauron's allies"
+   },
+   "peoples": [
+    "people:haradrim"
+   ],
+   "related": [
+    "RI039",
+    "FI017",
+    "RD018"
+   ],
+   "sources": [
+    "The Lord of the Rings, Book IV and Book V"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "realm:forodwaith",
+   "title": "Forodwaith",
+   "type": "region",
+   "kind": "Frozen northern waste",
+   "tier": 3,
+   "status": "Frozen waste; Lossoth live there",
+   "center": {
+    "near": "BA013",
+    "dx": 200,
+    "dy": -15
+   },
+   "radius_km": 350,
+   "blurb": "The cold far north, home of the Lossoth snow-men, beyond Angmar and the Ice-bay.",
+   "book": "Forodwaith is the frozen north of Middle-earth, beyond Angmar. A few Lossoth, called Snowmen, live near the Ice-bay of Forochel. They live in snow houses and do not trust strangers. After the Witch-king took Fornost, they gave aid to King Arvedui, who died in the Ice-bay.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "People": "Lossoth (Snowmen)",
+    "Landmark": "Ice-bay of Forochel",
+    "Climate": "Perpetual cold"
+   },
+   "peoples": [
+    "people:lossoth"
+   ],
+   "related": [
+    "BA013",
+    "MT039"
+   ],
+   "sources": [
+    "The Lord of the Rings, Appendix A (I)"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "realm:ered-luin",
+   "title": "Ered Luin (Blue Mountains)",
+   "type": "region",
+   "kind": "Dwarf mountains",
+   "tier": 3,
+   "status": "Standing; Dwarf halls",
+   "center": {
+    "near": "RI052",
+    "dx": -30,
+    "dy": -40
+   },
+   "radius_km": 60,
+   "blurb": "The Blue Mountains, home of Dwarf halls and a refuge for Thorin's folk.",
+   "book": "The Ered Luin, or Blue Mountains, form the western edge of Eriador. They hold ancient Dwarf halls. After Smaug took Erebor, Thráin II and Thorin settled there. Thorin's company set out from here in T.A. 2941. Dwarves still live in the mountains at the end of the Third Age.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Role": "Western Dwarf halls",
+    "Refuge of": "Thráin II and Thorin",
+    "People": "Dwarves of Durin's Folk"
+   },
+   "peoples": [
+    "people:durins-folk"
+   ],
+   "related": [
+    "MT005",
+    "RI052",
+    "RI045"
+   ],
+   "sources": [
+    "The Hobbit, chapter 1",
+    "The Lord of the Rings, Appendix A (III)"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "realm:old-forest",
+   "title": "The Old Forest",
+   "type": "region",
+   "kind": "Haunted forest",
+   "tier": 3,
+   "status": "Standing; wild",
+   "center": {
+    "near": "FO023",
+    "dx": 0,
+    "dy": 0
+   },
+   "radius_km": 25,
+   "blurb": "A dark and watchful wood on the edge of the Shire, home of Old Man Willow.",
+   "book": "The Old Forest lies east of the Hedge of Buckland, along the Withywindle. Its trees are hostile to travellers. Old Man Willow traps and nearly kills Merry and Pippin there. Tom Bombadil, who is master of the woods, waters and hills there, lives nearby and saves them. The wood is a remnant of the great forests of Eriador.",
+   "film": "The films leave out the Old Forest and Tom Bombadil.",
+   "series": "",
+   "facts": {
+    "Master": "Tom Bombadil (nearby)",
+    "Danger": "Old Man Willow",
+    "Location": "East of Buckland"
+   },
+   "peoples": [
+    "people:hobbits"
+   ],
+   "related": [
+    "FO023",
+    "RI083",
+    "TO014",
+    "TO022"
+   ],
+   "sources": [
+    "The Lord of the Rings, Book I, chapters 6-7"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "realm:barrow-downs",
+   "title": "Barrow-downs",
+   "type": "region",
+   "kind": "Ancient burial hills",
+   "tier": 3,
+   "status": "Haunted; ancient graves",
+   "center": {
+    "near": "HI011",
+    "dx": 0,
+    "dy": 0
+   },
+   "radius_km": 25,
+   "blurb": "Grassy hills of ancient graves west of Bree, haunted by barrow-wights.",
+   "book": "The Barrow-downs lie east of the Old Forest and south of the Great East Road. They are crowded with ancient burial mounds of Men. Barrow-wights haunt them. A wight takes the four hobbits prisoner in T.A. 3018, and Tom Bombadil frees them. The mounds are the graves of the Dúnedain of Cardolan and of older peoples.",
+   "film": "The films leave out the Barrow-downs.",
+   "series": "",
+   "facts": {
+    "Danger": "Barrow-wights",
+    "Nearby": "Old Forest, Bree",
+    "People": "None living"
+   },
+   "peoples": [
+    "people:hobbits"
+   ],
+   "related": [
+    "HI011",
+    "FO023",
+    "TO011"
+   ],
+   "sources": [
+    "The Lord of the Rings, Book I, chapter 8"
+   ],
+   "confidence": "high"
+  }
+ ],
+ "peoples": [
+  {
+   "id": "people:hobbits",
+   "title": "Hobbits",
+   "kind": "Small folk of Eriador",
+   "blurb": "Small, peaceful people who love farming, food and quiet, and who bear the Ring.",
+   "book": "Hobbits are a small people, about half the height of Men, with hairy feet and no need for shoes. They love good food, gardens, books of lore and peace. Most are unaware of the great world beyond their borders.\n\nThere are three old kinds. The Harfoots are the most common and live in holes in hills. The Fallohides are fairer and fond of woods and tales. The Stoors are broad and prefer rivers. The three kinds came from the upper Anduin, crossed the Misty Mountains and settled in Eriador. Many lived at Bree before moving to the Shire in T.A. 1601.\n\nThey speak the Common Tongue in a rustic form. They are tough and can be brave when needed.\n\nBilbo finds the One Ring in T.A. 2941. Frodo carries it to Mordor, with Sam as his steadfast helper, and Merry and Pippin serve Rohan and Gondor in the war. Hobbits are the unlikely heroes of the Third Age's end.",
+   "film": "In the films, the hobbits are shown as rosy, cheerful and shy of the wider world. The films film the Shire in a bright, storybook style.",
+   "series": "In the series, the Harfoots are nomads who hide from outsiders. They are shown as early ancestors of the Shire hobbits.",
+   "facts": {
+    "Homeland": "The Shire, upper Anduin (origin)",
+    "Language": "Westron (Common Tongue)",
+    "Notable figures": "Bilbo, Frodo, Sam, Merry, Pippin",
+    "Kinds": "Harfoots, Fallohides, Stoors"
+   },
+   "realms": [
+    "realm:the-shire",
+    "realm:bree-land",
+    "realm:eriador",
+    "realm:old-forest",
+    "realm:barrow-downs"
+   ],
+   "related": [
+    "TO050",
+    "BU030",
+    "TO061",
+    "TO097",
+    "TO014"
+   ],
+   "sources": [
+    "The Lord of the Rings, Prologue"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "people:men-of-bree",
+   "title": "Men of Bree",
+   "kind": "Race of Men",
+   "blurb": "Old folk of Bree-land who live peacefully beside hobbits in a land of four villages.",
+   "book": "The Men of Bree are the descendants of the early Men of Eriador. They are a short, brown-haired people who kept their homes while the realms of Arnor rose and fell. They live in the villages of Bree, Staddle, Combe and Archet, in a small land beside the Great East Road.\n\nThey are not wise in the great lore of the world and are slow to trust. Even so, they are courteous to travellers and welcome hobbits as neighbours. Their inn, the Prancing Pony, is known across Eriador. Its keeper in T.A. 3018 is Barliman Butterbur.\n\nThe folk of Bree look on the Rangers with suspicion, as strangers from the wild. They do not know that the Rangers protect them.\n\nIn the story, they are the first Men that Frodo meets outside the Shire. They are also easy prey to the Black Riders' threats. A villager named Bill Ferny works for Saruman.",
+   "film": "In the films, Bree is a rain-soaked town of Men. Butterbur is a comic innkeeper.",
+   "series": "",
+   "facts": {
+    "Homeland": "Bree-land",
+    "Language": "Westron",
+    "Notable figures": "Barliman Butterbur, Bill Ferny",
+    "Neighbours": "Hobbits"
+   },
+   "realms": [
+    "realm:bree-land",
+    "realm:eriador"
+   ],
+   "related": [
+    "TO011",
+    "BU009",
+    "TO089",
+    "TO021",
+    "TO007"
+   ],
+   "sources": [
+    "The Lord of the Rings, Book I, chapter 9 and Prologue"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "people:dunedain-of-the-north",
+   "title": "Dúnedain of the North (Rangers)",
+   "kind": "Númenórean heirs",
+   "blurb": "The remnant of Arnor's people, who guard Eriador as secret Rangers.",
+   "book": "The Dúnedain are the descendants of the Men of Númenor. After Arnor fell in T.A. 1974, the northern Dúnedain became wanderers. Others call them Rangers and kept watch on the roads of Eriador. Few know their name, and many people mistrust them. They live long, are tall and grave, and speak the Common Tongue as well as some Sindarin.\n\nTheir chieftain is the heir of Isildur. Elrond keeps the shards of their sword Narsil in Rivendell. Under Aragorn they protect the Shire and Bree-land from dangers that people do not see. Elrond fostered the chieftains' sons in Rivendell.\n\nIn T.A. 3019 Halbarad leads thirty Rangers south to join Aragorn. They follow him on the Paths of the Dead. After the war, Aragorn becomes king and the Dúnedain restore the north kingdom in the Fourth Age.",
+   "film": "In the films, Aragorn is called Strider by the hobbits and appears as an isolated Ranger. Halbarad is replaced by Elrond, who brings the sword to Aragorn.",
+   "series": "",
+   "facts": {
+    "Homeland": "Arnor, Eriador",
+    "Language": "Westron, Sindarin",
+    "Notable figures": "Aragorn, Halbarad",
+    "Heirloom": "Narsil shards"
+   },
+   "realms": [
+    "realm:arnor",
+    "realm:arthedain",
+    "realm:cardolan",
+    "realm:rhudaur",
+    "realm:eriador",
+    "realm:bree-land",
+    "realm:gondor"
+   ],
+   "related": [
+    "HI052",
+    "TO035",
+    "TO006",
+    "TO084"
+   ],
+   "sources": [
+    "The Lord of the Rings, Appendix A (I)"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "people:men-of-gondor",
+   "title": "Men of Gondor",
+   "kind": "Númenórean-descended Men",
+   "blurb": "The mixed people of Gondor, proud heirs of the Dúnedain with many lords and peoples.",
+   "book": "The people of Gondor are descended from Dúnedain and from older Men who lived in the south. The noblest houses keep dark hair and grey eyes, and are tall and proud. Many are of mixed blood. The people of Dol Amroth have a touch of Elvish blood. Men of the hills and coasts are smaller and rugged.\n\nThey speak the Common Tongue, and the old lords keep Sindarin as a language of lore. Their greatest cities are Minas Tirith and Pelargir. They are skilled builders and soldiers. They have a deep sense of duty to the memory of Númenor.\n\nDuring the long wars with Mordor, the people of Gondor kept watch on the Enemy for many centuries. In T.A. 3019 they send men from every province to the siege of Minas Tirith. Key figures include Denethor, Boromir, Faramir, Imrahil and Beregond.",
+   "film": "In the films, the people of Gondor are shown in white and silver armour. The city is built on seven levels, and Denethor appears as a cold, harsh steward.",
+   "series": "",
+   "facts": {
+    "Homeland": "Gondor",
+    "Language": "Westron, Sindarin (lore)",
+    "Notable figures": "Denethor, Boromir, Faramir, Imrahil",
+    "Cities": "Minas Tirith, Pelargir"
+   },
+   "realms": [
+    "realm:gondor",
+    "realm:anorien",
+    "realm:ithilien",
+    "realm:lossarnach",
+    "realm:lebennin",
+    "realm:belfalas",
+    "realm:lamedon",
+    "realm:anfalas"
+   ],
+   "related": [
+    "TO065",
+    "TO081",
+    "TO026",
+    "TO078",
+    "TO064"
+   ],
+   "sources": [
+    "The Lord of the Rings, Book V and Appendix A (I)"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "people:rohirrim",
+   "title": "Rohirrim (Men of Rohan)",
+   "kind": "Horse-lords of Rohan",
+   "blurb": "The riders of Rohan, a northern people who breed horses and fight on horseback.",
+   "book": "The Rohirrim, or Horse-lords, are fair-haired Men of the northern kind. Their ancestors, the Éothéod, lived in the upper vales of Anduin. In T.A. 2510 they rode south to help Gondor, and Eorl the Young led them. Gondor gave them the land of Calenardhon, which they called the Mark.\n\nThey love horses above all things. They are brave in war, honest and open-handed, and slow to trust the arts of the Wise. Their language, Rohirric, is close to the old speech of the northern Men. In the story it appears as Old English-like names and verses.\n\nThey live in halls of wood and thatch, with Edoras as their capital. They fight best on the open plain.\n\nKey figures of the war are King Théoden, his niece Éowyn, his nephew Éomer and Erkenbrand, lord of the Westfold. The Rohirrim reach Gondor on the day of its greatest need and break the enemy at the Pelennor Fields.",
+   "film": "In the films, the Rohirrim wear leather and iron with horse-crested helms. Their tongue is a form of Old English. Théoden is possessed, and Éowyn is shown as a skilled swordswoman.",
+   "series": "",
+   "facts": {
+    "Homeland": "Rohan (Calenardhon)",
+    "Language": "Rohirric",
+    "Notable figures": "Théoden, Éomer, Éowyn, Théodred",
+    "Origin": "Éothéod of the Anduin vales"
+   },
+   "realms": [
+    "realm:rohan"
+   ],
+   "related": [
+    "TO029",
+    "BU070",
+    "FT014",
+    "FT009",
+    "TO002"
+   ],
+   "sources": [
+    "The Lord of the Rings, Book III and Appendix A (II)"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "people:dunlendings",
+   "title": "Dunlendings",
+   "kind": "Hill-men of Dunland",
+   "blurb": "Wild hill-men of the west, who were driven from Rohan and hate the Rohirrim.",
+   "book": "The Dunlendings are a dark-haired, rough people of the hills between the Misty Mountains and the sea. They are the remnant of the old Men who once lived in the White Mountains' valleys and in Enedwaith. They speak their own tongue, which is unlike that of Rohan.\n\nThey remember that the land of Rohan was once theirs. For generations they have resented the Rohirrim as invaders. In T.A. 2758 the Dunlending Wulf took Edoras for a short time. Helm Hammerhand was besieged at Helm's Deep in the same war.\n\nIn T.A. 3019 Saruman uses their old hatred to gather an army. They fight beside the Uruk-hai at the Fords of Isen and at Helm's Deep. After the battle, many yield and are allowed to return home.",
+   "film": "In the films, Dunlendings are shown in Saruman's army and in Helm's Deep, in rough clothing and war-paint.",
+   "series": "",
+   "facts": {
+    "Homeland": "Dunland",
+    "Language": "Dunlendish",
+    "Notable figures": "Wulf",
+    "Enemy of": "Rohan"
+   },
+   "realms": [
+    "realm:dunland",
+    "realm:enedwaith",
+    "realm:isengard"
+   ],
+   "related": [
+    "FT017",
+    "FJ008",
+    "FT014"
+   ],
+   "sources": [
+    "The Lord of the Rings, Appendix A (II)"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "people:druedain",
+   "title": "Drúedain (Woses)",
+   "kind": "Wild woodland Men",
+   "blurb": "Short, silent, stone-like Men of the forests who live in the Drúadan Forest.",
+   "book": "The Drúedain, also called Woses or Wild Men, are a short, broad and strong people who live in the forests of the west. Their faces are stern, and they seldom speak. They carve statues of stone, called Púkel-men. They are skilled at woodcraft and at tracking, and they use poisoned arrows.\n\nThe Men of Gondor and Rohan sometimes feared them and hunted them. In the Third Age, a small group of them lived in the Drúadan Forest in Anórien. Their chief, Ghân-buri-Ghân, spoke in broken Westron. After the war, King Elessar gives them the Drúadan Forest for their own.\n\nIn T.A. 3019 Ghân-buri-Ghân leads the Rohirrim around the Orc army on a hidden path through the forest, by the Stonewain Valley. He asks only that the Rohirrim leave the Woses in peace.",
+   "film": "In the films, the Drúedain do not appear. The Rohirrim ride to Minas Tirith by an open road.",
+   "series": "",
+   "facts": {
+    "Homeland": "Drúadan Forest, Anórien",
+    "Language": "Their own tongue; some Westron",
+    "Notable figures": "Ghân-buri-Ghân",
+    "Craft": "Stone carving, tracking"
+   },
+   "realms": [
+    "realm:anorien",
+    "realm:gondor"
+   ],
+   "related": [
+    "FO007",
+    "VA018",
+    "TO065"
+   ],
+   "sources": [
+    "The Lord of the Rings, Book V, chapter 5",
+    "Unfinished Tales"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "people:beornings",
+   "title": "Beornings",
+   "kind": "Men of the Anduin vales",
+   "blurb": "Men of the upper Anduin, loyal to Beorn, who guard the High Pass.",
+   "book": "The Beornings are a people of Men who live in the vales of the upper Anduin. They are the followers of Beorn, a huge man who can change into a great bear. Beorn was a skin-changer, and his people are skilled hunters and herdsmen, and enemies of Orcs.\n\nBeorn welcomed Bilbo and Thorin's company in T.A. 2941 and gave them food, ponies and advice. He later fought in the Battle of the Five Armies and helped to turn it. His line continued among the Beornings.\n\nTheir task in the story is guarding the High Pass and the Ford of Carrock. This keeps the Orcs of the Misty Mountains from crossing the river into the Vales. After the War of the Ring, the Beornings hold the middle part of Mirkwood in the Fourth Age.",
+   "film": "In The Hobbit films, Beorn is a huge man with a shaggy beard who turns into a bear. His house is shown as a wooden hall.",
+   "series": "",
+   "facts": {
+    "Homeland": "Vales of Anduin",
+    "Language": "Northern Men's tongue",
+    "Notable figures": "Beorn",
+    "Role": "Guards of the High Pass"
+   },
+   "realms": [
+    "realm:vales-of-anduin",
+    "realm:rhovanion"
+   ],
+   "related": [
+    "BU031",
+    "FJ007",
+    "VA036"
+   ],
+   "sources": [
+    "The Hobbit, chapter 7",
+    "The Lord of the Rings, Appendix B"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "people:men-of-dale-and-the-lake",
+   "title": "Men of Dale and the Lake",
+   "kind": "Northern Men and traders",
+   "blurb": "Traders and bowmen of Dale and Esgaroth, allies of Erebor's Dwarves.",
+   "book": "The Men of Dale and Lake-town are the northern folk who live below the Lonely Mountain and on the Long Lake. They are descended from the Northmen of old Rhovanion. They are traders, boatmen and bowmen, and they speak a tongue that Dwarves know and use.\n\nDale grew rich through trade with Erebor, until Smaug destroyed it in T.A. 2770. The survivors went to Lake-town. In T.A. 2941 Bard the Bowman killed Smaug with a black arrow. He became the king of a rebuilt Dale.\n\nThe Men of the north fought beside the Dwarves and Elves in the Battle of the Five Armies. In T.A. 3019 they again fought Easterlings, and King Brand of Dale fell. The two peoples remain firm allies against Sauron.",
+   "film": "In the films, the people of Lake-town are poor fishermen under a greedy Master. Bard is a bargeman and a father of three children.",
+   "series": "",
+   "facts": {
+    "Homeland": "Dale, Esgaroth",
+    "Language": "Northern Men's tongue (Dalish)",
+    "Notable figures": "Bard I, Brand, Bard II",
+    "Allies": "Dwarves of Erebor"
+   },
+   "realms": [
+    "realm:dale",
+    "realm:esgaroth",
+    "realm:erebor",
+    "realm:rhovanion"
+   ],
+   "related": [
+    "TO024",
+    "TO053",
+    "TO051",
+    "BU051"
+   ],
+   "sources": [
+    "The Hobbit, chapters 10-18",
+    "The Lord of the Rings, Appendix A (III)"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "people:easterlings",
+   "title": "Easterlings",
+   "kind": "Men of the East",
+   "blurb": "Many tribes from the lands east of Rhûn, often in Sauron's service.",
+   "book": "The Easterlings are many tribes of Men who live in the east, beyond the Sea of Rhûn and north of Mordor. They are mostly dark-eyed, skilled with horse and wagon, and some are fierce fighters. Their languages are many, and few in the west know them.\n\nIn the Third Age, tribes such as the Wainriders and the Balchoth attacked Gondor and Rhovanion. The Wainriders came in great wagons in T.A. 1856 and nearly ruined Gondor. Some Easterling tribes remained free of Sauron, but he had long ruled many of them.\n\nIn T.A. 3019 his army included Easterlings in great numbers. They fight at the Black Gate, and also attack Dale and Erebor, where they fall to the Dwarves and Men. After his defeat, Aragorn makes peace with those who surrender.",
+   "film": "In The Two Towers film, armoured Easterling soldiers march through the Black Gate into Mordor.",
+   "series": "",
+   "facts": {
+    "Homeland": "Rhûn and east of the Sea",
+    "Language": "Many tongues",
+    "Tribes": "Wainriders, Balchoth",
+    "Allegiance": "Often Sauron"
+   },
+   "realms": [
+    "realm:rhun",
+    "realm:mordor",
+    "realm:rhovanion"
+   ],
+   "related": [
+    "LA019",
+    "FT005",
+    "FI004"
+   ],
+   "sources": [
+    "The Lord of the Rings, Appendix A (I) and B"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "people:haradrim",
+   "title": "Haradrim (Southrons)",
+   "kind": "Men of the South",
+   "blurb": "Dark-skinned Men of the hot southern lands, many of whom serve Sauron.",
+   "book": "The Haradrim, called Southrons by the people of Gondor, live in the hot lands south of Mordor and Gondor. They are many peoples, with their own chiefs, war-banners and customs. Some are tall and black-skinned, and others are brown. They breed great war-beasts called oliphaunts.\n\nGondor and Harad have been enemies for ages. Rebels from Gondor seized the haven of Umbar in T.A. 1448. Their heirs, the Corsairs, became allies of Harad. Many of the southern princes serve Sauron.\n\nIn T.A. 3019 a great army of Haradrim comes north to Gondor. They fight at the Pelennor with oliphaunts and are broken by Rohan and Aragorn. Faramir's Rangers ambush a column of them in Ithilien.\n\nThey speak many tongues, and the western people know little of them.",
+   "film": "In the films, the Haradrim ride great oliphaunts, called mûmakil, in the Battle of the Pelennor Fields.",
+   "series": "",
+   "facts": {
+    "Homeland": "Harad",
+    "Language": "Many tongues",
+    "Beasts": "Oliphaunts",
+    "Allegiance": "Many follow Sauron"
+   },
+   "realms": [
+    "realm:harad",
+    "realm:harondor",
+    "realm:mordor"
+   ],
+   "related": [
+    "RD018",
+    "RI064",
+    "FI024"
+   ],
+   "sources": [
+    "The Lord of the Rings, Book IV, chapter 4 and Book V, chapter 6"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "people:noldor",
+   "title": "Noldor (High Elves)",
+   "kind": "Elven kindred",
+   "blurb": "The deep-learned Elves who once lived in Valinor, now few and sailing West.",
+   "book": "The Noldor are the second kindred of the Elves. They lived in Valinor in the Light of the Two Trees, and learned craft and lore from the Valar. Many of them followed Fëanor back to Middle-earth in the First Age to fight Morgoth. They are known as the High Elves or Deep Elves.\n\nBy the end of the Third Age, only a few Noldor remain in Middle-earth. Gil-galad was their last High King. Elrond rules Rivendell, and Galadriel rules Lothlórien with her husband Celeborn, who is a Sindarin Elf. Celebrimbor, a smith of the Noldor, made the three Elven rings in the Second Age. Glorfindel also lives in Rivendell.\n\nThe Noldor speak Quenya for lore and ceremony, and Sindarin in daily life. They are wise, skilled in many crafts, and proud. Their time is passing. When the Ring is destroyed, the three rings lose their power, and most of the Noldor go West.",
+   "film": "In the films, Elrond and Galadriel appear as noble, remote Elves. Gil-galad is shown briefly in the prologue, in battle at the end of the Second Age.",
+   "series": "In the series, Galadriel is a Noldor warrior-commander, Elrond is a young Elven emissary and Gil-galad is the High King. Celebrimbor is a master smith.",
+   "facts": {
+    "Homeland": "Valinor (origin); Lindon, Rivendell",
+    "Language": "Quenya, Sindarin",
+    "Notable figures": "Elrond, Galadriel, Gil-galad, Celebrimbor",
+    "Rings": "Narya, Nenya, Vilya"
+   },
+   "realms": [
+    "realm:lindon",
+    "realm:rivendell",
+    "realm:lothlorien",
+    "realm:eregion",
+    "realm:eriador"
+   ],
+   "related": [
+    "TO084",
+    "TO043",
+    "TO018",
+    "TO079"
+   ],
+   "sources": [
+    "The Silmarillion",
+    "The Lord of the Rings, Appendix B"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "people:sindar",
+   "title": "Sindar (Grey Elves)",
+   "kind": "Elven kindred",
+   "blurb": "The Elves of Beleriand who never saw Valinor, among them Círdan and Thranduil's folk.",
+   "book": "The Sindar, or Grey Elves, are Elves who followed Elwë to Beleriand, but did not complete the journey to Valinor. They lived in Doriath and along the coasts. They taught the Sindarin language to the Noldor, who adopted it. Their old king was Thingol.\n\nAfter Beleriand was drowned, the Sindar lived in Lindon and in the woods of the east. Círdan the Shipwright, the oldest of their lords, rules the Grey Havens. Celeborn, husband of Galadriel, is a Sindarin lord. Thranduil is a Sindarin lord, but most of his people are Silvan Elves.\n\nThe Sindar are wise, but they are not as deep in lore as the Noldor. They love music and the woods.\n\nSindarin is the common Elvish speech of the Third Age. Men of Gondor and Dúnedain still know it as a language of lore.",
+   "film": "The films do not separate the kindreds. Thranduil, Legolas and Haldir all appear simply as Elves.",
+   "series": "",
+   "facts": {
+    "Homeland": "Beleriand (First Age)",
+    "Language": "Sindarin",
+    "Notable figures": "Círdan, Celeborn, Thranduil, Thingol",
+    "Dwellings": "Lindon, Mirkwood"
+   },
+   "realms": [
+    "realm:lindon",
+    "realm:woodland-realm",
+    "realm:lothlorien"
+   ],
+   "related": [
+    "TO043",
+    "TO031",
+    "TO018"
+   ],
+   "sources": [
+    "The Silmarillion",
+    "The Lord of the Rings, Appendix B"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "people:silvan-elves",
+   "title": "Silvan Elves",
+   "kind": "Elven kindred",
+   "blurb": "Woodland Elves of Lothlórien and Mirkwood who never went west.",
+   "book": "The Silvan Elves, or Wood-elves, are descended from Elves who began the Great Journey but stayed east of the Misty Mountains. They live in the forests of Mirkwood and Lothlórien. They are less skilled in lore than the Noldor and Sindar. Their lords were mostly Sindar who ruled them.\n\nIn Lothlórien the Silvan Elves live in tall mallorn trees, and in northern Mirkwood they live in the caves of the Woodland Realm. They are good archers and woodland scouts. They are wary of strangers and Dwarves.\n\nIn the Third Age they often fight Orcs and spiders. In T.A. 3019 Silvan Elves resist assaults from Dol Guldur and then help to destroy it. Haldir of Lothlórien and Legolas of Mirkwood are the best-known Elves of these woods.",
+   "film": "In the films, Legolas is the clearest Wood-elf. The films show Haldir with Lothlórien archers at Helm's Deep.",
+   "series": "In the series, Arondir is a Silvan Elf and a soldier in the Southlands.",
+   "facts": {
+    "Homeland": "Mirkwood, Lothlórien",
+    "Language": "Silvan dialects, Sindarin",
+    "Notable figures": "Haldir, Legolas",
+    "Habitat": "Forests, mallorn trees"
+   },
+   "realms": [
+    "realm:lothlorien",
+    "realm:woodland-realm",
+    "realm:rhovanion"
+   ],
+   "related": [
+    "TO018",
+    "TO031",
+    "FO017",
+    "FO018"
+   ],
+   "sources": [
+    "The Lord of the Rings, Appendix B",
+    "The Hobbit"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "people:durins-folk",
+   "title": "Dwarves of Durin's Folk",
+   "kind": "Dwarf house",
+   "blurb": "The Longbeards, a stubborn, skilled Dwarf house from Khazad-dûm to Erebor.",
+   "book": "Durin's Folk are the Longbeards, the eldest house of the Dwarves. Their forefather, Durin the Deathless, founded Khazad-dûm. They are short, sturdy and skilled miners and smiths. They love gems and metal, keep their word, and do not forget wrongs. They speak the secret tongue of Khuzdul, and use other names outside their own people.\n\nTheir great hall at Khazad-dûm was lost in T.A. 1980, when they woke a Balrog. They moved to Erebor, and later lost it to Smaug in T.A. 2770. Thorin Oakenshield led the company that won it back in T.A. 2941, with Bilbo's help. Dáin Ironfoot ruled the Iron Hills and then Erebor.\n\nGimli son of Glóin, of this house, joins the Fellowship. In the War, the Dwarves hold Erebor against the Easterlings. After the war, Gimli leads a colony to the Glittering Caves.",
+   "film": "In the films, Gimli is a comic and brave Dwarf. In The Hobbit, Thorin is a haunted, proud king. Their cities are vast carved halls.",
+   "series": "In the series, Khazad-dûm appears as a great Dwarf realm under King Durin III, with Prince Durin IV and the Dwarf-woman Disa.",
+   "facts": {
+    "Homeland": "Khazad-dûm, Erebor, Iron Hills",
+    "Language": "Khuzdul (secret)",
+    "Notable figures": "Thorin, Dáin Ironfoot, Balin, Gimli",
+    "Crafts": "Mining, smithing, stonework"
+   },
+   "realms": [
+    "realm:khazad-dum",
+    "realm:erebor",
+    "realm:iron-hills",
+    "realm:ered-luin"
+   ],
+   "related": [
+    "TO066",
+    "TO051",
+    "HI037",
+    "MT029"
+   ],
+   "sources": [
+    "The Hobbit",
+    "The Lord of the Rings, Appendix A (III)"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "people:ents",
+   "title": "Ents",
+   "kind": "Tree-shepherds of Fangorn",
+   "blurb": "Ancient tree-like shepherds of the forest, led by Treebeard.",
+   "book": "The Ents are very old, tree-like beings made to guard the trees. They are slow in speech and slow to anger. They are very tall and strong, with deep, rolling voices. Their drinks of spring water nourish them. Merry and Pippin grow taller after drinking Ent-draughts.\n\nIn the Third Age the Ents live in Fangorn. They had Entwives once, who loved gardens and wandered away. The Ents never found them. The Entmoot is their slow council. Treebeard, also called Fangorn, is their oldest.\n\nThere are few Ents left, and no Entings are born. Huorns, trees that have grown wild and fierce, live in the forest as well.\n\nIn T.A. 3019 Merry and Pippin wake Treebeard to the danger of Saruman. The Ents march on Isengard and tear down its walls, flooding the valley. Huorns also help in the battle of Helm's Deep.",
+   "film": "In the films, Treebeard is a talking tree with a gentle voice. The Ents first refuse to fight. Treebeard changes his mind when he sees the ruin around Isengard.",
+   "series": "",
+   "facts": {
+    "Homeland": "Fangorn Forest",
+    "Language": "Entish (long and slow)",
+    "Notable figures": "Treebeard (Fangorn)",
+    "Related": "Huorns, Entwives (lost)"
+   },
+   "realms": [
+    "realm:fangorn",
+    "realm:isengard"
+   ],
+   "related": [
+    "FO012",
+    "FI005",
+    "FT017",
+    "BU042"
+   ],
+   "sources": [
+    "The Lord of the Rings, Book III, chapters 4-5 and 9"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "people:orcs",
+   "title": "Orcs",
+   "kind": "Corrupted servants of the Dark",
+   "blurb": "Cruel, twisted creatures bred by the Dark Powers, who serve Sauron and Saruman.",
+   "book": "Orcs are a foul, cruel people made by Morgoth in the First Age. Their exact origin is uncertain, but Tolkien often says they were twisted Elves. They hate the light, and many are weaker in sunlight. They are bred for war and live in the dark places of the world.\n\nIn the Third Age, Orcs hold much of the Misty Mountains, including Moria and Gundabad. Others serve Sauron in Mordor and Dol Guldur. Their tongue is crude, and different tribes use different dialects. They fight among themselves and obey only fear.\n\nOrcs are a constant danger to travellers. The Orcs of Moria kill Balin's colony. Orcs of the north hunt Thorin's company in The Hobbit, and the Goblin-king dies at Gandalf's hand. Great armies of Orcs march to the Black Gate and the Pelennor in T.A. 3019.\n\nOrcs are also called goblins in The Hobbit. They are the same kind of people.",
+   "film": "In the films, Orcs are large, grey-skinned fighters. Azog, who dies long before The Hobbit in the book, becomes a main enemy in The Hobbit films.",
+   "series": "",
+   "facts": {
+    "Origin": "Bred by Morgoth",
+    "Language": "Black Speech (some); crude dialects",
+    "Homes": "Misty Mountains, Mordor, Dol Guldur",
+    "Notable figures": "Grishnákh, Gorbag, Shagrat, Azog"
+   },
+   "realms": [
+    "realm:mordor",
+    "realm:angmar",
+    "realm:khazad-dum",
+    "realm:dol-guldur"
+   ],
+   "related": [
+    "TO066",
+    "TO039",
+    "FT008",
+    "FT004"
+   ],
+   "sources": [
+    "The Lord of the Rings",
+    "The Hobbit",
+    "The Silmarillion"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "people:uruk-hai",
+   "title": "Uruk-hai",
+   "kind": "Great Orcs",
+   "blurb": "Strong, tall black Orcs bred in Mordor and by Saruman, who can bear the sun.",
+   "book": "The Uruk-hai are a larger, stronger kind of Orc. They first appeared in Mordor around T.A. 2475, when they attacked Ithilien. They are less afraid of the sun than common Orcs, though they do not love it. Their name comes from the Black Speech.\n\nSaruman bred his own Uruk-hai in Isengard, and some of them were part Man. They wear a white hand as their sign on helms and shields. Saruman's Uruk-hai are tall and fast, and they carry heavy swords and bows.\n\nUglúk's company captures Merry and Pippin at Amon Hen in T.A. 3019 after killing Boromir. They flee across Rohan until the Rohirrim kill them. Saruman's Uruk-hai also attack Helm's Deep and perish among the Huorns. Mordor's Uruk-hai serve under Gorbag and Shagrat at Cirith Ungol.",
+   "film": "In the films, Uruk-hai grow out of mud pits in Isengard. They appear as a huge army, led by Lurtz and Uglúk.",
+   "series": "",
+   "facts": {
+    "Homes": "Isengard, Mordor",
+    "Language": "Black Speech and Orkish",
+    "Notable figures": "Uglúk, Lugdush, Shagrat",
+    "Sign": "White Hand (Saruman)"
+   },
+   "realms": [
+    "realm:isengard",
+    "realm:mordor"
+   ],
+   "related": [
+    "FT017",
+    "FT004",
+    "HI004"
+   ],
+   "sources": [
+    "The Lord of the Rings, Book III, chapters 1-3 and Appendix A"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "people:trolls",
+   "title": "Trolls",
+   "kind": "Stone-strong monsters",
+   "blurb": "Huge, dull creatures made to be strong, who turn to stone in sunlight.",
+   "book": "Trolls are huge, strong creatures that Morgoth made in the likeness of Ents. They are dull-witted but cruel. Most turn to stone in sunlight. In the late Third Age, Sauron breeds a stronger kind, the Olog-hai, who can travel by day.\n\nTrolls live in the wild hills of Eriador, in the Misty Mountains and in Mordor. Three stone trolls in the Trollshaws are Bert, Tom and William. They were turned to stone in T.A. 2941, when Gandalf kept them arguing until dawn. In The Fellowship of the Ring, a troll attacks the Fellowship in Moria.\n\nSauron's Olog-hai fight at the Black Gate and the Pelennor in T.A. 3019.\n\nThe trolls of The Hobbit speak a rough form of the Common Speech. The Olog-hai know only the Black Speech.",
+   "film": "In The Hobbit film, the three trolls are shown in a comic, cruel scene. The Fellowship's film also shows a cave troll in Moria.",
+   "series": "",
+   "facts": {
+    "Origin": "Bred by Morgoth",
+    "Weakness": "Sunlight (most kinds)",
+    "Notable figures": "Bert, Tom, William",
+    "Kind": "Olog-hai (Sauron's)"
+   },
+   "realms": [
+    "realm:mordor",
+    "realm:rhudaur",
+    "realm:eriador"
+   ],
+   "related": [
+    "FO033",
+    "TO066"
+   ],
+   "sources": [
+    "The Hobbit, chapter 2",
+    "The Lord of the Rings, Appendix F"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "people:great-eagles",
+   "title": "Great Eagles",
+   "kind": "Noble giant birds",
+   "blurb": "Giant eagles of the Misty Mountains who aid the Free Peoples at need.",
+   "book": "The Great Eagles are huge, intelligent birds that nest in the high peaks of the Misty Mountains. They are older than the Third Age. Their lord is Gwaihir the Windlord. They speak the Common Tongue.\n\nThe Eagles rescue Thorin's company from wargs and goblins in T.A. 2941, and they come to the Battle of the Five Armies. In T.A. 3018 Gwaihir carries Gandalf from Orthanc. In T.A. 3019 he bears Gandalf from the peak of Celebdil. In T.A. 3019 Gwaihir and his people fight at the Black Gate. They also bring Frodo and Sam from Mount Doom.\n\nThey act when it fits their own wishes, and they do not like to be used as steeds. Their nests are called eyries, and they watch the whole of Wilderland from the high rocks. Their help to the Free Peoples is a great gift, but it is not given lightly.",
+   "film": "In the films, the Eagles rescue the Dwarves and later come at the Black Gate. They also rescue Gandalf from Isengard and carry Frodo and Sam.",
+   "series": "",
+   "facts": {
+    "Homeland": "Misty Mountains",
+    "Language": "Westron (they can speak)",
+    "Notable figures": "Gwaihir, Landroval",
+    "Role": "Rescuers"
+   },
+   "realms": [
+    "realm:rhovanion",
+    "realm:vales-of-anduin"
+   ],
+   "related": [
+    "BU090",
+    "FT017",
+    "MT007",
+    "MT036"
+   ],
+   "sources": [
+    "The Hobbit, chapters 6 and 17",
+    "The Lord of the Rings, Book II and VI"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "people:istari",
+   "title": "Wizards (Istari)",
+   "kind": "Maiar in mortal shape",
+   "blurb": "Five spirits sent from the West to guide Middle-earth in the Third Age.",
+   "book": "The Istari, or Wizards, are Maiar sent from Valinor around T.A. 1000 to oppose Sauron. They came in the bodies of old men, and were told to guide the Free Peoples and not to rule them. There were five. The two Blue Wizards went east and left no tale.\n\nSaruman the White was their head. He lived in Isengard and became proud. He wanted the Ring for himself and betrayed the Council. Gandalf the Grey, called Mithrandir by Elves, worked in secret and loved the Shire. Radagast the Brown lived in Rhosgobel and studied beasts and birds.\n\nGandalf falls in Moria and returns as Gandalf the White. He leads the war against Sauron and helps to crown Aragorn. After the war, Gandalf sails West. Saruman dies in the Shire, killed by Gríma.",
+   "film": "In the films, Gandalf and Saruman are shown as old Wizards with staffs. Radagast is a comic, forgetful hermit who rides a sled of rabbits in The Hobbit.",
+   "series": "In the series, a being called the Stranger falls to Middle-earth in a fiery meteor. The story hints that he may be a Wizard.",
+   "facts": {
+    "Homeland": "Valinor (as Maiar)",
+    "Language": "Many tongues",
+    "Notable figures": "Gandalf, Saruman, Radagast",
+    "Number": "Five"
+   },
+   "realms": [
+    "realm:isengard",
+    "realm:the-shire",
+    "realm:rivendell",
+    "realm:fangorn"
+   ],
+   "related": [
+    "FT017",
+    "BU021",
+    "BU073",
+    "TO050"
+   ],
+   "sources": [
+    "The Lord of the Rings, Appendix B",
+    "Unfinished Tales, The Istari"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "people:nazgul",
+   "title": "Nazgûl (Ringwraiths)",
+   "kind": "Ring-slaves of Sauron",
+   "blurb": "Nine mortal kings who became wraiths bound to the One Ring and to Sauron.",
+   "book": "The Nazgûl are nine Men who took rings of power from Sauron in the Second Age. They became wraiths, bound to his will, and never die. They are invisible without cloaks. They fear fire.\n\nTheir chief is the Witch-king of Angmar, who hunted the Dúnedain of the north. The Nazgûl came back to Mordor around T.A. 2000 and took Minas Ithil in T.A. 2002. It became Minas Morgul.\n\nIn T.A. 3018 they chase Frodo through Eriador as Black Riders. At the Ford of Bruinen, the flood sweeps all nine away. The Witch-king stabs Frodo on Weathertop. In T.A. 3019 the Nazgûl ride winged beasts over Gondor. The Witch-king dies at the Pelennor, struck down by Éowyn and Merry. When the Ring is destroyed, the other eight perish in the fire of Mount Doom.",
+   "film": "In the films, the Nazgûl are black-cloaked riders on black horses and then on winged beasts. They are shown as fearful spirits.",
+   "series": "",
+   "facts": {
+    "Origin": "Nine Men with rings of power",
+    "Chief": "The Witch-king of Angmar",
+    "Weakness": "Fear of fire; mounts lost at Bruinen",
+    "Master": "Sauron"
+   },
+   "realms": [
+    "realm:mordor",
+    "realm:angmar",
+    "realm:dol-guldur"
+   ],
+   "related": [
+    "TO064",
+    "HI052",
+    "FJ006",
+    "FI024"
+   ],
+   "sources": [
+    "The Lord of the Rings, Appendix A and B",
+    "The Silmarillion"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "people:lossoth",
+   "title": "Lossoth (Snowmen of Forochel)",
+   "kind": "Northern Men",
+   "blurb": "A small, secretive people of the frozen north who live in snow and ice.",
+   "book": "The Lossoth, or Snowmen of Forochel, are a hardy people who live in the cold lands around the Ice-bay of Forochel. They are few. They make houses of snow, and travel over ice on runners made of bone. They are wary of strangers.\n\nWhen King Arvedui of Arthedain fled north after the fall of Fornost in T.A. 1974, the Lossoth fed and sheltered him. Arvedui took ship from the Ice-bay and was lost when the ice crushed the vessel.\n\nThe Lossoth are a people of the cold, and few other peoples go to their land. They have no cities, no kings that the books name, and no part in the war. Their story is a small one. Even so, their kindness to a failing king shows that the far north was not wholly empty of friends.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Homeland": "Forochel, Forodwaith",
+    "Language": "Their own",
+    "Notable events": "Aid to King Arvedui",
+    "Habitat": "Snow and ice"
+   },
+   "realms": [
+    "realm:forodwaith"
+   ],
+   "related": [
+    "BA013"
+   ],
+   "sources": [
+    "The Lord of the Rings, Appendix A (I)"
+   ],
+   "confidence": "medium"
+  }
+ ]
+}
