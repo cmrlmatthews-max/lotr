@@ -40,6 +40,16 @@ The buttons below the title change the sheet. Search finds cards on both sheets.
 - **Accuracy.** The layout follows the distances that the books give (for example Dorthonion 60 leagues wide, Sirion 130 leagues long, Angband 150 leagues from Menegroth). A review agent compared the layout with the books, and I applied its corrections. Positions are still approximate.
 - **Cards.** 97 places, 27 realms and regions, 18 peoples, 22 battles, and 8 journeys (for example Beren and Lúthien, Túrin, Tuor, and the return of the Noldor). All eight routes are curves through the stage points.
 
+## Art and setting
+
+- **Card pictures.** 16 great places have a picture at the top of their card. 12 are in Middle-earth: Hobbiton, Rivendell, the Doors of Durin, Caras Galadhon, Edoras, Helm's Deep, Isengard, Minas Tirith, Barad-dûr, Mount Doom, the Lonely Mountain, and Lake-town. 4 are in Beleriand: Gondolin, Menegroth, Angband, and the Havens of Sirion.
+- **Landmark drawings.** The same 16 places show a small sepia drawing on the map. The checkbox **Landmark drawings** hides them.
+- **Map ornaments.** Each sheet has a drawn border, corner ornaments, a compass rose, a title scroll, ships, and a sea serpent.
+- **Woodlands.** Forests have a low raised canopy and a darker green shade with small tree marks.
+- **Setting.** The sheet lies on a wooden table in warm light. The panels look like parchment. The app draws the table and the parchment with code.
+- **Source of the art.** Google Gemini made the 16 pictures and the 6 ornaments from text prompts written for this map. The prompts describe each place in plain words. They do not name a film, an actor, or an artist. `art/process.py` removes the paper background and makes the card pictures, the sepia map drawings, and the ornaments. The original Gemini images (63 MB) are not in this repo.
+- **Accuracy.** The pictures are an impression. They do not show each place as the books describe it in every detail.
+
 ## How to read a card
 
 - **Book** text gives only what Tolkien's published books say.
@@ -55,6 +65,7 @@ An AI model wrote the card text in its own words. A second model then examined e
 - License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0).
 - The reduced terrain and the vector layers in this folder are an adaptation of that data set. They keep the same license. Give the same credit if you share the file. Do not use it for commercial work.
 - 3D engine: three.js (MIT license).
+- Pictures and ornaments: made with Google Gemini for this map. Each Gemini image has an invisible SynthID watermark that marks it as AI-made.
 - Middle-earth and its names are the creation of J.R.R. Tolkien. This project has no connection with the Tolkien Estate, the publishers, or the film and series makers.
 
 ## Folder contents
@@ -66,6 +77,7 @@ An AI model wrote the card text in its own words. A second model then examined e
 | `scripts/` | `terrain.py` and `vectors.py`. They make `data/` from the William & Mary downloads (4.9 GB, not in this repo; see the link above). |
 | `data-beleriand/`, `scripts-beleriand/` | The modelled Beleriand data and the scripts that make it |
 | `source/` | `app.js`, `template.html`, `build.py`, `package.json`, and the card files in `source/cards/` and `source/cards-beleriand/` |
+| `art/` | `out/` (processed images that `build.py` puts in the HTML file) and `process.py` |
 
 `build.py` joins the data, the cards, and the script into the HTML file. It has paths from the build computer. Change the paths at the top before you run it.
 
@@ -75,5 +87,7 @@ An AI model wrote the card text in its own words. A second model then examined e
 - The data set stops at straight lines in the east, the north, and the south-east. The map shows plain paper there.
 - The data set has borders for Gondor, Rohan, and Mordor only. Other realms show a name at their centre.
 - Some names in the data set do not come from the books. Their cards say this.
+- The map drawings and card pictures exist for 16 places only.
+- The file is about 14 MB. The first load can take some seconds.
 - Beleriand terrain is modelled, not measured. It is smoother than the Middle-earth terrain.
 - Not in this file yet: Númenor and Valinor.

@@ -104,18 +104,34 @@ def make_land(tag, datadir, cardsdir, meta, regions=None):
     print(tag, Counter(i['type'] for i in out.values()), '| place cards', len(cards), '| merged', len(redirect), '| tiers', dict(Counter(i['tier'] for i in out.values() if i['type'] == 'place')))
     return out, dict(meta, id=tag, wkm=W, hkm=H, features=feats)
 
-LANDS = [('me', R + '/data', R + '/cards', {'name': 'Middle-earth', 'age': 'Third Age', 'sub': "An explorer's map of the Third Age", 'compass': [250, 300, 78], 'sea': [['BELEGAER', 190, 760, 54, 34, -1.25], ['The Great Sea', 255, 742, 30, 10, -1.25]]}, None)]
+ART_PLACES = {'me': {'Hobbiton': 'hobbiton', 'Rivendell': 'rivendell', 'Doors of Durin': 'moria', 'Caras Galadhon': 'lorien', 'Edoras': 'edoras', "Helm's Deep": 'helmsdeep', 'Isengard': 'isengard', 'Minas Tirith': 'minastirith', 'Barad-dûr': 'baraddur', 'Mount Doom': 'mountdoom', 'Lonely Mountain': 'erebor', 'Lake-town': 'laketown'},
+              'bel': {'Gondolin': 'gondolin', 'Menegroth': 'menegroth', 'Angband': 'angband', 'Havens of Sirion': 'havens'}}
+LANDS = [('me', R + '/data', R + '/cards', {'name': 'Middle-earth', 'age': 'The Third Age', 'sub': "An explorer's map of the Third Age", 'compass': [250, 250, 62], 'sea': [['BELEGAER', 118, 900, 50, 30, -1.5708]],
+          'orn': {'border': 16, 'corner': 200, 'items': [['ship', 215, 735, 105], ['serpent', 160, 1130, 150]], 'cartouche': [272, 522, 380]}}, None)]
 if os.path.exists(R + '/bel/data/height.png'):
     rg = {r['id']: r for r in load(R + '/bel/slices/regions.json', [])}
-    LANDS.append(('bel', R + '/bel/data', R + '/bel/cards', {'name': 'Beleriand', 'age': 'First Age', 'sub': 'The lost lands of the Elder Days', 'modelled': True, 'compass': [118, 230, 62], 'sea': [['BELEGAER', 105, 760, 34, 22, -1.5708], ['The Great Sea', 140, 760, 19, 7, -1.5708]]}, rg))
+    LANDS.append(('bel', R + '/bel/data', R + '/bel/cards', {'name': 'Beleriand', 'age': 'The First Age', 'sub': 'The lost lands of the Elder Days', 'modelled': True, 'compass': [182, 225, 56], 'sea': [['BELEGAER', 62, 820, 32, 20, -1.5708]],
+        'orn': {'border': 11, 'corner': 100, 'items': [['ship', 150, 640, 70], ['swanship', 470, 105, 70], ['serpent', 128, 1060, 105]], 'cartouche': [128, 400, 205]}}, rg))
+art = {}
+mime = {'jpg': 'image/jpeg', 'png': 'image/png'}
+for f in sorted(glob.glob(R + '/art/out/*')):
+    n, ext = os.path.basename(f).rsplit('.', 1); uri = f'data:{mime[ext]};base64,' + base64.b64encode(open(f, 'rb').read()).decode()
+    if n.startswith('orn_'): art.setdefault(n[4:], {})['orn'] = uri
+    elif n.startswith('tex_'): art.setdefault(n[4:], {})['tex'] = uri
+    else: k, kind = n.rsplit('_', 1); art.setdefault(k, {})[kind] = uri
 only = os.environ.get('LANDS')
 items = {}; lands = []; images = ''
 b64 = lambda p: base64.b64encode(open(p, 'rb').read()).decode()
 for tag, dd, cd, meta, rg in LANDS:
     if only and tag not in only.split(','): continue
     it, land = make_land(tag, dd, cd, meta, rg); items.update(it); lands.append(land)
+    for title, key in ART_PLACES.get(tag, {}).items():
+        hit = [i for i in it.values() if i['type'] == 'place' and i['title'] == title]
+        if not hit: warn.append(f'{tag}: no place titled {title!r} for art'); continue
+        if key in art: hit[0]['art'] = key
     images += f'<img id="img-height-{tag}" class="hide" alt="" src="data:image/png;base64,{b64(dd + "/height.png")}">\n<img id="img-base-{tag}" class="hide" alt="" src="data:image/jpeg;base64,{b64(dd + "/base.jpg")}">\n'
-data = {'lands': lands, 'items': items}
+data = {'lands': lands, 'items': items, 'art': art}
+print('art', {k: sorted(v) for k, v in art.items()})
 subprocess.run(['npx', 'esbuild', 'src/app.js', '--bundle', '--minify', '--format=iife', '--target=es2020', '--outfile=dist/app.js', '--log-level=warning'], cwd=B, check=True)
 app = open(B + '/dist/app.js').read().replace('</script', '<\\/script')
 html = open(B + '/src/template.html').read()

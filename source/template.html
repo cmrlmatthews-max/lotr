@@ -52,7 +52,7 @@ body{background:radial-gradient(ellipse at 50% 38%,#3b2c1e 0%,#1e150d 68%,#120c0
 #walker.on{display:block}
 #walker:before{content:"";position:absolute;left:-7px;top:-7px;width:14px;height:14px;background:#a11d0c;border:2px solid #fff3d0;transform:rotate(45deg);box-shadow:0 0 14px 4px rgba(255,220,150,.75)}
 
-.sheet{background:linear-gradient(180deg,var(--paper),var(--paper2));border:1px solid var(--edge);box-shadow:0 0 0 3px var(--paper2),0 0 0 4px var(--edge),0 14px 44px rgba(0,0,0,.55)}
+.sheet{background-color:var(--paper);background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='420' height='420'><filter id='a' x='0' y='0' width='100%25' height='100%25'><feTurbulence type='fractalNoise' baseFrequency='0.012' numOctaves='4' seed='4'/><feColorMatrix values='0 0 0 0 0.46  0 0 0 0 0.33  0 0 0 0 0.15  0.9 0 0 0 -0.34'/></filter><filter id='b' x='0' y='0' width='100%25' height='100%25'><feTurbulence type='fractalNoise' baseFrequency='0.7' numOctaves='2' seed='9'/><feColorMatrix values='0 0 0 0 0.35  0 0 0 0 0.25  0 0 0 0 0.12  0.5 0 0 0 -0.2'/></filter><rect width='420' height='420' filter='url(%23a)'/><rect width='420' height='420' filter='url(%23b)'/></svg>"),linear-gradient(180deg,var(--paper),var(--paper2));border:1px solid var(--edge);box-shadow:0 0 0 3px var(--paper2),0 0 0 4px var(--edge),0 14px 44px rgba(0,0,0,.55)}
 #panel{position:fixed;left:18px;top:18px;bottom:18px;width:288px;display:flex;flex-direction:column;transition:transform .35s}
 body.nopanel #panel{transform:translateX(-330px)}
 #panel header{position:relative;padding:16px 18px 10px;border-bottom:1px solid rgba(123,96,56,.5)}
@@ -106,6 +106,7 @@ body.nopanel #btn-panel{display:block}
 #card.open{transform:none}
 #card .x{position:sticky;float:right;top:0;margin:-8px -10px 0 0;border:0;background:none;font:26px/1 var(--serif);color:var(--ink2);cursor:pointer}
 #card .x:hover{color:var(--red)}
+.cardart{display:block;width:auto;max-width:86%;max-height:min(300px,34vh);margin:6px auto 0;mix-blend-mode:multiply}
 .kind{font-variant:small-caps;letter-spacing:.16em;color:var(--red);font-size:13.5px}
 #card h2{font:400 28px/1.1 "Hoefler Text",var(--serif);margin:3px 0 4px;color:#2a1c12}
 .date{font-style:italic;color:var(--ink2);font-size:14px}
@@ -168,6 +169,7 @@ body.ready #loading{opacity:0;pointer-events:none}
   </header>
   <div id="scroll">
     <details open><summary>Places</summary>
+      <label class="ck"><input type="checkbox" data-layer="art" checked>Landmark drawings</label>
       <label class="ck"><input type="checkbox" data-layer="settle" checked>Towns and havens</label>
       <label class="ck"><input type="checkbox" data-layer="strong" checked>Strongholds, gates, walls</label>
       <label class="ck"><input type="checkbox" data-layer="landmark" checked>Halls, inns, bridges, tombs</label>

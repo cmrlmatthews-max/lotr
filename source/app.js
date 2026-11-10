@@ -19,13 +19,22 @@ let EX = 18;
 const exFor = d => { const k = clamp((d - 110) / 800, 0, 1); return S.ex * (0.36 + 0.64 * k * k * (3 - 2 * k)); };
 const S = {
   ex: 18,
-  layers: { settle: true, strong: true, landmark: true, relief: true, woods: true, water: true, roads: true, realms: true, battles: true },
+  layers: { art: true, settle: true, strong: true, landmark: true, relief: true, woods: true, water: true, roads: true, realms: true, battles: true },
   src: { book: true, film: true, series: true },
   sel: null, journey: null,
 };
 const LAYER_GROUP = { Towns: 'settle', Harbors: 'settle', Fortresses: 'strong', Doors_Gates: 'strong', Walls: 'strong', Buildings: 'landmark', Bridges: 'landmark', Fords: 'landmark', Cave_entrances: 'landmark', Falls: 'landmark', Graves_Tombs: 'landmark', Mountains: 'relief', Mountains_of_Moria: 'relief', Hills: 'relief', Valleys: 'relief', Fields: 'relief', Islands: 'relief', Forests: 'woods', Swamps: 'woods', Rivers: 'water', Lakes: 'water', Bays: 'water', Roads: 'roads' };
 const LAYER_CLASS = { Towns: 'pt town', Harbors: 'pt town', Fortresses: 'pt fort', Doors_Gates: 'pt fort', Buildings: 'pt bld', Bridges: 'pt bld', Fords: 'pt bld', Cave_entrances: 'pt bld', Falls: 'pt bld', Graves_Tombs: 'pt bld', Walls: 'ar road', Mountains: 'ar mtn', Mountains_of_Moria: 'ar mtn', Hills: 'ar hill', Valleys: 'ar hill', Fields: 'ar hill', Islands: 'ar hill', Forests: 'ar wood', Swamps: 'ar wood', Rivers: 'ar water', Lakes: 'ar water', Bays: 'ar water', Roads: 'ar road' };
 const TYPE_NAME = { place: 'Place', realm: 'Realm', people: 'People', battle: 'Battle', journey: 'Journey' };
+
+/* ---------- art (Gemini drawings prepared by art/process.py) ---------- */
+const ART = D.art || {}, artImg = {};
+function loadArt() {
+  const ps = [];
+  for (const [k, v] of Object.entries(ART)) for (const kind of ['sprite', 'orn', 'tex']) if (v[kind]) { const im = new Image(); im.src = v[kind]; artImg[k + ':' + kind] = im; ps.push(im.decode().catch(() => {})); }
+  return Promise.all(ps);
+}
+const haveArt = k => artImg[k] && artImg[k].naturalWidth > 0;
 
 /* ---------- terrain data ---------- */
 let hImg, bImg;
@@ -36,6 +45,18 @@ function decodeHeights() {
   const x = c.getContext('2d', { willReadFrequently: true }); x.drawImage(hImg, 0, 0);
   const d = x.getImageData(0, 0, GW, GH).data; heights = new Float32Array(GW * GH);
   for (let i = 0, j = 0; i < heights.length; i++, j += 4) heights[i] = (d[j] * 256 + d[j + 1]) / 65535 * 4.0; // km
+}
+function applyCanopy() {
+  // forests stand a little above the ground: rasterise the forest shapes on the height grid and add a rough canopy
+  const c = document.createElement('canvas'); c.width = GW; c.height = GH; const x = c.getContext('2d', { willReadFrequently: true });
+  x.fillStyle = '#000'; x.fillRect(0, 0, GW, GH); x.fillStyle = '#fff';
+  for (const f of FE) if (f.layer === 'Forests' && f.geom) {
+    x.beginPath(); for (const p of f.geom) { for (let i = 0; i < p.length; i += 2) { const X = p[i] / W * (GW - 1), Y = (1 - p[i + 1] / H) * (GH - 1); i ? x.lineTo(X, Y) : x.moveTo(X, Y); } x.closePath(); }
+    x.fill('evenodd');
+  }
+  const d = x.getImageData(0, 0, GW, GH).data, m = new Float32Array(GW * GH);
+  for (let j = 1; j < GH - 1; j++) for (let i = 1; i < GW - 1; i++) { const o = j * GW + i; m[o] = (d[o * 4] * 2 + d[(o - 1) * 4] + d[(o + 1) * 4] + d[(o - GW) * 4] + d[(o + GW) * 4]) / 1530; }
+  for (let o = 0; o < m.length; o++) if (m[o] > 0.05 && heights[o] > 0) { const n = Math.sin(o * 12.9898 + (o % GW) * 78.233) * 43758.5453; heights[o] += m[o] * (0.04 + 0.05 * (n - Math.floor(n))); }
 }
 function hAt(x, y) {
   const fx = clamp(x / W * (GW - 1), 0, GW - 1.001), fy = clamp((1 - y / H) * (GH - 1), 0, GH - 1.001);
@@ -59,6 +80,34 @@ const terrain = new THREE.Group(); scene.add(terrain);
 let tex, cv, ctx, KX, KY, mesh, slab;
 const lineMats = [];
 
+let woodTex = null; const gradTex = {};
+function woodTexture() {
+  if (woodTex) return woodTex;
+  const c = document.createElement('canvas'); c.width = c.height = 1024; const x = c.getContext('2d');
+  if (haveArt('wood:tex')) x.drawImage(artImg['wood:tex'], 0, 0, 1024, 1024);
+  else {
+    let seed = 5; const rnd = () => (seed = (seed * 16807) % 2147483647) / 2147483647; const planks = 5, pw = 1024 / planks;
+    for (let p = 0; p < planks; p++) {
+      const tone = 0.8 + rnd() * 0.32; x.fillStyle = `rgb(${82 * tone | 0},${52 * tone | 0},${30 * tone | 0})`; x.fillRect(p * pw, 0, pw + 1, 1024);
+      x.save(); x.beginPath(); x.rect(p * pw, 0, pw, 1024); x.clip();
+      for (let g = 0; g < 80; g++) {
+        const gx = p * pw + rnd() * pw, al = 0.05 + rnd() * 0.13, ph = rnd() * 7, amp = 1 + rnd() * 6, fr = 0.003 + rnd() * 0.009;
+        x.strokeStyle = rnd() < 0.72 ? `rgba(26,15,6,${al})` : `rgba(160,116,70,${al * 0.8})`; x.lineWidth = 0.6 + rnd() * 1.8; x.beginPath();
+        for (let y = 0; y <= 1024; y += 16) { const X = gx + Math.sin(y * fr + ph) * amp; y ? x.lineTo(X, y) : x.moveTo(X, y); } x.stroke();
+      }
+      for (let k = 0; k < 2; k++) { const kx = p * pw + 30 + rnd() * (pw - 60), ky = rnd() * 1024; for (let r = 4; r < 26; r += 4) { x.strokeStyle = `rgba(22,12,5,${0.32 - r * 0.009})`; x.lineWidth = 1.4; x.beginPath(); x.ellipse(kx, ky, r * 0.55, r, 0, 0, 7); x.stroke(); } }
+      x.restore(); x.fillStyle = 'rgba(10,6,3,.8)'; x.fillRect(p * pw - 1.5, 0, 3, 1024);
+    }
+  }
+  woodTex = new THREE.CanvasTexture(c); woodTex.wrapS = woodTex.wrapT = THREE.MirroredRepeatWrapping; woodTex.colorSpace = THREE.SRGBColorSpace; woodTex.anisotropy = renderer.capabilities.getMaxAnisotropy(); return woodTex;
+}
+function gradTexture(kind) {
+  if (gradTex[kind]) return gradTex[kind];
+  const c = document.createElement('canvas'); c.width = c.height = 512; const x = c.getContext('2d');
+  if (kind === 'pool') { const g = x.createRadialGradient(256, 256, 30, 256, 256, 256); g.addColorStop(0, 'rgba(255,196,120,.10)'); g.addColorStop(0.16, 'rgba(60,34,14,.10)'); g.addColorStop(0.42, 'rgba(14,8,4,.72)'); g.addColorStop(1, 'rgba(8,5,3,.97)'); x.fillStyle = g; x.fillRect(0, 0, 512, 512); }
+  else { x.filter = 'none'; const m = 512 * 0.07; x.shadowColor = 'rgba(0,0,0,.85)'; x.shadowBlur = m * 0.9; x.shadowOffsetX = m * 0.25; x.shadowOffsetY = m * 0.35; x.fillStyle = 'rgba(0,0,0,.55)'; x.fillRect(m, m, 512 - 2 * m, 512 - 2 * m); }
+  return gradTex[kind] = new THREE.CanvasTexture(c);
+}
 function buildTerrain() {
   const nx = Math.floor((GW - 1) / STEP) + 1, ny = Math.floor((GH - 1) / STEP) + 1;
   const pos = new Float32Array(nx * ny * 3), uv = new Float32Array(nx * ny * 2);
@@ -85,11 +134,17 @@ function buildTerrain() {
   gx.putImageData(gd, 0, 0); const grain = new THREE.CanvasTexture(gc); grain.wrapS = grain.wrapT = THREE.RepeatWrapping;
   const mat = new THREE.MeshBasicMaterial({ map: tex });
   mat.onBeforeCompile = sh => { sh.uniforms.grain = { value: grain }; sh.fragmentShader = sh.fragmentShader.replace('#include <common>', '#include <common>\nuniform sampler2D grain;').replace('#include <map_fragment>', '#include <map_fragment>\n diffuseColor.rgb *= 0.90 + 0.20 * texture2D(grain, vMapUv * vec2(150.0, 123.0)).r; diffuseColor.rgb *= 0.95 + 0.10 * texture2D(grain, vMapUv * vec2(23.0, 19.0) + 0.37).r;'); };
-  mesh = new THREE.Mesh(g, mat);
+  mesh = new THREE.Mesh(g, mat); mesh.userData.grain = grain;
   terrain.add(mesh);
-  // underside slab so the sheet reads as an object on a table
-  slab = new THREE.Mesh(new THREE.BoxGeometry(W + 26, 12, H + 26), new THREE.MeshBasicMaterial({ color: 0x4a3622 }));
-  slab.position.y = -9; scene.add(slab);
+  // the sheet lies on a wooden table in a pool of warm light
+  slab = new THREE.Group(); const T = Math.max(W, H) * 5;
+  const sheet = new THREE.Mesh(new THREE.BoxGeometry(W + 8, 3, H + 8), new THREE.MeshBasicMaterial({ color: 0xbfa878 })); sheet.position.y = -4.2; slab.add(sheet);
+  const flatPlane = (w, h, y, mat) => { const m = new THREE.Mesh(new THREE.PlaneGeometry(w, h), mat); m.rotation.x = -Math.PI / 2; m.position.y = y; slab.add(m); return m; };
+  const wt = woodTexture(); wt.repeat.set(T / 900, T / 900);
+  flatPlane(T, T, -9, new THREE.MeshBasicMaterial({ map: wt }));
+  flatPlane(W * 1.16, H * 1.16, -8.6, new THREE.MeshBasicMaterial({ map: gradTexture('shadow'), transparent: true, depthWrite: false }));
+  flatPlane(T, T, -8.3, new THREE.MeshBasicMaterial({ map: gradTexture('pool'), transparent: true, depthWrite: false }));
+  scene.add(slab);
   terrain.scale.y = EX;
 }
 
@@ -101,24 +156,45 @@ function trace(geom, close) {
 function pattern(kind) {
   const c = document.createElement('canvas'), s = cv.width / 3920; c.width = Math.round(26 * s); c.height = Math.round(22 * s);
   const x = c.getContext('2d'); x.scale(s, s); x.lineCap = 'round';
-  if (kind === 'wood') {
-    x.strokeStyle = 'rgba(58,76,40,.62)'; x.fillStyle = 'rgba(96,120,64,.30)'; x.lineWidth = 1;
-    for (const [cx, cy] of [[6, 8], [19, 5], [13, 17]]) { x.beginPath(); x.arc(cx, cy, 3.6, Math.PI, 0); x.lineTo(cx + 3.6, cy + 1); x.lineTo(cx - 3.6, cy + 1); x.closePath(); x.fill(); x.stroke(); x.beginPath(); x.moveTo(cx, cy + 1); x.lineTo(cx, cy + 3.6); x.stroke(); }
+  if (kind === 'canopy') {
+    const T = 72; c.width = c.height = Math.round(T * s); x.setTransform(s, 0, 0, s, 0, 0);
+    let seed = 23; const rnd = () => (seed = (seed * 16807) % 2147483647) / 2147483647;
+    for (let i = 0; i < 60; i++) { const tx = rnd() * T, ty = rnd() * T, r = 2.2 + rnd() * 3.4;
+      for (const ox of [-T, 0, T]) for (const oy of [-T, 0, T]) { const cx = tx + ox, cy = ty + oy; if (cx < -8 || cx > T + 8 || cy < -8 || cy > T + 8) continue;
+        x.beginPath(); x.arc(cx + r * 0.35, cy + r * 0.35, r, 0, 7); x.fillStyle = 'rgba(40,54,26,.11)'; x.fill();
+        x.beginPath(); x.arc(cx - r * 0.2, cy - r * 0.2, r * 0.8, 0, 7); x.fillStyle = 'rgba(236,232,180,.13)'; x.fill(); } }
+  } else if (kind === 'wood') {
+    const T = 104; c.width = c.height = Math.round(T * s); x.setTransform(s, 0, 0, s, 0, 0); x.lineCap = 'round';
+    let seed = 7; const rnd = () => (seed = (seed * 16807) % 2147483647) / 2147483647;
+    const trees = []; for (let i = 0; i < 46; i++) trees.push([rnd() * T, rnd() * T, 2.3 + rnd() * 2.0]);
+    trees.sort((p, q) => p[1] - q[1]);
+    for (const [tx, ty, r] of trees) for (const ox of [-T, 0, T]) for (const oy of [-T, 0, T]) {
+      const cx = tx + ox, cy = ty + oy; if (cx < -9 || cx > T + 9 || cy < -9 || cy > T + 9) continue;
+      x.beginPath(); x.arc(cx, cy, r, Math.PI, 0); x.quadraticCurveTo(cx + r, cy + r * 0.6, cx, cy + r * 0.5); x.quadraticCurveTo(cx - r, cy + r * 0.6, cx - r, cy); x.closePath();
+      x.fillStyle = 'rgba(126,146,84,.42)'; x.fill(); x.strokeStyle = 'rgba(48,66,34,.55)'; x.lineWidth = 0.8; x.stroke();
+      x.beginPath(); x.arc(cx + r * 0.12, cy + r * 0.02, r * 0.7, -0.25, 1.5); x.strokeStyle = 'rgba(38,52,26,.42)'; x.lineWidth = 0.9; x.stroke();
+      x.beginPath(); x.moveTo(cx, cy + r * 0.5); x.lineTo(cx, cy + r * 0.5 + 1.9); x.strokeStyle = 'rgba(60,44,26,.6)'; x.lineWidth = 0.9; x.stroke();
+    }
   } else {
     x.strokeStyle = 'rgba(60,84,84,.6)'; x.lineWidth = 1;
     for (const [cx, cy] of [[6, 7], [18, 15]]) { x.beginPath(); x.moveTo(cx - 4, cy); x.lineTo(cx + 4, cy); x.moveTo(cx - 2, cy); x.lineTo(cx - 3, cy - 3); x.moveTo(cx, cy); x.lineTo(cx, cy - 4); x.moveTo(cx + 2, cy); x.lineTo(cx + 3, cy - 3); x.stroke(); }
   }
   return ctx.createPattern(c, 'repeat');
 }
-let patWood, patSwamp;
+let patWood, patSwamp, patCanopy;
 function lineLen(geom) { let L = 0; for (const p of geom) for (let i = 2; i < p.length; i += 2) L += Math.hypot(p[i] - p[i - 2], p[i + 1] - p[i - 1]); return L; }
 function redraw() {
   const s = cv.width / 3920; ctx.setLineDash([]); ctx.globalAlpha = 1;
   ctx.drawImage(bImg, 0, 0, cv.width, cv.height);
   ctx.lineJoin = 'round'; ctx.lineCap = 'round';
-  patWood = patWood || pattern('wood'); patSwamp = patSwamp || pattern('swamp');
+  patWood = patWood || pattern('wood'); patSwamp = patSwamp || pattern('swamp'); patCanopy = patCanopy || pattern('canopy');
   if (S.layers.woods) for (const f of FE) {
-    if (f.layer === 'Forests') { trace(f.geom, true); ctx.fillStyle = 'rgba(104,126,66,.24)'; ctx.fill('evenodd'); ctx.fillStyle = patWood; ctx.fill('evenodd'); ctx.strokeStyle = 'rgba(58,76,40,.45)'; ctx.lineWidth = 1.1 * s; ctx.stroke(); }
+    if (f.layer === 'Forests') {
+      trace(f.geom, true);
+      ctx.fillStyle = 'rgba(104,126,66,.20)'; ctx.fill('evenodd'); ctx.fillStyle = patCanopy; ctx.fill('evenodd');
+      ctx.fillStyle = patWood; ctx.fill('evenodd');
+      ctx.save(); ctx.clip('evenodd'); ctx.strokeStyle = 'rgba(44,62,30,.16)'; ctx.lineWidth = 11 * s; ctx.stroke(); ctx.strokeStyle = 'rgba(44,62,30,.45)'; ctx.lineWidth = 1.4 * s; ctx.stroke(); ctx.restore();
+    }
     if (f.layer === 'Swamps') { trace(f.geom, true); ctx.fillStyle = 'rgba(96,128,120,.20)'; ctx.fill('evenodd'); ctx.fillStyle = patSwamp; ctx.fill('evenodd'); }
   }
   if (S.layers.water) {
@@ -127,19 +203,39 @@ function redraw() {
       ctx.save(); ctx.clip('evenodd'); ctx.strokeStyle = 'rgba(62,98,116,.35)'; ctx.lineWidth = 7 * s; ctx.stroke(); ctx.restore();
     }
   }
-  if (LAND.compass) drawCompass(...LAND.compass); drawSeaNames(s);
+  drawOrnaments(s); drawSeaNames(s);
   tex.needsUpdate = true; dirty = true;
 }
-function drawCompass(x, y, r) {
+function orn(key, x, y, wkm, rot = 0, alpha = 0.9) {
+  if (!haveArt(key + ':orn')) return 0; const im = artImg[key + ':orn'], w = wkm * KX, h = w * im.naturalHeight / im.naturalWidth;
+  ctx.save(); ctx.translate(x * KX, (H - y) * KY); ctx.rotate(rot); ctx.globalAlpha = alpha; ctx.drawImage(im, -w / 2, -h / 2, w, h); ctx.restore(); return h;
+}
+function drawOrnaments(s) {
+  const O = LAND.orn || {};
+  if (O.border) {
+    const m = O.border * KX, cw = cv.width, ch = cv.height; ctx.setLineDash([]); ctx.strokeStyle = 'rgba(58,42,27,.72)'; ctx.lineWidth = 2.4 * s; ctx.strokeRect(m, m, cw - 2 * m, ch - 2 * m);
+    ctx.lineWidth = 0.9 * s; ctx.strokeRect(m + 6 * s, m + 6 * s, cw - 2 * m - 12 * s, ch - 2 * m - 12 * s);
+    if (haveArt('corner:orn')) { const im = artImg['corner:orn'], w = (O.corner || 120) * KX, h = w * im.naturalHeight / im.naturalWidth; for (const [cx, cy, r] of [[m, m, 0], [cw - m, m, Math.PI / 2], [cw - m, ch - m, Math.PI], [m, ch - m, -Math.PI / 2]]) { ctx.save(); ctx.translate(cx, cy); ctx.rotate(r); ctx.globalAlpha = 0.9; ctx.drawImage(im, 4 * s, 4 * s, w, h); ctx.restore(); } }
+  }
+  for (const [key, x, y, w, rot] of O.items || []) orn(key, x, y, w, rot || 0, 0.82);
+  if (LAND.compass) { const [x, y, r] = LAND.compass; drawCompass(x, y, r, orn('compass', x, y, r * 2.5) > 0); }
+  if (O.cartouche) {
+    const [x, y, w] = O.cartouche, hpx = orn('cartouche', x, y, w, 0, 0.95), u = w * KX;
+    ctx.save(); ctx.translate(x * KX, (H - y) * KY); ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
+    ctx.fillStyle = 'rgba(46,32,20,.92)'; ctx.font = `${u * (hpx ? 0.082 : 0.11)}px "Luminari","Hoefler Text",Baskerville,Georgia,serif`; ctx.fillText(LAND.name.toUpperCase(), 0, -u * 0.012);
+    ctx.fillStyle = 'rgba(142,47,31,.92)'; ctx.font = `italic ${u * 0.054}px "Hoefler Text",Baskerville,Georgia,serif`; ctx.fillText(LAND.age, 0, u * 0.068); ctx.restore();
+  }
+}
+function drawCompass(x, y, r, artDone) {
   const X = x * KX, Y = (H - y) * KY, R = r * KX; ctx.save(); ctx.translate(X, Y);
   ctx.strokeStyle = 'rgba(58,42,27,.75)'; ctx.fillStyle = 'rgba(58,42,27,.75)'; ctx.lineWidth = Math.max(1, R / 70);
-  for (const rr of [1, 0.93, 0.52]) { ctx.beginPath(); ctx.arc(0, 0, R * rr, 0, 7); ctx.stroke(); }
-  for (let k = 0; k < 16; k++) {
+  if (!artDone) for (const rr of [1, 0.93, 0.52]) { ctx.beginPath(); ctx.arc(0, 0, R * rr, 0, 7); ctx.stroke(); }
+  if (!artDone) for (let k = 0; k < 16; k++) {
     const a = k * Math.PI / 8, len = k % 4 === 0 ? 1.18 : k % 2 === 0 ? 0.8 : 0.5, wd = k % 4 === 0 ? 0.11 : 0.075;
     ctx.save(); ctx.rotate(a); ctx.beginPath(); ctx.moveTo(0, -R * len); ctx.lineTo(R * wd, 0); ctx.lineTo(-R * wd, 0); ctx.closePath();
     ctx.stroke(); ctx.beginPath(); ctx.moveTo(0, -R * len); ctx.lineTo(R * wd, 0); ctx.lineTo(0, 0); ctx.closePath(); ctx.fillStyle = k === 0 ? 'rgba(142,47,31,.85)' : 'rgba(58,42,27,.7)'; ctx.fill(); ctx.restore();
   }
-  ctx.fillStyle = 'rgba(142,47,31,.9)'; ctx.font = `600 ${R * 0.34}px "Hoefler Text",Baskerville,Georgia,serif`; ctx.textAlign = 'center'; ctx.fillText('N', 0, -R * 1.28);
+  ctx.fillStyle = 'rgba(142,47,31,.9)'; ctx.font = `600 ${R * 0.34}px "Hoefler Text",Baskerville,Georgia,serif`; ctx.textAlign = 'center'; ctx.fillText('N', 0, -R * (artDone ? 1.34 : 1.28));
   // scale bar
   const u = 100 * KX; ctx.translate(-u * 1.5, R * 1.62); ctx.fillStyle = 'rgba(58,42,27,.8)';
   for (let k = 0; k < 3; k++) { ctx.beginPath(); ctx.rect(k * u, 0, u, R * 0.07); k % 2 ? ctx.stroke() : ctx.fill(); }
@@ -252,6 +348,22 @@ function buildInk() {
   ink.water = ink.water.filter(Boolean); ink.roads = ink.roads.filter(Boolean); ink.realms = ink.realms.filter(Boolean);
 }
 function syncInk() { ink.water.forEach(l => l.visible = S.layers.water); ink.roads.forEach(l => l.visible = S.layers.roads); ink.realms.forEach(l => l.visible = S.layers.realms); }
+const spriteGroup = new THREE.Group(); scene.add(spriteGroup); let sprites = [];
+function buildSprites() {
+  for (const it of Object.values(ITEMS)) {
+    if (it.land !== LAND.id || !it.art || !haveArt(it.art + ':sprite')) continue;
+    const t = new THREE.Texture(artImg[it.art + ':sprite']); t.colorSpace = THREE.SRGBColorSpace; t.needsUpdate = true;
+    const sp = new THREE.Sprite(new THREE.SpriteMaterial({ map: t, transparent: true, depthWrite: false, sizeAttenuation: false, depthTest: false })); sp.center.set(0.5, 0.06);
+    sp.userData = { it, hy: hAt(it.x, it.y), L: labels.find(l => l.item === it), px: 60 }; sp.position.set(wx(it.x), 0, wz(it.y)); sp.renderOrder = 5; spriteGroup.add(sp); sprites.push(sp);
+  }
+}
+function updateSprites() {
+  for (const sp of sprites) {
+    sp.visible = S.layers.art; if (!sp.visible) continue;
+    sp.position.y = (sp.userData.hy + 0.03) * EX; const d = sp.position.distanceTo(camera.position), px = clamp(62 + 96 * (1 - d / 1500), 62, 158), k = px / vh * 0.65;
+    sp.scale.set(k, k, 1); sp.userData.px = px;
+  }
+}
 let hiLines = [];
 function setHighlight(it) {
   hiLines.forEach(dropLine); hiLines = [];
@@ -300,6 +412,7 @@ function renderCard(it) {
   let h = `<button class="x" data-close title="Close (Esc)">&times;</button><div class="kind">${esc(it.kind || TYPE_NAME[it.type])}${it.status ? ' &middot; ' + esc(it.status) : ''}</div><h2>${esc(it.title)}</h2>`;
   if (it.date || it.dates) h += `<div class="date">${esc(it.date || it.dates)}${it.war ? ' &middot; ' + esc(it.war) : ''}</div>`;
   if (it.travellers) h += `<div class="date">${esc(it.travellers)} &middot; <em>${esc(it.source || '')}</em></div>`;
+  if (it.art && ART[it.art] && ART[it.art].card) h += `<img class="cardart" alt="" src="${ART[it.art].card}">`;
   if (it.blurb) h += `<p class="blurb">${esc(it.blurb)}</p>`;
   if (it.names && Object.keys(it.names).length) h += `<div class="names">${Object.entries(it.names).map(([k, v]) => `<span><b>${esc(k)}</b> ${esc(v)}</span>`).join('')}</div>`;
   if (it.sides) h += `<div class="sides"><div><b>Victor / defender</b>${it.sides.a.map(esc).join('<br>')}</div><div><b>Opponent</b>${it.sides.b.map(esc).join('<br>')}</div></div>${it.outcome ? `<p class="outcome"><b>Outcome.</b> ${esc(it.outcome)}</p>` : ''}`;
@@ -336,7 +449,13 @@ card.addEventListener('click', e => {
 function hitLabel(x, y) {
   let best = null;
   for (const L of labels) if (L.on && L.rect && x >= L.rect[0] && x <= L.rect[2] && y >= L.rect[1] && y <= L.rect[3]) { if (L.group !== 'realms') return L; best = best || L; }
-  return best;
+  if (best) return best;
+  for (const sp of sprites) if (sp.visible) {
+    _v.copy(sp.position).project(camera); if (_v.z > 1 || _v.z < -1) continue;
+    const sx = (_v.x * 0.5 + 0.5) * vw, sy = (-_v.y * 0.5 + 0.5) * vh, px = sp.userData.px;
+    if (x >= sx - px * 0.45 && x <= sx + px * 0.45 && y >= sy - px * 0.92 && y <= sy + 3) return sp.userData.L || null;
+  }
+  return null;
 }
 let downXY = null, hover = null;
 canvas.addEventListener('pointerdown', e => { downXY = [e.clientX, e.clientY]; });
@@ -454,9 +573,10 @@ function home() { tween = null; const k = Math.max(W, H * 1.13) / 2352, cx = W *
 function clearLand() {
   if (J) stopJourney(true); closeCard(); hiLines.forEach(dropLine); hiLines = [];
   for (const k of ['water', 'roads', 'realms']) { ink[k].forEach(dropLine); ink[k] = []; }
-  if (mesh) { terrain.remove(mesh); mesh.geometry.dispose(); mesh.material.map.dispose(); mesh.material.dispose(); mesh = null; }
-  if (slab) { scene.remove(slab); slab.geometry.dispose(); slab.material.dispose(); slab = null; }
-  labels.length = 0; labelLayer.innerHTML = ''; hover = null; patWood = patSwamp = null; canvas.style.cursor = '';
+  if (mesh) { terrain.remove(mesh); mesh.geometry.dispose(); mesh.material.map.dispose(); if (mesh.userData.grain) mesh.userData.grain.dispose(); mesh.material.dispose(); mesh = null; }
+  if (slab) { scene.remove(slab); slab.traverse(o => { if (o.geometry) o.geometry.dispose(); if (o.material) o.material.dispose(); }); slab = null; }
+  for (const sp of sprites) { spriteGroup.remove(sp); sp.material.map.dispose(); sp.material.dispose(); } sprites = [];
+  labels.length = 0; labelLayer.innerHTML = ''; hover = null; patWood = patSwamp = patCanopy = null; canvas.style.cursor = '';
 }
 let landBusy = null;
 function setLand(id) {
@@ -468,7 +588,7 @@ function setLand(id) {
   $('#land-name').textContent = L.name; $('#land-sub').textContent = L.sub; $('#land-note').classList.toggle('hide', !L.modelled);
   landBusy = Promise.all([hImg.decode(), bImg.decode()]).then(() => {
     if (LAND !== L) return;
-    decodeHeights(); buildTerrain(); redraw(); buildInk(); syncInk(); buildLabels(); buildPanel();
+    decodeHeights(); applyCanopy(); buildTerrain(); redraw(); buildInk(); syncInk(); buildLabels(); buildSprites(); buildPanel();
     controls.maxDistance = Math.max(W, H) * 1.85; home(); landBusy = null; dirty = true;
   });
   return landBusy;
@@ -491,11 +611,11 @@ function frame(now) {
   const cx = camera.position.x + W / 2, cy = H / 2 - camera.position.z;
   if (cx > 0 && cx < W && cy > 0 && cy < H) { const fl = hAt(cx, cy) * EX + 6; if (camera.position.y < fl) { camera.position.y = fl; dirty = true; } }
   if (J) { stepJourney(dt); if (J && J.playing) dirty = true; }
-  if (dirty) { dirty = false; const ds = 1 / (0.0075 * camera.position.distanceTo(controls.target)); for (const m of dashMats) m.dashScale = ds; camera.updateMatrixWorld(); renderer.render(scene, camera); updateLabels(); if (J) stepJourney(0); }
+  if (dirty) { dirty = false; const ds = 1 / (0.0075 * camera.position.distanceTo(controls.target)); for (const m of dashMats) m.dashScale = ds; camera.updateMatrixWorld(); updateSprites(); renderer.render(scene, camera); updateLabels(); if (J) stepJourney(0); }
   requestAnimationFrame(frame);
 }
 async function boot() {
-  resize(); buildIndex();
+  resize(); buildIndex(); await loadArt();
   $('#lands').innerHTML = D.lands.length > 1 ? D.lands.map(l => `<button data-land="${l.id}"><b>${esc(l.age)}</b>${esc(l.name)}</button>`).join('') : '';
   await setLand(D.lands.some(l => l.id === params.get('land')) ? params.get('land') : D.lands[0].id);
   $('#exv').textContent = S.ex + '×'; $('#ex').value = S.ex;
