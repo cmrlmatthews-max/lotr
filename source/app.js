@@ -15,10 +15,10 @@ const STEP = Math.max(1, parseInt(params.get('q') || '1', 10));
 const D = JSON.parse($('#me-data').textContent);
 let W = 1, H = 1, LAND = null, FE = [];
 const ITEMS = D.items;
-let EX = 18;
+let EX = 15;
 const exFor = d => { const k = clamp((d - 110) / 800, 0, 1); return S.ex * (0.36 + 0.64 * k * k * (3 - 2 * k)); };
 const S = {
-  ex: 18,
+  ex: 15,
   layers: { art: true, settle: true, strong: true, landmark: true, relief: true, woods: true, water: true, roads: true, realms: true, battles: true },
   src: { book: true, film: true, series: true },
   sel: null, journey: null,
@@ -138,7 +138,7 @@ function buildTerrain() {
   terrain.add(mesh);
   // the sheet lies on a wooden table in a pool of warm light
   slab = new THREE.Group(); const T = Math.max(W, H) * 5;
-  const sheet = new THREE.Mesh(new THREE.BoxGeometry(W + 8, 3, H + 8), new THREE.MeshBasicMaterial({ color: 0xbfa878 })); sheet.position.y = -4.2; slab.add(sheet);
+  const sheet = new THREE.Mesh(new THREE.BoxGeometry(W + 8, 3, H + 8), new THREE.MeshBasicMaterial({ color: 0xb09a70 })); sheet.position.y = -4.2; slab.add(sheet);
   const flatPlane = (w, h, y, mat) => { const m = new THREE.Mesh(new THREE.PlaneGeometry(w, h), mat); m.rotation.x = -Math.PI / 2; m.position.y = y; slab.add(m); return m; };
   const wt = woodTexture(); wt.repeat.set(T / 900, T / 900);
   flatPlane(T, T, -9, new THREE.MeshBasicMaterial({ map: wt }));
@@ -161,22 +161,31 @@ function pattern(kind) {
     let seed = 23; const rnd = () => (seed = (seed * 16807) % 2147483647) / 2147483647;
     for (let i = 0; i < 60; i++) { const tx = rnd() * T, ty = rnd() * T, r = 2.2 + rnd() * 3.4;
       for (const ox of [-T, 0, T]) for (const oy of [-T, 0, T]) { const cx = tx + ox, cy = ty + oy; if (cx < -8 || cx > T + 8 || cy < -8 || cy > T + 8) continue;
-        x.beginPath(); x.arc(cx + r * 0.35, cy + r * 0.35, r, 0, 7); x.fillStyle = 'rgba(40,54,26,.11)'; x.fill();
-        x.beginPath(); x.arc(cx - r * 0.2, cy - r * 0.2, r * 0.8, 0, 7); x.fillStyle = 'rgba(236,232,180,.13)'; x.fill(); } }
+        x.beginPath(); x.arc(cx + r * 0.35, cy + r * 0.35, r, 0, 7); x.fillStyle = 'rgba(52,46,24,.10)'; x.fill();
+        x.beginPath(); x.arc(cx - r * 0.2, cy - r * 0.2, r * 0.8, 0, 7); x.fillStyle = 'rgba(232,222,180,.10)'; x.fill(); } }
   } else if (kind === 'wood') {
-    const T = 104; c.width = c.height = Math.round(T * s); x.setTransform(s, 0, 0, s, 0, 0); x.lineCap = 'round';
+    // a closed canopy: rows of small three-lobed crowns, each row in front of the row behind it, dark understory in the few gaps
+    const T = 112, dx = 5.6, dy = 3.5; c.width = c.height = Math.round(T * s); x.setTransform(c.width / T, 0, 0, c.height / T, 0, 0); x.lineCap = 'round'; x.lineJoin = 'round';
+    x.fillStyle = 'rgb(128,118,80)'; x.fillRect(0, 0, T, T);
     let seed = 7; const rnd = () => (seed = (seed * 16807) % 2147483647) / 2147483647;
-    const trees = []; for (let i = 0; i < 46; i++) trees.push([rnd() * T, rnd() * T, 2.3 + rnd() * 2.0]);
+    const trees = [];
+    for (let j = 0; j < T / dy; j++) for (let i = 0; i < T / dx; i++) {
+      const tx = (i + (j % 2) * 0.5) * dx + (rnd() - 0.5) * 3.4, ty = j * dy + (rnd() - 0.5) * 2.4, r = 2.35 + rnd() * rnd() * 2.3, tone = rnd();
+      for (const ox of [-T, 0, T]) for (const oy of [-T, 0, T]) { const cx = tx + ox, cy = ty + oy; if (cx > -8 && cx < T + 8 && cy > -8 && cy < T + 8) trees.push([cx, cy, r, tone]); }
+    }
     trees.sort((p, q) => p[1] - q[1]);
-    for (const [tx, ty, r] of trees) for (const ox of [-T, 0, T]) for (const oy of [-T, 0, T]) {
-      const cx = tx + ox, cy = ty + oy; if (cx < -9 || cx > T + 9 || cy < -9 || cy > T + 9) continue;
-      x.beginPath(); x.arc(cx, cy, r, Math.PI, 0); x.quadraticCurveTo(cx + r, cy + r * 0.6, cx, cy + r * 0.5); x.quadraticCurveTo(cx - r, cy + r * 0.6, cx - r, cy); x.closePath();
-      x.fillStyle = 'rgba(126,146,84,.42)'; x.fill(); x.strokeStyle = 'rgba(48,66,34,.55)'; x.lineWidth = 0.8; x.stroke();
-      x.beginPath(); x.arc(cx + r * 0.12, cy + r * 0.02, r * 0.7, -0.25, 1.5); x.strokeStyle = 'rgba(38,52,26,.42)'; x.lineWidth = 0.9; x.stroke();
-      x.beginPath(); x.moveTo(cx, cy + r * 0.5); x.lineTo(cx, cy + r * 0.5 + 1.9); x.strokeStyle = 'rgba(60,44,26,.6)'; x.lineWidth = 0.9; x.stroke();
+    const INKC = '52,43,24';
+    for (const [cx, cy, r, tone] of trees) {
+      const lobes = [[cx, cy, r], [cx - r * 0.66, cy + r * 0.34, r * 0.64], [cx + r * 0.66, cy + r * 0.34, r * 0.64]];
+      x.strokeStyle = `rgba(${INKC},.6)`; x.lineWidth = 0.9; x.beginPath(); x.moveTo(cx, cy + r * 0.7); x.lineTo(cx, cy + r * 1.3); x.stroke();          // trunk
+      x.strokeStyle = `rgba(${INKC},.85)`; x.lineWidth = 1.0; for (const [a, b, q] of lobes) { x.beginPath(); x.arc(a, b, q, 0, 7); x.stroke(); }       // outline
+      x.fillStyle = tone < 0.3 ? 'rgb(168,160,114)' : tone < 0.75 ? 'rgb(186,178,134)' : 'rgb(200,192,151)'; for (const [a, b, q] of lobes) { x.beginPath(); x.arc(a, b, q, 0, 7); x.fill(); }
+      x.fillStyle = `rgba(${INKC},.2)`; x.beginPath(); x.arc(cx + r * 0.55, cy + r * 0.42, r * 0.62, 0, 7); x.fill(); x.fillStyle = 'rgba(238,230,194,.34)'; x.beginPath(); x.arc(cx - r * 0.3, cy - r * 0.3, r * 0.48, 0, 7); x.fill();                                   // shade side
+      x.strokeStyle = `rgba(${INKC},.4)`; x.lineWidth = 0.55; x.beginPath(); x.arc(cx + r * 0.08, cy + r * 0.1, r * 0.62, -0.35, 1.2); x.stroke();
+      x.beginPath(); x.arc(cx - r * 0.5, cy + r * 0.38, r * 0.36, 0.2, 1.7); x.stroke();
     }
   } else {
-    x.strokeStyle = 'rgba(60,84,84,.6)'; x.lineWidth = 1;
+    x.strokeStyle = 'rgba(62,54,36,.62)'; x.lineWidth = 1;
     for (const [cx, cy] of [[6, 7], [18, 15]]) { x.beginPath(); x.moveTo(cx - 4, cy); x.lineTo(cx + 4, cy); x.moveTo(cx - 2, cy); x.lineTo(cx - 3, cy - 3); x.moveTo(cx, cy); x.lineTo(cx, cy - 4); x.moveTo(cx + 2, cy); x.lineTo(cx + 3, cy - 3); x.stroke(); }
   }
   return ctx.createPattern(c, 'repeat');
@@ -191,16 +200,16 @@ function redraw() {
   if (S.layers.woods) for (const f of FE) {
     if (f.layer === 'Forests') {
       trace(f.geom, true);
-      ctx.fillStyle = 'rgba(104,126,66,.20)'; ctx.fill('evenodd'); ctx.fillStyle = patCanopy; ctx.fill('evenodd');
-      ctx.fillStyle = patWood; ctx.fill('evenodd');
-      ctx.save(); ctx.clip('evenodd'); ctx.strokeStyle = 'rgba(44,62,30,.16)'; ctx.lineWidth = 11 * s; ctx.stroke(); ctx.strokeStyle = 'rgba(44,62,30,.45)'; ctx.lineWidth = 1.4 * s; ctx.stroke(); ctx.restore();
+      ctx.fillStyle = 'rgba(104,108,58,.30)'; ctx.fill('evenodd'); ctx.fillStyle = patCanopy; ctx.fill('evenodd');
+      ctx.globalAlpha = 0.84; ctx.fillStyle = patWood; ctx.fill('evenodd'); ctx.globalAlpha = 1;
+      ctx.save(); ctx.clip('evenodd'); ctx.strokeStyle = 'rgba(52,44,24,.20)'; ctx.lineWidth = 12 * s; ctx.stroke(); ctx.strokeStyle = 'rgba(52,43,24,.7)'; ctx.lineWidth = 1.6 * s; ctx.stroke(); ctx.restore();
     }
-    if (f.layer === 'Swamps') { trace(f.geom, true); ctx.fillStyle = 'rgba(96,128,120,.20)'; ctx.fill('evenodd'); ctx.fillStyle = patSwamp; ctx.fill('evenodd'); }
+    if (f.layer === 'Swamps') { trace(f.geom, true); ctx.fillStyle = 'rgba(108,108,84,.20)'; ctx.fill('evenodd'); ctx.fillStyle = patSwamp; ctx.fill('evenodd'); }
   }
   if (S.layers.water) {
     for (const f of FE) if (f.layer === 'Lakes') {
-      trace(f.geom, true); ctx.fillStyle = 'rgb(176,193,180)'; ctx.fill('evenodd'); ctx.strokeStyle = 'rgba(70,58,40,.9)'; ctx.lineWidth = 1.3 * s; ctx.stroke();
-      ctx.save(); ctx.clip('evenodd'); ctx.strokeStyle = 'rgba(62,98,116,.35)'; ctx.lineWidth = 7 * s; ctx.stroke(); ctx.restore();
+      trace(f.geom, true); ctx.fillStyle = 'rgb(190,182,155)'; ctx.fill('evenodd'); ctx.strokeStyle = 'rgba(58,46,28,.9)'; ctx.lineWidth = 1.3 * s; ctx.stroke();
+      ctx.save(); ctx.clip('evenodd'); ctx.strokeStyle = 'rgba(70,62,44,.26)'; ctx.lineWidth = 7 * s; ctx.stroke(); ctx.restore();
     }
   }
   drawOrnaments(s); drawSeaNames(s);
@@ -223,7 +232,7 @@ function drawOrnaments(s) {
     const [x, y, w] = O.cartouche, hpx = orn('cartouche', x, y, w, 0, 0.95), u = w * KX;
     ctx.save(); ctx.translate(x * KX, (H - y) * KY); ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
     ctx.fillStyle = 'rgba(46,32,20,.92)'; ctx.font = `${u * (hpx ? 0.082 : 0.11)}px "Luminari","Hoefler Text",Baskerville,Georgia,serif`; ctx.fillText(LAND.name.toUpperCase(), 0, -u * 0.012);
-    ctx.fillStyle = 'rgba(142,47,31,.92)'; ctx.font = `italic ${u * 0.054}px "Hoefler Text",Baskerville,Georgia,serif`; ctx.fillText(LAND.age, 0, u * 0.068); ctx.restore();
+    ctx.fillStyle = 'rgba(84,62,38,.92)'; ctx.font = `italic ${u * 0.054}px "Hoefler Text",Baskerville,Georgia,serif`; ctx.fillText(LAND.age, 0, u * 0.068); ctx.restore();
   }
 }
 function drawCompass(x, y, r, artDone) {
@@ -235,7 +244,7 @@ function drawCompass(x, y, r, artDone) {
     ctx.save(); ctx.rotate(a); ctx.beginPath(); ctx.moveTo(0, -R * len); ctx.lineTo(R * wd, 0); ctx.lineTo(-R * wd, 0); ctx.closePath();
     ctx.stroke(); ctx.beginPath(); ctx.moveTo(0, -R * len); ctx.lineTo(R * wd, 0); ctx.lineTo(0, 0); ctx.closePath(); ctx.fillStyle = k === 0 ? 'rgba(142,47,31,.85)' : 'rgba(58,42,27,.7)'; ctx.fill(); ctx.restore();
   }
-  ctx.fillStyle = 'rgba(142,47,31,.9)'; ctx.font = `600 ${R * 0.34}px "Hoefler Text",Baskerville,Georgia,serif`; ctx.textAlign = 'center'; ctx.fillText('N', 0, -R * (artDone ? 1.34 : 1.28));
+  ctx.fillStyle = 'rgba(66,50,30,.9)'; ctx.font = `600 ${R * 0.34}px "Hoefler Text",Baskerville,Georgia,serif`; ctx.textAlign = 'center'; ctx.fillText('N', 0, -R * (artDone ? 1.34 : 1.28));
   // scale bar
   const u = 100 * KX; ctx.translate(-u * 1.5, R * 1.62); ctx.fillStyle = 'rgba(58,42,27,.8)';
   for (let k = 0; k < 3; k++) { ctx.beginPath(); ctx.rect(k * u, 0, u, R * 0.07); k % 2 ? ctx.stroke() : ctx.fill(); }
@@ -244,7 +253,7 @@ function drawCompass(x, y, r, artDone) {
   ctx.restore();
 }
 function drawSeaNames(s) {
-  ctx.save(); ctx.fillStyle = 'rgba(54,84,100,.55)'; ctx.textAlign = 'center';
+  ctx.save(); ctx.fillStyle = 'rgba(66,54,34,.6)'; ctx.textAlign = 'center';
   const spaced = (t, x, y, size, gap, rot) => { ctx.save(); ctx.translate(x * KX, (H - y) * KY); ctx.rotate(rot); const f = KX * 0.6; ctx.font = `italic ${size * f}px "Hoefler Text",Baskerville,Georgia,serif`; let w = 0; for (const ch of t) w += ctx.measureText(ch).width + gap * f; let px = -w / 2; ctx.textAlign = 'left'; for (const ch of t) { ctx.fillText(ch, px, 0); px += ctx.measureText(ch).width + gap * f; } ctx.restore(); };
   for (const n of LAND.sea || []) spaced(...n);
   ctx.restore();
@@ -341,10 +350,10 @@ function makeSegs(feats, color, width, opts = {}) {
 }
 function buildInk() {
   const rv = FE.filter(f => f.layer === 'Rivers'), len = f => lineLen(f.geom);
-  ink.water.push(makeSegs(rv.filter(f => len(f) > 450), 0x3a6078, 3.1), makeSegs(rv.filter(f => len(f) > 140 && len(f) <= 450), 0x3a6078, 2.1), makeSegs(rv.filter(f => len(f) <= 140), 0x3a6078, 1.4));
+  ink.water.push(makeSegs(rv.filter(f => len(f) > 450), 0x4f493b, 2.5), makeSegs(rv.filter(f => len(f) > 140 && len(f) <= 450), 0x4f493b, 1.8), makeSegs(rv.filter(f => len(f) <= 140), 0x4f493b, 1.2));
   const rd = FE.filter(f => f.layer === 'Roads'), major = f => /major/i.test((f.attrs && f.attrs.Type) || '') || len(f) > 180;
-  ink.roads.push(makeSegs(rd.filter(major), 0x74381c, 2.1, { dash: [1, 0.55] }), makeSegs(rd.filter(f => !major(f)), 0x74381c, 1.3, { dash: [0.6, 0.5], opacity: 0.8 }), makeSegs(FE.filter(f => f.layer === 'Walls'), 0x2e2016, 1.8));
-  ink.realms.push(makeSegs(FE.filter(f => f.layer === 'Realms' || f.layer === 'Place_Boundaries'), 0x8e2f1f, 1.9, { dash: [1.5, 0.5], opacity: 0.6, close: true }));
+  ink.roads.push(makeSegs(rd.filter(major), 0x5c4026, 2.1, { dash: [1, 0.55] }), makeSegs(rd.filter(f => !major(f)), 0x5c4026, 1.3, { dash: [0.6, 0.5], opacity: 0.8 }), makeSegs(FE.filter(f => f.layer === 'Walls'), 0x2e2016, 1.8));
+  ink.realms.push(makeSegs(FE.filter(f => f.layer === 'Realms' || f.layer === 'Place_Boundaries'), 0x5a4a34, 1.7, { dash: [1.5, 0.6], opacity: 0.62, close: true }));
   ink.water = ink.water.filter(Boolean); ink.roads = ink.roads.filter(Boolean); ink.realms = ink.realms.filter(Boolean);
 }
 function syncInk() { ink.water.forEach(l => l.visible = S.layers.water); ink.roads.forEach(l => l.visible = S.layers.roads); ink.realms.forEach(l => l.visible = S.layers.realms); }

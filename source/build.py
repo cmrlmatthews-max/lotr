@@ -129,7 +129,7 @@ for tag, dd, cd, meta, rg in LANDS:
         hit = [i for i in it.values() if i['type'] == 'place' and i['title'] == title]
         if not hit: warn.append(f'{tag}: no place titled {title!r} for art'); continue
         if key in art: hit[0]['art'] = key
-    images += f'<img id="img-height-{tag}" class="hide" alt="" src="data:image/png;base64,{b64(dd + "/height.png")}">\n<img id="img-base-{tag}" class="hide" alt="" src="data:image/jpeg;base64,{b64(dd + "/base.jpg")}">\n'
+    images += f'<img id="img-height-{tag}" class="hide" alt="" src="data:image/png;base64,{b64(dd + "/height.png")}">\n<img id="img-base-{tag}" class="hide" alt="" src="data:image/jpeg;base64,{b64(dd + "/base_sepia.jpg")}">\n'
 data = {'lands': lands, 'items': items, 'art': art}
 print('art', {k: sorted(v) for k, v in art.items()})
 subprocess.run(['npx', 'esbuild', 'src/app.js', '--bundle', '--minify', '--format=iife', '--target=es2020', '--outfile=dist/app.js', '--log-level=warning'], cwd=B, check=True)

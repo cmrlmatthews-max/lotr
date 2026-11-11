@@ -28,7 +28,7 @@ The buttons below the title change the sheet. Search finds cards on both sheets.
 
 ## Contents: Middle-earth
 
-- **Terrain.** A 2 km height grid with a 600 m parchment relief image. Relief is exaggerated (the slider sets the factor). The factor decreases when you zoom in.
+- **Terrain.** A 2 km height grid with a 600 m parchment relief image. Relief is exaggerated 15 times. The factor decreases when you zoom in.
 - **Places.** 401 cards: towns, strongholds, halls, bridges, mountains, forests, rivers, roads.
 - **Realms and peoples.** 37 realms and regions, 23 peoples.
 - **Battles.** 33 battles, from S.A. 1697 to T.A. 3019.
@@ -45,7 +45,8 @@ The buttons below the title change the sheet. Search finds cards on both sheets.
 - **Card pictures.** 16 great places have a picture at the top of their card. 12 are in Middle-earth: Hobbiton, Rivendell, the Doors of Durin, Caras Galadhon, Edoras, Helm's Deep, Isengard, Minas Tirith, Barad-dûr, Mount Doom, the Lonely Mountain, and Lake-town. 4 are in Beleriand: Gondolin, Menegroth, Angband, and the Havens of Sirion.
 - **Landmark drawings.** The same 16 places show a small sepia drawing on the map. The checkbox **Landmark drawings** hides them.
 - **Map ornaments.** Each sheet has a drawn border, corner ornaments, a compass rose, a title scroll, ships, and a sea serpent.
-- **Woodlands.** Forests have a low raised canopy and a darker green shade with small tree marks.
+- **Woodlands.** Forests have a low raised canopy. Small ink tree crowns fill each forest from edge to edge.
+- **Colors.** The sheet uses one sepia paper tone and one grey-brown ink tone. The sea has a faint grey tint and the forests have a faint olive tint. Red marks only battles, journeys, and the selected place. `scripts/regrade.py` makes `base_sepia.jpg` from `base.jpg`.
 - **Setting.** The sheet lies on a wooden table in warm light. The panels look like parchment. The app draws the table and the parchment with code.
 - **Source of the art.** Google Gemini made the 16 pictures and the 6 ornaments from text prompts written for this map. The prompts describe each place in plain words. They do not name a film, an actor, or an artist. `art/process.py` removes the paper background and makes the card pictures, the sepia map drawings, and the ornaments. The original Gemini images (63 MB) are not in this repo.
 - **Accuracy.** The pictures are an impression. They do not show each place as the books describe it in every detail.
@@ -73,8 +74,8 @@ An AI model wrote the card text in its own words. A second model then examined e
 | Path | Contents |
 |---|---|
 | `index.html` | The map. This is the only file that you need. |
-| `data/` | Reduced Middle-earth data: `height.png`, `base.jpg`, `vectors.json`, `gazetteer.json` |
-| `scripts/` | `terrain.py` and `vectors.py`. They make `data/` from the William & Mary downloads (4.9 GB, not in this repo; see the link above). |
+| `data/` | Reduced Middle-earth data: `height.png`, `base.jpg`, `base_sepia.jpg`, `vectors.json`, `gazetteer.json` |
+| `scripts/` | `terrain.py`, `vectors.py`, and `regrade.py`. They make `data/` from the William & Mary downloads (4.9 GB, not in this repo; see the link above). |
 | `data-beleriand/`, `scripts-beleriand/` | The modelled Beleriand data and the scripts that make it |
 | `source/` | `app.js`, `template.html`, `build.py`, `package.json`, and the card files in `source/cards/` and `source/cards-beleriand/` |
 | `art/` | `out/` (processed images that `build.py` puts in the HTML file) and `process.py` |
