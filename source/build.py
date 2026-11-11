@@ -106,6 +106,19 @@ def make_land(tag, datadir, cardsdir, meta, regions=None):
 
 ART_PLACES = {'me': {'Hobbiton': 'hobbiton', 'Rivendell': 'rivendell', 'Doors of Durin': 'moria', 'Caras Galadhon': 'lorien', 'Edoras': 'edoras', "Helm's Deep": 'helmsdeep', 'Isengard': 'isengard', 'Minas Tirith': 'minastirith', 'Barad-dûr': 'baraddur', 'Mount Doom': 'mountdoom', 'Lonely Mountain': 'erebor', 'Lake-town': 'laketown'},
               'bel': {'Gondolin': 'gondolin', 'Menegroth': 'menegroth', 'Angband': 'angband', 'Havens of Sirion': 'havens'}}
+# second set: these map drawings show only when the view is close
+ART_PLACES2 = {'me': {'Bree': 'bree', 'Weathertop': 'weathertop', 'Argonath': 'argonath', 'Minas Morgul': 'minasmorgul', 'Black Gate': 'blackgate', 'Dol Guldur': 'dolguldur', 'Grey Havens': 'greyhavens',
+                      "Elvenking's Halls": 'elvenking', 'Dale': 'dale', 'Osgiliath': 'osgiliath'},
+               'bel': {'Nargothrond': 'nargothrond', 'Himring': 'himring', 'Tol Sirion': 'tolsirion', 'Amon Rûdh': 'amonrudh'}}
+# card pictures for peoples and battles: (type, title) -> art key
+ART_CARDS = {'me': {('people', 'Hobbits'): 'p-hobbits', ('people', 'Rohirrim (Men of Rohan)'): 'p-rohirrim', ('people', 'Men of Gondor'): 'p-gondor', ('people', "Dwarves of Durin's Folk"): 'p-dwarves',
+                    ('people', 'Silvan Elves'): 'p-elves', ('people', 'Ents'): 'p-ents', ('people', 'Orcs'): 'p-orcs', ('people', 'Great Eagles'): 'p-eagles',
+                    ('battle', 'Battle of the Hornburg'): 'b-hornburg', ('battle', 'Battle of the Pelennor Fields'): 'b-pelennor', ('battle', 'Battle of the Morannon'): 'b-morannon',
+                    ('battle', 'Battle of Five Armies'): 'b-fivearmies', ('battle', "Ents' Destruction of Isengard"): 'b-isengard', ('battle', 'Battle of Azanulbizar'): 'b-azanulbizar',
+                    ('battle', 'Battle of Dagorlad and Siege of Barad-dûr'): 'b-dagorlad', ('battle', 'Battle of Bywater'): 'b-bywater'},
+             'bel': {('people', 'Noldor'): 'p-noldor', ('people', 'Sindar'): 'p-sindar', ('people', 'House of Hador'): 'p-hador', ('people', 'Dragons'): 'p-dragons',
+                     ('battle', 'Dagor Bragollach (Battle of Sudden Flame)'): 'b-bragollach', ('battle', 'Nírnaeth Arnoediad (Battle of Unnumbered Tears)'): 'b-nirnaeth',
+                     ('battle', 'Fall of Gondolin'): 'b-gondolinfall', ('battle', 'War of Wrath'): 'b-warofwrath'}}
 LANDS = [('me', R + '/data', R + '/cards', {'name': 'Middle-earth', 'age': 'The Third Age', 'sub': "An explorer's map of the Third Age", 'compass': [250, 250, 62], 'sea': [['BELEGAER', 118, 900, 50, 30, -1.5708]],
           'orn': {'border': 16, 'corner': 200, 'items': [['ship', 215, 735, 105], ['serpent', 160, 1130, 150]], 'cartouche': [272, 522, 380]}}, None)]
 if os.path.exists(R + '/bel/data/height.png'):
@@ -128,6 +141,14 @@ for tag, dd, cd, meta, rg in LANDS:
     for title, key in ART_PLACES.get(tag, {}).items():
         hit = [i for i in it.values() if i['type'] == 'place' and i['title'] == title]
         if not hit: warn.append(f'{tag}: no place titled {title!r} for art'); continue
+        if key in art: hit[0]['art'] = key
+    for title, key in ART_PLACES2.get(tag, {}).items():
+        hit = [i for i in it.values() if i['type'] == 'place' and i['title'] == title]
+        if not hit: warn.append(f'{tag}: no place titled {title!r} for art'); continue
+        if key in art: hit[0]['art'] = key; hit[0]['artNear'] = 1
+    for (typ, title), key in ART_CARDS.get(tag, {}).items():
+        hit = [i for i in it.values() if i['type'] == typ and i['title'] == title]
+        if not hit: warn.append(f'{tag}: no {typ} titled {title!r} for art'); continue
         if key in art: hit[0]['art'] = key
     images += f'<img id="img-height-{tag}" class="hide" alt="" src="data:image/png;base64,{b64(dd + "/height.png")}">\n<img id="img-base-{tag}" class="hide" alt="" src="data:image/jpeg;base64,{b64(dd + "/base_sepia.jpg")}">\n'
 data = {'lands': lands, 'items': items, 'art': art}

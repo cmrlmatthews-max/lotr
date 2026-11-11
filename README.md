@@ -42,13 +42,13 @@ The buttons below the title change the sheet. Search finds cards on both sheets.
 
 ## Art and setting
 
-- **Card pictures.** 16 great places have a picture at the top of their card. 12 are in Middle-earth: Hobbiton, Rivendell, the Doors of Durin, Caras Galadhon, Edoras, Helm's Deep, Isengard, Minas Tirith, Barad-dûr, Mount Doom, the Lonely Mountain, and Lake-town. 4 are in Beleriand: Gondolin, Menegroth, Angband, and the Havens of Sirion.
-- **Landmark drawings.** The same 16 places show a small sepia drawing on the map. The checkbox **Landmark drawings** hides them.
+- **Card pictures.** 40 cards have a picture at the top. 29 are places (22 in Middle-earth, 7 in Beleriand). 10 are peoples, for example Hobbits, Rohirrim, Dwarves, and Sindar. 1 is a battle, the Battle of the Hornburg. More battle pictures come in the next update.
+- **Landmark drawings.** The 29 places with a picture also show a small sepia drawing on the map. 16 show at all distances. The other 13 show only when the view is near. The checkbox **Landmark drawings** hides them.
 - **Map ornaments.** Each sheet has a drawn border, corner ornaments, a compass rose, a title scroll, ships, and a sea serpent.
 - **Woodlands.** Forests have a low raised canopy. Small ink tree crowns fill each forest from edge to edge.
 - **Colors.** The sheet uses one sepia paper tone and one grey-brown ink tone. The sea has a faint grey tint and the forests have a faint olive tint. Red marks only battles, journeys, and the selected place. `scripts/regrade.py` makes `base_sepia.jpg` from `base.jpg`.
 - **Setting.** The sheet lies on a wooden table in warm light. The panels look like parchment. The app draws the table and the parchment with code.
-- **Source of the art.** Google Gemini made the 16 pictures and the 6 ornaments from text prompts written for this map. The prompts describe each place in plain words. They do not name a film, an actor, or an artist. `art/process.py` removes the paper background and makes the card pictures, the sepia map drawings, and the ornaments. The original Gemini images (63 MB) are not in this repo.
+- **Source of the art.** Google Gemini made the 40 pictures and the 6 ornaments from text prompts written for this map. The prompts describe each place, people, or battle in plain words. They do not name a film, an actor, or an artist. `art/process.py` removes the paper background and makes the card pictures, the sepia map drawings, and the ornaments. The original Gemini images (63 MB) are not in this repo.
 - **Accuracy.** The pictures are an impression. They do not show each place as the books describe it in every detail.
 
 ## How to read a card
@@ -88,7 +88,7 @@ An AI model wrote the card text in its own words. A second model then examined e
 - The data set stops at straight lines in the east, the north, and the south-east. The map shows plain paper there.
 - The data set has borders for Gondor, Rohan, and Mordor only. Other realms show a name at their centre.
 - Some names in the data set do not come from the books. Their cards say this.
-- The map drawings and card pictures exist for 16 places only.
-- The file is about 14 MB. The first load can take some seconds.
+- Card pictures exist for 40 of the 675 cards.
+- The file is about 15 MB. The first load can take some seconds.
 - Beleriand terrain is modelled, not measured. It is smoother than the Middle-earth terrain.
 - Not in this file yet: Númenor and Valinor.

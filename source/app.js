@@ -368,8 +368,9 @@ function buildSprites() {
 }
 function updateSprites() {
   for (const sp of sprites) {
-    sp.visible = S.layers.art; if (!sp.visible) continue;
-    sp.position.y = (sp.userData.hy + 0.03) * EX; const d = sp.position.distanceTo(camera.position), px = clamp(62 + 96 * (1 - d / 1500), 62, 158), k = px / vh * 0.65;
+    sp.position.y = (sp.userData.hy + 0.03) * EX; const d = sp.position.distanceTo(camera.position);
+    sp.visible = S.layers.art && (!sp.userData.it.artNear || d < 1150); if (!sp.visible) continue;
+    const px = clamp(62 + 96 * (1 - d / 1500), 62, 158), k = px / vh * 0.65;
     sp.scale.set(k, k, 1); sp.userData.px = px;
   }
 }
