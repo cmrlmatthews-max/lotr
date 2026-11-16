@@ -1,0 +1,676 @@
+land	type	id	title	layer	x_km	y_km
+bel	battle	b:battle:battle-of-sarn-athrad	Battle of Sarn Athrad		1112	512
+bel	battle	b:battle:battle-of-the-lammoth	Battle of the Lammoth		320	1012
+bel	battle	b:battle:battle-of-tumhalad	Battle of Tumhalad and the sack of Nargothrond		480	668
+bel	battle	b:battle:dagor-aglareb	Dagor Aglareb (the Glorious Battle)		730	1000
+bel	battle	b:battle:dagor-bragollach	Dagor Bragollach (Battle of Sudden Flame)		780	1040
+bel	battle	b:battle:dagor-nuin-giliath	Dagor-nuin-Giliath (Battle under Stars)		518	928
+bel	battle	b:battle:duel-at-tol-in-gaurhoth	Duel of Lúthien and Huan with Sauron		646	798
+bel	battle	b:battle:duel-fingolfin-morgoth	Duel of Fingolfin and Morgoth		770	1341
+bel	battle	b:battle:end-of-barahirs-outlaws	End of Barahir's outlaws at Tarn Aeluin		870	835
+bel	battle	b:battle:fall-of-bar-en-danwedh	Fall of Bar-en-Danwedh on Amon Rûdh		562	575
+bel	battle	b:battle:fall-of-gondolin	Fall of Gondolin		708	742
+bel	battle	b:battle:fall-of-minas-tirith	Fall of Minas Tirith on Tol Sirion		646	798
+bel	battle	b:battle:fall-of-the-falas	Fall of the Falas		293	603
+bel	battle	b:battle:first-battle-of-beleriand	First Battle of Beleriand		966	425
+bel	battle	b:battle:first-coming-of-glaurung	First coming of Glaurung		760	1120
+bel	battle	b:battle:hunting-of-carcharoth	Hunting of Carcharoth in Doriath		719	636
+bel	battle	b:battle:nirnaeth-arnoediad	Nírnaeth Arnoediad (Battle of Unnumbered Tears)		760	1060
+bel	battle	b:battle:sack-of-menegroth	Sack of Menegroth by the Dwarves		793	617
+bel	battle	b:battle:second-kinslaying	Second Kinslaying in Doriath		793	617
+bel	battle	b:battle:slaying-of-glaurung	Slaying of Glaurung at Cabed-en-Aras		592	646
+bel	battle	b:battle:third-kinslaying	Third Kinslaying at the Havens of Sirion		629	240
+bel	battle	b:battle:war-of-wrath	War of Wrath		770	1305
+bel	journey	b:journey:aredhel	Aredhel, Eöl and Maeglin			
+bel	journey	b:journey:beren-luthien	Beren and Lúthien			
+bel	journey	b:journey:fingolfin	The Ride of Fingolfin			
+bel	journey	b:journey:hurin	The Wanderings of Húrin			
+bel	journey	b:journey:nauglamir	The Dwarves and the Nauglamír			
+bel	journey	b:journey:noldor	The Return of the Noldor			
+bel	journey	b:journey:tuor	Tuor and the Hidden City			
+bel	journey	b:journey:turin	Túrin Turambar			
+bel	people	b:people:ainur-in-beleriand	Ainur in Beleriand			
+bel	people	b:people:balrogs	Balrogs			
+bel	people	b:people:dragons	Dragons			
+bel	people	b:people:druedain	Drúedain			
+bel	people	b:people:dwarves-of-belegost-and-nogrod	Dwarves of Belegost and Nogrod			
+bel	people	b:people:eagles	Great Eagles of Thorondor			
+bel	people	b:people:easterlings	Easterlings			
+bel	people	b:people:ents	Ents			
+bel	people	b:people:falathrim	Falathrim			
+bel	people	b:people:house-of-beor	House of Bëor			
+bel	people	b:people:house-of-hador	House of Hador			
+bel	people	b:people:house-of-haleth	House of Haleth			
+bel	people	b:people:laiquendi	Laiquendi			
+bel	people	b:people:noldor	Noldor			
+bel	people	b:people:orcs	Orcs			
+bel	people	b:people:petty-dwarves	Petty-dwarves			
+bel	people	b:people:sindar	Sindar			
+bel	people	b:people:werewolves-and-creatures-of-sauron	Werewolves and creatures of Sauron			
+bel	place	b:BA01	Firth of Drengist	Bays	345	885
+bel	place	b:BA02	Bay of Balar	Bays	700	130
+bel	place	b:BR01	Iant Iaur	Bridges	806	718
+bel	place	b:CA01	Gates of Sirion	Cave_entrances	655	469
+bel	place	b:CR01	Crissaegrim	Mountains	716	706
+bel	place	b:DO01	Orfalch Echor	Doors_Gates	681	722
+bel	place	b:FA01	Nen Girith	Falls	599	662
+bel	place	b:FA02	Falls of Sirion	Falls	655	484
+bel	place	b:FA03	Rivil's Well	Falls	707	836
+bel	place	b:FI01	Tumhalad	Fields	480	668
+bel	place	b:FJ01	Brithiach	Fords	655	705
+bel	place	b:FJ02	Crossings of Teiglin	Fords	572	672
+bel	place	b:FJ03	Sarn Athrad	Fords	1112	512
+bel	place	b:FJ04	Arossiach	Fords	905	705
+bel	place	b:FO01	Neldoreth	Forests	719	636
+bel	place	b:FO02	Region	Forests	765	588
+bel	place	b:FO03	Nivrim	Forests	634	559
+bel	place	b:FO04	Brethil	Forests	612	657
+bel	place	b:FO05	Nan Elmoth	Forests	929	634
+bel	place	b:FO06	Taur-im-Duinath	Forests	854	258
+bel	place	b:FO07	Nimbrethil	Forests	521	270
+bel	place	b:FO08	Taur-nu-Fuin	Forests	820	832
+bel	place	b:FO09	Nan-tathren	Forests	641	336
+bel	place	b:FT01	Angband	Fortresses	770	1345
+bel	place	b:FT02	Barad Eithel	Fortresses	619	905
+bel	place	b:FT03	Tol Sirion	Fortresses	646	798
+bel	place	b:FT04	Himring	Fortresses	1015	826
+bel	place	b:FT05	Barad Nimras	Fortresses	259	549
+bel	place	b:GR01	Haudh-en-Ndengin	Graves_Tombs	760	1060
+bel	place	b:GR02	Haudh-en-Elleth	Graves_Tombs	579	671
+bel	place	b:HA01	Losgar	Harbors	306	884
+bel	place	b:HI01	Taur-en-Faroth	Hills	458	585
+bel	place	b:HI02	Andram	Hills	800	456
+bel	place	b:HI03	Amon Rûdh	Hills	562	575
+bel	place	b:HI04	Amon Ereb	Hills	966	425
+bel	place	b:HI05	Ramdal	Hills	925	433
+bel	place	b:HI06	Amon Ethir	Hills	496	568
+bel	place	b:IS01	Isle of Balar	Islands	590	150
+bel	place	b:IS02	Tol Galen	Islands	1167	258
+bel	place	b:IS03	Cape Balar	Islands	432	266
+bel	place	b:LA01	Lake Mithrim	Lakes	518	928
+bel	place	b:LA02	Lake Helevorn	Lakes	1150	798
+bel	place	b:LA03	Tarn Aeluin	Lakes	870	835
+bel	place	b:LA04	Eithel Ivrin	Lakes	478	794
+bel	place	b:LA05	Linaewen	Lakes	342	813
+bel	place	b:LA06	Aelin-uial	Lakes	664	512
+bel	place	b:MT01	Ered Engrin	Mountains	560	1392
+bel	place	b:MT02	Thangorodrim	Mountains	770	1364
+bel	place	b:MT03	Ered Lómin	Mountains	345	965
+bel	place	b:MT04	Ered Wethrin	Mountains	520	800
+bel	place	b:MT05	Mountains of Mithrim	Mountains	497	866
+bel	place	b:MT07	Mount Taras	Mountains	262	760
+bel	place	b:MT08	Echoriath	Mountains	748	742
+bel	place	b:MT09	Ered Gorgoroth	Mountains	840	770
+bel	place	b:MT11	Ered Luin	Mountains	1262	720
+bel	place	b:MT12	Mount Rerir	Mountains	1172	842
+bel	place	b:MT13	Mount Dolmed	Mountains	1240	545
+bel	place	b:RD01	Dwarf-road	Roads	1010	606
+bel	place	b:RD02	Old South Road	Roads	585	742
+bel	place	b:RI01	Sirion	Rivers	628	400
+bel	place	b:RI02	Narog	Rivers	520	460
+bel	place	b:RI03	Teiglin	Rivers	540	742
+bel	place	b:RI04	Esgalduin	Rivers	722	610
+bel	place	b:RI05	Aros	Rivers	838	572
+bel	place	b:RI06	Celon	Rivers	952	730
+bel	place	b:RI07	Mindeb	Rivers	700	700
+bel	place	b:RI08	Gelion	Rivers	1085	380
+bel	place	b:RI09	Ascar	Rivers	1175	525
+bel	place	b:RI10	Thalos	Rivers	1175	468
+bel	place	b:RI11	Legolin	Rivers	1170	414
+bel	place	b:RI12	Brilthor	Rivers	1165	362
+bel	place	b:RI13	Duilwen	Rivers	1160	312
+bel	place	b:RI14	Adurant	Rivers	1205	270
+bel	place	b:RI15	Ginglith	Rivers	452	700
+bel	place	b:RI16	Ringwil	Rivers	470	572
+bel	place	b:RI17	Brithon	Rivers	325	640
+bel	place	b:RI18	Nenning	Rivers	372	590
+bel	place	b:RI19	Rivil	Rivers	676	846
+bel	place	b:SW01	Fen of Serech	Swamps	646	850
+bel	place	b:SW04	Lisgardh	Swamps	630	240
+bel	place	b:TO01	Menegroth	Towns	793	617
+bel	place	b:TO02	Nargothrond	Towns	489	565
+bel	place	b:TO03	Gondolin	Towns	708	742
+bel	place	b:TO04	Vinyamar	Towns	273	777
+bel	place	b:TO05	Brithombar	Towns	293	603
+bel	place	b:TO06	Eglarest	Towns	333	509
+bel	place	b:TO07	Havens of Sirion	Towns	629	240
+bel	place	b:TO08	Ephel Brandir	Towns	607	651
+bel	place	b:TO09	Belegost	Towns	1265	606
+bel	place	b:TO10	Nogrod	Towns	1265	500
+bel	place	b:VA01	Cabed-en-Aras	Valleys	592	646
+bel	place	b:VA02	Cirith Ninniach	Valleys	405	877
+bel	place	b:VA03	Pass of Aglon	Valleys	989	807
+bel	place	b:VA04	Pass of Sirion	Valleys	647	818
+bel	place	b:VA05	Anach	Valleys	746	774
+bel	place	b:VA06	Maglor's Gap	Valleys	1105	830
+bel	place	b:VA07	Cirith Thoronath	Valleys	712	777
+bel	realm	b:RG01	Hithlum		500	975
+bel	realm	b:RG02	Dor-lómin		462	842
+bel	realm	b:RG03	Mithrim		548	900
+bel	realm	b:RG04	Nevrast		332	845
+bel	realm	b:RG05	The Falas		322	560
+bel	realm	b:RG06	Realm of Nargothrond		545	528
+bel	realm	b:RG07	Doriath		762	572
+bel	realm	b:RG08	Land of the Haladin		613	682
+bel	realm	b:RG09	Dimbar		680	697
+bel	realm	b:RG10	Nan Dungortheb		812	738
+bel	realm	b:RG11	Dorthonion		815	848
+bel	realm	b:RG12	Himlad		948	748
+bel	realm	b:RG13	March of Maedhros		1045	872
+bel	realm	b:RG14	Lothlann		1110	965
+bel	realm	b:RG15	Thargelion		1170	690
+bel	realm	b:RG16	Ossiriand		1170	392
+bel	realm	b:RG17	Estolad		982	572
+bel	realm	b:RG18	East Beleriand		885	492
+bel	realm	b:RG19	West Beleriand		405	455
+bel	realm	b:RG20	Anfauglith		800	1105
+bel	realm	b:RG21	Dor Daedeloth		772	1285
+bel	realm	b:RG22	Arvernien		545	266
+bel	realm	b:RG23	Lammoth		318	1012
+bel	realm	b:RG24	Talath Dirnen		542	642
+bel	realm	b:RG25	Ladros		920	866
+bel	realm	b:RG26	Hidden Realm of Gondolin		708	760
+bel	realm	b:RG27	Dor Dínen		866	738
+me	battle	battle:assaults-on-lothlorien	Assaults on Lothlórien		1189	1234
+me	battle	battle:azanulbizar	Battle of Azanulbizar		1147	1239
+me	battle	battle:battle-of-dale	Battle of Dale and Siege of Erebor		1529	1594
+me	battle	battle:battle-of-the-camp	Battle of the Camp		1476	918
+me	battle	battle:battle-under-the-trees	Battle under the Trees		1503	1559
+me	battle	battle:burning-of-osgiliath	Burning of Osgiliath in the Kin-strife		1461	666
+me	battle	battle:bywater	Battle of Bywater		555	1425
+me	battle	battle:crossings-of-erui	Battle of the Crossings of Erui		1401	606
+me	battle	battle:dagorlad	Battle of Dagorlad and Siege of Barad-dûr		1612	970
+me	battle	battle:dol-guldur-white-council	Attack on Dol Guldur by the White Council		1342	1232
+me	battle	battle:ents-of-isengard	Ents' Destruction of Isengard		963	997
+me	battle	battle:fall-of-amon-sul	Fall of Amon Sûl		769	1438
+me	battle	battle:fall-of-dol-guldur	Fall of Dol Guldur		1342	1232
+me	battle	battle:fall-of-minas-ithil	Fall of Minas Ithil		1506	680
+me	battle	battle:fall-of-osgiliath	Fall of Osgiliath and Retreat to Minas Tirith		1461	666
+me	battle	battle:field-of-celebrant	Battle of the Field of Celebrant		1240	1146
+me	battle	battle:first-fords-of-isen	First Battle of the Fords of Isen		963	930
+me	battle	battle:five-armies	Battle of Five Armies		1549	1564
+me	battle	battle:ford-of-bruinen	Ford of Bruinen		1070	1464
+me	battle	battle:fornost	Battle of Fornost		650	1514
+me	battle	battle:gladden-fields	Disaster of the Gladden Fields		1267	1420
+me	battle	battle:greenfields	Battle of Greenfields		575	1465
+me	battle	battle:hornburg	Battle of the Hornburg		967	900
+me	battle	battle:hornburg-long-winter	Siege of the Hornburg in the Long Winter		967	900
+me	battle	battle:mazarbul-khazad-dum	Fight in the Chamber of Mazarbul and Bridge of Khazad-dûm		1112	1284
+me	battle	battle:morannon	Battle of the Morannon		1525	856
+me	battle	battle:parth-galen	Breaking of the Fellowship at Parth Galen		1368	883
+me	battle	battle:pelargir	Battle of Pelargir		1371	527
+me	battle	battle:pelennor	Battle of the Pelennor Fields		1438	663
+me	battle	battle:sack-of-erebor	Sack of Erebor by Smaug		1524	1607
+me	battle	battle:sack-of-eregion	War of the Elves and Sauron: Sack of Eregion		963	1272
+me	battle	battle:second-fords-of-isen	Second Battle of the Fords of Isen		963	930
+me	battle	battle:weathertop-3018	Fight on Weathertop		769	1438
+me	journey	journey:boromir	Boromir's Long Road North			
+me	journey	journey:frodo	The Quest of the Ring			
+me	journey	journey:gandalf	The Wizard in the War			
+me	journey	journey:hunters	The Hunt for Merry and Pippin			
+me	journey	journey:merry-pippin	Captives and Squires			
+me	journey	journey:nazgul	The Hunt for the Ring			
+me	journey	journey:return	The Road Home			
+me	journey	journey:rohirrim	The Ride of the Rohirrim			
+me	journey	journey:thorin	There and Back Again			
+me	people	people:beornings	Beornings			
+me	people	people:druedain	Drúedain (Woses)			
+me	people	people:dunedain-of-the-north	Dúnedain of the North (Rangers)			
+me	people	people:dunlendings	Dunlendings			
+me	people	people:durins-folk	Dwarves of Durin's Folk			
+me	people	people:easterlings	Easterlings			
+me	people	people:ents	Ents			
+me	people	people:great-eagles	Great Eagles			
+me	people	people:haradrim	Haradrim (Southrons)			
+me	people	people:hobbits	Hobbits			
+me	people	people:istari	Wizards (Istari)			
+me	people	people:lossoth	Lossoth (Snowmen of Forochel)			
+me	people	people:men-of-bree	Men of Bree			
+me	people	people:men-of-dale-and-the-lake	Men of Dale and the Lake			
+me	people	people:men-of-gondor	Men of Gondor			
+me	people	people:nazgul	Nazgûl (Ringwraiths)			
+me	people	people:noldor	Noldor (High Elves)			
+me	people	people:orcs	Orcs			
+me	people	people:rohirrim	Rohirrim (Men of Rohan)			
+me	people	people:silvan-elves	Silvan Elves			
+me	people	people:sindar	Sindar (Grey Elves)			
+me	people	people:trolls	Trolls			
+me	people	people:uruk-hai	Uruk-hai			
+me	place	BA003	Bay of Belfalas	Bays	922	392
+me	place	BA007	Cobas Haven	Bays	1023	560
+me	place	BA012	Gulf of Lune	Bays	153	1420
+me	place	BA013	Icebay of Forochel	Bays	483	1896
+me	place	BR001	Brandywine Bridge	Bridges	609	1426
+me	place	BR003	Bridge of Khazad-dûm	Bridges	1144	1246
+me	place	BR004	Bridge of Nimrodel	Bridges	1160	1204
+me	place	BR005	Bridge of Tharbad	Bridges	738	1145
+me	place	BR006	Ethring	Bridges	1163	637
+me	place	BR008	Last Bridge	Bridges	917	1432
+me	place	BU001	All-Welcome Inn	Buildings	570	1422
+me	place	BU002	Bridge Inn	Buildings	607	1426
+me	place	BU003	The Forsaken Inn	Buildings	688	1430
+me	place	BU004	Green Dragon	Buildings	555	1425
+me	place	BU005	Ivy Bush	Buildings	555	1425
+me	place	BU006	Old Guesthouse	Buildings	1429	652
+me	place	BU007	The Floating Log	Buildings	578	1424
+me	place	BU008	The Golden Perch	Buildings	599	1411
+me	place	BU009	The Prancing Pony	Buildings	665	1434
+me	place	BU014	Durin's Tower	Buildings	1070	1217
+me	place	BU015	Elostirion	Buildings	361	1417
+me	place	BU021	Orthanc	Buildings	963	997
+me	place	BU023	Sea-ward Tower	Buildings	1026	552
+me	place	BU026	Tower of Ecthelion	Buildings	1429	654
+me	place	BU029	White Towers	Buildings	369	1419
+me	place	BU030	Bag End	Buildings	544	1431
+me	place	BU031	Beorn's Hall	Buildings	1292	1522
+me	place	BU032	Brandy Hall	Buildings	607	1408
+me	place	BU034	Chamber of Mazarbul	Buildings	1111	1284
+me	place	BU036	Cracks of Doom	Buildings	1614	732
+me	place	BU038	Dome of Stars	Buildings	1461	666
+me	place	BU041	Endless Stair	Buildings	1111	1284
+me	place	BU042	Ent-houses	Buildings	1031	1011
+me	place	BU045	First Hall	Buildings	1144	1246
+me	place	BU047	Great Chamber of Thrór	Buildings	1528	1602
+me	place	BU048	Great Hall of Feasts	Buildings	1429	654
+me	place	BU049	Great Hall of Osgiliath	Buildings	1460	667
+me	place	BU050	Great Hall of Thráin	Buildings	1523	1607
+me	place	BU051	Great House	Buildings	1553	1546
+me	place	BU052	Great Smials	Buildings	537	1404
+me	place	BU053	Grimslade	Buildings	975	887
+me	place	BU054	Hall of Fire	Buildings	1113	1485
+me	place	BU061	House of the Mírdain	Buildings	898	1155
+me	place	BU063	Houses of Healing	Buildings	1429	653
+me	place	BU064	Huts of the Raft-elves	Buildings	1494	1571
+me	place	BU066	King's House	Buildings	1461	667
+me	place	BU067	Lockholes	Buildings	478	1398
+me	place	BU069	Mathom-house	Buildings	478	1398
+me	place	BU070	Meduseld	Buildings	1051	837
+me	place	BU071	Old Grange	Buildings	552	1431
+me	place	BU072	Old Mill	Buildings	552	1431
+me	place	BU073	Rhosgobel	Buildings	1315	1506
+me	place	BU074	Second Hall	Buildings	1131	1263
+me	place	BU075	Shirriff-house	Buildings	578	1424
+me	place	BU080	Tower Hall	Buildings	1429	654
+me	place	BU081	Town Hole	Buildings	478	1398
+me	place	BU082	Twenty-first Hall	Buildings	1111	1283
+me	place	BU083	Two Watchers	Buildings	1544	688
+me	place	BU085_54	Halifirien	Buildings	1239	764
+me	place	BU085_57	Erelas	Buildings	1337	731
+me	place	BU085_58	Nardol	Buildings	1367	720
+me	place	BU085_65	Eilenach	Buildings	1399	718
+me	place	BU085_66	Amon Dîn	Buildings	1428	709
+me	place	BU086	Wellinghall	Buildings	1019	1032
+me	place	BU088	Withy-weir	Buildings	614	1387
+me	place	BU089	Black Pits	Buildings	1632	747
+me	place	BU090	Eagles' Eyrie	Buildings	1231	1538
+me	place	CA003	Brockenbores	Cave_entrances	582	1451
+me	place	CA006	Front Porch	Cave_entrances	1175	1522
+me	place	CA007	Glittering Caves	Cave_entrances	965	900
+me	place	CA008	Henneth Annûn	Cave_entrances	1462	744
+me	place	CA013	Shelob's Lair	Cave_entrances	1542	688
+me	place	CA014	Troll's Cave	Cave_entrances	1054	1452
+me	place	DO002	Argonath	Doors_Gates	1375	923
+me	place	DO003	Back Door	Doors_Gates	1513	1608
+me	place	DO005	Buckland Gate	Doors_Gates	607	1426
+me	place	DO006	Causeway Forts	Doors_Gates	1448	662
+me	place	DO007	Dark Door	Doors_Gates	1052	816
+me	place	DO009	Doors of Durin	Doors_Gates	1018	1200
+me	place	DO011	Fen Hollen	Doors_Gates	1428	654
+me	place	DO012	Forannest	Doors_Gates	1439	673
+me	place	DO013	Forest Gate	Doors_Gates	1284	1586
+me	place	DO014	Front Gate	Doors_Gates	1528	1601
+me	place	DO017	Gate of Isengard	Doors_Gates	963	995
+me	place	DO028	Goblin-gate	Doors_Gates	1236	1534
+me	place	DO030	Great Gate of Minas Tirith	Doors_Gates	1430	653
+me	place	DO031	Great Gates	Doors_Gates	1144	1246
+me	place	DO032	Helm's Gate	Doors_Gates	971	900
+me	place	DO036	Undergate	Doors_Gates	1544	688
+me	place	DO037	West-gate of Bree	Doors_Gates	664	1434
+me	place	FA007	Rauros	Falls	1372	878
+me	place	FA008	Stair Falls	Falls	1018	1199
+me	place	FI003	Bonfire Glade	Fields	599	1389
+me	place	FI004	Dagorlad	Fields	1612	970
+me	place	FI005	Derndingle	Fields	1022	1018
+me	place	FI006	Desolation of the Morannon	Fields	1525	868
+me	place	FI009	Field of Celebrant	Fields	1240	1146
+me	place	FI010	Field of Cormallen	Fields	1458	741
+me	place	FI011	Firienfeld	Fields	1051	820
+me	place	FI016	Lithlad	Fields	1936	683
+me	place	FI017	Desert of Lostladen	Fields	1687	324
+me	place	FI021	Parth Galen	Fields	1368	883
+me	place	FI022	Party Field	Fields	544	1431
+me	place	FI024	Pelennor Fields	Fields	1438	663
+me	place	FI025	Plateau of Gorgoroth	Fields	1679	700
+me	place	FI028	The Wold	Fields	1245	1036
+me	place	FJ002	Crossings of Erui	Fords	1401	606
+me	place	FJ003	Entwade	Fords	1145	895
+me	place	FJ006	Ford of Bruinen	Fords	1070	1464
+me	place	FJ007	Ford of Carrock	Fords	1277	1520
+me	place	FJ008	Fords of Isen	Fords	963	930
+me	place	FJ009	Crossings of Poros	Fords	1467	458
+me	place	FJ010	North Undeep	Fords	1281	1102
+me	place	FJ011	Old Ford	Fords	1286	1500
+me	place	FJ013	Sarn Ford	Fords	580	1279
+me	place	FJ014	South Undeep	Fords	1342	1036
+me	place	FO003	Bindbole Wood	Forests	545	1455
+me	place	FO005	Chetwood	Forests	679	1442
+me	place	FO006	Dimholt	Forests	1053	818
+me	place	FO007	Drúadan Forest	Forests	1405	718
+me	place	FO010	Eryn Vorn	Forests	426	1127
+me	place	FO012	Fangorn Forest	Forests	1075	1046
+me	place	FO013	Firienholt	Forests	1240	776
+me	place	FO016	Grey Wood	Forests	1428	697
+me	place	FO017	Lothlórien	Forests	1189	1234
+me	place	FO018	Mirkwood	Forests	1443	1439
+me	place	FO023	Old Forest	Forests	613	1392
+me	place	FO032	Treegarth of Orthanc	Forests	963	997
+me	place	FO033	Trollshaws	Forests	986	1435
+me	place	FO037	Woody End	Forests	571	1400
+me	place	FT004	Barad-dûr	Fortresses	1632	747
+me	place	FT005	Black Gate	Fortresses	1525	856
+me	place	FT006	Carchost	Fortresses	1527	856
+me	place	FT008	Dol Guldur	Fortresses	1342	1232
+me	place	FT009	Dunharrow	Fortresses	1052	821
+me	place	FT010	Durthang	Fortresses	1502	788
+me	place	FT014	Helm's Deep	Fortresses	967	900
+me	place	FT016	Hornburg	Fortresses	967	900
+me	place	FT017	Isengard	Fortresses	963	997
+me	place	FT021	Narchost	Fortresses	1521	856
+me	place	FT025	Tower of Cirith Ungol	Fortresses	1544	688
+me	place	GR001	Balin's Tomb	Graves_Tombs	1111	1283
+me	place	GR003	Barrowfield	Graves_Tombs	1046	835
+me	place	GR005	Battle Pit	Graves_Tombs	554	1424
+me	place	GR006	Death Down	Graves_Tombs	969	900
+me	place	GR008	Haudh in Gwanûr	Graves_Tombs	1458	460
+me	place	GR012	House of the Kings	Graves_Tombs	1427	654
+me	place	GR013	House of the Stewards	Graves_Tombs	1428	654
+me	place	GR016	Mound of Riders	Graves_Tombs	963	930
+me	place	GR018	Mounds of Mundburg	Graves_Tombs	1441	662
+me	place	GR021	Tomb of Elendil	Graves_Tombs	1240	764
+me	place	HA008	Grindwall	Harbors	600	1382
+me	place	HA012	Mithe Steps	Harbors	591	1385
+me	place	HI004	Amon Hen	Hills	1365	884
+me	place	HI006	Amon Lhaw	Hills	1378	889
+me	place	HI011	Barrow-downs	Hills	682	1366
+me	place	HI012	Bree-hill	Hills	682	1446
+me	place	HI013	Buck Hill	Hills	612	1410
+me	place	HI014	Cerin Amroth	Hills	1215	1221
+me	place	HI017	Dol Baran	Hills	976	969
+me	place	HI020	Emyn Arnen	Hills	1457	634
+me	place	HI022	Emyn Muil	Hills	1384	919
+me	place	HI023	Erech	Hills	1073	744
+me	place	HI025	Far Downs	Hills	510	1325
+me	place	HI027	Green Hills	Hills	543	1405
+me	place	HI029	Hill of Guard	Hills	1429	654
+me	place	HI032	Hills of Evendim	Hills	547	1632
+me	place	HI033	Hills of Scary	Hills	597	1452
+me	place	HI035	Hobbiton Hill	Hills	566	1432
+me	place	HI036	Hollin Ridge	Hills	993	1262
+me	place	HI037	Iron Hills	Hills	1647	1592
+me	place	HI039	North Downs	Hills	711	1615
+me	place	HI042	Ravenhill	Hills	1532	1599
+me	place	HI044	Slag-hills	Hills	1513	854
+me	place	HI045	South Downs	Hills	750	1350
+me	place	HI046	Tarnost	Hills	1113	560
+me	place	HI048	Tower Hills	Hills	365	1433
+me	place	HI051	Weather Hills	Hills	730	1483
+me	place	HI052	Weathertop	Hills	769	1438
+me	place	HI053	White Downs	Hills	463	1407
+me	place	IS002	Cair Andros	Islands	1451	730
+me	place	IS003	Carrock	Islands	1277	1521
+me	place	IS008	Girdley Island	Islands	608	1431
+me	place	IS012	Tol Brandir	Islands	1369	889
+me	place	IS019	Tolfalas	Islands	1163	421
+me	place	LA002	Bywater Pool	Lakes	557	1428
+me	place	LA006	Lake Evendim	Lakes	561	1566
+me	place	LA009	Long Lake	Lakes	1559	1537
+me	place	LA012	Mirrormere	Lakes	1147	1238
+me	place	LA013	Nen Hithoel	Lakes	1372	901
+me	place	LA017	Sea of Núrnen	Lakes	1915	526
+me	place	LA019	Sea of Rhûn	Lakes	1998	1179
+me	place	MT005	Blue Mountains	Mountains	267	1818
+me	place	MT006	Caradhras	Mountains_of_Moria	1065	1311
+me	place	MT007	Celebdil	Mountains_of_Moria	1067	1218
+me	place	MT009	Cûl Bîn	Mountains	1096	678
+me	place	MT010	Cûl Veleg	Mountains	1098	712
+me	place	MT011	Dol Tarlang	Mountains	1111	727
+me	place	MT014	Ephel Dúath	Mountains	1575	417
+me	place	MT016	Ered Lithui	Mountains	1745	825
+me	place	MT020	Fanuidhol	Mountains_of_Moria	1143	1273
+me	place	MT022	Grey Mountains	Mountains	1541	1665
+me	place	MT024	Gundabad	Mountains	1121	1709
+me	place	MT029	Lonely Mountain	Mountains	1524	1607
+me	place	MT033	Mindolluin	Mountains	1407	669
+me	place	MT034	Misty Mountains	Mountains	1103	1274
+me	place	MT035	Morgai	Mountains	1537	672
+me	place	MT036	Mount Doom	Mountains	1614	731
+me	place	MT039	Mountains of Angmar	Mountains	997	1758
+me	place	MT041	Mountains of Mirkwood	Mountains	1515	1466
+me	place	MT048	Ras Morthil	Mountains	528	521
+me	place	MT055	White Mountains	Mountains	1364	684
+me	place	MT058	Amon Anwar	Mountains	1239	764
+me	place	MT060	Calenhad	Mountains	1290	757
+me	place	MT064	Írensaga	Mountains	1061	825
+me	place	RD004	Bagshot Row	Roads	548	1430
+me	place	RD005	Bywater Road	Roads	516	1426
+me	place	RD006_10	Causeway	Roads	597	1406
+me	place	RD012	Great East Road	Roads	820	1453
+me	place	RD013	Elf-path	Roads	1397	1547
+me	place	RD014	Ferry Lane	Roads	598	1406
+me	place	RD016	Gateway	Roads	1431	653
+me	place	RD017	The Greenway	Roads	563	1297
+me	place	RD018	Harad Road	Roads	1437	387
+me	place	RD019	Hill Road	Roads	553	1432
+me	place	RD020	Hobbiton Road	Roads	553	1426
+me	place	RD021	Lampwrights' Street	Roads	1430	653
+me	place	RD024	North-South Road	Roads	993	874
+me	place	RD025	Northway	Roads	572	1446
+me	place	RD026	Old Forest Road	Roads	1418	1453
+me	place	RD028	Old South Road	Roads	863	1052
+me	place	RD031	Rath Dínen	Roads	1428	654
+me	place	RD034	South Lane	Roads	552	1426
+me	place	RD035	South Road	Roads	1398	595
+me	place	RD036	Stair of the Hold	Roads	1052	822
+me	place	RD038	Stock Road	Roads	568	1407
+me	place	RD040	Straight Stair	Roads	1520	686
+me	place	RD041	Under-way	Roads	1543	688
+me	place	RD043	Winding Stair	Roads	1537	686
+me	place	RD044	Great West Road	Roads	1194	806
+me	place	RD045	Deeping-road	Roads	956	896
+me	place	RD046	Morgul Road	Roads	1554	710
+me	place	RD047	Gorgoroth Road	Roads	1632	748
+me	place	RD048	Southward Road	Roads	1483	779
+me	place	RD049	Sauron's Road	Roads	1608	730
+me	place	RI003	Anduin	Rivers	1349	1090
+me	place	RI006	Baranduin	Rivers	588	1301
+me	place	RI011	Bruinen	Rivers	987	1397
+me	place	RI013	Carnen	Rivers	1698	1501
+me	place	RI014	Celebrant	Rivers	1172	1200
+me	place	RI017	Celos	Rivers	1330	645
+me	place	RI018	Ciril	Rivers	1121	675
+me	place	RI022	Enchanted River	Rivers	1441	1524
+me	place	RI023	Erui	Rivers	1403	598
+me	place	RI027	Forest River	Rivers	1414	1596
+me	place	RI029	Gilrain	Rivers	1250	613
+me	place	RI031	Gladden River	Rivers	1181	1402
+me	place	RI032	Glanduin	Rivers	874	1154
+me	place	RI035	Greylin	Rivers	1237	1670
+me	place	RI038	Gwathló	Rivers	734	1134
+me	place	RI039	Harnen	Rivers	1641	286
+me	place	RI040	Hoarwell	Rivers	938	1490
+me	place	RI042	Langwell	Rivers	1196	1646
+me	place	RI043	Lefnui	Rivers	740	661
+me	place	RI045	Lhûn	Rivers	392	1640
+me	place	RI049	Limlight	Rivers	1172	1122
+me	place	RI052	Little Lune	Rivers	336	1720
+me	place	RI056	Morgulduin	Rivers	1495	683
+me	place	RI057	Morthond	Rivers	1007	689
+me	place	RI061	Nimrodel	Rivers	1136	1188
+me	place	RI062	Norbourn	Rivers	562	1447
+me	place	RI064	Poros	Rivers	1422	451
+me	place	RI066	Rhimdath	Rivers	1243	1561
+me	place	RI067	Ringló	Rivers	1168	644
+me	place	RI069	River Running	Rivers	1722	1429
+me	place	RI072	Serni	Rivers	1296	549
+me	place	RI073	Shirebourn	Rivers	563	1372
+me	place	RI077	Sirith	Rivers	1353	600
+me	place	RI080	The Water	Rivers	543	1429
+me	place	RI083	Withywindle	Rivers	617	1389
+me	place	RI084	Adorn	Rivers	859	848
+me	place	RI085	Entwash	Rivers	1144	903
+me	place	RI086	Isen	Rivers	809	901
+me	place	RI087	Mering Stream	Rivers	1269	800
+me	place	RI088	Snowbourn	Rivers	1098	840
+me	place	RI089	Deeping-stream	Rivers	1052	921
+me	place	RI092	Sirannon	Rivers	994	1201
+me	place	RI093	Stock-brook	Rivers	591	1405
+me	place	RI094	Thistle Brook	Rivers	565	1382
+me	place	SW002	Dead Marshes	Swamps	1476	918
+me	place	SW004	Fenmark	Swamps	1286	813
+me	place	SW006	Gladden Fields	Swamps	1267	1420
+me	place	SW007	Long Marshes	Swamps	1524	1565
+me	place	SW008	Marish	Swamps	596	1405
+me	place	SW010	Midgewater Marshes	Swamps	701	1440
+me	place	SW011	Nindalf	Swamps	1402	852
+me	place	SW012	Overbourn Marshes	Swamps	589	1369
+me	place	SW013	Rushock Bog	Swamps	528	1438
+me	place	SW014	Swanfleet	Swamps	771	1164
+me	place	TO002	Aldburg	Towns	1059	846
+me	place	TO006	Annúminas	Towns	562	1551
+me	place	TO007	Archet	Towns	670	1441
+me	place	TO011	Bree	Towns	665	1434
+me	place	TO012	Breredon	Towns	600	1382
+me	place	TO014	Bucklebury	Towns	608	1410
+me	place	TO015	Budgeford	Towns	596	1431
+me	place	TO016	Bywater	Towns	555	1425
+me	place	TO017	Calembel	Towns	1124	662
+me	place	TO018	Caras Galadhon	Towns	1215	1221
+me	place	TO019	Carn Dûm	Towns	864	1779
+me	place	TO021	Combe	Towns	668	1436
+me	place	TO022	Crickhollow	Towns	611	1414
+me	place	TO024	Dale	Towns	1529	1594
+me	place	TO025	Deephallow	Towns	590	1386
+me	place	TO026	Dol Amroth	Towns	1026	552
+me	place	TO027	Dwaling	Towns	607	1460
+me	place	TO028	Edhellond	Towns	1054	579
+me	place	TO029	Edoras	Towns	1051	836
+me	place	TO031	Elvenking's Halls	Towns	1488	1576
+me	place	TO034	Forlond	Towns	122	1518
+me	place	TO035	Fornost Erain	Towns	650	1514
+me	place	TO036	Framsburg	Towns	1214	1645
+me	place	TO037	Frogmorton	Towns	578	1424
+me	place	TO038	Gamwich	Towns	444	1467
+me	place	TO039	Goblin-town	Towns	1189	1527
+me	place	TO042	Greenholm	Towns	464	1388
+me	place	TO043	Grey Havens	Towns	308	1420
+me	place	TO045	Harlond	Towns	1430	649
+me	place	TO046	Harlond	Towns	176	1350
+me	place	TO049	Haysend	Towns	597	1383
+me	place	TO050	Hobbiton	Towns	550	1426
+me	place	TO051	Kingdom under the Mountain	Towns	1524	1605
+me	place	TO053	Lake-town	Towns	1553	1546
+me	place	TO054	Linhir	Towns	1204	527
+me	place	TO055	Little Delving	Towns	470	1421
+me	place	TO056	Lond Daer	Towns	535	979
+me	place	TO058	Long Cleeve	Towns	500	1472
+me	place	TO059	Longbottom	Towns	539	1345
+me	place	TO061	Michel Delving	Towns	478	1398
+me	place	TO064	Minas Morgul	Towns	1506	680
+me	place	TO065	Minas Tirith	Towns	1429	653
+me	place	TO066	Moria	Towns	1112	1284
+me	place	TO069	Needlehole	Towns	518	1442
+me	place	TO070	Newbury	Towns	610	1417
+me	place	TO072	Nobottle	Towns	496	1433
+me	place	TO075	Oatbarton	Towns	566	1471
+me	place	TO078	Osgiliath	Towns	1461	666
+me	place	TO079	Ost-in-Edhil	Towns	898	1154
+me	place	TO080	Overhill	Towns	550	1436
+me	place	TO081	Pelargir	Towns	1371	527
+me	place	TO082	Pincup	Towns	552	1396
+me	place	TO083	Quarry	Towns	598	1449
+me	place	TO084	Rivendell	Towns	1113	1485
+me	place	TO087	Rushey	Towns	590	1394
+me	place	TO088	Scary	Towns	594	1449
+me	place	TO089	Staddle	Towns	668	1434
+me	place	TO090	Standelf	Towns	597	1396
+me	place	TO091	Stock	Towns	599	1411
+me	place	TO093	Tharbad	Towns	731	1146
+me	place	TO094	Tighfield	Towns	451	1439
+me	place	TO096	Tookbank	Towns	530	1404
+me	place	TO097	Tuckborough	Towns	537	1404
+me	place	TO100	Underharrow	Towns	1054	831
+me	place	TO101	Underhill	Towns	552	1431
+me	place	TO102	Undertowers	Towns	375	1412
+me	place	TO103	Upbourn	Towns	1054	830
+me	place	TO107	Waymeet	Towns	527	1414
+me	place	TO108	Whitfurrows	Towns	593	1427
+me	place	TO109	Whitwell	Towns	523	1404
+me	place	TO110	Willowbottom	Towns	575	1379
+me	place	TO111	Woodhall	Towns	583	1405
+me	place	VA001	Blackroot Vale	Valleys	1047	745
+me	place	VA003	Deeping-coomb	Valleys	968	900
+me	place	VA004	Dimrill Dale	Valleys	1147	1239
+me	place	VA005	Dwimorberg glen	Valleys	1052	817
+me	place	VA006	Entwash Vale	Valleys	1287	829
+me	place	VA008	Harrowdale	Valleys	1054	824
+me	place	VA011	Imloth Melui	Valleys	1402	597
+me	place	VA013	Morgul Vale	Valleys	1513	681
+me	place	VA014	Nan Curunír	Valleys	968	987
+me	place	VA017	Ringló Vale	Valleys	1254	685
+me	place	VA018	Stonewain Valley	Valleys	1418	719
+me	place	VA020	Tumladen	Valleys	1356	631
+me	place	VA021	Udûn	Valleys	1531	810
+me	place	VA025	Water-valley	Valleys	600	1428
+me	place	VA026	Withered Heath	Valleys	1554	1689
+me	place	VA028	Andrath	Valleys	677	1398
+me	place	VA030	Carach Angren	Valleys	1542	791
+me	place	VA031	Cirith Gorgor	Valleys	1525	848
+me	place	VA034	Cirith Ungol	Valleys	1525	664
+me	place	VA035	Dimrill Stair	Valleys	1145	1245
+me	place	VA036	High Pass	Valleys	1205	1523
+me	place	VA037	North Stair	Valleys	1371	875
+me	place	VA040	Paths of the Dead	Valleys	1059	763
+me	place	VA041	Tarlang's Neck	Valleys	1112	740
+me	place	WA001	City Wall	Walls	1429	652
+me	place	WA002	Deeping Wall	Walls	967	900
+me	place	WA004	Helm's Dike	Walls	967	900
+me	place	WA005	High Hay	Walls	608	1405
+me	place	WA006	Rammas Echor	Walls	1447	659
+me	place	WA007	Ring of Isengard	Walls	965	999
+me	realm	realm:anfalas	Anfalas (Langstrand)		876	532
+me	realm	realm:angmar	Angmar		937	1748
+me	realm	realm:anorien	Anórien		1329	758
+me	realm	realm:arnor	Arnor		650	1500
+me	realm	realm:arthedain	Arthedain		610	1524
+me	realm	realm:belfalas	Belfalas		1036	577
+me	realm	realm:bree-land	Bree-land		655	1437
+me	realm	realm:brown-lands	The Brown Lands		1469	1090
+me	realm	realm:cardolan	Cardolan		682	1306
+me	realm	realm:dunland	Dunland		880	1040
+me	realm	realm:enedwaith	Enedwaith		701	991
+me	realm	realm:erebor	Erebor (Kingdom under the Mountain)		1524	1605
+me	realm	realm:ered-luin	Ered Luin (Blue Mountains)		306	1680
+me	realm	realm:eregion	Eregion (Hollin)		948	1204
+me	realm	realm:eriador	Eriador		800	1403
+me	realm	realm:esgaroth	Esgaroth (Lake-town)		1553	1546
+me	realm	realm:fangorn	Fangorn		1075	1046
+me	realm	realm:forodwaith	Forodwaith		683	1881
+me	realm	realm:gondor	Gondor		1249	643
+me	realm	realm:harad	Harad (northern edge)		1701	326
+me	realm	realm:harondor	Harondor (South Gondor)		1522	391
+me	realm	realm:ithilien	Ithilien		1471	640
+me	realm	realm:khazad-dum	Khazad-dûm (Moria)		1112	1284
+me	realm	realm:lamedon	Lamedon		1169	672
+me	realm	realm:lebennin	Lebennin		1293	595
+me	realm	realm:lindon	Lindon		221	1441
+me	realm	realm:lossarnach	Lossarnach		1392	622
+me	realm	realm:minhiriath	Minhiriath		595	1229
+me	realm	realm:mordor	Mordor		1659	720
+me	realm	realm:old-forest	The Old Forest		613	1392
+me	realm	realm:rhovanion	Rhovanion (Wilderland)		1443	1349
+me	realm	realm:rhudaur	Rhudaur		908	1480
+me	realm	realm:rhun	Rhûn		2098	1149
+me	realm	realm:rohan	Rohan		1101	876
+me	realm	realm:the-shire	The Shire		540	1411
+me	realm	realm:vales-of-anduin	Vales of Anduin (Beornings)		1282	1470
+me	realm	realm:woodland-realm	Woodland Realm		1470	1511

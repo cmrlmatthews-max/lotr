@@ -1,0 +1,1323 @@
+[
+ {
+  "id": "person:melian",
+  "title": "Melian",
+  "group": "Wizards and Maiar",
+  "kind": "Maia, Queen of Doriath",
+  "aka": [
+   "Queen of Doriath",
+   "Melian the Maia"
+  ],
+  "blurb": "A Maia of Valinor who became Queen of Doriath, wife of Thingol, and raised the Girdle that guarded the realm.",
+  "book": "Melian was a Maia who served Vána and Estë in Valinor. She loved the forests of Middle-earth and came there in the early days of the Elves. Her singing drew the nightingales to follow her.\n\nThingol of the Teleri heard her in Nan Elmoth and stood under her spell for many years. They loved each other, and he became King of Doriath with Melian as his queen. Their daughter was Lúthien.\n\nMelian dwelt with Thingol in Menegroth. Her power set the Girdle of Melian about the heart of Doriath. No creature of Morgoth could pass it against her will. She also taught wisdom to the Sindar.\n\nHer foresight could not turn aside the doom that came with the Silmaril. When Dwarves of Nogrod killed Thingol, Melian left Middle-earth in grief and returned to Valinor. The Girdle faded, and Menegroth was soon sacked.\n\nThrough Lúthien and Beren, Melian became the ancestor of Elrond, Elros and Arwen.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Maia",
+   "Spouse": "Thingol",
+   "Children": "Lúthien",
+   "Realm or home": "Doriath"
+  },
+  "places": [
+   {
+    "id": "b:FO05",
+    "role": "other",
+    "note": "Thingol finds her singing here and falls under her enchantment."
+   },
+   {
+    "id": "b:TO01",
+    "role": "lived",
+    "note": "Dwells with Thingol in the halls of Menegroth."
+   },
+   {
+    "id": "b:RG07",
+    "role": "ruled",
+    "note": "Rules Doriath as queen beside Thingol."
+   },
+   {
+    "id": "b:NP012",
+    "role": "made",
+    "note": "Her power raises the Girdle that shields Doriath from enemies."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Valinor",
+    "role": "other",
+    "note": "Serves Vána and Estë, and returns there after Thingol dies."
+   }
+  ],
+  "related": [
+   "person:thingol",
+   "person:luthien",
+   "person:dior",
+   "person:beren",
+   "person:elrond",
+   "person:arwen",
+   "thing:silmarils"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:manwe",
+  "title": "Manwë",
+  "group": "Valar",
+  "kind": "King of the Valar and Arda",
+  "aka": [
+   "Súlimo",
+   "King of Arda",
+   "Elder King"
+  ],
+  "blurb": "The first of the Valar, lord of the airs and winds, who sits on Taniquetil as King of Arda.",
+  "book": "Manwë is the chief of the Valar and the one dearest to Ilúvatar. He is lord of the air and the winds. His wife is Varda, and together they sit upon Taniquetil, the highest mountain of the world.\n\nBirds and the Great Eagles serve him as eyes and messengers. Thorondor, King of the Eagles, brought word to Manwë and carried his will into Middle-earth.\n\nManwë led the Valar in their war against Melkor, who was his brother in the thought of Ilúvatar. He later granted Melkor pardon after a long imprisonment. Melkor betrayed that trust and destroyed the Two Trees.\n\nAfter Eärendil pleaded for the Elves and Men of Middle-earth, Manwë sent the host of the Valar under Eönwë to the War of Wrath. Morgoth fell, and Beleriand was broken.\n\nWhen the Númenóreans attacked Aman, Manwë laid down the governance of the world and called upon Ilúvatar. The land of Númenor was drowned, and Valinor was removed beyond the reach of Men.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Vala",
+   "Title": "King of the Valar",
+   "Spouse": "Varda",
+   "Siblings": "Melkor, as brother in the thought of Ilúvatar",
+   "Realm or home": "Taniquetil, Valinor"
+  },
+  "places": [],
+  "offmap": [
+   {
+    "name": "Taniquetil",
+    "role": "lived",
+    "note": "Sits on his throne on the highest peak of Arda with Varda."
+   },
+   {
+    "name": "Valinor",
+    "role": "other",
+    "note": "Calls the Valar in council and sends the host against Morgoth."
+   }
+  ],
+  "related": [
+   "person:varda",
+   "person:morgoth",
+   "person:eonwe",
+   "person:thorondor",
+   "person:earendil",
+   "person:mandos",
+   "person:ar-pharazon"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:varda",
+  "title": "Varda",
+  "group": "Valar",
+  "kind": "Queen of the Valar, maker of the stars",
+  "aka": [
+   "Elbereth",
+   "Elentári",
+   "Gilthoniel",
+   "Queen of the Stars"
+  ],
+  "blurb": "Queen of the Valar and wife of Manwë, who made the stars and is called Elbereth by the Elves.",
+  "book": "Varda is the wife of Manwë and the greatest of the queens of the Valar. She dwells with him on Taniquetil. Her sight reaches farther than the sight of any other Vala, into deep places of darkness.\n\nBefore the Elves awoke, she gathered the silver dew of Telperion and made the stars. The Elves woke under those stars, and they honor her above all the Valar. They know her by many names, among them Elbereth and Elentári.\n\nMelkor hated her above all, because she rejected him from the beginning. He feared her and could not abide her light.\n\nIn the Third Age the Elves still sing hymns to Elbereth Gilthoniel. Frodo and Sam call upon her name in moments of great peril.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Vala",
+   "Title": "Queen of the Stars",
+   "Spouse": "Manwë",
+   "Realm or home": "Taniquetil, Valinor"
+  },
+  "places": [],
+  "offmap": [
+   {
+    "name": "Taniquetil",
+    "role": "lived",
+    "note": "Dwells with Manwë and looks out over Arda from the high peak."
+   }
+  ],
+  "related": [
+   "person:manwe",
+   "person:morgoth",
+   "person:gildor-inglorion",
+   "person:frodo-baggins",
+   "person:earendil",
+   "thing:silmarils"
+  ],
+  "sources": [
+   "The Silmarillion",
+   "The Lord of the Rings"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:ulmo",
+  "title": "Ulmo",
+  "group": "Valar",
+  "kind": "Lord of Waters",
+  "aka": [
+   "Lord of Waters"
+  ],
+  "blurb": "The Vala who rules the waters of the world, and the one who most steadily helped Elves and Men in Middle-earth.",
+  "book": "Ulmo is the Lord of Waters. He dwells in the Outer Sea and seldom comes to the councils of the Valar. His power moves through every river, spring and sea, and he hears the sorrows of Middle-earth in their sound.\n\nWhen the other Valar turned from Middle-earth, Ulmo never ceased to care for the Elves and Men there. His vassals Ossë and Uinen serve him in the seas, and he sends counsel through the waters.\n\nIn the First Age he spoke to Turgon in Nevrast and told him to found the hidden city of Gondolin. Later he sent Tuor to Gondolin with a warning to heed. Turgon did not heed it, and the city fell.\n\nUlmo also held the hope of the exiled Noldor. Through Tuor and Idril came Eärendil, who sailed to Valinor and pleaded for pardon on behalf of the Elves and Men.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Vala",
+   "Title": "Lord of Waters",
+   "Realm or home": "The Outer Sea"
+  },
+  "places": [
+   {
+    "id": "b:TO04",
+    "role": "other",
+    "note": "Appears to Turgon at Vinyamar, and later to Tuor on the same shore."
+   },
+   {
+    "id": "b:TO03",
+    "role": "other",
+    "note": "His counsel guides the founding of Gondolin, and his warning is ignored."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "The Outer Sea",
+    "role": "lived",
+    "note": "Dwells in the deep waters beyond the shores of the world."
+   }
+  ],
+  "related": [
+   "person:tuor",
+   "person:turgon",
+   "person:osse",
+   "person:earendil",
+   "person:voronwe",
+   "person:manwe"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:aule",
+  "title": "Aulë",
+  "group": "Valar",
+  "kind": "Smith of the Valar, maker of the Dwarves",
+  "aka": [
+   "Mahal",
+   "the Smith"
+  ],
+  "blurb": "The Vala of crafts and the earth, who made the Dwarves in secret and is called Mahal by them.",
+  "book": "Aulë is the Vala of smiths, mountains and metals. He is the husband of Yavanna. His love of craft was great, and he made many things of great skill, among them the Lamps of the Valar.\n\nOut of impatience for the Children of Ilúvatar, Aulë made the Seven Fathers of the Dwarves in secret. Ilúvatar rebuked him, and Aulë raised his hammer to destroy them in humility. Ilúvatar spared them and let them live.\n\nThe Dwarves called him Mahal and revered him as their maker. The Noldor were also his friends and learned much craft from his teaching.\n\nSauron began as one of his Maiar, before Morgoth corrupted him.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Vala",
+   "Title": "The Smith",
+   "Spouse": "Yavanna",
+   "Realm or home": "Valinor"
+  },
+  "places": [],
+  "offmap": [
+   {
+    "name": "Valinor",
+    "role": "lived",
+    "note": "Keeps his halls and forges in the land of the Valar."
+   }
+  ],
+  "related": [
+   "person:yavanna",
+   "person:sauron",
+   "person:durin-the-deathless",
+   "person:feanor",
+   "thing:lamps-of-the-valar",
+   "thing:mithril"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:yavanna",
+  "title": "Yavanna",
+  "group": "Valar",
+  "kind": "Giver of Fruits, Vala of growing things",
+  "aka": [
+   "Kementári",
+   "Giver of Fruits"
+  ],
+  "blurb": "The Vala who loves all that grows, wife of Aulë, and the one who sang the Two Trees into life.",
+  "book": "Yavanna is the Vala of growing things and wife of Aulë. She loves the trees, the beasts and every living thing of the earth.\n\nWith the tears of Nienna she sang the Two Trees, Telperion and Laurelin, on the mound of Ezellohar. Their light filled Valinor until Melkor and Ungoliant destroyed them.\n\nWhen she learned that Aulë had made the Dwarves, she feared for the forests. She begged Manwë for guardians of the trees, and the Ents later arose to watch over them.\n\nAfter the death of the Trees, she could do no more than bring forth one flower and one fruit. These became the Moon and the Sun.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Vala",
+   "Title": "Giver of Fruits",
+   "Spouse": "Aulë",
+   "Realm or home": "Valinor"
+  },
+  "places": [],
+  "offmap": [
+   {
+    "name": "Ezellohar",
+    "role": "made",
+    "note": "Sings the Two Trees into being on the green mound before the gates of Valmar."
+   }
+  ],
+  "related": [
+   "person:aule",
+   "person:manwe",
+   "person:nienna",
+   "person:treebeard",
+   "thing:two-trees",
+   "thing:white-tree"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:orome",
+  "title": "Oromë",
+  "group": "Valar",
+  "kind": "Huntsman of the Valar",
+  "aka": [
+   "Aldaron",
+   "Araw",
+   "the Huntsman"
+  ],
+  "blurb": "The Huntsman of the Valar, who found the Elves at Cuiviénen and led them toward Valinor.",
+  "book": "Oromë is the Vala of the hunt and the forests. He rides the great horse Nahar and blows the horn Valaróma, whose sound is a terror to his foes. His wife is Vána.\n\nHe often rode through Middle-earth in the Elder Days, hunting the monsters of Melkor. On one of these journeys he found the Elves by Cuiviénen, drawn by their singing.\n\nOromë was the first of the Valar to meet the Elves. He urged them to come to Valinor and led the Great Journey of those who answered the call.\n\nEldar remembered him with the name Araw in Sindarin.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Vala",
+   "Title": "The Huntsman",
+   "Spouse": "Vána",
+   "Siblings": "Nessa",
+   "Weapon or steed": "Nahar, the horn Valaróma",
+   "Realm or home": "Valinor"
+  },
+  "places": [],
+  "offmap": [
+   {
+    "name": "Cuiviénen",
+    "role": "found",
+    "note": "Finds the first Elves beside the Water of Awakening and speaks with them."
+   },
+   {
+    "name": "Valinor",
+    "role": "lived",
+    "note": "Keeps his halls in the woods of Valinor."
+   }
+  ],
+  "related": [
+   "person:vana",
+   "person:nessa",
+   "person:tulkas",
+   "person:yavanna",
+   "person:morgoth",
+   "person:manwe"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:mandos",
+  "title": "Mandos",
+  "group": "Valar",
+  "kind": "Doomsman of the Valar",
+  "aka": [
+   "Námo",
+   "Doomsman of the Valar"
+  ],
+  "blurb": "The Vala who keeps the Houses of the Dead and speaks the dooms of the Valar.",
+  "book": "Mandos, whose true name is Námo, is the Vala who keeps the spirits of the dead. He is the brother of Irmo and Nienna, and his wife is Vairë. His halls lie in the west of Valinor.\n\nThe spirits of slain Elves go to the Halls of Mandos to wait. He knows all that will happen, except what Ilúvatar changes, and he speaks the dooms of the Valar.\n\nHe pronounced the Doom of Mandos upon the Noldor who left Valinor in rebellion with Fëanor. It foretold their long sorrow in Middle-earth.\n\nLúthien came before him after Beren was slain and sang her grief. Mandos was moved to pity. After counsel with Manwë, Lúthien was given a choice, and Beren returned to life with her.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Vala",
+   "Title": "Doomsman of the Valar",
+   "Spouse": "Vairë",
+   "Siblings": "Irmo, Nienna",
+   "Realm or home": "Halls of Mandos, Valinor"
+  },
+  "places": [],
+  "offmap": [
+   {
+    "name": "Halls of Mandos",
+    "role": "kept",
+    "note": "Keeps the spirits of the dead and hears the song of Lúthien."
+   },
+   {
+    "name": "Araman",
+    "role": "other",
+    "note": "Pronounces the Doom upon the Noldor who defied the Valar."
+   }
+  ],
+  "related": [
+   "person:vaire",
+   "person:luthien",
+   "person:beren",
+   "person:feanor",
+   "person:nienna",
+   "person:lorien"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:nienna",
+  "title": "Nienna",
+  "group": "Valar",
+  "kind": "Vala of pity and mourning",
+  "aka": [],
+  "blurb": "The Vala of pity and mourning, sister of Mandos and Irmo, who taught compassion to Olórin.",
+  "book": "Nienna is the Vala who grieves for all the hurts of Arda. She is the sister of Mandos and Irmo. Her halls lie west of the West, on the borders of the world.\n\nHer mourning is not despair. Those who listen to her gain strength in sorrow and learn to hope. She wept over the marred world from its beginning.\n\nWith her tears Yavanna sang the Two Trees into life. After the Trees were slain, she washed away the filth of Ungoliant with her tears.\n\nOlórin, who later came to Middle-earth as Gandalf, sat at her feet and learned pity from her.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Vala",
+   "Siblings": "Mandos, Irmo",
+   "Realm or home": "Valinor"
+  },
+  "places": [],
+  "offmap": [
+   {
+    "name": "Valinor",
+    "role": "lived",
+    "note": "Keeps her halls in the far west, on the borders of the world."
+   }
+  ],
+  "related": [
+   "person:mandos",
+   "person:lorien",
+   "person:yavanna",
+   "person:gandalf",
+   "thing:two-trees"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:tulkas",
+  "title": "Tulkas",
+  "group": "Valar",
+  "kind": "Champion of the Valar",
+  "aka": [
+   "Astaldo",
+   "the Strong"
+  ],
+  "blurb": "The strongest of the Valar, a champion who came to the aid of Arda and chained Melkor.",
+  "book": "Tulkas is the Vala of strength and wrestling. His wife is Nessa. He is slow to anger and quick to laughter, and he fights without weapons.\n\nWhen the Valar first strove with Melkor, Tulkas came into Arda to aid them. Melkor fled before him.\n\nAfter the war with Melkor, Tulkas wrestled him down, and he was bound in the chain Angainor. Melkor was held in the halls of Mandos for three ages.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Vala",
+   "Title": "The Strong",
+   "Spouse": "Nessa",
+   "Realm or home": "Valinor"
+  },
+  "places": [],
+  "offmap": [
+   {
+    "name": "Valinor",
+    "role": "lived",
+    "note": "Dwells in the land of the Valar as their champion in arms."
+   }
+  ],
+  "related": [
+   "person:nessa",
+   "person:morgoth",
+   "person:orome",
+   "person:manwe",
+   "person:mandos"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:lorien",
+  "title": "Irmo",
+  "group": "Valar",
+  "kind": "Vala of dreams and visions",
+  "aka": [
+   "Lórien",
+   "Master of visions and dreams"
+  ],
+  "blurb": "The Vala of dreams and visions, called Lórien after his gardens, husband of Estë.",
+  "book": "Irmo is the Vala of dreams and visions. He is the brother of Mandos and Nienna, and his wife is Estë. He is better known by the name Lórien, which comes from the gardens where he dwells.\n\nThe gardens of Lórien in Valinor are the fairest in the world. They are full of shadows and fountains. All who dwell in Valinor find rest and renewal there.\n\nOlórin, the Maia who later came to Middle-earth as Gandalf, dwelt in Lórien for a time.\n\nThe Elves honored Irmo for the dreams and visions that come to the sleeper.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Vala",
+   "Title": "Master of dreams",
+   "Spouse": "Estë",
+   "Siblings": "Mandos, Nienna",
+   "Realm or home": "Gardens of Lórien, Valinor"
+  },
+  "places": [],
+  "offmap": [
+   {
+    "name": "Gardens of Lórien",
+    "role": "lived",
+    "note": "Keeps the fair gardens where spirits find rest and dreams."
+   }
+  ],
+  "related": [
+   "person:este",
+   "person:mandos",
+   "person:nienna",
+   "person:gandalf"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:este",
+  "title": "Estë",
+  "group": "Valar",
+  "kind": "Healer of the Valar",
+  "aka": [
+   "the Gentle"
+  ],
+  "blurb": "The Gentle, a Vala who heals hurts and weariness and gives rest, wife of Irmo.",
+  "book": "Estë is the Vala of healing and rest. She is the wife of Irmo. Her gift is the healing of hurts and weariness.\n\nShe walks in the gardens of Lórien and sleeps by day on an island in the lake Lórellin. All in Valinor come to her for refreshment.\n\nMelian was one of the Maiar who served her before going to Middle-earth.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Vala",
+   "Title": "The Gentle",
+   "Spouse": "Irmo",
+   "Realm or home": "Gardens of Lórien, Valinor"
+  },
+  "places": [],
+  "offmap": [
+   {
+    "name": "Gardens of Lórien",
+    "role": "lived",
+    "note": "Sleeps by day on an island in the lake Lórellin."
+   }
+  ],
+  "related": [
+   "person:lorien",
+   "person:melian",
+   "person:nienna"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:vaire",
+  "title": "Vairë",
+  "group": "Valar",
+  "kind": "Weaver of the Valar",
+  "aka": [
+   "the Weaver"
+  ],
+  "blurb": "The Weaver, wife of Mandos, who weaves the story of time into her tapestries.",
+  "book": "Vairë is the wife of Mandos. She weaves all things that have ever been in Time into her storied webs.\n\nHer tapestries hang in the Halls of Mandos.\n\nThe books say little more of her. She is counted among the Queens of the Valar, and her work is bound to the memory of all that has happened in Arda.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Vala",
+   "Title": "The Weaver",
+   "Spouse": "Mandos",
+   "Realm or home": "Halls of Mandos, Valinor"
+  },
+  "places": [],
+  "offmap": [
+   {
+    "name": "Halls of Mandos",
+    "role": "lived",
+    "note": "Weaves her webs of all that has been in Time in the halls of Mandos."
+   }
+  ],
+  "related": [
+   "person:mandos",
+   "person:nienna"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:vana",
+  "title": "Vána",
+  "group": "Valar",
+  "kind": "Queen of flowers and birds",
+  "aka": [
+   "the Ever-young"
+  ],
+  "blurb": "The Ever-young, younger sister of Yavanna and wife of Oromë, for whom flowers open and birds sing.",
+  "book": "Vána is the younger sister of Yavanna and the wife of Oromë. She is called the Ever-young.\n\nFlowers spring up when she passes, and they open at her glance. Birds sing at her coming.\n\nMelian was among the Maiar who served her, together with Estë, before she went to Middle-earth.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Vala",
+   "Title": "The Ever-young",
+   "Spouse": "Oromë",
+   "Siblings": "Yavanna",
+   "Realm or home": "Valinor"
+  },
+  "places": [],
+  "offmap": [
+   {
+    "name": "Valinor",
+    "role": "lived",
+    "note": "Dwells in the gardens of Valinor among flowers and singing birds."
+   }
+  ],
+  "related": [
+   "person:orome",
+   "person:yavanna",
+   "person:melian",
+   "person:arien"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:nessa",
+  "title": "Nessa",
+  "group": "Valar",
+  "kind": "Dancer of the Valar",
+  "aka": [
+   "the Dancer"
+  ],
+  "blurb": "The Dancer, sister of Oromë and wife of Tulkas, who loves deer and swift running.",
+  "book": "Nessa is the sister of Oromë and the wife of Tulkas. She is lithe and swift, and she dances on the green lawns of Valinor.\n\nDeer follow her in the wild, and she is swifter than any of them.\n\nShe is counted among the Queens of the Valar. She delights in dancing in Valimar.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Vala",
+   "Title": "The Dancer",
+   "Spouse": "Tulkas",
+   "Siblings": "Oromë",
+   "Realm or home": "Valinor"
+  },
+  "places": [],
+  "offmap": [
+   {
+    "name": "Valinor",
+    "role": "lived",
+    "note": "Dances on the green lawns of Valinor with the deer."
+   }
+  ],
+  "related": [
+   "person:tulkas",
+   "person:orome",
+   "person:vana"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:osse",
+  "title": "Ossë",
+  "group": "Wizards and Maiar",
+  "kind": "Maia of the waves",
+  "aka": [
+   "Vassal of Ulmo"
+  ],
+  "blurb": "A Maia of the waves near the shores, vassal of Ulmo and husband of Uinen, who befriended Círdan and the Teleri.",
+  "book": "Ossë is a Maia who serves Ulmo. He governs the waters that wash the coasts of the Great Lands. His wife is Uinen, who calms the seas.\n\nHe taught the Teleri the art of shipbuilding and sailing, and they loved him as a friend. The Falathrim of Círdan also honored him.\n\nMelkor once tempted Ossë to rebel by promising him the rule of the waters. Ossë raised storms against the shores of Middle-earth. Uinen restrained him and brought him before Ulmo, and he was pardoned.\n\nOssë remained a lord of the waves and a friend to sailors.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Maia",
+   "Spouse": "Uinen",
+   "Realm or home": "Seas near the shores of Middle-earth"
+  },
+  "places": [
+   {
+    "id": "b:RG05",
+    "role": "other",
+    "note": "The Falathrim of Círdan honor him and learn the skills of the sea."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Tol Eressëa",
+    "role": "other",
+    "note": "Befriends the Teleri and teaches them to build ships."
+   }
+  ],
+  "related": [
+   "person:ulmo",
+   "person:cirdan",
+   "thing:swan-ships"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:eonwe",
+  "title": "Eönwë",
+  "group": "Wizards and Maiar",
+  "kind": "Herald of Manwë",
+  "aka": [
+   "Herald of Manwë"
+  ],
+  "blurb": "The Maia herald and banner-bearer of Manwë, who led the host of the Valar in the War of Wrath.",
+  "book": "Eönwë is a Maia who serves Manwë as herald and bearer of his banner. He is the mightiest warrior among the Maiar.\n\nWhen Eärendil pleaded for the people of Middle-earth, Manwë sent a host of Valar and Elves under Eönwë. They fought in the War of Wrath and overthrew Morgoth. Beleriand was broken in the struggle.\n\nAfter the war, Eönwë told Sauron to come to Valinor for judgment. Sauron fled and hid.\n\nThe sons of Fëanor came to Eönwë's camp and demanded the Silmarils. He told them they had lost their right to the jewels by their deeds. They stole the two jewels from his camp by night.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Maia",
+   "Title": "Herald of Manwë",
+   "Realm or home": "Valinor"
+  },
+  "places": [
+   {
+    "id": "b:battle:war-of-wrath",
+    "role": "fought",
+    "note": "Leads the host of the Valar that overthrows Morgoth."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Valinor",
+    "role": "lived",
+    "note": "Serves Manwë as his herald and banner-bearer."
+   }
+  ],
+  "related": [
+   "person:manwe",
+   "person:morgoth",
+   "person:sauron",
+   "person:maedhros",
+   "person:maglor",
+   "thing:silmarils"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:arien",
+  "title": "Arien",
+  "group": "Wizards and Maiar",
+  "kind": "Maia who guides the Sun",
+  "aka": [
+   "Guide of the Sun",
+   "Arien the Maiden"
+  ],
+  "blurb": "A Maia of fire who tended the golden flowers of Laurelin and steers the vessel of the Sun.",
+  "book": "Arien is a Maia of fire. She tended the golden flowers in the gardens of Vána and was unharmed by the heat of Laurelin.\n\nWhen Yavanna brought forth the last fruit of Laurelin, the Valar made the Sun from it. Arien was chosen to guide the vessel through the sky.\n\nShe is mightier than Tilion, who steers the Moon, and her course is steady.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Maia",
+   "Title": "Guide of the Sun",
+   "Realm or home": "Valinor and the sky"
+  },
+  "places": [],
+  "offmap": [
+   {
+    "name": "The Sky",
+    "role": "other",
+    "note": "Guides the vessel of the Sun across the heavens every day."
+   }
+  ],
+  "related": [
+   "person:tilion",
+   "person:vana",
+   "person:yavanna",
+   "thing:two-trees"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:tilion",
+  "title": "Tilion",
+  "group": "Wizards and Maiar",
+  "kind": "Maia who guides the Moon",
+  "aka": [
+   "Guide of the Moon",
+   "Tilion the Hunter"
+  ],
+  "blurb": "A Maia hunter of Oromë who loved silver and steers the vessel of the Moon.",
+  "book": "Tilion is a Maia hunter who served Oromë. He loved silver and was drawn to Telperion.\n\nWhen the Valar made the Moon from the last flower of Telperion, Tilion asked to guide it. His course is wayward, which is why the Moon wanders unsteadily.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Maia",
+   "Title": "Guide of the Moon",
+   "Realm or home": "Valinor and the sky"
+  },
+  "places": [],
+  "offmap": [
+   {
+    "name": "The Sky",
+    "role": "other",
+    "note": "Guides the vessel of the Moon across the heavens."
+   }
+  ],
+  "related": [
+   "person:arien",
+   "person:orome",
+   "thing:two-trees"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:morgoth",
+  "title": "Morgoth",
+  "group": "Enemies",
+  "kind": "Fallen Vala, first Dark Lord",
+  "aka": [
+   "Melkor",
+   "Morgoth Bauglir",
+   "the Black Foe",
+   "the first Dark Lord"
+  ],
+  "blurb": "Melkor, the mightiest of the Ainur, who turned to evil and was the first Dark Lord of Arda.",
+  "book": "Morgoth was first named Melkor, the mightiest of the Ainur. He wished to rule the world and fought the other Valar for its mastery. He corrupted many spirits and made the Orcs, the dragons and other horrors.\n\nMelkor was freed after a long imprisonment and spread lies among the Noldor. He slew Finwë at Formenos and stole the Silmarils. After that Fëanor named him Morgoth. He fled to Middle-earth with Ungoliant and made his stronghold at Angband.\n\nHis power grew until the Dagor Bragollach, when his fire broke the siege of Angband. In single combat he slew Fingolfin, who first dealt him seven wounds. In the Nírnaeth Arnoediad his army defeated the allied Elves and Men.\n\nThe Valar sent a host against him in the War of Wrath. His fortress fell, and his dragons were destroyed. Morgoth was bound and thrust through the Door of Night into the Void.\n\nHis malice remained in the world, and Sauron carried on his work.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Vala, fallen",
+   "Title": "Dark Lord of the First Age",
+   "Realm or home": "Utumno, then Angband"
+  },
+  "places": [
+   {
+    "id": "b:FT01",
+    "role": "ruled",
+    "note": "Makes Angband his stronghold and dwells there as Dark Lord."
+   },
+   {
+    "id": "b:MT02",
+    "role": "made",
+    "note": "Raises the peaks of Thangorodrim above the gates of Angband."
+   },
+   {
+    "id": "b:RG21",
+    "role": "ruled",
+    "note": "Rules this land before Angband, which his servants hold for ages."
+   },
+   {
+    "id": "b:battle:dagor-bragollach",
+    "role": "other",
+    "note": "His fire breaks the siege of Angband."
+   },
+   {
+    "id": "b:battle:duel-fingolfin-morgoth",
+    "role": "fought",
+    "note": "Fights Fingolfin in single combat at the gates of Angband."
+   },
+   {
+    "id": "b:battle:nirnaeth-arnoediad",
+    "role": "other",
+    "note": "His army defeats the host of Elves and Men."
+   },
+   {
+    "id": "b:battle:war-of-wrath",
+    "role": "lost",
+    "note": "Is overthrown and cast out of the world."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Utumno",
+    "role": "lived",
+    "note": "Holds his first fortress in the North before the Valar overthrow it."
+   }
+  ],
+  "related": [
+   "person:sauron",
+   "person:ungoliant",
+   "person:feanor",
+   "person:fingolfin",
+   "person:glaurung",
+   "thing:silmarils",
+   "thing:iron-crown"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:sauron",
+  "title": "Sauron",
+  "group": "Enemies",
+  "kind": "Maia, Dark Lord of Mordor",
+  "aka": [
+   "Annatar",
+   "Gorthaur",
+   "the Necromancer",
+   "the Dark Lord",
+   "Lord of the Rings"
+  ],
+  "blurb": "A Maia of Aulë who served Morgoth, forged the One Ring and ruled Mordor as the second Dark Lord.",
+  "book": "Sauron was a Maia of Aulë, who served Morgoth in the First Age. After the War of Wrath he escaped, and in time he rose again.\n\nIn the Second Age he built Barad-dûr in Mordor. He came to Eregion as the fair Annatar and taught the Elven-smiths. In secret he forged the One Ring in the fires of Mount Doom.\n\nHe was brought to Númenor as a captive of Ar-Pharazôn, whom he corrupted. The Downfall destroyed his fair body, but his spirit returned to Mordor. In the Last Alliance, Isildur cut the Ring from his hand, and Sauron's body was slain.\n\nIn the Third Age his spirit returned as the Necromancer of Dol Guldur. The White Council drove him from there, and he returned to Mordor. He then declared himself openly and sought the Ring.\n\nThe Ring was destroyed in Mount Doom in T.A. 3019. Barad-dûr fell, and Sauron's power was ended forever.",
+  "film": "In the films the Eye of Sauron stands on Barad-dûr, and he fights the Last Alliance in armor. In The Hobbit he appears as the Necromancer.",
+  "series": "Appears as the stranger Halbrand and later as Annatar, played by Charlie Vickers.",
+  "facts": {
+   "Race": "Maia",
+   "Title": "Dark Lord of Mordor",
+   "Realm or home": "Mordor"
+  },
+  "places": [
+   {
+    "id": "b:FT03",
+    "role": "ruled",
+    "note": "Takes Minas Tirith on this isle and renames it Tol-in-Gaurhoth."
+   },
+   {
+    "id": "b:battle:duel-at-tol-in-gaurhoth",
+    "role": "fought",
+    "note": "Is defeated by Huan and Lúthien and driven from the isle."
+   },
+   {
+    "id": "FT004",
+    "role": "ruled",
+    "note": "Builds the Dark Tower and rules from it."
+   },
+   {
+    "id": "TO079",
+    "role": "other",
+    "note": "Comes as Annatar to Eregion and teaches the Elven-smiths."
+   },
+   {
+    "id": "battle:sack-of-eregion",
+    "role": "fought",
+    "note": "Leads his armies against Eregion and seizes Celebrimbor."
+   },
+   {
+    "id": "MT036",
+    "role": "made",
+    "note": "Forges the One Ring in the fires of the mountain."
+   },
+   {
+    "id": "battle:dagorlad",
+    "role": "fought",
+    "note": "Faces the Last Alliance of Elves and Men."
+   },
+   {
+    "id": "FT008",
+    "role": "lived",
+    "note": "Hides here as the Necromancer for centuries."
+   },
+   {
+    "id": "battle:dol-guldur-white-council",
+    "role": "other",
+    "note": "The White Council attacks Dol Guldur, and he retreats to Mordor."
+   },
+   {
+    "id": "realm:mordor",
+    "role": "ruled",
+    "note": "Rules Mordor until the Ring is destroyed in T.A. 3019."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Númenor",
+    "role": "other",
+    "note": "Taken as a captive of Ar-Pharazôn and corrupts the Númenóreans there."
+   }
+  ],
+  "related": [
+   "person:morgoth",
+   "person:aule",
+   "person:celebrimbor",
+   "person:isildur",
+   "person:ar-pharazon",
+   "thing:one-ring",
+   "thing:nine-rings"
+  ],
+  "sources": [
+   "The Silmarillion",
+   "The Lord of the Rings",
+   "The Hobbit"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:elros",
+  "title": "Elros Tar-Minyatur",
+  "group": "Men",
+  "kind": "First King of Númenor",
+  "aka": [
+   "Tar-Minyatur",
+   "Elros Half-elven"
+  ],
+  "blurb": "The twin brother of Elrond, who chose the fate of Men and became the first King of Númenor.",
+  "book": "Elros was the son of Eärendil and Elwing and the twin brother of Elrond. As a child he lived at the Havens of Sirion. The sons of Fëanor attacked the Havens, and Elros and his brother were carried off. Maglor took pity on them and raised them.\n\nAfter the War of Wrath the Valar allowed the two brothers to choose between the fate of Elves and that of Men. Elros chose to be counted among Men. Elrond chose the Elves.\n\nAs reward, the Valar gave the Edain the island of Númenor. Elros led them over the sea in S.A. 32 and became their first king, taking the name Tar-Minyatur. He lived five hundred years and ruled for four hundred and ten of them.\n\nHe died in S.A. 442. His descendants ruled Númenor for the rest of its history, and the line of Elendil came from him.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Half-elven, chose mortality",
+   "Died": "S.A. 442",
+   "Parents": "Eärendil and Elwing",
+   "Siblings": "Elrond",
+   "Title": "First King of Númenor",
+   "Realm or home": "Númenor"
+  },
+  "places": [
+   {
+    "id": "b:TO07",
+    "role": "lived",
+    "note": "Lives here as a child with his parents."
+   },
+   {
+    "id": "b:battle:third-kinslaying",
+    "role": "other",
+    "note": "Is taken captive by the sons of Fëanor and raised by Maglor."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Númenor",
+    "role": "ruled",
+    "note": "Leads the Edain to the island in S.A. 32 and rules as the first king."
+   }
+  ],
+  "related": [
+   "person:elrond",
+   "person:earendil",
+   "person:elwing",
+   "person:maglor",
+   "person:elendil"
+  ],
+  "sources": [
+   "The Silmarillion",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:tar-aldarion",
+  "title": "Tar-Aldarion",
+  "group": "Men",
+  "kind": "Sixth King of Númenor, the Mariner",
+  "aka": [
+   "the Mariner",
+   "Aldarion"
+  ],
+  "blurb": "The sixth ruler of Númenor, a great mariner who founded the haven of Vinyalondë and was a friend of Gil-galad.",
+  "book": "Tar-Aldarion was the son of Tar-Meneldur and Almarian. He was born in S.A. 700. He loved the sea more than any other Númenórean of his time, and he founded the Guild of Venturers.\n\nHe sailed to Middle-earth many times and became a friend of Gil-galad. He founded the haven of Vinyalondë at the mouth of the Gwathló and cut timber in the lands nearby. Later it became Lond Daer.\n\nHis love of the sea and long absences wore on his marriage to Erendis. Their only child was Ancalimë.\n\nHe took the sceptre in S.A. 883 and reigned until S.A. 1075. He had no son, so he changed the law, and Ancalimë succeeded him.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man (Dúnadan)",
+   "Born": "S.A. 700",
+   "Parents": "Tar-Meneldur and Almarian",
+   "Spouse": "Erendis",
+   "Children": "Ancalimë",
+   "Title": "Sixth King of Númenor",
+   "Realm or home": "Númenor"
+  },
+  "places": [
+   {
+    "id": "realm:lindon",
+    "role": "travelled",
+    "note": "Sails to Lindon many times and becomes a friend of Gil-galad."
+   },
+   {
+    "id": "TO056",
+    "role": "made",
+    "note": "Founds Vinyalondë at the mouth of the Gwathló, later Lond Daer."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Númenor",
+    "role": "ruled",
+    "note": "Rules from the royal city of Armenelos."
+   }
+  ],
+  "related": [
+   "person:erendis",
+   "person:tar-ancalime",
+   "person:gil-galad",
+   "person:cirdan",
+   "person:elros"
+  ],
+  "sources": [
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:erendis",
+  "title": "Erendis",
+  "group": "Men",
+  "kind": "Wife of Tar-Aldarion",
+  "aka": [
+   "Tar-Elestirnë"
+  ],
+  "blurb": "The wife of Tar-Aldarion, whose love turned to bitterness during his long absences at sea.",
+  "book": "Erendis was a woman of Númenor and the wife of the future king Tar-Aldarion. Their daughter was Ancalimë.\n\nAldarion loved the sea and the lands across it, and he spent long years away. Erendis resented this deeply. She left him at last and withdrew to Emerië, in the sheep-lands of the middle of the island, where she raised their daughter.\n\nThe tale of Aldarion and Erendis is one of the sorrows of Númenor, and their marriage was never healed.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man (Númenórean)",
+   "Spouse": "Tar-Aldarion",
+   "Children": "Ancalimë",
+   "Realm or home": "Númenor"
+  },
+  "places": [],
+  "offmap": [
+   {
+    "name": "Númenor",
+    "role": "lived",
+    "note": "Raises Ancalimë at Emerië after leaving Aldarion."
+   }
+  ],
+  "related": [
+   "person:tar-aldarion",
+   "person:tar-ancalime"
+  ],
+  "sources": [
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:tar-ancalime",
+  "title": "Tar-Ancalimë",
+  "group": "Men",
+  "kind": "First Ruling Queen of Númenor",
+  "aka": [
+   "Ancalimë"
+  ],
+  "blurb": "Daughter of Tar-Aldarion and Erendis, who became the first Ruling Queen of Númenor in S.A. 1075.",
+  "book": "Tar-Ancalimë was born in S.A. 873. She was the daughter of Tar-Aldarion and Erendis.\n\nHer father gave up the sceptre in S.A. 1075, and she became the seventh ruler. She was the first woman to rule Númenor in her own right. From her time onward, the eldest child, whether son or daughter, was to inherit the sceptre.\n\nShe ruled until S.A. 1280 and died in S.A. 1285.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man (Númenórean)",
+   "Born": "S.A. 873",
+   "Died": "S.A. 1285",
+   "Parents": "Tar-Aldarion and Erendis",
+   "Title": "First Ruling Queen of Númenor",
+   "Realm or home": "Númenor"
+  },
+  "places": [],
+  "offmap": [
+   {
+    "name": "Númenor",
+    "role": "ruled",
+    "note": "Rules Númenor as its first queen from S.A. 1075 to 1280."
+   }
+  ],
+  "related": [
+   "person:tar-aldarion",
+   "person:erendis",
+   "person:elros"
+  ],
+  "sources": [
+   "Unfinished Tales",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:tar-palantir",
+  "title": "Tar-Palantir",
+  "group": "Men",
+  "kind": "Last faithful King of Númenor",
+  "aka": [
+   "the Far-sighted",
+   "Inziladûn"
+  ],
+  "blurb": "The twenty-fourth ruler of Númenor, who turned back toward the Valar and the Elves.",
+  "book": "Tar-Palantir was the son of Ar-Gimilzôr and Inzilbêth. He was first named Inziladûn. He took the sceptre in S.A. 3177 and took a Quenya name, as the first kings had done.\n\nHe regretted the sins of his fathers. He tried to restore the honor of the Valar and the friendship of the Elves in Númenor. He was called the Far-sighted for his foresight.\n\nHe foretold the ruin that would come. His brother Gimilkhâd led the King's Men against him. After Tar-Palantir died, his nephew Ar-Pharazôn seized the sceptre in S.A. 3255 and forced his daughter Míriel to wed him.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man (Númenórean)",
+   "Parents": "Ar-Gimilzôr and Inzilbêth",
+   "Children": "Tar-Míriel",
+   "Title": "Twenty-fourth ruler of Númenor",
+   "Realm or home": "Númenor"
+  },
+  "places": [],
+  "offmap": [
+   {
+    "name": "Númenor",
+    "role": "ruled",
+    "note": "Rules from Armenelos and restores the old friendship with the Valar."
+   }
+  ],
+  "related": [
+   "person:tar-miriel",
+   "person:ar-pharazon",
+   "person:amandil",
+   "person:elros"
+  ],
+  "sources": [
+   "The Silmarillion, Akallabêth"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:ar-pharazon",
+  "title": "Ar-Pharazôn",
+  "group": "Men",
+  "kind": "Last King of Númenor",
+  "aka": [
+   "Ar-Pharazôn the Golden",
+   "Tar-Calion"
+  ],
+  "blurb": "The last King of Númenor, who took Sauron captive, was corrupted by him and sailed against Valinor.",
+  "book": "Ar-Pharazôn was the son of Gimilkhâd and a nephew of Tar-Palantir. After Tar-Palantir died, he seized the sceptre in S.A. 3255 and took the title Ar-Pharazôn the Golden. He forced Palantir's daughter Míriel to wed him.\n\nHe was the mightiest king of his line. He landed at Umbar in S.A. 3261 and demanded the submission of Sauron. Sauron yielded and was brought to Númenor as a hostage.\n\nSauron soon won the king's trust and persuaded him that the Valar kept immortality from men. At his urging, Pharazôn cut down the White Tree and built a temple to Morgoth.\n\nIn S.A. 3319 he sailed against Valinor with a great fleet. Ilúvatar changed the world, and Númenor was drowned. Ar-Pharazôn and his army were buried under the hills of Aman.",
+  "film": "",
+  "series": "Appears as a Númenórean politician, played by Trystan Gravelle.",
+  "facts": {
+   "Race": "Man (Númenórean)",
+   "Born": "S.A. 3118",
+   "Died": "S.A. 3319",
+   "Parents": "Gimilkhâd",
+   "Spouse": "Tar-Míriel",
+   "Title": "Last King of Númenor",
+   "Realm or home": "Númenor"
+  },
+  "places": [],
+  "offmap": [
+   {
+    "name": "Umbar",
+    "role": "fought",
+    "note": "Lands his army here in S.A. 3261 and forces Sauron to submit."
+   },
+   {
+    "name": "Númenor",
+    "role": "ruled",
+    "note": "Rules from Armenelos until his fleet sails into the west."
+   },
+   {
+    "name": "Aman",
+    "role": "lost",
+    "note": "Lands on the shores of Aman and is buried under the hills."
+   }
+  ],
+  "related": [
+   "person:sauron",
+   "person:tar-miriel",
+   "person:tar-palantir",
+   "person:amandil",
+   "person:elendil",
+   "thing:nimloth"
+  ],
+  "sources": [
+   "The Silmarillion, Akallabêth"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:tar-miriel",
+  "title": "Tar-Míriel",
+  "group": "Men",
+  "kind": "Last Queen of Númenor",
+  "aka": [
+   "Ar-Zimraphel",
+   "Míriel"
+  ],
+  "blurb": "The daughter of Tar-Palantir who was forced to marry Ar-Pharazôn and died in the Downfall.",
+  "book": "Míriel was the only daughter of Tar-Palantir. Under Númenórean law, she was the rightful heir to the sceptre.\n\nAfter her father's death, her cousin Ar-Pharazôn took the sceptre by force and wed her against her will. The Akallabêth names her Ar-Zimraphel.\n\nShe was the last queen of Númenor. She perished in the Downfall in S.A. 3319.",
+  "film": "",
+  "series": "Appears as the queen-regent of Númenor, played by Cynthia Addai-Robinson.",
+  "facts": {
+   "Race": "Man (Númenórean)",
+   "Died": "S.A. 3319",
+   "Parents": "Tar-Palantir",
+   "Spouse": "Ar-Pharazôn",
+   "Title": "Last Queen of Númenor",
+   "Realm or home": "Númenor"
+  },
+  "places": [],
+  "offmap": [
+   {
+    "name": "Númenor",
+    "role": "ruled",
+    "note": "Is queen at Armenelos until the Downfall in S.A. 3319."
+   }
+  ],
+  "related": [
+   "person:tar-palantir",
+   "person:ar-pharazon",
+   "person:elros"
+  ],
+  "sources": [
+   "The Silmarillion, Akallabêth"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:amandil",
+  "title": "Amandil",
+  "group": "Men",
+  "kind": "Last Lord of Andúnië",
+  "aka": [
+   "Lord of Andúnië"
+  ],
+  "blurb": "The last Lord of Andúnië, leader of the Faithful and father of Elendil, who sailed west to plead with the Valar.",
+  "book": "Amandil was the last Lord of Andúnië. He was a leader of the Faithful and a descendant of Elros. His son was Elendil, and his grandsons were Isildur and Anárion.\n\nWhen Ar-Pharazôn planned to attack Valinor, Amandil foresaw doom. He warned that the king would cut down the White Tree. Isildur heard this and stole a fruit of Nimloth before it was felled.\n\nHe told Elendil to prepare ships and to sail east when the time came. Amandil then sailed west with three servants, hoping to ask the Valar for mercy. He was never seen again.\n\nElendil and his sons were saved from the Downfall, and they founded the Dúnedain realms in Middle-earth.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man (Númenórean)",
+   "Children": "Elendil",
+   "Title": "Lord of Andúnië",
+   "Realm or home": "Andúnië, Númenor"
+  },
+  "places": [],
+  "offmap": [
+   {
+    "name": "Andúnië",
+    "role": "ruled",
+    "note": "Rules the western province as its last lord."
+   },
+   {
+    "name": "The Western Sea",
+    "role": "lost",
+    "note": "Sails west to plead with the Valar and is never heard of again."
+   }
+  ],
+  "related": [
+   "person:elendil",
+   "person:isildur",
+   "person:anarion",
+   "person:ar-pharazon",
+   "thing:nimloth"
+  ],
+  "sources": [
+   "The Silmarillion, Akallabêth"
+  ],
+  "confidence": "high"
+ }
+]

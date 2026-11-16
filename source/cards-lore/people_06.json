@@ -1,0 +1,1191 @@
+[
+ {
+  "id": "person:thorin-oakenshield",
+  "title": "Thorin Oakenshield",
+  "group": "Dwarves",
+  "kind": "Dwarf king in exile, leader of the Quest of Erebor",
+  "aka": [
+   "Thorin II",
+   "King under the Mountain",
+   "Oakenshield"
+  ],
+  "blurb": "Thorin was the exiled heir of Durin's line who led thirteen Dwarves and a hobbit to win back Erebor from Smaug.",
+  "book": "Thorin was the son of Thráin II and grandson of Thrór, the last King under the Mountain. He was born in T.A. 2746.\n\nIn T.A. 2770 Smaug destroyed Dale and seized Erebor. Thorin escaped with his kin and grew up in exile. When Orcs killed Thrór in Moria, Thorin fought in the war that followed. At Azanulbizar in T.A. 2799 his shield broke. He fought on with an oak branch, and the Dwarves named him Oakenshield.\n\nAfter the war Thráin's people settled in the Blue Mountains. In T.A. 2941 Thorin met Gandalf at Bree. Later Gandalf gave him the map and key that Thráin had passed to the wizard in Dol Guldur. Thorin then led twelve Dwarves and Bilbo Baggins to Erebor.\n\nThe company passed through Rivendell, the Goblin-tunnels, Beorn's Hall and Mirkwood. The Wood-elves held Thorin prisoner. At Lake-town the company was welcomed. Smaug fell to Bard soon after.\n\nThorin took the Mountain and grew greedy for its hoard. He refused to share it, even with those who had lost their homes. Bilbo gave the Arkenstone to Bard to force a bargain.\n\nThorin joined the Battle of Five Armies and was mortally wounded. He made peace with Bilbo before he died, aged 195. He was buried under the Mountain with the Arkenstone on his breast and Orcrist on his tomb.",
+  "film": "Richard Armitage plays Thorin in The Hobbit films. The films make Azog the Defiler his lifelong enemy and have Thorin face Azog at Ravenhill. They also show his greed as a sickness that overcomes him.",
+  "series": "",
+  "facts": {
+   "Race": "Dwarf",
+   "Born": "T.A. 2746",
+   "Died": "T.A. 2941",
+   "Age at death": "195",
+   "Parents": "Thráin II",
+   "Siblings": "Frerin, Dís",
+   "House or line": "Durin's Folk",
+   "Title": "King under the Mountain",
+   "Weapon or steed": "Orcrist"
+  },
+  "places": [
+   {
+    "id": "realm:ered-luin",
+    "role": "lived",
+    "note": "Lives in exile with his people in the Blue Mountains after the war."
+   },
+   {
+    "id": "battle:azanulbizar",
+    "role": "fought",
+    "note": "Fights at Azanulbizar in T.A. 2799 and earns the name Oakenshield."
+   },
+   {
+    "id": "TO011",
+    "role": "other",
+    "note": "Meets Gandalf at Bree in T.A. 2941 and agrees to plan the quest."
+   },
+   {
+    "id": "BU030",
+    "role": "other",
+    "note": "Arrives last at Bag End and plans the quest with the company and Bilbo."
+   },
+   {
+    "id": "TO084",
+    "role": "travelled",
+    "note": "The company rests at Rivendell, where Elrond reads the moon-letters on the map."
+   },
+   {
+    "id": "TO031",
+    "role": "other",
+    "note": "Is held prisoner by the Elvenking after the company is captured in Mirkwood."
+   },
+   {
+    "id": "TO053",
+    "role": "travelled",
+    "note": "The company is welcomed in Lake-town before going on to Erebor."
+   },
+   {
+    "id": "DO003",
+    "role": "found",
+    "note": "The company finds the secret Back Door of the Mountain."
+   },
+   {
+    "id": "battle:five-armies",
+    "role": "died",
+    "note": "Is mortally wounded at the Battle of Five Armies and dies in T.A. 2941."
+   },
+   {
+    "id": "TO051",
+    "role": "buried",
+    "note": "Is buried deep under the Mountain with the Arkenstone, and Orcrist lies on his tomb."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:thrain-ii",
+   "person:thror",
+   "person:balin",
+   "person:fili",
+   "person:kili",
+   "person:bilbo-baggins",
+   "person:gandalf",
+   "person:smaug",
+   "thing:arkenstone",
+   "thing:orcrist",
+   "thing:thrors-map"
+  ],
+  "sources": [
+   "The Hobbit",
+   "The Lord of the Rings, Appendix A",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:balin",
+  "title": "Balin",
+  "group": "Dwarves",
+  "kind": "Dwarf of Thorin's company, Lord of Moria",
+  "aka": [
+   "Balin son of Fundin",
+   "Lord of Moria"
+  ],
+  "blurb": "Balin was a loyal friend of Bilbo who later led a Dwarf colony into Moria and died there.",
+  "book": "Balin was the son of Fundin and the brother of Dwalin. He was born in T.A. 2763 and belonged to Durin's Folk.\n\nIn T.A. 2941 he joined Thorin's company and reached Bag End among the first. He became a good friend to Bilbo on the long road. Balin shared in the Quest of Erebor and survived the Battle of Five Armies.\n\nIn T.A. 2989 Balin set out for Moria with Ori, Óin and other Dwarves. He hoped to retake the old kingdom. He took the title Lord of Moria, and the colony lasted about five years.\n\nIn T.A. 2994 an Orc killed Balin near the Mirrormere in Dimrill Dale. The colony was soon overwhelmed. His tomb stands in the Chamber of Mazarbul. The Fellowship found it in T.A. 3019, together with the Book of Mazarbul.",
+  "film": "Ken Stott plays Balin in The Hobbit films, where he is the wise elder of the company. The Fellowship of the Ring film shows his tomb in Moria.",
+  "series": "",
+  "facts": {
+   "Race": "Dwarf",
+   "Born": "T.A. 2763",
+   "Died": "T.A. 2994",
+   "Parents": "Fundin",
+   "Siblings": "Dwalin",
+   "House or line": "Durin's Folk",
+   "Title": "Lord of Moria"
+  },
+  "places": [
+   {
+    "id": "BU030",
+    "role": "other",
+    "note": "Arrives at Bag End on the evening of the unexpected party in T.A. 2941."
+   },
+   {
+    "id": "TO066",
+    "role": "ruled",
+    "note": "Leads a colony of Dwarves into Moria in T.A. 2989 and rules there as lord."
+   },
+   {
+    "id": "VA004",
+    "role": "died",
+    "note": "Is slain by an Orc near the Mirrormere in T.A. 2994."
+   },
+   {
+    "id": "GR001",
+    "role": "buried",
+    "note": "His tomb lies in the Chamber of Mazarbul, where the Fellowship finds it in T.A. 3019."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:thorin-oakenshield",
+   "person:dwalin",
+   "person:fundin",
+   "person:ori",
+   "person:oin",
+   "person:bilbo-baggins",
+   "thing:book-of-mazarbul"
+  ],
+  "sources": [
+   "The Hobbit",
+   "The Lord of the Rings, Appendix A",
+   "The Lord of the Rings, Appendix B",
+   "The Lord of the Rings, Book II"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:dwalin",
+  "title": "Dwalin",
+  "group": "Dwarves",
+  "kind": "Dwarf warrior of Thorin's company",
+  "aka": [
+   "Dwalin son of Fundin"
+  ],
+  "blurb": "Dwalin was the first of Thorin's company to reach Bag End and a brother of Balin.",
+  "book": "Dwalin was the son of Fundin and the brother of Balin. He was born in T.A. 2772 and belonged to Durin's Folk.\n\nHe lived with Thorin's people in the Blue Mountains. His father Fundin fell at Azanulbizar in T.A. 2799, when Dwalin was a young Dwarf.\n\nIn T.A. 2941 Dwalin was the first guest to arrive at Bag End on the night of the unexpected party. He then travelled with Thorin's company all the way to Erebor and shared in the Quest.\n\nHe did not go with Balin to Moria. Appendix A shows that he outlived the Third Age and died at a great age, early in the Fourth Age.",
+  "film": "Graham McTavish plays Dwalin in The Hobbit films, where he is a fierce fighter with a tattooed head.",
+  "series": "",
+  "facts": {
+   "Race": "Dwarf",
+   "Born": "T.A. 2772",
+   "Parents": "Fundin",
+   "Siblings": "Balin",
+   "House or line": "Durin's Folk",
+   "Died": "Fo.A. 91"
+  },
+  "places": [
+   {
+    "id": "realm:ered-luin",
+    "role": "lived",
+    "note": "Lives with Thorin's people in the Blue Mountains before the quest."
+   },
+   {
+    "id": "BU030",
+    "role": "other",
+    "note": "Is the first of the Dwarves to arrive at Bag End in T.A. 2941."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:balin",
+   "person:fundin",
+   "person:thorin-oakenshield",
+   "person:bilbo-baggins"
+  ],
+  "sources": [
+   "The Hobbit",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:fili",
+  "title": "Fíli",
+  "group": "Dwarves",
+  "kind": "Dwarf of Thorin's company, nephew of Thorin",
+  "aka": [
+   "Fíli son of Dís"
+  ],
+  "blurb": "Fíli was Thorin's elder nephew, who died with his brother defending Thorin at the Battle of Five Armies.",
+  "book": "Fíli was the son of Dís and the nephew of Thorin Oakenshield. He was born in T.A. 2859. His younger brother was Kíli.\n\nFíli and Kíli were the youngest Dwarves of the company, and they joined the Quest of Erebor in T.A. 2941. The two brothers reached Bag End together, second after Balin and Dwalin.\n\nThe two were often sent ahead as scouts. They went with the whole company from Lake-town to the Mountain.\n\nAt the Battle of Five Armies, Fíli and Kíli stood guard over the wounded Thorin. Both fell defending him. Fíli died in T.A. 2941 at the age of 82.",
+  "film": "Dean O'Gorman plays Fíli. In the films he stays in Lake-town with the wounded Kíli, and Azog kills him at Ravenhill.",
+  "series": "",
+  "facts": {
+   "Race": "Dwarf",
+   "Born": "T.A. 2859",
+   "Died": "T.A. 2941",
+   "Parents": "Dís",
+   "Siblings": "Kíli",
+   "House or line": "Durin's Folk"
+  },
+  "places": [
+   {
+    "id": "BU030",
+    "role": "other",
+    "note": "Arrives at Bag End with his brother Kíli in T.A. 2941."
+   },
+   {
+    "id": "TO053",
+    "role": "travelled",
+    "note": "Rests with the company in Lake-town before the journey to the Mountain."
+   },
+   {
+    "id": "battle:five-armies",
+    "role": "died",
+    "note": "Falls defending the wounded Thorin in T.A. 2941."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:kili",
+   "person:dis",
+   "person:thorin-oakenshield",
+   "person:bilbo-baggins"
+  ],
+  "sources": [
+   "The Hobbit",
+   "The Lord of the Rings, Appendix A",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:kili",
+  "title": "Kíli",
+  "group": "Dwarves",
+  "kind": "Dwarf of Thorin's company, nephew of Thorin",
+  "aka": [
+   "Kíli son of Dís"
+  ],
+  "blurb": "Kíli was Thorin's younger nephew, who fell with Fíli defending Thorin at the Battle of Five Armies.",
+  "book": "Kíli was the son of Dís and the nephew of Thorin. He was born in T.A. 2864. His elder brother was Fíli.\n\nHe and Fíli were the two youngest Dwarves in the company. He set out on the Quest of Erebor in T.A. 2941.\n\nHe and Fíli often went ahead as scouts. He reached the Mountain with the rest of the company.\n\nAt the Battle of Five Armies he defended Thorin with Fíli and died with him in T.A. 2941, aged 77.",
+  "film": "Aidan Turner plays Kíli. The films give him a romance with the Elf Tauriel, who does not appear in the books. A Morgul arrow wounds him, so he stays in Lake-town. Bolg kills him at Ravenhill.",
+  "series": "",
+  "facts": {
+   "Race": "Dwarf",
+   "Born": "T.A. 2864",
+   "Died": "T.A. 2941",
+   "Parents": "Dís",
+   "Siblings": "Fíli",
+   "House or line": "Durin's Folk"
+  },
+  "places": [
+   {
+    "id": "BU030",
+    "role": "other",
+    "note": "Arrives at Bag End with his brother Fíli in T.A. 2941."
+   },
+   {
+    "id": "TO053",
+    "role": "travelled",
+    "note": "Rests with the company in Lake-town before the journey to the Mountain."
+   },
+   {
+    "id": "battle:five-armies",
+    "role": "died",
+    "note": "Falls defending Thorin at the Battle of Five Armies."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:fili",
+   "person:dis",
+   "person:thorin-oakenshield",
+   "person:bilbo-baggins"
+  ],
+  "sources": [
+   "The Hobbit",
+   "The Lord of the Rings, Appendix A",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:dori",
+  "title": "Dori",
+  "group": "Dwarves",
+  "kind": "Dwarf of Thorin's company",
+  "aka": [],
+  "blurb": "Dori was a strong, helpful Dwarf of Thorin's company who carried Bilbo through the goblin-tunnels.",
+  "book": "Dori was one of the thirteen Dwarves of Thorin's company and a brother of Nori and Ori.\n\nIn T.A. 2941 he reached Bag End with Nori and Ori. On the road he showed kindness to Bilbo more than once.\n\nWhen the company fled the goblin-tunnels under the Misty Mountains, Dori carried Bilbo on his back. In the dark he lost hold of him, and so Bilbo was left behind.\n\nLater, when wolves trapped the company, Dori helped Bilbo up into a tree.\n\nThe books do not tell how his life ended.",
+  "film": "Mark Hadlow plays Dori in The Hobbit films, where he is stern and protective of his younger brother Ori.",
+  "series": "",
+  "facts": {
+   "Race": "Dwarf",
+   "Siblings": "Nori, Ori"
+  },
+  "places": [
+   {
+    "id": "BU030",
+    "role": "other",
+    "note": "Arrives at Bag End with Nori and Ori in T.A. 2941."
+   },
+   {
+    "id": "TO039",
+    "role": "other",
+    "note": "Carries Bilbo on his back as the company flees the goblin-tunnels."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:nori",
+   "person:ori",
+   "person:bilbo-baggins",
+   "person:thorin-oakenshield"
+  ],
+  "sources": [
+   "The Hobbit"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:nori",
+  "title": "Nori",
+  "group": "Dwarves",
+  "kind": "Dwarf of Thorin's company",
+  "aka": [],
+  "blurb": "Nori was a brother of Dori and Ori and one of the thirteen Dwarves who set out for Erebor.",
+  "book": "Nori was one of Thorin's thirteen companions in the Quest of Erebor. He was a brother of Dori and Ori.\n\nIn T.A. 2941 he arrived at Bag End with his two brothers. He then travelled with the company through Rivendell, the Misty Mountains and Mirkwood to the Lonely Mountain.\n\nThe books give Nori few separate deeds. His later life is not told.",
+  "film": "Jed Brophy plays Nori in The Hobbit films, where he has a distinctive star-shaped hairstyle.",
+  "series": "",
+  "facts": {
+   "Race": "Dwarf",
+   "Siblings": "Dori, Ori"
+  },
+  "places": [
+   {
+    "id": "BU030",
+    "role": "other",
+    "note": "Arrives at Bag End with his brothers Dori and Ori in T.A. 2941."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:dori",
+   "person:ori",
+   "person:thorin-oakenshield",
+   "person:bilbo-baggins"
+  ],
+  "sources": [
+   "The Hobbit"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:ori",
+  "title": "Ori",
+  "group": "Dwarves",
+  "kind": "Dwarf of Thorin's company and Balin's colony",
+  "aka": [],
+  "blurb": "Ori was a Dwarf of Thorin's company who later went with Balin to Moria and died there.",
+  "book": "Ori was a brother of Dori and Nori. He joined Thorin's company in T.A. 2941 and reached Bag End with them.\n\nAfter the quest he stayed close to Balin. In T.A. 2989 he went with Balin and Óin into Moria to found a colony. Gandalf judged that Ori wrote part of the colony's record, the Book of Mazarbul.\n\nThe Dwarves fought Orcs in the halls and could not hold the kingdom. Ori died in Moria in T.A. 2994. The Fellowship found the Book in the Chamber of Mazarbul in T.A. 3019, and Gandalf read its last pages.",
+  "film": "Adam Brown plays Ori in The Hobbit films, where he is young, shy and skilled with writing.",
+  "series": "",
+  "facts": {
+   "Race": "Dwarf",
+   "Died": "T.A. 2994",
+   "Siblings": "Dori, Nori"
+  },
+  "places": [
+   {
+    "id": "BU030",
+    "role": "other",
+    "note": "Arrives at Bag End with Dori and Nori in T.A. 2941."
+   },
+   {
+    "id": "TO066",
+    "role": "died",
+    "note": "Goes with Balin to Moria in T.A. 2989 and dies there in T.A. 2994."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:balin",
+   "person:oin",
+   "person:dori",
+   "person:nori",
+   "thing:book-of-mazarbul"
+  ],
+  "sources": [
+   "The Hobbit",
+   "The Lord of the Rings, Appendix B",
+   "The Lord of the Rings, Book II"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:oin",
+  "title": "Óin",
+  "group": "Dwarves",
+  "kind": "Dwarf of Thorin's company",
+  "aka": [
+   "Óin son of Gróin"
+  ],
+  "blurb": "Óin was Glóin's brother and a Dwarf of Thorin's company who died in Moria with Balin's colony.",
+  "book": "Óin was the son of Gróin and the brother of Glóin. He joined Thorin's company in T.A. 2941 and travelled to Erebor. With Glóin he tended the fires on the road.\n\nIn T.A. 2989 Óin went to Moria with Balin and Ori. The Watcher in the Water took him in T.A. 2994, during the fall of the colony.",
+  "film": "John Callen plays Óin in The Hobbit films, where he is the healer of the company and uses an ear trumpet. He stays in Lake-town to tend the wounded Kíli.",
+  "series": "",
+  "facts": {
+   "Race": "Dwarf",
+   "Died": "T.A. 2994",
+   "Parents": "Gróin",
+   "Siblings": "Glóin",
+   "Born": "T.A. 2774"
+  },
+  "places": [
+   {
+    "id": "BU030",
+    "role": "other",
+    "note": "Arrives at Bag End with Glóin in T.A. 2941."
+   },
+   {
+    "id": "TO066",
+    "role": "lived",
+    "note": "Goes with Balin's colony into Moria in T.A. 2989."
+   },
+   {
+    "id": "DO009",
+    "role": "died",
+    "note": "Is taken by the Watcher in the Water by the West-gate in T.A. 2994."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:gloin",
+   "person:balin",
+   "person:ori",
+   "thing:book-of-mazarbul"
+  ],
+  "sources": [
+   "The Hobbit",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:gloin",
+  "title": "Glóin",
+  "group": "Dwarves",
+  "kind": "Dwarf of Thorin's company, father of Gimli",
+  "aka": [
+   "Glóin son of Gróin"
+  ],
+  "blurb": "Glóin was a Dwarf of the Quest of Erebor who later came to the Council of Elrond with his son Gimli.",
+  "book": "Glóin was the son of Gróin and the brother of Óin. He was one of Thorin's thirteen companions in T.A. 2941. He was also the father of Gimli.\n\nAfter the quest he lived in the restored kingdom under the Lonely Mountain. He grew wealthy there.\n\nIn T.A. 3018 King Dáin sent Glóin to Rivendell with Gimli. A messenger from Mordor had asked Dáin about hobbits and a Ring. Glóin came to warn Bilbo and to seek counsel. Glóin therefore sat at the Council of Elrond.\n\nHe greeted his old friend Bilbo there. Gimli then joined the Fellowship.",
+  "film": "Peter Hambleton plays Glóin in The Hobbit films.",
+  "series": "",
+  "facts": {
+   "Race": "Dwarf",
+   "Parents": "Gróin",
+   "Siblings": "Óin",
+   "Children": "Gimli",
+   "Born": "T.A. 2783",
+   "Died": "Fo.A. 15"
+  },
+  "places": [
+   {
+    "id": "BU030",
+    "role": "other",
+    "note": "Arrives at Bag End with Óin in T.A. 2941."
+   },
+   {
+    "id": "TO051",
+    "role": "lived",
+    "note": "Lives in the restored kingdom under the Mountain after T.A. 2941."
+   },
+   {
+    "id": "TO084",
+    "role": "other",
+    "note": "Attends the Council of Elrond in T.A. 3018 with his son Gimli."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:gimli",
+   "person:oin",
+   "person:dain-ii-ironfoot",
+   "person:bilbo-baggins",
+   "person:thorin-oakenshield"
+  ],
+  "sources": [
+   "The Hobbit",
+   "The Lord of the Rings, Book II",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:bifur",
+  "title": "Bifur",
+  "group": "Dwarves",
+  "kind": "Dwarf of Thorin's company, not of Durin's line",
+  "aka": [],
+  "blurb": "Bifur was a Dwarf of Thorin's company who came of the Dwarves of Moria but not of Durin's line.",
+  "book": "Bifur was one of the thirteen Dwarves of the Quest of Erebor. He was a cousin of Bofur and Bombur and did not belong to Durin's line.\n\nIn T.A. 2941 he reached Bag End with Bofur and Bombur. He travelled with the company to the Lonely Mountain.\n\nThe books give Bifur few separate deeds and do not tell his later life.",
+  "film": "William Kircher plays Bifur in The Hobbit films. The films give him an Orc axe lodged in his head, so he speaks little Westron.",
+  "series": "",
+  "facts": {
+   "Race": "Dwarf",
+   "Kind": "Dwarf not of Durin's line"
+  },
+  "places": [
+   {
+    "id": "BU030",
+    "role": "other",
+    "note": "Arrives at Bag End with Bofur and Bombur in T.A. 2941."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:bofur",
+   "person:bombur",
+   "person:thorin-oakenshield"
+  ],
+  "sources": [
+   "The Hobbit",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:bofur",
+  "title": "Bofur",
+  "group": "Dwarves",
+  "kind": "Dwarf of Thorin's company, not of Durin's line",
+  "aka": [],
+  "blurb": "Bofur was a Dwarf of Thorin's company, a brother of Bombur and a cousin of Bifur.",
+  "book": "Bofur was a Dwarf of the Quest of Erebor. He was the brother of Bombur and a cousin of Bifur. He did not belong to Durin's line.\n\nIn T.A. 2941 he arrived at Bag End with Bifur and Bombur and joined Thorin's company.\n\nHis later life is not told in the books.",
+  "film": "James Nesbitt plays Bofur in The Hobbit films, where he is warm and humorous and wears a hat with ear flaps.",
+  "series": "",
+  "facts": {
+   "Race": "Dwarf",
+   "Siblings": "Bombur"
+  },
+  "places": [
+   {
+    "id": "BU030",
+    "role": "other",
+    "note": "Arrives at Bag End with Bifur and Bombur in T.A. 2941."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:bifur",
+   "person:bombur",
+   "person:thorin-oakenshield"
+  ],
+  "sources": [
+   "The Hobbit",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:bombur",
+  "title": "Bombur",
+  "group": "Dwarves",
+  "kind": "Fattest Dwarf of Thorin's company",
+  "aka": [],
+  "blurb": "Bombur was the fat Dwarf of Thorin's company who fell into the Enchanted River in Mirkwood and slept for days.",
+  "book": "Bombur was the brother of Bofur and a cousin of Bifur. He was the fattest of the thirteen Dwarves and did not belong to Durin's line.\n\nIn T.A. 2941 he joined Thorin's company at Bag End. In Mirkwood he fell into the Enchanted River and slept deeply. His friends carried him for days until he woke.\n\nBombur reached Erebor with the company. At Rivendell in T.A. 3018 Glóin told that Bombur had grown so fat that six young Dwarves had to lift him.",
+  "film": "Stephen Hunter plays Bombur in The Hobbit films, where he is the cook of the company.",
+  "series": "",
+  "facts": {
+   "Race": "Dwarf",
+   "Siblings": "Bofur"
+  },
+  "places": [
+   {
+    "id": "BU030",
+    "role": "other",
+    "note": "Arrives at Bag End with Bofur and Bifur in T.A. 2941."
+   },
+   {
+    "id": "RI022",
+    "role": "other",
+    "note": "Falls into the Enchanted River and sleeps while the company is lost in Mirkwood."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:bofur",
+   "person:bifur",
+   "person:thorin-oakenshield",
+   "person:bilbo-baggins"
+  ],
+  "sources": [
+   "The Hobbit",
+   "The Lord of the Rings, Book II",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:dain-ii-ironfoot",
+  "title": "Dáin II Ironfoot",
+  "group": "Dwarves",
+  "kind": "Lord of the Iron Hills, King under the Mountain",
+  "aka": [
+   "Dáin Ironfoot",
+   "Dáin II"
+  ],
+  "blurb": "Dáin was the lord of the Iron Hills who became King under the Mountain after Thorin and died defending Erebor in T.A. 3019.",
+  "book": "Dáin II was the son of Náin and a cousin of Thorin. He was born in T.A. 2767 and belonged to Durin's Folk.\n\nAt Azanulbizar in T.A. 2799 Dáin fought at the age of 32. Orcs had slain his father Náin there. Dáin killed Azog before the East-gate. After the war he lived in the Iron Hills, where he became lord.\n\nIn T.A. 2941 Dáin marched to Erebor with a great host of Dwarves. They joined the Battle of Five Armies after Thorin's quarrel with the Elves and Men. After Thorin fell, Dáin became King under the Mountain. He made peace with Bard and shared the treasure.\n\nIn T.A. 3018 Dáin sent Glóin to Rivendell with news from Mordor. In T.A. 3019 the Easterlings attacked Dale and Erebor. Dáin died standing over the body of Brand before the Gate. His son Thorin Stonehelm succeeded him.",
+  "film": "Billy Connolly plays Dáin in The Hobbit: The Battle of the Five Armies. The film shows him riding a war boar and leading the army of the Iron Hills.",
+  "series": "",
+  "facts": {
+   "Race": "Dwarf",
+   "Born": "T.A. 2767",
+   "Died": "T.A. 3019",
+   "Parents": "Náin",
+   "Children": "Thorin III Stonehelm",
+   "House or line": "Durin's Folk",
+   "Title": "King under the Mountain"
+  },
+  "places": [
+   {
+    "id": "battle:azanulbizar",
+    "role": "fought",
+    "note": "Slays Azog before the East-gate of Moria at the age of 32."
+   },
+   {
+    "id": "HI037",
+    "role": "ruled",
+    "note": "Lives and rules in the Iron Hills as lord of the Dwarves there."
+   },
+   {
+    "id": "battle:five-armies",
+    "role": "fought",
+    "note": "Brings his army from the Iron Hills to the Battle of Five Armies."
+   },
+   {
+    "id": "realm:erebor",
+    "role": "ruled",
+    "note": "Becomes King under the Mountain after Thorin's death in T.A. 2941."
+   },
+   {
+    "id": "battle:battle-of-dale",
+    "role": "died",
+    "note": "Falls before the Gate of Erebor fighting the Easterlings in T.A. 3019."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:thorin-oakenshield",
+   "person:nain",
+   "person:thorin-iii-stonehelm",
+   "person:azog",
+   "person:gloin",
+   "person:bard",
+   "person:brand"
+  ],
+  "sources": [
+   "The Hobbit",
+   "The Lord of the Rings, Appendix A",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:thrain-ii",
+  "title": "Thráin II",
+  "group": "Dwarves",
+  "kind": "King of Durin's Folk in exile, father of Thorin",
+  "aka": [
+   "Thráin son of Thrór"
+  ],
+  "blurb": "Thráin II was Thorin's father, whose Ring of Power was taken by Sauron in Dol Guldur, where he died in T.A. 2850.",
+  "book": "Thráin II was the son of Thrór and the father of Thorin, Frerin and Dís. He was heir to the Kings under the Mountain and carried the last of the Seven Rings.\n\nWhen Smaug took Erebor in T.A. 2770, Thráin escaped with his father by a secret door. Thorin was outside and also escaped. Thrór was killed in Moria in T.A. 2790. Thráin then led the Dwarves in the war against the Orcs and fought at Azanulbizar in T.A. 2799, where he lost an eye.\n\nAfterwards he wandered to Dunland and then settled in the Blue Mountains. In T.A. 2841 he set out to return to Erebor. Servants of Sauron hunted him. He was taken prisoner in Dol Guldur, and his Ring was taken from him.\n\nGandalf found him there in T.A. 2850 as he lay dying. Thráin gave Gandalf the map and key of the Lonely Mountain, and he died soon after.",
+  "film": "Antony Sher plays the old Thráin, whom Gandalf finds as a prisoner in Dol Guldur. A younger Thráin appears in the scenes of Erebor and Azanulbizar.",
+  "series": "",
+  "facts": {
+   "Race": "Dwarf",
+   "Died": "T.A. 2850",
+   "Parents": "Thrór",
+   "Children": "Thorin, Frerin, Dís",
+   "House or line": "Durin's Folk",
+   "Title": "King of Durin's Folk (in exile)",
+   "Born": "T.A. 2644"
+  },
+  "places": [
+   {
+    "id": "battle:azanulbizar",
+    "role": "fought",
+    "note": "Leads the Dwarves against the Orcs at Azanulbizar in T.A. 2799."
+   },
+   {
+    "id": "realm:ered-luin",
+    "role": "lived",
+    "note": "Settles with his people in the Blue Mountains after the war."
+   },
+   {
+    "id": "FT008",
+    "role": "died",
+    "note": "Is held prisoner in Dol Guldur, loses his Ring, and dies there in T.A. 2850."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:thror",
+   "person:thorin-oakenshield",
+   "person:frerin",
+   "person:dis",
+   "person:azog",
+   "person:gandalf",
+   "thing:ring-of-thror",
+   "thing:thrors-map"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix B",
+   "The Lord of the Rings, Appendix A",
+   "The Hobbit"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:thror",
+  "title": "Thrór",
+  "group": "Dwarves",
+  "kind": "King under the Mountain driven out by Smaug",
+  "aka": [
+   "Thrór son of Dáin"
+  ],
+  "blurb": "Thrór was the last King under the Mountain before Smaug, and Azog killed him in Moria in T.A. 2790.",
+  "book": "Thrór was the son of Dáin I and the grandfather of Thorin Oakenshield. He was born in T.A. 2542 and was King of Durin's Folk.\n\nHis father Dáin I was slain by a cold-drake in the Grey Mountains. In T.A. 2590 Thrór led his people back to Erebor, and the kingdom grew rich. His wealth drew Smaug, who attacked in T.A. 2770. Thrór escaped and wandered with his family. He gave his Ring to his son Thráin.\n\nIn T.A. 2790 the old king went to Moria against the advice of his friends. Azog the Orc killed him inside and threw his body out at the gate. Azog cut his own name on the head of the king. This outrage began the War of the Dwarves and Orcs.",
+  "film": "Jeffrey Thomas plays Thrór in the prologue of The Hobbit: An Unexpected Journey, where greed for gold overcomes him.",
+  "series": "",
+  "facts": {
+   "Race": "Dwarf",
+   "Born": "T.A. 2542",
+   "Died": "T.A. 2790",
+   "Parents": "Dáin I",
+   "Children": "Thráin II",
+   "House or line": "Durin's Folk",
+   "Title": "King under the Mountain"
+  },
+  "places": [
+   {
+    "id": "MT022",
+    "role": "lived",
+    "note": "Leaves the Grey Mountains and returns to Erebor in T.A. 2590."
+   },
+   {
+    "id": "realm:erebor",
+    "role": "ruled",
+    "note": "Rules as King under the Mountain until Smaug comes in T.A. 2770."
+   },
+   {
+    "id": "battle:sack-of-erebor",
+    "role": "lost",
+    "note": "Loses Erebor to Smaug and flees into exile."
+   },
+   {
+    "id": "TO066",
+    "role": "died",
+    "note": "Is slain by Azog inside Moria; his body is cast out at the East-gate in T.A. 2790."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:thrain-ii",
+   "person:azog",
+   "person:smaug",
+   "person:nain",
+   "thing:ring-of-thror",
+   "thing:arkenstone",
+   "thing:thrors-map"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix B",
+   "The Lord of the Rings, Appendix A",
+   "The Hobbit"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:frerin",
+  "title": "Frerin",
+  "group": "Dwarves",
+  "kind": "Dwarf prince, Thorin's younger brother",
+  "aka": [],
+  "blurb": "Frerin was a son of Thráin II and a younger brother of Thorin who fell at Azanulbizar in T.A. 2799.",
+  "book": "Frerin was the son of Thráin II and the younger brother of Thorin Oakenshield. His sister was Dís.\n\nHe escaped the fall of Erebor with his family as a boy. When the War of the Dwarves and Orcs began, he went to war with his father and Thorin.\n\nFrerin fell at the Battle of Azanulbizar in T.A. 2799, in the great victory over the Orcs of Moria.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Dwarf",
+   "Died": "T.A. 2799",
+   "Parents": "Thráin II",
+   "Siblings": "Thorin, Dís",
+   "House or line": "Durin's Folk",
+   "Born": "T.A. 2751"
+  },
+  "places": [
+   {
+    "id": "battle:azanulbizar",
+    "role": "died",
+    "note": "Falls fighting the Orcs at Azanulbizar in T.A. 2799."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:thrain-ii",
+   "person:thorin-oakenshield",
+   "person:dis",
+   "person:azog"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:fundin",
+  "title": "Fundin",
+  "group": "Dwarves",
+  "kind": "Dwarf of Durin's Folk, father of Balin and Dwalin",
+  "aka": [],
+  "blurb": "Fundin was the father of Balin and Dwalin and fell at Azanulbizar in T.A. 2799.",
+  "book": "Fundin was a Dwarf of Durin's Folk and the father of Balin and Dwalin. He lived in exile after Smaug took Erebor.\n\nWhen the Dwarves marched against the Orcs of Moria, Fundin went with them. He fell at the Battle of Azanulbizar in T.A. 2799. His sons later joined Thorin's quest and were still alive afterwards.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Dwarf",
+   "Died": "T.A. 2799",
+   "Children": "Balin, Dwalin",
+   "House or line": "Durin's Folk",
+   "Born": "T.A. 2662"
+  },
+  "places": [
+   {
+    "id": "battle:azanulbizar",
+    "role": "died",
+    "note": "Falls in the great battle against the Orcs in T.A. 2799."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:balin",
+   "person:dwalin",
+   "person:azog",
+   "person:thorin-oakenshield"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:dis",
+  "title": "Dís",
+  "group": "Dwarves",
+  "kind": "Dwarf of Durin's line, Thorin's sister",
+  "aka": [],
+  "blurb": "Dís was the daughter of Thráin II, a sister of Thorin and the mother of Fíli and Kíli.",
+  "book": "Dís was a daughter of Thráin II and a sister of Thorin and Frerin. She was of Durin's line.\n\nShe was the mother of Fíli and Kíli. Her sons joined Thorin's company in the Quest of Erebor.\n\nAppendix A notes that she is the only Dwarf-woman named in these histories. It says little else about her life.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Dwarf",
+   "Parents": "Thráin II",
+   "Siblings": "Thorin, Frerin",
+   "Children": "Fíli, Kíli",
+   "House or line": "Durin's Folk",
+   "Born": "T.A. 2760"
+  },
+  "places": [
+   {
+    "id": "realm:ered-luin",
+    "role": "lived",
+    "note": "Belongs to the exiled people of Durin's line in the Blue Mountains."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:thrain-ii",
+   "person:thorin-oakenshield",
+   "person:fili",
+   "person:kili",
+   "person:frerin"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:nain",
+  "title": "Náin",
+  "group": "Dwarves",
+  "kind": "Dwarf lord of the Iron Hills, father of Dáin",
+  "aka": [
+   "Náin son of Grór",
+   "Náin II"
+  ],
+  "blurb": "Náin was Dáin Ironfoot's father, who was slain by Azog before the East-gate of Moria in T.A. 2799.",
+  "book": "Náin was the son of Grór and the father of Dáin Ironfoot. He belonged to Durin's Folk and lived in the Iron Hills.\n\nWhen the War of the Dwarves and Orcs came, Náin brought his people to the great battle at Azanulbizar in T.A. 2799. Azog killed him before the East-gate of Moria.\n\nDáin, who fought at Náin's side, avenged his father by slaying Azog.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Dwarf",
+   "Died": "T.A. 2799",
+   "Parents": "Grór",
+   "Children": "Dáin II Ironfoot",
+   "House or line": "Durin's Folk",
+   "Born": "T.A. 2665"
+  },
+  "places": [
+   {
+    "id": "HI037",
+    "role": "lived",
+    "note": "Is lord of the Dwarves who dwell in the Iron Hills."
+   },
+   {
+    "id": "battle:azanulbizar",
+    "role": "died",
+    "note": "Is slain by Azog before the East-gate of Moria in T.A. 2799."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:dain-ii-ironfoot",
+   "person:azog",
+   "person:thror"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:thorin-iii-stonehelm",
+  "title": "Thorin III Stonehelm",
+  "group": "Dwarves",
+  "kind": "King under the Mountain after Dáin",
+  "aka": [
+   "Thorin Stonehelm"
+  ],
+  "blurb": "Thorin III Stonehelm was Dáin's son, who became King under the Mountain in T.A. 3019.",
+  "book": "Thorin III Stonehelm was the son of Dáin II Ironfoot. He belonged to Durin's Folk and carried the name of his famous kinsman.\n\nIn T.A. 3019 the Easterlings attacked Dale and Erebor as part of Sauron's war. Dáin and King Brand fell before the Gate. The Dwarves then held Erebor under siege until news came of Sauron's defeat.\n\nThorin Stonehelm became King under the Mountain after his father. With Bard II of Dale he drove off the Easterlings. Both sent envoys to the crowning of King Elessar, and their realms stayed friends of Gondor.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Dwarf",
+   "Parents": "Dáin II",
+   "House or line": "Durin's Folk",
+   "Title": "King under the Mountain",
+   "Born": "T.A. 2866"
+  },
+  "places": [
+   {
+    "id": "battle:battle-of-dale",
+    "role": "fought",
+    "note": "Defends Erebor in the war of T.A. 3019 and becomes king after his father falls."
+   },
+   {
+    "id": "realm:erebor",
+    "role": "ruled",
+    "note": "Rules as King under the Mountain from T.A. 3019."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:dain-ii-ironfoot",
+   "person:brand",
+   "person:thorin-oakenshield",
+   "person:bard"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:bard",
+  "title": "Bard the Bowman",
+  "group": "Men",
+  "kind": "Bowman of Lake-town, slayer of Smaug",
+  "aka": [
+   "Bard the Bowman",
+   "Bard the Dragon-shooter"
+  ],
+  "blurb": "Bard was the Man of Lake-town who killed Smaug with the Black Arrow and later became King of Dale.",
+  "book": "Bard was a Man of Lake-town and a descendant of Girion, the last Lord of Dale. He was a grim man and a skilled archer. He kept an heirloom black arrow.\n\nWhen Smaug attacked Lake-town in T.A. 2941, Bard shot him with the Black Arrow. An old thrush had told him where the dragon had a bare place under his breast. The dragon fell on the town.\n\nThe Men of the Lake chose Bard as their leader instead of the Master. He led them to Dale and demanded a share of the Dwarves' treasure. Bilbo secretly gave Bard and the Elvenking the Arkenstone to help the bargain.\n\nAfter the Battle of Five Armies, Dáin gave Bard a share of the treasure. Bard rebuilt Dale and became its king. He was the ancestor of the later Kings of Dale.",
+  "film": "Luke Evans plays Bard in The Hobbit films. The films make him a bargeman and smuggler with a family. Alfrid, a scheming servant of the Master, is invented for the films.",
+  "series": "",
+  "facts": {
+   "Race": "Man",
+   "Children": "Bain",
+   "House or line": "Descendant of Girion of Dale",
+   "Title": "King of Dale",
+   "Weapon or steed": "Black Arrow"
+  },
+  "places": [
+   {
+    "id": "TO053",
+    "role": "fought",
+    "note": "Kills Smaug with the Black Arrow as the dragon burns Lake-town."
+   },
+   {
+    "id": "TO024",
+    "role": "ruled",
+    "note": "Rebuilds Dale and rules there as king."
+   },
+   {
+    "id": "battle:five-armies",
+    "role": "fought",
+    "note": "Leads the Men of the Lake at the Battle of Five Armies."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:smaug",
+   "person:thorin-oakenshield",
+   "person:master-of-lake-town",
+   "person:brand",
+   "person:dain-ii-ironfoot",
+   "person:bilbo-baggins",
+   "thing:black-arrow",
+   "thing:arkenstone"
+  ],
+  "sources": [
+   "The Hobbit",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:beorn",
+  "title": "Beorn",
+  "group": "Men",
+  "kind": "Skin-changer of the Anduin vale",
+  "aka": [
+   "Beorn the skin-changer"
+  ],
+  "blurb": "Beorn was a great Man who could take the shape of a bear. He sheltered Thorin's company and killed Bolg at the Battle of Five Armies.",
+  "book": "Beorn was a skin-changer who lived in a wooden hall in the vale between the Misty Mountains and Mirkwood. He was a huge, black-bearded Man who could become a great black bear. He kept bees and fine beasts.\n\nIn T.A. 2941 Gandalf brought Thorin's company to him by a careful plan. Beorn disliked Dwarves, but the tale of their fight with the goblins won him over. He gave them food, ponies and advice.\n\nHe went on to the Battle of Five Armies. There he arrived in the form of a bear and turned the battle. He killed Bolg, and the Goblins broke and fled.\n\nAfter the battle, Beorn became a great chief of the vale. His son Grimbeorn the Old led the Beornings after him.",
+  "film": "Mikael Persbrandt plays Beorn in The Hobbit films, where he arrives as a bear at the Battle of Five Armies.",
+  "series": "",
+  "facts": {
+   "Race": "Man (skin-changer)",
+   "Children": "Grimbeorn the Old",
+   "Realm or home": "Beorn's Hall, vale of Anduin"
+  },
+  "places": [
+   {
+    "id": "BU031",
+    "role": "lived",
+    "note": "Lives in his wooden hall and shelters Thorin's company in T.A. 2941."
+   },
+   {
+    "id": "IS003",
+    "role": "other",
+    "note": "Keeps the Carrock as a lookout and cuts steps up its side."
+   },
+   {
+    "id": "battle:five-armies",
+    "role": "fought",
+    "note": "Comes in bear shape, kills Bolg and turns the Battle of Five Armies."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:gandalf",
+   "person:thorin-oakenshield",
+   "person:bilbo-baggins",
+   "person:bolg"
+  ],
+  "sources": [
+   "The Hobbit",
+   "The Lord of the Rings, Book II"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:master-of-lake-town",
+  "title": "Master of Lake-town",
+  "group": "Men",
+  "kind": "Greedy ruler of Esgaroth",
+  "aka": [
+   "Master of Esgaroth"
+  ],
+  "blurb": "The Master was the greedy ruler of Lake-town who later fled with gold meant for the town and died in the Waste.",
+  "book": "The Master ruled Lake-town in T.A. 2941. He was a cautious and greedy Man who cared most for trade and profit.\n\nHe welcomed Thorin's company with a feast, since he did not dare to oppose the joy of his people. He was glad to see the Dwarves go on to the Mountain.\n\nWhen Smaug attacked the town, the Master fled in a boat. Afterwards the people wished to make Bard king. The Master turned their anger against the Dwarves, and Bard let him remain Master.\n\nAfter the Battle of Five Armies, Bard gave him much gold to help the town. The Master fell under a greed like dragon-sickness. He fled with most of the gold and died of hunger in the Waste.",
+  "film": "Stephen Fry plays the Master in The Hobbit films. The films add Alfrid, his scheming servant, who does not appear in the books.",
+  "series": "",
+  "facts": {
+   "Race": "Man",
+   "Title": "Master of Lake-town"
+  },
+  "places": [
+   {
+    "id": "TO053",
+    "role": "ruled",
+    "note": "Rules Lake-town and gives the Dwarves a feast in T.A. 2941."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "The Waste",
+    "role": "died",
+    "note": "Flees there with stolen gold and dies of hunger."
+   }
+  ],
+  "related": [
+   "person:bard",
+   "person:thorin-oakenshield",
+   "person:smaug"
+  ],
+  "sources": [
+   "The Hobbit"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:brand",
+  "title": "Brand",
+  "group": "Men",
+  "kind": "King of Dale, grandson of Bard",
+  "aka": [
+   "Brand son of Bain"
+  ],
+  "blurb": "Brand was the King of Dale who fell fighting before the Gate of Erebor in T.A. 3019.",
+  "book": "Brand was the son of Bain and the grandson of Bard the Bowman. He ruled Dale as its king in the years of the War of the Ring.\n\nIn T.A. 3019 the Easterlings attacked Dale. Brand and his men withdrew to the Lonely Mountain and fought beside Dáin Ironfoot. Brand fell before the Gate of Erebor. Dáin died defending his body.\n\nBard II, Brand's son, then ruled Dale.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man",
+   "Died": "T.A. 3019",
+   "Parents": "Bain",
+   "Title": "King of Dale"
+  },
+  "places": [
+   {
+    "id": "TO024",
+    "role": "ruled",
+    "note": "Rules the restored Kingdom of Dale as king."
+   },
+   {
+    "id": "battle:battle-of-dale",
+    "role": "died",
+    "note": "Falls before the Gate of Erebor in the war of T.A. 3019."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:bard",
+   "person:dain-ii-ironfoot",
+   "person:thorin-iii-stonehelm"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ }
+]

@@ -151,6 +151,49 @@ for tag, dd, cd, meta, rg in LANDS:
         if not hit: warn.append(f'{tag}: no {typ} titled {title!r} for art'); continue
         if key in art: hit[0]['art'] = key
     images += f'<img id="img-height-{tag}" class="hide" alt="" src="data:image/png;base64,{b64(dd + "/height.png")}">\n<img id="img-base-{tag}" class="hide" alt="" src="data:image/jpeg;base64,{b64(dd + "/base_sepia.jpg")}">\n'
+# ---- expansion: new places, persons, things (cards in new/cards) ----
+NEW = R + '/new/cards'
+def _load(pat):
+    out = []
+    for f in sorted(glob.glob(NEW + '/' + pat)):
+        d = json.load(open(f)); out += d if isinstance(d, list) else next(iter(d.values()))
+    return out
+land_ids = {l['id'] for l in lands}
+PLACE_KEYS = ('id', 'title', 'kind', 'tier', 'blurb', 'book', 'film', 'series', 'facts', 'related', 'sources', 'confidence', 'layer', 'x', 'y', 'land', 'names')
+nplaces = 0
+for c in _load('newplaces_*.json'):
+    if c.get('land') not in land_ids: continue
+    if c['id'] in items: warn.append(f"new place id clash {c['id']}"); continue
+    it = {k: c[k] for k in PLACE_KEYS if c.get(k) not in (None, '', [], {})}; it['type'] = 'place'; it['approx'] = 1; it.setdefault('tier', 3); it.setdefault('confidence', 'medium')
+    items[c['id']] = it; nplaces += 1
+for it in items.values():
+    if it.get('related'): it['related'] = [r for r in it['related'] if r in items or r.startswith(('person:', 'thing:'))]
+LORE_KEYS = ('id', 'title', 'kind', 'group', 'aka', 'blurb', 'book', 'film', 'series', 'facts', 'sources', 'confidence')
+lore = []
+for typ, pat in (('person', 'people_*.json'), ('thing', 'things_*.json')):
+    for c in _load(pat):
+        if c['id'] in items: warn.append(f"lore id clash {c['id']}"); continue
+        it = {k: c[k] for k in LORE_KEYS if c.get(k) not in (None, '', [], {})}; it['type'] = typ; it['land'] = None
+        pl = []
+        for p in c.get('places') or []:
+            t = items.get(p.get('id'))
+            if not t or t['type'] not in ('place', 'realm', 'battle'): warn.append(f"{c['id']}: unknown place ref {p.get('id')!r}"); continue
+            pl.append({k: p[k] for k in ('id', 'role', 'note') if p.get(k)})
+        if pl: it['places'] = pl
+        off = [{k: p[k] for k in ('name', 'role', 'note') if p.get(k)} for p in (c.get('offmap') or []) if p.get('name')]
+        if off: it['offmap'] = off
+        it['_rel'] = c.get('related') or []
+        if typ == 'thing' and 't-' + c['id'].split(':', 1)[1] in art: it['art'] = 't-' + c['id'].split(':', 1)[1]
+        items[c['id']] = it; lore.append(it)
+for it in lore:
+    rel = [r for r in it.pop('_rel') if r in items and r != it['id']]
+    if rel: it['related'] = rel
+    for p in it.get('places', []):
+        L = items[p['id']].setdefault('linked', [])
+        if it['id'] not in L: L.append(it['id'])
+for it in items.values():   # place and battle cards may point to persons and things; drop refs that do not exist
+    if it.get('related'): it['related'] = [r for r in it['related'] if r in items]
+print('expansion: new places', nplaces, '| persons', sum(1 for i in lore if i['type'] == 'person'), '| things', sum(1 for i in lore if i['type'] == 'thing'), '| places with links', sum(1 for i in items.values() if i.get('linked')))
 data = {'lands': lands, 'items': items, 'art': art}
 print('art', {k: sorted(v) for k, v in art.items()})
 subprocess.run(['npx', 'esbuild', 'src/app.js', '--bundle', '--minify', '--format=iife', '--target=es2020', '--outfile=dist/app.js', '--log-level=warning'], cwd=B, check=True)

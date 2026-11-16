@@ -1,0 +1,1003 @@
+[
+ {
+  "id": "thing:elanor-flower",
+  "title": "Elanor",
+  "group": "Trees, plants and substances",
+  "kind": "Golden star-flower of Lothlórien",
+  "aka": [
+   "Sun-star"
+  ],
+  "blurb": "Elanor is a small golden star-shaped flower that grows with white niphredil on Cerin Amroth in Lothlórien.",
+  "book": "Elanor is a small flower with golden, star-like blooms. It grows in the grass of Lothlórien, most notably on the hill of Cerin Amroth, where it blooms beside the pale flower niphredil.\n\nThe Fellowship sees the flowers there in T.A. 3019. Frodo lies on the grass of Cerin Amroth among them and feels that he has passed into a world outside time.\n\nThe name is Elvish and means sun-star. After the War of the Ring, Samwise Gamgee names his first daughter Elanor after the flower. She is called Elanor the Fair, and her heirs later keep the Red Book.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Flower"
+  },
+  "places": [
+   {
+    "id": "HI014",
+    "role": "other",
+    "note": "Golden elanor and white niphredil grow in the grass of this hill; the Fellowship sees them in T.A. 3019."
+   },
+   {
+    "id": "FO017",
+    "role": "other",
+    "note": "Elanor grows in the Golden Wood, where Galadriel and Celeborn rule."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:samwise-gamgee",
+   "person:elanor-gamgee",
+   "person:frodo-baggins",
+   "person:galadriel",
+   "thing:mallorn"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "thing:box-of-galadriel",
+  "title": "Galadriel's box",
+  "group": "Other",
+  "kind": "Gift of Galadriel to Samwise",
+  "aka": [
+   "Sam's box",
+   "Box of Lórien earth"
+  ],
+  "blurb": "A small plain box that Galadriel gave to Sam, holding earth from her orchard and a mallorn nut.",
+  "book": "When the Fellowship leaves Lothlórien in T.A. 3019, Galadriel gives each member a parting gift. To Sam she gives a small box of plain grey wood. A single silver rune stands on its lid: G for Galadriel, or for garden.\n\nThe box holds earth from her orchard. She tells him it will not guard him on the road or defend him against peril. She hopes that he will use it when he comes home, so that his garden may bloom.\n\nSam keeps the box through the Quest. After the Scouring of the Shire he opens it and finds grey dust and a small silver nut. He scatters the dust across the Shire, and the land recovers swiftly. He plants the nut in the Party Field, and a young mallorn grows there. It is the only mallorn west of the Mountains and east of the Sea.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Gift",
+   "Made by": "Galadriel",
+   "Fate": "Earth scattered over the Shire by Sam; a mallorn grew from the nut"
+  },
+  "places": [
+   {
+    "id": "FO017",
+    "role": "other",
+    "note": "Galadriel gives Sam the box as a parting gift when the Fellowship leaves Lothlórien."
+   },
+   {
+    "id": "FI022",
+    "role": "other",
+    "note": "Sam plants the silver nut in the Party Field, and a mallorn grows there."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:samwise-gamgee",
+   "person:galadriel",
+   "thing:mallorn",
+   "person:frodo-baggins",
+   "person:celeborn"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II",
+   "The Lord of the Rings, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:mirror-of-galadriel",
+  "title": "Mirror of Galadriel",
+  "group": "Other",
+  "kind": "Elven basin of seeing",
+  "aka": [
+   "Mirror of Lórien"
+  ],
+  "blurb": "A silver basin filled with water from a stream, in which Galadriel shows Frodo and Sam visions of past, present and possible futures.",
+  "book": "The Mirror of Galadriel is a wide, shallow silver basin on a pedestal shaped like a branching tree. It stands in a hollow of a garden below Caras Galadhon. Galadriel fills it with water from a nearby stream. The water then shows images to those who look.\n\nIts visions are of things that were, things that are, and things that may yet be. Galadriel says that not even the wise can always tell which a vision is.\n\nIn T.A. 3019 Frodo and Sam look in the Mirror. Sam sees trees being felled in the Shire and Bagshot Row being pulled down. Frodo sees a figure in white, the Sea and a ship, and then the Eye of Sauron. Galadriel warns them both not to act rashly on what it shows.",
+  "film": "Galadriel (Cate Blanchett) pours the water into the basin herself. Frodo sees the Shire burning, its hobbits in chains, and the Eye.",
+  "series": "",
+  "facts": {
+   "Kind": "Basin of water"
+  },
+  "places": [
+   {
+    "id": "TO018",
+    "role": "other",
+    "note": "Frodo and Sam look into the Mirror in a garden of Galadriel's city."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:galadriel",
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "thing:nenya",
+   "person:celeborn"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "thing:elven-cloaks",
+  "title": "Elven-cloaks of Lórien",
+  "group": "Other",
+  "kind": "Cloaks given to the Fellowship",
+  "aka": [
+   "Lórien cloaks",
+   "Elf-cloaks"
+  ],
+  "blurb": "Hooded grey cloaks given by Galadriel to the Fellowship, each fastened with a leaf-shaped brooch of green stone.",
+  "book": "Before the Fellowship leaves Lothlórien in T.A. 3019, Galadriel and Celeborn give each member a hooded cloak made by the Galadhrim. The cloaks are grey and light, yet warm. Each is fastened at the neck with a brooch shaped like a leaf, green with silver veins.\n\nThe cloaks help the wearers blend into stone, shadow and grass in wild country. They serve the hobbits well on the Emyn Muil and in Mordor, where they help to hide Frodo and Sam from watching eyes.\n\nPippin drops his brooch in Rohan as a sign for Aragorn to follow.",
+  "film": "The films show the grey cloaks with leaf brooches.",
+  "series": "",
+  "facts": {
+   "Kind": "Cloaks",
+   "Made by": "The Galadhrim of Lothlórien"
+  },
+  "places": [
+   {
+    "id": "FO017",
+    "role": "made",
+    "note": "The cloaks are woven by the Elves of the Golden Wood."
+   },
+   {
+    "id": "TO018",
+    "role": "other",
+    "note": "The Fellowship receives the cloaks before leaving Lothlórien."
+   },
+   {
+    "id": "NP014",
+    "role": "lost",
+    "note": "Pippin drops his brooch on the plains of Rohan as a sign for Aragorn."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:galadriel",
+   "person:celeborn",
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:peregrin-took",
+   "person:meriadoc-brandybuck",
+   "person:aragorn"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II",
+   "The Lord of the Rings, Book III"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:silmarils",
+  "title": "Silmarils",
+  "group": "Jewels",
+  "kind": "Three jewels of Fëanor",
+  "aka": [
+   "Silmaril"
+  ],
+  "blurb": "The Silmarils are three jewels made by Fëanor that hold the light of the Two Trees, and for which the Noldor fought for centuries.",
+  "book": "Fëanor of the Noldor made the three Silmarils in Valinor. Each holds a living light taken from the Two Trees of Valinor. Varda hallowed them, so that no unclean hand could touch them without being burned.\n\nMorgoth slew Finwë and stole the Silmarils from Formenos, after the Trees were destroyed. He set them in his Iron Crown in Angband. Fëanor and his sons swore an oath to recover them, and the Noldor went to Middle-earth.\n\nBeren and Lúthien cut one Silmaril from the Iron Crown, and it passed through the Nauglamír to Thingol's kin and then to Elwing. Her husband Eärendil carried it over the Sea to Valinor. After the War of Wrath, the two others were taken by Maedhros and Maglor. Maedhros cast himself with his into a fiery chasm, and Maglor threw his into the sea. One Silmaril now shines in the sky, one lies in the earth, and one lies in the sea.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Jewels",
+   "Made by": "Fëanor",
+   "Made in": "Valinor",
+   "Fate": "One in the sky, one in the earth, one in the sea"
+  },
+  "places": [
+   {
+    "id": "b:FT01",
+    "role": "kept",
+    "note": "Morgoth keeps the three Silmarils set in his Iron Crown; Beren cuts one free."
+   },
+   {
+    "id": "b:TO01",
+    "role": "kept",
+    "note": "Thingol keeps the Silmaril brought by Beren and Lúthien, set in the Nauglamír."
+   },
+   {
+    "id": "b:battle:sack-of-menegroth",
+    "role": "lost",
+    "note": "The Dwarves of Nogrod slay Thingol and seize the jewel."
+   },
+   {
+    "id": "b:FJ03",
+    "role": "found",
+    "note": "Beren takes the Silmaril back from the Dwarves at Sarn Athrad."
+   },
+   {
+    "id": "b:NP015",
+    "role": "kept",
+    "note": "Lúthien wears the Silmaril on Tol Galen until her death."
+   },
+   {
+    "id": "b:battle:second-kinslaying",
+    "role": "other",
+    "note": "The sons of Fëanor attack Doriath to seize the Silmaril; Elwing escapes with it."
+   },
+   {
+    "id": "b:TO07",
+    "role": "kept",
+    "note": "Elwing keeps the Silmaril at the Havens of Sirion."
+   },
+   {
+    "id": "b:battle:third-kinslaying",
+    "role": "other",
+    "note": "The sons of Fëanor strike Elwing's people, but she escapes with the jewel."
+   },
+   {
+    "id": "b:battle:war-of-wrath",
+    "role": "other",
+    "note": "Maedhros and Maglor steal the last two Silmarils from the camp of Eönwë."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Valinor",
+    "role": "made",
+    "note": "Fëanor makes the Silmarils in Valinor."
+   },
+   {
+    "name": "Formenos",
+    "role": "lost",
+    "note": "Morgoth slays Finwë and steals the Silmarils from the stronghold of Formenos."
+   }
+  ],
+  "related": [
+   "person:feanor",
+   "person:morgoth",
+   "person:beren",
+   "person:luthien",
+   "person:earendil",
+   "person:elwing",
+   "person:maedhros",
+   "person:maglor",
+   "thing:two-trees",
+   "thing:iron-crown"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "thing:nauglamir",
+  "title": "Nauglamír",
+  "group": "Jewels",
+  "kind": "Dwarf-made necklace, called Necklace of the Dwarves",
+  "aka": [
+   "Necklace of the Dwarves"
+  ],
+  "blurb": "The Nauglamír was a golden necklace made by Dwarves for Finrod Felagund, later made to hold the Silmaril of Beren and Lúthien.",
+  "book": "Dwarf-smiths of Nogrod and Belegost made the Nauglamír for Finrod Felagund, king of Nargothrond. It was a golden necklace set with many bright gems, and it was among the most famous works of Dwarf-smiths in the First Age.\n\nAfter the sack of Nargothrond, Húrin took it from the Petty-dwarf Mîm and brought it to Thingol in Doriath. When Thingol received the Silmaril, he asked Dwarf-smiths to set it in the Nauglamír. The Dwarves of Nogrod coveted the jewel and slew Thingol. Later an army of Nogrod sacked Menegroth and took the necklace.\n\nBeren fought the returning Dwarves at Sarn Athrad and took the Nauglamír back. Lúthien wore it, and later Dior and Elwing. Elwing carried it with the Silmaril to the Havens of Sirion. The books do not say what became of the necklace afterwards.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Necklace",
+   "Made by": "Dwarves of Nogrod and Belegost",
+   "Fate": "Not stated after the Third Kinslaying",
+   "Owners": "Finrod, Mîm, Húrin, Thingol, Beren and Lúthien, Dior, Elwing"
+  },
+  "places": [
+   {
+    "id": "b:TO02",
+    "role": "kept",
+    "note": "Finrod keeps the Nauglamír in Nargothrond; Húrin later takes it from there."
+   },
+   {
+    "id": "b:TO01",
+    "role": "other",
+    "note": "Thingol has the Silmaril set in the Nauglamír here; the Dwarves then slay him."
+   },
+   {
+    "id": "b:battle:sack-of-menegroth",
+    "role": "lost",
+    "note": "The Dwarves seize the Nauglamír and the Silmaril when they sack the city."
+   },
+   {
+    "id": "b:FJ03",
+    "role": "found",
+    "note": "Beren defeats the Dwarves and recovers the Nauglamír at this ford."
+   },
+   {
+    "id": "b:NP015",
+    "role": "kept",
+    "note": "Lúthien wears the Nauglamír with the Silmaril on Tol Galen."
+   },
+   {
+    "id": "b:TO07",
+    "role": "kept",
+    "note": "Elwing keeps the Nauglamír and its jewel at the Havens of Sirion."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:finrod-felagund",
+   "person:mim",
+   "person:thingol",
+   "person:hurin",
+   "person:beren",
+   "person:luthien",
+   "person:dior",
+   "person:elwing",
+   "thing:silmarils"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:ring-of-barahir",
+  "title": "Ring of Barahir",
+  "group": "Rings",
+  "kind": "Heirloom ring of two serpents",
+  "aka": [
+   "Ring of Felagund"
+  ],
+  "blurb": "The Ring of Barahir was a ring of twin serpents that Finrod gave to Barahir, and was later an heirloom of Aragorn.",
+  "book": "The Ring of Barahir was made in the form of two serpents with emerald eyes. Their heads met beneath a crown of golden flowers. Finrod Felagund gave it to Barahir, who saved his life in the Fen of Serech in the Battle of Sudden Flame.\n\nFinrod swore an oath of friendship and aid to Barahir and his kin. Orcs later slew Barahir at Tarn Aeluin and cut off his hand to take the ring. His son Beren hunted them down at Rivil's Well and won it back. Beren showed it to Finrod in Nargothrond when he sought help in his quest for a Silmaril, and Finrod honoured his oath.\n\nThe ring passed down the line of Beren to Elros and the kings of Númenor, and then to the heirs of Isildur. Arvedui gave it to the Snowmen of Forochel, and the Dúnedain later ransomed it. Elrond kept it in Rivendell and gave it to Aragorn at the age of twenty, when he learned his lineage.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Ring",
+   "Made by": "Not stated",
+   "Owners": "Finrod, Barahir, Beren, the kings of Númenor, the heirs of Isildur, Aragorn"
+  },
+  "places": [
+   {
+    "id": "b:SW01",
+    "role": "other",
+    "note": "Barahir saves Finrod in the Fen of Serech, and Finrod gives him the ring."
+   },
+   {
+    "id": "b:LA03",
+    "role": "lost",
+    "note": "Orcs slay Barahir at Tarn Aeluin and cut the ring from his hand."
+   },
+   {
+    "id": "b:FA03",
+    "role": "found",
+    "note": "Beren slays the Orcs at Rivil's Well and takes back the ring."
+   },
+   {
+    "id": "b:TO02",
+    "role": "other",
+    "note": "Beren shows the ring to Finrod in Nargothrond to claim his aid."
+   },
+   {
+    "id": "BA013",
+    "role": "other",
+    "note": "Arvedui gives the ring to the Snowmen of Forochel in T.A. 1975."
+   },
+   {
+    "id": "TO084",
+    "role": "kept",
+    "note": "Elrond keeps the ring and gives it to Aragorn in T.A. 2951."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:finrod-felagund",
+   "person:barahir",
+   "person:beren",
+   "person:elros",
+   "person:arvedui",
+   "person:elrond",
+   "person:aragorn"
+  ],
+  "sources": [
+   "The Silmarillion",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:gurthang",
+  "title": "Gurthang",
+  "group": "Weapons and armour",
+  "kind": "Black sword of Túrin",
+  "aka": [
+   "Anglachel",
+   "Iron of Death"
+  ],
+  "blurb": "Gurthang was the black sword Anglachel, made by Eöl from meteoric iron, which Túrin bore and renamed.",
+  "book": "Eöl the Dark Elf forged Anglachel from iron that fell from the sky as a blazing star. It could cleave all iron delved from the earth.\n\nEöl gave the sword to Thingol as the price of leave to dwell in Nan Elmoth. It was kept in Menegroth, and Beleg later chose it from Thingol's armoury. Melian warned that there was malice in it. Beleg used it to cut Túrin's bonds in Taur-nu-Fuin, and Túrin, waking in the dark, slew Beleg with it in error.\n\nIn Nargothrond the sword was forged anew for Túrin, and he named it Gurthang, Iron of Death. He was called Mormegil, the Black Sword. He slew Glaurung with it at Cabed-en-Aras. Later Túrin asked the sword to slay him, and it answered that it would. He threw himself on its point, and the blade broke.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Sword",
+   "Made by": "Eöl",
+   "Made in": "Nan Elmoth",
+   "Material": "Meteoric iron",
+   "Fate": "Broke when Túrin died upon it"
+  },
+  "places": [
+   {
+    "id": "b:FO05",
+    "role": "made",
+    "note": "Eöl forges Anglachel in the forest of Nan Elmoth."
+   },
+   {
+    "id": "b:TO01",
+    "role": "kept",
+    "note": "Thingol keeps Anglachel in his armoury until Beleg chooses it."
+   },
+   {
+    "id": "b:FO08",
+    "role": "other",
+    "note": "Túrin takes the sword and kills Beleg by mistake in this forest."
+   },
+   {
+    "id": "b:TO02",
+    "role": "made",
+    "note": "Smiths of Nargothrond forge the blade anew for Túrin as Gurthang."
+   },
+   {
+    "id": "b:VA01",
+    "role": "destroyed",
+    "note": "Túrin slays Glaurung here, then dies on the sword, which breaks."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:eol",
+   "person:thingol",
+   "person:beleg",
+   "person:turin",
+   "person:glaurung",
+   "person:melian",
+   "thing:anguirel",
+   "thing:belthronding"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:anguirel",
+  "title": "Anguirel",
+  "group": "Weapons and armour",
+  "kind": "Black sword of Eöl",
+  "aka": [
+   "Sword of Eöl"
+  ],
+  "blurb": "Anguirel was a black sword that Eöl made, of the same iron as Anglachel, and Maeglin took it from his father.",
+  "book": "Anguirel was a sword of black iron made by Eöl the Dark Elf in Nan Elmoth. It was forged from the same star-iron as Anglachel, its mate.\n\nEöl kept Anguirel until Maeglin, his son, stole it. Maeglin fled with his mother Aredhel to Gondolin, where he became a lord of Turgon's court.\n\nMaeglin later betrayed Gondolin and died in its fall. The books do not say what became of Anguirel afterwards.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Sword",
+   "Made by": "Eöl",
+   "Made in": "Nan Elmoth",
+   "Material": "Meteoric iron"
+  },
+  "places": [
+   {
+    "id": "b:FO05",
+    "role": "made",
+    "note": "Eöl forges Anguirel here in his forest dwelling."
+   },
+   {
+    "id": "b:TO03",
+    "role": "kept",
+    "note": "Maeglin lives in Gondolin with the sword."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:eol",
+   "person:maeglin",
+   "thing:gurthang",
+   "person:aredhel",
+   "person:turgon"
+  ],
+  "sources": [
+   "The Silmarillion",
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:ringil",
+  "title": "Ringil",
+  "group": "Weapons and armour",
+  "kind": "Sword of Fingolfin",
+  "aka": [],
+  "blurb": "Ringil was the sword of Fingolfin, bright and cold as ice, with which he wounded Morgoth seven times.",
+  "book": "Ringil was the sword of Fingolfin, High King of the Noldor in Beleriand. Its blade glittered like ice. Its name is Elvish, and its first part means cold.\n\nAfter the Battle of Sudden Flame, Fingolfin rode alone to Angband and challenged Morgoth. Morgoth came out wielding the hammer Grond. In the duel Fingolfin wounded the Dark Lord seven times with Ringil.\n\nFingolfin also hewed Morgoth's foot before he fell and was slain. The Eagle Thorondor bore his body to the mountains north of Gondolin. The books do not say what became of Ringil after the duel.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Sword",
+   "Owners": "Fingolfin"
+  },
+  "places": [
+   {
+    "id": "b:battle:duel-fingolfin-morgoth",
+    "role": "other",
+    "note": "Fingolfin wounds Morgoth seven times with Ringil before he falls."
+   },
+   {
+    "id": "b:FT01",
+    "role": "other",
+    "note": "Fingolfin challenges Morgoth at the gates of Angband."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:fingolfin",
+   "person:morgoth",
+   "person:thorondor",
+   "person:fingon",
+   "person:turgon"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:aeglos",
+  "title": "Aeglos",
+  "group": "Weapons and armour",
+  "kind": "Spear of Gil-galad",
+  "aka": [
+   "Snow-point"
+  ],
+  "blurb": "Aeglos was the long spear of Gil-galad, High King of the Noldor, borne in the Last Alliance of Elves and Men.",
+  "book": "Aeglos was the spear of Gil-galad, last High King of the Noldor in Middle-earth. Its name means snow-point. No other spear was as feared, and few could stand against it.\n\nGil-galad bore Aeglos in the Last Alliance, in the war against Sauron in the Second Age. The Alliance won the Battle of Dagorlad and then besieged Barad-dûr for seven years.\n\nIn the final combat on the slopes of Orodruin, Sauron himself came forth. Elendil and Gil-galad both died there, but Sauron was overthrown. The books do not say what became of Aeglos.",
+  "film": "Gil-galad fights with a spear in the prologue of The Fellowship of the Ring. The spear is not named in the film.",
+  "series": "",
+  "facts": {
+   "Kind": "Spear",
+   "Owners": "Gil-galad"
+  },
+  "places": [
+   {
+    "id": "battle:dagorlad",
+    "role": "other",
+    "note": "Gil-galad bears Aeglos with the Last Alliance when it defeats Sauron's host."
+   },
+   {
+    "id": "MT036",
+    "role": "lost",
+    "note": "Gil-galad falls to Sauron here; the fate of Aeglos is not recorded."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:gil-galad",
+   "person:sauron",
+   "person:elendil",
+   "person:elrond",
+   "person:isildur",
+   "thing:anduril"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Rings of Power and the Third Age",
+   "The Lord of the Rings, Book II, Chapter 2"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:angrist",
+  "title": "Angrist",
+  "group": "Weapons and armour",
+  "kind": "Dwarf-forged knife of Curufin",
+  "aka": [],
+  "blurb": "Angrist was a knife made by the smith Telchar, which Beren took from Curufin and used in Angband.",
+  "book": "Angrist was a knife made by the Dwarf-smith Telchar of Nogrod. It could cut through iron as easily as soft wood. It belonged to Curufin, one of the sons of Fëanor.\n\nCurufin and Celegorm attacked Beren and Lúthien in the wild. Beren overcame Curufin and took the knife from him. When Beren and Lúthien came to Morgoth's throne in Angband, Lúthien put Morgoth into a deep sleep. Beren then used Angrist to cut a Silmaril from the Iron Crown.\n\nThe knife broke while Beren tried to cut out a second jewel. A shard flew up and struck Morgoth's cheek, and he stirred. Beren and Lúthien had to flee with the single Silmaril.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Knife",
+   "Made by": "Telchar",
+   "Owners": "Curufin, Beren",
+   "Fate": "Broke in Angband"
+  },
+  "places": [
+   {
+    "id": "b:TO02",
+    "role": "other",
+    "note": "Curufin dwells in Nargothrond when Beren comes seeking help for his quest."
+   },
+   {
+    "id": "b:FT01",
+    "role": "destroyed",
+    "note": "Beren cuts a Silmaril from the Iron Crown; the knife breaks."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:curufin",
+   "person:beren",
+   "person:luthien",
+   "person:telchar",
+   "person:morgoth",
+   "thing:iron-crown",
+   "thing:silmarils"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:dragon-helm",
+  "title": "Dragon-helm of Dor-lómin",
+  "group": "Weapons and armour",
+  "kind": "Heirloom helm of the House of Hador",
+  "aka": [
+   "Helm of Hador",
+   "Dragon-helm of Hador"
+  ],
+  "blurb": "The Dragon-helm was a great helm with a dragon crest, handed down in the House of Hador and worn by Túrin.",
+  "book": "The Dragon-helm of Dor-lómin was an heirloom of the House of Hador. Telchar of Nogrod made it, and it bore the image of Glaurung as its crest. It was said that its wearer was guarded from wounds.\n\nTelchar made it for Azaghâl of Belegost, who gave it to Maedhros. Maedhros gave it to Fingon, and Fingon gave it to Hador Lórindol. It passed through Galdor to Húrin.\n\nThe helm came to Doriath, and Thingol gave it to Túrin when he joined Beleg on the northern marches. Túrin wore it in battle there and later on Amon Rûdh, where the land became the Land of Bow and Helm. The helm made his name known to Morgoth. The books do not say what became of it after Túrin's capture.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Helm",
+   "Made by": "Telchar of Nogrod",
+   "Owners": "Azaghâl, Maedhros, Fingon, Hador, Galdor, Húrin, Túrin"
+  },
+  "places": [
+   {
+    "id": "b:RG02",
+    "role": "kept",
+    "note": "The House of Hador keeps the helm in Dor-lómin."
+   },
+   {
+    "id": "b:RG07",
+    "role": "other",
+    "note": "Thingol gives Túrin the helm, and he wears it on the marches of Doriath."
+   },
+   {
+    "id": "b:NP016",
+    "role": "other",
+    "note": "Túrin wears the helm on Amon Rûdh in the Land of Bow and Helm."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:telchar",
+   "person:azaghal",
+   "person:maedhros",
+   "person:fingon",
+   "person:hador",
+   "person:hurin",
+   "person:turin",
+   "person:thingol"
+  ],
+  "sources": [
+   "The Silmarillion",
+   "Unfinished Tales, Narn i Hîn Húrin"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:belthronding",
+  "title": "Belthronding",
+  "group": "Weapons and armour",
+  "kind": "Great bow of Beleg Cúthalion",
+  "aka": [],
+  "blurb": "Belthronding was the great bow of Beleg Cúthalion, the best archer of Doriath, and it was buried with him.",
+  "book": "Belthronding was the great bow of Beleg Cúthalion, chief marchwarden of Doriath. It was made of black yew. Beleg was famed as the finest archer among the Elves of Beleriand.\n\nBeleg bore it through his long search for Túrin, his friend. He helped Túrin in the wilds, and he fought the orcs of Morgoth in the wild lands.\n\nWhen Túrin killed Beleg by mistake in Taur-nu-Fuin, he buried his friend there. He laid Beleg's bow beside him in the grave.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Bow",
+   "Material": "Black yew",
+   "Owners": "Beleg"
+  },
+  "places": [
+   {
+    "id": "b:RG07",
+    "role": "kept",
+    "note": "Beleg guards the northern marches of Doriath with his bow."
+   },
+   {
+    "id": "b:FO08",
+    "role": "buried",
+    "note": "Túrin buries Beleg and his bow in this forest."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:beleg",
+   "person:turin",
+   "person:thingol",
+   "thing:gurthang"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:iron-crown",
+  "title": "Iron Crown",
+  "group": "Other",
+  "kind": "Crown of Morgoth",
+  "aka": [
+   "Crown of Morgoth",
+   "Iron Crown of Morgoth"
+  ],
+  "blurb": "The Iron Crown was Morgoth's crown, forged of iron, in which he set the three Silmarils.",
+  "book": "Morgoth forged the Iron Crown as the sign of his rule after he stole the Silmarils. He set the three jewels in it and wore it, though their touch burned his hands. He was never again free of the pain.\n\nHe kept the crown in his fortress Angband, beneath the peaks of Thangorodrim. He wore it at his throne, and it grew heavy.\n\nBeren and Lúthien came into his hall in disguise. Lúthien put him to sleep, and Beren cut a Silmaril from the Crown with Angrist. After the War of Wrath, the Valar overthrew Morgoth and recovered the two remaining Silmarils. The Iron Crown was beaten into a collar for his neck.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Crown",
+   "Made by": "Morgoth",
+   "Material": "Iron",
+   "Fate": "Beaten into a collar for Morgoth"
+  },
+  "places": [
+   {
+    "id": "b:FT01",
+    "role": "made",
+    "note": "Morgoth forges the Crown and sets the Silmarils in it here."
+   },
+   {
+    "id": "b:MT02",
+    "role": "kept",
+    "note": "Angband lies beneath the peaks of Thangorodrim where the Crown is kept."
+   },
+   {
+    "id": "b:battle:war-of-wrath",
+    "role": "destroyed",
+    "note": "The Valar overthrow Morgoth; his crown is remade into a collar."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:morgoth",
+   "thing:silmarils",
+   "person:beren",
+   "person:luthien",
+   "thing:angrist"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:vingilot",
+  "title": "Vingilot",
+  "group": "Ships",
+  "kind": "Ship of Eärendil",
+  "aka": [
+   "Foam-flower"
+  ],
+  "blurb": "Vingilot was the ship in which Eärendil sailed to Valinor, and which later bore him and a Silmaril across the sky.",
+  "book": "Vingilot, whose name means foam-flower, was built by Eärendil with the help of Círdan the Shipwright. Its timbers were white, its oars golden and its sails silver. Its timber came from the birch forest of Nimbrethil.\n\nEärendil sailed in Vingilot from the Havens of Sirion in search of Valinor. He sought the aid of the Valar for the war against Morgoth. He carried one Silmaril, given to him by Elwing.\n\nThe Valar heard his plea and sent the host that fought the War of Wrath. Vingilot was lifted into the heavens, and Eärendil sails it above the world as a bright star, bearing the Silmaril.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Ship",
+   "Made by": "Eärendil and Círdan",
+   "Material": "White birch of Nimbrethil",
+   "Owners": "Eärendil"
+  },
+  "places": [
+   {
+    "id": "b:FO07",
+    "role": "made",
+    "note": "The birch wood of Nimbrethil is used for the ship's timber."
+   },
+   {
+    "id": "b:RG22",
+    "role": "made",
+    "note": "Eärendil builds Vingilot on the coast of Arvernien near the mouths of Sirion."
+   },
+   {
+    "id": "b:TO07",
+    "role": "other",
+    "note": "Eärendil sails from the Havens of Sirion in search of Valinor."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Valinor",
+    "role": "other",
+    "note": "Eärendil reaches the shores of Valinor in Vingilot."
+   }
+  ],
+  "related": [
+   "person:earendil",
+   "person:elwing",
+   "person:cirdan",
+   "thing:silmarils",
+   "person:ulmo",
+   "person:manwe"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:swan-ships",
+  "title": "Swan-ships of Alqualondë",
+  "group": "Ships",
+  "kind": "White ships of the Teleri",
+  "aka": [
+   "Ships of the Teleri",
+   "Swan-haven ships"
+  ],
+  "blurb": "The swan-ships were the white vessels of the Teleri, which Fëanor and his host seized by force in the Kinslaying.",
+  "book": "The swan-ships were great white ships built by the Teleri, with prows shaped like swans. The Teleri kept them at Alqualondë, the Swan-haven, on the coast of Valinor.\n\nWhen Fëanor and his people left Valinor for Middle-earth, the Teleri refused to give them ships. The Noldor attacked the city and seized the vessels. This was the First Kinslaying, and the Teleri were slain in numbers.\n\nFëanor sailed over the Sea with part of his host and landed at Losgar in Beleriand. There Fëanor burned the ships. Fingolfin's people, who had been left behind, had to cross the Helcaraxë on foot.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Ships",
+   "Made by": "The Teleri",
+   "Fate": "Burned at Losgar"
+  },
+  "places": [
+   {
+    "id": "b:HA01",
+    "role": "destroyed",
+    "note": "Fëanor burns the ships here after landing."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Alqualondë",
+    "role": "kept",
+    "note": "The Teleri keep the ships in their swan-haven on the Valinor coast."
+   }
+  ],
+  "related": [
+   "person:feanor",
+   "person:maedhros",
+   "person:fingolfin",
+   "person:osse",
+   "person:finarfin",
+   "thing:silmarils"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "thing:two-trees",
+  "title": "Two Trees of Valinor",
+  "group": "Trees, plants and substances",
+  "kind": "Silver and golden trees of light",
+  "aka": [
+   "Telperion and Laurelin",
+   "Silpion and Malinalda"
+  ],
+  "blurb": "Telperion the silver tree and Laurelin the golden tree gave light to Valinor until Ungoliant and Morgoth killed them.",
+  "book": "Yavanna sang the Two Trees into being in Valinor, and Nienna's tears watered them. Telperion bore silver light, and Laurelin bore golden light. Each lit Valinor for part of a day, and a mingling of their light came between.\n\nMorgoth and Ungoliant destroyed the Trees. Ungoliant drank their light, and Morgoth struck each with a spear. Darkness fell over Valinor, and Yavanna could not heal them.\n\nThe last flower of Telperion and the last fruit of Laurelin were saved. The Valar made the Moon and the Sun from them. Fëanor's Silmarils kept the light of the Trees, and the White Tree of Gondor descends from Telperion through Galathilion, Celeborn of Tol Eressëa and Nimloth.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Trees of light",
+   "Made by": "Yavanna",
+   "Made in": "Valinor",
+   "Fate": "Slain by Ungoliant and Morgoth"
+  },
+  "places": [],
+  "offmap": [
+   {
+    "name": "Valinor",
+    "role": "made",
+    "note": "The Trees stood on the green mound Ezellohar outside the city of Valmar."
+   },
+   {
+    "name": "Valinor",
+    "role": "destroyed",
+    "note": "Morgoth and Ungoliant destroy the Trees here."
+   }
+  ],
+  "related": [
+   "person:yavanna",
+   "person:ungoliant",
+   "person:morgoth",
+   "person:feanor",
+   "thing:silmarils",
+   "thing:nimloth",
+   "thing:white-tree"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:nimloth",
+  "title": "Nimloth",
+  "group": "Trees, plants and substances",
+  "kind": "White Tree of Númenor",
+  "aka": [
+   "White Tree of Númenor"
+  ],
+  "blurb": "Nimloth was the White Tree of Númenor, descended from Telperion, and Isildur saved its fruit before Sauron had it burned.",
+  "book": "Nimloth was the White Tree of Númenor, a seedling of the line of Telperion. It grew in the royal courtyard at Armenelos, and the kings of Númenor held it sacred. Its blossoms were silver and fragrant at night.\n\nThe tree was a symbol of the Númenórean kings. When Ar-Pharazôn grew proud, Sauron persuaded him to cut Nimloth down. Amandil warned of this. His grandson Isildur went in disguise by night and took a fruit from the tree. He was gravely wounded as he escaped.\n\nNimloth was felled and burned in Sauron's temple. The fruit was planted, and Isildur carried the young tree from Númenor at the Downfall. He later planted it at Minas Ithil, from which the White Tree of Gondor descends.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "White tree",
+   "Fate": "Felled at Ar-Pharazôn's command and burned in Sauron's temple"
+  },
+  "places": [
+   {
+    "id": "TO064",
+    "role": "other",
+    "note": "Isildur plants a seedling of Nimloth at Minas Ithil, later called Minas Morgul."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Númenor",
+    "role": "lost",
+    "note": "Nimloth grows in the royal court at Armenelos and is felled by Ar-Pharazôn."
+   }
+  ],
+  "related": [
+   "person:isildur",
+   "person:ar-pharazon",
+   "person:sauron",
+   "person:amandil",
+   "thing:white-tree",
+   "thing:two-trees"
+  ],
+  "sources": [
+   "The Silmarillion (Akallabêth)",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:lamps-of-the-valar",
+  "title": "Lamps of the Valar",
+  "group": "Other",
+  "kind": "First great lights of Arda",
+  "aka": [
+   "Illuin and Ormal",
+   "Two Lamps"
+  ],
+  "blurb": "Illuin and Ormal were the two great lamps made by the Valar in the early days of Arda. Melkor overthrew them.",
+  "book": "After the Valar shaped Arda, Aulë made two great lamps to give it light. Illuin stood on a tall pillar in the north, and Ormal on another in the south. The Valar made their home at Almaren on a great island in the middle.\n\nThis was the Spring of Arda, a time of growth. Melkor grew jealous and secretly built a hold at Utumno in the far north. He then threw down the pillars and the Lamps. Their fall wrecked the shape of the world and broke the lights.\n\nAlmaren was destroyed, and the Valar left Middle-earth for Valinor. There they made the Two Trees to give light.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Great lamps",
+   "Made by": "Aulë",
+   "Fate": "Thrown down by Melkor"
+  },
+  "places": [],
+  "offmap": [
+   {
+    "name": "Almaren",
+    "role": "other",
+    "note": "The Valar dwell here on an island in a great lake between the Lamps."
+   },
+   {
+    "name": "The far north and far south",
+    "role": "destroyed",
+    "note": "The pillars of the Lamps stood at the poles until Melkor threw them down."
+   }
+  ],
+  "related": [
+   "person:aule",
+   "person:morgoth",
+   "person:varda",
+   "person:manwe",
+   "thing:two-trees"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ }
+]

@@ -1,0 +1,1546 @@
+[
+ {
+  "id": "person:finwe",
+  "title": "Finwë",
+  "group": "Elves",
+  "kind": "First King of the Noldor",
+  "aka": [
+   "Finwë Noldóran"
+  ],
+  "blurb": "Finwë led the Noldor to Valinor and ruled them as their first king until Morgoth killed him at Formenos.",
+  "book": "Finwë was the leader of the Noldor on the great march from Cuiviénen to Aman. He became their king in Tirion upon Túna. He had two marriages.\n\nHis first wife was Míriel, who bore him Fëanor and then withdrew from life. His second wife was Indis of the Vanyar, who bore him Fingolfin and Finarfin.\n\nWhen Melkor spread lies among the Noldor, Fëanor was banished from Tirion. Finwë chose to go with his eldest son into exile at Formenos in the north of Valinor.\n\nMorgoth came to Formenos while Fëanor was away, killed Finwë at the doors of his house, and took the Silmarils.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Elf (Noldor)",
+   "Title": "King of the Noldor",
+   "Spouse": "Míriel Serindë; Indis",
+   "Children": "Fëanor, Fingolfin, Finarfin",
+   "Died": "At Formenos, at the Darkening of Valinor"
+  },
+  "places": [],
+  "offmap": [
+   {
+    "name": "Formenos",
+    "role": "died",
+    "note": "Slain by Morgoth at his house in the northern fortress."
+   },
+   {
+    "name": "Tirion",
+    "role": "ruled",
+    "note": "Reigns as king of the Noldor in the city on Túna."
+   }
+  ],
+  "related": [
+   "person:feanor",
+   "person:fingolfin",
+   "person:finarfin",
+   "person:morgoth",
+   "thing:silmarils"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:feanor",
+  "title": "Fëanor",
+  "group": "Elves",
+  "kind": "Greatest of the Noldor, maker of the Silmarils",
+  "aka": [
+   "Curufinwë",
+   "Fëanáro"
+  ],
+  "blurb": "Fëanor made the Silmarils, swore the Oath that drew the Noldor back to Middle-earth, and died after the Dagor-nuin-Giliath.",
+  "book": "Fëanor was the eldest son of Finwë and Míriel, and the most gifted craftsman among the Elves. He made the three Silmarils and filled them with the light of the Two Trees.\n\nHe was exiled for drawing his sword on Fingolfin. After Morgoth slew Finwë and stole the Silmarils, Fëanor swore with his seven sons to pursue whoever held them. He led most of the Noldor out of Valinor.\n\nAt Alqualondë his host slew many Teleri in the First Kinslaying. At Losgar he burned the ships and left Fingolfin's followers behind.\n\nIn Mithrim he fought the Dagor-nuin-Giliath and drove the Orcs away. He then pursued them toward Angband with a small force. Balrogs surrounded him on the plain of Dor Daedeloth, and Gothmog dealt him his death wound.\n\nHis sons bore him back toward Mithrim. In the passes of the Ered Wethrin he bade them hold to the Oath and died. His body burned to ash, and no spirit remained to be seen.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Elf (Noldor)",
+   "Died": "In the Ered Wethrin, after the Dagor-nuin-Giliath",
+   "Parents": "Finwë and Míriel Serindë",
+   "Spouse": "Nerdanel",
+   "Children": "Maedhros, Maglor, Celegorm, Caranthir, Curufin, Amrod, Amras"
+  },
+  "places": [
+   {
+    "id": "b:HA01",
+    "role": "other",
+    "note": "Burns the ships of the Teleri there and leaves Fingolfin's people behind."
+   },
+   {
+    "id": "b:LA01",
+    "role": "fought",
+    "note": "Camps by Lake Mithrim and wins the Dagor-nuin-Giliath."
+   },
+   {
+    "id": "b:battle:dagor-nuin-giliath",
+    "role": "fought",
+    "note": "Leads the Noldor to victory over the Orcs of Morgoth."
+   },
+   {
+    "id": "b:RG21",
+    "role": "fought",
+    "note": "Pursues the fleeing Orcs onto this plain, where Balrogs wound him mortally."
+   },
+   {
+    "id": "b:MT04",
+    "role": "died",
+    "note": "Dies in the mountain passes as his sons carry him back toward Mithrim."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Formenos",
+    "role": "lived",
+    "note": "Lives in exile in the north of Valinor with his father."
+   },
+   {
+    "name": "Alqualondë",
+    "role": "other",
+    "note": "His host takes the swan ships in the First Kinslaying."
+   }
+  ],
+  "related": [
+   "person:finwe",
+   "person:fingolfin",
+   "person:maedhros",
+   "person:maglor",
+   "person:gothmog-lord-of-balrogs",
+   "person:morgoth",
+   "thing:silmarils"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:fingolfin",
+  "title": "Fingolfin",
+  "group": "Elves",
+  "kind": "High King of the Noldor",
+  "aka": [
+   "Nolofinwë",
+   "High King of the Noldor"
+  ],
+  "blurb": "Fingolfin led the second host of the Noldor into Beleriand and died challenging Morgoth to single combat at Angband.",
+  "book": "Fingolfin was the elder son of Finwë and Indis. His children were Fingon, Turgon and Aredhel.\n\nAfter the Doom of Mandos he followed Fëanor into exile. He found the ships burned at Losgar, so he led his people across the Helcaraxë. His host reached Mithrim as the Sun first rose.\n\nHe became High King of the Noldor and held Hithlum and the fortress of Barad Eithel. He and Maedhros won the Dagor Aglareb, after which the Siege of Angband lasted for long years.\n\nIn the Dagor Bragollach the siege was broken. Fingolfin believed all was lost and rode alone to Angband.\n\nHe challenged Morgoth to single combat and wounded him seven times. At last Morgoth struck him down with his great hammer Grond. Thorondor carried the body to a mountain peak, where Turgon raised a cairn.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Elf (Noldor)",
+   "Died": "F.A. 455, at Angband",
+   "Parents": "Finwë and Indis",
+   "Children": "Fingon, Turgon, Aredhel",
+   "Title": "High King of the Noldor",
+   "Weapon or steed": "Ringil"
+  },
+  "places": [
+   {
+    "id": "b:LA01",
+    "role": "travelled",
+    "note": "His host reaches Mithrim when the Sun first rises."
+   },
+   {
+    "id": "b:RG01",
+    "role": "ruled",
+    "note": "Rules the Noldor in Hithlum as High King."
+   },
+   {
+    "id": "b:FT02",
+    "role": "kept",
+    "note": "Holds the fortress on Eithel Sirion against Angband."
+   },
+   {
+    "id": "b:battle:dagor-aglareb",
+    "role": "fought",
+    "note": "Helps Maedhros win the Glorious Battle against Morgoth's Orcs."
+   },
+   {
+    "id": "b:battle:dagor-bragollach",
+    "role": "fought",
+    "note": "Sees the siege broken and the Noldor driven back."
+   },
+   {
+    "id": "b:battle:duel-fingolfin-morgoth",
+    "role": "fought",
+    "note": "Challenges Morgoth at the gate of Angband and wounds him seven times."
+   },
+   {
+    "id": "b:FT01",
+    "role": "died",
+    "note": "Killed before the gates of Angband."
+   },
+   {
+    "id": "b:NP006",
+    "role": "buried",
+    "note": "Thorondor lays the body on a peak, and Turgon raises a cairn."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Helcaraxë",
+    "role": "travelled",
+    "note": "Leads his people across the grinding ice to reach Middle-earth."
+   }
+  ],
+  "related": [
+   "person:fingon",
+   "person:turgon",
+   "person:aredhel",
+   "person:feanor",
+   "person:morgoth",
+   "person:thorondor",
+   "thing:ringil"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:finarfin",
+  "title": "Finarfin",
+  "group": "Elves",
+  "kind": "Third son of Finwë, lord of the Noldor in Aman",
+  "aka": [
+   "Arafinwë"
+  ],
+  "blurb": "Finarfin turned back after the Doom of Mandos, ruled the Noldor who stayed in Aman, and later led them against Morgoth.",
+  "book": "Finarfin was the youngest son of Finwë and Indis. His wife was Eärwen, daughter of Olwë of the Teleri, and their children were Finrod, Orodreth, Angrod, Aegnor and Galadriel.\n\nHe went with the Noldor on the road out of Valinor. After he heard the Doom of Mandos and learned of the Kinslaying, he turned back with many of his people. The Valar pardoned him.\n\nHe was made king of the Noldor who remained in Aman. All his children went on into Middle-earth.\n\nIn the War of Wrath he led the Noldor of Aman with the host of the Valar against Morgoth.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Elf (Noldor)",
+   "Parents": "Finwë and Indis",
+   "Spouse": "Eärwen",
+   "Children": "Finrod, Orodreth, Angrod, Aegnor, Galadriel",
+   "Title": "King of the Noldor in Aman"
+  },
+  "places": [
+   {
+    "id": "b:battle:war-of-wrath",
+    "role": "fought",
+    "note": "Leads the Noldor of Valinor in the host that overthrows Morgoth."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Valinor",
+    "role": "ruled",
+    "note": "Rules the Noldor who remained in the West after the Doom of Mandos."
+   }
+  ],
+  "related": [
+   "person:finwe",
+   "person:finrod-felagund",
+   "person:orodreth",
+   "person:galadriel",
+   "person:morgoth"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:maedhros",
+  "title": "Maedhros",
+  "group": "Elves",
+  "kind": "Eldest son of Fëanor, lord of Himring",
+  "aka": [
+   "Maitimo",
+   "Nelyafinwë",
+   "the Tall"
+  ],
+  "blurb": "Maedhros was hung from Thangorodrim, rescued by Fingon, and held Himring until the Oath drove him to seize a Silmaril and die.",
+  "book": "Maedhros was the eldest son of Fëanor. Morgoth captured him by treachery and hung him by his right wrist from a cliff of Thangorodrim. Fingon found him with the help of Thorondor, and the Eagle bore Fingon up. Fingon cut off the hand, and Maedhros was saved.\n\nMaedhros gave up his claim to be High King in favour of Fingolfin. He held the northern march from the hill-fortress of Himring, and his brothers held lands to the south and east. He took part in the Dagor Aglareb.\n\nAfter the Dagor Bragollach he gathered the Union of Maedhros against Morgoth. In the Nírnaeth Arnoediad the host of the Union broke, partly through Easterling treachery. Maedhros escaped.\n\nAfter the War of Wrath he and Maglor stole the two Silmarils that remained. The jewels burned their hands. Maedhros cast himself with his Silmaril into a fiery chasm.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Elf (Noldor)",
+   "Parents": "Fëanor and Nerdanel",
+   "Realm or home": "Himring, March of Maedhros"
+  },
+  "places": [
+   {
+    "id": "b:MT02",
+    "role": "other",
+    "note": "Hung by his wrist from a cliff of Thangorodrim until Fingon rescues him."
+   },
+   {
+    "id": "b:FT04",
+    "role": "ruled",
+    "note": "Holds the hill-fortress of Himring against Morgoth."
+   },
+   {
+    "id": "b:RG13",
+    "role": "ruled",
+    "note": "Guards the March of Maedhros with his people."
+   },
+   {
+    "id": "b:battle:dagor-aglareb",
+    "role": "fought",
+    "note": "Joins Fingolfin in the victory over Morgoth's Orcs."
+   },
+   {
+    "id": "b:battle:nirnaeth-arnoediad",
+    "role": "fought",
+    "note": "Leads the eastern host of the Union and survives the defeat."
+   },
+   {
+    "id": "b:battle:third-kinslaying",
+    "role": "fought",
+    "note": "Joins in the attack on the Havens of Sirion for the Silmaril."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Valinor",
+    "role": "born",
+    "note": "Born in Aman to Fëanor."
+   }
+  ],
+  "related": [
+   "person:feanor",
+   "person:maglor",
+   "person:fingon",
+   "person:thorondor",
+   "person:ulfang",
+   "thing:silmarils"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:maglor",
+  "title": "Maglor",
+  "group": "Elves",
+  "kind": "Second son of Fëanor, great singer",
+  "aka": [
+   "Makalaurë",
+   "Kanafinwë"
+  ],
+  "blurb": "Maglor was a mighty singer and warrior among the sons of Fëanor. He threw his Silmaril into the sea and wandered the shores.",
+  "book": "Maglor was the second son of Fëanor. He was a great singer and a maker of songs, and he fought with skill as well.\n\nDuring the Siege of Angband he guarded the open land east of Himring, called Maglor's Gap. In the Dagor Bragollach Glaurung and the Orcs broke through it, and Maglor fled to Himring. He fought in the Nírnaeth Arnoediad and slew Uldor the Accursed there.\n\nWhen the sons of Fëanor attacked the Havens of Sirion, he took part with Maedhros. Afterward he took in the sons of Eärendil, Elrond and Elros, and he came to love them.\n\nAfter the War of Wrath he and Maedhros took the last two Silmarils. Maedhros died in the fire. Maglor threw his Silmaril into the Sea and wandered the shores of the world, singing of his sorrow.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Elf (Noldor)",
+   "Parents": "Fëanor and Nerdanel",
+   "Realm or home": "Maglor's Gap, East Beleriand"
+  },
+  "places": [
+   {
+    "id": "b:VA06",
+    "role": "kept",
+    "note": "Guards the gap east of Himring until Glaurung breaks through it in the Dagor Bragollach."
+   },
+   {
+    "id": "b:battle:nirnaeth-arnoediad",
+    "role": "fought",
+    "note": "Slays Uldor the Accursed in the battle."
+   },
+   {
+    "id": "b:battle:third-kinslaying",
+    "role": "fought",
+    "note": "Takes part in the attack on the Havens of Sirion."
+   },
+   {
+    "id": "b:TO07",
+    "role": "other",
+    "note": "Takes the sons of Eärendil into his care after the attack."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Shores of the Western Sea",
+    "role": "other",
+    "note": "Throws his Silmaril into the Sea and wanders along the coast."
+   }
+  ],
+  "related": [
+   "person:feanor",
+   "person:maedhros",
+   "person:uldor",
+   "person:elrond",
+   "thing:silmarils"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:celegorm",
+  "title": "Celegorm",
+  "group": "Elves",
+  "kind": "Son of Fëanor, hunter and master of Huan",
+  "aka": [
+   "Tyelkormo",
+   "Turcafinwë",
+   "the Fair"
+  ],
+  "blurb": "Celegorm was a huntsman among Fëanor's sons. He imprisoned Lúthien at Nargothrond and died in the attack on Doriath.",
+  "book": "Celegorm was the third son of Fëanor. He loved hunting and had the great hound Huan, who was given to him by Oromë in Valinor.\n\nAfter the Dagor Bragollach, Celegorm and his brother Curufin lost their lands in Himlad. They went to Nargothrond and were welcomed by Finrod. They later worked to turn Nargothrond against Finrod.\n\nWhen Lúthien fled Doriath, Celegorm and Huan found her in the woods. Celegorm brought her to Nargothrond and held her prisoner, hoping to marry her and gain the power of Thingol. Huan helped her to escape.\n\nWhen Dior wore the Silmaril in Doriath, Celegorm and his brothers sought it. In the Second Kinslaying he came to Menegroth and was slain there by Dior.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Elf (Noldor)",
+   "Parents": "Fëanor and Nerdanel",
+   "Realm or home": "Himlad, then Nargothrond"
+  },
+  "places": [
+   {
+    "id": "b:RG12",
+    "role": "lived",
+    "note": "Holds Himlad with Curufin until the Dagor Bragollach."
+   },
+   {
+    "id": "b:TO02",
+    "role": "lived",
+    "note": "Stays as a guest of Finrod and later holds Lúthien prisoner."
+   },
+   {
+    "id": "b:battle:second-kinslaying",
+    "role": "fought",
+    "note": "Takes part in the attack on Doriath for the Silmaril."
+   },
+   {
+    "id": "b:TO01",
+    "role": "died",
+    "note": "Slain in Menegroth by Dior."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:feanor",
+   "person:curufin",
+   "person:huan",
+   "person:luthien",
+   "person:finrod-felagund",
+   "person:dior",
+   "person:beren"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:curufin",
+  "title": "Curufin",
+  "group": "Elves",
+  "kind": "Son of Fëanor, craftsman, father of Celebrimbor",
+  "aka": [
+   "Curufin the Crafty"
+  ],
+  "blurb": "Curufin inherited much of Fëanor's craft. He lived with Celegorm in Himlad and Nargothrond and fell in the attack on Doriath.",
+  "book": "Curufin was the fifth son of Fëanor and the one most like his father in craft and cunning. His son was Celebrimbor.\n\nAfter the Dagor Bragollach he fled with Celegorm to Nargothrond. Finrod welcomed them, but they envied his power.\n\nWhen Finrod left with Beren, Curufin and Celegorm sought to rule in his place. They took Lúthien captive when she arrived. She escaped with the help of Huan.\n\nCurufin and Celegorm later attacked Beren and Lúthien in the wild. Beren overcame Curufin and took his horse and his knife Angrist.\n\nCurufin later fell in the Second Kinslaying, in the attack on Doriath for the Silmaril.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Elf (Noldor)",
+   "Parents": "Fëanor and Nerdanel",
+   "Children": "Celebrimbor"
+  },
+  "places": [
+   {
+    "id": "b:RG12",
+    "role": "lived",
+    "note": "Holds Himlad with Celegorm until the Dagor Bragollach."
+   },
+   {
+    "id": "b:TO02",
+    "role": "lived",
+    "note": "Lives in Nargothrond and helps hold Lúthien prisoner."
+   },
+   {
+    "id": "b:battle:second-kinslaying",
+    "role": "fought",
+    "note": "Takes part in the attack on Doriath and falls there."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:feanor",
+   "person:celegorm",
+   "person:celebrimbor",
+   "person:luthien",
+   "person:beren",
+   "thing:angrist"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:caranthir",
+  "title": "Caranthir",
+  "group": "Elves",
+  "kind": "Fourth son of Fëanor, lord of Thargelion",
+  "aka": [
+   "Carnistir",
+   "Morifinwë",
+   "the Dark"
+  ],
+  "blurb": "Caranthir was the harsh-tempered fourth son of Fëanor. He ruled Thargelion near Lake Helevorn and fell in the attack on Doriath.",
+  "book": "Caranthir was the fourth son of Fëanor. He was dark of hair and quick to anger.\n\nHe held the land of Thargelion in East Beleriand and lived near Lake Helevorn, under Mount Rerir.\n\nThe Dwarves of the Blue Mountains came through his land to trade, and he dealt with them. His speech was often harsh.\n\nAfter the Dagor Bragollach his people were driven from Thargelion. He and his brothers later joined the attack on Doriath for the Silmaril.\n\nCaranthir was slain in the Second Kinslaying, in the halls of Menegroth.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Elf (Noldor)",
+   "Parents": "Fëanor and Nerdanel",
+   "Realm or home": "Thargelion, by Lake Helevorn"
+  },
+  "places": [
+   {
+    "id": "b:RG15",
+    "role": "ruled",
+    "note": "Rules Thargelion in the east of Beleriand."
+   },
+   {
+    "id": "b:LA02",
+    "role": "lived",
+    "note": "Lives near the lake under Mount Rerir."
+   },
+   {
+    "id": "b:battle:second-kinslaying",
+    "role": "fought",
+    "note": "Takes part in the attack on Doriath."
+   },
+   {
+    "id": "b:TO01",
+    "role": "died",
+    "note": "Slain in Menegroth."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:feanor",
+   "person:celegorm",
+   "person:curufin",
+   "person:maedhros",
+   "thing:silmarils"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:fingon",
+  "title": "Fingon",
+  "group": "Elves",
+  "kind": "High King of the Noldor, rescuer of Maedhros",
+  "aka": [
+   "Findekáno",
+   "the Valiant"
+  ],
+  "blurb": "Fingon rescued Maedhros from Thangorodrim, became High King after Fingolfin, and was slain by Gothmog in the Nírnaeth Arnoediad.",
+  "book": "Fingon was the eldest son of Fingolfin. He was brave and loyal, and he had been a close friend of Maedhros in Valinor.\n\nAfter the Noldor reached Middle-earth, he sought Maedhros in Thangorodrim. Thorondor bore him up to the cliff. Fingon could not break the band of steel, so he cut off his friend's hand at the wrist. This ended the quarrel between the two houses.\n\nHe lived in Hithlum and was the lord of Dor-lómin. After Fingolfin died in F.A. 455, Fingon became High King of the Noldor.\n\nHe led the western host in the Nírnaeth Arnoediad. He fought on as the host of Maedhros was delayed and then betrayed. Gothmog, Lord of Balrogs, and Orcs surrounded him. Gothmog killed him with a stroke of an axe.\n\nGil-galad was his son.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Elf (Noldor)",
+   "Died": "F.A. 472, in the Nírnaeth Arnoediad",
+   "Parents": "Fingolfin and Anairë",
+   "Children": "Gil-galad",
+   "Title": "High King of the Noldor"
+  },
+  "places": [
+   {
+    "id": "b:MT02",
+    "role": "other",
+    "note": "Rises to Maedhros on the Eagle's back and frees him from Thangorodrim."
+   },
+   {
+    "id": "b:RG01",
+    "role": "ruled",
+    "note": "Rules the Noldor of Hithlum and Dor-lómin as High King."
+   },
+   {
+    "id": "b:FT02",
+    "role": "lived",
+    "note": "Holds the fortress of the High King in Hithlum."
+   },
+   {
+    "id": "b:battle:dagor-bragollach",
+    "role": "fought",
+    "note": "Fights in the battle in which the siege is broken."
+   },
+   {
+    "id": "b:battle:nirnaeth-arnoediad",
+    "role": "died",
+    "note": "Killed by Gothmog while he commands the host of Hithlum."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:fingolfin",
+   "person:maedhros",
+   "person:thorondor",
+   "person:gothmog-lord-of-balrogs",
+   "person:turgon",
+   "person:gil-galad"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:turgon",
+  "title": "Turgon",
+  "group": "Elves",
+  "kind": "King of Gondolin",
+  "aka": [
+   "Turukáno",
+   "King of Gondolin"
+  ],
+  "blurb": "Turgon founded the hidden city of Gondolin and ruled it until Morgoth destroyed it in F.A. 510.",
+  "book": "Turgon was the second son of Fingolfin. His wife Elenwë died on the Helcaraxë. He had one daughter, Idril.\n\nHe first lived at Vinyamar in Nevrast. Ulmo's counsel drew him to seek a hidden place. He found the valley of Tumladen and built Gondolin there.\n\nAfter many years of work he led his people there. The mountains of the Echoriath hid the city, and its passes were closed.\n\nHe came to the Nírnaeth Arnoediad with a host and then withdrew into Gondolin. After that he sealed the city entirely. He heard Ulmo's messenger Tuor, but refused his counsel.\n\nIn F.A. 510 Maeglin's treachery led Morgoth to the city. Turgon died when the Tower of the King fell.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Elf (Noldor)",
+   "Died": "F.A. 510, in the Fall of Gondolin",
+   "Parents": "Fingolfin and Anairë",
+   "Spouse": "Elenwë",
+   "Children": "Idril",
+   "Title": "King of Gondolin"
+  },
+  "places": [
+   {
+    "id": "b:TO04",
+    "role": "lived",
+    "note": "Builds the house of Vinyamar in Nevrast by the sea."
+   },
+   {
+    "id": "b:TO03",
+    "role": "ruled",
+    "note": "Founds and rules the hidden city of Gondolin."
+   },
+   {
+    "id": "b:battle:nirnaeth-arnoediad",
+    "role": "fought",
+    "note": "Brings the Gondolin host to the great battle and retreats."
+   },
+   {
+    "id": "b:battle:fall-of-gondolin",
+    "role": "died",
+    "note": "Dies when the Tower of the King falls."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:fingolfin",
+   "person:fingon",
+   "person:idril",
+   "person:tuor",
+   "person:maeglin",
+   "person:voronwe"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:finrod-felagund",
+  "title": "Finrod Felagund",
+  "group": "Elves",
+  "kind": "King of Nargothrond, friend of Men",
+  "aka": [
+   "Findaráto",
+   "Friend of Men"
+  ],
+  "blurb": "Finrod founded Nargothrond and gave his life to save Beren in the dungeons of Sauron.",
+  "book": "Finrod was the eldest son of Finarfin and the brother of Galadriel. He was the first of the Noldor to meet Men, and he loved them. He became their friend.\n\nHe visited Menegroth. Thingol's halls inspired him to found Nargothrond on the river Narog. His people called him Felagund, meaning cave-hewer.\n\nHe built a tower on Tol Sirion to watch Angband. In the Dagor Bragollach Barahir saved his life. Finrod swore an oath of aid to him and gave him a ring.\n\nWhen Beren came to Nargothrond with the ring, Finrod kept the oath. He went with Beren on the quest for the Silmaril, with a few companions.\n\nSauron captured them and killed the companions one by one. Finrod broke free from his bonds and died saving Beren from a wolf.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Elf (Noldor)",
+   "Parents": "Finarfin and Eärwen",
+   "Title": "King of Nargothrond",
+   "Realm or home": "Nargothrond"
+  },
+  "places": [
+   {
+    "id": "b:RG16",
+    "role": "travelled",
+    "note": "Finds Bëor and his Men in the foothills and becomes their friend."
+   },
+   {
+    "id": "b:TO01",
+    "role": "travelled",
+    "note": "Visits Thingol and learns of the halls of Menegroth."
+   },
+   {
+    "id": "b:TO02",
+    "role": "ruled",
+    "note": "Founds Nargothrond and rules it as king."
+   },
+   {
+    "id": "b:FT03",
+    "role": "made",
+    "note": "Builds the tower on the island to watch Angband."
+   },
+   {
+    "id": "b:battle:dagor-bragollach",
+    "role": "fought",
+    "note": "Is saved from death by Barahir in the battle."
+   },
+   {
+    "id": "b:FT03",
+    "role": "died",
+    "note": "Dies in Sauron's dungeon on the island, later called Tol-in-Gaurhoth."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:finarfin",
+   "person:galadriel",
+   "person:orodreth",
+   "person:barahir",
+   "person:beren",
+   "person:sauron",
+   "thing:ring-of-barahir"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:orodreth",
+  "title": "Orodreth",
+  "group": "Elves",
+  "kind": "King of Nargothrond after Finrod",
+  "aka": [
+   "King of Nargothrond"
+  ],
+  "blurb": "Orodreth held the tower on Tol Sirion, ruled Nargothrond after Finrod, and was slain at the Battle of Tumhalad.",
+  "book": "Orodreth was a son of Finarfin and the brother of Finrod and Galadriel. Finrod set him to guard the tower on Tol Sirion.\n\nSauron took Tol Sirion after the Dagor Bragollach and the tower fell. After Finrod died, Orodreth became king of Nargothrond. His daughter was Finduilas.\n\nTúrin came to Nargothrond with Gwindor and became a great captain there. Orodreth heeded his counsel to fight openly and to build a bridge over the Narog. This ended the hiding of the realm.\n\nIn the Battle of Tumhalad Glaurung and the Orcs destroyed the army of Nargothrond. Orodreth was slain in the battle, and Nargothrond was sacked.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Elf (Noldor)",
+   "Parents": "Finarfin and Eärwen",
+   "Children": "Finduilas",
+   "Title": "King of Nargothrond",
+   "Died": "F.A. 495, at Tumhalad"
+  },
+  "places": [
+   {
+    "id": "b:FT03",
+    "role": "lived",
+    "note": "Guards the island fortress under Finrod's rule."
+   },
+   {
+    "id": "b:battle:fall-of-minas-tirith",
+    "role": "fought",
+    "note": "Holds the tower on the island when Sauron takes it, and escapes to Nargothrond."
+   },
+   {
+    "id": "b:TO02",
+    "role": "ruled",
+    "note": "Rules Nargothrond after Finrod's death."
+   },
+   {
+    "id": "b:battle:battle-of-tumhalad",
+    "role": "died",
+    "note": "Slain in the battle before the sack of Nargothrond."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:finrod-felagund",
+   "person:finarfin",
+   "person:finduilas",
+   "person:gwindor",
+   "person:turin",
+   "person:glaurung"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:aredhel",
+  "title": "Aredhel",
+  "group": "Elves",
+  "kind": "Noldorin princess, sister of Turgon",
+  "aka": [
+   "Ar-Feiniel",
+   "White Lady of the Noldor"
+  ],
+  "blurb": "Aredhel left Gondolin to ride in the wilds, was trapped by Eöl in Nan Elmoth, and bore him Maeglin.",
+  "book": "Aredhel was the daughter of Fingolfin and the sister of Fingon and Turgon. She loved to ride and hunt, and she was called the White Lady of the Noldor.\n\nShe lived in Gondolin but was restless in its walls. She asked Turgon's leave to ride out and he gave it unwillingly.\n\nShe rode east, and her escort lost her in the deadly valley of Nan Dungortheb. She passed on to Himlad, then wandered into Nan Elmoth, where the Dark Elf Eöl found her. He kept her there and took her as his wife.\n\nTheir son was Maeglin. Aredhel fled back to Gondolin with him. Eöl followed them and was brought before Turgon.\n\nEöl cast a poisoned javelin meant for Maeglin. Aredhel took the blow, and she died of it that night. Turgon then condemned Eöl.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Elf (Noldor)",
+   "Parents": "Fingolfin and Anairë",
+   "Spouse": "Eöl",
+   "Children": "Maeglin",
+   "Siblings": "Fingon, Turgon, Argon"
+  },
+  "places": [
+   {
+    "id": "b:TO03",
+    "role": "lived",
+    "note": "Leaves the hidden city to ride east, then returns with Maeglin."
+   },
+   {
+    "id": "b:RG10",
+    "role": "travelled",
+    "note": "Her escort loses her in the dreadful valley."
+   },
+   {
+    "id": "b:RG12",
+    "role": "travelled",
+    "note": "Passes through Himlad, the land of Celegorm and Curufin, before she is lost."
+   },
+   {
+    "id": "b:FO05",
+    "role": "lived",
+    "note": "Held in the dark wood by Eöl and bears Maeglin."
+   },
+   {
+    "id": "b:TO03",
+    "role": "died",
+    "note": "Dies of a poisoned javelin cast by Eöl."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:eol",
+   "person:maeglin",
+   "person:turgon",
+   "person:fingolfin",
+   "person:fingon"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:idril",
+  "title": "Idril",
+  "group": "Elves",
+  "kind": "Daughter of Turgon, mother of Eärendil",
+  "aka": [
+   "Celebrindal",
+   "Silverfoot"
+  ],
+  "blurb": "Idril was Turgon's daughter. She married Tuor, prepared a secret way out of Gondolin, and led the survivors to the Sirion.",
+  "book": "Idril was the daughter of Turgon and Elenwë. She was called Celebrindal, meaning Silverfoot.\n\nShe lived in Gondolin from its founding. Tuor came to the city as the messenger of Ulmo, and they married. Their son was Eärendil.\n\nIdril mistrusted Maeglin, who desired her. She foresaw the doom of the city. In secret she had a hidden way dug out of Gondolin.\n\nWhen Gondolin fell, Idril and Tuor saved Eärendil and led a remnant of the people out by the secret way. Maeglin was cast from the walls, and Ecthelion and many others died.\n\nThey came to the Havens of Sirion. When Tuor grew old, they sailed together into the West.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Elf (Noldor)",
+   "Parents": "Turgon and Elenwë",
+   "Spouse": "Tuor",
+   "Children": "Eärendil"
+  },
+  "places": [
+   {
+    "id": "b:TO03",
+    "role": "lived",
+    "note": "Lives in the hidden city, marries Tuor, and prepares a secret way."
+   },
+   {
+    "id": "b:battle:fall-of-gondolin",
+    "role": "fought",
+    "note": "Saves Eärendil and leads the fugitives out of the burning city."
+   },
+   {
+    "id": "b:VA07",
+    "role": "travelled",
+    "note": "Leads the fugitives over the high pass, where Glorfindel falls to a Balrog."
+   },
+   {
+    "id": "b:TO07",
+    "role": "lived",
+    "note": "Settles with the survivors by the mouth of the Sirion."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "The West",
+    "role": "other",
+    "note": "Sails into the West with Tuor in his old age."
+   }
+  ],
+  "related": [
+   "person:turgon",
+   "person:tuor",
+   "person:earendil",
+   "person:maeglin",
+   "person:ecthelion-of-the-fountain"
+  ],
+  "sources": [
+   "The Silmarillion",
+   "Unfinished Tales"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:maeglin",
+  "title": "Maeglin",
+  "group": "Elves",
+  "kind": "Lord of Gondolin who betrayed the city",
+  "aka": [
+   "Lómion",
+   "Sharp Glance"
+  ],
+  "blurb": "Maeglin, the nephew of Turgon, was a great smith of Gondolin. He loved Idril and betrayed the city to Morgoth.",
+  "book": "Maeglin was the son of Aredhel and Eöl. He was born in Nan Elmoth, and he was called Maeglin, meaning Sharp Glance.\n\nHe came to Gondolin with his mother. Turgon welcomed him as his sister's son. He became a great lord of the city and a skilled miner and smith.\n\nHe desired Idril, though she was his kin, and she distrusted him. He hated Tuor, who married her.\n\nWhile he was searching for ore outside the mountains, Orcs captured him. Out of fear he told Morgoth where Gondolin lay.\n\nWhen the city fell, he seized Eärendil. Tuor cast him from the walls, and Maeglin died on the rocks below.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Elf",
+   "Parents": "Eöl and Aredhel"
+  },
+  "places": [
+   {
+    "id": "b:FO05",
+    "role": "born",
+    "note": "Born in the dark wood and raised there by his father."
+   },
+   {
+    "id": "b:TO03",
+    "role": "lived",
+    "note": "Rises to power in the city and desires Idril."
+   },
+   {
+    "id": "b:FT01",
+    "role": "other",
+    "note": "Taken captive and bargains with Morgoth for the city."
+   },
+   {
+    "id": "b:battle:fall-of-gondolin",
+    "role": "died",
+    "note": "Cast from the walls by Tuor."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:aredhel",
+   "person:eol",
+   "person:idril",
+   "person:turgon",
+   "person:tuor",
+   "person:morgoth"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:eol",
+  "title": "Eöl",
+  "group": "Elves",
+  "kind": "Dark Elf of Nan Elmoth, smith",
+  "aka": [
+   "Dark Elf",
+   "Eöl the Dark Elf"
+  ],
+  "blurb": "Eöl was a Dark Elf and a skilled smith who took Aredhel as his wife. Turgon condemned him at Gondolin.",
+  "book": "Eöl was an Elf who dwelt in the gloom of Nan Elmoth. He loved darkness and had no love for the Noldor.\n\nHe was a great smith. He was friends with the Dwarves of Nogrod and Belegost. He made the black swords Anglachel and Anguirel from iron that fell from the sky. He gave Anglachel to Thingol as a gift.\n\nHe found Aredhel lost in the forest and kept her there as his wife. Their son was Maeglin.\n\nWhen Aredhel fled to Gondolin with Maeglin, Eöl followed. Turgon would not let him leave. Eöl cast a javelin at Maeglin, and it killed Aredhel.\n\nTurgon condemned him to be cast from the high wall, and he died. As he died he cursed his son.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Elf",
+   "Spouse": "Aredhel",
+   "Children": "Maeglin",
+   "Realm or home": "Nan Elmoth"
+  },
+  "places": [
+   {
+    "id": "b:FO05",
+    "role": "lived",
+    "note": "Lives as a smith in the dark forest."
+   },
+   {
+    "id": "b:TO10",
+    "role": "travelled",
+    "note": "Visits the Dwarves of Nogrod and learns their craft."
+   },
+   {
+    "id": "b:TO03",
+    "role": "died",
+    "note": "Cast from the high wall for killing Aredhel."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:aredhel",
+   "person:maeglin",
+   "person:turgon",
+   "thing:gurthang",
+   "thing:anguirel"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:gwindor",
+  "title": "Gwindor",
+  "group": "Elves",
+  "kind": "Elf of Nargothrond, son of Guilin",
+  "aka": [
+   "Gwindor son of Guilin"
+  ],
+  "blurb": "Gwindor escaped from Angband, met Túrin in Taur-nu-Fuin, and brought him to Nargothrond, where he died at Tumhalad.",
+  "book": "Gwindor was an Elf of Nargothrond. He fought in the Nírnaeth Arnoediad, where Orcs took him prisoner.\n\nMorgoth kept him as a slave in the mines of Angband for many years. His strength was broken, but he escaped.\n\nIn the forest of Taur-nu-Fuin he met Beleg and helped him free Túrin from the Orcs. Túrin then killed Beleg in error. Gwindor led Túrin to Eithel Ivrin, where he recovered, and then to Nargothrond.\n\nHe loved Finduilas, but she turned to Túrin. In the Battle of Tumhalad he was struck down and could not be saved.\n\nWith his last words he told Túrin to go to Finduilas.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Elf (Noldor)",
+   "Parents": "Guilin",
+   "Realm or home": "Nargothrond"
+  },
+  "places": [
+   {
+    "id": "b:battle:nirnaeth-arnoediad",
+    "role": "fought",
+    "note": "Fights with the Elves of Nargothrond and is taken prisoner."
+   },
+   {
+    "id": "b:FO08",
+    "role": "other",
+    "note": "Meets Beleg, helps free Túrin, and helps bury Beleg."
+   },
+   {
+    "id": "b:LA04",
+    "role": "travelled",
+    "note": "Guides Túrin to the pool for healing."
+   },
+   {
+    "id": "b:TO02",
+    "role": "lived",
+    "note": "Returns to Nargothrond and fights beside Túrin."
+   },
+   {
+    "id": "b:battle:battle-of-tumhalad",
+    "role": "died",
+    "note": "Mortally wounded in the defeat of Nargothrond."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:turin",
+   "person:finduilas",
+   "person:beleg",
+   "person:orodreth",
+   "person:glaurung"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:finduilas",
+  "title": "Finduilas",
+  "group": "Elves",
+  "kind": "Daughter of Orodreth of Nargothrond",
+  "aka": [
+   "Finduilas of Nargothrond"
+  ],
+  "blurb": "Finduilas was the daughter of Orodreth. She loved Túrin, was taken by Orcs from Nargothrond, and died at the Crossings of Teiglin.",
+  "book": "Finduilas was the daughter of Orodreth, King of Nargothrond. Gwindor loved her, but after Túrin came to the city she turned her heart to him.\n\nAfter the Battle of Tumhalad, Nargothrond was sacked. Orcs led away the captives and Finduilas with them. Glaurung's words turned Túrin away from her rescue, and he went north.\n\nThe Orcs marched north toward the Crossings of Teiglin. The Men of Brethil attacked them there, and the Orcs killed their captives. Finduilas was slain with them.\n\nThe Men of Brethil buried her in a mound, which was called Haudh-en-Elleth, the Mound of the Elf-maid.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Elf (Noldor)",
+   "Parents": "Orodreth",
+   "Realm or home": "Nargothrond"
+  },
+  "places": [
+   {
+    "id": "b:TO02",
+    "role": "lived",
+    "note": "Lives in the halls of her father and falls in love with Túrin."
+   },
+   {
+    "id": "b:battle:battle-of-tumhalad",
+    "role": "other",
+    "note": "Taken captive by the Orcs in the sack of Nargothrond."
+   },
+   {
+    "id": "b:FJ02",
+    "role": "died",
+    "note": "Slain by the Orcs when the Men of Brethil attack them."
+   },
+   {
+    "id": "b:GR02",
+    "role": "buried",
+    "note": "The Men of Brethil raise a mound over her grave."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:orodreth",
+   "person:gwindor",
+   "person:turin",
+   "person:glaurung"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:ecthelion-of-the-fountain",
+  "title": "Ecthelion of the Fountain",
+  "group": "Elves",
+  "kind": "Elf-lord of Gondolin",
+  "aka": [
+   "Lord of the Fountain"
+  ],
+  "blurb": "Ecthelion led the House of the Fountain in Gondolin and slew Gothmog, Lord of Balrogs, when the city fell.",
+  "book": "Ecthelion was a lord of the Noldor in Gondolin. He led the House of the Fountain and was one of the greatest captains of Turgon.\n\nWhen Morgoth attacked Gondolin, Ecthelion fought in the city. He met Gothmog, Lord of Balrogs, in the square of the King.\n\nThey fought, and each slew the other. Many other lords of Gondolin fell in the same fight.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Elf (Noldor)",
+   "House or line": "House of the Fountain"
+  },
+  "places": [
+   {
+    "id": "b:TO03",
+    "role": "lived",
+    "note": "Lives in the hidden city as lord of the House of the Fountain."
+   },
+   {
+    "id": "b:battle:fall-of-gondolin",
+    "role": "died",
+    "note": "Fights Gothmog in the square of the King, and each slays the other."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:gothmog-lord-of-balrogs",
+   "person:turgon",
+   "person:maeglin",
+   "person:idril"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:voronwe",
+  "title": "Voronwë",
+  "group": "Elves",
+  "kind": "Mariner of Gondolin, guide of Tuor",
+  "aka": [
+   "the Faithful",
+   "Voronwë son of Aranwë"
+  ],
+  "blurb": "Voronwë was a mariner of Gondolin who survived shipwreck and led Tuor through the mountains to the Hidden City.",
+  "book": "Voronwë was an Elf of Gondolin, the son of Aranwë. Turgon sent him with other mariners to seek Valinor. A storm wrecked their ships, and Voronwë alone survived.\n\nUlmo's power brought him ashore in Nevrast, near Vinyamar. There he met Tuor and became his guide.\n\nHe led Tuor east from Nevrast through a hard winter. They passed Eithel Ivrin and came at last through the hidden gate to Gondolin.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Elf (Noldor)",
+   "Parents": "Aranwë",
+   "Realm or home": "Gondolin"
+  },
+  "places": [
+   {
+    "id": "b:TO04",
+    "role": "found",
+    "note": "Cast ashore below Vinyamar, where he meets Tuor and becomes his guide."
+   },
+   {
+    "id": "b:DO01",
+    "role": "travelled",
+    "note": "Leads Tuor through the hidden ravine to the gates of Gondolin."
+   },
+   {
+    "id": "b:TO03",
+    "role": "lived",
+    "note": "Guides Tuor to the city and lives there before its fall."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Sea of the West",
+    "role": "travelled",
+    "note": "Sails with Turgon's mariners to seek Valinor and is shipwrecked."
+   }
+  ],
+  "related": [
+   "person:tuor",
+   "person:turgon",
+   "person:idril",
+   "person:earendil"
+  ],
+  "sources": [
+   "Unfinished Tales",
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:ulfang",
+  "title": "Ulfang",
+  "group": "Enemies",
+  "kind": "Easterling chieftain who betrayed Maedhros",
+  "aka": [
+   "Ulfang the Black"
+  ],
+  "blurb": "Ulfang was an Easterling chieftain who joined Maedhros and then betrayed him in the Nírnaeth Arnoediad.",
+  "book": "Ulfang the Black was a chieftain of the Easterlings, the dark men who came into Beleriand from the East. His sons were Ulfast, Ulwarth and Uldor.\n\nUlfang joined the Union of Maedhros and promised to fight Morgoth. In truth he served Morgoth and awaited the hour to betray.\n\nIn the Nírnaeth Arnoediad, his son Uldor led the men of his house against the sons of Fëanor in the middle of the battle. Maedhros's host was thrown into disorder.\n\nAll three of his sons died in that battle.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Easterling (Men)",
+   "Children": "Ulfast, Ulwarth, Uldor"
+  },
+  "places": [
+   {
+    "id": "b:battle:nirnaeth-arnoediad",
+    "role": "other",
+    "note": "His people, led by his sons, turn on the host of Maedhros in the battle."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:uldor",
+   "person:maedhros",
+   "person:maglor",
+   "person:morgoth"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:uldor",
+  "title": "Uldor",
+  "group": "Enemies",
+  "kind": "Easterling, son of Ulfang, called the Accursed",
+  "aka": [
+   "Uldor the Accursed"
+  ],
+  "blurb": "Uldor was the son of Ulfang. His treachery helped break the host of Maedhros, and Maglor slew him.",
+  "book": "Uldor was the son of Ulfang the Black. He was called the Accursed because of his treachery.\n\nHe joined the host of Maedhros in the Union of Maedhros with his brothers Ulfast and Ulwarth.\n\nIn the Nírnaeth Arnoediad Uldor and his men turned against the Noldor. They attacked the host of Maedhros from within.\n\nMaglor slew Uldor in the battle. His brothers Ulfast and Ulwarth also fell in the battle.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Easterling (Men)",
+   "Parents": "Ulfang",
+   "Siblings": "Ulfast, Ulwarth",
+   "Died": "F.A. 472, in the Nírnaeth Arnoediad"
+  },
+  "places": [
+   {
+    "id": "b:battle:nirnaeth-arnoediad",
+    "role": "died",
+    "note": "Betrays Maedhros's host and is slain by Maglor."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:ulfang",
+   "person:maglor",
+   "person:maedhros"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:gothmog-lord-of-balrogs",
+  "title": "Gothmog, Lord of Balrogs",
+  "group": "Creatures",
+  "kind": "Lord of Balrogs, High Captain of Angband",
+  "aka": [
+   "Gothmog"
+  ],
+  "blurb": "Gothmog was the greatest of the Balrogs and a high captain of Morgoth. He killed Fëanor and Fingon.",
+  "book": "Gothmog was the Lord of Balrogs and the High Captain of Angband under Morgoth. He is not the same as the later captain of Minas Morgul who bore the same name.\n\nIn the Dagor-nuin-Giliath, Fëanor pursued the Orcs toward Angband. Gothmog and his Balrogs ambushed him. Gothmog dealt Fëanor the wound that killed him.\n\nIn the Nírnaeth Arnoediad he fought on the plain. He slew Fingon and drove the Noldor back.\n\nIn the Fall of Gondolin he fought in the assault on the city. Ecthelion of the Fountain met him in the King's Square and killed him, but Ecthelion also died.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Balrog (Maia)",
+   "Title": "Lord of Balrogs"
+  },
+  "places": [
+   {
+    "id": "b:FT01",
+    "role": "lived",
+    "note": "Serves as the high captain of Morgoth's fortress."
+   },
+   {
+    "id": "b:battle:dagor-nuin-giliath",
+    "role": "fought",
+    "note": "Ambushes Fëanor near Angband and wounds him mortally."
+   },
+   {
+    "id": "b:battle:nirnaeth-arnoediad",
+    "role": "fought",
+    "note": "Kills Fingon on the plain."
+   },
+   {
+    "id": "b:battle:fall-of-gondolin",
+    "role": "died",
+    "note": "Fights Ecthelion in the square of the King, and each slays the other."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:morgoth",
+   "person:feanor",
+   "person:fingon",
+   "person:ecthelion-of-the-fountain"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:ungoliant",
+  "title": "Ungoliant",
+  "group": "Creatures",
+  "kind": "Ancient spirit in the form of a spider",
+  "aka": [
+   "Ungweliantë"
+  ],
+  "blurb": "Ungoliant was a spirit in spider form. She helped Morgoth destroy the Two Trees, then turned on him and fled.",
+  "book": "Ungoliant was an ancient spirit that took the form of a huge spider. She came out of the darkness that lay beyond Arda and dwelt in Avathar, south of Valinor, where she fed on light.\n\nMorgoth came to her after Fëanor's exile and asked her aid. Together they went to the Two Trees. Morgoth stabbed each Tree, and Ungoliant drank their sap and poisoned them. The Trees died.\n\nShe went with Morgoth to Formenos, and they fled north over the ice to Middle-earth. In Lammoth she demanded the Silmarils as her payment, but he refused. She tried to devour him. His cry brought the Balrogs from Angband, who drove her off.\n\nShe fled south and dwelt in Nan Dungortheb with her offspring. The tale says that she finally devoured herself in hunger.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Spirit in spider form",
+   "Realm or home": "Avathar, later Nan Dungortheb"
+  },
+  "places": [
+   {
+    "id": "b:RG23",
+    "role": "other",
+    "note": "Attacks Morgoth here, and his great cry echoes in the land."
+   },
+   {
+    "id": "b:RG10",
+    "role": "lived",
+    "note": "Settles in the dreadful valley after fleeing Morgoth."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Avathar",
+    "role": "lived",
+    "note": "Lives in the dark lands south of Valinor before Morgoth finds her."
+   },
+   {
+    "name": "Valinor",
+    "role": "other",
+    "note": "Poisons the Two Trees with Morgoth."
+   }
+  ],
+  "related": [
+   "person:morgoth",
+   "person:shelob",
+   "thing:two-trees",
+   "thing:silmarils"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:glaurung",
+  "title": "Glaurung",
+  "group": "Creatures",
+  "kind": "Father of Dragons, the Golden",
+  "aka": [
+   "Father of Dragons",
+   "the Golden",
+   "Worm of Morgoth"
+  ],
+  "blurb": "Glaurung was the first of the dragons. He destroyed Nargothrond and was slain by Túrin at Cabed-en-Aras.",
+  "book": "Glaurung was the first of the Dragons of Morgoth, a great fire-drake. He was called the Father of Dragons.\n\nHe first came out of Angband in F.A. 260. Fingon and his mounted archers drove him back, and he returned long after in the Dagor Bragollach, when he helped break the Siege of Angband.\n\nHe also fought in the Nírnaeth Arnoediad. There the Dwarves of Belegost, in their dragon-helms, wounded him and made him flee.\n\nHe led the Orcs against Nargothrond. His power and the spell in his gaze helped crush the army at Tumhalad, and he took the city. He then dwelt in its halls.\n\nHe laid a spell of forgetting on Nienor. Túrin later struck him from beneath with Gurthang at Cabed-en-Aras.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Dragon",
+   "Title": "Father of Dragons"
+  },
+  "places": [
+   {
+    "id": "b:FT01",
+    "role": "lived",
+    "note": "Bred in the fortress of Morgoth and sent out from its gates."
+   },
+   {
+    "id": "b:battle:first-coming-of-glaurung",
+    "role": "fought",
+    "note": "Comes out of Angband and is driven back by Fingon and his archers."
+   },
+   {
+    "id": "b:battle:dagor-bragollach",
+    "role": "fought",
+    "note": "Leads the attack that breaks the Siege of Angband."
+   },
+   {
+    "id": "b:battle:nirnaeth-arnoediad",
+    "role": "fought",
+    "note": "Takes part in the assault that ends the Union of Maedhros."
+   },
+   {
+    "id": "b:battle:battle-of-tumhalad",
+    "role": "fought",
+    "note": "Breaks the army of Nargothrond and destroys the city."
+   },
+   {
+    "id": "b:TO02",
+    "role": "lived",
+    "note": "Takes the halls of Nargothrond as his lair."
+   },
+   {
+    "id": "b:VA01",
+    "role": "died",
+    "note": "Killed by Túrin from beneath, in the ravine of the Teiglin."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:turin",
+   "person:nienor",
+   "person:morgoth",
+   "person:finduilas",
+   "person:orodreth",
+   "thing:gurthang"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:ancalagon",
+  "title": "Ancalagon the Black",
+  "group": "Creatures",
+  "kind": "Greatest of the winged dragons",
+  "aka": [
+   "the Black"
+  ],
+  "blurb": "Ancalagon was the greatest of the winged dragons. He fought in the War of Wrath and was cast down by Eärendil.",
+  "book": "Ancalagon was the largest of the winged dragons that Morgoth bred. He is called the Black.\n\nWhen the host of the Valar came against Morgoth in the War of Wrath, the dragons were his last hope. They came out of Angband in a great host with Ancalagon at their head. The sky grew dark, and the host of the West was driven back.\n\nEärendil came on Vingilot with the Great Eagles. After a long fight he slew Ancalagon and cast him down onto Thangorodrim.\n\nThe fall of Ancalagon shattered the towers of Thangorodrim.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Dragon (winged)",
+   "Died": "In the War of Wrath"
+  },
+  "places": [
+   {
+    "id": "b:battle:war-of-wrath",
+    "role": "fought",
+    "note": "Leads the winged dragons against the host of the Valar."
+   },
+   {
+    "id": "b:MT02",
+    "role": "died",
+    "note": "Falls onto the peaks and breaks them."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:earendil",
+   "person:morgoth",
+   "person:thorondor",
+   "person:glaurung",
+   "thing:vingilot"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:thorondor",
+  "title": "Thorondor",
+  "group": "Creatures",
+  "kind": "King of the Great Eagles",
+  "aka": [
+   "King of Eagles"
+  ],
+  "blurb": "Thorondor was the greatest of the Eagles. He watched Beleriand, aided the Noldor, and scarred Morgoth's face.",
+  "book": "Thorondor was the King of the Great Eagles. He lived on the Crissaegrim, the high peaks south of Gondolin, and watched the lands of Morgoth from there.\n\nHe bore Fingon up the cliffs of Thangorodrim to reach Maedhros.\n\nWhen Fingolfin challenged Morgoth, Thorondor came down upon the Dark Lord and clawed his face. Morgoth bore the scars from then on. Thorondor then lifted Fingolfin's body from the field and set it on a high peak north of Gondolin.\n\nThorondor rescued Beren and Lúthien from the gates of Angband and carried them to the edge of Doriath. His Eagles also guarded the survivors of Gondolin on their flight. In the War of Wrath the Eagles fought on the side of the Valar.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Great Eagle",
+   "Title": "King of Eagles",
+   "Realm or home": "Crissaegrim"
+  },
+  "places": [
+   {
+    "id": "b:CR01",
+    "role": "lived",
+    "note": "Lives in the high peaks and keeps watch over Beleriand."
+   },
+   {
+    "id": "b:MT02",
+    "role": "other",
+    "note": "Carries Fingon up to Maedhros on the cliff."
+   },
+   {
+    "id": "b:battle:duel-fingolfin-morgoth",
+    "role": "fought",
+    "note": "Claws Morgoth's face and takes away Fingolfin's body."
+   },
+   {
+    "id": "b:NP006",
+    "role": "other",
+    "note": "Lays Fingolfin's body on the mountain where the cairn is raised."
+   },
+   {
+    "id": "b:FT01",
+    "role": "other",
+    "note": "Rescues Beren and Lúthien at the gates of Angband."
+   },
+   {
+    "id": "b:VA07",
+    "role": "other",
+    "note": "His Eagles defend the fugitives of Gondolin on the pass."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:fingolfin",
+   "person:fingon",
+   "person:maedhros",
+   "person:beren",
+   "person:luthien",
+   "person:morgoth",
+   "person:gwaihir"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ }
+]

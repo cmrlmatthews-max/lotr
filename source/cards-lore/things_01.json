@@ -1,0 +1,1195 @@
+[
+ {
+  "id": "thing:one-ring",
+  "title": "The One Ring",
+  "group": "Rings",
+  "kind": "Ruling Ring of Sauron",
+  "aka": [
+   "Ruling Ring",
+   "Isildur's Bane",
+   "the Precious",
+   "Master-ring"
+  ],
+  "blurb": "The master ring that Sauron forged in Mount Doom to rule all other Rings of Power, and that was unmade there in T.A. 3019.",
+  "book": "Sauron forged the One Ring in the fires of Mount Doom about S.A. 1600. He poured much of his own strength into it. It ruled the other Rings of Power and gave long life without peace to its bearer.\n\nAt the end of the Second Age, Isildur cut the Ring from Sauron's hand. He kept it instead of destroying it. In T.A. 2 Orcs ambushed him near the Gladden Fields. The Ring slipped from his finger in the Anduin, and the Orcs slew him.\n\nThe Ring lay in the Anduin until Déagol found it there in about T.A. 2463. Sméagol killed him for it and became Gollum. He hid under the Misty Mountains for centuries. Bilbo found it there in T.A. 2941.\n\nFrodo inherited the Ring and bore it from Bag End to Mordor. Gollum seized it at the Cracks of Doom and fell into the fire with it. The Ring was destroyed on 25 March, T.A. 3019, and Sauron's power ended.",
+  "film": "The films show Isildur refusing to cast the Ring into the fire when Elrond urges him. The prologue shows Sauron as a giant armoured figure on the slopes of Mount Doom.",
+  "series": "",
+  "facts": {
+   "Kind": "Ring of Power",
+   "Made by": "Sauron",
+   "Made in": "Mount Doom, Mordor",
+   "Date made": "S.A. 1600",
+   "Material": "Gold",
+   "Owners": "Sauron, Isildur, Déagol, Gollum, Bilbo, Frodo, Samwise (briefly)",
+   "Fate": "Destroyed in the Cracks of Doom, T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "MT036",
+    "role": "made",
+    "note": "Sauron forges the Ring in the fires of Orodruin about S.A. 1600."
+   },
+   {
+    "id": "battle:dagorlad",
+    "role": "other",
+    "note": "Isildur cuts the Ring from Sauron at the end of the siege of Barad-dûr."
+   },
+   {
+    "id": "battle:gladden-fields",
+    "role": "lost",
+    "note": "Orcs ambush Isildur, and the Ring slips from him into the Anduin in T.A. 2."
+   },
+   {
+    "id": "SW006",
+    "role": "found",
+    "note": "Déagol finds the Ring in the Anduin by the Gladden Fields about T.A. 2463."
+   },
+   {
+    "id": "NP037",
+    "role": "kept",
+    "note": "Gollum keeps the Ring by his lake under the mountains; Bilbo finds it there in T.A. 2941."
+   },
+   {
+    "id": "BU030",
+    "role": "kept",
+    "note": "Bilbo and then Frodo keep the Ring at Bag End."
+   },
+   {
+    "id": "BU036",
+    "role": "destroyed",
+    "note": "Gollum falls with the Ring into the fire, and it is unmade on 25 March, T.A. 3019."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:sauron",
+   "person:isildur",
+   "person:deagol",
+   "person:gollum",
+   "person:bilbo-baggins",
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "thing:nine-rings"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I and Book VI",
+   "The Lord of the Rings, Appendix B",
+   "The Silmarillion, Of the Rings of Power and the Third Age"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "thing:narya",
+  "title": "Narya",
+  "group": "Rings",
+  "kind": "Elven Ring of Power, the Ring of Fire",
+  "aka": [
+   "Ring of Fire"
+  ],
+  "blurb": "The red-stoned Elven ring of fire, one of the Three, kept by Círdan and later borne by Gandalf.",
+  "book": "Narya was one of the Three Rings made by Celebrimbor of Eregion. Sauron did not touch the Three, and they were made without his help. Celebrimbor hid them from him when the One Ring was forged.\n\nBy one account, Celebrimbor gave Narya and Vilya to Gil-galad of Lindon, and Gil-galad gave Narya to Círdan. Círdan kept it at the Grey Havens for a long age.\n\nWhen Gandalf arrived at the Grey Havens, Círdan gave him the Ring. He knew that Gandalf would need it for his work. Gandalf bore it in secret through the Third Age. It helped him kindle courage in others against despair.\n\nWhen the One Ring was destroyed, the power of the Three ended. Gandalf took Narya over the Sea in T.A. 3021.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Elven Ring of Power (one of the Three)",
+   "Made by": "Celebrimbor",
+   "Made in": "Eregion",
+   "Material": "Set with a red stone (ruby)",
+   "Owners": "Celebrimbor, Gil-galad, Círdan, Gandalf",
+   "Fate": "Borne over the Sea by Gandalf, T.A. 3021"
+  },
+  "places": [
+   {
+    "id": "TO079",
+    "role": "made",
+    "note": "Celebrimbor and the Elven-smiths of Eregion make the Three Rings."
+   },
+   {
+    "id": "TO043",
+    "role": "kept",
+    "note": "Círdan keeps Narya at the Grey Havens and there gives it to Gandalf."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Valinor",
+    "role": "other",
+    "note": "Gandalf bears the Ring over the Sea at the end of the Third Age."
+   }
+  ],
+  "related": [
+   "person:celebrimbor",
+   "person:gil-galad",
+   "person:cirdan",
+   "person:gandalf",
+   "thing:nenya",
+   "thing:vilya",
+   "thing:one-ring"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix B",
+   "The Silmarillion, Of the Rings of Power and the Third Age"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:nenya",
+  "title": "Nenya",
+  "group": "Rings",
+  "kind": "Elven Ring of Power, the Ring of Adamant",
+  "aka": [
+   "Ring of Adamant",
+   "Ring of Water"
+  ],
+  "blurb": "The white-stoned Elven ring of adamant, one of the Three, borne by Galadriel and used to guard Lothlórien.",
+  "book": "Nenya was one of the Three Rings of the Elves. Celebrimbor made it in Eregion, and it was set with a white stone. It was hidden from Sauron and did not serve him.\n\nCelebrimbor gave Nenya to Galadriel. She wore it for the rest of the Third Age. The Ring slowed the passing of time and shielded the Elven realm that she and Celeborn ruled.\n\nUnder the power of Nenya, Lothlórien stayed fair and hard to enter. Its strength helped to turn back the assaults that came from Dol Guldur.\n\nGaladriel knew that the Ring would fail if the One was destroyed. She accepted this and still helped the Quest. In T.A. 3021 she passed over the Sea from the Grey Havens, and Nenya went with her.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Elven Ring of Power (one of the Three)",
+   "Made by": "Celebrimbor",
+   "Made in": "Eregion",
+   "Material": "Set with a white stone (adamant)",
+   "Owners": "Celebrimbor, Galadriel",
+   "Fate": "Borne over the Sea by Galadriel in T.A. 3021"
+  },
+  "places": [
+   {
+    "id": "TO079",
+    "role": "made",
+    "note": "Celebrimbor makes the Three Rings at Ost-in-Edhil in Eregion."
+   },
+   {
+    "id": "FO017",
+    "role": "kept",
+    "note": "Galadriel uses Nenya to guard Lothlórien through the late Third Age."
+   },
+   {
+    "id": "TO018",
+    "role": "kept",
+    "note": "Galadriel bears the Ring at her home in Caras Galadhon."
+   },
+   {
+    "id": "TO043",
+    "role": "other",
+    "note": "Galadriel sails from the Grey Havens with Nenya in T.A. 3021."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Valinor",
+    "role": "other",
+    "note": "Galadriel sails west after the War of the Ring."
+   }
+  ],
+  "related": [
+   "person:galadriel",
+   "person:celeborn",
+   "person:celebrimbor",
+   "thing:narya",
+   "thing:vilya",
+   "thing:one-ring",
+   "thing:mirror-of-galadriel"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II and Appendix B",
+   "The Silmarillion, Of the Rings of Power and the Third Age"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:vilya",
+  "title": "Vilya",
+  "group": "Rings",
+  "kind": "Elven Ring of Power, the Ring of Air",
+  "aka": [
+   "Ring of Air"
+  ],
+  "blurb": "The mightiest of the Three Elven rings, set with a blue stone and borne by Gil-galad and then Elrond.",
+  "book": "Vilya was the greatest of the Three Rings. Celebrimbor made it in Eregion, and it was set with a blue gem. It was hidden from Sauron and never touched by his hand.\n\nCelebrimbor gave Vilya and Narya to Gil-galad, the High King of the Noldor in Lindon. Gil-galad gave Vilya to Elrond, his herald, and Elrond bore it from then on.\n\nElrond used Vilya to protect Rivendell and to preserve its peace and beauty. The Ring healed and sustained rather than conquered.\n\nIts power ended when the One Ring was unmade. Elrond left Middle-earth from the Grey Havens in T.A. 3021 and took Vilya over the Sea.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Elven Ring of Power (one of the Three)",
+   "Made by": "Celebrimbor",
+   "Made in": "Eregion",
+   "Material": "Set with a blue stone (sapphire)",
+   "Owners": "Celebrimbor, Gil-galad, Elrond",
+   "Fate": "Borne over the Sea by Elrond in T.A. 3021"
+  },
+  "places": [
+   {
+    "id": "TO079",
+    "role": "made",
+    "note": "Celebrimbor makes the Three Rings in Eregion."
+   },
+   {
+    "id": "realm:lindon",
+    "role": "kept",
+    "note": "Gil-galad holds Vilya in Lindon before giving it to Elrond."
+   },
+   {
+    "id": "TO084",
+    "role": "kept",
+    "note": "Elrond keeps Vilya at Rivendell for the rest of the Third Age."
+   },
+   {
+    "id": "TO043",
+    "role": "other",
+    "note": "Elrond sails from the Grey Havens with Vilya in T.A. 3021."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Valinor",
+    "role": "other",
+    "note": "Elrond sails west after the War of the Ring."
+   }
+  ],
+  "related": [
+   "person:celebrimbor",
+   "person:gil-galad",
+   "person:elrond",
+   "thing:narya",
+   "thing:nenya",
+   "thing:one-ring"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix B",
+   "The Silmarillion, Of the Rings of Power and the Third Age"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "thing:seven-rings",
+  "title": "Seven Rings",
+  "group": "Rings",
+  "kind": "Rings of Power given to the Dwarf-lords",
+  "aka": [
+   "Rings of the Dwarf-lords",
+   "Seven Rings of the Dwarf-lords"
+  ],
+  "blurb": "The Rings that Sauron gave to the Dwarf-lords; dragons consumed four, and Sauron took back the other three.",
+  "book": "The Seven Rings were made in the Second Age, in the time when Sauron worked with the Elven-smiths of Eregion. Sauron gave them to the lords of the Dwarves. The Dwarves of Durin's line said that their own Ring came to Durin III from the Elven-smiths, not from Sauron.\n\nThe Dwarves did not become slaves of Sauron, as the Men of the Nine did. The Rings did not bend their wills. They did stir in their owners a deep hunger for gold.\n\nThe Rings also made the Dwarves' hoards grow. This drew dragons to their halls. Dragons consumed four of the Seven, and Sauron took back the other three.\n\nThe last to be found was the Ring of Durin's line, held by Thrór and then by Thráin II. Sauron took it from Thráin in Dol Guldur in T.A. 2845. After the One was destroyed, the power of all the Rings ended.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Rings of Power",
+   "Made by": "Sauron with the Elven-smiths of Eregion",
+   "Date made": "Second Age",
+   "Owners": "Lords of the Dwarf-houses",
+   "Fate": "Four consumed by dragons; three retaken by Sauron"
+  },
+  "places": [
+   {
+    "id": "TO079",
+    "role": "made",
+    "note": "The Seven are made in Eregion during the years of the Elven-smiths."
+   },
+   {
+    "id": "TO066",
+    "role": "kept",
+    "note": "The Ring of Durin's line is kept in Khazad-dûm until the Dwarves flee the Balrog in T.A. 1981."
+   },
+   {
+    "id": "FT008",
+    "role": "lost",
+    "note": "Sauron takes the last of the Seven from Thráin II in Dol Guldur in T.A. 2845."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:sauron",
+   "person:celebrimbor",
+   "person:thror",
+   "person:thrain-ii",
+   "thing:ring-of-thror",
+   "thing:nine-rings",
+   "thing:one-ring"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Rings of Power and the Third Age",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:nine-rings",
+  "title": "Nine Rings",
+  "group": "Rings",
+  "kind": "Rings of Power given to Men",
+  "aka": [
+   "Rings of Men",
+   "Nine Rings for Mortal Men"
+  ],
+  "blurb": "The Rings of Power given to nine mortal kings, whose bearers faded into the Nazgûl, servants of Sauron.",
+  "book": "The Nine Rings were made in the Second Age, in the time when Sauron worked among the Elven-smiths of Eregion. Sauron gave them to mortal Men, mostly great lords and kings.\n\nThe Rings gave their bearers long life and power. They also bound the bearers to the will of the One Ring. Little by little the nine Men faded and became wraiths.\n\nThese nine were the Ringwraiths, or Nazgûl. They served Sauron through the Second and Third Ages. Their chief was the Witch-king of Angmar.\n\nSauron kept the Nine himself after their bearers became wraiths. When the One Ring was unmade, the Nazgûl lost their power and their forms and perished.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Rings of Power",
+   "Made by": "Sauron with the Elven-smiths of Eregion",
+   "Date made": "Second Age",
+   "Owners": "Nine mortal kings, then the Nazgûl",
+   "Fate": "Their power ended with the unmaking of the One Ring"
+  },
+  "places": [
+   {
+    "id": "TO079",
+    "role": "made",
+    "note": "The Nine are made in Eregion in the days of the Elven-smiths."
+   },
+   {
+    "id": "FT004",
+    "role": "kept",
+    "note": "Sauron holds the Rings of the Nazgûl at Barad-dûr."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:sauron",
+   "person:witch-king",
+   "person:khamul",
+   "thing:seven-rings",
+   "thing:one-ring"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Rings of Power and the Third Age",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:ring-of-thror",
+  "title": "Ring of Thrór",
+  "group": "Rings",
+  "kind": "Dwarf Ring of Power, last of the Seven",
+  "aka": [
+   "Ring of Durin's line",
+   "Last of the Seven Rings",
+   "Ring of the Dwarf-kings"
+  ],
+  "blurb": "The last of the Seven Rings held by the line of Durin, taken from Thráin II by Sauron in T.A. 2845.",
+  "book": "This was the last of the Seven Rings that the kings of the Dwarves of Durin's line held. The Dwarves said it was given to Durin III by the Elven-smiths. It passed down from father to son and made their hoard of gold grow.\n\nThrór owned it when Smaug took the Lonely Mountain in T.A. 2770. Thrór fled with his people and wandered in exile. He was murdered by the orc Azog at the gate of Moria in T.A. 2790.\n\nBefore he went to Moria, Thrór gave the Ring to his son Thráin II. Thráin later set out for Erebor, carrying the Ring. Sauron's servants caught him and held him in the dungeons of Dol Guldur.\n\nSauron took the Ring from Thráin in T.A. 2845. Thráin died there. Gandalf found him and received Thrór's map and key, but the Ring was not recovered.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Ring of Power (one of the Seven)",
+   "Made by": "Sauron with the Elven-smiths of Eregion",
+   "Owners": "Kings of Durin's line, including Thrór and Thráin II",
+   "Fate": "Taken by Sauron in Dol Guldur, T.A. 2845"
+  },
+  "places": [
+   {
+    "id": "TO066",
+    "role": "kept",
+    "note": "Durin's heirs hold the Ring in Khazad-dûm until they flee the Balrog in T.A. 1981."
+   },
+   {
+    "id": "MT029",
+    "role": "kept",
+    "note": "Kings of Durin's line hold the Ring in Erebor until Smaug comes in T.A. 2770."
+   },
+   {
+    "id": "FT008",
+    "role": "lost",
+    "note": "Sauron takes the Ring from the captive Thráin II in T.A. 2845."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:thror",
+   "person:thrain-ii",
+   "person:sauron",
+   "person:thorin-oakenshield",
+   "thing:seven-rings",
+   "thing:thrors-map"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A (Durin's Folk)",
+   "The Silmarillion, Of the Rings of Power and the Third Age"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:arkenstone",
+  "title": "Arkenstone",
+  "group": "Jewels",
+  "kind": "Great white jewel, Heart of the Mountain",
+  "aka": [
+   "Heart of the Mountain",
+   "Arkenstone of Thráin"
+  ],
+  "blurb": "The great white gem of Erebor, the heirloom of Thrór's house, taken by Bilbo and buried with Thorin.",
+  "book": "The Arkenstone was a great white jewel that shone with a light of its own. The Dwarves found it deep under Erebor in the days of Thráin I. They called it the Heart of the Mountain.\n\nThrór and his heirs prized it above all their treasure. When Smaug took the Mountain, the Arkenstone lay in his hoard.\n\nBilbo found it in the dragon's lair in T.A. 2941 and hid it from Thorin. Thorin longed for it above all the rest of the hoard. Bilbo gave it in secret to Bard and the Elvenking, hoping to buy peace.\n\nThorin was furious and sent Bilbo away. Thorin was mortally wounded in the Battle of Five Armies and made peace with Bilbo before he died. Bard laid the Arkenstone on his breast, and he was buried with it deep in the Mountain.",
+  "film": "In the Hobbit films the Arkenstone is the focus of Thorin's gold-sickness. Bilbo hides it and offers it to Bard and Thranduil in the camp before the battle.",
+  "series": "",
+  "facts": {
+   "Kind": "Great white gem",
+   "Made by": "Found under Erebor and cut by the Dwarves",
+   "Owners": "Kings of Durin's line from Thráin I to Thrór, then Smaug's hoard, Bilbo, Bard",
+   "Fate": "Buried with Thorin beneath the Lonely Mountain"
+  },
+  "places": [
+   {
+    "id": "MT029",
+    "role": "found",
+    "note": "The Dwarves find the gem deep under the Lonely Mountain."
+   },
+   {
+    "id": "TO051",
+    "role": "kept",
+    "note": "The Arkenstone lies in the hoard of the Kingdom under the Mountain."
+   },
+   {
+    "id": "TO024",
+    "role": "other",
+    "note": "Bilbo gives the stone to Bard and the Elvenking in the camp at Dale."
+   },
+   {
+    "id": "battle:five-armies",
+    "role": "buried",
+    "note": "Thorin falls in the Battle of Five Armies, and the stone is buried with him."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:thorin-oakenshield",
+   "person:bilbo-baggins",
+   "person:thror",
+   "person:thrain-i",
+   "person:bard",
+   "person:smaug",
+   "thing:orcrist"
+  ],
+  "sources": [
+   "The Hobbit, Chapters 12, 13 and 18"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "thing:elessar-stone",
+  "title": "Elessar (the Elfstone)",
+  "group": "Jewels",
+  "kind": "Green gem of healing in an eagle brooch",
+  "aka": [
+   "Elfstone",
+   "Elessar"
+  ],
+  "blurb": "A green gem in a silver eagle brooch, given by Galadriel to Aragorn, who took its name as his own.",
+  "book": "The Elessar was a clear green gem set in a silver brooch shaped like an eagle with spread wings. Light through it was said to heal and renew living things.\n\nIn The Lord of the Rings, Galadriel says that she gave the stone to her daughter Celebrían, and Celebrían gave it to Arwen. Unfinished Tales gives two older tales of its making. In one, Enerdhil of Gondolin made it. In the other, Celebrimbor made it for Galadriel.\n\nGaladriel gave the Elfstone to Aragorn in Lothlórien in T.A. 3019, as the Fellowship left. It was a token of hope, and she told him to take the name that had been foretold for him.\n\nAragorn wore it in the War of the Ring. After the victory he took Elessar as his royal name, and his house was called the House of Elessar.",
+  "film": "In the films Arwen gives Aragorn a jewel on a chain in Rivendell. That pendant is a different object from the brooch of the book.",
+  "series": "",
+  "facts": {
+   "Kind": "Green gem in an eagle-shaped brooch",
+   "Made by": "Enerdhil of Gondolin, or Celebrimbor, by two accounts in Unfinished Tales",
+   "Owners": "Galadriel, Celebrían, Arwen, Aragorn",
+   "Fate": "Kept by Aragorn and his line"
+  },
+  "places": [
+   {
+    "id": "FO017",
+    "role": "other",
+    "note": "Galadriel gives the Elfstone to Aragorn when the Fellowship leaves Lothlórien."
+   },
+   {
+    "id": "TO065",
+    "role": "other",
+    "note": "Aragorn takes the name Elessar as King of Gondor."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:galadriel",
+   "person:aragorn",
+   "person:celebrian",
+   "person:arwen",
+   "person:celebrimbor",
+   "thing:elendilmir"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II, Chapter 8",
+   "The Lord of the Rings, Appendix A",
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:elendilmir",
+  "title": "Star of Elendil",
+  "group": "Jewels",
+  "kind": "White gem worn on the brow of kings",
+  "aka": [
+   "Star of Elendil"
+  ],
+  "blurb": "A white gem bound on the brow of Elendil and the Kings of Arnor, later worn by Aragorn.",
+  "book": "The Elendilmir was a white gem bound on a fillet and worn on the brow. It shone like a star. Elendil wore it as King of Arnor, and it became the token of the northern kings.\n\nIsildur wore the first Elendilmir when Orcs slew him at the Gladden Fields in T.A. 2, and it was lost there. His son Valandil had a second gem made in Rivendell. The Kings of Arnor and Arthedain wore it, and Elrond later kept it with the other heirlooms of Isildur's line.\n\nIn the War of the Ring, Aragorn bore the Star of Elendil upon his brow. After the war the first Elendilmir was found in Orthanc, where Saruman had hidden it. Aragorn wore it on high days as King.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "White gem on a fillet",
+   "Owners": "Elendil, Isildur, the Kings of Arnor and Arthedain, Aragorn",
+   "Fate": "The first gem was found in Orthanc and worn by Aragorn as King"
+  },
+  "places": [
+   {
+    "id": "TO006",
+    "role": "kept",
+    "note": "The Kings of Arnor wear the Elendilmir in their city of Annúminas."
+   },
+   {
+    "id": "SW006",
+    "role": "lost",
+    "note": "The first Elendilmir is lost with Isildur at the Gladden Fields in T.A. 2."
+   },
+   {
+    "id": "TO084",
+    "role": "made",
+    "note": "A second gem is made in Rivendell for Valandil and later kept there."
+   },
+   {
+    "id": "battle:pelennor",
+    "role": "other",
+    "note": "Aragorn wears the Star of Elendil in the Battle of the Pelennor Fields."
+   },
+   {
+    "id": "BU021",
+    "role": "found",
+    "note": "The first Elendilmir is found in Orthanc after the fall of Saruman."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:elendil",
+   "person:isildur",
+   "person:valandil",
+   "person:aragorn",
+   "person:saruman",
+   "thing:sceptre-of-annuminas"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V and Appendix A",
+   "Unfinished Tales, The Disaster of the Gladden Fields"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:necklace-of-girion",
+  "title": "Necklace of Girion",
+  "group": "Jewels",
+  "kind": "Emerald necklace of the Lord of Dale",
+  "aka": [
+   "Emerald necklace of Girion",
+   "Girion's emeralds"
+  ],
+  "blurb": "A necklace of five hundred emeralds that Girion of Dale paid to the Dwarves for armour for his son.",
+  "book": "Girion was the Lord of Dale in the days before Smaug came. He owned a necklace of five hundred emeralds, green as grass.\n\nHe gave it to the Dwarves of Erebor as payment for a coat of mail for his eldest son. The coat was made of silver rings and was as strong as triple steel. The necklace lay in the hoard of the Mountain when Smaug took it.\n\nSmaug destroyed Dale, but Girion's wife and child escaped. Bard of Lake-town came from their line. After the Battle of Five Armies, Dáin gave the emeralds to Bard. Bard then gave them to the Elvenking, who loved such jewels.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Emerald necklace",
+   "Owners": "Girion of Dale, the Dwarves of Erebor, Bard, the Elvenking",
+   "Fate": "Given by Bard to the Elvenking"
+  },
+  "places": [
+   {
+    "id": "TO024",
+    "role": "other",
+    "note": "Girion, Lord of Dale, buys the Dwarves' armour with the necklace."
+   },
+   {
+    "id": "MT029",
+    "role": "kept",
+    "note": "The Dwarves hold the necklace in Erebor before the dragon comes."
+   },
+   {
+    "id": "TO031",
+    "role": "kept",
+    "note": "Bard gives the emeralds to the Elvenking, who takes them to his realm."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:bard",
+   "person:dain-ii-ironfoot",
+   "person:thranduil",
+   "person:smaug",
+   "thing:arkenstone",
+   "thing:black-arrow"
+  ],
+  "sources": [
+   "The Hobbit, Chapters 12, 14 and 18"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "thing:phial-of-galadriel",
+  "title": "Phial of Galadriel",
+  "group": "Other",
+  "kind": "Crystal phial holding starlight",
+  "aka": [
+   "Light of Eärendil",
+   "Star-glass",
+   "Star-glass of Galadriel"
+  ],
+  "blurb": "A small crystal phial holding the light of Eärendil's star, given by Galadriel to Frodo in Lothlórien.",
+  "book": "The Phial of Galadriel was a small crystal vessel that held the light of Eärendil's star. Galadriel had caught that light in the water of her fountain.\n\nShe gave it to Frodo in Lothlórien in T.A. 3019. She said it would be a light to him in dark places when other lights failed.\n\nFrodo held it up in Shelob's lair, and its light drove her back. Sam later used it against Shelob when she attacked Frodo. Sam also used it to pass the Two Watchers at the gate of the Tower of Cirith Ungol.\n\nIn the Sammath Naur the power of the Phial grew faint. Sam gave it back to Frodo, and the books do not tell its later fate.",
+  "film": "In the films Frodo raises the Phial in Shelob's lair, and Sam later uses it when he fights her.",
+  "series": "",
+  "facts": {
+   "Kind": "Crystal phial of starlight",
+   "Made by": "Galadriel",
+   "Owners": "Galadriel, Frodo Baggins, Samwise Gamgee",
+   "Fate": "Not stated after the Quest"
+  },
+  "places": [
+   {
+    "id": "FO017",
+    "role": "other",
+    "note": "Galadriel gives the Phial to Frodo before the Fellowship departs."
+   },
+   {
+    "id": "CA013",
+    "role": "other",
+    "note": "Frodo lifts the Phial against Shelob in her lair."
+   },
+   {
+    "id": "BU083",
+    "role": "other",
+    "note": "Sam uses the Phial to break the will of the Two Watchers at the tower gate."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:galadriel",
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:shelob",
+   "person:earendil",
+   "thing:mirror-of-galadriel",
+   "thing:silmarils"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II, Chapter 8 and Book IV"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:anduril",
+  "title": "Andúril",
+  "group": "Weapons and armour",
+  "kind": "Sword of the kings of Gondor, reforged Narsil",
+  "aka": [
+   "Flame of the West",
+   "Sword of Elendil",
+   "Narsil reforged",
+   "Sword that was Broken"
+  ],
+  "blurb": "The sword Narsil of Elendil, reforged in Rivendell and borne by Aragorn as Andúril, Flame of the West.",
+  "book": "Narsil was the sword of Elendil. Telchar of Nogrod made it in the First Age. Elendil carried it in the Last Alliance, and it broke beneath him when Sauron slew him.\n\nIsildur used a shard of it to cut the One Ring from Sauron's hand. The broken pieces were kept by Isildur's heirs for ages. They stayed in Rivendell with Elrond.\n\nBefore the Fellowship left Rivendell in T.A. 3018, Elven smiths forged the sword anew. Aragorn named it Andúril.\n\nAragorn bore it at Helm's Deep, in the Battle of the Pelennor Fields and at the Black Gate. Its fate after he became king is not stated.",
+  "film": "In the films Elrond brings the reforged sword to Aragorn at Dunharrow and urges him to take the Paths of the Dead.",
+  "series": "",
+  "facts": {
+   "Kind": "Sword",
+   "Made by": "Telchar (Narsil); Elven smiths of Rivendell (reforged)",
+   "Made in": "Nogrod; Rivendell",
+   "Owners": "Elendil, Isildur's line, Aragorn",
+   "Fate": "Borne by Aragorn as King Elessar"
+  },
+  "places": [
+   {
+    "id": "b:TO10",
+    "role": "made",
+    "note": "Telchar of Nogrod forges Narsil in the First Age."
+   },
+   {
+    "id": "battle:dagorlad",
+    "role": "other",
+    "note": "Narsil breaks beneath Elendil and Isildur cuts the Ring from Sauron with a shard."
+   },
+   {
+    "id": "TO084",
+    "role": "kept",
+    "note": "The shards are kept in Rivendell and reforged as Andúril in T.A. 3018."
+   },
+   {
+    "id": "battle:hornburg",
+    "role": "other",
+    "note": "Aragorn bears Andúril in the defence of Helm's Deep."
+   },
+   {
+    "id": "battle:pelennor",
+    "role": "other",
+    "note": "Aragorn leads the assault at the Pelennor Fields with Andúril."
+   },
+   {
+    "id": "battle:morannon",
+    "role": "other",
+    "note": "Aragorn bears Andúril in the last battle before the Black Gate."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:elendil",
+   "person:isildur",
+   "person:aragorn",
+   "person:elrond",
+   "person:telchar",
+   "person:sauron",
+   "thing:standard-of-elendil",
+   "thing:one-ring"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II, Chapter 2",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "thing:sting",
+  "title": "Sting",
+  "group": "Weapons and armour",
+  "kind": "Elvish short sword of the Hobbits",
+  "aka": [
+   "Elvish blade of Bilbo",
+   "Sting of Bilbo Baggins"
+  ],
+  "blurb": "An Elvish blade from the trolls' hoard that Bilbo named Sting; it glowed blue when Orcs were near.",
+  "book": "Sting was an Elvish knife made long before. Bilbo found it in the stone-trolls' lair in T.A. 2941. It was only a knife to the trolls, but a short sword to a Hobbit.\n\nBilbo named it Sting in Mirkwood, after he used it to kill spiders. The blade glowed with a blue light when Orcs were near.\n\nBilbo gave Sting to Frodo in Rivendell before the Fellowship set out. Frodo used it in Moria, in the Chamber of Mazarbul. Sam later took Sting when he thought Frodo was dead.\n\nSam used Sting to wound and drive off Shelob. Its fate after the end of the Third Age is not stated.",
+  "film": "In the films Bilbo gives Sting to Frodo in Rivendell. Frodo and Sam both use it against Shelob.",
+  "series": "",
+  "facts": {
+   "Kind": "Elvish short sword",
+   "Made by": "Elves, in an earlier age",
+   "Owners": "Bilbo, Frodo, Sam",
+   "Fate": "Not stated after T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "CA014",
+    "role": "found",
+    "note": "Bilbo finds the blade in the trolls' lair and takes it with him."
+   },
+   {
+    "id": "FO018",
+    "role": "other",
+    "note": "Bilbo names the blade Sting in the fight with the spiders."
+   },
+   {
+    "id": "TO084",
+    "role": "other",
+    "note": "Bilbo gives Sting to Frodo in Rivendell in T.A. 3018."
+   },
+   {
+    "id": "BU034",
+    "role": "other",
+    "note": "Frodo stabs a troll's foot with Sting in the Chamber of Mazarbul."
+   },
+   {
+    "id": "CA013",
+    "role": "other",
+    "note": "Sam wounds Shelob with the blade in her lair."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:bilbo-baggins",
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:shelob",
+   "thing:mithril-coat",
+   "thing:glamdring",
+   "thing:orcrist"
+  ],
+  "sources": [
+   "The Hobbit, Chapters 2 and 8",
+   "The Lord of the Rings, Book I and Book IV"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:glamdring",
+  "title": "Glamdring",
+  "group": "Weapons and armour",
+  "kind": "Elven sword of Gondolin, borne by Gandalf",
+  "aka": [
+   "Foe-hammer",
+   "Beater"
+  ],
+  "blurb": "The Elven sword from the trolls' hoard that Gandalf bore as Glamdring, called Beater by the Orcs.",
+  "book": "Glamdring was an Elven sword made in Gondolin in the First Age. It was one of three blades that Thorin's company and Gandalf found in the trolls' cave in T.A. 2941.\n\nGandalf took it, and Thorin took Orcrist. Elrond told them that the blades came from Gondolin. Glamdring had once belonged to the King of Gondolin. The Orcs called Glamdring Beater, because they hated and feared it.\n\nGandalf slew the Great Goblin with it. He bore Glamdring through the War of the Ring. He drew it in the Mines of Moria when the Balrog came, and fought on the Bridge of Khazad-dûm.\n\nAfter he returned as the White, he kept Glamdring.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Sword",
+   "Made by": "Elves of Gondolin",
+   "Owners": "The King of Gondolin (Turgon), then Gandalf",
+   "Fate": "Not stated"
+  },
+  "places": [
+   {
+    "id": "b:TO03",
+    "role": "made",
+    "note": "The Elves of Gondolin make Glamdring in the First Age."
+   },
+   {
+    "id": "CA014",
+    "role": "found",
+    "note": "Gandalf finds the sword in the stone-trolls' cave in T.A. 2941."
+   },
+   {
+    "id": "TO039",
+    "role": "other",
+    "note": "Gandalf slays the Great Goblin with Glamdring in Goblin-town."
+   },
+   {
+    "id": "BR003",
+    "role": "other",
+    "note": "Gandalf draws Glamdring against the Balrog on the Bridge of Khazad-dûm."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:gandalf",
+   "person:turgon",
+   "person:elrond",
+   "person:durins-bane",
+   "thing:orcrist",
+   "thing:sting"
+  ],
+  "sources": [
+   "The Hobbit, Chapters 2 and 3",
+   "The Lord of the Rings, Book II, Chapter 5"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:orcrist",
+  "title": "Orcrist",
+  "group": "Weapons and armour",
+  "kind": "Elven sword of Gondolin, borne by Thorin",
+  "aka": [
+   "Goblin-cleaver",
+   "Biter"
+  ],
+  "blurb": "The Elven sword from the trolls' hoard that Thorin bore, called Goblin-cleaver and laid on his tomb.",
+  "book": "Orcrist was an Elven sword made in Gondolin in the First Age. It was found with Glamdring in the trolls' cave in T.A. 2941. The Goblins called it Biter and hated it.\n\nThorin Oakenshield took Orcrist as his weapon and used it in the goblin tunnels. The Elves of Mirkwood took it from him when they captured the Dwarves, and the Elvenking kept it.\n\nThorin fell in the Battle of Five Armies. The Elvenking then laid Orcrist on Thorin's tomb under the Mountain. It was said to gleam in the dark when foes drew near, so the Dwarves could not be taken by surprise.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Sword",
+   "Made by": "Elves of Gondolin",
+   "Owners": "Thorin Oakenshield, then the Elvenking",
+   "Fate": "Laid on Thorin's tomb under the Lonely Mountain"
+  },
+  "places": [
+   {
+    "id": "b:TO03",
+    "role": "made",
+    "note": "The Elves of Gondolin make the blade in the First Age."
+   },
+   {
+    "id": "CA014",
+    "role": "found",
+    "note": "Thorin's company find the sword in the stone-trolls' cave."
+   },
+   {
+    "id": "TO031",
+    "role": "kept",
+    "note": "The Elvenking takes Orcrist from Thorin and keeps it in his halls."
+   },
+   {
+    "id": "MT029",
+    "role": "buried",
+    "note": "The Elvenking lays Orcrist on Thorin's tomb under the Mountain."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:thorin-oakenshield",
+   "person:thranduil",
+   "person:elrond",
+   "thing:glamdring",
+   "thing:sting",
+   "thing:arkenstone"
+  ],
+  "sources": [
+   "The Hobbit, Chapters 2, 3, 8 and 18"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:mithril-coat",
+  "title": "Mithril coat",
+  "group": "Weapons and armour",
+  "kind": "Shirt of mithril rings",
+  "aka": [
+   "Bilbo's mithril shirt",
+   "Mithril-coat",
+   "Dwarf-mail"
+  ],
+  "blurb": "A shirt of mithril rings that Thorin gave to Bilbo; Frodo wore it on the quest to Mordor.",
+  "book": "This was a small shirt of mithril rings. It had been made long before for some Elf-prince, and it shone like silver. Thorin gave it to Bilbo from the hoard of Erebor in T.A. 2941.\n\nGandalf thought it was worth more than the whole Shire. Bilbo lent it for a time to the Mathom-house at Michel Delving. In Rivendell he gave it to Frodo, who wore it under his clothes.\n\nThe coat saved Frodo's life in Moria when an Orc-chief speared him in the Chamber of Mazarbul.\n\nOrcs stripped it from Frodo in the Tower of Cirith Ungol. The Mouth of Sauron showed it at the Black Gate as a false token, and Gandalf took it. Frodo had it again later, and it turned Saruman's knife in the Shire.",
+  "film": "In the films the mithril coat saves Frodo from a cave troll in Moria.",
+  "series": "",
+  "facts": {
+   "Kind": "Mail shirt",
+   "Made by": "Not stated; made for an Elf-prince",
+   "Material": "Mithril",
+   "Owners": "The Dwarves of Erebor, Bilbo, Frodo",
+   "Fate": "Kept by Frodo after the Quest"
+  },
+  "places": [
+   {
+    "id": "MT029",
+    "role": "found",
+    "note": "Thorin gives Bilbo the coat from the treasure of Erebor."
+   },
+   {
+    "id": "BU069",
+    "role": "kept",
+    "note": "Bilbo lends the coat to the Mathom-house for a time."
+   },
+   {
+    "id": "TO084",
+    "role": "other",
+    "note": "Bilbo gives the coat to Frodo at Rivendell."
+   },
+   {
+    "id": "BU034",
+    "role": "other",
+    "note": "An Orc-chief's spear fails to pierce Frodo in the Chamber of Mazarbul."
+   },
+   {
+    "id": "FT025",
+    "role": "lost",
+    "note": "Orcs take the coat from Frodo in the tower."
+   },
+   {
+    "id": "battle:morannon",
+    "role": "other",
+    "note": "The Mouth of Sauron shows the coat at the Black Gate, and Gandalf takes it."
+   },
+   {
+    "id": "BU030",
+    "role": "other",
+    "note": "Saruman's knife breaks on the hidden mail at Bag End."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:bilbo-baggins",
+   "person:frodo-baggins",
+   "person:thorin-oakenshield",
+   "person:mouth-of-sauron",
+   "person:saruman",
+   "thing:mithril",
+   "thing:sting"
+  ],
+  "sources": [
+   "The Hobbit, Chapter 13",
+   "The Lord of the Rings, Book II, Book V and Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:black-arrow",
+  "title": "Black Arrow",
+  "group": "Weapons and armour",
+  "kind": "Heirloom arrow of the house of Girion",
+  "aka": [
+   "Last Black Arrow",
+   "Arrow of Bard",
+   "Bard's black arrow"
+  ],
+  "blurb": "The last black arrow of Girion's house, fired by Bard to slay Smaug in T.A. 2941.",
+  "book": "The Black Arrow was an heirloom of Bard's house, the line of Girion, Lord of Dale. Bard had it from his father, and his father from older days. Bard believed it came from the forges of the King under the Mountain.\n\nIt was the last arrow in his quiver. Bard held it when Smaug attacked Lake-town in T.A. 2941. A thrush told him of a bare place on the dragon's chest.\n\nBard fitted the arrow to his bow. He shot it into the weak place, and the arrow sank deep. Smaug died and fell on Lake-town.\n\nThe books do not say what became of the arrow.",
+  "film": "In the Hobbit films Bard fires the black arrow from a tower with his son Bain as a support.",
+  "series": "",
+  "facts": {
+   "Kind": "Heirloom arrow",
+   "Made by": "Not stated",
+   "Owners": "Girion's line, Bard",
+   "Fate": "Not stated after the shot"
+  },
+  "places": [
+   {
+    "id": "TO053",
+    "role": "other",
+    "note": "Bard fires the arrow from Lake-town and slays Smaug."
+   },
+   {
+    "id": "TO024",
+    "role": "other",
+    "note": "The arrow is an heirloom of the line of Girion of Dale."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:bard",
+   "person:smaug",
+   "person:roac",
+   "thing:necklace-of-girion"
+  ],
+  "sources": [
+   "The Hobbit, Chapter 14"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "thing:barrow-blades",
+  "title": "Barrow-blades",
+  "group": "Weapons and armour",
+  "kind": "Daggers of Westernesse",
+  "aka": [
+   "Daggers of Westernesse",
+   "Blades of Westernesse"
+  ],
+  "blurb": "Daggers of the Men of Westernesse taken from the Barrow-downs; Merry's blade helped to destroy the Witch-king.",
+  "book": "The Barrow-blades were long daggers made by the Men of Westernesse in the North Kingdom. They were forged long ago for the war against the evil realm of Angmar. They carried spells against its lord.\n\nA Barrow-wight caught the four hobbits on the Barrow-downs. Tom Bombadil freed them and brought out the treasure of the barrow. He chose a blade for each hobbit.\n\nFrodo struck at the Witch-king with his blade on Weathertop. It broke at the Ford of Bruinen when he raised it against the Riders. Merry stabbed the Witch-king with his blade on the Pelennor Fields. The blade helped Éowyn slay him, but it withered away.\n\nPippin used his blade to kill a troll at the Black Gate.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Daggers",
+   "Made by": "Men of Westernesse in Arnor",
+   "Owners": "Frodo, Sam, Merry, Pippin",
+   "Fate": "Frodo's blade broke at the Ford of Bruinen; Merry's withered away at the Pelennor Fields"
+  },
+  "places": [
+   {
+    "id": "HI011",
+    "role": "found",
+    "note": "Tom Bombadil takes the blades from the barrow and gives one to each hobbit."
+   },
+   {
+    "id": "HI052",
+    "role": "other",
+    "note": "Frodo strikes at the Witch-king with his blade on Weathertop."
+   },
+   {
+    "id": "FJ006",
+    "role": "destroyed",
+    "note": "Frodo's blade breaks when he raises it against the Riders at the ford."
+   },
+   {
+    "id": "battle:pelennor",
+    "role": "destroyed",
+    "note": "Merry stabs the Witch-king, and his blade withers away."
+   },
+   {
+    "id": "battle:morannon",
+    "role": "other",
+    "note": "Pippin slays a troll with his blade at the Black Gate."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:tom-bombadil",
+   "person:meriadoc-brandybuck",
+   "person:peregrin-took",
+   "person:witch-king",
+   "person:eowyn",
+   "person:frodo-baggins",
+   "person:samwise-gamgee"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I, Chapter 8 and Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:morgul-knife",
+  "title": "Morgul-knife",
+  "group": "Weapons and armour",
+  "kind": "Enchanted knife of the Witch-king",
+  "aka": [
+   "Morgul-blade",
+   "Witch-king's knife"
+  ],
+  "blurb": "The Witch-king's evil knife that wounded Frodo on Weathertop; its blade melted away and a splinter stayed in the wound.",
+  "book": "The Morgul-knife was a long, cruel knife of the Witch-king of Angmar. It was a weapon of the Nazgûl and worked with a dark spell.\n\nOn Weathertop in T.A. 3018, the Witch-king stabbed Frodo with it. The blade melted away. A splinter stayed inside the wound and worked its way toward the heart.\n\nThis sort of wound turned a victim into a wraith. Frodo was in great danger. Aragorn eased the pain with athelas.\n\nElrond drew out the splinter in Rivendell, and Frodo recovered. The wound still troubled Frodo on its anniversary for the rest of his days in Middle-earth.",
+  "film": "In the films Arwen carries the wounded Frodo to the Ford. In the book Glorfindel finds him, and Frodo rides alone across the Ford.",
+  "series": "",
+  "facts": {
+   "Kind": "Enchanted knife",
+   "Made by": "Not stated",
+   "Owners": "The Witch-king of Angmar",
+   "Fate": "Blade melted away on Weathertop"
+  },
+  "places": [
+   {
+    "id": "HI052",
+    "role": "other",
+    "note": "The Witch-king wounds Frodo with the knife on Weathertop."
+   },
+   {
+    "id": "battle:weathertop-3018",
+    "role": "other",
+    "note": "The Nazgûl attack the hobbits and Aragorn in this fight."
+   },
+   {
+    "id": "TO084",
+    "role": "other",
+    "note": "Elrond removes the splinter and heals Frodo in Rivendell."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:witch-king",
+   "person:frodo-baggins",
+   "person:aragorn",
+   "person:elrond",
+   "thing:athelas",
+   "thing:nine-rings"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I, Chapters 11 and 12"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "thing:grond-ram",
+  "title": "Grond",
+  "group": "Weapons and armour",
+  "kind": "Battering-ram of Mordor",
+  "aka": [],
+  "blurb": "The great battering-ram of Mordor, named after Morgoth's hammer, that broke the Gate of Minas Tirith in T.A. 3019.",
+  "book": "Grond was a great battering-ram carried by Sauron's armies to Minas Tirith. It was named after the mace of Morgoth, which was called the Hammer of the Underworld.\n\nThe ram was forged in the dark smithies of Mordor. It was shaped like a wolf's head and bound with spells of ruin. Many beasts dragged it forward on the road.\n\nThe Witch-king urged his troops to use it on the Great Gate of Minas Tirith. After three blows, the gates were broken.\n\nIt was in use only in the siege and in the Battle of the Pelennor Fields. The books do not say what became of it.",
+  "film": "The films show the ram Grond with a wolf's-head and Orcs hauling it up to the Gate.",
+  "series": "",
+  "facts": {
+   "Kind": "Battering-ram",
+   "Made by": "Sauron's servants in Mordor",
+   "Owners": "The armies of Sauron",
+   "Fate": "Not stated"
+  },
+  "places": [
+   {
+    "id": "realm:mordor",
+    "role": "made",
+    "note": "The ram is forged in the dark smithies of Mordor."
+   },
+   {
+    "id": "DO030",
+    "role": "other",
+    "note": "Grond breaks the Great Gate of Minas Tirith on the third stroke."
+   },
+   {
+    "id": "battle:pelennor",
+    "role": "other",
+    "note": "The assault comes in the Battle of the Pelennor Fields."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:witch-king",
+   "person:sauron",
+   "person:gothmog-of-minas-morgul",
+   "person:morgoth"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V, Chapter 4"
+  ],
+  "confidence": "medium"
+ }
+]

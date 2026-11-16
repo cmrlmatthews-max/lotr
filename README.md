@@ -40,15 +40,25 @@ The buttons below the title change the sheet. Search finds cards on both sheets.
 - **Accuracy.** The layout follows the distances that the books give (for example Dorthonion 60 leagues wide, Sirion 130 leagues long, Angband 150 leagues from Menegroth). A review agent compared the layout with the books, and I applied its corrections. Positions are still approximate.
 - **Cards.** 97 places, 27 realms and regions, 18 peoples, 22 battles, and 8 journeys (for example Beren and Lúthien, Túrin, Tuor, and the return of the Noldor). All eight routes are curves through the stage points.
 
+## Persons, things, and links
+
+- **Persons and creatures.** 259 cards: Hobbits, Men, Elves, Dwarves, Wizards, Valar, enemies, and named creatures of all ages.
+- **Things.** 62 cards: rings, jewels, weapons, seeing-stones, ships, books, heirlooms, and plants.
+- **Links.** Each person or thing card lists its places with the type of link, for example born, lived, ruled, fought, made, or died. When you open the card, the map marks these places in red and moves to show them. The map changes sheet if most of the places are on the other sheet. Places that are not on the two sheets (for example Valinor and Númenor) show as text.
+- **Reverse links.** Each place card lists the persons and things that link to it.
+- **Search.** The search box finds persons, things, places, realms, battles, and journeys on both sheets. It also finds other names, for example Strider or Mithrandir.
+- **New places.** 68 places that are not in the map data set have a label and a card (52 in Middle-earth, 16 in Beleriand), for example Buckland, the Westfold, the Gap of Rohan, and the Dry River. A plan agent set each position from the books and a review agent examined it. These positions are approximate.
+- **Files.** The cards are in `source/cards-lore/`. `master_people.json`, `master_things.json`, and `master_places.json` are the lists. `review_*.md` are the change logs of the review.
+
 ## Art and setting
 
-- **Card pictures.** 54 cards have a picture at the top. 30 are places (22 in Middle-earth, 8 in Beleriand). 12 are peoples, for example Hobbits, Rohirrim, Dwarves, Ents, Noldor, and Sindar. 12 are battles, for example the Hornburg, the Pelennor Fields, the Battle of Five Armies, and the Fall of Gondolin.
+- **Card pictures.** 78 cards have a picture at the top. 24 are things, for example the One Ring, the Arkenstone, Sting, and the Silmarils. Of the other 54: 30 are places (22 in Middle-earth, 8 in Beleriand). 12 are peoples, for example Hobbits, Rohirrim, Dwarves, Ents, Noldor, and Sindar. 12 are battles, for example the Hornburg, the Pelennor Fields, the Battle of Five Armies, and the Fall of Gondolin.
 - **Landmark drawings.** The 30 places with a picture also show a small sepia drawing on the map. 16 show at all distances. The other 14 show only when the view is near. The checkbox **Landmark drawings** hides them.
 - **Map ornaments.** Each sheet has a drawn border, corner ornaments, a compass rose, a title scroll, ships, and a sea serpent.
 - **Woodlands.** Forests have a low raised canopy. Small ink tree crowns fill each forest from edge to edge.
 - **Colors.** The sheet uses one sepia paper tone and one grey-brown ink tone. The sea has a faint grey tint and the forests have a faint olive tint. Red marks only battles, journeys, and the selected place. `scripts/regrade.py` makes `base_sepia.jpg` from `base.jpg`.
 - **Setting.** The sheet lies on a wooden table in warm light. The panels look like parchment. The app draws the table and the parchment with code.
-- **Source of the art.** Google Gemini made the 54 pictures and the 6 ornaments from text prompts written for this map. The prompts describe each place, people, or battle in plain words. They do not name a film, an actor, or an artist. `art/process.py` removes the paper background and makes the card pictures, the sepia map drawings, and the ornaments. The original Gemini images (63 MB) are not in this repo.
+- **Source of the art.** Google Gemini made the 78 pictures and the 6 ornaments from text prompts written for this map. The prompts describe each place, people, or battle in plain words. They do not name a film, an actor, or an artist. `art/process.py` removes the paper background and makes the card pictures, the sepia map drawings, and the ornaments. The original Gemini images (63 MB) are not in this repo.
 - **Accuracy.** The pictures are an impression. They do not show each place as the books describe it in every detail.
 
 ## How to read a card
@@ -58,7 +68,7 @@ The buttons below the title change the sheet. Search finds cards on both sheets.
 - **Series** text gives the same for *The Rings of Power*.
 - Each card shows a confidence level and where to read more.
 
-An AI model wrote the card text in its own words. A second model then examined each card and corrected errors. The change logs are in `source/cards/review_A.md` to `review_D.md` (Middle-earth) and `source/cards-beleriand/review_X.md` to `review_Z.md` (Beleriand). Errors are still possible. Cards with low confidence need a check against the books.
+An AI model wrote the card text in its own words. A second model then examined each card and corrected errors. For the 389 person, thing, and new-place cards, the review changed 324 cards and corrected 229 serious errors (a wrong fact, a wrong place link, or a film invention in the book text). The change logs are in `source/cards/review_A.md` to `review_D.md` (Middle-earth) and `source/cards-beleriand/review_X.md` to `review_Z.md` (Beleriand). Errors are still possible. Cards with low confidence need a check against the books.
 
 ## Map data and license
 
@@ -88,7 +98,9 @@ An AI model wrote the card text in its own words. A second model then examined e
 - The data set stops at straight lines in the east, the north, and the south-east. The map shows plain paper there.
 - The data set has borders for Gondor, Rohan, and Mordor only. Other realms show a name at their centre.
 - Some names in the data set do not come from the books. Their cards say this.
-- Card pictures exist for 54 of the 675 cards.
-- The file is about 16.5 MB. The first load can take some seconds.
+- Card pictures exist for 78 of the 1064 cards. Named persons have no picture.
+- 167 of the 321 person and thing cards have medium confidence, and 6 have low confidence. Check these against the books before you rely on them.
+- Film and series text is empty on many person and thing cards. The writers left it empty when they were not sure.
+- The file is about 19 MB. The first load can take some seconds.
 - Beleriand terrain is modelled, not measured. It is smoother than the Middle-earth terrain.
-- Not in this file yet: Númenor and Valinor.
+- Not in this file yet: map sheets for Númenor and Valinor. Persons and things from those lands have cards.

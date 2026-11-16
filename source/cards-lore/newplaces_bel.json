@@ -1,0 +1,515 @@
+[
+ {
+  "id": "b:NP001",
+  "title": "Amon Darthir",
+  "land": "bel",
+  "layer": "Mountains",
+  "tier": 3,
+  "x": 467.0,
+  "y": 812.0,
+  "kind": "Mountain of the Ered Wethrin",
+  "blurb": "Amon Darthir was a peak of the Mountains of Shadow, rising above the house of Húrin in Dor-lómin.",
+  "book": "Amon Darthir was one of the mountains of Ered Wethrin, the range that walled Dor-lómin on the south. It stood above the home of Húrin and Morwen.\n\nA stream rose from a spring beneath the mountain and ran down past the house. This was Nen Lalaith. The family of Húrin lived in its shadow until the Nirnaeth Arnoediad.\n\nAfter that war the Easterlings overran Dor-lómin. Morwen stayed on in the house, and she sent her son Túrin away to Doriath.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Dor-lómin",
+   "Location": "Ered Wethrin, south of the house of Húrin",
+   "Kind": "Mountain"
+  },
+  "related": [
+   "b:RG02",
+   "b:MT04",
+   "b:NP002",
+   "person:hurin",
+   "person:morwen",
+   "person:turin"
+  ],
+  "sources": [
+   "The Silmarillion, Of Túrin Turambar",
+   "Unfinished Tales, Narn i Hîn Húrin"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "b:NP002",
+  "title": "Nen Lalaith",
+  "land": "bel",
+  "layer": "Rivers",
+  "tier": 3,
+  "x": 470.0,
+  "y": 824.0,
+  "kind": "Stream of Dor-lómin",
+  "blurb": "Nen Lalaith was a stream in Dor-lómin that ran past the house of Húrin and Morwen.",
+  "book": "Nen Lalaith was a small stream in Dor-lómin. It rose from a spring on the slopes of Amon Darthir and passed close to the house of Húrin.\n\nThe name means Laughing Water. Túrin grew up beside it. His little sister Urwen was also called Lalaith, which means Laughter, but she died young of a plague.\n\nThe stream belongs to the happy early years of the family. Those years ended with the Nirnaeth Arnoediad and the Easterling conquest of Dor-lómin.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Sindarin": "Nen Lalaith",
+   "English": "Laughing Water"
+  },
+  "facts": {
+   "Realm": "Dor-lómin",
+   "Location": "Below Amon Darthir, beside the house of Húrin",
+   "Meaning": "Laughing Water"
+  },
+  "related": [
+   "b:RG02",
+   "b:NP001",
+   "person:turin",
+   "person:hurin",
+   "person:morwen"
+  ],
+  "sources": [
+   "The Silmarillion, Of Túrin Turambar",
+   "Unfinished Tales, Narn i Hîn Húrin"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "b:NP003",
+  "title": "Annon-in-Gelydh",
+  "land": "bel",
+  "layer": "Doors_Gates",
+  "tier": 3,
+  "x": 419.0,
+  "y": 877.0,
+  "kind": "Hidden gate of the Noldor in Dor-lómin",
+  "blurb": "Annon-in-Gelydh was a secret gate of the Noldor in the western hills of Dor-lómin, which Tuor found with the help of Ulmo.",
+  "book": "Annon-in-Gelydh was the Gate of the Noldor. It lay in the western hills of Dor-lómin, where a stream ran into the rock. The Noldor had made it long before, and it was kept secret from the servants of Morgoth.\n\nUlmo guided Tuor son of Huor to the gate. Tuor followed the stream through the dark tunnel and came out in Cirith Ninniach, the Rainbow Cleft, near the sea.\n\nFrom there Tuor went on to Nevrast. He later reached Gondolin by the secret road.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Sindarin": "Annon-in-Gelydh",
+   "English": "Gate of the Noldor"
+  },
+  "facts": {
+   "Realm": "Dor-lómin",
+   "Location": "Western hills of Dor-lómin",
+   "Meaning": "Gate of the Noldor"
+  },
+  "related": [
+   "b:RG02",
+   "b:VA02",
+   "b:TO03",
+   "person:tuor"
+  ],
+  "sources": [
+   "The Silmarillion, Of Tuor and his Coming to Gondolin",
+   "Unfinished Tales, Of Tuor and his Coming to Gondolin"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "b:NP004",
+  "title": "Caves of Androth",
+  "land": "bel",
+  "layer": "Cave_entrances",
+  "tier": 3,
+  "x": 477.0,
+  "y": 881.0,
+  "kind": "Caves in the hills of Mithrim",
+  "blurb": "The Caves of Androth were hill caves in Mithrim where Tuor lived among the Grey-elves after the Nirnaeth Arnoediad.",
+  "book": "Androth lay in the hills of Mithrim. After the Nirnaeth Arnoediad a few Grey-elves lived there in caves. Tuor, the son of Huor, was fostered among them as a child.\n\nHis foster-father there was the elf Annael. Tuor grew up in the care of this small band.\n\nWhen Tuor was sixteen, the Easterlings captured him, and he served as a thrall for three years. He escaped and lived as an outlaw in the hills. Then Ulmo sent him to the hidden gate of the Noldor.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Mithrim",
+   "Location": "Hills of Mithrim",
+   "Kind": "Cave dwelling of Grey-elves"
+  },
+  "related": [
+   "b:RG03",
+   "b:MT05",
+   "b:NP003",
+   "person:tuor",
+   "person:huor"
+  ],
+  "sources": [
+   "The Silmarillion, Of Tuor and his Coming to Gondolin",
+   "Unfinished Tales, Of Tuor and his Coming to Gondolin"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "b:NP005",
+  "title": "Dry River",
+  "land": "bel",
+  "layer": "Rivers",
+  "tier": 3,
+  "x": 669.0,
+  "y": 714.0,
+  "kind": "Dry bed of the hidden way to Gondolin",
+  "blurb": "The Dry River was an empty stream-bed near the Brithiach that led Voronwë and Tuor toward the hidden gate of Gondolin.",
+  "book": "The Dry River was the bed of an old stream that no longer carried water. Long ago it had flowed out of the vale of Tumladen toward the river Sirion, close to the ford of Brithiach.\n\nIts channel gave a hidden path into the land of Gondolin. The people of Turgon kept the way secret.\n\nThe Elf Voronwë led Tuor along it to the hidden gate. Beyond lay Orfalch Echor, the great ravine of the seven gates that led into Tumladen.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Hidden Realm of Gondolin",
+   "Location": "Near the Brithiach, on the way to Orfalch Echor",
+   "Kind": "Dry river-bed"
+  },
+  "related": [
+   "b:DO01",
+   "b:FJ01",
+   "b:TO03",
+   "b:RG26",
+   "person:tuor",
+   "person:voronwe"
+  ],
+  "sources": [
+   "The Silmarillion, Of Tuor and his Coming to Gondolin",
+   "Unfinished Tales, Of Tuor and his Coming to Gondolin"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "b:NP006",
+  "title": "Cairn of Fingolfin",
+  "land": "bel",
+  "layer": "Graves_Tombs",
+  "tier": 3,
+  "x": 700.0,
+  "y": 771.0,
+  "kind": "Cairn of the High King of the Noldor",
+  "blurb": "Turgon raised a cairn on a mountain north of Gondolin over the body of his father Fingolfin.",
+  "book": "Fingolfin, High King of the Noldor, fought Morgoth in single combat before the gates of Angband. He wounded the Dark Lord seven times, but he was slain.\n\nThorondor, King of the Eagles, rescued his body. He bore it north of Gondolin to a high peak of the mountains that surround the hidden city.\n\nTurgon, the son of Fingolfin, laid his father there and raised a cairn. The servants of Morgoth never dared to disturb it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Hidden Realm of Gondolin",
+   "Location": "Peak on the north of the Encircling Mountains",
+   "Kind": "Cairn"
+  },
+  "related": [
+   "person:fingolfin",
+   "person:turgon",
+   "person:thorondor",
+   "b:battle:duel-fingolfin-morgoth",
+   "b:TO03",
+   "b:NP007"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Ruin of Beleriand and the Fall of Fingolfin"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "b:NP007",
+  "title": "Cairn of Glorfindel",
+  "land": "bel",
+  "layer": "Graves_Tombs",
+  "tier": 3,
+  "x": 717.0,
+  "y": 780.0,
+  "kind": "Cairn of the lord of the Golden Flower",
+  "blurb": "A cairn stood beside Cirith Thoronath over Glorfindel, who died fighting a Balrog during the escape from Gondolin.",
+  "book": "Glorfindel was a lord of Gondolin. In the fall of the city he helped the refugees of Tuor and Idril to escape over the mountains.\n\nAt Cirith Thoronath, the Cleft of the Eagles, a Balrog attacked the company. Glorfindel fought it on a narrow ledge. Both fell from the height.\n\nThorondor brought up his body from the abyss. The refugees buried him in a mound of stones beside the pass, and green turf later grew on it. They then passed on toward the Sirion.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Hidden Realm of Gondolin",
+   "Location": "Beside Cirith Thoronath, in the northern mountains",
+   "Kind": "Cairn"
+  },
+  "related": [
+   "person:glorfindel",
+   "person:thorondor",
+   "b:VA07",
+   "b:battle:fall-of-gondolin",
+   "person:idril",
+   "person:tuor"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Fall of Gondolin"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "b:NP008",
+  "title": "Stone of the Hapless",
+  "land": "bel",
+  "layer": "Graves_Tombs",
+  "tier": 2,
+  "x": 588.0,
+  "y": 649.0,
+  "kind": "Grave of Túrin and Nienor",
+  "blurb": "The Stone of the Hapless stood on the mound of Túrin above Cabed-en-Aras. It also bore the name of his sister Nienor.",
+  "book": "Túrin Turambar killed the dragon Glaurung at Cabed-en-Aras, a gorge of the river Teiglin. Soon after, Nienor learned that her husband was her own brother. She leapt into the gorge, and the river took her.\n\nTúrin then took his own life on his sword Gurthang. He was laid in a high mound, and a great grey stone was set upon it.\n\nThe stone bore the names of Túrin and of Nienor, but her body was never found. Later Húrin came to the place and found Morwen there. She died beside the stone.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Brethil",
+   "Location": "Above the gorge of Cabed-en-Aras",
+   "Kind": "Grave mound and stone"
+  },
+  "related": [
+   "b:VA01",
+   "b:battle:slaying-of-glaurung",
+   "person:turin",
+   "person:nienor",
+   "person:hurin",
+   "person:morwen"
+  ],
+  "sources": [
+   "The Silmarillion, Of Túrin Turambar",
+   "Unfinished Tales, Narn i Hîn Húrin"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "b:NP009",
+  "title": "Celebros",
+  "land": "bel",
+  "layer": "Rivers",
+  "tier": 3,
+  "x": 607.0,
+  "y": 666.0,
+  "kind": "Stream of Brethil",
+  "blurb": "The Celebros was a stream in Brethil that fell over Nen Girith and flowed into the Teiglin.",
+  "book": "The Celebros rose in the forest of Brethil and ran down its high ground. It fell in a waterfall called Nen Girith and joined the river Teiglin.\n\nThe forest of Brethil was home to the Haladin, the people of Haleth.\n\nWhen Níniel first came to Nen Girith, a sudden shuddering came upon her. Later Túrin and the men of Brethil watched for Glaurung from the falls before they went down to Cabed-en-Aras.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Brethil",
+   "Location": "Brethil, above the Teiglin",
+   "Kind": "Stream"
+  },
+  "related": [
+   "b:FA01",
+   "b:FO04",
+   "b:RI03",
+   "b:TO08",
+   "b:VA01"
+  ],
+  "sources": [
+   "The Silmarillion, Of Túrin Turambar"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "b:NP010",
+  "title": "Haudh-en-Arwen",
+  "land": "bel",
+  "layer": "Graves_Tombs",
+  "tier": 3,
+  "x": 622.0,
+  "y": 681.0,
+  "kind": "Grave mound of Haleth",
+  "blurb": "Haudh-en-Arwen, the Ladybarrow, was the green mound of Haleth, chieftain of the Haladin, in the heights of Brethil.",
+  "book": "Haleth was a woman who led the Haladin, a people of Men. She defended them against the orcs and later brought them to the forest of Brethil.\n\nWhen she died, her people buried her in a green mound in the heights of the forest. It was called Haudh-en-Arwen, the Ladybarrow.\n\nThe Haladin dwelt in Brethil for many years after her death.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Sindarin": "Haudh-en-Arwen",
+   "English": "Ladybarrow"
+  },
+  "facts": {
+   "Realm": "Brethil",
+   "Location": "Heights of Brethil",
+   "Kind": "Grave mound"
+  },
+  "related": [
+   "person:haleth",
+   "b:FO04",
+   "b:TO08",
+   "b:GR02"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Coming of Men into the West",
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "b:NP011",
+  "title": "Hírilorn",
+  "land": "bel",
+  "layer": "Forests",
+  "tier": 3,
+  "x": 739.0,
+  "y": 646.0,
+  "kind": "Great beech of Neldoreth",
+  "blurb": "Hírilorn was the greatest beech of Neldoreth, where Thingol shut Lúthien in a house high in its branches.",
+  "book": "Hírilorn was a huge beech in the forest of Neldoreth. It had three trunks and stood in Doriath.\n\nThingol wished to keep Lúthien from Beren and from danger. He had a house built high in the tree, and he set her there.\n\nLúthien escaped. She made a cloak from her own hair, and it lulled her guards to sleep. She came down from the tree and went to find Beren.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Doriath",
+   "Location": "Neldoreth",
+   "Kind": "Great beech tree"
+  },
+  "related": [
+   "b:FO01",
+   "b:RG07",
+   "person:luthien",
+   "person:thingol",
+   "person:beren",
+   "person:melian"
+  ],
+  "sources": [
+   "The Silmarillion, Of Beren and Lúthien"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "b:NP012",
+  "title": "Girdle of Melian",
+  "land": "bel",
+  "layer": "Walls",
+  "tier": 2,
+  "x": 790.0,
+  "y": 696.0,
+  "kind": "Magic fence around Doriath",
+  "blurb": "The Girdle of Melian was an unseen wall of enchantment that kept enemies out of Doriath.",
+  "book": "Melian was a Maia and the queen of Doriath. She wove a magic round Neldoreth and Region. This was the Girdle of Melian.\n\nNo creature could pass it against the will of Melian or Thingol. It kept Morgoth and his servants away from Doriath for many years.\n\nThe Girdle failed after Thingol was killed and Melian left Middle-earth. The Dwarves then sacked Menegroth.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Doriath",
+   "Location": "Border of Doriath; northern edge shown",
+   "Built by": "Melian"
+  },
+  "related": [
+   "b:RG07",
+   "b:FO01",
+   "b:TO01",
+   "person:melian",
+   "person:thingol",
+   "b:battle:sack-of-menegroth"
+  ],
+  "sources": [
+   "The Silmarillion, Of Thingol and Melian",
+   "The Silmarillion, Of the Ruin of Doriath"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "b:NP013",
+  "title": "Little Gelion",
+  "land": "bel",
+  "layer": "Rivers",
+  "tier": 3,
+  "x": 1045.0,
+  "y": 788.0,
+  "kind": "Western arm of Gelion",
+  "blurb": "Little Gelion was the western arm of the river Gelion, rising in the hills of Himring.",
+  "book": "The great river Gelion in East Beleriand had two sources. Little Gelion was the western one.\n\nIt came down from the hills near the fortress of Himring. Himring was held by Maedhros, son of Fëanor.\n\nThe two arms of Gelion met and flowed south as one river. Gelion then reached the land of Ossiriand.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Location": "Hills of Himring, East Beleriand",
+   "Kind": "River"
+  },
+  "related": [
+   "b:RI08",
+   "b:FT04",
+   "b:NP014",
+   "b:RG16"
+  ],
+  "sources": [
+   "The Silmarillion, Of Beleriand and its Realms"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "b:NP014",
+  "title": "Greater Gelion",
+  "land": "bel",
+  "layer": "Rivers",
+  "tier": 3,
+  "x": 1142.0,
+  "y": 792.0,
+  "kind": "Eastern arm of Gelion",
+  "blurb": "Greater Gelion was the eastern arm of the river Gelion, rising on Mount Rerir.",
+  "book": "Greater Gelion was the larger and more eastern source of the river Gelion. It rose on the slopes of Mount Rerir.\n\nThe river ran west and south. It joined Little Gelion, the western arm, and became the single stream of Gelion.\n\nMount Rerir stood above Lake Helevorn in Thargelion. Caranthir, son of Fëanor, dwelt in that land.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Location": "Mount Rerir, East Beleriand",
+   "Kind": "River"
+  },
+  "related": [
+   "b:RI08",
+   "b:MT12",
+   "b:NP013",
+   "b:LA02",
+   "b:RG15",
+   "person:caranthir"
+  ],
+  "sources": [
+   "The Silmarillion, Of Beleriand and its Realms"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "b:NP015",
+  "title": "Dor Firn-i-Guinar",
+  "land": "bel",
+  "layer": "Fields",
+  "tier": 3,
+  "x": 1157.0,
+  "y": 288.0,
+  "kind": "Land where Beren and Lúthien lived again",
+  "blurb": "Dor Firn-i-Guinar was the name of the land in Ossiriand around Tol Galen where Beren and Lúthien lived after their return.",
+  "book": "Beren died after taking the Silmaril from Morgoth. Lúthien followed him to Mandos and moved the Vala Mandos with her song. Both were allowed to return to life, and Lúthien became mortal.\n\nThey made their home in Ossiriand near Tol Galen, the Green Isle. The land was called Dor Firn-i-Guinar, the Land of the Dead that Live. Their son Dior was born there.\n\nBeren later took the Nauglamír with the Silmaril from the Dwarves at Sarn Athrad. Lúthien wore it in this land, and after their deaths it passed to Dior.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Sindarin": "Dor Firn-i-Guinar",
+   "English": "Land of the Dead that Live"
+  },
+  "facts": {
+   "Realm": "Ossiriand",
+   "Location": "Southern Ossiriand, around Tol Galen",
+   "Meaning": "Land of the Dead that Live"
+  },
+  "related": [
+   "b:IS02",
+   "b:RG16",
+   "b:FJ03",
+   "person:beren",
+   "person:luthien",
+   "person:dior",
+   "thing:silmarils"
+  ],
+  "sources": [
+   "The Silmarillion, Of Beren and Lúthien"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "b:NP016",
+  "title": "Dor-Cúarthol",
+  "land": "bel",
+  "layer": "Fields",
+  "tier": 3,
+  "x": 562.0,
+  "y": 605.0,
+  "kind": "Land held by Túrin and Beleg",
+  "blurb": "Dor-Cúarthol was the Land of Bow and Helm, held by Túrin and Beleg from their stronghold on Amon Rûdh.",
+  "book": "After Túrin left Doriath, he joined a band of outlaws and became their leader. Beleg Cúthalion found him and later came back to join his company.\n\nThey made their base on Amon Rûdh. From there they defended the nearby country against orcs. This land took the name Dor-Cúarthol, the Land of Bow and Helm, after the bow of Beleg and the helm of Túrin.\n\nThe outlaws lived at the hill with the Petty-dwarf Mîm. Mîm later betrayed their hiding place to the orcs.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Sindarin": "Dor-Cúarthol",
+   "English": "Land of Bow and Helm"
+  },
+  "facts": {
+   "Location": "Around Amon Rûdh",
+   "Meaning": "Land of Bow and Helm"
+  },
+  "related": [
+   "b:HI03",
+   "b:battle:fall-of-bar-en-danwedh",
+   "person:turin",
+   "person:beleg",
+   "person:mim",
+   "thing:dragon-helm"
+  ],
+  "sources": [
+   "The Silmarillion, Of Túrin Turambar"
+  ],
+  "confidence": "medium"
+ }
+]

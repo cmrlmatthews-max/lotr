@@ -1,0 +1,1076 @@
+[
+ {
+  "id": "person:hamfast-gamgee",
+  "title": "Hamfast Gamgee",
+  "group": "Hobbits",
+  "kind": "Gardener of Bag End, Sam's father",
+  "aka": [
+   "the Gaffer",
+   "Gaffer Gamgee",
+   "Ham Gamgee"
+  ],
+  "blurb": "Hamfast Gamgee, called the Gaffer, was the gardener of Bag End and the father of Samwise Gamgee.",
+  "book": "The Gaffer was an old gardener of Hobbiton. He worked for Bilbo Baggins at Bag End for many years and lived nearby in Bagshot Row.\n\nHe was proud of his trade and of his son Sam, whom he taught gardening. He liked to give opinions on his neighbours and on Bilbo's odd ways. He distrusted Elves, dragons and anything that came from beyond the Shire.\n\nIn T.A. 3001 he talked with his neighbours at the Ivy Bush about Bilbo's party. In T.A. 3018 Sam left home to follow Frodo, and the Gaffer stayed behind.\n\nWhile the ruffians ruled the Shire in T.A. 3019, Bagshot Row was torn down and the Gaffer was turned out of his home. The hobbits restored Bagshot Row after the Scouring of the Shire, and he returned to it.",
+  "film": "The Gaffer appears briefly in The Fellowship of the Ring, played by Norman Forsey. The Scouring of the Shire is not filmed.",
+  "series": "",
+  "facts": {
+   "Race": "Hobbit",
+   "Children": "Samwise Gamgee and others",
+   "Realm or home": "Bagshot Row, Hobbiton"
+  },
+  "places": [
+   {
+    "id": "RD004",
+    "role": "lived",
+    "note": "Lives in Bagshot Row below Bag End."
+   },
+   {
+    "id": "BU030",
+    "role": "other",
+    "note": "Tends the garden of Bag End for Bilbo and then Frodo."
+   },
+   {
+    "id": "BU005",
+    "role": "other",
+    "note": "Speaks with his neighbours at the Ivy Bush about Bilbo's affairs in T.A. 3001."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:samwise-gamgee",
+   "person:bilbo-baggins",
+   "person:frodo-baggins",
+   "person:ted-sandyman"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I",
+   "The Lord of the Rings, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:rose-cotton",
+  "title": "Rose Cotton",
+  "group": "Hobbits",
+  "kind": "Hobbit lass of Bywater, Sam's wife",
+  "aka": [
+   "Rosie",
+   "Rosie Cotton"
+  ],
+  "blurb": "Rose Cotton, called Rosie, was a hobbit of Bywater who became the wife of Samwise Gamgee in T.A. 3020.",
+  "book": "Rose Cotton was the daughter of Farmer Cotton of Bywater. She grew up in the Shire as a friend of the Gamgee family.\n\nSam cared for her before the quest began. During the long journey he thought of her more than once when he longed for home.\n\nAfter the Scouring of the Shire, Sam and Rose married in the spring of T.A. 3020 (Shire Reckoning 1420). They went to live at Bag End, which Frodo left in their care.\n\nThey had thirteen children. The eldest was Elanor. Rose died at Bag End in S.R. 1482 (Fo.A. 61). After her death Sam left the Shire for the Grey Havens.",
+  "film": "Rosie appears in The Fellowship of the Ring and The Return of the King, played by Sarah McLeod. The film shows Sam looking at her at Bilbo's party. It shows their wedding at the end.",
+  "series": "",
+  "facts": {
+   "Race": "Hobbit",
+   "Parents": "Tolman Cotton",
+   "Spouse": "Samwise Gamgee",
+   "Children": "Elanor and twelve others",
+   "Realm or home": "Bywater, then Bag End",
+   "Died": "Fo.A. 61 (S.R. 1482)"
+  },
+  "places": [
+   {
+    "id": "TO016",
+    "role": "lived",
+    "note": "Grows up in Bywater as a daughter of Farmer Cotton."
+   },
+   {
+    "id": "BU030",
+    "role": "lived",
+    "note": "Lives at Bag End with Sam from T.A. 3020 until her death in Fo.A. 61."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:samwise-gamgee",
+   "person:tolman-cotton",
+   "person:elanor-gamgee",
+   "person:frodo-baggins"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book VI",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:tolman-cotton",
+  "title": "Tolman Cotton",
+  "group": "Hobbits",
+  "kind": "Farmer of Bywater, father of Rose",
+  "aka": [
+   "Farmer Cotton",
+   "Tom Cotton"
+  ],
+  "blurb": "Tolman Cotton, called Farmer Cotton, was a farmer of Bywater who led resistance to the ruffians in T.A. 3019.",
+  "book": "Tolman Cotton farmed land near Bywater in the Shire. He was the father of Rose Cotton, who later married Samwise Gamgee.\n\nWhen Lotho's ruffians took over the Shire, Farmer Cotton refused to give way. He and his sons kept watch and welcomed Frodo and his friends when they came home in T.A. 3019.\n\nHe told them how bad the Shire had become and joined the hobbits who rose against the ruffians. He fought in the Battle of Bywater, where the hobbits won.\n\nAfter the war he became the father-in-law of Sam Gamgee.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Hobbit",
+   "Children": "Rose Cotton and others",
+   "Realm or home": "Bywater, the Shire"
+  },
+  "places": [
+   {
+    "id": "TO016",
+    "role": "lived",
+    "note": "Farms near Bywater and hosts the returning hobbits in T.A. 3019."
+   },
+   {
+    "id": "battle:bywater",
+    "role": "fought",
+    "note": "Fights with the hobbits who drive out the ruffians in T.A. 3019."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:rose-cotton",
+   "person:samwise-gamgee",
+   "person:frodo-baggins",
+   "person:lotho-sackville-baggins"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:fredegar-bolger",
+  "title": "Fredegar Bolger",
+  "group": "Hobbits",
+  "kind": "Hobbit friend of Frodo, left as decoy",
+  "aka": [
+   "Fatty Bolger",
+   "Fatty"
+  ],
+  "blurb": "Fredegar Bolger, called Fatty, was Frodo's plump friend who stayed at Crickhollow to pose as him in T.A. 3018.",
+  "book": "Fredegar Bolger was a hobbit of Budgeford in the Eastfarthing and a friend of Frodo Baggins. He was known as Fatty because of his round shape.\n\nHe knew of Frodo's plan to leave the Shire, but he did not go on the quest. He stayed at Crickhollow to keep up the pretence that Frodo still lived there.\n\nBlack Riders came to the house at night after the others had left. Fatty fled to a neighbour, and the Horn-call of Buckland was sounded.\n\nWhen the ruffians held the Shire, he led a band of rebels in the hills near Brockenbores. The ruffians caught him and shut him in the Lockholes. He was freed after the Scouring, thin and weak.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Hobbit",
+   "Realm or home": "Budgeford in Bridgefields"
+  },
+  "places": [
+   {
+    "id": "TO015",
+    "role": "lived",
+    "note": "Home of the Bolgers of Budgeford in the Eastfarthing."
+   },
+   {
+    "id": "TO022",
+    "role": "other",
+    "note": "Stays at Crickhollow as a decoy and flees when the Black Riders come."
+   },
+   {
+    "id": "NP046",
+    "role": "other",
+    "note": "Flees the Riders, and the Bucklanders are roused by the horn-call."
+   },
+   {
+    "id": "CA003",
+    "role": "other",
+    "note": "Leads a band of hobbit rebels near Brockenbores until the ruffians take him."
+   },
+   {
+    "id": "BU067",
+    "role": "other",
+    "note": "Held prisoner in the Lockholes and freed after the Scouring."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:frodo-baggins",
+   "person:meriadoc-brandybuck",
+   "person:peregrin-took",
+   "person:samwise-gamgee"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I",
+   "The Lord of the Rings, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:lobelia-sackville-baggins",
+  "title": "Lobelia Sackville-Baggins",
+  "group": "Hobbits",
+  "kind": "Grasping cousin of Bilbo Baggins",
+  "aka": [
+   "Lobelia Bracegirdle",
+   "Mrs. Sackville-Baggins"
+  ],
+  "blurb": "Lobelia Sackville-Baggins was Bilbo's grasping cousin who wanted Bag End and became its owner in T.A. 3018.",
+  "book": "Lobelia was born a Bracegirdle. She was the wife of Otho Sackville-Baggins and the mother of Lotho. She and Otho long hoped to inherit Bag End from their cousin Bilbo.\n\nIn T.A. 2941 Bilbo came home from his journey to find his goods being sold, and Lobelia was among the buyers. In T.A. 3001 Bilbo left Bag End to Frodo. When Frodo sold Bag End in T.A. 3018, Lobelia and Lotho bought it.\n\nWhen the ruffians ruled the Shire, Lobelia was an old woman. She went at their leader with her umbrella, and they shut her in the Lockholes.\n\nShe was freed after the Scouring and went to live with her Bracegirdle kin. She left Bag End to Frodo and her money to help homeless hobbits. She died in the spring of T.A. 3020.",
+  "film": "Lobelia appears in The Fellowship of the Ring, played by Elizabeth Moody. She is shown as a grasping relative who tries to take spoons from Bag End.",
+  "series": "",
+  "facts": {
+   "Race": "Hobbit",
+   "Spouse": "Otho Sackville-Baggins",
+   "Children": "Lotho Sackville-Baggins",
+   "Realm or home": "Bag End, Hobbiton",
+   "Died": "T.A. 3020"
+  },
+  "places": [
+   {
+    "id": "BU030",
+    "role": "lived",
+    "note": "Takes over Bag End after buying it from Frodo in T.A. 3018."
+   },
+   {
+    "id": "BU067",
+    "role": "other",
+    "note": "Shut in the Lockholes by the ruffians after attacking them with her umbrella."
+   },
+   {
+    "id": "TO050",
+    "role": "other",
+    "note": "Is seized by the ruffians in Hobbiton in T.A. 3019."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:lotho-sackville-baggins",
+   "person:frodo-baggins",
+   "person:bilbo-baggins",
+   "person:samwise-gamgee"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I",
+   "The Lord of the Rings, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:lotho-sackville-baggins",
+  "title": "Lotho Sackville-Baggins",
+  "group": "Hobbits",
+  "kind": "Hobbit who made himself Chief of the Shire",
+  "aka": [
+   "Pimple",
+   "the Boss"
+  ],
+  "blurb": "Lotho Sackville-Baggins, called Pimple, bought up much of the Shire and became a puppet ruler under Saruman in T.A. 3018-3019.",
+  "book": "Lotho was the son of Otho and Lobelia Sackville-Baggins. He grew rich by buying land, mills and pipe-weed in the Shire.\n\nIn T.A. 3018 and 3019 he called himself Chief Shirriff, and later just the Chief. He brought in ruffians from outside to enforce new rules, and he was a tool of Saruman.\n\nSaruman soon took the real power, calling himself Sharkey. Lotho was kept a prisoner.\n\nThe hobbits believed Lotho still lived until after the Battle of Bywater. At Bag End Saruman then revealed that Gríma Wormtongue had killed him.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Hobbit",
+   "Parents": "Otho and Lobelia Sackville-Baggins",
+   "Realm or home": "Hobbiton, the Shire",
+   "Died": "T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "TO050",
+    "role": "lived",
+    "note": "Buys up property and mills around Hobbiton before seizing control of the Shire."
+   },
+   {
+    "id": "BU030",
+    "role": "died",
+    "note": "Lives at Bag End as Chief and is killed there by Gríma."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:lobelia-sackville-baggins",
+   "person:saruman",
+   "person:grima",
+   "person:ted-sandyman"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:farmer-maggot",
+  "title": "Farmer Maggot",
+  "group": "Hobbits",
+  "kind": "Farmer of Bamfurlong in the Marish",
+  "aka": [
+   "Maggot",
+   "Mr. Maggot"
+  ],
+  "blurb": "Farmer Maggot lived at Bamfurlong in the Marish and helped Frodo reach Buckland in T.A. 3018.",
+  "book": "Farmer Maggot was a sturdy hobbit who farmed the rich fields of Bamfurlong in the Marish of the Eastfarthing. He was known for his mushrooms and his fierce dogs.\n\nFrodo had stolen from his fields as a boy, and Frodo feared him. In T.A. 3018 Frodo and his friends came to his farm, and the farmer showed them only kindness.\n\nHe told them that a black-cloaked rider had asked about Baggins. He gave them a basket of mushrooms and drove them in his wagon through the dusk toward Bucklebury Ferry.",
+  "film": "Farmer Maggot appears in The Fellowship of the Ring, played by Cameron Rhodes. The film shows Merry and Pippin stealing his crops, and he chases them with his dogs.",
+  "series": "",
+  "facts": {
+   "Race": "Hobbit",
+   "Realm or home": "Bamfurlong, the Marish"
+  },
+  "places": [
+   {
+    "id": "NP001",
+    "role": "lived",
+    "note": "Farms Bamfurlong and welcomes Frodo's party there in T.A. 3018."
+   },
+   {
+    "id": "NP002",
+    "role": "travelled",
+    "note": "Drives the hobbits in his wagon to Bucklebury Ferry."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:peregrin-took",
+   "person:meriadoc-brandybuck"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:drogo-baggins",
+  "title": "Drogo Baggins",
+  "group": "Hobbits",
+  "kind": "Hobbit, father of Frodo Baggins",
+  "aka": [],
+  "blurb": "Drogo Baggins was Frodo's father, who drowned in the Brandywine in T.A. 2980 together with Primula.",
+  "book": "Drogo Baggins was a hobbit of the Baggins family and a cousin of Bilbo. He married Primula Brandybuck, a daughter of the Brandybuck family of Buckland.\n\nTheir only child was Frodo, born in T.A. 2968. Drogo and Primula were drowned in the River Brandywine in T.A. 2980, after a boating trip near Brandy Hall.\n\nFrodo was twelve years old and became an orphan. He grew up at Brandy Hall until Bilbo adopted him as his heir.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Hobbit",
+   "Died": "T.A. 2980",
+   "Spouse": "Primula Brandybuck",
+   "Children": "Frodo Baggins"
+  },
+  "places": [
+   {
+    "id": "RI006",
+    "role": "died",
+    "note": "Drowns in the Brandywine in T.A. 2980 with his wife Primula."
+   },
+   {
+    "id": "BU032",
+    "role": "other",
+    "note": "The couple go boating from Brandy Hall on the day they drown."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:primula-brandybuck",
+   "person:frodo-baggins",
+   "person:bilbo-baggins"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue and Appendix B"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:primula-brandybuck",
+  "title": "Primula Brandybuck",
+  "group": "Hobbits",
+  "kind": "Brandybuck lady, mother of Frodo",
+  "aka": [],
+  "blurb": "Primula Brandybuck was Frodo's mother, who drowned in the Brandywine in T.A. 2980 together with Drogo.",
+  "book": "Primula was a daughter of Gorbadoc Brandybuck, Master of Buckland, and Mirabella Took. She married Drogo Baggins, a cousin of Bilbo.\n\nTheir son Frodo was born in T.A. 2968. Primula and Drogo drowned together in the Brandywine in T.A. 2980, when Frodo was twelve.\n\nAfter their deaths Frodo lived with his Brandybuck kin at Brandy Hall. Later Bilbo adopted him and brought him to Bag End.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Hobbit",
+   "Died": "T.A. 2980",
+   "Spouse": "Drogo Baggins",
+   "Children": "Frodo Baggins",
+   "Realm or home": "Brandy Hall, Buckland",
+   "Parents": "Gorbadoc Brandybuck and Mirabella Took"
+  },
+  "places": [
+   {
+    "id": "BU032",
+    "role": "lived",
+    "note": "Belongs to the Brandybuck family of Brandy Hall."
+   },
+   {
+    "id": "RI006",
+    "role": "died",
+    "note": "Drowns in the Brandywine in T.A. 2980 with Drogo."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:drogo-baggins",
+   "person:frodo-baggins",
+   "person:saradoc-brandybuck",
+   "person:meriadoc-brandybuck"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue and Appendix B"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:paladin-took",
+  "title": "Paladin Took",
+  "group": "Hobbits",
+  "kind": "Thain of the Shire, father of Pippin",
+  "aka": [
+   "Paladin II",
+   "the Thain"
+  ],
+  "blurb": "Paladin Took was Thain of the Shire in the time of the War of the Ring and father of Peregrin.",
+  "book": "Paladin Took was the Thain of the Shire, head of the Took family in the Tookland of the Westfarthing. He was the father of Peregrin, called Pippin.\n\nHe lived at the Great Smials in Tuckborough. He and his wife Eglantine had four children: Pippin, Pimpernel, Pervinca and Pearl.\n\nWhen the ruffians took over the Shire, the Tooks refused to obey them. They kept the ruffians out of Tookland, and the Thain led his people.\n\nPippin and Merry later raised the Shire, and the Tooks joined the Battle of Bywater. Pippin became Thain after his father.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Hobbit",
+   "Title": "Thain of the Shire",
+   "Spouse": "Eglantine Banks",
+   "Children": "Peregrin, Pimpernel, Pervinca and Pearl",
+   "Realm or home": "Great Smials, Tuckborough"
+  },
+  "places": [
+   {
+    "id": "BU052",
+    "role": "lived",
+    "note": "Lives at the Great Smials as Thain of the Shire."
+   },
+   {
+    "id": "TO097",
+    "role": "ruled",
+    "note": "Leads the Tooks of Tuckborough against the ruffians in T.A. 3019."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:peregrin-took",
+   "person:gerontius-took",
+   "person:bandobras-took",
+   "person:meriadoc-brandybuck"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue",
+   "The Lord of the Rings, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:saradoc-brandybuck",
+  "title": "Saradoc Brandybuck",
+  "group": "Hobbits",
+  "kind": "Master of Buckland, father of Merry",
+  "aka": [
+   "Scattergold",
+   "Master of Buckland"
+  ],
+  "blurb": "Saradoc Brandybuck was Master of Buckland during the War of the Ring and the father of Meriadoc.",
+  "book": "Saradoc Brandybuck, also called Scattergold, was Master of Buckland. He ruled the hobbits of Buckland from Brandy Hall.\n\nHis wife was Esmeralda Took, and their son was Meriadoc, called Merry. Saradoc was a first cousin of Frodo, since Frodo's mother Primula was his aunt.\n\nIn T.A. 3018 Frodo left Bag End, saying he would live at Crickhollow in Buckland. When the Black Riders came there, the Horn-call of Buckland roused the Bucklanders.\n\nMerry was his heir and became Master of Buckland after him.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Hobbit",
+   "Title": "Master of Buckland",
+   "Spouse": "Esmeralda Took",
+   "Children": "Meriadoc Brandybuck",
+   "Realm or home": "Brandy Hall, Buckland"
+  },
+  "places": [
+   {
+    "id": "BU032",
+    "role": "ruled",
+    "note": "Rules Buckland from the great hole of Brandy Hall."
+   },
+   {
+    "id": "NP046",
+    "role": "ruled",
+    "note": "Rules the Bucklanders as Master of Buckland."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:meriadoc-brandybuck",
+   "person:frodo-baggins",
+   "person:primula-brandybuck",
+   "person:fredegar-bolger"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue",
+   "The Lord of the Rings, Book I"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:elanor-gamgee",
+  "title": "Elanor Gamgee",
+  "group": "Hobbits",
+  "kind": "Daughter of Sam, keeper of the Red Book",
+  "aka": [
+   "Elanor the Fair"
+  ],
+  "blurb": "Elanor Gamgee, called the Fair, was the eldest child of Samwise and Rose and took the Red Book to Westmarch.",
+  "book": "Elanor was born in T.A. 3021 (Shire Reckoning 1421), the first child of Samwise Gamgee and Rose Cotton. Sam named her after the golden flower he saw in Lothlórien.\n\nShe was known as Elanor the Fair. The books say she became a maid of honour to Queen Arwen.\n\nShe married Fastred of Greenholm. In the Fourth Age they settled at Undertowers on the Tower Hills in the Westmarch.\n\nElanor kept the Red Book of Westmarch. Her descendants, the Fairbairns, held it in later years.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Hobbit",
+   "Born": "T.A. 3021",
+   "Parents": "Samwise Gamgee and Rose Cotton",
+   "Spouse": "Fastred of Greenholm",
+   "Realm or home": "Undertowers, Westmarch"
+  },
+  "places": [
+   {
+    "id": "BU030",
+    "role": "born",
+    "note": "Born at Bag End, the home of her parents."
+   },
+   {
+    "id": "TO042",
+    "role": "other",
+    "note": "Her husband Fastred came from Greenholm."
+   },
+   {
+    "id": "TO102",
+    "role": "lived",
+    "note": "Settles at Undertowers in the Westmarch with Fastred."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:samwise-gamgee",
+   "person:rose-cotton",
+   "person:frodo-baggins",
+   "thing:red-book",
+   "thing:elanor-flower"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix B",
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:ted-sandyman",
+  "title": "Ted Sandyman",
+  "group": "Hobbits",
+  "kind": "Miller's son of Hobbiton",
+  "aka": [],
+  "blurb": "Ted Sandyman was the miller's son of Hobbiton, who scoffed at Sam's tales of Elves and later worked for the ruffians.",
+  "book": "Ted Sandyman was a hobbit of Hobbiton, the son of the old miller Sandyman. He scoffed at stories about Elves and strange lands.\n\nIn the spring of T.A. 3018 he argued with Sam Gamgee at the Green Dragon in Bywater. He laughed at Sam's tales of walking trees and Elves.\n\nWhen the ruffians took power in the Shire, Ted sided with them. Lotho pulled down the Old Mill and built a larger, dirty mill, and Ted worked there for the Men.\n\nWhen the hobbits came back in T.A. 3019, Sam scorned him at the mill. The new mill was later pulled down.",
+  "film": "Ted Sandyman appears in The Fellowship of the Ring, played by Brian Sergent. The Scouring of the Shire is not filmed.",
+  "series": "",
+  "facts": {
+   "Race": "Hobbit",
+   "Realm or home": "Hobbiton, the Shire"
+  },
+  "places": [
+   {
+    "id": "BU004",
+    "role": "other",
+    "note": "Mocks Sam's tales at the Green Dragon in T.A. 3018."
+   },
+   {
+    "id": "BU072",
+    "role": "lived",
+    "note": "Works at the mill of Hobbiton, which Lotho rebuilds larger."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:samwise-gamgee",
+   "person:hamfast-gamgee",
+   "person:lotho-sackville-baggins",
+   "person:frodo-baggins"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I",
+   "The Lord of the Rings, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:will-whitfoot",
+  "title": "Will Whitfoot",
+  "group": "Hobbits",
+  "kind": "Mayor of Michel Delving",
+  "aka": [
+   "the Mayor",
+   "Flourdumpling"
+  ],
+  "blurb": "Will Whitfoot was Mayor of Michel Delving and was shut in the Lockholes by the ruffians in T.A. 3019.",
+  "book": "Will Whitfoot was the Mayor of Michel Delving. The Mayor was the chief officer of the Shire and ran the Shirriffs and the Post.\n\nWhen Lotho's ruffians took control, Will marched to Bag End to protest. They seized him and put him in the Lockholes at Michel Delving. He grew thin there.\n\nHe was freed after the Battle of Bywater. Frodo acted as Deputy Mayor while Will recovered, and then Will took up the office again.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Hobbit",
+   "Title": "Mayor of Michel Delving",
+   "Realm or home": "Michel Delving, the Shire"
+  },
+  "places": [
+   {
+    "id": "TO061",
+    "role": "ruled",
+    "note": "Serves as Mayor of the Shire from Michel Delving."
+   },
+   {
+    "id": "BU067",
+    "role": "other",
+    "note": "Held in the Lockholes by the ruffians and freed after Bywater."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:frodo-baggins",
+   "person:lotho-sackville-baggins",
+   "person:samwise-gamgee",
+   "person:fredegar-bolger"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:bandobras-took",
+  "title": "Bandobras Took",
+  "group": "Hobbits",
+  "kind": "Took hobbit who won Greenfields",
+  "aka": [
+   "Bullroarer",
+   "the Bullroarer"
+  ],
+  "blurb": "Bandobras Took, called the Bullroarer, was a huge hobbit who defeated an orc raid at Greenfields in T.A. 2747.",
+  "book": "Bandobras Took was the son of the Thain Isumbras III. He was so large for a hobbit that he could ride a horse.\n\nIn T.A. 2747 a band of orcs came down into the Northfarthing under their leader Golfimbul. Bandobras led the hobbits against them in the Battle of Greenfields.\n\nHe struck off Golfimbul's head with a wooden club, and the orcs were defeated. The old tale says that the head flew through the air and fell into a rabbit-hole.\n\nThe Shire was not troubled by such orc raids again for a long time. Bandobras lived to be old.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Hobbit",
+   "Parents": "Isumbras III",
+   "Realm or home": "Tookland, the Shire"
+  },
+  "places": [
+   {
+    "id": "battle:greenfields",
+    "role": "fought",
+    "note": "Leads the hobbits to victory over the orcs of Golfimbul in T.A. 2747."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:golfimbul",
+   "person:gerontius-took",
+   "person:paladin-took"
+  ],
+  "sources": [
+   "The Hobbit, Chapter 1",
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:gerontius-took",
+  "title": "Gerontius Took",
+  "group": "Hobbits",
+  "kind": "The Old Took, long-lived Thain",
+  "aka": [
+   "the Old Took",
+   "Old Took"
+  ],
+  "blurb": "Gerontius Took, called the Old Took, was Thain of the Shire, grandfather of Bilbo, who died in T.A. 2920 aged 130.",
+  "book": "Gerontius Took was the Thain of the Shire and head of the Took family. He became known as the Old Took because he lived so long.\n\nHe died in T.A. 2920 at the age of 130. He was the father of Belladonna Took and so the grandfather of Bilbo Baggins.\n\nThe Took family was thought a little odd by other hobbits. They were said to have adventurous blood, and some Tooks went on journeys.\n\nGandalf the Grey was a friend of the Old Took, and he used to bring fireworks for the Took parties.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Hobbit",
+   "Died": "T.A. 2920",
+   "Age at death": "130",
+   "Title": "Thain of the Shire",
+   "Children": "Belladonna Took and others",
+   "Realm or home": "Great Smials, Tuckborough"
+  },
+  "places": [
+   {
+    "id": "BU052",
+    "role": "lived",
+    "note": "Lives at the Great Smials as Thain of the Shire."
+   },
+   {
+    "id": "TO097",
+    "role": "ruled",
+    "note": "Leads the Took family and the Shire from Tuckborough."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:belladonna-took",
+   "person:bilbo-baggins",
+   "person:gandalf",
+   "person:paladin-took"
+  ],
+  "sources": [
+   "The Hobbit, Chapter 1",
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:belladonna-took",
+  "title": "Belladonna Took",
+  "group": "Hobbits",
+  "kind": "Took lady, mother of Bilbo Baggins",
+  "aka": [],
+  "blurb": "Belladonna Took was the mother of Bilbo Baggins, a daughter of the Old Took and wife of Bungo Baggins.",
+  "book": "Belladonna Took was one of the daughters of the Old Took, the long-lived Thain of the Shire. She married Bungo Baggins.\n\nBungo built Bag End in Hobbiton, and the couple lived there. Their son Bilbo was born in T.A. 2890.\n\nThe Shire hobbits thought the Took family odd, and Belladonna was among those from whom Bilbo took his adventurous streak. The neighbours long remembered her.\n\nAfter she and Bungo died, Bilbo became the master of Bag End.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Hobbit",
+   "Parents": "Gerontius Took",
+   "Spouse": "Bungo Baggins",
+   "Children": "Bilbo Baggins",
+   "Realm or home": "Bag End, Hobbiton"
+  },
+  "places": [
+   {
+    "id": "BU030",
+    "role": "lived",
+    "note": "Lives at Bag End with Bungo, who built it for her."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:bilbo-baggins",
+   "person:gerontius-took",
+   "person:frodo-baggins"
+  ],
+  "sources": [
+   "The Hobbit, Chapter 1",
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:nob",
+  "title": "Nob",
+  "group": "Hobbits",
+  "kind": "Hobbit servant at the Prancing Pony",
+  "aka": [],
+  "blurb": "Nob was a hobbit servant at the Prancing Pony in Bree who worked for Barliman Butterbur in T.A. 3018.",
+  "book": "Nob was a hobbit who worked at the Prancing Pony inn in Bree. He served under the landlord Barliman Butterbur, who often shouted for him.\n\nHe helped look after Frodo's party when they stayed at the inn in T.A. 3018. On that night Nob found Merry lying dazed in the street after a Black Rider had passed, and brought him back.\n\nHe does not play a large part in the story.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Hobbit",
+   "Realm or home": "The Prancing Pony, Bree"
+  },
+  "places": [
+   {
+    "id": "BU009",
+    "role": "lived",
+    "note": "Works as a servant at the Prancing Pony and brings Merry back in T.A. 3018."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:barliman-butterbur",
+   "person:frodo-baggins",
+   "person:bill-ferny"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:barliman-butterbur",
+  "title": "Barliman Butterbur",
+  "group": "Men",
+  "kind": "Landlord of the Prancing Pony",
+  "aka": [
+   "Butterbur",
+   "Mr. Butterbur"
+  ],
+  "blurb": "Barliman Butterbur was the landlord of the Prancing Pony in Bree who forgot to send Gandalf's letter to Frodo.",
+  "book": "Barliman Butterbur kept the Prancing Pony in Bree. He was a busy, forgetful man who knew all the gossip of the town.\n\nGandalf gave him a letter to send to Frodo in the Shire. Butterbur forgot to send it, and this left Frodo without Gandalf's warning.\n\nIn T.A. 3018 Frodo's party came to the Pony under the name Underhill. When the Black Riders raided the inn, they slashed at the empty beds. That night the hobbits' ponies were driven off, and Butterbur was shaken.\n\nGandalf was angry at the forgotten letter. When the hobbits came back in T.A. 3019, Butterbur told them of the troubles in Bree.",
+  "film": "Barliman Butterbur appears in The Fellowship of the Ring, played by David Weatherley. The film makes him louder and more comic.",
+  "series": "",
+  "facts": {
+   "Race": "Man",
+   "Realm or home": "The Prancing Pony, Bree"
+  },
+  "places": [
+   {
+    "id": "BU009",
+    "role": "lived",
+    "note": "Keeps the Prancing Pony and hosts Frodo's party in T.A. 3018."
+   },
+   {
+    "id": "TO011",
+    "role": "lived",
+    "note": "Lives in Bree and hears all the news of the road."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:gandalf",
+   "person:frodo-baggins",
+   "person:aragorn",
+   "person:bill-ferny",
+   "person:nob",
+   "person:bill-the-pony"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I",
+   "The Lord of the Rings, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:bill-ferny",
+  "title": "Bill Ferny",
+  "group": "Enemies",
+  "kind": "Man of Bree, spy for Saruman",
+  "aka": [
+   "Ferny"
+  ],
+  "blurb": "Bill Ferny was a Bree-man of bad name who sold Frodo a pony and spied on the hobbits in T.A. 3018.",
+  "book": "Bill Ferny was a swarthy Man of Bree with a bad name. He was a friend of Harry Goatleaf and of a squint-eyed Southerner.\n\nHe sold Frodo's party a starved pony, later called Bill, at a high price. He watched the hobbits at the inn and seemed to carry news to their enemies. The Southerner with him was thought to be a spy of Saruman.\n\nAs the party left Bree, Ferny jeered at them, and Sam threw an apple that hit him on the nose.\n\nIn T.A. 3019 Butterbur told the returning hobbits that Ferny and his friends had caused trouble in Bree and then gone away.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man",
+   "Realm or home": "Bree"
+  },
+  "places": [
+   {
+    "id": "TO011",
+    "role": "lived",
+    "note": "Lives in Bree and spies on the hobbits there in T.A. 3018."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:harry-goatleaf",
+   "person:barliman-butterbur",
+   "person:saruman",
+   "person:bill-the-pony",
+   "person:frodo-baggins"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I",
+   "The Lord of the Rings, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:harry-goatleaf",
+  "title": "Harry Goatleaf",
+  "group": "Men",
+  "kind": "Gatekeeper of Bree",
+  "aka": [
+   "the gatekeeper",
+   "Harry"
+  ],
+  "blurb": "Harry Goatleaf was the gatekeeper of the West-gate of Bree and a friend of Bill Ferny.",
+  "book": "Harry Goatleaf was a Man of Bree who kept the West-gate. In T.A. 3018 he was surly to travellers who came at night.\n\nHe let Frodo's party into Bree only after questioning them through the gate. The hobbits found him suspicious.\n\nHe was a friend of Bill Ferny, and he went to Ferny's house after the hobbits passed. The books do not make his end plain.",
+  "film": "An unnamed Bree gatekeeper appears in The Fellowship of the Ring, played by Martyn Sanderson.",
+  "series": "",
+  "facts": {
+   "Race": "Man",
+   "Realm or home": "Bree"
+  },
+  "places": [
+   {
+    "id": "DO037",
+    "role": "other",
+    "note": "Keeps the West-gate and questions the hobbits who come at night."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:bill-ferny",
+   "person:barliman-butterbur",
+   "person:frodo-baggins"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I",
+   "The Lord of the Rings, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:tom-bombadil",
+  "title": "Tom Bombadil",
+  "group": "Creatures",
+  "kind": "Master of wood, water and hill",
+  "aka": [
+   "the Eldest",
+   "Iarwain Ben-adar",
+   "Orald",
+   "Forn"
+  ],
+  "blurb": "Tom Bombadil is an ancient, mysterious being who lives on the edge of the Old Forest and rescues the hobbits there.",
+  "book": "Tom Bombadil lives near the Withywindle at the edge of the Old Forest. He wears a blue jacket, yellow boots and a hat with a blue feather, and he sings as he walks. His wife is Goldberry.\n\nHe is very old. He says he was there before the rivers and trees. The Elves call him Iarwain Ben-adar, and the Dwarves and Men have other names.\n\nIn T.A. 3018 Old Man Willow trapped Merry and Pippin. Tom freed them and brought Frodo's party to his house. Later he saved them from a Barrow-wight on the Barrow-downs and armed them with ancient blades.\n\nThe Ring has no power over him. He puts it on and does not vanish. Frodo gives it to him to test, and Tom returns it.\n\nThe Council of Elrond decides that he could not keep the Ring. Gandalf says Tom would soon forget it. Tom stays in his own land.",
+  "film": "Tom Bombadil does not appear in Peter Jackson's films.",
+  "series": "Tom Bombadil appears in season 2 of The Rings of Power, played by Rory Kinnear. He is a mysterious singer who helps the Stranger.",
+  "facts": {
+   "Race": "Unknown, not an Elf, Man, Dwarf or hobbit",
+   "Title": "Master of wood, water and hill",
+   "Spouse": "Goldberry",
+   "Realm or home": "The edge of the Old Forest"
+  },
+  "places": [
+   {
+    "id": "NP041",
+    "role": "lived",
+    "note": "Lives in his house near the Old Forest with Goldberry."
+   },
+   {
+    "id": "FO023",
+    "role": "lived",
+    "note": "Roams the Old Forest and its streams and knows all its paths."
+   },
+   {
+    "id": "RI083",
+    "role": "other",
+    "note": "Frees Merry and Pippin from Old Man Willow by the Withywindle."
+   },
+   {
+    "id": "HI011",
+    "role": "travelled",
+    "note": "Rescues the hobbits from the Barrow-wight and gives them old blades."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:goldberry",
+   "person:old-man-willow",
+   "person:fatty-lumpkin",
+   "person:frodo-baggins",
+   "thing:barrow-blades",
+   "thing:one-ring"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I",
+   "The Lord of the Rings, Book II"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:goldberry",
+  "title": "Goldberry",
+  "group": "Creatures",
+  "kind": "River-daughter, wife of Tom Bombadil",
+  "aka": [
+   "River-daughter",
+   "Lady Goldberry"
+  ],
+  "blurb": "Goldberry is the River-daughter and wife of Tom Bombadil, and she welcomes Frodo's party into his house.",
+  "book": "Goldberry is the wife of Tom Bombadil. She is called the River-daughter, and she is fair and gentle.\n\nShe lives with Tom in the house at the edge of the Old Forest. In T.A. 3018 she welcomes the four hobbits when Tom brings them to the house at dusk.\n\nShe wears green and silver and has golden hair. She sings, and she gives the hobbits food and rest.\n\nThe books say nothing of her later life.",
+  "film": "Goldberry does not appear in Peter Jackson's films.",
+  "series": "",
+  "facts": {
+   "Kind": "River-daughter",
+   "Spouse": "Tom Bombadil",
+   "Realm or home": "The house of Tom Bombadil"
+  },
+  "places": [
+   {
+    "id": "NP041",
+    "role": "lived",
+    "note": "Lives with Tom and hosts the hobbits in T.A. 3018."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:tom-bombadil",
+   "person:frodo-baggins",
+   "person:old-man-willow",
+   "person:fatty-lumpkin"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:old-man-willow",
+  "title": "Old Man Willow",
+  "group": "Creatures",
+  "kind": "Malign willow tree of the Old Forest",
+  "aka": [
+   "Old Man Willow of the Withywindle"
+  ],
+  "blurb": "Old Man Willow was an evil old tree in the Old Forest who trapped Merry and Pippin in T.A. 3018.",
+  "book": "Old Man Willow was a huge willow that grew by the Withywindle in the Old Forest. It was old and had a spiteful will.\n\nIn T.A. 3018 Frodo and his friends entered the forest and grew sleepy in the valley. The willow trapped Merry and Pippin in cracks in its trunk and pushed Frodo into the stream.\n\nFrodo ran for help and met Tom Bombadil. Tom sang to the willow and freed the hobbits.\n\nTom said its heart was rotten but its strength was great, and its will reached through much of the forest.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Willow tree, possessed with malice",
+   "Realm or home": "The Old Forest, by the Withywindle"
+  },
+  "places": [
+   {
+    "id": "FO023",
+    "role": "lived",
+    "note": "Grows in the Old Forest, where the trees hate travellers."
+   },
+   {
+    "id": "RI083",
+    "role": "other",
+    "note": "Traps Merry and Pippin on the banks of the Withywindle."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:tom-bombadil",
+   "person:meriadoc-brandybuck",
+   "person:peregrin-took",
+   "person:goldberry"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:fatty-lumpkin",
+  "title": "Fatty Lumpkin",
+  "group": "Creatures",
+  "kind": "Pony of Tom Bombadil",
+  "aka": [
+   "Fatty"
+  ],
+  "blurb": "Fatty Lumpkin was the fat, wise pony of Tom Bombadil, who lived at his house near the Old Forest.",
+  "book": "Fatty Lumpkin was the pony of Tom Bombadil. He was fat and sleek, and Tom was fond of him.\n\nHe lived at Tom's house near the Old Forest. After Tom saved the hobbits from the Barrow-wight, he brought back their runaway ponies and rode Fatty Lumpkin. Tom then guided the hobbits to the edge of his land near the East Road.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Pony",
+   "Weapon or steed": "Tom Bombadil's pony",
+   "Realm or home": "The house of Tom Bombadil"
+  },
+  "places": [
+   {
+    "id": "NP041",
+    "role": "lived",
+    "note": "Kept at Tom Bombadil's house near the Old Forest."
+   },
+   {
+    "id": "HI011",
+    "role": "travelled",
+    "note": "Carries Tom with the hobbits across the Barrow-downs toward the East Road."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:tom-bombadil",
+   "person:goldberry",
+   "person:frodo-baggins",
+   "person:bill-the-pony"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I"
+  ],
+  "confidence": "medium"
+ }
+]

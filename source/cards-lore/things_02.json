@@ -1,0 +1,992 @@
+[
+ {
+  "id": "thing:guthwine",
+  "title": "Guthwinë",
+  "group": "Weapons and armour",
+  "kind": "Sword of Éomer of Rohan",
+  "aka": [
+   "Guthwine"
+  ],
+  "blurb": "Guthwinë was the sword of Éomer, Third Marshal of the Riddermark, named in the Battle of the Hornburg.",
+  "book": "Guthwinë is the name of the sword that Éomer of Rohan carried in the War of the Ring. Éomer was the nephew of King Théoden and a Marshal of the Riders of the Mark.\n\nThe sword is named only once, in the Battle of the Hornburg in March T.A. 3019. Éomer cried its name as he and Aragorn sallied out against the Orcs at the gates.\n\nThe books do not say who forged it or how it came to him. Éomer later fought on the Pelennor Fields and became King of Rohan after Théoden fell. The text does not follow the sword beyond the war.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Sword",
+   "Owners": "Éomer"
+  },
+  "places": [
+   {
+    "id": "battle:hornburg",
+    "role": "fought",
+    "note": "Éomer names Guthwinë as he fights at the gates of the Hornburg."
+   },
+   {
+    "id": "battle:pelennor",
+    "role": "fought",
+    "note": "Éomer leads the Rohirrim on the Pelennor Fields; the sword is not named there."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:eomer",
+   "person:theoden",
+   "person:eowyn"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book III",
+   "The Lord of the Rings, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:palantir-of-orthanc",
+  "title": "Palantír of Orthanc",
+  "group": "Seeing-stones",
+  "kind": "Seeing-stone of Isengard",
+  "aka": [
+   "Orthanc-stone",
+   "Seeing-stone of Orthanc",
+   "palantír"
+  ],
+  "blurb": "The Orthanc-stone was the seeing-stone of Isengard. Saruman used it, and through it Sauron ensnared him.",
+  "book": "The palantíri were seven seeing-stones made by the Noldor in Eldamar, perhaps by Fëanor. Elendil brought them to Middle-earth. They let a watcher see distant places and speak with the holder of another stone. One stone stood in the tower of Orthanc in Isengard.\n\nSaruman used it to spy on his enemies. Sauron held the Ithil-stone, and through the link he overcame Saruman and bent his will.\n\nIn T.A. 3019 Gríma threw the stone from a window of Orthanc. Peregrin Took picked it up, and Gandalf took it from him. That night at Dol Baran, Pippin stole a look into it, and Sauron questioned him. Aragorn then claimed it as the heir of Isildur. In the Hornburg he looked into it and showed himself to Sauron.",
+  "film": "In Peter Jackson's films, Saruman speaks with Sauron through a palantír, and Peregrin Took later looks into it and sees visions.",
+  "series": "",
+  "facts": {
+   "Kind": "Palantír",
+   "Made by": "The Noldor in Eldamar, perhaps Fëanor",
+   "Owners": "The Kings of Gondor, then Saruman, then Aragorn",
+   "Fate": "Taken by Aragorn in T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "BU021",
+    "role": "kept",
+    "note": "Kept in the tower of Orthanc, where Saruman looked into it."
+   },
+   {
+    "id": "FT017",
+    "role": "found",
+    "note": "Peregrin picks up the stone at Isengard after Gríma throws it down in T.A. 3019."
+   },
+   {
+    "id": "HI017",
+    "role": "other",
+    "note": "Pippin looks into the stone at night at Dol Baran, and Sauron questions him."
+   },
+   {
+    "id": "FT016",
+    "role": "other",
+    "note": "Aragorn looks into the stone in the Hornburg and shows himself to Sauron."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:saruman",
+   "person:grima",
+   "person:peregrin-took",
+   "person:aragorn",
+   "person:sauron",
+   "person:gandalf",
+   "thing:ithil-stone",
+   "thing:anor-stone"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book III",
+   "The Lord of the Rings, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:anor-stone",
+  "title": "Anor-stone",
+  "group": "Seeing-stones",
+  "kind": "Palantír of Minas Tirith",
+  "aka": [
+   "Palantír of Minas Tirith",
+   "Stone of the Sun"
+  ],
+  "blurb": "The Anor-stone was the seeing-stone of Minas Tirith. Denethor II used it, and it showed him what Sauron wished him to see.",
+  "book": "The Anor-stone was one of the palantíri of Gondor, kept in the White Tower of Minas Tirith. It belonged to the city when it was called Minas Anor.\n\nFor many years the Stewards did not use it. Denethor II looked into it to learn what Sauron was doing. He was strong in will and could turn the stone for a time.\n\nSauron could not take it from him, but he showed Denethor images of Gondor's doom. This helped to break Denethor's hope. He burned himself on a pyre in T.A. 3019 with the stone in his hands. Afterwards, those who looked into it saw only two old hands withering in fire.",
+  "film": "In Peter Jackson's films, Denethor is shown with a palantír, and it is linked to his despair.",
+  "series": "",
+  "facts": {
+   "Kind": "Palantír",
+   "Owners": "Kings and Stewards of Gondor, Denethor II",
+   "Fate": "Held by Denethor on his pyre; afterwards it showed only his burning hands"
+  },
+  "places": [
+   {
+    "id": "BU026",
+    "role": "kept",
+    "note": "Kept in the Tower of Ecthelion, also called the White Tower."
+   },
+   {
+    "id": "GR013",
+    "role": "other",
+    "note": "Denethor dies holding the stone on his pyre in T.A. 3019."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:denethor-ii",
+   "person:faramir",
+   "person:sauron",
+   "person:gandalf",
+   "thing:palantir-of-orthanc",
+   "thing:ithil-stone"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:ithil-stone",
+  "title": "Ithil-stone",
+  "group": "Seeing-stones",
+  "kind": "Palantír of Minas Ithil",
+  "aka": [
+   "Palantír of Minas Ithil",
+   "Stone of the Moon"
+  ],
+  "blurb": "The Ithil-stone was the seeing-stone of Minas Ithil. Sauron took it and used it to deceive others, among them Saruman.",
+  "book": "The Ithil-stone was one of the palantíri that Elendil brought to Middle-earth. It stood in Minas Ithil, the tower of Isildur in Gondor.\n\nIn T.A. 2002 the Nazgûl took Minas Ithil, and the city became Minas Morgul. The stone fell into the hands of the Enemy.\n\nSauron carried it to Barad-dûr and used it to speak with those who held other stones. Through it he overcame Saruman, who looked into the Orthanc-stone, and he tried to deceive Denethor.\n\nThe books do not tell its fate. It was probably lost in the ruin of Barad-dûr at the end of the Third Age.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Palantír",
+   "Owners": "The Kings of Gondor, then Sauron",
+   "Fate": "Not stated; probably lost in the ruin of Barad-dûr"
+  },
+  "places": [
+   {
+    "id": "TO064",
+    "role": "kept",
+    "note": "Kept in Minas Ithil until the Nazgûl took the city in T.A. 2002."
+   },
+   {
+    "id": "battle:fall-of-minas-ithil",
+    "role": "lost",
+    "note": "The Nazgûl take Minas Ithil and its stone in T.A. 2002."
+   },
+   {
+    "id": "FT004",
+    "role": "kept",
+    "note": "Sauron holds the stone in Barad-dûr and uses it against his foes."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:sauron",
+   "person:saruman",
+   "person:isildur",
+   "person:denethor-ii",
+   "thing:palantir-of-orthanc",
+   "thing:anor-stone"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book III",
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:elostirion-stone",
+  "title": "Stone of Elostirion",
+  "group": "Seeing-stones",
+  "kind": "Master seeing-stone looking west",
+  "aka": [
+   "Elendil's Stone",
+   "Stone of Elostirion"
+  ],
+  "blurb": "This palantír stood in the tower of Elostirion on the Emyn Beraid. It looked only west, over the Sea.",
+  "book": "The stone of Elostirion stood in the tallest tower on the Tower Hills, called Emyn Beraid. Elendil set it there. It was different from the other palantíri.\n\nIt looked only west, over the Sea. Elendil used it to gaze toward Tol Eressëa and the lost land of the West.\n\nAfter Elendil, the Elves of Lindon guarded the towers. The stone did not link with the other palantíri, so Sauron could not use it against its watchers.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Palantír",
+   "Made by": "The Noldor in Eldamar",
+   "Owners": "Elendil, then the Elves of Lindon"
+  },
+  "places": [
+   {
+    "id": "BU015",
+    "role": "kept",
+    "note": "Set in the tower of Elostirion, where it looked west to the Sea."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Eressëa",
+    "role": "other",
+    "note": "The only land the stone could show beyond the Sea."
+   }
+  ],
+  "related": [
+   "person:elendil",
+   "person:cirdan",
+   "person:gil-galad",
+   "thing:palantir-of-orthanc"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A",
+   "The Silmarillion",
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:red-book",
+  "title": "Red Book of Westmarch",
+  "group": "Books and heirlooms",
+  "kind": "Chronicle of the Ring War",
+  "aka": [
+   "Red Book of Westmarch",
+   "There and Back Again"
+  ],
+  "blurb": "The Red Book was Bilbo's and Frodo's account of the Quest. It was the source of the tales of the Hobbit and the Ring.",
+  "book": "Bilbo Baggins wrote the story of his journey at Bag End. Later, in Rivendell, he added translations from Elvish lore.\n\nFrodo added the story of the War of the Ring at Bag End. Samwise Gamgee received the book when Frodo left Middle-earth in T.A. 3021, and he completed it.\n\nSam gave the book to his daughter Elanor, and her heirs, the Fairbairns of the Towers, kept it at Undertowers. A copy made in Gondor, called the Thain's Book, was kept at Great Smials. The tales of The Hobbit and The Lord of the Rings are said to come from these books.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Book",
+   "Made by": "Bilbo, Frodo and Samwise",
+   "Owners": "Bilbo, Frodo, Samwise, Elanor and the Fairbairns of the Towers"
+  },
+  "places": [
+   {
+    "id": "BU030",
+    "role": "made",
+    "note": "Bilbo and Frodo write much of the book at Bag End."
+   },
+   {
+    "id": "TO084",
+    "role": "other",
+    "note": "Bilbo adds his translations from the Elvish in Rivendell."
+   },
+   {
+    "id": "TO102",
+    "role": "kept",
+    "note": "The Fairbairns of the Towers keep the book at Undertowers in the Westmarch."
+   },
+   {
+    "id": "BU052",
+    "role": "kept",
+    "note": "A copy, the Thain's Book, is kept at Great Smials."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:bilbo-baggins",
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:elanor-gamgee"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue",
+   "The Lord of the Rings, Book VI",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:thrors-map",
+  "title": "Thrór's Map",
+  "group": "Books and heirlooms",
+  "kind": "Map of the Lonely Mountain",
+  "aka": [
+   "Map of the Lonely Mountain",
+   "Thror's Map"
+  ],
+  "blurb": "Thrór's map showed the Lonely Mountain and a secret door. Gandalf gave it to Thorin, and it set the Quest of Erebor in motion.",
+  "book": "Thrór, King under the Mountain, drew this map of Erebor. It showed a secret door in the mountain's side. The key and the map passed to his son Thráin.\n\nThráin was imprisoned in Dol Guldur. There Gandalf found him and received the map and the key from him.\n\nIn T.A. 2941 Gandalf gave both to Thorin Oakenshield at Bag End. At Rivendell, Elrond saw moon-letters on the map that told how to open the door.\n\nThe map led the company to the door in Erebor. On Durin's Day, Bilbo saw the keyhole appear in the last light, and the company opened the door.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Map",
+   "Made by": "Thrór",
+   "Owners": "Thrór, Thráin II, Gandalf, Thorin Oakenshield"
+  },
+  "places": [
+   {
+    "id": "FT008",
+    "role": "found",
+    "note": "Gandalf receives the map and key from Thráin at Dol Guldur."
+   },
+   {
+    "id": "BU030",
+    "role": "other",
+    "note": "Gandalf gives the map to Thorin at Bag End in T.A. 2941."
+   },
+   {
+    "id": "TO084",
+    "role": "other",
+    "note": "Elrond reads the moon-letters on the map at Rivendell."
+   },
+   {
+    "id": "MT029",
+    "role": "other",
+    "note": "The company opens the secret door on the Mountain's side in T.A. 2941."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:thror",
+   "person:thrain-ii",
+   "person:thorin-oakenshield",
+   "person:gandalf",
+   "person:elrond",
+   "person:bilbo-baggins"
+  ],
+  "sources": [
+   "The Hobbit",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "thing:book-of-mazarbul",
+  "title": "Book of Mazarbul",
+  "group": "Books and heirlooms",
+  "kind": "Record of Balin's colony in Moria",
+  "aka": [
+   "Record of Balin's colony"
+  ],
+  "blurb": "The Book of Mazarbul was the record of the Dwarves who tried to resettle Moria. The Fellowship found it in T.A. 3019.",
+  "book": "The book was kept by the Dwarves who followed Balin to Moria in T.A. 2989. It told of their fight with Orcs, and of the last days of the colony.\n\nIts pages were torn and stained, and some were burned. The final entries told of the Orcs and a drum sounding in the deep.\n\nThe Fellowship found it in the Chamber of Mazarbul near Balin's tomb. Gandalf read from it aloud and learned the colony's fate. Gandalf told Gimli to keep the book for Dáin. Its later fate is not told.",
+  "film": "In the films, Gandalf reads from the book in the same chamber. The film also shows the dead Dwarves and the Orc attack.",
+  "series": "",
+  "facts": {
+   "Kind": "Record book",
+   "Made by": "Dwarves of Balin's colony",
+   "Owners": "Balin's company"
+  },
+  "places": [
+   {
+    "id": "TO066",
+    "role": "made",
+    "note": "The Dwarves of Balin's colony kept the record in Moria."
+   },
+   {
+    "id": "BU034",
+    "role": "found",
+    "note": "The Fellowship finds the book in T.A. 3019."
+   },
+   {
+    "id": "GR001",
+    "role": "other",
+    "note": "Found beside Balin's tomb in the same hall."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:balin",
+   "person:gandalf",
+   "person:gimli",
+   "thing:mithril"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:horn-of-gondor",
+  "title": "Horn of Gondor",
+  "group": "Books and heirlooms",
+  "kind": "Great horn of the Stewards' heirs",
+  "aka": [
+   "Boromir's horn",
+   "Horn of Boromir"
+  ],
+  "blurb": "The Horn of Gondor was Boromir's great horn, bound with silver. It was split in two at his death.",
+  "book": "Boromir carried a great horn of a wild ox, bound with silver. Vorondil the Hunter had made it from the wild kine of Araw long before. By custom it passed to the eldest son of the House of the Stewards.\n\nWhen the Uruk-hai attacked near Parth Galen, Boromir blew it as a call for help. He died there while defending Merry and Pippin.\n\nAragorn found the dying Boromir with the horn cloven in two. The pieces were laid in his funeral boat. Later the two halves were found and brought to Denethor II in Minas Tirith as a sign of his son's death.",
+  "film": "In the film, Boromir blows his horn when the Uruk-hai attack at Amon Hen. Denethor later holds the broken horn.",
+  "series": "",
+  "facts": {
+   "Kind": "Horn",
+   "Material": "Horn of a wild ox, bound with silver",
+   "Owners": "Vorondil, the heirs of the Stewards, Boromir, Denethor II",
+   "Made by": "Vorondil the Hunter"
+  },
+  "places": [
+   {
+    "id": "FI021",
+    "role": "destroyed",
+    "note": "Boromir blows the horn as the Orcs attack, and he is slain with the horn cloven in two."
+   },
+   {
+    "id": "TO065",
+    "role": "kept",
+    "note": "The two halves are brought to Denethor in Minas Tirith."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:boromir",
+   "person:denethor-ii",
+   "person:faramir",
+   "person:aragorn",
+   "person:meriadoc-brandybuck",
+   "person:peregrin-took"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book III",
+   "The Lord of the Rings, Book V",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:horn-of-the-mark",
+  "title": "Horn of the Mark",
+  "group": "Books and heirlooms",
+  "kind": "Silver horn of the Rohirrim",
+  "aka": [
+   "Merry's horn"
+  ],
+  "blurb": "Éowyn and Éomer gave this small silver horn to Merry. He blew it to rouse the Shire in T.A. 3019.",
+  "book": "This small horn was made of silver, with a baldric of green. Dwarves made it, and it came from the hoard of the dragon Scatha. Eorl the Young brought it from the North.\n\nAfter Théoden's funeral in T.A. 3019, Éomer and Éowyn gave it to Meriadoc Brandybuck at Edoras. They told him that it would put fear into enemies and joy into friends.\n\nWhen the hobbits came back to the Shire, Merry blew it at Bywater to rouse the people against the ruffians. The hobbits answered the call, and the ruffians were defeated in the Battle of Bywater.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Horn",
+   "Made by": "Dwarves",
+   "Material": "Silver",
+   "Owners": "Scatha (hoard), Eorl and the House of Eorl, Meriadoc Brandybuck"
+  },
+  "places": [
+   {
+    "id": "TO029",
+    "role": "other",
+    "note": "Éomer and Éowyn give the horn to Merry at Edoras after Théoden is buried."
+   },
+   {
+    "id": "TO016",
+    "role": "other",
+    "note": "Merry blows the horn at Bywater to call the hobbits to arms."
+   },
+   {
+    "id": "battle:bywater",
+    "role": "other",
+    "note": "The horn rouses the Shire for the Battle of Bywater."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:meriadoc-brandybuck",
+   "person:eowyn",
+   "person:eomer",
+   "person:scatha",
+   "person:eorl-the-young",
+   "person:theoden"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book VI"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "thing:crown-of-gondor",
+  "title": "Crown of Gondor",
+  "group": "Books and heirlooms",
+  "kind": "Winged crown of the Kings of Gondor",
+  "aka": [
+   "Winged Crown",
+   "Crown of the Kings"
+  ],
+  "blurb": "The Crown of Gondor was the winged white crown of the Kings. It was set on Aragorn's head in T.A. 3019.",
+  "book": "The crown of Gondor was tall and white, shaped like the helms of the Guards of the Citadel. Wings of pearl and silver rose on its sides, and it was set with gems of adamant. It was the crown of the Kings of Gondor.\n\nThe last King, Eärnur, left the crown on his father's tomb in the Hallows when he rode to his death. The Stewards ruled in the King's place and never wore it.\n\nOn 1 May T.A. 3019 Faramir had the crown brought in a casket before the Gate of Minas Tirith. Aragorn had Frodo bring it to him, and Gandalf set it on his head as King Elessar.",
+  "film": "In the films, Aragorn is crowned and Gandalf holds the crown, after which Aragorn bows to the hobbits.",
+  "series": "",
+  "facts": {
+   "Kind": "Crown",
+   "Owners": "Kings of Gondor to Eärnur, then Aragorn II Elessar"
+  },
+  "places": [
+   {
+    "id": "GR012",
+    "role": "kept",
+    "note": "The crown lies on King Eärnil's tomb in the Hallows of Minas Tirith."
+   },
+   {
+    "id": "DO030",
+    "role": "other",
+    "note": "Gandalf crowns Aragorn before the Great Gate of Minas Tirith."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:aragorn",
+   "person:faramir",
+   "person:gandalf",
+   "person:frodo-baggins",
+   "person:earnur",
+   "person:earnil-ii"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book VI",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:sceptre-of-annuminas",
+  "title": "Sceptre of Annúminas",
+  "group": "Books and heirlooms",
+  "kind": "Silver rod of the Kings of Arnor",
+  "aka": [
+   "Sceptre of Arnor"
+  ],
+  "blurb": "The Sceptre of Annúminas was the silver rod of the Lords of Andúnië and Kings of Arnor. Aragorn received it.",
+  "book": "The Sceptre of Annúminas was a silver rod that had been the token of kingship in Arnor. It was the sign of the Lords of Andúnië, from whom the Dúnedain of the North descended.\n\nIt stayed in the line of Isildur through the long wars of Arnor. After the fall of Arthedain, Elrond kept it in Rivendell with the other heirlooms of that line.\n\nElrond gave it to Aragorn when he gave his daughter Arwen in marriage, in T.A. 3019. Aragorn then ruled as King of Arnor and Gondor.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Sceptre",
+   "Material": "Silver",
+   "Owners": "Kings of Arnor, Elrond, Aragorn"
+  },
+  "places": [
+   {
+    "id": "TO006",
+    "role": "kept",
+    "note": "The sceptre was the token of the Kings of Arnor, whose capital was Annúminas."
+   },
+   {
+    "id": "TO084",
+    "role": "kept",
+    "note": "Elrond kept it at Rivendell until Aragorn's marriage."
+   },
+   {
+    "id": "TO065",
+    "role": "other",
+    "note": "Elrond gives it to Aragorn when he gives him Arwen in T.A. 3019."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:aragorn",
+   "person:elrond",
+   "person:arwen",
+   "person:isildur",
+   "person:arvedui"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book VI",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:standard-of-elendil",
+  "title": "Standard of Elendil",
+  "group": "Books and heirlooms",
+  "kind": "Royal banner of Gondor and Arnor",
+  "aka": [
+   "Banner of Aragorn",
+   "Royal Standard"
+  ],
+  "blurb": "Arwen made this black banner showing a white tree, seven stars and a crown. Aragorn unfurled it at Erech.",
+  "book": "The Standard of Elendil was a black banner. It showed a White Tree with seven stars above it, and above them a high crown. Arwen wrought the stars of gems and the crown of mithril and gold.\n\nArwen made it in Rivendell for Aragorn. Halbarad and the Grey Company brought it to him in Rohan in March T.A. 3019. Halbarad carried it furled on a long staff.\n\nAragorn unfurled it at the Stone of Erech. Later it broke out on the foremost ship as the fleet came to the Harlond in the Battle of the Pelennor Fields. The Standard showed Aragorn's claim to be the heir of Elendil.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Banner",
+   "Made by": "Arwen",
+   "Owners": "Aragorn"
+  },
+  "places": [
+   {
+    "id": "TO084",
+    "role": "made",
+    "note": "Arwen makes the standard in Rivendell."
+   },
+   {
+    "id": "HI023",
+    "role": "other",
+    "note": "Aragorn unfurls the standard at the Stone of Erech."
+   },
+   {
+    "id": "TO045",
+    "role": "other",
+    "note": "The standard breaks out on Aragorn's ship as it comes to the Harlond."
+   },
+   {
+    "id": "battle:pelennor",
+    "role": "other",
+    "note": "The standard shows the King has come, turning the battle on the Pelennor."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:arwen",
+   "person:aragorn",
+   "person:halbarad",
+   "person:elendil",
+   "thing:white-tree"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:white-tree",
+  "title": "White Tree of Gondor",
+  "group": "Trees, plants and substances",
+  "kind": "Royal tree of Gondor",
+  "aka": [
+   "White Tree of Gondor"
+  ],
+  "blurb": "The White Tree grew in the court of Minas Tirith, descended from Nimloth. Aragorn found a new sapling on Mindolluin.",
+  "book": "The White Tree was the royal tree of Gondor, descended from Nimloth of Númenor. Isildur saved a fruit of Nimloth and planted its seedling in Minas Ithil.\n\nSauron's forces burned that tree in S.A. 3429, but Isildur saved a seedling. He planted it in Minas Anor, later called Minas Tirith. In later years the tree died and was renewed from its seed. The last tree died in T.A. 2852, and no seedling could be found. The Stewards left the dead tree standing.\n\nIn T.A. 3019 Gandalf led Aragorn up the slopes of Mindolluin. They found a young sapling high on the mountain, near the snow. Aragorn planted it in the court, and the dead tree was laid to rest in Rath Dínen.",
+  "film": "In the films, the White Tree stands dead in the court of Minas Tirith. A new tree appears at the end.",
+  "series": "",
+  "facts": {
+   "Kind": "Tree",
+   "Fate": "A new sapling was planted in the Court of the Fountain in T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "TO064",
+    "role": "other",
+    "note": "Isildur plants a seedling of Nimloth at Minas Ithil."
+   },
+   {
+    "id": "TO065",
+    "role": "kept",
+    "note": "The tree stands in the Court of the Fountain in Minas Tirith."
+   },
+   {
+    "id": "MT033",
+    "role": "found",
+    "note": "Aragorn finds a young sapling on Mindolluin in T.A. 3019."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Númenor",
+    "role": "other",
+    "note": "Nimloth, the ancestor of the White Tree, grew in Númenor."
+   }
+  ],
+  "related": [
+   "thing:nimloth",
+   "person:aragorn",
+   "person:gandalf",
+   "person:isildur",
+   "thing:two-trees"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book VI",
+   "The Lord of the Rings, Appendix A",
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:mallorn",
+  "title": "Mallorn",
+  "group": "Trees, plants and substances",
+  "kind": "Golden tree of Lothlórien",
+  "aka": [
+   "mallorn-trees",
+   "mellyrn"
+  ],
+  "blurb": "The mallorn was the great tree of Lothlórien, with grey bark and golden leaves. Sam planted one in the Shire.",
+  "book": "The mallorn grew chiefly in Lothlórien. It had silver-grey bark and leaves that turned gold in autumn and stayed on the tree until spring. The Elves built their dwellings on platforms in its boughs.\n\nThe Elves of Lórien lived among these trees in Caras Galadhon. The tree grew in no other part of Middle-earth in the Third Age.\n\nGaladriel gave Samwise Gamgee a small box of earth from her orchard. Inside was a silver mallorn nut. Sam planted the nut in the Party Field in the Shire, and a young mallorn grew there.",
+  "film": "In Peter Jackson's films, Lothlórien is shown with tall trees and golden light.",
+  "series": "",
+  "facts": {
+   "Kind": "Tree"
+  },
+  "places": [
+   {
+    "id": "FO017",
+    "role": "other",
+    "note": "Mallorn trees grow in Lothlórien, home of Celeborn and Galadriel."
+   },
+   {
+    "id": "TO018",
+    "role": "other",
+    "note": "The Elves lived on platforms in the boughs at Caras Galadhon."
+   },
+   {
+    "id": "FI022",
+    "role": "other",
+    "note": "Sam planted a mallorn in the Party Field in the Shire."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:galadriel",
+   "person:celeborn",
+   "person:samwise-gamgee",
+   "thing:box-of-galadriel",
+   "thing:elanor-flower"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II",
+   "The Lord of the Rings, Book VI"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "thing:athelas",
+  "title": "Athelas",
+  "group": "Trees, plants and substances",
+  "kind": "Healing herb, kingsfoil",
+  "aka": [
+   "Kingsfoil",
+   "Asea aranion"
+  ],
+  "blurb": "Athelas, or kingsfoil, was a healing herb. Aragorn used it to ease the wounded in T.A. 3018 and 3019.",
+  "book": "Athelas was a plant with long leaves and a sweet smell when crushed. Hobbits and country people called it kingsfoil and thought it useless. Men of Gondor knew its virtue only in song.\n\nIn the hands of the heir of Elendil it had healing power. Aragorn gathered it near the Weather Hills to ease the hurt that Frodo suffered from the Morgul-blade.\n\nAt the Houses of Healing in Minas Tirith, he used it to treat Faramir, Éowyn and Meriadoc. The herb brought them back from the Black Breath.",
+  "film": "In the films Aragorn uses athelas to treat Frodo's wound from the Morgul-knife.",
+  "series": "",
+  "facts": {
+   "Kind": "Herb"
+  },
+  "places": [
+   {
+    "id": "HI052",
+    "role": "other",
+    "note": "Aragorn uses athelas leaves to ease Frodo's wound near Weathertop."
+   },
+   {
+    "id": "BU063",
+    "role": "other",
+    "note": "Aragorn heals Faramir, Éowyn and Merry with it in the Houses of Healing."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:aragorn",
+   "person:frodo-baggins",
+   "person:faramir",
+   "person:eowyn",
+   "person:meriadoc-brandybuck",
+   "person:ioreth"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I",
+   "The Lord of the Rings, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:lembas",
+  "title": "Lembas",
+  "group": "Trees, plants and substances",
+  "kind": "Elvish waybread",
+  "aka": [
+   "Waybread",
+   "Elvish waybread"
+  ],
+  "blurb": "Lembas was Elvish waybread, made by the Elves of Lórien. It kept Frodo and Sam alive in Mordor.",
+  "book": "Lembas was a thin cake that kept a traveller strong for many days. A small piece fed a full-grown Man for a whole day. It was wrapped in leaves.\n\nGaladriel gave lembas to the Fellowship on their leaving from Lothlórien. It was a rare gift to Men, for the Elves seldom shared it.\n\nFrodo and Sam lived on it in Mordor. When they were close to Mount Doom, it gave them the strength to go on. Gollum could not eat it, and its taste disgusted him.",
+  "film": "In Peter Jackson's films, Frodo and Sam eat lembas on their journey, and Gollum refuses it.",
+  "series": "",
+  "facts": {
+   "Kind": "Food",
+   "Made by": "The Elves of Lothlórien"
+  },
+  "places": [
+   {
+    "id": "FO017",
+    "role": "made",
+    "note": "Made by the Elves of Lothlórien, who gave it to the Fellowship."
+   },
+   {
+    "id": "FI025",
+    "role": "other",
+    "note": "Frodo and Sam live on lembas on the plateau of Gorgoroth."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:galadriel",
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:gimli",
+   "person:gollum"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II",
+   "The Lord of the Rings, Book VI"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "thing:miruvor",
+  "title": "Miruvor",
+  "group": "Trees, plants and substances",
+  "kind": "Cordial of Imladris",
+  "aka": [
+   "Cordial of Rivendell",
+   "Cordial of Imladris"
+  ],
+  "blurb": "Miruvor was a cordial of Rivendell. Gandalf gave it to the Fellowship on Caradhras to restore them.",
+  "book": "Miruvor was a cordial made by the Elves of Imladris. It gave warmth and strength to those who drank it.\n\nGandalf carried a flask of it from Rivendell. He shared it with the Fellowship on the slopes of Caradhras, when the snow and cold nearly defeated them.\n\nLater, Gandalf gave the company another sip in the dark of Moria.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Cordial",
+   "Made by": "The Elves of Rivendell"
+  },
+  "places": [
+   {
+    "id": "TO084",
+    "role": "made",
+    "note": "The cordial was prepared in Rivendell and given to the Fellowship."
+   },
+   {
+    "id": "MT006",
+    "role": "other",
+    "note": "Gandalf shares it with the Fellowship on Caradhras."
+   },
+   {
+    "id": "TO066",
+    "role": "other",
+    "note": "Gandalf gives the company a sip of the cordial in Moria."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:gandalf",
+   "person:elrond",
+   "person:frodo-baggins",
+   "person:boromir"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:mithril",
+  "title": "Mithril",
+  "group": "Trees, plants and substances",
+  "kind": "True-silver, precious metal",
+  "aka": [
+   "True-silver",
+   "Moria-silver"
+  ],
+  "blurb": "Mithril, or true-silver, was a light and strong metal found in Moria. The Dwarves valued it above gold.",
+  "book": "Mithril was a metal that looked like silver but did not tarnish or grow dim. It was light and yet harder than tempered steel. The Dwarves of Moria mined it, and it was the root of their wealth.\n\nIn the Third Age it was worth ten times its weight in gold. It could be beaten like copper and polished like glass. Smiths made armour and rings of it.\n\nThe Dwarves dug deep for mithril and so awoke the Balrog of Moria. The lode in Khazad-dûm was the only source known in Middle-earth. A mithril-coat was given to Bilbo and later to Frodo.",
+  "film": "In the films Frodo wears a mithril coat. In Moria Gandalf says that Bilbo's mithril shirt was worth more than the Shire.",
+  "series": "In The Rings of Power, mithril is a rare metal of Khazad-dûm and is central to the story of Elves and Dwarves.",
+  "facts": {
+   "Kind": "Metal"
+  },
+  "places": [
+   {
+    "id": "TO066",
+    "role": "found",
+    "note": "The Dwarves mined mithril in Moria, in Khazad-dûm."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "thing:mithril-coat",
+   "person:durins-bane",
+   "person:balin",
+   "person:bilbo-baggins",
+   "person:frodo-baggins"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II",
+   "The Hobbit"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:pipe-weed",
+  "title": "Pipe-weed",
+  "group": "Trees, plants and substances",
+  "kind": "Hobbit smoking-leaf",
+  "aka": [
+   "Longbottom Leaf",
+   "Halflings' leaf",
+   "Old Toby"
+  ],
+  "blurb": "Pipe-weed was the leaf that hobbits smoked. It was first planted at Longbottom in the Southfarthing.",
+  "book": "Pipe-weed was a plant whose leaves hobbits dried and smoked in pipes. The hobbits said that Tobold Hornblower first grew it in the Shire, at Longbottom in the Southfarthing.\n\nThe plant was probably brought to Middle-earth by Men out of Númenor. The folk of Bree claimed that the art of smoking began there. It became a lasting custom among them.\n\nLongbottom Leaf was the best known. Saruman traded for pipe-weed, and Merry and Pippin found it in the stores of Isengard. Gandalf, too, smoked the leaf.",
+  "film": "In Peter Jackson's films, Merry and Pippin find pipe-weed at Isengard. Gandalf and Bilbo smoke pipes.",
+  "series": "",
+  "facts": {
+   "Kind": "Plant"
+  },
+  "places": [
+   {
+    "id": "TO059",
+    "role": "found",
+    "note": "Tobold Hornblower first grew pipe-weed at Longbottom in the Southfarthing."
+   },
+   {
+    "id": "TO011",
+    "role": "other",
+    "note": "The folk of Bree claim that the smoking of the leaf began in Bree."
+   },
+   {
+    "id": "FT017",
+    "role": "other",
+    "note": "Merry and Pippin find barrels of Longbottom Leaf at Isengard."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:meriadoc-brandybuck",
+   "person:peregrin-took",
+   "person:gandalf",
+   "person:saruman",
+   "person:bilbo-baggins"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue",
+   "The Lord of the Rings, Book III"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "thing:simbelmyne",
+  "title": "Simbelmynë",
+  "group": "Trees, plants and substances",
+  "kind": "White flower of the Rohirrim barrows",
+  "aka": [
+   "Evermind",
+   "Simbelmynë"
+  ],
+  "blurb": "Simbelmynë, called Evermind, was a small white flower that grew on the barrows of the Kings of Rohan.",
+  "book": "Simbelmynë was a small white flower with a star-like shape. The Rohirrim called it Evermind because it bloomed in all seasons of the year.\n\nIt grew thickly on the burial mounds of the Kings of Rohan below Edoras. In T.A. 3019 Aragorn and his companions saw the mounds white with it as they rode to Meduseld.\n\nThéoden was buried in a new mound after the War of the Ring, and Evermind grew on it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kind": "Flower"
+  },
+  "places": [
+   {
+    "id": "GR003",
+    "role": "other",
+    "note": "Simbelmynë grows on the barrows of the Kings outside Edoras."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:theoden",
+   "person:eorl-the-young",
+   "person:eowyn",
+   "person:eomer"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book III",
+   "The Lord of the Rings, Book VI"
+  ],
+  "confidence": "medium"
+ }
+]

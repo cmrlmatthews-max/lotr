@@ -88,6 +88,18 @@ label.ck em{margin-left:auto;font-size:12px;color:var(--ink2)}
 .chips{display:flex;flex-wrap:wrap;gap:5px;margin:6px 0}
 .chip{display:inline-block;padding:1px 8px;border:1px solid rgba(123,96,56,.6);border-radius:10px;font-size:13px;cursor:pointer;background:rgba(255,250,232,.5);white-space:nowrap}
 .chip:hover{background:var(--red);color:#fbf0d2;border-color:var(--red)}
+.groups details{margin:2px 0 4px 2px;border:0;padding:0}.groups summary{font-size:13.5px;letter-spacing:.02em;text-transform:none;font-variant:normal;padding:2px 0}.groups summary em{color:var(--ink3,#7a6a50);font-size:12px}
+.links{list-style:none;margin:6px 0 10px;padding:0}.links li{margin:0 0 7px;line-height:1.35}.links li div{font-size:13.5px;color:#4d3f2b;margin:2px 0 0 0}
+.role{display:inline-block;min-width:58px;margin-right:6px;font-size:10.5px;letter-spacing:.09em;text-transform:uppercase;color:#7a2a1a}
+.links .onsheet{margin-left:6px;font-size:11.5px;font-style:italic;color:#7a6a50}.links.off b{font-weight:600}
+.back{display:inline-block;margin:0 0 8px;font-size:13px;color:#7a2a1a;cursor:pointer;border-bottom:1px dotted #7a2a1a}
+.lbl.linked span{color:#8a2414;font-weight:600}.lbl.linked i{box-shadow:0 0 0 2px #e6dabb,0 0 0 3.5px #a11d0c}
+.lbl.linked::after{content:attr(data-role);position:absolute;left:13px;top:-21px;font:600 9px/1 Georgia,serif;letter-spacing:.1em;text-transform:uppercase;color:#fbf0d2;background:#8a2414;padding:2px 4px 1px;border-radius:2px;text-shadow:none}
+.lbl.ar.linked::after{left:50%;transform:translateX(-50%);top:-22px}
+.lbl.linked[data-role=""]::after{display:none}
+.lbl.linked.mini span,.lbl.linked.mini::after{display:none}
+.lbl.ar.linked.mini::before{content:'';position:absolute;left:-4px;top:-4px;width:8px;height:8px;border-radius:50%;background:#fbf0d2;box-shadow:0 0 0 2px #a11d0c}
+#results a .ty{margin-right:7px;font:normal 9.5px/1 Georgia,serif;letter-spacing:.1em;text-transform:uppercase;color:#7a6a50}#results a .ty-person,#results a .ty-thing{color:#8a2414}
 #battlelist a{display:flex;gap:8px;padding:2px 0;cursor:pointer;font-size:13.5px}
 #battlelist a:hover{color:var(--red)}
 #battlelist span{flex:0 0 66px;color:var(--ink2);font-size:12px;padding-top:1px}
@@ -163,7 +175,7 @@ body.ready #loading{opacity:0;pointer-events:none}
   <header>
     <h1><span id="land-name">Middle-earth</span><small id="land-sub">An explorer's map of the Third Age</small></h1>
     <nav id="lands"></nav>
-    <input id="q" type="search" placeholder="Search places, realms, battles…  ( / )" autocomplete="off" spellcheck="false">
+    <input id="q" type="search" placeholder="Search people, places, things…  ( / )" autocomplete="off" spellcheck="false">
     <p id="land-note" class="hide">Modelled terrain: made for this map from the book descriptions. Positions are approximate.</p>
     <div id="results"></div>
   </header>
@@ -186,6 +198,8 @@ body.ready #loading{opacity:0;pointer-events:none}
       <label class="ck"><input type="checkbox" data-layer="realms" checked>Show names and borders<i class="sw" style="border-color:#5a4a34;border-top-style:dashed"></i></label>
       <div id="realmlist" class="chips"></div>
     </details>
+    <details><summary>Persons and creatures</summary><div id="personlist" class="groups"></div></details>
+    <details><summary>Things</summary><div id="thinglist" class="groups"></div></details>
     <details><summary>Peoples</summary><div id="peoples" class="chips"></div></details>
     <details><summary>Battles</summary>
       <label class="ck"><input type="checkbox" data-layer="battles" checked>Show on the map</label>
@@ -216,10 +230,13 @@ body.ready #loading{opacity:0;pointer-events:none}
   <h3>How to move</h3>
   <ul><li><b>Drag</b> to move. <b>Scroll</b> or pinch to zoom. <b>Shift-drag</b> or right-drag to turn and tilt.</li>
   <li><b>Click</b> a name to open its card. <b>Double-click</b> a name or the land to fly there.</li>
+  <li><b>Search</b> finds persons, creatures, things, places, realms, battles, and journeys on both sheets.</li>
+  <li>When you open a <b>person</b> or a <b>thing</b>, the map marks each linked place in red. A small tag shows the link, for example <em>born</em>, <em>ruled</em>, or <em>died</em>. The buttons on the card move the map to each place.</li>
   <li><kbd>/</kbd> search &nbsp; <kbd>Esc</kbd> close &nbsp; <kbd>space</kbd> play a journey &nbsp; <kbd>←</kbd> <kbd>→</kbd> journey stages</li></ul>
   <h3>How to read the cards</h3>
   <ul><li><span class="tag">Book</span> text gives only what Tolkien's published books say.</li>
   <li><span class="tag f">Film</span> text gives what the Peter Jackson films show or change. <span class="tag" style="background:var(--gold)">Series</span> text gives the same for <em>The Rings of Power</em>.</li>
+  <li>Places added in the last update have no survey data. Their positions come from the books and are approximate.</li>
   <li>An AI model (Claude) wrote the card text in its own words and a second pass reviewed it. Errors are possible. Each card shows a confidence level and where to read more.</li></ul>
   <h3>Map data and credit</h3>
   <p>Terrain and map layers: Rose, Robert A. (2020), <em>GIS &amp; Middle Earth Presentation &amp; Data Set</em>, William &amp; Mary, <a href="https://doi.org/10.21220/RKEZ-X707">doi.org/10.21220/RKEZ-X707</a>, built on the work of the ME-DEM project. License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0. The reduced terrain and the vector layers in this file are an adaptation of that data set and keep the same license.</p>

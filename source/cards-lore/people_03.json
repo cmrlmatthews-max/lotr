@@ -1,0 +1,1245 @@
+[
+ {
+  "id": "person:denethor-ii",
+  "title": "Denethor II",
+  "group": "Men",
+  "kind": "26th Ruling Steward of Gondor",
+  "aka": [
+   "Steward of Gondor",
+   "Lord Denethor"
+  ],
+  "blurb": "Denethor was the proud Steward of Gondor and father of Boromir and Faramir. Despair drove him to burn himself during the siege of Minas Tirith.",
+  "book": "Denethor was the son of Ecthelion II and became Steward of Gondor in T.A. 2984. He married Finduilas of Dol Amroth, who died young. They had two sons, Boromir and Faramir.\n\nDenethor was wise and stern. He guarded the city well and kept watch on Mordor through the palantír of Minas Tirith. Sauron used that stone to feed him despair. He grew to favour Boromir and to resent Gandalf and, in time, Faramir.\n\nWhen Boromir died, Denethor was filled with grief. During the siege of T.A. 3019 he gave up all hope. He had the wounded Faramir carried to Rath Dínen to burn with him. Pippin, who had sworn service to him, fetched Gandalf, and Beregond stopped the servants.\n\nDenethor refused to listen. He laid himself on a pyre in the House of the Stewards with the palantír in his hands and was burned on 15 March T.A. 3019. His line then yielded the city to King Elessar.",
+  "film": "John Noble plays Denethor. The film makes him colder to Faramir and has him send Faramir on a hopeless ride to retake Osgiliath. He runs from the pyre in flames and leaps from the Citadel.",
+  "series": "",
+  "facts": {
+   "Race": "Man (Dúnadan)",
+   "Born": "T.A. 2930",
+   "Died": "T.A. 3019",
+   "Parents": "Ecthelion II",
+   "Spouse": "Finduilas of Dol Amroth",
+   "Children": "Boromir, Faramir",
+   "Title": "Ruling Steward of Gondor"
+  },
+  "places": [
+   {
+    "id": "TO065",
+    "role": "ruled",
+    "note": "Rules Gondor from the Citadel as Steward from T.A. 2984 until his death."
+   },
+   {
+    "id": "BU026",
+    "role": "other",
+    "note": "Looks into the palantír in a hidden chamber of the White Tower."
+   },
+   {
+    "id": "GR013",
+    "role": "died",
+    "note": "Burns himself on a pyre in the House of the Stewards in T.A. 3019."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:faramir",
+   "person:boromir",
+   "person:ecthelion-ii",
+   "person:gandalf",
+   "person:peregrin-took",
+   "person:beregond",
+   "thing:anor-stone"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:faramir",
+  "title": "Faramir",
+  "group": "Men",
+  "kind": "Captain of Gondor, Prince of Ithilien",
+  "aka": [
+   "Captain of Ithilien",
+   "Prince of Ithilien",
+   "Steward of Gondor"
+  ],
+  "blurb": "Faramir was the younger son of Denethor and a wise Captain of Gondor. He let Frodo and Sam go free and later married Éowyn.",
+  "book": "Faramir was born in T.A. 2983, the younger brother of Boromir. He was gentle, learned and loyal, and Gandalf valued his counsel. Denethor loved him less than Boromir.\n\nAs Captain of the rangers of Ithilien, Faramir led raids against Sauron's servants. In March T.A. 3019 his men captured Frodo and Sam and took them to Henneth Annûn. He learned of the Ring but refused to take it, though Boromir had wished to. He sent the hobbits on their way.\n\nFaramir then fought in the retreat from Osgiliath and was struck down by a poisoned dart. Denethor believed him dying and tried to burn him alive. Beregond and Gandalf saved him, and Aragorn healed him in the Houses of Healing.\n\nFaramir fell in love with Éowyn there. After the war Aragorn named him Prince of Ithilien, and he became the last Ruling Steward. He and Éowyn settled at Emyn Arnen.",
+  "film": "David Wenham plays Faramir. The film shows him taking Frodo and Sam to Osgiliath and nearly giving up the Ring, before he changes his mind.",
+  "series": "",
+  "facts": {
+   "Race": "Man (Dúnadan)",
+   "Born": "T.A. 2983",
+   "Parents": "Denethor II and Finduilas",
+   "Spouse": "Éowyn",
+   "Siblings": "Boromir",
+   "Title": "Prince of Ithilien, Steward of Gondor"
+  },
+  "places": [
+   {
+    "id": "CA008",
+    "role": "other",
+    "note": "Brings Frodo and Sam to the hidden cave and decides to let them go."
+   },
+   {
+    "id": "battle:fall-of-osgiliath",
+    "role": "fought",
+    "note": "Fights in the retreat from Osgiliath and is struck down by a dart."
+   },
+   {
+    "id": "GR013",
+    "role": "other",
+    "note": "Is carried to the House of the Stewards, where Denethor tries to burn him."
+   },
+   {
+    "id": "BU063",
+    "role": "other",
+    "note": "Is healed by Aragorn and meets Éowyn."
+   },
+   {
+    "id": "HI020",
+    "role": "lived",
+    "note": "Settles with Éowyn at Emyn Arnen after the war."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:denethor-ii",
+   "person:boromir",
+   "person:eowyn",
+   "person:aragorn",
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:mablung-of-ithilien",
+   "thing:athelas"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book IV",
+   "The Lord of the Rings, Book V",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:beregond",
+  "title": "Beregond",
+  "group": "Men",
+  "kind": "Guard of the Citadel of Gondor",
+  "aka": [
+   "Beregond son of Baranor",
+   "Captain of the White Company"
+  ],
+  "blurb": "Beregond was a soldier of the Citadel guard who befriended Pippin. He broke the law to save Faramir from Denethor's pyre.",
+  "book": "Beregond was a Man of Gondor, son of Baranor, and a guard of the Citadel in Minas Tirith. He met Pippin in the Citadel in T.A. 3019 and became his friend and guide.\n\nHis son Bergil also befriended the hobbit. When Denethor tried to burn Faramir, Beregond left his post. He slew the porter of the Closed Door and fought Denethor's servants at the House of the Stewards. He did this to save Faramir's life.\n\nAfter the war Aragorn judged him. The king pardoned him because he had saved Faramir, but sent him out of the city for shedding blood in the Hallows. He then made Beregond Captain of the White Company, the guard of Faramir in Emyn Arnen.",
+  "film": "Beregond does not appear in the films. Gandalf and Pippin save Faramir from the pyre instead.",
+  "series": "",
+  "facts": {
+   "Race": "Man",
+   "Parents": "Baranor",
+   "Children": "Bergil",
+   "Title": "Captain of the White Company"
+  },
+  "places": [
+   {
+    "id": "TO065",
+    "role": "lived",
+    "note": "Serves in the guard of the Citadel and befriends Pippin."
+   },
+   {
+    "id": "GR013",
+    "role": "fought",
+    "note": "Fights Denethor's servants at the House of the Stewards to save Faramir."
+   },
+   {
+    "id": "HI020",
+    "role": "lived",
+    "note": "Serves Faramir in Emyn Arnen as Captain of the White Company."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:peregrin-took",
+   "person:bergil",
+   "person:faramir",
+   "person:denethor-ii",
+   "person:gandalf",
+   "person:aragorn"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V",
+   "The Lord of the Rings, Book VI"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:bergil",
+  "title": "Bergil",
+  "group": "Men",
+  "kind": "Young son of Beregond",
+  "aka": [
+   "Bergil son of Beregond"
+  ],
+  "blurb": "Bergil was the young son of Beregond. He befriended Pippin and showed him around Minas Tirith during the days before the siege.",
+  "book": "Bergil was the young son of Beregond, a guard of the Citadel of Gondor. In T.A. 3019 the boy met Pippin, who was newly come to Minas Tirith.\n\nBergil took the hobbit through the city and spoke with him about Gondor and the war. Together they watched the companies of the outlands march in through the gate. They became friends.\n\nBergil is a minor figure. The books tell little of his later life.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man",
+   "Parents": "Beregond"
+  },
+  "places": [
+   {
+    "id": "TO065",
+    "role": "lived",
+    "note": "Lives in the city and befriends Pippin in T.A. 3019."
+   },
+   {
+    "id": "DO030",
+    "role": "other",
+    "note": "Watches with Pippin as the companies of the outlands enter the city."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:beregond",
+   "person:peregrin-took",
+   "person:gandalf"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:imrahil",
+  "title": "Imrahil",
+  "group": "Men",
+  "kind": "Prince of Dol Amroth",
+  "aka": [
+   "Prince of Dol Amroth",
+   "Prince Imrahil"
+  ],
+  "blurb": "Imrahil was the Prince of Dol Amroth, uncle of Boromir and Faramir. He was a brave captain at the Pelennor and the Black Gate.",
+  "book": "Imrahil ruled Dol Amroth in Belfalas. He was brother of Finduilas, so he was uncle to Boromir and Faramir. His house was said to carry Elvish blood from ancient times.\n\nWhen Mordor attacked in T.A. 3019, he led the Knights of Dol Amroth to Minas Tirith. In a sortie before the siege he carried the wounded Faramir back to the city. After Denethor died, he held command in the city with Gandalf.\n\nHe fought in the Battle of the Pelennor Fields. After the battle he saw that Éowyn still lived and had her taken to the Houses of Healing. He was later among the Captains at the Black Gate.\n\nImrahil's daughter Lothíriel later married Éomer. He remained Prince of Dol Amroth under King Elessar.",
+  "film": "Imrahil does not appear in the films.",
+  "series": "",
+  "facts": {
+   "Race": "Man (Dúnadan with Elvish ancestry)",
+   "Siblings": "Finduilas",
+   "Children": "Lothíriel",
+   "Title": "Prince of Dol Amroth"
+  },
+  "places": [
+   {
+    "id": "TO026",
+    "role": "ruled",
+    "note": "Rules the principality from his seat at Dol Amroth."
+   },
+   {
+    "id": "TO065",
+    "role": "other",
+    "note": "Brings his knights to the city and holds command there after Denethor dies."
+   },
+   {
+    "id": "battle:pelennor",
+    "role": "fought",
+    "note": "Leads the knights of Dol Amroth in the battle."
+   },
+   {
+    "id": "battle:morannon",
+    "role": "fought",
+    "note": "Marches to the Black Gate with the Captains of the West."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:denethor-ii",
+   "person:faramir",
+   "person:boromir",
+   "person:gandalf",
+   "person:aragorn",
+   "person:eomer"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:ioreth",
+  "title": "Ioreth",
+  "group": "Men",
+  "kind": "Old wise-woman of the Houses of Healing",
+  "aka": [
+   "Wise-woman of Gondor"
+  ],
+  "blurb": "Ioreth was an old woman who served in the Houses of Healing. She remembered the old saying that the hands of the king are hands of a healer.",
+  "book": "Ioreth was a wise-woman who worked in the Houses of Healing in Minas Tirith during the war of T.A. 3019. She was old and talkative.\n\nAfter the siege, the wounded lay in the Houses and could not be cured by the usual art. Ioreth repeated an old saying of Gondor that the hands of the king are the hands of a healer. In this way the true king could be known.\n\nGandalf heard this and called for Aragorn. Aragorn healed Faramir, Éowyn and Merry with the herb athelas. Ioreth was among those who saw the king's healing.",
+  "film": "Ioreth does not appear in the films.",
+  "series": "",
+  "facts": {
+   "Race": "Man"
+  },
+  "places": [
+   {
+    "id": "BU063",
+    "role": "lived",
+    "note": "Serves among the healers and recalls the saying that proves the king by his hands."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:aragorn",
+   "person:gandalf",
+   "person:faramir",
+   "thing:athelas"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:hurin-of-the-keys",
+  "title": "Húrin of the Keys",
+  "group": "Men",
+  "kind": "Warden of the Keys of Minas Tirith",
+  "aka": [
+   "Húrin the Warden",
+   "Warden of the Keys"
+  ],
+  "blurb": "Húrin held the office of Warden of the Keys of Minas Tirith during the War of the Ring in T.A. 3019.",
+  "book": "Húrin was a Man of Gondor and the Warden of the Keys of Minas Tirith in the time of the War of the Ring. His office gave him charge of the keys of the city.\n\nWhen Aragorn came to be crowned in T.A. 3019, Húrin went out with Faramir and other captains of Gondor to meet him before the gate. The books tell little else of his deeds.",
+  "film": "Húrin of the Keys does not appear in the films.",
+  "series": "",
+  "facts": {
+   "Race": "Man",
+   "Title": "Warden of the Keys"
+  },
+  "places": [
+   {
+    "id": "TO065",
+    "role": "lived",
+    "note": "Holds the office of Warden of the Keys of the city in T.A. 3019."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:faramir",
+   "person:aragorn",
+   "person:denethor-ii"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "person:mablung-of-ithilien",
+  "title": "Mablung of Ithilien",
+  "group": "Men",
+  "kind": "Ranger of Ithilien under Faramir",
+  "aka": [
+   "Ranger of Ithilien"
+  ],
+  "blurb": "Mablung was a ranger of Ithilien who served Faramir. He was with the company that met Frodo and Sam in T.A. 3019.",
+  "book": "Mablung was a Man of Gondor and one of the rangers of Ithilien. These rangers held the land between Gondor and Mordor in secret, under the command of Faramir.\n\nIn March T.A. 3019 he was in Faramir's company when it ambushed a force of Haradrim near the road. The company also met Frodo and Sam and brought them to the hidden refuge of Henneth Annûn.\n\nMablung and the other rangers watched the land closely and kept the hobbits under guard until Faramir decided to let them go.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man",
+   "Title": "Ranger of Ithilien"
+  },
+  "places": [
+   {
+    "id": "CA008",
+    "role": "lived",
+    "note": "Serves in Faramir's company at the hidden cave of Henneth Annûn."
+   },
+   {
+    "id": "NP032",
+    "role": "fought",
+    "note": "Joins the ambush of the Haradrim on the road in North Ithilien."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:faramir",
+   "person:damrod",
+   "person:frodo-baggins",
+   "person:samwise-gamgee"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book IV"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:damrod",
+  "title": "Damrod",
+  "group": "Men",
+  "kind": "Ranger of Ithilien under Faramir",
+  "aka": [
+   "Ranger of Ithilien"
+  ],
+  "blurb": "Damrod was a ranger of Ithilien who served Faramir. He helped guard Frodo and Sam in T.A. 3019.",
+  "book": "Damrod was a Man of Gondor and a ranger of Ithilien. He served under Faramir, with his comrade Mablung.\n\nIn March T.A. 3019 the rangers ambushed the Haradrim and then met Frodo and Sam. Damrod helped to guard the two hobbits and took part in the march to Henneth Annûn.\n\nThe books give him only a small part in the tale.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man",
+   "Title": "Ranger of Ithilien"
+  },
+  "places": [
+   {
+    "id": "CA008",
+    "role": "lived",
+    "note": "Serves in Faramir's company at the hidden cave of Henneth Annûn."
+   },
+   {
+    "id": "NP032",
+    "role": "fought",
+    "note": "Joins the ambush of the Haradrim on the road in North Ithilien."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:faramir",
+   "person:mablung-of-ithilien",
+   "person:samwise-gamgee",
+   "person:frodo-baggins"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book IV"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:forlong",
+  "title": "Forlong the Fat",
+  "group": "Men",
+  "kind": "Lord of Lossarnach",
+  "aka": [
+   "Forlong the Old",
+   "Lord of Lossarnach"
+  ],
+  "blurb": "Forlong was the Lord of Lossarnach. He led his people to Minas Tirith and fell in the Battle of the Pelennor Fields.",
+  "book": "Forlong was the Lord of Lossarnach, a land of green valleys south of Minas Tirith. He was old and stout, but he was a loyal servant of Gondor.\n\nWhen the Steward called for aid in T.A. 3019, Forlong came to Minas Tirith with a host of his people. The men of Lossarnach marched with axes in their hands.\n\nForlong fought in the Battle of the Pelennor Fields. Enemies surrounded him, and he was slain there.",
+  "film": "Forlong does not appear in the films.",
+  "series": "",
+  "facts": {
+   "Race": "Man",
+   "Realm or home": "Lossarnach",
+   "Died": "T.A. 3019",
+   "Title": "Lord of Lossarnach"
+  },
+  "places": [
+   {
+    "id": "realm:lossarnach",
+    "role": "ruled",
+    "note": "Rules Lossarnach as its lord."
+   },
+   {
+    "id": "battle:pelennor",
+    "role": "died",
+    "note": "Leads his men to the battle and is slain on the Pelennor Fields."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:denethor-ii",
+   "person:imrahil",
+   "person:angbor"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:angbor",
+  "title": "Angbor the Fearless",
+  "group": "Men",
+  "kind": "Lord of Lamedon",
+  "aka": [
+   "Lord of Lamedon"
+  ],
+  "blurb": "Angbor was the Lord of Lamedon. He alone stood his ground at Linhir when the Dead came, and then followed Aragorn to the war.",
+  "book": "Angbor was the Lord of Lamedon, a land in the south-west of Gondor. In T.A. 3019 his men fought the Corsairs and the Haradrim at the fords of Linhir on the Gilrain.\n\nWhen Aragorn came with the Army of the Dead, both sides fled in terror. Only Angbor stayed to meet him. Aragorn bade him gather his people and follow to the war.\n\nAngbor later led the men of Lamedon to Minas Tirith.",
+  "film": "Angbor does not appear in the films.",
+  "series": "",
+  "facts": {
+   "Race": "Man",
+   "Realm or home": "Lamedon",
+   "Title": "Lord of Lamedon"
+  },
+  "places": [
+   {
+    "id": "TO054",
+    "role": "fought",
+    "note": "Fights at the fords of Linhir and alone stands to meet Aragorn there."
+   },
+   {
+    "id": "realm:lamedon",
+    "role": "ruled",
+    "note": "Rules Lamedon as its lord."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:aragorn",
+   "person:forlong",
+   "person:imrahil"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:ecthelion-ii",
+  "title": "Ecthelion II",
+  "group": "Men",
+  "kind": "25th Ruling Steward of Gondor",
+  "aka": [
+   "Steward of Gondor"
+  ],
+  "blurb": "Ecthelion II was the Steward of Gondor before Denethor. He trusted Gandalf and Thorongil, who was Aragorn in disguise.",
+  "book": "Ecthelion II was the twenty-fifth Ruling Steward of Gondor and the father of Denethor. He ruled from T.A. 2953 to 2984 and was a wise lord.\n\nHe gathered men of worth into his service. Among them was a captain named Thorongil, who was Aragorn in disguise. Thorongil often urged Ecthelion to trust Gandalf rather than Saruman. Denethor was jealous of Thorongil's place in his father's favour.\n\nEcthelion died in T.A. 2984. His son Denethor then became Steward.",
+  "film": "Ecthelion II does not appear in the films.",
+  "series": "",
+  "facts": {
+   "Race": "Man (Dúnadan)",
+   "Born": "T.A. 2886",
+   "Died": "T.A. 2984",
+   "Children": "Denethor II",
+   "Title": "Ruling Steward of Gondor"
+  },
+  "places": [
+   {
+    "id": "TO065",
+    "role": "ruled",
+    "note": "Rules Gondor from Minas Tirith and takes Thorongil into his service."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:denethor-ii",
+   "person:aragorn",
+   "person:gandalf"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:mardil-voronwe",
+  "title": "Mardil Voronwë",
+  "group": "Men",
+  "kind": "First Ruling Steward of Gondor",
+  "aka": [
+   "Mardil the Steadfast",
+   "Steward of Gondor"
+  ],
+  "blurb": "Mardil Voronwë served King Eärnur and became the first Ruling Steward of Gondor after the king vanished.",
+  "book": "Mardil Voronwë was the Steward of King Eärnur. His surname means the Steadfast.\n\nWhen Eärnur rode to Minas Morgul in T.A. 2050 and did not return, Mardil took charge of Gondor. He ruled in the name of the king. His house became the line of the Ruling Stewards, who held the land until the return of the king.\n\nMardil ruled for thirty years and died in T.A. 2080. The Stewards who came after him ruled for almost a thousand years.",
+  "film": "Mardil does not appear in the films.",
+  "series": "",
+  "facts": {
+   "Race": "Man (Dúnadan)",
+   "Died": "T.A. 2080",
+   "Title": "First Ruling Steward of Gondor"
+  },
+  "places": [
+   {
+    "id": "TO065",
+    "role": "ruled",
+    "note": "Rules Gondor from Minas Tirith after the loss of King Eärnur."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:earnur",
+   "person:denethor-ii",
+   "person:cirion"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:cirion",
+  "title": "Cirion",
+  "group": "Men",
+  "kind": "12th Ruling Steward of Gondor",
+  "aka": [
+   "Steward of Gondor"
+  ],
+  "blurb": "Cirion was the Steward who gave the land of Calenardhon to Eorl the Young, founding the realm of Rohan.",
+  "book": "Cirion was the twelfth Ruling Steward of Gondor. He ruled from T.A. 2489 until T.A. 2567.\n\nIn T.A. 2510 Orcs and Easterlings attacked Gondor, and the northern army was cut off. Eorl the Young and the Éothéod rode to the Field of Celebrant and saved it.\n\nAs a reward, Cirion gave Eorl the land of Calenardhon. The two men swore an oath of friendship, and the oath was sworn upon the Halifirien. Calenardhon became Rohan.",
+  "film": "Cirion does not appear in the films.",
+  "series": "",
+  "facts": {
+   "Race": "Man (Dúnadan)",
+   "Died": "T.A. 2567",
+   "Title": "Ruling Steward of Gondor"
+  },
+  "places": [
+   {
+    "id": "battle:field-of-celebrant",
+    "role": "fought",
+    "note": "Leads Gondor's army at the Field of Celebrant, where Eorl rides to its aid."
+   },
+   {
+    "id": "BU085_54",
+    "role": "other",
+    "note": "Swears the oath with Eorl on the hill of Halifirien."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:eorl-the-young",
+   "person:mardil-voronwe",
+   "person:denethor-ii"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A",
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:earnur",
+  "title": "Eärnur",
+  "group": "Men",
+  "kind": "Last King of Gondor",
+  "aka": [
+   "Last King of Gondor"
+  ],
+  "blurb": "Eärnur was the last King of Gondor. He rode to Minas Morgul to answer the Witch-king's challenge and was never seen again.",
+  "book": "Eärnur was the son of Eärnil II and the last king of Gondor. He was a bold warrior who loved arms more than counsel.\n\nAfter Angmar overran Arthedain in T.A. 1974, he led a fleet from Gondor to Lindon. He commanded the cavalry at the Battle of Fornost. When the Witch-king rode against him, Eärnur's horse bolted, and the Witch-king escaped.\n\nEärnur became king in T.A. 2043. The Witch-king then challenged him to single combat. Mardil held him back the first time. In T.A. 2050 a second challenge came, and Eärnur rode to Minas Morgul with a few knights. He was never seen again and left no heir.\n\nHis Steward Mardil took charge, and the line of Ruling Stewards began.",
+  "film": "Eärnur does not appear in the films.",
+  "series": "",
+  "facts": {
+   "Race": "Man (Dúnadan)",
+   "Parents": "Eärnil II",
+   "Realm or home": "Gondor",
+   "Title": "King of Gondor"
+  },
+  "places": [
+   {
+    "id": "TO043",
+    "role": "travelled",
+    "note": "Lands at the Grey Havens with the fleet of Gondor to aid Arnor."
+   },
+   {
+    "id": "battle:fornost",
+    "role": "fought",
+    "note": "Leads the cavalry in the defeat of Angmar in T.A. 1975."
+   },
+   {
+    "id": "TO065",
+    "role": "ruled",
+    "note": "Rules Gondor from Minas Tirith from T.A. 2043."
+   },
+   {
+    "id": "TO064",
+    "role": "other",
+    "note": "Rides into Minas Morgul in T.A. 2050 and is never seen again."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:earnil-ii",
+   "person:witch-king",
+   "person:mardil-voronwe",
+   "person:glorfindel",
+   "person:arvedui"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:earnil-ii",
+  "title": "Eärnil II",
+  "group": "Men",
+  "kind": "King of Gondor and victor of the Camp",
+  "aka": [
+   "King of Gondor"
+  ],
+  "blurb": "Eärnil II was a captain who became King of Gondor. He defeated the Wainriders and Haradrim in T.A. 1944.",
+  "book": "Eärnil II was a captain of Gondor's southern army and a descendant of King Telumehtar. In T.A. 1944 the Wainriders destroyed the northern army and killed King Ondoher.\n\nEärnil defeated the Haradrim in South Ithilien. He then came north and destroyed the Wainriders' camp in the Battle of the Camp.\n\nIn T.A. 1945 the crown was given to Eärnil, and Arvedui's claim was set aside. Eärnil later sent his son Eärnur with a fleet to help Arvedui against Angmar, but it came too late to save Arthedain. Eärnil died in T.A. 2043, and Eärnur took the crown.",
+  "film": "Eärnil II does not appear in the films.",
+  "series": "",
+  "facts": {
+   "Race": "Man (Dúnadan)",
+   "Children": "Eärnur",
+   "Died": "T.A. 2043",
+   "Title": "King of Gondor"
+  },
+  "places": [
+   {
+    "id": "NP033",
+    "role": "fought",
+    "note": "Defeats the army of the Haradrim in South Ithilien in T.A. 1944."
+   },
+   {
+    "id": "battle:battle-of-the-camp",
+    "role": "fought",
+    "note": "Destroys the camp of the Wainriders and wins the battle."
+   },
+   {
+    "id": "TO065",
+    "role": "ruled",
+    "note": "Rules Gondor as king from T.A. 1945 until his death."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:earnur",
+   "person:telumehtar",
+   "person:arvedui"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:castamir",
+  "title": "Castamir the Usurper",
+  "group": "Men",
+  "kind": "Usurping King of Gondor",
+  "aka": [
+   "Castamir",
+   "the Usurper"
+  ],
+  "blurb": "Castamir was the Admiral of Gondor who took the crown from King Eldacar in the Kin-strife. Eldacar slew him at the Crossings of Erui.",
+  "book": "Castamir was the captain of the fleet of Gondor. He was a descendant of the royal house and led the rebels in the Kin-strife, a civil war over the crown.\n\nIn T.A. 1437 his forces burned Osgiliath and drove out King Eldacar, who had mixed Northman blood. Castamir took the throne but ruled cruelly.\n\nEldacar returned with an army. In T.A. 1447 the two met at the Crossings of Erui, and Eldacar killed Castamir. His sons and followers fled to Umbar and became the Corsairs.",
+  "film": "Castamir does not appear in the films.",
+  "series": "",
+  "facts": {
+   "Race": "Man (Dúnadan)",
+   "Died": "T.A. 1447",
+   "Title": "King of Gondor (usurper)"
+  },
+  "places": [
+   {
+    "id": "battle:burning-of-osgiliath",
+    "role": "fought",
+    "note": "Leads the rebels who burn Osgiliath and force out King Eldacar."
+   },
+   {
+    "id": "battle:crossings-of-erui",
+    "role": "died",
+    "note": "Is slain in the battle at the Crossings of Erui in T.A. 1447."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Umbar",
+    "role": "other",
+    "note": "His sons and followers settle there and become the Corsairs."
+   }
+  ],
+  "related": [
+   "person:telumehtar"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:telumehtar",
+  "title": "Telumehtar Umbardacil",
+  "group": "Men",
+  "kind": "King of Gondor, conqueror of Umbar",
+  "aka": [
+   "Umbardacil",
+   "Telumehtar"
+  ],
+  "blurb": "Telumehtar Umbardacil was the King of Gondor who captured Umbar from the Corsairs in T.A. 1810.",
+  "book": "Telumehtar was a king of Gondor. His family had long suffered from the Corsairs, the descendants of Castamir's followers.\n\nIn T.A. 1810 Telumehtar sailed against Umbar and took the city. He slew the last lords of the house of Castamir in the fighting. He then added Umbardacil to his name, meaning conqueror of Umbar.\n\nUmbar remained in Gondor's hands for a long time after that. It was later lost again.",
+  "film": "Telumehtar does not appear in the films.",
+  "series": "",
+  "facts": {
+   "Race": "Man (Dúnadan)",
+   "Title": "King of Gondor"
+  },
+  "places": [
+   {
+    "id": "TO065",
+    "role": "ruled",
+    "note": "Rules Gondor from Minas Anor, the royal seat since T.A. 1640."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Umbar",
+    "role": "fought",
+    "note": "Captures the stronghold of the Corsairs in T.A. 1810."
+   }
+  ],
+  "related": [
+   "person:castamir",
+   "person:earnil-ii"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:witch-king",
+  "title": "Witch-king of Angmar",
+  "group": "Enemies",
+  "kind": "Lord of the Nazgûl, Lord of Angmar",
+  "aka": [
+   "Lord of the Nazgûl",
+   "Lord of Angmar",
+   "Black Captain",
+   "Ringwraith"
+  ],
+  "blurb": "The Witch-king was the chief of the Nazgûl and ruler of Angmar. He destroyed Arnor, stabbed Frodo, and died at the Pelennor.",
+  "book": "The Witch-king was a Man who took one of the Nine Rings and became the chief of the Nazgûl. About T.A. 1300 he came north and founded the realm of Angmar.\n\nHe destroyed the kingdom of Arnor in long wars against its successors. In T.A. 1974 he took Fornost, but Elves from Lindon and Gondorian forces drove him from the north. He fled to Mordor and gathered the other Nazgûl.\n\nIn T.A. 2002 the Nine took Minas Ithil. It became Minas Morgul. In T.A. 2050 King Eärnur accepted his challenge and rode into Minas Morgul. Eärnur was never seen again.\n\nIn T.A. 3018 he led the Nazgûl against Frodo at Weathertop. At the siege of Minas Tirith he broke the gates. On the Pelennor, Éowyn and Merry slew him, as an old prophecy said no man could.",
+  "film": "The films show him mostly as a black rider and on a winged beast. In the extended edition of the third film he confronts Gandalf in the city and breaks his staff. The films do not show his history in Angmar.",
+  "series": "",
+  "facts": {
+   "Race": "Man, later Nazgûl",
+   "Died": "T.A. 3019",
+   "Title": "Lord of the Nazgûl"
+  },
+  "places": [
+   {
+    "id": "TO019",
+    "role": "ruled",
+    "note": "Rules the realm of Angmar from Carn Dûm from about T.A. 1300."
+   },
+   {
+    "id": "battle:fornost",
+    "role": "fought",
+    "note": "Takes Fornost in T.A. 1974 and is defeated there in 1975."
+   },
+   {
+    "id": "battle:fall-of-minas-ithil",
+    "role": "fought",
+    "note": "Takes Minas Ithil with the Nazgûl in T.A. 2002."
+   },
+   {
+    "id": "TO064",
+    "role": "lived",
+    "note": "Holds Minas Morgul as his fortress from T.A. 2002."
+   },
+   {
+    "id": "battle:weathertop-3018",
+    "role": "fought",
+    "note": "Stabs Frodo with a Morgul-blade on Weathertop."
+   },
+   {
+    "id": "battle:pelennor",
+    "role": "died",
+    "note": "Is slain by Éowyn and Merry on the Pelennor Fields."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:eowyn",
+   "person:meriadoc-brandybuck",
+   "person:earnur",
+   "person:gandalf",
+   "person:frodo-baggins",
+   "person:gothmog-of-minas-morgul",
+   "thing:morgul-knife",
+   "thing:nine-rings"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V",
+   "The Lord of the Rings, Appendix A",
+   "Unfinished Tales"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:gothmog-of-minas-morgul",
+  "title": "Gothmog of Minas Morgul",
+  "group": "Enemies",
+  "kind": "Lieutenant of Minas Morgul",
+  "aka": [
+   "Lieutenant of Morgul"
+  ],
+  "blurb": "Gothmog was the lieutenant of Minas Morgul. He led Mordor's host on the Pelennor after the fall of the Witch-king.",
+  "book": "Gothmog was a servant of Sauron and a lieutenant of the tower of Minas Morgul. He served the Witch-king of Angmar.\n\nWhen the Witch-king fell in T.A. 3019, Gothmog took command of Mordor's army on the Pelennor. He drove the host onward against the defenders of Minas Tirith.\n\nThe books say little of his fate. He should not be confused with Gothmog, the Lord of Balrogs in the First Age.",
+  "film": "The films show Gothmog as a deformed Orc commander who leads the siege forces. Lawrence Makoare plays him.",
+  "series": "",
+  "facts": {
+   "Title": "Lieutenant of Minas Morgul"
+  },
+  "places": [
+   {
+    "id": "TO064",
+    "role": "lived",
+    "note": "Serves as lieutenant in the tower of Minas Morgul."
+   },
+   {
+    "id": "battle:pelennor",
+    "role": "fought",
+    "note": "Takes command of Mordor's army after the Witch-king falls."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:witch-king",
+   "person:gothmog-lord-of-balrogs"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "person:mouth-of-sauron",
+  "title": "Mouth of Sauron",
+  "group": "Enemies",
+  "kind": "Herald of Barad-dûr, Black Númenórean",
+  "aka": [
+   "Lieutenant of Barad-dûr"
+  ],
+  "blurb": "The Mouth of Sauron was the herald of Barad-dûr. He met the Captains of the West at the Black Gate to demand their surrender.",
+  "book": "The Mouth of Sauron was a Black Númenórean who served Sauron for a very long time. He forgot his own name and became the Lieutenant of Barad-dûr.\n\nIn T.A. 3019 he rode to the Black Gate to meet the Captains of the West. He showed them Sam's sword, an Elven cloak with its brooch, and Frodo's mithril coat to suggest that Frodo was captured. He demanded terms of surrender.\n\nGandalf took the tokens and refused. The Mouth then turned back in fear, and the battle began.",
+  "film": "In the extended edition he is played by Bruce Spence. Aragorn cuts off his head at the Black Gate.",
+  "series": "",
+  "facts": {
+   "Race": "Man (Black Númenórean)",
+   "Title": "Lieutenant of Barad-dûr"
+  },
+  "places": [
+   {
+    "id": "FT004",
+    "role": "lived",
+    "note": "Serves Sauron as his Lieutenant in the Dark Tower."
+   },
+   {
+    "id": "battle:morannon",
+    "role": "other",
+    "note": "Meets the Captains at the Black Gate and demands their surrender."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:gandalf",
+   "person:aragorn",
+   "person:sauron",
+   "thing:mithril-coat"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:elendil",
+  "title": "Elendil",
+  "group": "Men",
+  "kind": "High King of Arnor and Gondor",
+  "aka": [
+   "Elendil the Tall",
+   "Elendil the Faithful"
+  ],
+  "blurb": "Elendil was a Númenórean who escaped the Downfall, founded Arnor and Gondor, and died fighting Sauron in the Last Alliance.",
+  "book": "Elendil was a lord of the Faithful of Númenor. He was called the Tall. He was the son of Amandil and the father of Isildur and Anárion.\n\nWhen Númenor was drowned in S.A. 3319, he escaped with nine ships and reached Middle-earth. He founded the realms of Arnor and Gondor in exile and was High King. He made his home at Annúminas and set a palantír in the tower of Elostirion.\n\nIn S.A. 3434 he joined Gil-galad in the Last Alliance of Elves and Men. They defeated Sauron's host on Dagorlad and besieged Barad-dûr.\n\nIn S.A. 3441 Sauron came out to fight on the slopes of Mount Doom and killed both Elendil and Gil-galad. Elendil's sword Narsil broke beneath him. His son Isildur took up the hilt-shard. Isildur later made a tomb for Elendil on the hill that the Rohirrim call Halifirien.",
+  "film": "Elendil's death at the hands of Sauron is shown in the prologue to the first film.",
+  "series": "",
+  "facts": {
+   "Race": "Man (Dúnadan)",
+   "Died": "S.A. 3441",
+   "Parents": "Amandil",
+   "Children": "Isildur, Anárion",
+   "Title": "High King of Arnor and Gondor"
+  },
+  "places": [
+   {
+    "id": "realm:lindon",
+    "role": "travelled",
+    "note": "Lands in Lindon after the Downfall and is welcomed by Gil-galad."
+   },
+   {
+    "id": "TO006",
+    "role": "ruled",
+    "note": "Makes Annúminas the royal seat of Arnor."
+   },
+   {
+    "id": "BU015",
+    "role": "other",
+    "note": "Sets a palantír in this tower to look west over the sea."
+   },
+   {
+    "id": "battle:dagorlad",
+    "role": "fought",
+    "note": "Helps destroy Sauron's host in the Last Alliance."
+   },
+   {
+    "id": "MT036",
+    "role": "died",
+    "note": "Falls in combat with Sauron on the slopes of Mount Doom."
+   },
+   {
+    "id": "GR021",
+    "role": "buried",
+    "note": "Isildur makes his tomb on the summit of Halifirien."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Númenor",
+    "role": "lived",
+    "note": "Lived there until its Downfall."
+   }
+  ],
+  "related": [
+   "person:isildur",
+   "person:anarion",
+   "person:amandil",
+   "person:gil-galad",
+   "person:sauron",
+   "thing:elendilmir",
+   "thing:standard-of-elendil",
+   "thing:elostirion-stone"
+  ],
+  "sources": [
+   "The Silmarillion",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:isildur",
+  "title": "Isildur",
+  "group": "Men",
+  "kind": "Son of Elendil, King of Gondor and Arnor",
+  "aka": [
+   "Isildur Elendil's son"
+  ],
+  "blurb": "Isildur cut the Ring from Sauron's hand but kept it. Orcs killed him at the Gladden Fields in T.A. 2.",
+  "book": "Isildur was the elder son of Elendil. He escaped the Downfall of Númenor and founded Minas Ithil. He planted a seedling of the White Tree in the city.\n\nIn the Last Alliance he fought at Dagorlad and in the siege of Barad-dûr. When Sauron killed Elendil, Isildur used his father's broken sword to cut the Ring from Sauron's hand. Sauron's body perished.\n\nIsildur refused to destroy the Ring at Mount Doom. He kept it, and the Ring corrupted him.\n\nIn T.A. 2 Orcs attacked his company at the Gladden Fields. Isildur put on the Ring and escaped into the river, but the Ring slipped from his finger. Orc arrows killed him. The Ring was lost in the water.",
+  "film": "Harry Sinclair plays Isildur. The film shows him refusing to destroy the Ring in the fire of Mount Doom.",
+  "series": "",
+  "facts": {
+   "Race": "Man (Dúnadan)",
+   "Died": "T.A. 2",
+   "Parents": "Elendil",
+   "Children": "Elendur, Aratan, Ciryon, Valandil",
+   "Title": "King of Arnor and Gondor"
+  },
+  "places": [
+   {
+    "id": "TO064",
+    "role": "made",
+    "note": "Founds Minas Ithil (later Minas Morgul) and plants the White Tree."
+   },
+   {
+    "id": "battle:dagorlad",
+    "role": "fought",
+    "note": "Fights in the great battle against Sauron."
+   },
+   {
+    "id": "MT036",
+    "role": "found",
+    "note": "Cuts the Ring from Sauron's hand on the slopes of Mount Doom and keeps it."
+   },
+   {
+    "id": "battle:gladden-fields",
+    "role": "died",
+    "note": "Is killed by Orcs, and the Ring is lost."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:elendil",
+   "person:anarion",
+   "person:elendur",
+   "person:valandil",
+   "person:sauron",
+   "thing:one-ring",
+   "thing:white-tree"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II",
+   "The Silmarillion",
+   "Unfinished Tales"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:anarion",
+  "title": "Anárion",
+  "group": "Men",
+  "kind": "Son of Elendil, co-founder of Gondor",
+  "aka": [
+   "Anárion Elendil's son"
+  ],
+  "blurb": "Anárion was the younger son of Elendil. He ruled Gondor with Isildur and died at the siege of Barad-dûr.",
+  "book": "Anárion was the younger son of Elendil. He escaped the Downfall of Númenor and founded Minas Anor in the southern realm. He and Isildur ruled Gondor together.\n\nHe held Osgiliath against Sauron, who attacked Ithilien. In the Last Alliance he fought in the siege of Barad-dûr. In S.A. 3440 a stone thrown from the tower killed him.\n\nHis son Meneldil later ruled Gondor. All the kings of Gondor descended from Anárion.",
+  "film": "Anárion does not appear in the films.",
+  "series": "",
+  "facts": {
+   "Race": "Man (Dúnadan)",
+   "Died": "S.A. 3440",
+   "Parents": "Elendil",
+   "Siblings": "Isildur",
+   "Children": "Meneldil",
+   "Title": "Co-king of Gondor"
+  },
+  "places": [
+   {
+    "id": "TO065",
+    "role": "made",
+    "note": "Founds Minas Anor, later called Minas Tirith."
+   },
+   {
+    "id": "TO078",
+    "role": "ruled",
+    "note": "Rules from Osgiliath with his brother."
+   },
+   {
+    "id": "FT004",
+    "role": "died",
+    "note": "Is slain by a stone cast from Barad-dûr during the siege."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:elendil",
+   "person:isildur",
+   "person:meneldil",
+   "person:sauron"
+  ],
+  "sources": [
+   "The Silmarillion",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:elendur",
+  "title": "Elendur",
+  "group": "Men",
+  "kind": "Eldest son of Isildur",
+  "aka": [
+   "Isildur's heir"
+  ],
+  "blurb": "Elendur was the eldest son of Isildur and his heir. He fell beside his father at the Gladden Fields in T.A. 2.",
+  "book": "Elendur was the eldest son of Isildur. He went with his father when Isildur marched north to Arnor after the war.\n\nOrcs ambushed their company at the Gladden Fields in T.A. 2. Elendur was killed in the fight, as were his brothers Aratan and Ciryon. His father also died.\n\nOnly his youngest brother Valandil, who was safe at Rivendell, remained to take the crown of Arnor.",
+  "film": "Elendur does not appear in the films.",
+  "series": "",
+  "facts": {
+   "Race": "Man (Dúnadan)",
+   "Died": "T.A. 2",
+   "Parents": "Isildur",
+   "Siblings": "Aratan, Ciryon, Valandil"
+  },
+  "places": [
+   {
+    "id": "battle:gladden-fields",
+    "role": "died",
+    "note": "Is killed beside his father in the Orc ambush."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:isildur",
+   "person:valandil",
+   "person:elendil"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A",
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:valandil",
+  "title": "Valandil",
+  "group": "Men",
+  "kind": "Third King of Arnor",
+  "aka": [
+   "Valandil Isildur's son"
+  ],
+  "blurb": "Valandil was the youngest son of Isildur. He survived the Gladden Fields and became the third King of Arnor.",
+  "book": "Valandil was the youngest son of Isildur. He was left in Rivendell while his father marched north, so he escaped the ambush at the Gladden Fields.\n\nAfter Isildur and his elder sons fell, Valandil became King of Arnor in T.A. 10. He ruled from Annúminas and was the third king, after Elendil and Isildur.\n\nHe reigned until his death in T.A. 249. His descendants ruled Arnor and its successor kingdoms, and from them came the Chieftains of the Dúnedain.",
+  "film": "Valandil does not appear in the films.",
+  "series": "",
+  "facts": {
+   "Race": "Man (Dúnadan)",
+   "Died": "T.A. 249",
+   "Parents": "Isildur",
+   "Siblings": "Elendur, Aratan, Ciryon",
+   "Title": "King of Arnor"
+  },
+  "places": [
+   {
+    "id": "TO084",
+    "role": "lived",
+    "note": "Is kept in Rivendell when his father marches north."
+   },
+   {
+    "id": "TO006",
+    "role": "ruled",
+    "note": "Rules Arnor from Annúminas."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:isildur",
+   "person:elendur",
+   "person:elrond"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:meneldil",
+  "title": "Meneldil",
+  "group": "Men",
+  "kind": "Third King of Gondor, son of Anárion",
+  "aka": [
+   "Meneldil son of Anárion"
+  ],
+  "blurb": "Meneldil was the son of Anárion. He ruled Gondor after Isildur went north and began its long line of kings.",
+  "book": "Meneldil was the son of Anárion. Before Isildur marched north, he gave Meneldil the rule of Gondor. After Isildur died, Meneldil ruled Gondor alone.\n\nHe ruled for many years from Osgiliath, the chief city of the realm, and kept the realm as his father had left it.\n\nAll later kings of Gondor came from him. His descendants held the throne until the line ended with Eärnur.",
+  "film": "Meneldil does not appear in the films.",
+  "series": "",
+  "facts": {
+   "Race": "Man (Dúnadan)",
+   "Parents": "Anárion",
+   "Title": "King of Gondor"
+  },
+  "places": [
+   {
+    "id": "TO078",
+    "role": "ruled",
+    "note": "Rules Gondor from Osgiliath after the Last Alliance."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:anarion",
+   "person:isildur",
+   "person:earnur"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "low"
+ }
+]

@@ -1,0 +1,775 @@
+[
+ {
+  "id": "NP001",
+  "title": "Bamfurlong",
+  "land": "me",
+  "layer": "Buildings",
+  "tier": 3,
+  "x": 592.0,
+  "y": 1409.0,
+  "kind": "Farm in the Marish",
+  "blurb": "Bamfurlong is the farm of Farmer Maggot, in the Marish of the Eastfarthing, a few miles from Stock.",
+  "book": "Bamfurlong is the home of Farmer Maggot, a sturdy hobbit who grows crops and mushrooms in the Marish. It lies in the Eastfarthing, near Stock.\n\nFrodo, Sam and Pippin cross his land on their way east in T.A. 3018. Frodo fears the farmer because of a boyhood quarrel over mushrooms. Maggot proves kind.\n\nHe has already met a Black Rider on his road and sent it away. He gives the travellers food and mushrooms. Then he drives them in his wagon to the Bucklebury Ferry.",
+  "film": "Merry and Pippin raid Farmer Maggot's crops, and he chases them off with his dogs. He does not drive the hobbits to the ferry.",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "The Marish, Eastfarthing, near Stock"
+  },
+  "related": [
+   "TO091",
+   "SW008",
+   "NP002",
+   "person:farmer-maggot",
+   "person:frodo-baggins"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "NP002",
+  "title": "Bucklebury Ferry",
+  "land": "me",
+  "layer": "Harbors",
+  "tier": 2,
+  "x": 604.0,
+  "y": 1412.0,
+  "kind": "Ferry over the Brandywine",
+  "blurb": "The ferry carries travellers over the Brandywine between the Marish and Buckland, and it saved Frodo from a Black Rider.",
+  "book": "The Bucklebury Ferry crosses the Brandywine River from the end of the lane from Stock to the landing below Bucklebury. It links the Marish to Buckland.\n\nOn the evening of Frodo's flight in T.A. 3018, Merry rides out to meet the hobbits near the ferry. He then takes them over the river on the ferry-boat.\n\nAs they cross, a dark shape appears on the landing they have left. The Rider cannot follow over the water. The nearest crossing is the Brandywine Bridge, some twenty miles to the north.",
+  "film": "The hobbits race to a ferry and push it off from the bank as a Black Rider gallops up.",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire and Buckland",
+   "Location": "Brandywine River, below Bucklebury"
+  },
+  "related": [
+   "TO014",
+   "TO091",
+   "NP001",
+   "DO005",
+   "person:meriadoc-brandybuck",
+   "person:frodo-baggins"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "NP003",
+  "title": "Three-Farthing Stone",
+  "land": "me",
+  "layer": "Buildings",
+  "tier": 3,
+  "x": 543.0,
+  "y": 1419.0,
+  "kind": "Boundary stone of the Shire",
+  "blurb": "The Three-Farthing Stone is a boundary mark near the middle of the Shire, where three of the Farthings meet.",
+  "book": "The Three-Farthing Stone stands beside the Great East Road near the middle of the Shire. It marks the place where three of the four Farthings meet.\n\nThe stone lies on the Road not far from Bywater and Hobbiton. It is named on the map of the Shire in The Lord of the Rings.\n\nThe Farthings had no lords of their own. The Thain and the Mayor of Michel Delving held the chief offices of the whole Shire.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "Near the centre of the Shire, on the East Road near Bywater"
+  },
+  "related": [
+   "TO016",
+   "realm:the-shire"
+  ],
+  "sources": [
+   "The Lord of the Rings, map of the Shire",
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "NP004",
+  "title": "South-gate of Bree",
+  "land": "me",
+  "layer": "Doors_Gates",
+  "tier": 3,
+  "x": 668.0,
+  "y": 1430.0,
+  "kind": "Gate of Bree",
+  "blurb": "The south-gate is the gate where the Road leaves the village of Bree and goes on towards the east.",
+  "book": "Bree stands on the Great East Road, and a hedge and dike circle the village. The Road passes through it by two gates, the West-gate and the South-gate.\n\nThe South-gate lies where the Road leaves the village and turns east toward the Weather Hills.\n\nThe gates are shut at night and kept by gatekeepers. On the morning after the night attack in T.A. 3018, Frodo's party leaves Bree by the Road and passes Bill Ferny's house near the south end of the village.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Bree-land",
+   "Location": "South side of Bree, where the East Road leaves the village"
+  },
+  "related": [
+   "TO011",
+   "RD012",
+   "person:bill-ferny"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "NP005",
+  "title": "Lone-lands",
+  "land": "me",
+  "layer": "Fields",
+  "tier": 3,
+  "x": 850.0,
+  "y": 1443.0,
+  "kind": "Empty land of Eriador",
+  "blurb": "The Lone-lands are the empty country along the East Road between the Weather Hills and the Hoarwell.",
+  "book": "The Lone-lands lie in eastern Eriador, between the Weather Hills and the River Hoarwell. Few people live there. Old ruins of Arnor and its watchtowers stand on the hills.\n\nBoth Bilbo and Frodo cross this land on the East Road. Bilbo, with Gandalf and the dwarves, passes through it on the way to the Misty Mountains.\n\nIn T.A. 3018 Frodo and his friends cross it with Strider, who guides them away from the Road and toward Rivendell.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Eriador",
+   "Location": "Along the East Road, east of the Weather Hills"
+  },
+  "related": [
+   "HI052",
+   "RD012",
+   "RI040",
+   "NP006",
+   "realm:eriador",
+   "realm:arnor"
+  ],
+  "sources": [
+   "The Hobbit, Chapter 2",
+   "The Lord of the Rings, Book I"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "NP006",
+  "title": "Clearing of the Stone-trolls",
+  "land": "me",
+  "layer": "Fields",
+  "tier": 3,
+  "x": 1050.0,
+  "y": 1451.0,
+  "kind": "Stone-trolls near the Road",
+  "blurb": "Three trolls stand turned to stone in a clearing in the Trollshaws, near their cave beside the East Road.",
+  "book": "Bert, Tom and William were trolls who captured Bilbo and the dwarves in T.A. 2941. Gandalf kept them quarrelling until dawn. The sun then turned all three to stone.\n\nTheir cave held a hoard. Thorin took the sword later known as Orcrist, and Gandalf took Glamdring. Bilbo took the small blade later named Sting.\n\nIn T.A. 3018 Strider leads Frodo's party to the stone trolls in a clearing near the Road. Strider shows that they are only stone, and Sam recites his own rhyme about a troll.",
+  "film": "In The Hobbit: An Unexpected Journey, Bilbo stalls the trolls with talk of cooking. Gandalf then splits a rock, and the dawn light turns them to stone.",
+  "series": "",
+  "facts": {
+   "Realm": "Eriador",
+   "Location": "The Trollshaws, north of the East Road"
+  },
+  "related": [
+   "CA014",
+   "FO033",
+   "person:bert",
+   "person:william",
+   "person:tom-the-troll",
+   "person:gandalf",
+   "thing:sting"
+  ],
+  "sources": [
+   "The Hobbit, Chapter 2",
+   "The Lord of the Rings, Book I"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "NP007",
+  "title": "Ettenmoors",
+  "land": "me",
+  "layer": "Hills",
+  "tier": 2,
+  "x": 1058.0,
+  "y": 1550.0,
+  "kind": "Troll-haunted moors",
+  "blurb": "The Ettenmoors are high troll-haunted moors north of Rivendell, near the source of the Hoarwell.",
+  "book": "The Ettenmoors are bleak troll-fells north of the Trollshaws and north-west of Rivendell. The Hoarwell flows out of them.\n\nStrider names them when he tells the hobbits about the rivers they must cross. The name refers to trolls, and few travellers go there.\n\nRivendell lies to the south-east of the moors, under the feet of the Misty Mountains.",
+  "film": "",
+  "series": "",
+  "names": {
+   "English": "Troll-fells"
+  },
+  "facts": {
+   "Realm": "Eriador",
+   "Location": "North of the Trollshaws, near the Hoarwell"
+  },
+  "related": [
+   "TO084",
+   "FO033",
+   "RI040",
+   "NP008",
+   "NP006"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "NP008",
+  "title": "Coldfells",
+  "land": "me",
+  "layer": "Hills",
+  "tier": 3,
+  "x": 1118.0,
+  "y": 1560.0,
+  "kind": "Cold hills north of Rivendell",
+  "blurb": "The Coldfells are chilly uplands north of Rivendell, where hill-trolls killed the Dúnedain chieftain Arador.",
+  "book": "The Coldfells lie in the cold north of Eriador. The Dúnedain Rangers watched the lands there against trolls and orcs.\n\nIn T.A. 2930 hill-trolls killed Arador, the chieftain of the Dúnedain and the grandfather of Aragorn. His son Arathorn then became chieftain.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Eriador",
+   "Location": "North of Rivendell"
+  },
+  "related": [
+   "TO084",
+   "NP007",
+   "person:arathorn-ii",
+   "person:aragorn"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "NP009",
+  "title": "Redhorn Gate",
+  "land": "me",
+  "layer": "Valleys",
+  "tier": 2,
+  "x": 1085.0,
+  "y": 1296.0,
+  "kind": "Pass under Caradhras",
+  "blurb": "The Redhorn Gate is a high pass in the Misty Mountains, below Caradhras, that leads down to Dimrill Dale.",
+  "book": "The Redhorn Gate crosses the Misty Mountains on the flank of Caradhras, the Redhorn. From it the Dimrill Stair descends to Dimrill Dale and the Silverlode.\n\nIn January T.A. 3019 the Fellowship tries to cross here. Heavy snow and bitter cold stop them. Boromir thinks the Enemy sent the storm, and Gimli blames the cruelty of Caradhras itself.\n\nWolves attack them after they turn back. They then go into Moria instead.",
+  "film": "Saruman casts a spell from afar, causing an avalanche, and the Fellowship retreats toward Moria.",
+  "series": "",
+  "facts": {
+   "Realm": "Misty Mountains",
+   "Location": "Under Caradhras, between Hollin and Dimrill Dale"
+  },
+  "related": [
+   "MT006",
+   "VA035",
+   "VA004",
+   "TO066",
+   "person:gandalf",
+   "person:boromir"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "NP010",
+  "title": "Naith of Lórien",
+  "land": "me",
+  "layer": "Forests",
+  "tier": 2,
+  "x": 1204.0,
+  "y": 1215.0,
+  "kind": "Heart of Lórien",
+  "blurb": "The Naith, or Gore, is the land between the Silverlode and the Anduin, where Caras Galadhon stands.",
+  "book": "The Naith of Lórien is a wedge of land between the River Silverlode and the Great River Anduin. Haldir calls it the Gore in the Common Speech, because it is shaped like a spearhead.\n\nThe Fellowship enters it in January T.A. 3019 after crossing the Silverlode. Haldir and his brothers lead them, blindfolded at first, to Cerin Amroth and Caras Galadhon, where Galadriel and Celeborn live.\n\nThe Fellowship rests there for about a month before leaving by boat down the Silverlode.",
+  "film": "",
+  "series": "",
+  "names": {
+   "English": "The Gore"
+  },
+  "facts": {
+   "Realm": "Lothlórien",
+   "Location": "Between the Silverlode and the Anduin"
+  },
+  "related": [
+   "TO018",
+   "HI014",
+   "RI014",
+   "RI003",
+   "person:galadriel",
+   "person:celeborn",
+   "person:haldir"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "NP011",
+  "title": "Durin's Stone",
+  "land": "me",
+  "layer": "Buildings",
+  "tier": 2,
+  "x": 1151.0,
+  "y": 1235.0,
+  "kind": "Pillar by the Mirrormere",
+  "blurb": "Durin's Stone is a pillar beside the Mirrormere that marks where Durin the Deathless first looked into the water.",
+  "book": "Durin's Stone is a worn pillar by the shore of the Mirrormere in Dimrill Dale. It marks the place where Durin the Deathless first saw the lake.\n\nDurin, eldest of the Dwarves' fathers, saw a crown of stars reflected in the water. He is said to have founded Khazad-dûm nearby.\n\nIn T.A. 3019 Gimli leads Frodo to the water. Frodo sees the stars in the pool, even though it is day.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Misty Mountains",
+   "Location": "Beside the Mirrormere, Dimrill Dale"
+  },
+  "related": [
+   "LA012",
+   "VA004",
+   "TO066",
+   "person:durin-the-deathless",
+   "person:gimli",
+   "person:frodo-baggins"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "NP012",
+  "title": "Sarn Gebir",
+  "land": "me",
+  "layer": "Falls",
+  "tier": 2,
+  "x": 1387.0,
+  "y": 949.0,
+  "kind": "Rapids of the Anduin",
+  "blurb": "Sarn Gebir is a stretch of rapids in the Anduin north of the Argonath, where the Fellowship carried its boats.",
+  "book": "Sarn Gebir lies in the gorge of the Anduin through the Emyn Muil. There the river runs over jagged rocks, and boats cannot pass.\n\nIn February T.A. 3019 the Fellowship drifts toward the rapids in the dark. Orcs shoot at them from the eastern bank, and Legolas shoots down a winged shape above the river.\n\nThe next day the company carries its boats and goods along a portage-way on the western shore. It then goes on to the Argonath.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Location": "Anduin, in the Emyn Muil above the Argonath",
+   "Kind": "Rapids"
+  },
+  "related": [
+   "DO002",
+   "HI022",
+   "RI003",
+   "person:legolas",
+   "person:aragorn"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "NP013",
+  "title": "East Wall of Rohan",
+  "land": "me",
+  "layer": "Hills",
+  "tier": 3,
+  "x": 1335.0,
+  "y": 915.0,
+  "kind": "Cliff above Rohan",
+  "blurb": "The East Wall of Rohan is the western cliff of the Emyn Muil, which drops down to the plains of Rohan.",
+  "book": "The East Wall of Rohan is the steep western edge of the Emyn Muil. Below it lie the grass plains of Rohan.\n\nAragorn, Legolas and Gimli follow the orc trail across the hills in T.A. 3019. They climb down the wall by a cleft onto the plains. They then run for days across the grassland before they meet Éomer and his riders.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "Location": "Western edge of the Emyn Muil"
+  },
+  "related": [
+   "HI022",
+   "FI028",
+   "person:aragorn",
+   "person:legolas",
+   "person:gimli",
+   "person:eomer"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book III"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "NP014",
+  "title": "Eastemnet",
+  "land": "me",
+  "layer": "Fields",
+  "tier": 3,
+  "x": 1245.0,
+  "y": 900.0,
+  "kind": "Grasslands of Rohan",
+  "blurb": "The Eastemnet is the wide grassland of eastern Rohan, east of the River Entwash.",
+  "book": "The Eastemnet is a broad, open land of grass in eastern Rohan. It lies east of the Entwash and south of the Wold.\n\nAragorn, Legolas and Gimli cross it on foot as they hunt the orcs in T.A. 3019. Éomer's riders also pass over it and destroy the orcs near the eaves of Fangorn.\n\nThe land is part of the Mark of the Rohirrim.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "Location": "East of the Entwash"
+  },
+  "related": [
+   "FI028",
+   "RI085",
+   "realm:rohan",
+   "person:eomer",
+   "person:aragorn"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book III"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "NP015",
+  "title": "Westemnet",
+  "land": "me",
+  "layer": "Fields",
+  "tier": 3,
+  "x": 1081.0,
+  "y": 911.0,
+  "kind": "Plains of western Rohan",
+  "blurb": "The Westemnet is the grassland of western Rohan, on the west side of the River Entwash.",
+  "book": "The Westemnet is the broad plain of Rohan on the west side of the Entwash. It runs from the White Mountains north toward Fangorn.\n\nÉomer's riders cross the plain on their way back to Edoras. Théoden and Gandalf later ride over it toward the Fords of Isen and Helm's Deep in T.A. 3019.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "Location": "West of the Entwash"
+  },
+  "related": [
+   "TO029",
+   "RI085",
+   "FO012",
+   "realm:rohan",
+   "person:theoden"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book III"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "NP016",
+  "title": "Eastfold",
+  "land": "me",
+  "layer": "Fields",
+  "tier": 3,
+  "x": 1168.0,
+  "y": 810.0,
+  "kind": "Land of eastern Rohan",
+  "blurb": "The Eastfold is a fertile region of Rohan under the White Mountains, east of Edoras.",
+  "book": "The Eastfold is one of the regions of Rohan. It lies east of Edoras under the northern slopes of the White Mountains, toward the border of Anórien.\n\nÉomund, the father of Éomer and Éowyn, was a lord of the Eastfold and chief Marshal of the Mark.\n\nThe great road from Edoras to Gondor runs east through this land. The host of Rohan rides along it toward Minas Tirith in March T.A. 3019.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "Location": "East of Edoras, under the White Mountains"
+  },
+  "related": [
+   "TO029",
+   "RI087",
+   "RD044",
+   "realm:rohan",
+   "person:eomund",
+   "person:theoden"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "NP017",
+  "title": "Westfold",
+  "land": "me",
+  "layer": "Valleys",
+  "tier": 3,
+  "x": 992.0,
+  "y": 925.0,
+  "kind": "Vale of western Rohan",
+  "blurb": "The Westfold is the valley of western Rohan, where Helm's Deep and the Hornburg stand.",
+  "book": "The Westfold is the vale of western Rohan between the River Isen and the White Mountains. Helm's Deep opens from it.\n\nIn T.A. 3019 Saruman sends orcs and Dunlendings against it. Erkenbrand, Master of the Westfold, leads the defence there.\n\nThéoden flees to the Hornburg and holds it. Gandalf and Erkenbrand bring help at dawn.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "Location": "Between the Isen and the White Mountains"
+  },
+  "related": [
+   "FT014",
+   "FT016",
+   "RD045",
+   "person:erkenbrand",
+   "person:theoden",
+   "person:saruman"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book III"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "NP018",
+  "title": "Thrihyrne",
+  "land": "me",
+  "layer": "Mountains",
+  "tier": 3,
+  "x": 966.0,
+  "y": 889.0,
+  "kind": "Mountain above Helm's Deep",
+  "blurb": "The Thrihyrne is a mountain with three horns at the head of the Deeping-coomb, behind Helm's Deep.",
+  "book": "The Thrihyrne is a mountain with three peaks. It stands at the head of the Deeping-coomb, above the Hornburg and Helm's Deep.\n\nThe name means three-horned. Helm's Deep is a gorge that winds back into the mountains beneath it, and the Hornburg guards its mouth.",
+  "film": "",
+  "series": "",
+  "names": {
+   "English": "Three-horned"
+  },
+  "facts": {
+   "Realm": "Rohan",
+   "Location": "Head of the Deeping-coomb"
+  },
+  "related": [
+   "FT014",
+   "FT016",
+   "VA003",
+   "person:helm-hammerhand"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book III"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "NP019",
+  "title": "Starkhorn",
+  "land": "me",
+  "layer": "Mountains",
+  "tier": 3,
+  "x": 1040.0,
+  "y": 813.0,
+  "kind": "Peak above Dunharrow",
+  "blurb": "The Starkhorn is a high snow-capped peak at the head of Harrowdale, above Dunharrow.",
+  "book": "The Starkhorn is a high peak in the White Mountains. It rises above Harrowdale and the refuge of Dunharrow.\n\nThéoden's army musters beneath it in T.A. 3019. From there the Rohirrim ride toward Minas Tirith.\n\nThe mountain stands near the Dwimorberg, which hides the Dark Door of the Paths of the Dead.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "Location": "Head of Harrowdale"
+  },
+  "related": [
+   "FT009",
+   "VA008",
+   "NP020",
+   "person:theoden"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "NP020",
+  "title": "Dwimorberg",
+  "land": "me",
+  "layer": "Mountains",
+  "tier": 2,
+  "x": 1052.0,
+  "y": 809.0,
+  "kind": "The Haunted Mountain",
+  "blurb": "The Dwimorberg is the Haunted Mountain behind Dunharrow, with the Dark Door of the Paths of the Dead in its side.",
+  "book": "The Dwimorberg is a dark, haunted mountain above Dunharrow. The Dark Door in its cliff leads to the Paths of the Dead.\n\nThe Dead of Dunharrow haunt the paths under the mountain. They broke their oath to Isildur and could not rest.\n\nIn T.A. 3019 Aragorn takes the Paths and calls the Dead to fight. Legolas, Gimli and the Grey Company go with him.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "Location": "Behind Dunharrow, in the White Mountains"
+  },
+  "related": [
+   "FT009",
+   "VA005",
+   "VA008",
+   "person:aragorn",
+   "person:legolas",
+   "person:gimli"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "NP021",
+  "title": "Methedras",
+  "land": "me",
+  "layer": "Mountains",
+  "tier": 2,
+  "x": 989.0,
+  "y": 1037.0,
+  "kind": "Last peak of the Misty Mountains",
+  "blurb": "Methedras is the southernmost peak of the Misty Mountains, above Isengard, and near the home of Treebeard.",
+  "book": "Methedras is the last great peak at the southern end of the Misty Mountains. It stands above the valley of Isengard.\n\nTreebeard's home, Wellinghall, lies in the mountain's eastern slopes. The Ents' land runs along its feet.\n\nSaruman's Orthanc stands in the valley to the south. The mountain overlooks his fortress.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Misty Mountains",
+   "Location": "South end of the range, above Isengard"
+  },
+  "related": [
+   "BU086",
+   "FT017",
+   "FO012",
+   "person:treebeard",
+   "person:saruman"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book III"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "NP022",
+  "title": "Gap of Rohan",
+  "land": "me",
+  "layer": "Valleys",
+  "tier": 2,
+  "x": 943.0,
+  "y": 935.0,
+  "kind": "Pass between two mountain ranges",
+  "blurb": "The Gap of Rohan is the wide pass between the Misty Mountains and the White Mountains, crossed by the Isen.",
+  "book": "The Gap of Rohan lies between the southern end of the Misty Mountains and the western end of the White Mountains. The Isen flows through it.\n\nIsengard stands at its northern edge. The Fords of Isen cross the river there.\n\nGandalf names it as one road the Fellowship might take. They choose the pass of Caradhras instead.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "Location": "Between the Misty and White Mountains"
+  },
+  "related": [
+   "FJ008",
+   "RI086",
+   "FT017",
+   "MT034",
+   "MT055",
+   "person:saruman"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II",
+   "The Lord of the Rings, Book III"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "NP023",
+  "title": "Treebeard's Hill",
+  "land": "me",
+  "layer": "Hills",
+  "tier": 3,
+  "x": 1115.0,
+  "y": 1020.0,
+  "kind": "Hill in Fangorn",
+  "blurb": "Treebeard's Hill is a steep hill near the eastern edge of Fangorn, where Merry and Pippin met Treebeard.",
+  "book": "Merry and Pippin escape from the orcs and enter Fangorn Forest in T.A. 3019. They climb a steep hill near the eastern edge of the forest. On a shelf of this hill they meet Treebeard, an Ent.\n\nTreebeard takes them to his home at Wellinghall. The Ents then hold their Entmoot at Derndingle and decide to march on Isengard.\n\nLater Aragorn, Legolas and Gimli climb the same hill. There they meet Gandalf, now returned as the White Rider.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Fangorn",
+   "Location": "Eastern edge of Fangorn Forest"
+  },
+  "related": [
+   "FO012",
+   "BU086",
+   "FI005",
+   "person:treebeard",
+   "person:meriadoc-brandybuck",
+   "person:peregrin-took",
+   "person:gandalf"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book III"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "NP024",
+  "title": "Mouths of Entwash",
+  "land": "me",
+  "layer": "Rivers",
+  "tier": 3,
+  "x": 1348.0,
+  "y": 834.0,
+  "kind": "Delta of the Entwash",
+  "blurb": "The Mouths of Entwash are the marshy channels where the Entwash flows into the Anduin.",
+  "book": "The Entwash flows out of Fangorn and crosses Rohan. Near its end it spreads into many channels through the fens.\n\nThese marshy mouths lie where it joins the Anduin, north of Cair Andros. They are a wet, wild land on the border between Rohan and Gondor.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Rohan",
+   "Location": "Where the Entwash meets the Anduin"
+  },
+  "related": [
+   "SW004",
+   "VA006",
+   "RI085",
+   "RI003"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book III"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "NP025",
+  "title": "Min-Rimmon",
+  "land": "me",
+  "layer": "Buildings",
+  "tier": 3,
+  "x": 1313.0,
+  "y": 743.0,
+  "kind": "Beacon hill of Anórien",
+  "blurb": "Min-Rimmon is one of the beacon hills that Gondor used to carry warning of war to Rohan.",
+  "book": "Min-Rimmon is a beacon-hill in Anórien. It is the fifth beacon in the line of watch-fires in the White Mountains, counted from Minas Tirith.\n\nThe beacons run west from Amon Dîn through Eilenach, Nardol, Erelas, Min-Rimmon and Calenhad to Amon Anwar.\n\nGondor lights them when war threatens. In T.A. 3019 the fires carry its call for help to Rohan.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Location": "Anórien, between Erelas and Calenhad"
+  },
+  "related": [
+   "BU085_57",
+   "MT060",
+   "BU085_66",
+   "MT058",
+   "realm:anorien"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "NP026",
+  "title": "Snowmane's Howe",
+  "land": "me",
+  "layer": "Graves_Tombs",
+  "tier": 3,
+  "x": 1444.0,
+  "y": 669.0,
+  "kind": "Grave of Théoden's horse",
+  "blurb": "Snowmane's Howe is the green mound on the Pelennor where Théoden's horse Snowmane was buried.",
+  "book": "Snowmane was the great horse of King Théoden. On the Pelennor Fields in T.A. 3019 a dart struck him, and he fell and crushed the king.\n\nThe Rohirrim buried him where he died. Grass grew long and green on the mound, but the ground where the Nazgûl's beast was burned stayed black and bare.\n\nThéoden was taken to Minas Tirith and was later buried in Rohan.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Gondor",
+   "Location": "Pelennor Fields"
+  },
+  "related": [
+   "FI024",
+   "person:snowmane",
+   "person:theoden",
+   "person:eomer"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V, Book VI"
+  ],
+  "confidence": "medium"
+ }
+]

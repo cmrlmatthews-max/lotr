@@ -1,0 +1,1292 @@
+[
+  {
+    "id": "person:elrond",
+    "title": "Elrond",
+    "group": "Elves",
+    "kind": "Half-elven lord of Rivendell",
+    "aka": [
+      "Half-elven",
+      "Master of Rivendell",
+      "Lord of Imladris",
+      "Peredhel"
+    ],
+    "blurb": "Elrond was the Half-elven master of Rivendell, herald of Gil-galad, bearer of Vilya, and host of the Council that formed the Fellowship.",
+    "book": "Elrond was a Half-elf, the son of Eärendil and Elwing and the brother of Elros. After the War of Wrath he chose to be counted among the Elves, while Elros chose the fate of Men and became the first king of Númenor.\n\nElrond served as herald to the High King Gil-galad. In S.A. 1697 Sauron overran Eregion. Elrond led the survivors north and founded the refuge of Imladris, later called Rivendell. He also held Vilya, the Ring of Air, which Gil-galad gave him.\n\nElrond marched with the Last Alliance and saw Gil-galad and Elendil fall on the slopes of Mount Doom. He urged Isildur to destroy the Ring, but Isildur refused. In later ages Elrond sheltered the heirs of Isildur and kept the shards of Narsil. He raised Aragorn as a foster son.\n\nIn T.A. 3018 Elrond healed Frodo and called the Council of Elrond, where the Fellowship of the Ring was chosen. His power helped raise the flood at the Ford of Bruinen. His wife Celebrían was the daughter of Galadriel. Their children were Elladan, Elrohir and Arwen. Elrond sailed West from the Grey Havens in T.A. 3021.",
+    "film": "Hugo Weaving plays Elrond in both trilogies. In The Fellowship of the Ring he argues hard for destroying the Ring and shows a doubtful attitude toward Men and toward Aragorn's love for Arwen. In The Return of the King he carries the reforged Andúril to Aragorn. In The Hobbit films he sits on the White Council.",
+    "series": "Robert Aramayo plays a young Elrond in The Rings of Power. He is an envoy of Gil-galad and a friend of Prince Durin of Khazad-dûm. The series tells its own story of his early years and does not follow the books closely.",
+    "facts": {
+      "Race": "Half-elven",
+      "Parents": "Eärendil and Elwing",
+      "Spouse": "Celebrían",
+      "Children": "Elladan, Elrohir and Arwen",
+      "Siblings": "Elros",
+      "Title": "Master of Rivendell",
+      "Realm or home": "Rivendell"
+    },
+    "places": [
+      {
+        "id": "battle:sack-of-eregion",
+        "role": "fought",
+        "note": "Leads the survivors of Eregion north in S.A. 1697 as Sauron's armies advance."
+      },
+      {
+        "id": "TO084",
+        "role": "ruled",
+        "note": "Founds Imladris in S.A. 1697 and rules it for the rest of the Third Age."
+      },
+      {
+        "id": "battle:dagorlad",
+        "role": "fought",
+        "note": "Marches as herald of Gil-galad in the Last Alliance against Sauron."
+      },
+      {
+        "id": "MT036",
+        "role": "other",
+        "note": "Sees Gil-galad and Elendil fall in the last fight with Sauron on the slopes of Orodruin."
+      },
+      {
+        "id": "battle:ford-of-bruinen",
+        "role": "other",
+        "note": "His power helps raise the flood that sweeps away the Ringwraiths in T.A. 3018."
+      },
+      {
+        "id": "TO043",
+        "role": "other",
+        "note": "Sails West from the Grey Havens in T.A. 3021."
+      }
+    ],
+    "offmap": [
+      {
+        "name": "Valinor",
+        "role": "other",
+        "note": "Sails into the West with Galadriel, Gandalf and the Ring-bearers."
+      }
+    ],
+    "related": [
+      "person:arwen",
+      "person:celebrian",
+      "person:gil-galad",
+      "person:aragorn",
+      "person:frodo-baggins",
+      "thing:vilya",
+      "thing:anduril",
+      "thing:one-ring"
+    ],
+    "sources": [
+      "The Lord of the Rings",
+      "The Lord of the Rings, Appendix A",
+      "The Lord of the Rings, Appendix B",
+      "The Silmarillion"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "person:arwen",
+    "title": "Arwen",
+    "group": "Elves",
+    "kind": "Daughter of Elrond, Queen of Gondor",
+    "aka": [
+      "Undómiel",
+      "Evenstar",
+      "Arwen Undómiel",
+      "Lady of Rivendell"
+    ],
+    "blurb": "Arwen was the daughter of Elrond, called Evenstar, who gave up her immortal life to wed Aragorn and become Queen of Gondor and Arnor.",
+    "book": "Arwen was the daughter of Elrond and Celebrían. She was born in T.A. 241 and was called Undómiel, the Evenstar of her people. She lived in Rivendell and for a time in Lórien with her mother's kin.\n\nAragorn first saw her in Rivendell in T.A. 2951 and thought of Lúthien. They met again in Lórien, and in T.A. 2980 they plighted troth on Cerin Amroth. Elrond agreed to the match only if Aragorn became king of both Gondor and Arnor.\n\nArwen did not go to the Council of Elrond, but she made a royal standard for Aragorn. Halbarad brought it south to him in T.A. 3019. After the War of the Ring she was wed to Aragorn in Minas Tirith at Midsummer. She chose the fate of mortals and gave up her passage West.\n\nShe was Queen of Gondor and Arnor until Aragorn died. After Aragorn died in Fo.A. 120, she left Minas Tirith and went to Lórien. She died there in Fo.A. 121 and was laid in a grave on Cerin Amroth.",
+    "film": "Liv Tyler plays Arwen. In the films she takes Glorfindel's place and carries Frodo to the Ford of Bruinen. The films show her bond with Aragorn more openly, and she gives him the Evenstar jewel. They also show her fading as she waits and choosing to stay in Middle-earth.",
+    "series": "",
+    "facts": {
+      "Race": "Half-elven",
+      "Born": "T.A. 241",
+      "Died": "Fo.A. 121",
+      "Parents": "Elrond and Celebrían",
+      "Spouse": "Aragorn Elessar",
+      "Title": "Queen of Gondor and Arnor",
+      "Realm or home": "Rivendell and Lórien; later Minas Tirith"
+    },
+    "places": [
+      {
+        "id": "TO084",
+        "role": "lived",
+        "note": "Lives in her father's house and makes the royal standard for Aragorn there."
+      },
+      {
+        "id": "FO017",
+        "role": "lived",
+        "note": "Dwells for a time with her mother's kin in Lórien."
+      },
+      {
+        "id": "HI014",
+        "role": "other",
+        "note": "Plights troth with Aragorn on this hill in T.A. 2980."
+      },
+      {
+        "id": "TO065",
+        "role": "other",
+        "note": "Weds Aragorn in Minas Tirith at Midsummer, T.A. 3019."
+      },
+      {
+        "id": "HI014",
+        "role": "buried",
+        "note": "Dies here in Fo.A. 121 and is laid in a green grave on the hill."
+      }
+    ],
+    "offmap": [],
+    "related": [
+      "person:elrond",
+      "person:celebrian",
+      "person:aragorn",
+      "person:galadriel",
+      "person:elladan",
+      "person:elrohir",
+      "person:halbarad",
+      "person:luthien"
+    ],
+    "sources": [
+      "The Lord of the Rings, Appendix A",
+      "The Lord of the Rings, Appendix B",
+      "The Lord of the Rings"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "person:elladan",
+    "title": "Elladan",
+    "group": "Elves",
+    "kind": "Twin son of Elrond, rider with Rangers",
+    "aka": [
+      "Son of Elrond"
+    ],
+    "blurb": "Elladan was a twin son of Elrond who rode with the Grey Company to Aragorn in T.A. 3019.",
+    "book": "Elladan was one of the twin sons of Elrond and Celebrían, born in T.A. 130. He lived in Rivendell and was a foster brother to Aragorn. With Elrohir he often rode out with the Dúnedain Rangers to hunt Orcs.\n\nIn T.A. 2509 Orcs captured their mother Celebrían in the Redhorn Pass. Elladan and Elrohir rescued her, but she was gravely hurt. She sailed West the next year.\n\nIn March T.A. 3019 the twins rode south with Halbarad and the Grey Company. They found Aragorn in Rohan and brought him a message from Elrond. They passed the Paths of the Dead and fought at Pelargir and on the Pelennor Fields. They remained in Middle-earth for a time after Elrond sailed.",
+    "film": "",
+    "series": "",
+    "facts": {
+      "Race": "Half-elven",
+      "Born": "T.A. 130",
+      "Parents": "Elrond and Celebrían",
+      "Siblings": "Elrohir (twin) and Arwen",
+      "Realm or home": "Rivendell"
+    },
+    "places": [
+      {
+        "id": "TO084",
+        "role": "lived",
+        "note": "Lives in his father's house with his brother and sister."
+      },
+      {
+        "id": "NP009",
+        "role": "fought",
+        "note": "Helps rescue his mother from the Orcs in T.A. 2509."
+      },
+      {
+        "id": "FT016",
+        "role": "travelled",
+        "note": "Meets Aragorn on the road and comes with him to the Hornburg in T.A. 3019."
+      },
+      {
+        "id": "VA040",
+        "role": "travelled",
+        "note": "Rides with Aragorn through the Paths of the Dead."
+      },
+      {
+        "id": "battle:pelargir",
+        "role": "fought",
+        "note": "Fights with the Grey Company at Pelargir."
+      },
+      {
+        "id": "battle:pelennor",
+        "role": "fought",
+        "note": "Takes part in the battle before Minas Tirith."
+      }
+    ],
+    "offmap": [],
+    "related": [
+      "person:elrond",
+      "person:celebrian",
+      "person:arwen",
+      "person:aragorn",
+      "person:halbarad",
+      "person:elrohir"
+    ],
+    "sources": [
+      "The Lord of the Rings, Appendix A",
+      "The Lord of the Rings, Appendix B",
+      "The Lord of the Rings"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "person:elrohir",
+    "title": "Elrohir",
+    "group": "Elves",
+    "kind": "Twin son of Elrond, rider with Rangers",
+    "aka": [
+      "Son of Elrond"
+    ],
+    "blurb": "Elrohir was a twin son of Elrond who rode with the Grey Company to Aragorn in T.A. 3019.",
+    "book": "Elrohir was one of the twin sons of Elrond and Celebrían, born in T.A. 130. He lived in Rivendell and was a foster brother to Aragorn. With Elladan he often rode out with the Dúnedain Rangers to hunt Orcs.\n\nIn T.A. 2509 Orcs captured their mother Celebrían in the Redhorn Pass. Elrohir and Elladan rescued her, but she was gravely hurt. She sailed West the next year.\n\nIn March T.A. 3019 the twins rode south with Halbarad and the Grey Company. They found Aragorn in Rohan and brought him a message from Elrond. They passed the Paths of the Dead and fought at Pelargir and on the Pelennor Fields. They remained in Middle-earth for a time after Elrond sailed.",
+    "film": "",
+    "series": "",
+    "facts": {
+      "Race": "Half-elven",
+      "Born": "T.A. 130",
+      "Parents": "Elrond and Celebrían",
+      "Siblings": "Elladan (twin) and Arwen",
+      "Realm or home": "Rivendell"
+    },
+    "places": [
+      {
+        "id": "TO084",
+        "role": "lived",
+        "note": "Lives in his father's house with his brother and sister."
+      },
+      {
+        "id": "NP009",
+        "role": "fought",
+        "note": "Helps rescue his mother from the Orcs in T.A. 2509."
+      },
+      {
+        "id": "FT016",
+        "role": "travelled",
+        "note": "Meets Aragorn on the road and comes with him to the Hornburg in T.A. 3019."
+      },
+      {
+        "id": "VA040",
+        "role": "travelled",
+        "note": "Rides with Aragorn through the Paths of the Dead."
+      },
+      {
+        "id": "battle:pelargir",
+        "role": "fought",
+        "note": "Fights with the Grey Company at Pelargir."
+      },
+      {
+        "id": "battle:pelennor",
+        "role": "fought",
+        "note": "Takes part in the battle before Minas Tirith."
+      }
+    ],
+    "offmap": [],
+    "related": [
+      "person:elrond",
+      "person:celebrian",
+      "person:arwen",
+      "person:aragorn",
+      "person:halbarad",
+      "person:elladan"
+    ],
+    "sources": [
+      "The Lord of the Rings, Appendix A",
+      "The Lord of the Rings, Appendix B",
+      "The Lord of the Rings"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "person:celebrian",
+    "title": "Celebrían",
+    "group": "Elves",
+    "kind": "Wife of Elrond, daughter of Galadriel",
+    "aka": [
+      "Lady of Rivendell"
+    ],
+    "blurb": "Celebrían was the daughter of Galadriel and Celeborn and wife of Elrond. Orcs wounded her in T.A. 2509, and she sailed West in T.A. 2510.",
+    "book": "Celebrían was the daughter of Galadriel and Celeborn. She wed Elrond in T.A. 109 and lived with him in Rivendell. She was the mother of Elladan, Elrohir and Arwen.\n\nIn T.A. 2509 she set out for Lothlórien to visit her parents. Orcs seized her in the Redhorn Pass in the Misty Mountains. Her sons Elladan and Elrohir rescued her, but she had been tortured and wounded.\n\nElrond healed her body, but she found no peace in Middle-earth. She sailed West in T.A. 2510.",
+    "film": "",
+    "series": "",
+    "facts": {
+      "Race": "Elf",
+      "Parents": "Galadriel and Celeborn",
+      "Spouse": "Elrond",
+      "Children": "Elladan, Elrohir and Arwen",
+      "Realm or home": "Rivendell"
+    },
+    "places": [
+      {
+        "id": "TO084",
+        "role": "lived",
+        "note": "Lives with Elrond in Rivendell and raises their three children."
+      },
+      {
+        "id": "NP009",
+        "role": "other",
+        "note": "Orcs take her prisoner here in T.A. 2509; her sons later rescue her."
+      }
+    ],
+    "offmap": [
+      {
+        "name": "Valinor",
+        "role": "other",
+        "note": "Sails West over the Sea in T.A. 2510 to find healing."
+      }
+    ],
+    "related": [
+      "person:elrond",
+      "person:galadriel",
+      "person:celeborn",
+      "person:arwen",
+      "person:elladan",
+      "person:elrohir"
+    ],
+    "sources": [
+      "The Lord of the Rings, Appendix A",
+      "The Lord of the Rings, Appendix B"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "person:glorfindel",
+    "title": "Glorfindel",
+    "group": "Elves",
+    "kind": "Elf-lord of Rivendell and Gondolin",
+    "aka": [
+      "Glorfindel of Gondolin",
+      "Elf-lord of Rivendell"
+    ],
+    "blurb": "Glorfindel was a mighty Elf-lord of Rivendell who rescued Frodo in T.A. 3018. The Silmarillion tells of a Glorfindel of Gondolin.",
+    "book": "Glorfindel was an Elf-lord in the household of Elrond at Rivendell. In T.A. 3018 Elrond sent him out to find Frodo and his friends. He met Aragorn's party on the road near the Trollshaws.\n\nGlorfindel set Frodo on his white horse Asfaloth. The horse outran the Ringwraiths and carried Frodo across the Ford of Bruinen. Glorfindel later sat at the Council of Elrond.\n\nThe Silmarillion tells of a Glorfindel of Gondolin. When the city fell, he fought a Balrog in a high pass of the Encircling Mountains, and both fell to their deaths. Thorondor bore up his body, and the refugees raised a cairn for him. Tolkien later held that the two were one Elf, sent back from Mandos, but the books listed here do not say so.",
+    "film": "Glorfindel does not take part in the Lord of the Rings films. In The Fellowship of the Ring film, Arwen takes his place in the flight to the ford.",
+    "series": "",
+    "facts": {
+      "Race": "Elf",
+      "Realm or home": "Rivendell",
+      "Weapon or steed": "Asfaloth"
+    },
+    "places": [
+      {
+        "id": "b:TO03",
+        "role": "lived",
+        "note": "Lives in the hidden city of Gondolin as a lord of Turgon's people."
+      },
+      {
+        "id": "b:battle:fall-of-gondolin",
+        "role": "fought",
+        "note": "Fights in the fall of the city and guards the flight of the survivors."
+      },
+      {
+        "id": "b:VA07",
+        "role": "died",
+        "note": "Fights a Balrog in this high pass, and both fall into the abyss."
+      },
+      {
+        "id": "b:NP007",
+        "role": "buried",
+        "note": "The survivors of Gondolin raise a cairn over his body beside the pass."
+      },
+      {
+        "id": "TO084",
+        "role": "lived",
+        "note": "Serves in Elrond's household in the Third Age."
+      },
+      {
+        "id": "FO033",
+        "role": "travelled",
+        "note": "Meets Aragorn's party and takes Frodo onto his horse in T.A. 3018."
+      },
+      {
+        "id": "battle:ford-of-bruinen",
+        "role": "other",
+        "note": "Frodo crosses the ford on Glorfindel's horse as the Ringwraiths pursue."
+      }
+    ],
+    "offmap": [],
+    "related": [
+      "person:elrond",
+      "person:frodo-baggins",
+      "person:aragorn",
+      "person:turgon",
+      "person:thorondor",
+      "person:gandalf"
+    ],
+    "sources": [
+      "The Lord of the Rings",
+      "The Silmarillion"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "person:erestor",
+    "title": "Erestor",
+    "group": "Elves",
+    "kind": "Counsellor in Elrond's house",
+    "aka": [
+      "Counsellor of Elrond"
+    ],
+    "blurb": "Erestor was an Elf of Elrond's household who spoke at the Council of Elrond in T.A. 3018.",
+    "book": "Erestor was an Elf of Elrond's household in Rivendell and one of his counsellors. The books name him only at the Council of Elrond in T.A. 3018. There he sat among the Elves, Dwarves and Men and took part in the debate about what to do with the One Ring.\n\nNothing is told of his birth, his family or his end.",
+    "film": "",
+    "series": "",
+    "facts": {
+      "Race": "Elf",
+      "Title": "Counsellor of Elrond",
+      "Realm or home": "Rivendell"
+    },
+    "places": [
+      {
+        "id": "TO084",
+        "role": "other",
+        "note": "Speaks at the Council of Elrond in T.A. 3018."
+      }
+    ],
+    "offmap": [],
+    "related": [
+      "person:elrond",
+      "person:glorfindel",
+      "person:gandalf",
+      "thing:one-ring"
+    ],
+    "sources": [
+      "The Lord of the Rings"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "person:gildor-inglorion",
+    "title": "Gildor Inglorion",
+    "group": "Elves",
+    "kind": "High-elf of the House of Finrod",
+    "aka": [
+      "Gildor",
+      "Inglorion"
+    ],
+    "blurb": "Gildor was an Elf of the House of Finrod whose wandering company met Frodo in the Woody End and gave him counsel and food.",
+    "book": "Gildor Inglorion was an Elf of the House of Finrod and the leader of a company of High-elves that wandered in Eriador. In T.A. 3018 his company met Frodo, Sam and Pippin in the Woody End in the Shire.\n\nThe Elves sang to the hobbits, shared their food and let them sleep in their camp. Gildor told Frodo to leave the Shire soon and not to travel alone. He called Frodo a friend of the Elves.\n\nHe promised to send word of the Black Riders to Gandalf and to Elrond. He and his folk were Exiles who meant soon to pass over the Sea. The books say little more of him.",
+    "film": "",
+    "series": "",
+    "facts": {
+      "Race": "Elf",
+      "House or line": "House of Finrod",
+      "Realm or home": "Wandering company in Eriador"
+    },
+    "places": [
+      {
+        "id": "FO037",
+        "role": "other",
+        "note": "Meets Frodo, Sam and Pippin here, feeds them and advises Frodo."
+      }
+    ],
+    "offmap": [],
+    "related": [
+      "person:frodo-baggins",
+      "person:samwise-gamgee",
+      "person:peregrin-took",
+      "person:gandalf",
+      "person:finrod-felagund"
+    ],
+    "sources": [
+      "The Lord of the Rings"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "person:galadriel",
+    "title": "Galadriel",
+    "group": "Elves",
+    "kind": "Lady of Lothlórien, Ring-bearer",
+    "aka": [
+      "Lady of Lothlórien",
+      "Lady of the Galadhrim",
+      "Lady of Lórien",
+      "Lady of the Wood"
+    ],
+    "blurb": "Galadriel was a Noldorin princess of the First Age who ruled Lothlórien with Celeborn and bore Nenya, the Ring of Adamant.",
+    "book": "Galadriel was a Noldorin princess, the daughter of Finarfin and sister of Finrod Felagund. She was born in Aman and came to Middle-earth in the First Age. The Silmarillion places her in Doriath with Queen Melian, where she met and wed Celeborn, a kinsman of King Thingol.\n\nIn later ages she held Nenya, one of the Three Rings, which Celebrimbor made. With Celeborn she ruled Lothlórien and used her ring to guard it. Their daughter Celebrían wed Elrond.\n\nEarly in T.A. 3019 the Fellowship rested in Lórien. Galadriel looked into the heart of each member. She showed Frodo visions in her Mirror, and she refused the One Ring when he offered it. She gave gifts to the company, including the Phial for Frodo and three golden hairs for Gimli.\n\nIn T.A. 3019 she helped to cast down Dol Guldur. In T.A. 3021 she sailed West from the Grey Havens with Elrond and the Ring-bearers. Celeborn stayed in Middle-earth.",
+    "film": "Cate Blanchett plays Galadriel. The films add her narration in the prologue and show her dark vision when she is tempted by the Ring. In The Hobbit films she helps rescue Gandalf from Dol Guldur and drives Sauron out with Elrond and Saruman.",
+    "series": "Morfydd Clark plays a young Galadriel in The Rings of Power. She is a warrior and commander who hunts Sauron for years. The series invents her friendship with Halbrand and tells her Second Age story in its own way.",
+    "facts": {
+      "Race": "Elf (Noldor)",
+      "Parents": "Finarfin and Eärwen",
+      "Spouse": "Celeborn",
+      "Children": "Celebrían",
+      "Siblings": "Finrod Felagund, Orodreth, Angrod and Aegnor",
+      "Title": "Lady of Lothlórien",
+      "Realm or home": "Lothlórien"
+    },
+    "places": [
+      {
+        "id": "b:RG07",
+        "role": "lived",
+        "note": "Lives in Doriath with Melian and meets Celeborn there."
+      },
+      {
+        "id": "FO017",
+        "role": "ruled",
+        "note": "Rules the Galadhrim with Celeborn through the later Third Age."
+      },
+      {
+        "id": "TO018",
+        "role": "other",
+        "note": "Receives the Fellowship and shows Frodo the Mirror in T.A. 3019."
+      },
+      {
+        "id": "battle:assaults-on-lothlorien",
+        "role": "fought",
+        "note": "Defends Lórien with her ring against the assaults from Dol Guldur."
+      },
+      {
+        "id": "battle:fall-of-dol-guldur",
+        "role": "fought",
+        "note": "Helps to throw down the walls of Dol Guldur in T.A. 3019."
+      },
+      {
+        "id": "TO043",
+        "role": "other",
+        "note": "Sails West from the Grey Havens in T.A. 3021."
+      }
+    ],
+    "offmap": [
+      {
+        "name": "Valinor",
+        "role": "born",
+        "note": "Born in Aman before the Noldor came to Middle-earth."
+      }
+    ],
+    "related": [
+      "person:celeborn",
+      "person:celebrian",
+      "person:elrond",
+      "person:finrod-felagund",
+      "person:frodo-baggins",
+      "person:gimli",
+      "thing:nenya",
+      "thing:phial-of-galadriel"
+    ],
+    "sources": [
+      "The Lord of the Rings",
+      "The Silmarillion",
+      "The Lord of the Rings, Appendix B"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "person:celeborn",
+    "title": "Celeborn",
+    "group": "Elves",
+    "kind": "Sindarin lord of Lothlórien",
+    "aka": [
+      "Lord of the Galadhrim",
+      "Celeborn the Wise"
+    ],
+    "blurb": "Celeborn was a Sindarin kinsman of Thingol who ruled Lothlórien with his wife Galadriel and helped to take Dol Guldur in T.A. 3019.",
+    "book": "Celeborn was a Sindarin Elf and a kinsman of Thingol, King of Doriath. He wed the Noldorin princess Galadriel. Their daughter Celebrían wed Elrond.\n\nIn the Third Age Celeborn and Galadriel ruled Lothlórien, the wood of the Galadhrim beside the Anduin. In January T.A. 3019 Celeborn received the Fellowship in Caras Galadhon. He gave them boats for the river.\n\nIn T.A. 3019 Orcs from Dol Guldur attacked Lórien three times. Celeborn led the Elves of his land across the Anduin and conquered Dol Guldur, while Galadriel threw down its walls.\n\nWhen Galadriel sailed West in T.A. 3021, Celeborn stayed in Middle-earth. Later he dwelt for a time in Rivendell with the sons of Elrond.",
+    "film": "Marton Csokas plays Celeborn. In The Fellowship of the Ring he greets the company in Lórien and sees them off on the river.",
+    "series": "",
+    "facts": {
+      "Race": "Elf (Sindar)",
+      "Spouse": "Galadriel",
+      "Children": "Celebrían",
+      "Title": "Lord of Lothlórien",
+      "Realm or home": "Lothlórien"
+    },
+    "places": [
+      {
+        "id": "b:RG07",
+        "role": "lived",
+        "note": "Lives in Doriath as a kinsman of King Thingol."
+      },
+      {
+        "id": "FO017",
+        "role": "ruled",
+        "note": "Rules the Galadhrim with Galadriel in the later Third Age."
+      },
+      {
+        "id": "TO018",
+        "role": "other",
+        "note": "Receives the Fellowship in T.A. 3019 and gives them boats."
+      },
+      {
+        "id": "battle:assaults-on-lothlorien",
+        "role": "fought",
+        "note": "Defends his land against the attacks from Dol Guldur."
+      },
+      {
+        "id": "battle:fall-of-dol-guldur",
+        "role": "fought",
+        "note": "Leads the Elves of Lórien across the Anduin to take Dol Guldur."
+      }
+    ],
+    "offmap": [],
+    "related": [
+      "person:galadriel",
+      "person:celebrian",
+      "person:thingol",
+      "person:elrond",
+      "person:haldir",
+      "thing:nenya"
+    ],
+    "sources": [
+      "The Lord of the Rings",
+      "The Silmarillion",
+      "The Lord of the Rings, Appendix B"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "person:haldir",
+    "title": "Haldir",
+    "group": "Elves",
+    "kind": "March-warden of Lothlórien",
+    "aka": [
+      "March-warden of Lórien"
+    ],
+    "blurb": "Haldir was a march-warden of Lothlórien who met the Fellowship at the border and led them to Caras Galadhon in T.A. 3019.",
+    "book": "Haldir was an Elf of the Galadhrim and a march-warden who guarded the borders of Lothlórien. His brothers Rúmil and Orophin served as wardens too. In January T.A. 3019 he met the Fellowship by the stream Nimrodel, and they slept on a flet in the trees.\n\nIn the Naith he said that Gimli must go blindfold. Gimli refused, and Aragorn finally agreed that everyone should go blindfold. Haldir led the company to the high hill of Cerin Amroth and then to Caras Galadhon.\n\nHe brought news of the Orcs and of the country around Lórien and spoke with Aragorn and Legolas. The books do not tell of his later life.",
+    "film": "Craig Parker plays Haldir. In the films he leads a band of Lórien archers to the battle at Helm's Deep and dies there. This does not happen in the books.",
+    "series": "",
+    "facts": {
+      "Race": "Elf (Galadhrim)",
+      "Siblings": "Rúmil and Orophin",
+      "Title": "March-warden of Lothlórien",
+      "Realm or home": "Lothlórien"
+    },
+    "places": [
+      {
+        "id": "RI061",
+        "role": "other",
+        "note": "Meets the Fellowship by the stream and shelters them on a flet for the night."
+      },
+      {
+        "id": "NP010",
+        "role": "other",
+        "note": "Meets the Fellowship at the border and insists that they be blindfolded."
+      },
+      {
+        "id": "HI014",
+        "role": "travelled",
+        "note": "Leads the company to this high hill in the heart of Lórien."
+      },
+      {
+        "id": "TO018",
+        "role": "travelled",
+        "note": "Takes the Fellowship to the city of the Galadhrim."
+      }
+    ],
+    "offmap": [],
+    "related": [
+      "person:galadriel",
+      "person:celeborn",
+      "person:aragorn",
+      "person:gimli",
+      "person:legolas",
+      "person:frodo-baggins"
+    ],
+    "sources": [
+      "The Lord of the Rings"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "person:amroth",
+    "title": "Amroth",
+    "group": "Elves",
+    "kind": "Last King of Lothlórien",
+    "aka": [
+      "King of Lothlórien",
+      "Amroth of Lórien"
+    ],
+    "blurb": "Amroth was the last Elf-king of Lothlórien, lost at sea in the Bay of Belfalas in T.A. 1981 while seeking his beloved Nimrodel.",
+    "book": "Amroth was an Elf-king of Lothlórien and the lord of the Galadhrim. He kept his high seat on the hill of Cerin Amroth, which bears his name.\n\nHe loved Nimrodel, an Elf-maid of the wood. In T.A. 1980 the Dwarves of Moria woke a horror in the deep, and many Elves left Lórien in fear. Nimrodel fled south and was lost in the White Mountains.\n\nAmroth went to Edhellond to seek her, and he took ship. In T.A. 1981 a storm drove the ship from the coast in the Bay of Belfalas. Amroth leaped into the sea and was never seen again. Later the lords of Dol Amroth took his name for their city.",
+    "film": "",
+    "series": "",
+    "facts": {
+      "Race": "Elf",
+      "Died": "T.A. 1981 (lost at sea)",
+      "Title": "King of Lothlórien",
+      "Realm or home": "Lothlórien"
+    },
+    "places": [
+      {
+        "id": "HI014",
+        "role": "lived",
+        "note": "Keeps his high seat on this hill, which is named after him."
+      },
+      {
+        "id": "FO017",
+        "role": "ruled",
+        "note": "Rules the wood and its Elves as king."
+      },
+      {
+        "id": "TO028",
+        "role": "travelled",
+        "note": "Goes to the haven of Edhellond to look for Nimrodel and takes ship."
+      },
+      {
+        "id": "BA003",
+        "role": "lost",
+        "note": "Leaps from his ship in a storm and is lost in T.A. 1981."
+      }
+    ],
+    "offmap": [],
+    "related": [
+      "person:nimrodel",
+      "person:celeborn",
+      "person:galadriel",
+      "person:durins-bane",
+      "person:legolas"
+    ],
+    "sources": [
+      "The Lord of the Rings",
+      "The Lord of the Rings, Appendix B"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "person:nimrodel",
+    "title": "Nimrodel",
+    "group": "Elves",
+    "kind": "Silvan Elf-maid of Lothlórien",
+    "aka": [
+      "Elf-maid of Lórien"
+    ],
+    "blurb": "Nimrodel was a Silvan Elf-maid of Lothlórien, beloved of Amroth, who was lost in the White Mountains in T.A. 1981.",
+    "book": "Nimrodel was an Elf-maid of the Silvan folk of Lothlórien. The stream that runs through the wood is named after her, and she lived near its falls. Legolas sings her tale to the Fellowship in Lórien.\n\nShe loved Amroth, the lord of the Galadhrim. When the horror in Moria troubled the Elves, she left Lórien and wandered south, seeking peace. She came to the White Mountains and was lost, and no one learned what became of her.\n\nAmroth waited for her at the haven of Edhellond, but she never came. The ship that carried him was driven from the shore, and he too was lost.",
+    "film": "",
+    "series": "",
+    "facts": {
+      "Race": "Elf (Silvan)",
+      "Realm or home": "Lothlórien"
+    },
+    "places": [
+      {
+        "id": "RI061",
+        "role": "lived",
+        "note": "Lives near the falls of the stream that bears her name."
+      },
+      {
+        "id": "MT055",
+        "role": "lost",
+        "note": "Wanders south into the White Mountains and is lost."
+      }
+    ],
+    "offmap": [],
+    "related": [
+      "person:amroth",
+      "person:legolas",
+      "person:celeborn",
+      "person:galadriel"
+    ],
+    "sources": [
+      "The Lord of the Rings"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "person:cirdan",
+    "title": "Círdan",
+    "group": "Elves",
+    "kind": "Shipwright, lord of the Grey Havens",
+    "aka": [
+      "Círdan the Shipwright",
+      "The Shipwright",
+      "Lord of the Havens"
+    ],
+    "blurb": "Círdan the Shipwright was an ancient Elf who ruled the Havens of Beleriand and later the Grey Havens, and who gave Narya to Gandalf.",
+    "book": "Círdan was an Elf of the Teleri and one of the oldest Elves in Middle-earth. In the First Age he ruled the Falas, the coast of Beleriand, from the havens of Brithombar and Eglarest. Morgoth destroyed them in the Fall of the Falas. Círdan escaped with his people to the Isle of Balar.\n\nHe helped Eärendil to build the ship Vingilot. After the War of Wrath he moved east to Lindon and kept the Grey Havens at the mouth of the Lhûn. He was the friend and ally of Gil-galad.\n\nCírdan held Narya, the Ring of Fire. When Gandalf came to Middle-earth, Círdan gave him the ring to help him in his labours. In the Third Age Círdan sent a ship to fetch King Arvedui from the Icebay of Forochel, but the ice crushed it and Arvedui drowned. In T.A. 3021 he welcomed the Ring-bearers at the Grey Havens and saw them sail West.",
+    "film": "Círdan appears briefly at the Grey Havens in The Return of the King. His long history is not shown.",
+    "series": "Ben Daniels plays Círdan in the second season of The Rings of Power.",
+    "facts": {
+      "Race": "Elf (Teleri)",
+      "Title": "Shipwright",
+      "Realm or home": "The Grey Havens"
+    },
+    "places": [
+      {
+        "id": "b:TO05",
+        "role": "ruled",
+        "note": "Rules this haven of the Falas with Eglarest."
+      },
+      {
+        "id": "b:TO06",
+        "role": "ruled",
+        "note": "Rules this southern haven of the Falas."
+      },
+      {
+        "id": "b:battle:fall-of-the-falas",
+        "role": "fought",
+        "note": "Escapes the ruin of his havens when Morgoth attacks."
+      },
+      {
+        "id": "b:IS01",
+        "role": "lived",
+        "note": "Takes refuge on this island with Gil-galad and the survivors."
+      },
+      {
+        "id": "TO043",
+        "role": "ruled",
+        "note": "Keeps the Grey Havens in the Second and Third Ages and gives Narya to Gandalf."
+      }
+    ],
+    "offmap": [],
+    "related": [
+      "person:gil-galad",
+      "person:gandalf",
+      "person:elrond",
+      "person:arvedui",
+      "person:earendil",
+      "thing:narya",
+      "thing:vingilot"
+    ],
+    "sources": [
+      "The Lord of the Rings",
+      "The Lord of the Rings, Appendix A",
+      "The Silmarillion"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "person:gil-galad",
+    "title": "Gil-galad",
+    "group": "Elves",
+    "kind": "Last High King of the Noldor",
+    "aka": [
+      "High King of the Noldor",
+      "Ereinion"
+    ],
+    "blurb": "Gil-galad was the last High King of the Noldor in Middle-earth, who ruled Lindon and fell fighting Sauron in S.A. 3441.",
+    "book": "Gil-galad was a Noldorin Elf, the son of Fingon, and the last High King of the Noldor in Middle-earth. After the fall of the Falas he took refuge on the Isle of Balar with Círdan. After the War of Wrath he ruled the Elves who remained from his land of Lindon.\n\nHe was a friend of Elrond, who served him as herald. Gil-galad received two of the Three Rings. He kept Vilya for some time and later gave it to Elrond. He gave Narya to Círdan.\n\nIn S.A. 3430 Gil-galad and Elendil made the Last Alliance of Elves and Men. They defeated Sauron's host at Dagorlad and besieged Barad-dûr for seven years. Gil-galad was slain by Sauron on the slopes of Orodruin in S.A. 3441. Elendil fell at the same time. Gil-galad bore the spear Aeglos.",
+    "film": "Mark Ferguson plays Gil-galad in the prologue of The Fellowship of the Ring. He appears briefly in the battle against Sauron.",
+    "series": "Benjamin Walker plays Gil-galad in The Rings of Power. The series shows him as High King in Lindon and tells its own version of his Second Age story.",
+    "facts": {
+      "Race": "Elf (Noldor)",
+      "Parents": "Fingon",
+      "Died": "S.A. 3441",
+      "Title": "High King of the Noldor",
+      "Weapon or steed": "Aeglos",
+      "Realm or home": "Lindon"
+    },
+    "places": [
+      {
+        "id": "b:IS01",
+        "role": "lived",
+        "note": "Finds refuge on this island with Círdan after the Falas fall."
+      },
+      {
+        "id": "realm:lindon",
+        "role": "ruled",
+        "note": "Rules the Elves of Lindon after the War of Wrath."
+      },
+      {
+        "id": "battle:dagorlad",
+        "role": "fought",
+        "note": "Leads the Elves in the Last Alliance against Sauron."
+      },
+      {
+        "id": "MT036",
+        "role": "died",
+        "note": "Is slain by Sauron on the slopes of Orodruin in S.A. 3441."
+      }
+    ],
+    "offmap": [],
+    "related": [
+      "person:elrond",
+      "person:cirdan",
+      "person:elendil",
+      "person:sauron",
+      "person:fingon",
+      "thing:aeglos",
+      "thing:vilya",
+      "thing:narya"
+    ],
+    "sources": [
+      "The Lord of the Rings",
+      "The Lord of the Rings, Appendix B",
+      "The Silmarillion"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "person:celebrimbor",
+    "title": "Celebrimbor",
+    "group": "Elves",
+    "kind": "Elven-smith of Eregion",
+    "aka": [
+      "Lord of Eregion",
+      "Celebrimbor of Hollin"
+    ],
+    "blurb": "Celebrimbor was a Noldorin smith of Eregion who made the Three Rings and was slain by Sauron in S.A. 1697.",
+    "book": "Celebrimbor was a Noldorin Elf of the House of Fëanor, the son of Curufin. He ruled Eregion, called Hollin, near the Dwarf-city of Khazad-dûm. His craftsmen formed the guild called the Mírdain, and he was their greatest smith.\n\nCelebrimbor had close ties with the Dwarves of Moria. The sign on the Doors of Durin was drawn by his hand. Sauron came to Eregion in a fair shape and taught the smiths. With his help they made many rings.\n\nCelebrimbor made the Three Rings alone, and Sauron never touched them. Then Sauron forged the One Ring in Mount Doom. When he put it on, Celebrimbor perceived him and the Elves hid the Three. In S.A. 1697 Sauron invaded Eregion and took Ost-in-Edhil. He captured Celebrimbor and killed him. Sauron then took the other rings that he could find.",
+    "film": "",
+    "series": "Charles Edwards plays Celebrimbor in The Rings of Power. He is the chief smith of Eregion and forges the Rings with Halbrand, who is Sauron in disguise. The series changes the order of events and the way the rings are made.",
+    "facts": {
+      "Race": "Elf (Noldor)",
+      "Parents": "Curufin",
+      "House or line": "House of Fëanor",
+      "Died": "S.A. 1697",
+      "Title": "Lord of Eregion",
+      "Realm or home": "Eregion"
+    },
+    "places": [
+      {
+        "id": "TO079",
+        "role": "ruled",
+        "note": "Rules Eregion from this city and works as its chief smith."
+      },
+      {
+        "id": "BU061",
+        "role": "made",
+        "note": "The craftsmen of the Mírdain work here under his lead."
+      },
+      {
+        "id": "DO009",
+        "role": "made",
+        "note": "Draws the sign on the west gate of Moria."
+      },
+      {
+        "id": "battle:sack-of-eregion",
+        "role": "died",
+        "note": "Is captured and slain when Sauron takes Eregion in S.A. 1697."
+      }
+    ],
+    "offmap": [],
+    "related": [
+      "person:sauron",
+      "person:gil-galad",
+      "person:curufin",
+      "person:narvi",
+      "thing:narya",
+      "thing:nenya",
+      "thing:vilya",
+      "thing:one-ring"
+    ],
+    "sources": [
+      "The Lord of the Rings",
+      "The Lord of the Rings, Appendix B",
+      "The Silmarillion"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "person:thranduil",
+    "title": "Thranduil",
+    "group": "Elves",
+    "kind": "Elvenking of northern Mirkwood",
+    "aka": [
+      "Elvenking",
+      "King of the Woodland Realm"
+    ],
+    "blurb": "Thranduil was the Elvenking of the Woodland Realm in northern Mirkwood, the father of Legolas, who fought in the Battle of Five Armies.",
+    "book": "Thranduil was the Elvenking of the Woodland Realm in northern Mirkwood and the son of Oropher. He dwelt in great halls beneath a hill beside the Forest River. His son was Legolas.\n\nIn T.A. 2941 Thorin and his company were caught in his woods. Thranduil put them in prison when they would not say why they had come. Bilbo helped them escape in barrels down the river.\n\nAfter Smaug was killed, Thranduil led his Elves to Lake-town and then to the Lonely Mountain. He stood with Bard against Thorin until Orcs and Wargs attacked in the Battle of Five Armies. He fought there beside Men and Dwarves.\n\nIn T.A. 3018 his people held Gollum for a time, and Gollum escaped. He sent Legolas to Rivendell with the news. In T.A. 3019 he fought off the forces of Dol Guldur in the Battle under the Trees. Afterwards he and Celeborn divided the forest, and Thranduil took the north.",
+    "film": "Lee Pace plays Thranduil in The Hobbit films. He is cold and proud, refuses to help the Dwarves at Erebor, and rides an elk in battle. The films add a long grudge against Thorin's line and give him a story about Gundabad and his wife, which the books do not tell.",
+    "series": "",
+    "facts": {
+      "Race": "Elf (Sindar)",
+      "Parents": "Oropher",
+      "Children": "Legolas",
+      "Title": "Elvenking",
+      "Realm or home": "Woodland Realm, northern Mirkwood"
+    },
+    "places": [
+      {
+        "id": "TO031",
+        "role": "ruled",
+        "note": "Rules from these halls and imprisons Thorin's company here in T.A. 2941."
+      },
+      {
+        "id": "TO053",
+        "role": "other",
+        "note": "Brings Elves to help Lake-town after Smaug falls."
+      },
+      {
+        "id": "battle:five-armies",
+        "role": "fought",
+        "note": "Fights beside Men and Dwarves against the Orcs and Wargs."
+      },
+      {
+        "id": "battle:battle-under-the-trees",
+        "role": "fought",
+        "note": "Defeats the invaders from Dol Guldur in his woods in March T.A. 3019."
+      }
+    ],
+    "offmap": [],
+    "related": [
+      "person:legolas",
+      "person:oropher",
+      "person:bard",
+      "person:thorin-oakenshield",
+      "person:bilbo-baggins",
+      "person:gollum",
+      "thing:arkenstone",
+      "thing:necklace-of-girion"
+    ],
+    "sources": [
+      "The Hobbit",
+      "The Lord of the Rings",
+      "The Lord of the Rings, Appendix B"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "person:oropher",
+    "title": "Oropher",
+    "group": "Elves",
+    "kind": "King of the Silvan Elves",
+    "aka": [
+      "King of the Silvan Elves"
+    ],
+    "blurb": "Oropher was a Sindarin king of the Silvan Elves of Greenwood who died at Dagorlad in S.A. 3434. He was the father of Thranduil.",
+    "book": "Oropher was a Sindarin Elf who ruled the Silvan Elves of Greenwood the Great. He was the father of Thranduil. In S.A. 3434 he led his people to war with the Last Alliance against Sauron.\n\nOropher was slain at the Battle of Dagorlad, and many of his folk died with him. Thranduil survived and led the rest home to the north, where he ruled after his father.",
+    "film": "",
+    "series": "",
+    "facts": {
+      "Race": "Elf (Sindar)",
+      "Died": "S.A. 3434",
+      "Children": "Thranduil",
+      "Title": "King of the Silvan Elves",
+      "Realm or home": "Greenwood the Great"
+    },
+    "places": [
+      {
+        "id": "FO018",
+        "role": "ruled",
+        "note": "Rules the Silvan Elves of the great forest."
+      },
+      {
+        "id": "battle:dagorlad",
+        "role": "died",
+        "note": "Falls in the first great battle of the Last Alliance."
+      }
+    ],
+    "offmap": [],
+    "related": [
+      "person:thranduil",
+      "person:legolas",
+      "person:gil-galad",
+      "person:sauron"
+    ],
+    "sources": [
+      "Unfinished Tales",
+      "The Lord of the Rings, Appendix B"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "person:halbarad",
+    "title": "Halbarad",
+    "group": "Men",
+    "kind": "Dúnadan Ranger of the North",
+    "aka": [
+      "Dúnadan",
+      "Ranger of the North"
+    ],
+    "blurb": "Halbarad was a Ranger of the North who led the Grey Company south to Aragorn and fell on the Pelennor Fields in T.A. 3019.",
+    "book": "Halbarad was a Dúnadan, a Ranger of the North and a kinsman of Aragorn. In March T.A. 3019 he led about thirty Rangers south, after word came to Rivendell that Aragorn needed his kin. They were called the Grey Company.\n\nHe met Aragorn in Rohan as the King rode to the Hornburg. He brought Aragorn a standard that Arwen had made, and the sons of Elrond brought word from their father. Halbarad then rode with Aragorn over the Paths of the Dead. Halbarad fought at Pelargir and bore Aragorn's standard at the battle on the Pelennor Fields. He fell there.",
+    "film": "",
+    "series": "",
+    "facts": {
+      "Race": "Man (Dúnadan)",
+      "Died": "T.A. 3019",
+      "Title": "Ranger of the North",
+      "Realm or home": "Eriador"
+    },
+    "places": [
+      {
+        "id": "FT016",
+        "role": "travelled",
+        "note": "Comes with Aragorn to the Hornburg and brings him the standard Arwen made."
+      },
+      {
+        "id": "VA040",
+        "role": "travelled",
+        "note": "Rides behind Aragorn on the Paths of the Dead."
+      },
+      {
+        "id": "battle:pelargir",
+        "role": "fought",
+        "note": "Fights with the Grey Company at the black ships."
+      },
+      {
+        "id": "battle:pelennor",
+        "role": "died",
+        "note": "Bears the standard in the battle and is slain."
+      }
+    ],
+    "offmap": [],
+    "related": [
+      "person:aragorn",
+      "person:arwen",
+      "person:elladan",
+      "person:elrohir",
+      "person:elrond"
+    ],
+    "sources": [
+      "The Lord of the Rings"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "person:arathorn-ii",
+    "title": "Arathorn II",
+    "group": "Men",
+    "kind": "Chieftain of the Dúnedain of the North",
+    "aka": [
+      "Chieftain of the Dúnedain"
+    ],
+    "blurb": "Arathorn II was a Chieftain of the Dúnedain and the father of Aragorn. Orcs killed him in T.A. 2933.",
+    "book": "Arathorn was a Chieftain of the Dúnedain of the North and a descendant of Isildur. He was the son of Arador. He wed Gilraen the Fair, and their son Aragorn was born in T.A. 2931.\n\nIn T.A. 2933 Arathorn rode against Orcs with the sons of Elrond, and an Orc-arrow killed him. This happened when his son was two years old. Gilraen took the boy to Rivendell, where Elrond raised him as his foster son.",
+    "film": "",
+    "series": "",
+    "facts": {
+      "Race": "Man (Dúnadan)",
+      "Died": "T.A. 2933",
+      "Parents": "Arador",
+      "Spouse": "Gilraen",
+      "Children": "Aragorn",
+      "Title": "Chieftain of the Dúnedain",
+      "Realm or home": "Eriador"
+    },
+    "places": [
+      {
+        "id": "realm:eriador",
+        "role": "lived",
+        "note": "Leads the hidden Dúnedain of the North in the wild lands of Eriador."
+      }
+    ],
+    "offmap": [],
+    "related": [
+      "person:aragorn",
+      "person:gilraen",
+      "person:elrond",
+      "person:isildur"
+    ],
+    "sources": [
+      "The Lord of the Rings, Appendix A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "person:gilraen",
+    "title": "Gilraen",
+    "group": "Men",
+    "kind": "Mother of Aragorn",
+    "aka": [
+      "Gilraen the Fair"
+    ],
+    "blurb": "Gilraen was the wife of Arathorn II and the mother of Aragorn, who raised him in Rivendell. She died in T.A. 3007.",
+    "book": "Gilraen was a woman of the Dúnedain, the daughter of Dírhael. She wed Arathorn II, Chieftain of the Dúnedain, when she was young, and bore their son Aragorn in T.A. 2931.\n\nArathorn died two years later, and Gilraen took her son to Rivendell. Elrond took the boy as a foster son and kept his true name secret. Gilraen stayed in Rivendell while Aragorn was a child.\n\nLater she went back to her own people in Eriador. She died there in T.A. 3007.",
+    "film": "",
+    "series": "",
+    "facts": {
+      "Race": "Man (Dúnadan)",
+      "Died": "T.A. 3007",
+      "Parents": "Dírhael",
+      "Spouse": "Arathorn II",
+      "Children": "Aragorn",
+      "Realm or home": "Rivendell, later Eriador"
+    },
+    "places": [
+      {
+        "id": "TO084",
+        "role": "lived",
+        "note": "Takes her son here after Arathorn's death and lives in Elrond's house."
+      },
+      {
+        "id": "realm:eriador",
+        "role": "died",
+        "note": "Returns to her own people in the North and dies there in T.A. 3007."
+      }
+    ],
+    "offmap": [],
+    "related": [
+      "person:aragorn",
+      "person:arathorn-ii",
+      "person:elrond"
+    ],
+    "sources": [
+      "The Lord of the Rings, Appendix A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "person:arvedui",
+    "title": "Arvedui",
+    "group": "Men",
+    "kind": "Last King of Arthedain",
+    "aka": [
+      "Last-king",
+      "King of Arthedain"
+    ],
+    "blurb": "Arvedui was the last King of Arthedain, who fled the Witch-king and drowned in the Icebay of Forochel in T.A. 1975.",
+    "book": "Arvedui was the last King of Arthedain, the northern kingdom that remained of Arnor. He was the son of Araphant and was called the Last-king. He wed Fíriel, a daughter of Ondoher of Gondor.\n\nWhen Ondoher died in T.A. 1944, Arvedui claimed the crown of Gondor through his wife and as heir of Isildur. Gondor rejected the claim and chose Eärnil II.\n\nIn T.A. 1974 the Witch-king of Angmar destroyed Arthedain and took Fornost. Arvedui fled to the far north and took refuge with the Lossoth of Forochel. Círdan sent a ship to rescue him. In T.A. 1975 the ship was wrecked by ice in the Icebay of Forochel and Arvedui drowned with the palantíri. His son Aranarth became the first Chieftain of the Dúnedain.",
+    "film": "",
+    "series": "",
+    "facts": {
+      "Race": "Man (Dúnadan)",
+      "Died": "T.A. 1975",
+      "Parents": "Araphant",
+      "Spouse": "Fíriel",
+      "Children": "Aranarth",
+      "Title": "Last King of Arthedain",
+      "Realm or home": "Arthedain"
+    },
+    "places": [
+      {
+        "id": "TO035",
+        "role": "ruled",
+        "note": "Rules Arthedain from this city until the Witch-king takes it in T.A. 1974."
+      },
+      {
+        "id": "BA013",
+        "role": "died",
+        "note": "Drowns here when the rescue ship breaks in the ice in T.A. 1975."
+      }
+    ],
+    "offmap": [
+      {
+        "name": "Lands of the Lossoth",
+        "role": "travelled",
+        "note": "Flees to the Snowmen of Forochel in the far north after Fornost falls."
+      }
+    ],
+    "related": [
+      "person:cirdan",
+      "person:witch-king",
+      "person:earnur",
+      "person:earnil-ii",
+      "person:aragorn"
+    ],
+    "sources": [
+      "The Lord of the Rings, Appendix A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "person:radagast",
+    "title": "Radagast",
+    "group": "Wizards and Maiar",
+    "kind": "Brown wizard of Rhosgobel",
+    "aka": [
+      "Radagast the Brown",
+      "Aiwendil"
+    ],
+    "blurb": "Radagast was the Brown Wizard, one of the Istari, who lived at Rhosgobel and was a friend of birds and beasts.",
+    "book": "Radagast the Brown was one of the Istari, the Wizards who came to Middle-earth about T.A. 1000 to oppose Sauron. He dwelt at Rhosgobel at the edge of Mirkwood. He loved birds and beasts and had great knowledge of them. In The Hobbit Gandalf calls him his cousin, and Beorn knows him.\n\nIn T.A. 3018 Saruman used him as an unwitting messenger. Radagast found Gandalf and told him that the Black Riders were seeking the Shire. He asked Gandalf to meet Saruman at Isengard.\n\nAt Gandalf's request, Radagast asked birds and beasts to bring news to Orthanc. So the Eagle Gwaihir came there and found Gandalf a prisoner on the tower. Gwaihir carried him away. The books do not tell what became of Radagast later.",
+    "film": "Sylvester McCoy plays Radagast in The Hobbit films. He finds the Necromancer's tower at Dol Guldur and brings a Morgul blade to Gandalf. He also lures Wargs away on a sled drawn by rabbits. None of this is in the books.",
+    "series": "",
+    "facts": {
+      "Race": "Wizard (Maia)",
+      "Title": "The Brown",
+      "Realm or home": "Rhosgobel"
+    },
+    "places": [
+      {
+        "id": "BU073",
+        "role": "lived",
+        "note": "Lives in this house at the edge of Mirkwood among his birds and beasts."
+      }
+    ],
+    "offmap": [],
+    "related": [
+      "person:gandalf",
+      "person:saruman",
+      "person:beorn",
+      "person:gwaihir"
+    ],
+    "sources": [
+      "The Hobbit",
+      "The Lord of the Rings",
+      "The Lord of the Rings, Appendix B"
+    ],
+    "confidence": "high"
+  }
+]

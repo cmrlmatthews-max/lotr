@@ -1,0 +1,1252 @@
+[
+ {
+  "id": "person:theoden",
+  "title": "Théoden",
+  "group": "Men",
+  "kind": "King of Rohan, Lord of the Mark",
+  "aka": [
+   "Théoden King",
+   "Théoden son of Thengel",
+   "Lord of the Mark",
+   "Ednew"
+  ],
+  "blurb": "Théoden was the seventeenth King of Rohan, who was freed from Saruman's hold, defended Helm's Deep, and fell leading the charge on the Pelennor.",
+  "book": "Théoden was born in T.A. 2948 and was the son of Thengel and Morwen. He became King of Rohan in T.A. 2980. In his later years he grew weak and old. His counsellor Gríma Wormtongue, who served Saruman, held him in thrall.\n\nHis only son, Théodred, was mortally wounded in the first battle at the Fords of Isen. Gandalf then healed the king at Meduseld and drove Gríma away. Théoden rode west and took refuge in Helm's Deep, where he held the Hornburg with Aragorn until dawn. He then rode to Isengard and found it drowned by the Ents.\n\nWhen Gondor called for aid, he gathered the Rohirrim at Dunharrow and rode through the Drúadan Forest to the Pelennor Fields. There he led the charge that broke the line of Mordor. His white horse Snowmane was struck down and fell upon him. The Witch-king attacked him, but Éowyn and Merry destroyed that foe. Théoden died of his wounds in T.A. 3019, after he named Éomer his heir.\n\nHis body was carried home to Edoras and laid in a mound among his forefathers.",
+  "film": "Played by Bernard Hill. The film shows him still in Saruman's spell when the story opens, and Gandalf freeing him in a single scene. He hesitates to aid Gondor until the beacons are lit.",
+  "series": "",
+  "facts": {
+   "Race": "Man of Rohan",
+   "Born": "T.A. 2948",
+   "Died": "T.A. 3019",
+   "Age at death": "71",
+   "Parents": "Thengel and Morwen",
+   "Children": "Théodred",
+   "Title": "King of Rohan from T.A. 2980",
+   "Realm or home": "Rohan, Meduseld at Edoras",
+   "Weapon or steed": "Snowmane"
+  },
+  "places": [
+   {
+    "id": "BU070",
+    "role": "ruled",
+    "note": "He sits enfeebled in the golden hall until Gandalf frees him from Gríma's counsel."
+   },
+   {
+    "id": "FT014",
+    "role": "fought",
+    "note": "He withdraws to the refuge of Helm's Deep with his people."
+   },
+   {
+    "id": "battle:hornburg",
+    "role": "fought",
+    "note": "He defends the Hornburg with Aragorn and charges out at dawn."
+   },
+   {
+    "id": "FT017",
+    "role": "travelled",
+    "note": "He rides to ruined Isengard and speaks with Saruman at Orthanc."
+   },
+   {
+    "id": "FT009",
+    "role": "travelled",
+    "note": "He gathers the Riders of Rohan here before the ride to Gondor."
+   },
+   {
+    "id": "FO007",
+    "role": "travelled",
+    "note": "He meets the Woses, who guide his host past the enemy's road."
+   },
+   {
+    "id": "battle:pelennor",
+    "role": "died",
+    "note": "He leads the great charge and is mortally wounded when Snowmane falls on him."
+   },
+   {
+    "id": "GR003",
+    "role": "buried",
+    "note": "He is laid in a mound among the kings of Rohan."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:eomer",
+   "person:eowyn",
+   "person:theodred",
+   "person:thengel",
+   "person:grima",
+   "person:saruman",
+   "person:snowmane",
+   "thing:horn-of-the-mark"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Two Towers",
+   "The Lord of the Rings, The Return of the King",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:eomer",
+  "title": "Éomer",
+  "group": "Men",
+  "kind": "Third Marshal, later King of Rohan",
+  "aka": [
+   "Éomer son of Éomund",
+   "Éomer Éadig",
+   "King of the Mark",
+   "Third Marshal of the Mark"
+  ],
+  "blurb": "Éomer was a Marshal of the Mark who befriended Aragorn, fought at Helm's Deep and the Pelennor, and became King of Rohan in T.A. 3019.",
+  "book": "Éomer was born in T.A. 2991. His father Éomund died in T.A. 3002, and Théoden, his mother's brother, raised him with his sister Éowyn. He became Third Marshal of the Mark and led a troop of Riders in the East-mark.\n\nIn T.A. 3019 he rode out against Gríma's counsel and destroyed the Orcs who had taken Merry and Pippin. He met Aragorn, Legolas and Gimli on the plains of Rohan and lent them horses. When he came back to Edoras, Gríma had him held prisoner.\n\nAfter Gandalf healed the king, Théoden freed him. He rode with Théoden to Helm's Deep and Isengard. At the Pelennor Fields he commanded the host after the king fell, and he found his sister among the slain. Théoden named him king before he died.\n\nÉomer then fought at the Black Gate. He married Lothíriel, daughter of Imrahil, and ruled Rohan as a firm ally of King Elessar.",
+  "film": "Played by Karl Urban. In the films Gríma banishes him in the king's name, and he returns with Gandalf and the Riders to rescue the defenders at Helm's Deep.",
+  "series": "",
+  "facts": {
+   "Race": "Man of Rohan",
+   "Born": "T.A. 2991",
+   "Parents": "Éomund and Théodwyn",
+   "Siblings": "Éowyn",
+   "Title": "Third Marshal of the Mark; King of Rohan from T.A. 3019",
+   "Realm or home": "Rohan",
+   "Weapon or steed": "Gúthwinë (sword)",
+   "Spouse": "Lothíriel"
+  },
+  "places": [
+   {
+    "id": "NP014",
+    "role": "fought",
+    "note": "He destroys the Orc band here and meets Aragorn, Legolas and Gimli."
+   },
+   {
+    "id": "BU070",
+    "role": "lived",
+    "note": "He is held prisoner by Gríma's order, then freed by the king."
+   },
+   {
+    "id": "battle:hornburg",
+    "role": "fought",
+    "note": "He holds the Deeping Wall and rides out at dawn with Théoden."
+   },
+   {
+    "id": "FT017",
+    "role": "travelled",
+    "note": "He rides with the king to find Isengard drowned by the Ents."
+   },
+   {
+    "id": "battle:pelennor",
+    "role": "fought",
+    "note": "He takes command after Théoden falls and finds Éowyn among the fallen."
+   },
+   {
+    "id": "battle:morannon",
+    "role": "fought",
+    "note": "He marches with the Captains of the West against the Black Gate."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:theoden",
+   "person:eowyn",
+   "person:eomund",
+   "person:aragorn",
+   "person:grima",
+   "person:hasufel",
+   "thing:guthwine",
+   "person:imrahil"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Two Towers",
+   "The Lord of the Rings, The Return of the King",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:eowyn",
+  "title": "Éowyn",
+  "group": "Men",
+  "kind": "Shieldmaiden of Rohan",
+  "aka": [
+   "Dernhelm",
+   "White Lady of Rohan",
+   "Lady of Ithilien",
+   "Lady of Rohan"
+  ],
+  "blurb": "Éowyn was the niece of King Théoden who disguised herself as a warrior and slew the Witch-king of Angmar on the Pelennor Fields.",
+  "book": "Éowyn was born in T.A. 2995. She was the daughter of Éomund and Théodwyn and the sister of Éomer. After her parents died she grew up in the house of her uncle Théoden at Edoras.\n\nShe tended the old king while Gríma Wormtongue pursued her with unwanted attention. She also loved Aragorn, but he did not return her feeling. When the king rode to war, she was left to govern the people. She longed for battle and rode out in secret, disguised as a Rider called Dernhelm, and took Merry with her.\n\nOn the Pelennor Fields she faced the Witch-king as he stood over the fallen Théoden. With Merry's help she killed him, though she was gravely hurt. She was healed in the Houses of Healing in Minas Tirith, where she met Faramir. They married and she became Lady of Ithilien. Her life afterwards was spent in Emyn Arnen.",
+  "film": "Played by Miranda Otto. In the films she stays at Edoras and leads the people to Helm's Deep, and her love for Aragorn is shown more openly.",
+  "series": "",
+  "facts": {
+   "Race": "Woman of Rohan",
+   "Born": "T.A. 2995",
+   "Parents": "Éomund and Théodwyn",
+   "Spouse": "Faramir",
+   "Siblings": "Éomer",
+   "Realm or home": "Rohan; later Emyn Arnen in Ithilien"
+  },
+  "places": [
+   {
+    "id": "BU070",
+    "role": "lived",
+    "note": "She is raised in the house of her uncle and tends the ailing king here."
+   },
+   {
+    "id": "FT009",
+    "role": "travelled",
+    "note": "She is left in charge of the people and then rides away disguised as Dernhelm."
+   },
+   {
+    "id": "battle:pelennor",
+    "role": "fought",
+    "note": "She slays the Witch-king of Angmar with Merry's aid."
+   },
+   {
+    "id": "BU063",
+    "role": "other",
+    "note": "She is healed here and falls in love with Faramir."
+   },
+   {
+    "id": "HI020",
+    "role": "lived",
+    "note": "She lives here with Faramir as Lady of Ithilien."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:theoden",
+   "person:eomer",
+   "person:eomund",
+   "person:witch-king",
+   "person:faramir",
+   "person:grima",
+   "person:aragorn",
+   "person:meriadoc-brandybuck"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Two Towers",
+   "The Lord of the Rings, The Return of the King",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:theodred",
+  "title": "Théodred",
+  "group": "Men",
+  "kind": "Heir of Rohan, Second Marshal",
+  "aka": [
+   "Théodred son of Théoden",
+   "Second Marshal of the Mark"
+  ],
+  "blurb": "Théodred was Théoden's only son and heir, who fell defending the western border at the Fords of Isen in T.A. 3019.",
+  "book": "Théodred was Théoden's only son and the heir to the throne of Rohan. He was born in T.A. 2978 and served as Second Marshal of the Mark. His mother Elfhild had died giving birth to him.\n\nAs Saruman's strength grew, Théodred defended the western marches and kept watch on the Fords of Isen. He was a good captain, but his father fell under Gríma's influence and he was left without help.\n\nIn February of T.A. 3019 he led the Riders against Saruman's army at the First Battle of the Fords of Isen. He was slain there in the fighting. His death left Rohan without an heir, which is why Théoden later named his nephew Éomer as his successor.",
+  "film": "Played by Paris Howe Strewe. In the film Éomer finds him wounded at the Fords, and he dies at Edoras.",
+  "series": "",
+  "facts": {
+   "Race": "Man of Rohan",
+   "Born": "T.A. 2978",
+   "Died": "T.A. 3019",
+   "Parents": "Théoden and Elfhild",
+   "Title": "Second Marshal of the Mark",
+   "Realm or home": "Rohan"
+  },
+  "places": [
+   {
+    "id": "FJ008",
+    "role": "fought",
+    "note": "He guards the western border at the river crossings."
+   },
+   {
+    "id": "battle:first-fords-of-isen",
+    "role": "died",
+    "note": "He is mortally wounded fighting Saruman's host."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:theoden",
+   "person:eomer",
+   "person:grima",
+   "person:saruman",
+   "person:erkenbrand",
+   "person:grimbold"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Two Towers",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:hama",
+  "title": "Háma",
+  "group": "Men",
+  "kind": "Doorward of Meduseld",
+  "aka": [
+   "Doorward of Théoden",
+   "Captain of the King's Guard"
+  ],
+  "blurb": "Háma was the doorward of Meduseld who admitted Gandalf and his friends at Edoras and later died at the Hornburg.",
+  "book": "Háma was the chief doorward of Théoden's hall, Meduseld. His duty was to guard the king's door and take weapons from visitors.\n\nWhen Gandalf came to Edoras in T.A. 3019, Háma asked him to leave his staff at the door. Gandalf said an old man needs his staff. Háma judged him honest and let him keep it. After the king was healed, Háma brought back the weapons of the others.\n\nHáma then rode with the king to war as captain of the king's guard. He fell defending the gate of the Hornburg at Helm's Deep, and he was buried in a grave of his own under its shadow.",
+  "film": "Played by John Leigh. He guards the door of Meduseld and is killed by a Warg rider on the road to Helm's Deep.",
+  "series": "",
+  "facts": {
+   "Race": "Man of Rohan",
+   "Died": "T.A. 3019",
+   "Title": "Doorward of Meduseld",
+   "Realm or home": "Rohan"
+  },
+  "places": [
+   {
+    "id": "BU070",
+    "role": "other",
+    "note": "He guards the king's door and lets Gandalf's company enter."
+   },
+   {
+    "id": "battle:hornburg",
+    "role": "died",
+    "note": "He is slain defending the gate of the Hornburg."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:theoden",
+   "person:gandalf",
+   "person:grima",
+   "person:gamling",
+   "person:aragorn"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Two Towers"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:gamling",
+  "title": "Gamling",
+  "group": "Men",
+  "kind": "Old Rider of Rohan",
+  "aka": [
+   "Gamling the Old",
+   "Gamling the Old Rider"
+  ],
+  "blurb": "Gamling was an old Rider of Rohan who held Helm's Dike and fought on the Deeping Wall in T.A. 3019.",
+  "book": "Gamling was an old Rider of Rohan. When Théoden came to Helm's Deep in T.A. 3019, Gamling commanded the men who held Helm's Dike before the Deep.\n\nIn the night battle he fought on the Deeping Wall with Éomer and Aragorn. He knew the tongue of the Dunlendings and told the others what they shouted against the Rohirrim.\n\nHe survived the battle. The books tell little else of his life.",
+  "film": "Played by Bruce Hopkins. He is a captain of the king's guard and survives the Battle of Helm's Deep.",
+  "series": "",
+  "facts": {
+   "Race": "Man of Rohan",
+   "Realm or home": "Rohan"
+  },
+  "places": [
+   {
+    "id": "WA004",
+    "role": "fought",
+    "note": "He commands the men holding Helm's Dike as the king arrives."
+   },
+   {
+    "id": "battle:hornburg",
+    "role": "fought",
+    "note": "He fights on the Deeping Wall during the night battle."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:theoden",
+   "person:eomer",
+   "person:aragorn",
+   "person:erkenbrand"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Two Towers"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:erkenbrand",
+  "title": "Erkenbrand",
+  "group": "Men",
+  "kind": "Lord of the Westfold",
+  "aka": [
+   "Master of Westfold",
+   "Lord of Westfold"
+  ],
+  "blurb": "Erkenbrand was the lord of the Westfold who fought at the Fords of Isen and brought his men to Helm's Deep at dawn.",
+  "book": "Erkenbrand was the master of the Westfold, the western part of Rohan near the Isen. Helm's Deep and the Hornburg lay in his land.\n\nIn T.A. 3019 Théodred fell at the first battle of the Fords of Isen. Erkenbrand then led the Riders of the west, but Saruman's host broke them at the Fords. He gathered what men he could and made for Helm's Deep, but enemies cut him off.\n\nGandalf found him and brought him to Helm's Deep at dawn. Erkenbrand and his men came down from the hills as Théoden's host charged. Together they drove the Orcs into the Huorns' wood.",
+  "film": "Erkenbrand does not appear in the films. Éomer leads the riders who come to Helm's Deep at dawn.",
+  "series": "",
+  "facts": {
+   "Race": "Man of Rohan",
+   "Title": "Lord of the Westfold",
+   "Realm or home": "The Westfold, Rohan"
+  },
+  "places": [
+   {
+    "id": "battle:second-fords-of-isen",
+    "role": "fought",
+    "note": "He leads the Riders of the west and is driven back from the Fords."
+   },
+   {
+    "id": "NP017",
+    "role": "ruled",
+    "note": "He rules this western province of Rohan."
+   },
+   {
+    "id": "battle:hornburg",
+    "role": "fought",
+    "note": "He arrives at dawn with Gandalf and his men."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:theoden",
+   "person:theodred",
+   "person:gandalf",
+   "person:grimbold",
+   "person:gamling",
+   "person:saruman"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Two Towers"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:elfhelm",
+  "title": "Elfhelm",
+  "group": "Men",
+  "kind": "Marshal of the Riddermark",
+  "aka": [
+   "Marshal of Rohan",
+   "Elfhelm the Marshal"
+  ],
+  "blurb": "Elfhelm was a Marshal of Rohan who commanded a company of Riders and rode with Théoden to the Pelennor Fields.",
+  "book": "Elfhelm was a Marshal of the Riddermark and a captain of the king's army. Théoden trusted him to lead a large company of Riders.\n\nHe gathered his men at Dunharrow with the other captains when Gondor called for help. Éowyn, disguised as the Rider Dernhelm, rode in his company with Merry.\n\nElfhelm rode with the king through the Drúadan Forest and into the Battle of the Pelennor Fields. His later life is not told in the main tale.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man of Rohan",
+   "Title": "Marshal of the Riddermark",
+   "Realm or home": "Rohan"
+  },
+  "places": [
+   {
+    "id": "FT009",
+    "role": "travelled",
+    "note": "He musters his company here before the ride to Gondor."
+   },
+   {
+    "id": "FO007",
+    "role": "travelled",
+    "note": "He rides with the king through the forest of the Woses."
+   },
+   {
+    "id": "battle:pelennor",
+    "role": "fought",
+    "note": "He leads a company of Riders in the great charge."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:theoden",
+   "person:eowyn",
+   "person:grimbold",
+   "person:eomer",
+   "person:ghan-buri-ghan"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Return of the King"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "person:grimbold",
+  "title": "Grimbold",
+  "group": "Men",
+  "kind": "Rider of the Westfold",
+  "aka": [
+   "Grimbold of Grimslade"
+  ],
+  "blurb": "Grimbold was a Rider of the Westfold who fought at the Fords of Isen and fell on the Pelennor Fields.",
+  "book": "Grimbold was a captain among the Riders of the Westfold. He fought against Saruman's host at the Fords of Isen.\n\nIn the great muster of Rohan he led a company of Riders. He rode with the king to Gondor and took part in the Battle of the Pelennor Fields.\n\nGrimbold was killed there. He is named among the fallen who were laid in the Mounds of Mundburg.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man of Rohan",
+   "Died": "T.A. 3019",
+   "Realm or home": "The Westfold, Rohan"
+  },
+  "places": [
+   {
+    "id": "FJ008",
+    "role": "fought",
+    "note": "He fights Saruman's host at the Fords of Isen."
+   },
+   {
+    "id": "battle:pelennor",
+    "role": "died",
+    "note": "He falls in the Battle of the Pelennor Fields."
+   },
+   {
+    "id": "GR018",
+    "role": "buried",
+    "note": "He is laid with the fallen in the Mounds of Mundburg."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:theodred",
+   "person:erkenbrand",
+   "person:elfhelm",
+   "person:theoden"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Two Towers",
+   "The Lord of the Rings, The Return of the King"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "person:eorl-the-young",
+  "title": "Eorl the Young",
+  "group": "Men",
+  "kind": "First King of Rohan",
+  "aka": [
+   "Eorl"
+  ],
+  "blurb": "Eorl the Young led the Éothéod south to save Gondor at the Field of Celebrant and became the first King of Rohan.",
+  "book": "Eorl was the son of Léod, lord of the Éothéod in the northern Vales of Anduin. His father was killed when he tried to tame a wild horse. Eorl took the horse, Felaróf, and became lord of his people at a young age.\n\nIn T.A. 2510 the Balchoth and the Orcs attacked Gondor from the north. Steward Cirion called for help, and Eorl rode south with his cavalry. The Riders came upon the Field of Celebrant and scattered the enemy. Cirion gave Eorl the land of Calenardhon, which then became Rohan, and the two swore an oath of friendship.\n\nEorl ruled as the first King of Rohan from T.A. 2510. He died in T.A. 2545, in a battle against the Easterlings in the Wold. He was buried in a mound at Edoras.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man of the Éothéod",
+   "Born": "T.A. 2485",
+   "Died": "T.A. 2545",
+   "Parents": "Léod",
+   "Title": "First King of Rohan",
+   "Realm or home": "Rohan",
+   "Weapon or steed": "Felaróf"
+  },
+  "places": [
+   {
+    "id": "NP039",
+    "role": "born",
+    "note": "He is born among the Éothéod and rules them after his father."
+   },
+   {
+    "id": "battle:field-of-celebrant",
+    "role": "fought",
+    "note": "He leads the Riders who destroy the enemy host in T.A. 2510."
+   },
+   {
+    "id": "BU085_54",
+    "role": "other",
+    "note": "He swears the Oath of Eorl to Cirion on this hill."
+   },
+   {
+    "id": "TO002",
+    "role": "lived",
+    "note": "He dwells at Aldburg in the Eastfold."
+   },
+   {
+    "id": "FI028",
+    "role": "died",
+    "note": "He falls in battle with Easterlings in the Wold in T.A. 2545."
+   },
+   {
+    "id": "GR003",
+    "role": "buried",
+    "note": "He is laid in the first mound of the kings at Edoras."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:felarof",
+   "person:brego",
+   "person:cirion",
+   "person:theoden",
+   "person:thengel"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A",
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:brego",
+  "title": "Brego",
+  "group": "Men",
+  "kind": "Second King of Rohan",
+  "aka": [
+   "Brego son of Eorl"
+  ],
+  "blurb": "Brego was the second King of Rohan, who built the golden hall Meduseld and lost his son Baldor to the Paths of the Dead.",
+  "book": "Brego was the son of Eorl the Young. He became the second King of Rohan in T.A. 2545, after his father fell in battle against the Easterlings. Brego drove the invaders out of the land.\n\nHe built the great hall called Meduseld at Edoras and held the feast of its dedication in T.A. 2569. At that feast his son Baldor made a rash vow to enter the Paths of the Dead.\n\nBaldor did not return. Brego died in T.A. 2570, grieving for his son. His second son Aldor ruled after him.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man of Rohan",
+   "Born": "T.A. 2512",
+   "Died": "T.A. 2570",
+   "Parents": "Eorl the Young",
+   "Children": "Baldor and Aldor",
+   "Title": "Second King of Rohan",
+   "Realm or home": "Rohan"
+  },
+  "places": [
+   {
+    "id": "BU070",
+    "role": "made",
+    "note": "He builds the golden hall and holds a feast there in T.A. 2569."
+   },
+   {
+    "id": "TO029",
+    "role": "ruled",
+    "note": "He rules Rohan from Edoras."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:eorl-the-young",
+   "person:baldor",
+   "person:theoden",
+   "person:thengel"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:baldor",
+  "title": "Baldor",
+  "group": "Men",
+  "kind": "Son of King Brego",
+  "aka": [
+   "Baldor son of Brego"
+  ],
+  "blurb": "Baldor was Brego's son, who vowed at a feast to enter the Paths of the Dead and was never seen again.",
+  "book": "Baldor was the elder son of Brego, the second King of Rohan. When Brego and Baldor first came to Dunharrow, they found an old man sitting by the Dark Door. He told them the way was shut.\n\nAt the feast that opened Meduseld in T.A. 2569, Baldor made a rash vow to walk the Paths of the Dead. He set out to keep it and was never seen again in Rohan. His father died of grief in T.A. 2570, and Rohan passed to his younger brother Aldor.\n\nIn T.A. 3019 Aragorn's company found his bones in the Paths, beside a closed door in the rock.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man of Rohan",
+   "Parents": "Brego",
+   "Realm or home": "Rohan"
+  },
+  "places": [
+   {
+    "id": "BU070",
+    "role": "other",
+    "note": "He makes his rash vow at the feast of the new hall."
+   },
+   {
+    "id": "DO007",
+    "role": "other",
+    "note": "He passes the Dark Door to keep his vow."
+   },
+   {
+    "id": "VA040",
+    "role": "died",
+    "note": "His bones are found inside the Paths by Aragorn's company in T.A. 3019."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:brego",
+   "person:eorl-the-young",
+   "person:aragorn"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A",
+   "The Lord of the Rings, The Return of the King"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:helm-hammerhand",
+  "title": "Helm Hammerhand",
+  "group": "Men",
+  "kind": "Ninth King of Rohan",
+  "aka": [
+   "Helm",
+   "Hammerhand"
+  ],
+  "blurb": "Helm Hammerhand was the ninth King of Rohan, who held the Hornburg in the Long Winter, and after whom Helm's Deep is named.",
+  "book": "Helm was the ninth King of Rohan and a grim man of great strength. He became king in T.A. 2741 and was called Hammerhand for the blows of his fist.\n\nIn T.A. 2754 the lord Freca asked for Helm's daughter as a wife for his son Wulf. Helm refused, and Freca mocked him. Helm struck Freca with his fist, and Freca died. In T.A. 2758 Wulf and the Dunlendings invaded and took Edoras. Helm's son Haleth fell defending the gate.\n\nHelm retreated to the Hornburg and held out through the Long Winter of T.A. 2758-2759. His son Háma was lost in a sortie. Helm went out alone into the snow and was found dead, still standing on the Dike. The Deep took his name. His nephew Fréaláf then drove the Dunlendings out.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man of Rohan",
+   "Born": "T.A. 2691",
+   "Died": "T.A. 2759",
+   "Title": "Ninth King of Rohan",
+   "Realm or home": "Rohan"
+  },
+  "places": [
+   {
+    "id": "TO029",
+    "role": "ruled",
+    "note": "He kills Freca here in T.A. 2754 and later loses the town to Wulf."
+   },
+   {
+    "id": "battle:hornburg-long-winter",
+    "role": "fought",
+    "note": "He defends the fortress through the Long Winter."
+   },
+   {
+    "id": "WA004",
+    "role": "died",
+    "note": "He is found dead in the snow, standing on the Dike."
+   },
+   {
+    "id": "GR003",
+    "role": "buried",
+    "note": "He is laid in a mound among the kings at Edoras."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:freca",
+   "person:wulf",
+   "person:theoden"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:thengel",
+  "title": "Thengel",
+  "group": "Men",
+  "kind": "King of Rohan, Théoden's father",
+  "aka": [
+   "Thengel son of Fengel",
+   "Thengel the King"
+  ],
+  "blurb": "Thengel was King of Rohan from T.A. 2953. He lived many years in Gondor and was the father of Théoden.",
+  "book": "Thengel was the son of Fengel and the father of Théoden. He quarrelled with his father and left to live in Gondor, where he served the Steward Turgon.\n\nHe wed Morwen of Lossarnach late in life. Their son Théoden was born in Gondor in T.A. 2948. When Fengel died in T.A. 2953, Thengel returned to Rohan as king.\n\nHe ruled well until he died in T.A. 2980, and Théoden succeeded him. His youngest child Théodwyn was the mother of Éomer and Éowyn. The speech of Gondor was used in his house, and not all his people liked that.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man of Rohan",
+   "Born": "T.A. 2905",
+   "Died": "T.A. 2980",
+   "Parents": "Fengel",
+   "Spouse": "Morwen of Lossarnach",
+   "Children": "Théoden, Théodwyn and other daughters",
+   "Title": "King of Rohan from T.A. 2953",
+   "Realm or home": "Rohan"
+  },
+  "places": [
+   {
+    "id": "realm:gondor",
+    "role": "lived",
+    "note": "He serves the Steward Turgon for many years before returning home."
+   },
+   {
+    "id": "BU070",
+    "role": "ruled",
+    "note": "He rules from the golden hall after returning to Rohan."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:theoden",
+   "person:eomund",
+   "person:eorl-the-young"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:eomund",
+  "title": "Éomund",
+  "group": "Men",
+  "kind": "Chief Marshal of the Mark",
+  "aka": [
+   "Éomund of Eastfold",
+   "Chief Marshal of the Riddermark"
+  ],
+  "blurb": "Éomund was the Chief Marshal of the Mark and father of Éomer and Éowyn, killed by Orcs in T.A. 3002.",
+  "book": "Éomund of Eastfold was the Chief Marshal of the Riddermark. He guarded the eastern border of Rohan, where the Orcs of Mordor often crossed.\n\nHe married Théodwyn, the sister of Théoden, and they had two children, Éomer and Éowyn.\n\nIn T.A. 3002 Éomund rode in pursuit of a band of Orcs with too few men and was slain in an ambush. Théodwyn fell ill and died soon after. Théoden took his orphaned nephew and niece into his own house and raised them as his own.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man of Rohan",
+   "Died": "T.A. 3002",
+   "Spouse": "Théodwyn",
+   "Children": "Éomer and Éowyn",
+   "Title": "Chief Marshal of the Mark",
+   "Realm or home": "Rohan"
+  },
+  "places": [
+   {
+    "id": "NP016",
+    "role": "lived",
+    "note": "His home and command lie in the Eastfold of Rohan."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:eomer",
+   "person:eowyn",
+   "person:theoden",
+   "person:thengel"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A",
+   "The Lord of the Rings, The Two Towers"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:ghan-buri-ghan",
+  "title": "Ghân-buri-Ghân",
+  "group": "Men",
+  "kind": "Headman of the Woses",
+  "aka": [
+   "Wose of the Drúadan Forest",
+   "Headman of the Wild Men"
+  ],
+  "blurb": "Ghân-buri-Ghân was the headman of the Woses who guided the Rohirrim to the Pelennor Fields in T.A. 3019.",
+  "book": "Ghân-buri-Ghân was the chief of the Woses, the Wild Men of the Drúadan Forest. His people were small, strong and hardy, and they lived apart from the other peoples of Middle-earth.\n\nIn T.A. 3019, when the Rohirrim rode toward Minas Tirith, they found the main road watched by the enemy. Ghân-buri-Ghân came to Théoden and offered to guide them. He told the king of a forgotten way through the Stonewain Valley that bypassed the watchers.\n\nThe Woses had no love for the Men of Gondor or Rohan, but they hated the Orcs. Théoden promised them the freedom of the forest after the war. Aragorn later confirmed that gift.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Wose (Drúedain)",
+   "Title": "Headman of the Woses",
+   "Realm or home": "Drúadan Forest, Anórien"
+  },
+  "places": [
+   {
+    "id": "FO007",
+    "role": "lived",
+    "note": "He leads the Woses in this forest and meets Théoden here."
+   },
+   {
+    "id": "VA018",
+    "role": "travelled",
+    "note": "He guides the Riders through this old valley, avoiding the Orcs."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:theoden",
+   "person:eomer",
+   "person:elfhelm",
+   "person:aragorn"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Return of the King"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:grima",
+  "title": "Gríma Wormtongue",
+  "group": "Enemies",
+  "kind": "Counsellor of Théoden, spy of Saruman",
+  "aka": [
+   "Wormtongue",
+   "Gríma son of Gálmód",
+   "Saruman's creature"
+  ],
+  "blurb": "Gríma, called Wormtongue, was Théoden's counsellor who secretly served Saruman, and who later killed his master in the Shire.",
+  "book": "Gríma was the son of Gálmód and became chief counsellor to King Théoden. In secret he served Saruman. He spoke poison into the king's ear, weakened his will, and worked to separate him from his allies.\n\nHe wished to take Éowyn for himself and fed on the king's weakness. When Gandalf came to Edoras in T.A. 3019, the wizard broke Gríma's hold and exposed him. Gríma fled to Isengard and became Saruman's servant.\n\nHe threw the palantír down from Orthanc during the parley. It may have been aimed at Gandalf or at Saruman. After Isengard fell, he stayed with his master. In the Shire he served Saruman again and was cruelly treated.\n\nAt Bag End in T.A. 3019 he cut Saruman's throat. Hobbit archers shot him dead at once.",
+  "film": "Played by Brad Dourif. In the extended edition Saruman's death is changed. Gríma stabs him on top of Orthanc after the fall of Isengard.",
+  "series": "",
+  "facts": {
+   "Race": "Man of Rohan",
+   "Died": "T.A. 3019",
+   "Parents": "Gálmód",
+   "Title": "Chief counsellor of Théoden",
+   "Realm or home": "Edoras, then Isengard"
+  },
+  "places": [
+   {
+    "id": "BU070",
+    "role": "lived",
+    "note": "He serves as the king's counsellor and works for Saruman in secret."
+   },
+   {
+    "id": "BU021",
+    "role": "other",
+    "note": "He hurls the palantír from Orthanc's door at the departing party."
+   },
+   {
+    "id": "BU030",
+    "role": "died",
+    "note": "He kills Saruman and is shot by Hobbit archers."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:theoden",
+   "person:saruman",
+   "person:eowyn",
+   "person:gandalf",
+   "thing:palantir-of-orthanc"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Two Towers",
+   "The Lord of the Rings, The Return of the King"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:freca",
+  "title": "Freca",
+  "group": "Enemies",
+  "kind": "Dunlending-blooded lord of Rohan",
+  "aka": [
+   "Lord Freca"
+  ],
+  "blurb": "Freca was a Rohirric lord of part-Dunlending blood who was slain by King Helm in T.A. 2754.",
+  "book": "Freca was a rich and powerful lord of Rohan who claimed descent from King Fréawine. He held lands on both sides of the river Adorn. He was said to have much Dunlending blood, and he was proud and haughty.\n\nIn T.A. 2754 he came to Edoras and asked Helm Hammerhand for his daughter's hand in marriage for his son Wulf. Helm refused, and Freca mocked the king. Helm struck him once with his fist. Freca fell dead.\n\nHis son Wulf later sought revenge and took Edoras.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man of Rohan with Dunlending blood",
+   "Died": "T.A. 2754",
+   "Children": "Wulf"
+  },
+  "places": [
+   {
+    "id": "RI084",
+    "role": "lived",
+    "note": "He holds lands on both banks of the river Adorn."
+   },
+   {
+    "id": "TO029",
+    "role": "died",
+    "note": "He dies at Edoras from Helm's blow in T.A. 2754."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:helm-hammerhand",
+   "person:wulf"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:wulf",
+  "title": "Wulf",
+  "group": "Enemies",
+  "kind": "Usurper of Edoras",
+  "aka": [
+   "Wulf son of Freca",
+   "Wulf the Usurper"
+  ],
+  "blurb": "Wulf was Freca's son who led the Dunlendings, seized Edoras in T.A. 2758, and ruled until Fréaláf slew him.",
+  "book": "Wulf was the son of Freca, who had been killed by King Helm. In T.A. 2758 Wulf led the Dunlendings and other enemies into Rohan. At the same time the Corsairs of Umbar attacked Gondor, so Gondor could send no help.\n\nHe took Edoras and sat in Meduseld as king. Helm's son Haleth died defending the town, and the king retreated to the Hornburg. The Long Winter followed, and many people perished.\n\nWulf's rule lasted until the spring of T.A. 2759. Then Fréaláf, Helm's nephew, came down from Dunharrow with a band of men, took Edoras by surprise, and slew Wulf in Meduseld.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man of Rohan with Dunlending blood",
+   "Parents": "Freca",
+   "Realm or home": "Rohan (as a usurper)"
+  },
+  "places": [
+   {
+    "id": "TO029",
+    "role": "ruled",
+    "note": "He seizes the town in T.A. 2758 and rules for a time."
+   },
+   {
+    "id": "BU070",
+    "role": "lived",
+    "note": "He is killed by Fréaláf in the golden hall."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:freca",
+   "person:helm-hammerhand"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:saruman",
+  "title": "Saruman",
+  "group": "Wizards and Maiar",
+  "kind": "Wizard, master of Isengard",
+  "aka": [
+   "Curunír",
+   "Saruman the White",
+   "Sharkey",
+   "Saruman of Many Colours",
+   "Ring-maker"
+  ],
+  "blurb": "Saruman was the head of the White Council who fell to ambition and ruled Isengard, and who was slain in the Shire in T.A. 3019.",
+  "book": "Saruman was a Maia of Aulë who came to Middle-earth with the Istari around T.A. 1000. He took the name Curunír among the Elves and became the head of the White Council. He studied the Rings of Power.\n\nIn T.A. 2759 Steward Beren of Gondor gave him Orthanc at Isengard. Saruman made himself master there. He also grew jealous of Sauron's power, wanted the One Ring, and used the palantír of Orthanc. Sauron deceived him through it, and he fell under his sway.\n\nHe gathered Orcs and Dunlendings and made war on Rohan. His army fought at the Fords of Isen and the Hornburg. The Ents destroyed Isengard in T.A. 3019, and Gandalf broke his staff and cast him from the Order.\n\nAfter his release he went to the Shire, where his ruffians already held power through Lotho. The hobbits rose and defeated the ruffians at Bywater. Gríma killed him on the doorstep of Bag End.",
+  "film": "Played by Christopher Lee. He is killed at Orthanc by Gríma during the destruction of Isengard, and the Shire chapter is omitted.",
+  "series": "",
+  "facts": {
+   "Race": "Maia (Wizard)",
+   "Died": "T.A. 3019",
+   "Title": "Head of the White Council",
+   "Realm or home": "Isengard",
+   "Weapon or steed": "Staff"
+  },
+  "places": [
+   {
+    "id": "BU021",
+    "role": "lived",
+    "note": "He takes this tower in T.A. 2759 and makes it his seat."
+   },
+   {
+    "id": "FT017",
+    "role": "ruled",
+    "note": "He fortifies the ring of Isengard and raises an army of Orcs."
+   },
+   {
+    "id": "battle:ents-of-isengard",
+    "role": "other",
+    "note": "The Ents wreck Isengard and leave him shut in Orthanc."
+   },
+   {
+    "id": "BU030",
+    "role": "died",
+    "note": "Gríma kills him at the door of Bag End."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:gandalf",
+   "person:grima",
+   "person:theoden",
+   "person:treebeard",
+   "person:sauron",
+   "thing:palantir-of-orthanc",
+   "thing:one-ring"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Fellowship of the Ring",
+   "The Lord of the Rings, The Two Towers",
+   "The Lord of the Rings, Appendix B",
+   "Unfinished Tales"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:snowmane",
+  "title": "Snowmane",
+  "group": "Creatures",
+  "kind": "White horse of King Théoden",
+  "aka": [
+   "Snowmane of the Mark"
+  ],
+  "blurb": "Snowmane was King Théoden's white horse, who fell on the king at the Pelennor Fields and lies under Snowmane's Howe.",
+  "book": "Snowmane was the white horse of King Théoden of Rohan.\n\nThéoden rode him to Helm's Deep, to Isengard, and then in the great ride to Gondor. At the Battle of the Pelennor Fields the king rode him at the head of the charge.\n\nWhen the Witch-king came, a black dart pierced the horse. Snowmane reared and fell upon Théoden, crushing the king beneath him. The horse was buried on the field, and a green mound called Snowmane's Howe marks the place.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Horse",
+   "Title": "Horse of King Théoden"
+  },
+  "places": [
+   {
+    "id": "TO029",
+    "role": "kept",
+    "note": "He is kept in the royal stables and ridden by the king."
+   },
+   {
+    "id": "battle:pelennor",
+    "role": "died",
+    "note": "He falls on Théoden during the great charge."
+   },
+   {
+    "id": "NP026",
+    "role": "buried",
+    "note": "He is buried under a green mound on the field."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:theoden",
+   "person:felarof",
+   "person:witch-king",
+   "person:shadowfax"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Return of the King"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:felarof",
+  "title": "Felaróf",
+  "group": "Creatures",
+  "kind": "Horse of Eorl, sire of the Mearas",
+  "aka": [],
+  "blurb": "Felaróf was the wild horse tamed by Eorl the Young and the sire of the Mearas, the greatest horses of Rohan.",
+  "book": "Felaróf was a wild horse of the Vales of Anduin. He would let no man ride him. Léod, Eorl's father, tried to tame him and was thrown and killed.\n\nEorl went after the horse to claim a price for his father's death, and Felaróf yielded to him. He could understand the speech of Men and lived as long as a man. He carried Eorl to the Field of Celebrant in T.A. 2510.\n\nFelaróf was the sire of the Mearas. These noble horses would bear only the King of the Mark or his sons, until Shadowfax chose Gandalf.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Horse (first of the Mearas)",
+   "Weapon or steed": "Ridden by Eorl the Young"
+  },
+  "places": [
+   {
+    "id": "battle:field-of-celebrant",
+    "role": "fought",
+    "note": "He carries Eorl into the battle that saves Gondor in T.A. 2510."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:eorl-the-young",
+   "person:snowmane",
+   "person:shadowfax",
+   "person:brego"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A",
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:hasufel",
+  "title": "Hasufel",
+  "group": "Creatures",
+  "kind": "Grey horse of Rohan",
+  "aka": [
+   "Hasufel of the Mark"
+  ],
+  "blurb": "Hasufel was a grey horse of Rohan lent by Éomer to Aragorn in T.A. 3019.",
+  "book": "Hasufel was a grey horse of the Riddermark. His rider Gárulf had been slain by the Orcs. In T.A. 3019 Éomer lent him to Aragorn, so that Aragorn, Legolas and Gimli could follow the Orcs who had taken the Hobbits.\n\nAragorn rode Hasufel to the edge of Fangorn. The horses ran off in the night but came back with Shadowfax. Hasufel then carried Aragorn to Edoras and to Helm's Deep, and later to Isengard.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Horse of Rohan",
+   "Weapon or steed": "Ridden by Aragorn"
+  },
+  "places": [
+   {
+    "id": "NP014",
+    "role": "other",
+    "note": "Éomer lends him to Aragorn on the plains of Rohan."
+   },
+   {
+    "id": "FO012",
+    "role": "travelled",
+    "note": "Aragorn rides him to the edge of the forest."
+   },
+   {
+    "id": "FT014",
+    "role": "travelled",
+    "note": "He carries Aragorn to the defense of Helm's Deep."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:aragorn",
+   "person:eomer",
+   "person:arod",
+   "person:snowmane"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Two Towers"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:arod",
+  "title": "Arod",
+  "group": "Creatures",
+  "kind": "Horse of Rohan lent to Legolas and Gimli",
+  "aka": [
+   "Arod of the Mark"
+  ],
+  "blurb": "Arod was a horse of Rohan lent to Legolas and Gimli, who rode him together in T.A. 3019.",
+  "book": "Arod was a horse of the Riddermark that Éomer lent to Legolas and Gimli in T.A. 3019. Gimli rode behind the Elf, and the horse bore them both.\n\nLegolas rode him without saddle or bridle. Arod went with them to the edge of Fangorn, to Edoras, to Helm's Deep, and to Isengard.\n\nLater the two friends rode him with the Grey Company through the Paths of the Dead and on to the south of Gondor.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Horse of Rohan",
+   "Weapon or steed": "Ridden by Legolas and Gimli"
+  },
+  "places": [
+   {
+    "id": "NP014",
+    "role": "other",
+    "note": "Éomer lends him to Legolas and Gimli on the plains."
+   },
+   {
+    "id": "FO012",
+    "role": "travelled",
+    "note": "He carries the two friends to the edge of the forest."
+   },
+   {
+    "id": "FT014",
+    "role": "travelled",
+    "note": "He carries Legolas and Gimli to Helm's Deep."
+   },
+   {
+    "id": "VA040",
+    "role": "travelled",
+    "note": "He bears Legolas and Gimli through the Paths of the Dead."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:legolas",
+   "person:gimli",
+   "person:hasufel",
+   "person:eomer"
+  ],
+  "sources": [
+   "The Lord of the Rings, The Two Towers"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:scatha",
+  "title": "Scatha",
+  "group": "Creatures",
+  "kind": "Long-worm of the Grey Mountains",
+  "aka": [
+   "Scatha the Worm",
+   "Long-worm"
+  ],
+  "blurb": "Scatha was a great dragon of the Grey Mountains, slain by Fram of the Éothéod.",
+  "book": "Scatha was a great long-worm, a dragon of the Grey Mountains. He held a hoard taken from the Dwarves.\n\nFram son of Frumgar, a lord of the Éothéod, slew the dragon and took the hoard. The Dwarves claimed the treasure, and Fram refused them. He sent them Scatha's teeth made into a necklace, and it is said the Dwarves later slew him. There was little love between the Éothéod and the Dwarves after that.\n\nA silver horn from Scatha's hoard came down to the Kings of Rohan. Éowyn and Éomer later gave it to Merry.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Dragon (long-worm)",
+   "Realm or home": "The Grey Mountains"
+  },
+  "places": [
+   {
+    "id": "MT022",
+    "role": "died",
+    "note": "He lives and is slain here by Fram of the Éothéod."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:eorl-the-young",
+   "person:smaug",
+   "person:meriadoc-brandybuck",
+   "thing:horn-of-the-mark"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ }
+]

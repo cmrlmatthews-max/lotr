@@ -1,0 +1,790 @@
+[
+ {
+  "id": "NP027",
+  "title": "The Cross-roads",
+  "land": "me",
+  "layer": "Roads",
+  "tier": 2,
+  "x": 1488.0,
+  "y": 688.0,
+  "kind": "Road junction in Ithilien",
+  "blurb": "A meeting of roads in Ithilien, marked by an ancient statue of a king whose head had been struck off.",
+  "book": "Several great roads of Gondor meet here, including the road from Osgiliath and the road to Minas Morgul. A road also leads south toward the lands of Harad.\n\nAn old stone statue of a seated king stands at the crossing. Orcs knocked off its head and painted a crude face on the stone.\n\nFrodo, Sam and Gollum pass the place on their way to Cirith Ungol. Frodo finds the fallen head in the undergrowth. Wild flowers circle its brow, and the evening sun lights it.\n\nThis sight gives Frodo new hope. The road to the east leads on to the Morgul Vale.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Ithilien, Gondor",
+   "Location": "West of the Morgul Vale, where the Morgul road meets the road through Ithilien"
+  },
+  "related": [
+   "TO064",
+   "NP032",
+   "realm:ithilien",
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:gollum"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book IV"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "NP028",
+  "title": "Forbidden Pool",
+  "land": "me",
+  "layer": "Lakes",
+  "tier": 2,
+  "x": 1464.0,
+  "y": 747.0,
+  "kind": "Pool beneath Henneth Annûn",
+  "blurb": "The pool below the waterfall of Henneth Annûn. Faramir's men guarded it, and Gollum was caught fishing there.",
+  "book": "The pool lies at the foot of the falls that hide the cave of Henneth Annûn. The stream runs out through a curtain of water into this basin.\n\nFaramir's Rangers kept the place secret. By the law of Gondor, any stranger who saw the pool without leave could be put to death.\n\nWhile Frodo and Sam stayed in the cave, Gollum slipped out to fish in the pool. Faramir's archers could have shot him.\n\nFrodo asked Faramir to spare Gollum. He went down and coaxed Gollum to him, and the Rangers seized him. Frodo felt that he had betrayed his guide.",
+  "film": "The films show Gollum fishing in the pool below Henneth Annûn. Faramir's men seize him there.",
+  "series": "",
+  "facts": {
+   "Realm": "Ithilien, Gondor",
+   "Location": "Below the falls of Henneth Annûn, in North Ithilien",
+   "Kind": "Pool"
+  },
+  "related": [
+   "CA008",
+   "NP032",
+   "person:faramir",
+   "person:gollum",
+   "person:frodo-baggins"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book IV"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "NP029",
+  "title": "Pinnath Gelin",
+  "land": "me",
+  "layer": "Hills",
+  "tier": 3,
+  "x": 916.0,
+  "y": 627.0,
+  "kind": "Green hills of western Gondor",
+  "blurb": "The Green Hills of western Gondor sent men to defend Minas Tirith at the end of the Third Age.",
+  "book": "Pinnath Gelin is a range of hills in western Gondor. It lies in the fiefs of the west, not far from Lamedon and Anfalas.\n\nWhen Minas Tirith was in danger in T.A. 3019, men of the region marched to the city. Their captain was Hirluin the Fair of the Green Hills.\n\nThe men came in a company of about three hundred. They were among the many levies that gathered from the fiefs of Gondor.\n\nThe books give little more about the hills themselves.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Sindarin": "Pinnath Gelin",
+   "English": "Green Hills"
+  },
+  "facts": {
+   "Realm": "Gondor",
+   "Location": "Western Gondor, north of Anfalas and near Lamedon"
+  },
+  "related": [
+   "realm:anfalas",
+   "realm:gondor",
+   "RI057",
+   "TO065"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "NP030",
+  "title": "Ethir Anduin",
+  "land": "me",
+  "layer": "Rivers",
+  "tier": 2,
+  "x": 1281.0,
+  "y": 457.0,
+  "kind": "Delta of the Anduin",
+  "blurb": "The many mouths of the Great River, south of Pelargir, where the Anduin reaches the Bay of Belfalas.",
+  "book": "Below Pelargir the Anduin splits into many channels and marshy mouths. These make up the Ethir Anduin.\n\nThe delta opens into the Bay of Belfalas. The isle of Tolfalas lies off the mouths in the bay.\n\nShips of Gondor sailed up from the sea to Pelargir through this country. In the War of the Ring the ships of the Corsairs of Umbar came north by the same way.\n\nAragorn took the black ships at Pelargir and sailed north on the river to Minas Tirith.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Sindarin": "Ethir Anduin",
+   "English": "Outflow of the Anduin"
+  },
+  "facts": {
+   "Realm": "Gondor",
+   "Location": "South of Pelargir, at the mouths of the Anduin",
+   "Kind": "River delta"
+  },
+  "related": [
+   "RI003",
+   "TO081",
+   "IS019",
+   "battle:pelargir"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V; The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "NP031",
+  "title": "Dor-en-Ernil",
+  "land": "me",
+  "layer": "Fields",
+  "tier": 3,
+  "x": 1071.0,
+  "y": 592.0,
+  "kind": "Fief of the Prince of Dol Amroth",
+  "blurb": "Dor-en-Ernil was the land of the Prince of Dol Amroth in Belfalas, held by the Prince under the Steward of Gondor.",
+  "book": "The name means Land of the Prince. It is the region of Belfalas around and inland from Dol Amroth, in the south-west of Gondor.\n\nIts lord is the Prince of Dol Amroth. In the War of the Ring this was Imrahil, the brother of Finduilas, wife of the Steward Denethor.\n\nImrahil led the knights of Dol Amroth and a company of men-at-arms to the defence of Minas Tirith in T.A. 3019. The city of Dol Amroth itself bore the name of the Elf-king Amroth.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Sindarin": "Dor-en-Ernil",
+   "English": "Land of the Prince"
+  },
+  "facts": {
+   "Realm": "Gondor",
+   "Location": "Belfalas, around and inland from Dol Amroth"
+  },
+  "related": [
+   "TO026",
+   "person:imrahil",
+   "person:amroth",
+   "realm:gondor"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V",
+   "The Lord of the Rings, Appendix A",
+   "The Lord of the Rings, map"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "NP032",
+  "title": "North Ithilien",
+  "land": "me",
+  "layer": "Fields",
+  "tier": 3,
+  "x": 1476.0,
+  "y": 720.0,
+  "kind": "Northern part of Ithilien",
+  "blurb": "The northern half of Ithilien, a green wild land where Faramir's Rangers hid from the servants of Mordor.",
+  "book": "Ithilien was once the garden of Gondor. Its northern part lies close to Mordor, and Gondor no longer held it in peace.\n\nThe land was still fair, with trees, herbs and streams. Frodo and Sam passed through it under the guidance of Gollum in March T.A. 3019.\n\nFaramir led a company of Rangers here. They hid in the cave of Henneth Annûn and ambushed the Southrons on the road from the Black Gate.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Ithilien, Gondor",
+   "Location": "Northern Ithilien, from the Morgul Vale toward the Dead Marshes"
+  },
+  "related": [
+   "realm:ithilien",
+   "CA008",
+   "NP027",
+   "TO064",
+   "person:faramir",
+   "person:mablung-of-ithilien"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book IV"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "NP033",
+  "title": "South Ithilien",
+  "land": "me",
+  "layer": "Fields",
+  "tier": 3,
+  "x": 1481.0,
+  "y": 550.0,
+  "kind": "Southern part of Ithilien",
+  "blurb": "The southern half of Ithilien, lying between the Morgul Vale and the Poros, on the eastern bank of the Anduin.",
+  "book": "The southern part of Ithilien lay toward the crossings of the Poros, which marked the border with the south. Gondor had once held it as a fair, settled land.\n\nIt lay along the eastern bank of the Anduin, opposite the fiefs of Gondor on the west. Osgiliath once joined the two banks.\n\nBy the end of the Third Age the land was wild, and men of Gondor held it only in small companies.\n\nSouth of it lay Harondor, which was also a border land of Gondor.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Ithilien, Gondor",
+   "Location": "Southern Ithilien, between the Morgul Vale and the Poros"
+  },
+  "related": [
+   "realm:ithilien",
+   "realm:harondor",
+   "TO078",
+   "RI003",
+   "NP032"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book IV; The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "NP034",
+  "title": "Nurn",
+  "land": "me",
+  "layer": "Fields",
+  "tier": 2,
+  "x": 1855.0,
+  "y": 566.0,
+  "kind": "Southern farmland of Mordor",
+  "blurb": "Nurn is the fertile southern part of Mordor around the Sea of Núrnen, worked by slaves to feed Sauron's armies.",
+  "book": "Nurn lies in the south of Mordor, around the inland Sea of Núrnen. Streams from the mountains feed the sea and the fields about it.\n\nThe land was far more fertile than the rest of Mordor. Slaves worked its wide fields, and its harvest fed the armies of Sauron.\n\nAfter the fall of Sauron, King Elessar freed the slaves of Mordor. He gave them the lands about Lake Núrnen to be their own.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "Mordor",
+   "Location": "South of Mordor, around the Sea of Núrnen",
+   "Kind": "Farmland"
+  },
+  "related": [
+   "realm:mordor",
+   "LA017",
+   "person:sauron",
+   "person:aragorn"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "NP035",
+  "title": "Noman-lands",
+  "land": "me",
+  "layer": "Fields",
+  "tier": 3,
+  "x": 1461.0,
+  "y": 958.0,
+  "kind": "Barren land north of the Dead Marshes",
+  "blurb": "The Noman-lands are a bleak, empty waste east of the Emyn Muil and north of the Dead Marshes.",
+  "book": "The Noman-lands are a barren country with no settled people. They lie east of the Emyn Muil, between the Brown Lands to the north and the Dead Marshes and Dagorlad to the south.\n\nThe ground is bare and empty of shelter. It lies near the lands under the shadow of Mordor.\n\nThe name is given on the map of The Lord of the Rings. It means land that belongs to no one.",
+  "film": "",
+  "series": "",
+  "names": {
+   "English": "No man's land"
+  },
+  "facts": {
+   "Location": "North of the Dead Marshes, near the Emyn Muil and the Brown Lands",
+   "Kind": "Wasteland"
+  },
+  "related": [
+   "SW002",
+   "HI022",
+   "FI004",
+   "realm:brown-lands"
+  ],
+  "sources": [
+   "The Lord of the Rings, map"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "NP036",
+  "title": "Desolation of Smaug",
+  "land": "me",
+  "layer": "Fields",
+  "tier": 2,
+  "x": 1534.0,
+  "y": 1577.0,
+  "kind": "Burned land around Erebor",
+  "blurb": "The Desolation of Smaug was the burned and lifeless land around the Lonely Mountain after the dragon came.",
+  "book": "Smaug came to the Lonely Mountain in T.A. 2770 and drove out the Dwarves. He burned Dale and the lands about it.\n\nThe fields between the mountain and the Long Lake were left barren. Few creatures lived there for many years.\n\nBilbo and the Dwarves crossed this waste on their way to the mountain's gate in T.A. 2941. Smaug was killed by Bard soon after.\n\nAfter the Battle of Five Armies, Men and Dwarves rebuilt Dale and Erebor, and the land slowly recovered.",
+  "film": "The second Hobbit film is named for this land. It shows Dale in ruins and the empty plain around Erebor.",
+  "series": "",
+  "facts": {
+   "Location": "Around the Lonely Mountain, between Dale and the Long Lake",
+   "Date": "T.A. 2770 onward"
+  },
+  "related": [
+   "MT029",
+   "TO024",
+   "LA009",
+   "person:smaug",
+   "person:bard",
+   "battle:sack-of-erebor"
+  ],
+  "sources": [
+   "The Hobbit; The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "NP037",
+  "title": "Gollum's Lake",
+  "land": "me",
+  "layer": "Lakes",
+  "tier": 2,
+  "x": 1209.0,
+  "y": 1524.0,
+  "kind": "Underground lake in the Misty Mountains",
+  "blurb": "A dark lake deep beneath the Misty Mountains, where Gollum lived on an island and where Bilbo found the Ring.",
+  "book": "This lake lies far below the goblin tunnels in the Misty Mountains. Its water is cold and black, and no light reaches it.\n\nGollum lived on an island in the lake and rowed a small boat. He ate fish and any goblin he could catch.\n\nBilbo came to the shore after he was lost in the dark. He had found a ring in a tunnel and kept it.\n\nBilbo and Gollum played a riddle game here. Bilbo won, and he escaped Gollum with the Ring.",
+  "film": "The first Hobbit film shows the riddle game on the shore of the lake. Gollum is played by Andy Serkis.",
+  "series": "",
+  "facts": {
+   "Location": "Below Goblin-town in the Misty Mountains",
+   "Kind": "Underground lake"
+  },
+  "related": [
+   "TO039",
+   "person:gollum",
+   "person:bilbo-baggins",
+   "thing:one-ring"
+  ],
+  "sources": [
+   "The Hobbit, Chapter 5"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "NP038",
+  "title": "East Bight",
+  "land": "me",
+  "layer": "Fields",
+  "tier": 3,
+  "x": 1578.0,
+  "y": 1375.0,
+  "kind": "Open land cut into Mirkwood",
+  "blurb": "The East Bight is a great bay of open land cut into the eastern edge of Mirkwood.",
+  "book": "The East Bight is a feature of eastern Wilderland. It is a wide bay of open land cut deep into the eastern edge of Mirkwood.\n\nIt is named on the maps of The Lord of the Rings. The books tell little else about it, and no story of the War of the Ring takes place there.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Location": "Eastern edge of Mirkwood",
+   "Kind": "Inlet of open land"
+  },
+  "related": [
+   "FO018",
+   "realm:rhovanion"
+  ],
+  "sources": [
+   "The Lord of the Rings, map"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "NP039",
+  "title": "Éothéod",
+  "land": "me",
+  "layer": "Fields",
+  "tier": 3,
+  "x": 1229.0,
+  "y": 1660.0,
+  "kind": "Homeland of Eorl's people in the north",
+  "blurb": "The Éothéod were the northern people from whom the Rohirrim came. Their land lay in the upper Vales of Anduin.",
+  "book": "The Éothéod dwelt in the north of Wilderland, in the upper vales of the Anduin, near the Grey Mountains. Their chief town was Framsburg.\n\nThey were a people of horsemen. Their king Fram killed the dragon Scatha, who had troubled the land.\n\nIn T.A. 2510 Eorl the Young led the horsemen south to help Gondor at the Field of Celebrant. Cirion gave them the land of Calenardhon in reward.\n\nThey left their old home to settle there as the Rohirrim. Their land in the north was then left behind.",
+  "film": "",
+  "series": "",
+  "names": {
+   "English": "Horse-people"
+  },
+  "facts": {
+   "Location": "Upper Vales of Anduin, between the Langwell and the Greylin",
+   "Kind": "Homeland of the Rohirrim"
+  },
+  "related": [
+   "TO036",
+   "person:eorl-the-young",
+   "person:scatha",
+   "person:cirion",
+   "realm:gondor"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A; Unfinished Tales"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "NP040",
+  "title": "The Angle",
+  "land": "me",
+  "layer": "Fields",
+  "tier": 3,
+  "x": 947.0,
+  "y": 1362.0,
+  "kind": "Land between Hoarwell and Loudwater",
+  "blurb": "The Angle is the land between the rivers Hoarwell and Loudwater, where Stoor hobbits once lived.",
+  "book": "The Angle lies in Eriador, between the Hoarwell and the Loudwater, where the rivers meet.\n\nIn the early days Hobbits crossed the Misty Mountains into Eriador. Some of them, the Stoors, settled in the Angle for a time.\n\nLater many Stoors went on westward, and some of them came at last to the Shire.\n\nThe Last Bridge crosses the Hoarwell near the northern edge of this country.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Location": "Eriador, between the Hoarwell and the Loudwater",
+   "Kind": "Wedge of land between two rivers"
+  },
+  "related": [
+   "RI040",
+   "BR008",
+   "TO084",
+   "realm:the-shire"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "NP041",
+  "title": "House of Tom Bombadil",
+  "land": "me",
+  "layer": "Buildings",
+  "tier": 2,
+  "x": 642.0,
+  "y": 1383.0,
+  "kind": "Home of Tom Bombadil and Goldberry",
+  "blurb": "The house of Tom Bombadil stands near the edge of the Old Forest. Frodo and his friends found safety there.",
+  "book": "The house stands on a slope at the edge of the Old Forest. The Withywindle runs through the country around it.\n\nTom Bombadil lives there with Goldberry, the River-daughter. His pony, Fatty Lumpkin, grazes close by.\n\nTom rescued the hobbits from Old Man Willow. He then brought them to his home for rest and food.\n\nThey stayed two nights. Tom told them tales of the forest. After the hobbits were taken by a barrow-wight, Tom set them free and gave them blades from the barrow.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Location": "Edge of the Old Forest, near the Withywindle and below the Barrow-downs",
+   "Kind": "House"
+  },
+  "related": [
+   "RI083",
+   "FO023",
+   "HI011",
+   "person:tom-bombadil",
+   "person:goldberry",
+   "person:fatty-lumpkin"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "NP042",
+  "title": "Westfarthing",
+  "land": "me",
+  "layer": "Fields",
+  "tier": 3,
+  "x": 510.0,
+  "y": 1421.0,
+  "kind": "Western quarter of the Shire",
+  "blurb": "The Westfarthing is the western quarter of the Shire. It holds Hobbiton and Michel Delving, the chief town of the Shire.",
+  "book": "The Shire was divided into four Farthings. The Westfarthing is the western quarter.\n\nIts chief town, Michel Delving, is the seat of the Mayor. Hobbiton also lies in this Farthing.\n\nBag End stands on the Hill above Hobbiton. Bilbo and later Frodo lived there.\n\nThe Tower Hills at the far west end lie beyond the Farthing.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "Western quarter of the Shire",
+   "Kind": "Farthing"
+  },
+  "related": [
+   "TO050",
+   "realm:the-shire",
+   "person:bilbo-baggins",
+   "person:frodo-baggins",
+   "person:will-whitfoot"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "NP043",
+  "title": "Northfarthing",
+  "land": "me",
+  "layer": "Fields",
+  "tier": 3,
+  "x": 556.0,
+  "y": 1463.0,
+  "kind": "Northern quarter of the Shire",
+  "blurb": "The Northfarthing is the northern quarter of the Shire, a land of farms and small villages.",
+  "book": "The Northfarthing is one of the four Farthings of the Shire. It lies in the north of the country.\n\nIts places include Oatbarton and Long Cleeve. The land is farming country.\n\nIn T.A. 2747 Bandobras Took defeated a band of orcs at the Battle of Greenfields in the Northfarthing. He struck off the head of their chief, Golfimbul.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "Northern quarter of the Shire",
+   "Kind": "Farthing"
+  },
+  "related": [
+   "TO075",
+   "TO058",
+   "battle:greenfields",
+   "realm:the-shire",
+   "person:bandobras-took"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue",
+   "The Hobbit, Chapter 1"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "NP044",
+  "title": "Eastfarthing",
+  "land": "me",
+  "layer": "Fields",
+  "tier": 3,
+  "x": 586.0,
+  "y": 1436.0,
+  "kind": "Eastern quarter of the Shire",
+  "blurb": "The Eastfarthing is the eastern quarter of the Shire. It includes Frogmorton, Whitfurrows and the Marish.",
+  "book": "The Eastfarthing is the eastern quarter of the Shire. It runs east toward the Brandywine River.\n\nFrogmorton and Whitfurrows lie within it. The Marish is the low country by the Brandywine.\n\nFarmer Maggot's farm, Bamfurlong, stands in the Marish. Frodo and his friends passed through it on the way out of the Shire.\n\nThe Eastfarthing also contains the Bridgefields, near the Brandywine Bridge.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "Eastern quarter of the Shire",
+   "Kind": "Farthing"
+  },
+  "related": [
+   "TO037",
+   "NP048",
+   "NP001",
+   "realm:the-shire",
+   "person:farmer-maggot"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue; The Lord of the Rings, Book I"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "NP045",
+  "title": "Southfarthing",
+  "land": "me",
+  "layer": "Fields",
+  "tier": 3,
+  "x": 549.0,
+  "y": 1365.0,
+  "kind": "Southern quarter of the Shire",
+  "blurb": "The Southfarthing is the southern quarter of the Shire. It is famous for the pipe-weed grown at Longbottom.",
+  "book": "The Southfarthing is the southern quarter of the Shire. It lies along the southern border of the Hobbits' country.\n\nIts best known place is Longbottom. Hobbits grew pipe-weed there and prized it above all others.\n\nTobold Hornblower of Longbottom is said to have grown the first pipe-weed in the Shire. The leaf of the Southfarthing was famous.\n\nLotho Sackville-Baggins sent it out of the Shire in great quantity before the Scouring.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "Southern quarter of the Shire",
+   "Kind": "Farthing"
+  },
+  "related": [
+   "TO059",
+   "realm:the-shire",
+   "thing:pipe-weed",
+   "person:lotho-sackville-baggins"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue; The Lord of the Rings, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "NP046",
+  "title": "Buckland",
+  "land": "me",
+  "layer": "Fields",
+  "tier": 2,
+  "x": 604.0,
+  "y": 1407.0,
+  "kind": "Land of the Brandybucks",
+  "blurb": "Buckland is the settled land of the Brandybuck family, east of the Brandywine and guarded by the High Hay.",
+  "book": "Buckland lies east of the Brandywine River, outside the old bounds of the Shire. The Brandybuck family rules it from Brandy Hall.\n\nThe High Hay, a thick hedge, runs along its eastern side to guard against the Old Forest. A gate in the Hay is shut at night.\n\nBucklanders are somewhat different from other hobbits. They are fond of boats and the river.\n\nMerry Brandybuck came from here. In the Scouring of the Shire he sounded the horn-call of Buckland to rouse the hobbits.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "East of the Brandywine, west of the Old Forest and the High Hay"
+  },
+  "related": [
+   "BU032",
+   "DO005",
+   "HI013",
+   "FO023",
+   "person:meriadoc-brandybuck",
+   "person:saradoc-brandybuck"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue; The Lord of the Rings, Book I"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "NP047",
+  "title": "Tookland",
+  "land": "me",
+  "layer": "Fields",
+  "tier": 3,
+  "x": 535.0,
+  "y": 1395.0,
+  "kind": "Country of the Took family",
+  "blurb": "Tookland is the home country of the Took family. Its chief place is Tuckborough in the Green Hills.",
+  "book": "Tookland is the country of the Tooks in the Shire. Tuckborough in the Green Hills is its chief village.\n\nThe head of the Tooks held the office of Thain. The Thain was master of the Shire-moot and captain of the Shire-muster.\n\nTheir great dwelling was the Great Smials. Pippin Took came from this family, as did Bilbo's mother Belladonna.\n\nThe Tooks had a reputation for adventure among hobbits. Bandobras Took, called Bullroarer, was one of them.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "Around Tuckborough in the Green Hills"
+  },
+  "related": [
+   "TO097",
+   "person:peregrin-took",
+   "person:paladin-took",
+   "person:bandobras-took",
+   "person:belladonna-took"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "NP048",
+  "title": "Bridgefields",
+  "land": "me",
+  "layer": "Fields",
+  "tier": 3,
+  "x": 602.0,
+  "y": 1435.0,
+  "kind": "Farmland near the Brandywine Bridge",
+  "blurb": "The Bridgefields are farmlands in the Eastfarthing, on the Shire side of the Brandywine Bridge near Budgeford.",
+  "book": "The Bridgefields lie on the Shire side of the Brandywine Bridge, in the Eastfarthing.\n\nBudgeford is a village in this country. The Great East Road crosses the river at the bridge.\n\nThis was the main way into the Shire from the east. The bridge stands on the old road.\n\nThe books give few details of the Bridgefields. The name appears on the maps of the Shire.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "Eastfarthing, near the Brandywine Bridge"
+  },
+  "related": [
+   "BR001",
+   "NP044",
+   "RI006",
+   "realm:the-shire"
+  ],
+  "sources": [
+   "The Lord of the Rings, map of the Shire"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "NP049",
+  "title": "Westmarch",
+  "land": "me",
+  "layer": "Fields",
+  "tier": 3,
+  "x": 415.0,
+  "y": 1420.0,
+  "kind": "Western addition to the Shire",
+  "blurb": "Westmarch is the land beyond the Far Downs, added to the Shire by King Elessar after the War of the Ring.",
+  "book": "Westmarch lies between the Far Downs and the Tower Hills, at the western end of the Shire.\n\nKing Elessar added it to the Shire after the War of the Ring. The Shire was otherwise closed to Men.\n\nElanor Gamgee and her husband Fastred were Wardens of Westmarch. They lived at Undertowers.\n\nThe Red Book of Westmarch was kept there and copied in the Fourth Age.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm": "The Shire",
+   "Location": "Between the Far Downs and the Tower Hills"
+  },
+  "related": [
+   "TO102",
+   "HI048",
+   "thing:red-book",
+   "person:elanor-gamgee",
+   "person:aragorn"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix B; The Lord of the Rings, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "NP050",
+  "title": "Harlindon",
+  "land": "me",
+  "layer": "Fields",
+  "tier": 3,
+  "x": 206.0,
+  "y": 1320.0,
+  "kind": "South Lindon",
+  "blurb": "Harlindon is the southern part of Lindon, the Elven land south of the Gulf of Lune.",
+  "book": "Lindon is the Elven land west of the Blue Mountains. The Gulf of Lune divides it into two parts.\n\nHarlindon is the southern part, which lies south of the gulf. Its name means South Lindon.\n\nThe Grey Havens stand at the head of the gulf. Círdan the Shipwright lived there and built ships for the Elves.\n\nGil-galad ruled the Elves of Lindon in the Second Age.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Sindarin": "Harlindon",
+   "English": "South Lindon"
+  },
+  "facts": {
+   "Realm": "Lindon",
+   "Location": "South of the Gulf of Lune, west of the Blue Mountains"
+  },
+  "related": [
+   "realm:lindon",
+   "TO046",
+   "TO043",
+   "person:cirdan",
+   "person:gil-galad"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix B; The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "NP051",
+  "title": "Forlindon",
+  "land": "me",
+  "layer": "Fields",
+  "tier": 3,
+  "x": 162.0,
+  "y": 1558.0,
+  "kind": "North Lindon",
+  "blurb": "Forlindon is the northern part of Lindon, the Elven land north of the Gulf of Lune.",
+  "book": "Lindon is the Elven land west of the Blue Mountains. The Gulf of Lune divides it.\n\nForlindon is the northern part, north of the gulf. Its name means North Lindon.\n\nThe Elves of Lindon were governed from the Grey Havens, where Círdan was the lord of the havens.\n\nElves sailed west from the Grey Havens at the end of the Third Age, and Frodo went with them.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Sindarin": "Forlindon",
+   "English": "North Lindon"
+  },
+  "facts": {
+   "Realm": "Lindon",
+   "Location": "North of the Gulf of Lune"
+  },
+  "related": [
+   "realm:lindon",
+   "TO034",
+   "TO043",
+   "person:cirdan",
+   "person:gil-galad"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix B; The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "NP052",
+  "title": "Drúwaith Iaur",
+  "land": "me",
+  "layer": "Hills",
+  "tier": 3,
+  "x": 638.0,
+  "y": 621.0,
+  "kind": "Old Púkel-land",
+  "blurb": "Drúwaith Iaur is the wild Old Púkel-land near Cape Andrast in the far west, where a remnant of the Drúedain may have lingered.",
+  "book": "Drúwaith Iaur is a rough hill country in the far west of Middle-earth, north of the cape of Andrast.\n\nThe name means the Old Púkel-land. Unfinished Tales says that a remnant of the Drúedain was thought to linger in the mountains of this region.\n\nThe Drúedain were a small and dwindling folk. Their kindred of the Drúadan Forest in Anórien helped Rohan against Mordor in T.A. 3019.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Sindarin": "Drúwaith Iaur",
+   "English": "Old Púkel-land"
+  },
+  "facts": {
+   "Location": "North of the cape of Andrast, between the Isen and the Lefnui",
+   "Kind": "Wild hill country"
+  },
+  "related": [
+   "MT048",
+   "RI086",
+   "RI043",
+   "FO007",
+   "person:ghan-buri-ghan"
+  ],
+  "sources": [
+   "Unfinished Tales",
+   "The Lord of the Rings, Book V"
+  ],
+  "confidence": "low"
+ }
+]

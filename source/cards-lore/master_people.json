@@ -1,0 +1,1815 @@
+[
+ {
+  "id": "person:frodo-baggins",
+  "title": "Frodo Baggins",
+  "group": "Hobbits",
+  "hint": "Ring-bearer and Bilbo's heir; born T.A. 2968, sailed into the West in 3021",
+  "batch": 1
+ },
+ {
+  "id": "person:samwise-gamgee",
+  "title": "Samwise Gamgee",
+  "group": "Hobbits",
+  "hint": "Frodo's gardener and companion to Mount Doom; born T.A. 2980, later Mayor of the Shire",
+  "batch": 1
+ },
+ {
+  "id": "person:meriadoc-brandybuck",
+  "title": "Meriadoc Brandybuck",
+  "group": "Hobbits",
+  "hint": "Merry of Buckland, esquire of Rohan who helped slay the Witch-king in T.A. 3019",
+  "batch": 1
+ },
+ {
+  "id": "person:peregrin-took",
+  "title": "Peregrin Took",
+  "group": "Hobbits",
+  "hint": "Pippin, a guard of the Citadel of Minas Tirith in T.A. 3019 and later Thain",
+  "batch": 1
+ },
+ {
+  "id": "person:gandalf",
+  "title": "Gandalf",
+  "group": "Wizards and Maiar",
+  "hint": "the Grey Pilgrim, Mithrandir, the Maia Olórin; came to Middle-earth about T.A. 1000",
+  "batch": 1
+ },
+ {
+  "id": "person:aragorn",
+  "title": "Aragorn II Elessar",
+  "group": "Men",
+  "hint": "Strider, Chieftain of the Dúnedain; born T.A. 2931, crowned King of Gondor and Arnor in 3019",
+  "batch": 1
+ },
+ {
+  "id": "person:legolas",
+  "title": "Legolas",
+  "group": "Elves",
+  "hint": "Elf of Mirkwood, son of Thranduil, archer of the Fellowship in T.A. 3018-3019",
+  "batch": 1
+ },
+ {
+  "id": "person:gimli",
+  "title": "Gimli",
+  "group": "Dwarves",
+  "hint": "son of Glóin, Dwarf of the Fellowship; born T.A. 2879, later lord of the Glittering Caves",
+  "batch": 1
+ },
+ {
+  "id": "person:boromir",
+  "title": "Boromir",
+  "group": "Men",
+  "hint": "elder son of Denethor II; fell at Parth Galen defending the hobbits, T.A. 3019",
+  "batch": 1
+ },
+ {
+  "id": "person:bilbo-baggins",
+  "title": "Bilbo Baggins",
+  "group": "Hobbits",
+  "hint": "burglar of Thorin's company in T.A. 2941 and finder of the Ring; born 2890",
+  "batch": 1
+ },
+ {
+  "id": "person:gollum",
+  "title": "Gollum",
+  "group": "Hobbits",
+  "hint": "Sméagol, a Stoor-like hobbit who held the Ring for nearly five hundred years; died at Mount Doom T.A. 3019",
+  "batch": 1
+ },
+ {
+  "id": "person:deagol",
+  "title": "Déagol",
+  "group": "Hobbits",
+  "hint": "Sméagol's friend, who found the Ring in the Anduin near the Gladden Fields about T.A. 2463",
+  "batch": 1
+ },
+ {
+  "id": "person:bill-the-pony",
+  "title": "Bill the pony",
+  "group": "Creatures",
+  "hint": "pony bought from Bill Ferny in Bree in T.A. 3018; carried the Fellowship's packs to Moria",
+  "batch": 1
+ },
+ {
+  "id": "person:shadowfax",
+  "title": "Shadowfax",
+  "group": "Creatures",
+  "hint": "chief of the Mearas, the horse Gandalf took from Rohan in T.A. 3018",
+  "batch": 1
+ },
+ {
+  "id": "person:shelob",
+  "title": "Shelob",
+  "group": "Creatures",
+  "hint": "great spider of Cirith Ungol, last child of Ungoliant; stung Frodo in T.A. 3019",
+  "batch": 1
+ },
+ {
+  "id": "person:durins-bane",
+  "title": "Durin's Bane",
+  "group": "Creatures",
+  "hint": "the Balrog of Moria, woken in T.A. 1980; fell with Gandalf from Zirakzigil in 3019",
+  "batch": 1
+ },
+ {
+  "id": "person:treebeard",
+  "title": "Treebeard",
+  "group": "Creatures",
+  "hint": "Fangorn, eldest of the Ents, who led the march on Isengard in T.A. 3019",
+  "batch": 1
+ },
+ {
+  "id": "person:quickbeam",
+  "title": "Quickbeam",
+  "group": "Creatures",
+  "hint": "Bregalad, a young and hasty Ent who guarded Merry and Pippin, T.A. 3019",
+  "batch": 1
+ },
+ {
+  "id": "person:skinbark",
+  "title": "Skinbark",
+  "group": "Creatures",
+  "hint": "Fladrif, one of the three eldest Ents, wounded by Orcs of Isengard",
+  "batch": 1
+ },
+ {
+  "id": "person:ugluk",
+  "title": "Uglúk",
+  "group": "Enemies",
+  "hint": "captain of Saruman's Uruk-hai who took Merry and Pippin; slain by Éomer, T.A. 3019",
+  "batch": 1
+ },
+ {
+  "id": "person:grishnakh",
+  "title": "Grishnákh",
+  "group": "Enemies",
+  "hint": "Orc of Mordor among the captors of Merry and Pippin; killed by a Rider, T.A. 3019",
+  "batch": 1
+ },
+ {
+  "id": "person:shagrat",
+  "title": "Shagrat",
+  "group": "Enemies",
+  "hint": "Orc captain of the Tower of Cirith Ungol in T.A. 3019",
+  "batch": 1
+ },
+ {
+  "id": "person:gorbag",
+  "title": "Gorbag",
+  "group": "Enemies",
+  "hint": "Orc captain of Minas Morgul who quarrelled with Shagrat over Frodo's mithril-coat, T.A. 3019",
+  "batch": 1
+ },
+ {
+  "id": "person:khamul",
+  "title": "Khamûl",
+  "group": "Enemies",
+  "hint": "the Easterling, second of the Nazgûl; dwelt in Dol Guldur and hunted the Ring in the Shire, T.A. 3018",
+  "batch": 1
+ },
+ {
+  "id": "person:hamfast-gamgee",
+  "title": "Hamfast Gamgee",
+  "group": "Hobbits",
+  "hint": "the Gaffer, gardener of Bag End and Sam's father, T.A. 3018",
+  "batch": 2
+ },
+ {
+  "id": "person:rose-cotton",
+  "title": "Rose Cotton",
+  "group": "Hobbits",
+  "hint": "Rosie, Sam's wife from T.A. 3020 (S.R. 1420), daughter of Farmer Cotton",
+  "batch": 2
+ },
+ {
+  "id": "person:tolman-cotton",
+  "title": "Tolman Cotton",
+  "group": "Hobbits",
+  "hint": "Farmer Cotton of Bywater, who led the hobbits against the ruffians in T.A. 3019",
+  "batch": 2
+ },
+ {
+  "id": "person:fredegar-bolger",
+  "title": "Fredegar Bolger",
+  "group": "Hobbits",
+  "hint": "Fatty, Frodo's friend who stayed at Crickhollow as a decoy in T.A. 3018",
+  "batch": 2
+ },
+ {
+  "id": "person:lobelia-sackville-baggins",
+  "title": "Lobelia Sackville-Baggins",
+  "group": "Hobbits",
+  "hint": "Bilbo's grasping cousin, owner of Bag End from T.A. 3018, who defied the ruffians",
+  "batch": 2
+ },
+ {
+  "id": "person:lotho-sackville-baggins",
+  "title": "Lotho Sackville-Baggins",
+  "group": "Hobbits",
+  "hint": "Pimple, Lobelia's son, who made himself Chief of the Shire in T.A. 3018-3019",
+  "batch": 2
+ },
+ {
+  "id": "person:farmer-maggot",
+  "title": "Farmer Maggot",
+  "group": "Hobbits",
+  "hint": "farmer of Bamfurlong in the Marish who helped Frodo in T.A. 3018",
+  "batch": 2
+ },
+ {
+  "id": "person:drogo-baggins",
+  "title": "Drogo Baggins",
+  "group": "Hobbits",
+  "hint": "Frodo's father, drowned in the Brandywine in T.A. 2980",
+  "batch": 2
+ },
+ {
+  "id": "person:primula-brandybuck",
+  "title": "Primula Brandybuck",
+  "group": "Hobbits",
+  "hint": "Frodo's mother, drowned with Drogo in T.A. 2980",
+  "batch": 2
+ },
+ {
+  "id": "person:paladin-took",
+  "title": "Paladin Took",
+  "group": "Hobbits",
+  "hint": "Thain of the Shire and Pippin's father at the time of the War of the Ring",
+  "batch": 2
+ },
+ {
+  "id": "person:saradoc-brandybuck",
+  "title": "Saradoc Brandybuck",
+  "group": "Hobbits",
+  "hint": "Master of Buckland and Merry's father, T.A. 3018",
+  "batch": 2
+ },
+ {
+  "id": "person:elanor-gamgee",
+  "title": "Elanor Gamgee",
+  "group": "Hobbits",
+  "hint": "Elanor the Fair, Sam's eldest daughter, born T.A. 3021; keeper of the Red Book",
+  "batch": 2
+ },
+ {
+  "id": "person:ted-sandyman",
+  "title": "Ted Sandyman",
+  "group": "Hobbits",
+  "hint": "miller's son of Hobbiton who served the ruffians in T.A. 3019",
+  "batch": 2
+ },
+ {
+  "id": "person:will-whitfoot",
+  "title": "Will Whitfoot",
+  "group": "Hobbits",
+  "hint": "Mayor of Michel Delving, shut in the Lockholes in T.A. 3019",
+  "batch": 2
+ },
+ {
+  "id": "person:bandobras-took",
+  "title": "Bandobras Took",
+  "group": "Hobbits",
+  "hint": "the Bullroarer, who won the Battle of Greenfields in T.A. 2747",
+  "batch": 2
+ },
+ {
+  "id": "person:gerontius-took",
+  "title": "Gerontius Took",
+  "group": "Hobbits",
+  "hint": "the Old Took, Thain who lived to 130; died T.A. 2920",
+  "batch": 2
+ },
+ {
+  "id": "person:belladonna-took",
+  "title": "Belladonna Took",
+  "group": "Hobbits",
+  "hint": "Bilbo's mother, a daughter of the Old Took",
+  "batch": 2
+ },
+ {
+  "id": "person:nob",
+  "title": "Nob",
+  "group": "Hobbits",
+  "hint": "hobbit servant at the Prancing Pony in Bree, T.A. 3018",
+  "batch": 2
+ },
+ {
+  "id": "person:barliman-butterbur",
+  "title": "Barliman Butterbur",
+  "group": "Men",
+  "hint": "landlord of the Prancing Pony who forgot to send Gandalf's letter, T.A. 3018",
+  "batch": 2
+ },
+ {
+  "id": "person:bill-ferny",
+  "title": "Bill Ferny",
+  "group": "Enemies",
+  "hint": "Bree-man who spied for the Black Riders and Saruman, T.A. 3018-3019",
+  "batch": 2
+ },
+ {
+  "id": "person:harry-goatleaf",
+  "title": "Harry Goatleaf",
+  "group": "Men",
+  "hint": "gatekeeper of Bree who joined Bill Ferny and the ruffians, T.A. 3018-3019",
+  "batch": 2
+ },
+ {
+  "id": "person:tom-bombadil",
+  "title": "Tom Bombadil",
+  "group": "Creatures",
+  "hint": "the Eldest, master of wood, water and hill on the edge of the Old Forest",
+  "batch": 2
+ },
+ {
+  "id": "person:goldberry",
+  "title": "Goldberry",
+  "group": "Creatures",
+  "hint": "the River-daughter, wife of Tom Bombadil",
+  "batch": 2
+ },
+ {
+  "id": "person:old-man-willow",
+  "title": "Old Man Willow",
+  "group": "Creatures",
+  "hint": "malign old willow on the Withywindle who trapped Merry and Pippin in T.A. 3018",
+  "batch": 2
+ },
+ {
+  "id": "person:fatty-lumpkin",
+  "title": "Fatty Lumpkin",
+  "group": "Creatures",
+  "hint": "Tom Bombadil's pony",
+  "batch": 2
+ },
+ {
+  "id": "person:denethor-ii",
+  "title": "Denethor II",
+  "group": "Men",
+  "hint": "26th Ruling Steward of Gondor; burned himself on a pyre on 15 March T.A. 3019",
+  "batch": 3
+ },
+ {
+  "id": "person:faramir",
+  "title": "Faramir",
+  "group": "Men",
+  "hint": "younger son of Denethor, Captain of Ithilien; Steward and Prince of Ithilien from T.A. 3019",
+  "batch": 3
+ },
+ {
+  "id": "person:beregond",
+  "title": "Beregond",
+  "group": "Men",
+  "hint": "guard of the Citadel who saved Faramir from the pyre, T.A. 3019",
+  "batch": 3
+ },
+ {
+  "id": "person:bergil",
+  "title": "Bergil",
+  "group": "Men",
+  "hint": "Beregond's young son, who showed Pippin the city in T.A. 3019",
+  "batch": 3
+ },
+ {
+  "id": "person:imrahil",
+  "title": "Imrahil",
+  "group": "Men",
+  "hint": "Prince of Dol Amroth and captain at the Pelennor in T.A. 3019",
+  "batch": 3
+ },
+ {
+  "id": "person:ioreth",
+  "title": "Ioreth",
+  "group": "Men",
+  "hint": "old woman of the Houses of Healing who remembered the hands of the king, T.A. 3019",
+  "batch": 3
+ },
+ {
+  "id": "person:hurin-of-the-keys",
+  "title": "Húrin of the Keys",
+  "group": "Men",
+  "hint": "Warden of the Keys of Minas Tirith in T.A. 3019",
+  "batch": 3
+ },
+ {
+  "id": "person:mablung-of-ithilien",
+  "title": "Mablung of Ithilien",
+  "group": "Men",
+  "hint": "Ranger of Ithilien with Faramir in T.A. 3019",
+  "batch": 3
+ },
+ {
+  "id": "person:damrod",
+  "title": "Damrod",
+  "group": "Men",
+  "hint": "Ranger of Ithilien who guarded Frodo and Sam in T.A. 3019",
+  "batch": 3
+ },
+ {
+  "id": "person:forlong",
+  "title": "Forlong the Fat",
+  "group": "Men",
+  "hint": "Lord of Lossarnach, fell on the Pelennor Fields in T.A. 3019",
+  "batch": 3
+ },
+ {
+  "id": "person:angbor",
+  "title": "Angbor the Fearless",
+  "group": "Men",
+  "hint": "Lord of Lamedon who stood at Linhir and followed Aragorn in T.A. 3019",
+  "batch": 3
+ },
+ {
+  "id": "person:ecthelion-ii",
+  "title": "Ecthelion II",
+  "group": "Men",
+  "hint": "Ruling Steward, Denethor's father, served by Aragorn as Thorongil; died T.A. 2984",
+  "batch": 3
+ },
+ {
+  "id": "person:mardil-voronwe",
+  "title": "Mardil Voronwë",
+  "group": "Men",
+  "hint": "first Ruling Steward of Gondor from T.A. 2050",
+  "batch": 3
+ },
+ {
+  "id": "person:cirion",
+  "title": "Cirion",
+  "group": "Men",
+  "hint": "12th Ruling Steward, who gave Calenardhon to Eorl in T.A. 2510",
+  "batch": 3
+ },
+ {
+  "id": "person:earnur",
+  "title": "Eärnur",
+  "group": "Men",
+  "hint": "last King of Gondor, who rode into Minas Morgul in T.A. 2050 and never returned",
+  "batch": 3
+ },
+ {
+  "id": "person:earnil-ii",
+  "title": "Eärnil II",
+  "group": "Men",
+  "hint": "King of Gondor who won the Battle of the Camp in T.A. 1944",
+  "batch": 3
+ },
+ {
+  "id": "person:castamir",
+  "title": "Castamir the Usurper",
+  "group": "Men",
+  "hint": "seized the crown in the Kin-strife; slain at the Crossings of Erui in T.A. 1447",
+  "batch": 3
+ },
+ {
+  "id": "person:telumehtar",
+  "title": "Telumehtar Umbardacil",
+  "group": "Men",
+  "hint": "King of Gondor who captured Umbar from the Corsairs in T.A. 1810",
+  "batch": 3
+ },
+ {
+  "id": "person:witch-king",
+  "title": "Witch-king of Angmar",
+  "group": "Enemies",
+  "hint": "Lord of the Nazgûl; slain by Éowyn and Merry on the Pelennor, T.A. 3019",
+  "batch": 3
+ },
+ {
+  "id": "person:gothmog-of-minas-morgul",
+  "title": "Gothmog of Minas Morgul",
+  "group": "Enemies",
+  "hint": "lieutenant of Minas Morgul who took command on the Pelennor, T.A. 3019",
+  "batch": 3
+ },
+ {
+  "id": "person:mouth-of-sauron",
+  "title": "Mouth of Sauron",
+  "group": "Enemies",
+  "hint": "Black Númenórean herald of Barad-dûr who met the Captains at the Black Gate, T.A. 3019",
+  "batch": 3
+ },
+ {
+  "id": "person:elendil",
+  "title": "Elendil",
+  "group": "Men",
+  "hint": "the Tall, founder of Arnor and Gondor; slain by Sauron in S.A. 3441",
+  "batch": 3
+ },
+ {
+  "id": "person:isildur",
+  "title": "Isildur",
+  "group": "Men",
+  "hint": "son of Elendil who cut the Ring from Sauron's hand; slain at the Gladden Fields, T.A. 2",
+  "batch": 3
+ },
+ {
+  "id": "person:anarion",
+  "title": "Anárion",
+  "group": "Men",
+  "hint": "son of Elendil, co-founder of Gondor; slain at Barad-dûr in S.A. 3440",
+  "batch": 3
+ },
+ {
+  "id": "person:elendur",
+  "title": "Elendur",
+  "group": "Men",
+  "hint": "eldest son of Isildur; slain with him at the Gladden Fields, T.A. 2",
+  "batch": 3
+ },
+ {
+  "id": "person:valandil",
+  "title": "Valandil",
+  "group": "Men",
+  "hint": "youngest son of Isildur, third King of Arnor",
+  "batch": 3
+ },
+ {
+  "id": "person:meneldil",
+  "title": "Meneldil",
+  "group": "Men",
+  "hint": "son of Anárion, King of Gondor after Isildur",
+  "batch": 3
+ },
+ {
+  "id": "person:theoden",
+  "title": "Théoden",
+  "group": "Men",
+  "hint": "King of Rohan from T.A. 2980; fell on the Pelennor in 3019",
+  "batch": 4
+ },
+ {
+  "id": "person:eomer",
+  "title": "Éomer",
+  "group": "Men",
+  "hint": "Third Marshal of the Mark, King of Rohan from T.A. 3019; born 2991",
+  "batch": 4
+ },
+ {
+  "id": "person:eowyn",
+  "title": "Éowyn",
+  "group": "Men",
+  "hint": "Shieldmaiden of Rohan who slew the Witch-king in T.A. 3019; born 2995",
+  "batch": 4
+ },
+ {
+  "id": "person:theodred",
+  "title": "Théodred",
+  "group": "Men",
+  "hint": "Théoden's only son; fell at the First Battle of the Fords of Isen, T.A. 3019",
+  "batch": 4
+ },
+ {
+  "id": "person:hama",
+  "title": "Háma",
+  "group": "Men",
+  "hint": "doorward of Meduseld; slain at Helm's Deep in T.A. 3019",
+  "batch": 4
+ },
+ {
+  "id": "person:gamling",
+  "title": "Gamling",
+  "group": "Men",
+  "hint": "old Rider who held Helm's Dike at the Hornburg in T.A. 3019",
+  "batch": 4
+ },
+ {
+  "id": "person:erkenbrand",
+  "title": "Erkenbrand",
+  "group": "Men",
+  "hint": "Lord of the Westfold who came to Helm's Deep at dawn in T.A. 3019",
+  "batch": 4
+ },
+ {
+  "id": "person:elfhelm",
+  "title": "Elfhelm",
+  "group": "Men",
+  "hint": "Marshal of Rohan who rode with Théoden to the Pelennor in T.A. 3019",
+  "batch": 4
+ },
+ {
+  "id": "person:grimbold",
+  "title": "Grimbold",
+  "group": "Men",
+  "hint": "Rider of the Westfold, fought at the Fords of Isen; fell on the Pelennor T.A. 3019",
+  "batch": 4
+ },
+ {
+  "id": "person:eorl-the-young",
+  "title": "Eorl the Young",
+  "group": "Men",
+  "hint": "first King of Rohan, who rode to the Field of Celebrant in T.A. 2510",
+  "batch": 4
+ },
+ {
+  "id": "person:brego",
+  "title": "Brego",
+  "group": "Men",
+  "hint": "second King of Rohan, who built Meduseld; died T.A. 2570",
+  "batch": 4
+ },
+ {
+  "id": "person:baldor",
+  "title": "Baldor",
+  "group": "Men",
+  "hint": "son of Brego, who vowed to tread the Paths of the Dead in T.A. 2570 and never returned",
+  "batch": 4
+ },
+ {
+  "id": "person:helm-hammerhand",
+  "title": "Helm Hammerhand",
+  "group": "Men",
+  "hint": "ninth King of Rohan; died in the Long Winter of T.A. 2758-2759",
+  "batch": 4
+ },
+ {
+  "id": "person:thengel",
+  "title": "Thengel",
+  "group": "Men",
+  "hint": "King of Rohan from T.A. 2953, Théoden's father",
+  "batch": 4
+ },
+ {
+  "id": "person:eomund",
+  "title": "Éomund",
+  "group": "Men",
+  "hint": "Chief Marshal of the Mark, father of Éomer and Éowyn; slain by Orcs in T.A. 3002",
+  "batch": 4
+ },
+ {
+  "id": "person:ghan-buri-ghan",
+  "title": "Ghân-buri-Ghân",
+  "group": "Men",
+  "hint": "headman of the Woses of the Drúadan Forest who guided the Rohirrim, T.A. 3019",
+  "batch": 4
+ },
+ {
+  "id": "person:grima",
+  "title": "Gríma Wormtongue",
+  "group": "Enemies",
+  "hint": "Théoden's false counsellor and Saruman's spy; died at Bag End, T.A. 3019",
+  "batch": 4
+ },
+ {
+  "id": "person:freca",
+  "title": "Freca",
+  "group": "Enemies",
+  "hint": "Dunlending-blooded lord slain by Helm Hammerhand in T.A. 2754",
+  "batch": 4
+ },
+ {
+  "id": "person:wulf",
+  "title": "Wulf",
+  "group": "Enemies",
+  "hint": "son of Freca, who seized Edoras in T.A. 2758",
+  "batch": 4
+ },
+ {
+  "id": "person:saruman",
+  "title": "Saruman",
+  "group": "Wizards and Maiar",
+  "hint": "Curunír, head of the White Council and master of Isengard; slain in the Shire, T.A. 3019",
+  "batch": 4
+ },
+ {
+  "id": "person:snowmane",
+  "title": "Snowmane",
+  "group": "Creatures",
+  "hint": "Théoden's white horse, killed under him on the Pelennor, T.A. 3019",
+  "batch": 4
+ },
+ {
+  "id": "person:felarof",
+  "title": "Felaróf",
+  "group": "Creatures",
+  "hint": "Eorl's horse, sire of the Mearas, ridden to the Field of Celebrant in T.A. 2510",
+  "batch": 4
+ },
+ {
+  "id": "person:hasufel",
+  "title": "Hasufel",
+  "group": "Creatures",
+  "hint": "grey horse of Rohan lent to Aragorn in T.A. 3019",
+  "batch": 4
+ },
+ {
+  "id": "person:arod",
+  "title": "Arod",
+  "group": "Creatures",
+  "hint": "horse of Rohan lent to Legolas and Gimli in T.A. 3019",
+  "batch": 4
+ },
+ {
+  "id": "person:scatha",
+  "title": "Scatha",
+  "group": "Creatures",
+  "hint": "long-worm of the Grey Mountains slain by Fram of the Éothéod",
+  "batch": 4
+ },
+ {
+  "id": "person:elrond",
+  "title": "Elrond",
+  "group": "Elves",
+  "hint": "Half-elven Lord of Rivendell, founded Imladris in S.A. 1697",
+  "batch": 5
+ },
+ {
+  "id": "person:arwen",
+  "title": "Arwen",
+  "group": "Elves",
+  "hint": "Undómiel, daughter of Elrond; born T.A. 241, wed Aragorn in 3019",
+  "batch": 5
+ },
+ {
+  "id": "person:elladan",
+  "title": "Elladan",
+  "group": "Elves",
+  "hint": "elder son of Elrond, rode with the Grey Company in T.A. 3019",
+  "batch": 5
+ },
+ {
+  "id": "person:elrohir",
+  "title": "Elrohir",
+  "group": "Elves",
+  "hint": "younger son of Elrond, rode with the Grey Company in T.A. 3019",
+  "batch": 5
+ },
+ {
+  "id": "person:celebrian",
+  "title": "Celebrían",
+  "group": "Elves",
+  "hint": "wife of Elrond, captured by Orcs in T.A. 2509; sailed West in 2510",
+  "batch": 5
+ },
+ {
+  "id": "person:glorfindel",
+  "title": "Glorfindel",
+  "group": "Elves",
+  "hint": "Elf-lord of Gondolin who fought a Balrog; later of Rivendell, aided Frodo in T.A. 3018",
+  "batch": 5
+ },
+ {
+  "id": "person:erestor",
+  "title": "Erestor",
+  "group": "Elves",
+  "hint": "counsellor of Elrond at the Council of Elrond, T.A. 3018",
+  "batch": 5
+ },
+ {
+  "id": "person:gildor-inglorion",
+  "title": "Gildor Inglorion",
+  "group": "Elves",
+  "hint": "Elf of the House of Finrod who met Frodo in the Woody End, T.A. 3018",
+  "batch": 5
+ },
+ {
+  "id": "person:galadriel",
+  "title": "Galadriel",
+  "group": "Elves",
+  "hint": "Lady of Lórien, a Noldorin princess of the First Age; sailed West in T.A. 3021",
+  "batch": 5
+ },
+ {
+  "id": "person:celeborn",
+  "title": "Celeborn",
+  "group": "Elves",
+  "hint": "Lord of Lórien, kinsman of Thingol, husband of Galadriel",
+  "batch": 5
+ },
+ {
+  "id": "person:haldir",
+  "title": "Haldir",
+  "group": "Elves",
+  "hint": "march-warden of Lórien who led the Fellowship to Caras Galadhon, T.A. 3019",
+  "batch": 5
+ },
+ {
+  "id": "person:amroth",
+  "title": "Amroth",
+  "group": "Elves",
+  "hint": "King of Lórien, lost in the Bay of Belfalas in T.A. 1981",
+  "batch": 5
+ },
+ {
+  "id": "person:nimrodel",
+  "title": "Nimrodel",
+  "group": "Elves",
+  "hint": "Elf-maid of Lórien, Amroth's beloved, lost in the White Mountains in T.A. 1981",
+  "batch": 5
+ },
+ {
+  "id": "person:cirdan",
+  "title": "Círdan",
+  "group": "Elves",
+  "hint": "the Shipwright, lord of the Falas and then of the Grey Havens; once keeper of Narya",
+  "batch": 5
+ },
+ {
+  "id": "person:gil-galad",
+  "title": "Gil-galad",
+  "group": "Elves",
+  "hint": "last High King of the Noldor; slain by Sauron in S.A. 3441",
+  "batch": 5
+ },
+ {
+  "id": "person:celebrimbor",
+  "title": "Celebrimbor",
+  "group": "Elves",
+  "hint": "Elven-smith of Eregion who made the Three Rings; slain by Sauron in S.A. 1697",
+  "batch": 5
+ },
+ {
+  "id": "person:thranduil",
+  "title": "Thranduil",
+  "group": "Elves",
+  "hint": "Elvenking of northern Mirkwood, father of Legolas",
+  "batch": 5
+ },
+ {
+  "id": "person:oropher",
+  "title": "Oropher",
+  "group": "Elves",
+  "hint": "King of the Silvan Elves of Greenwood, slain at Dagorlad in S.A. 3434",
+  "batch": 5
+ },
+ {
+  "id": "person:halbarad",
+  "title": "Halbarad",
+  "group": "Men",
+  "hint": "Ranger who brought the Grey Company south; fell on the Pelennor, T.A. 3019",
+  "batch": 5
+ },
+ {
+  "id": "person:arathorn-ii",
+  "title": "Arathorn II",
+  "group": "Men",
+  "hint": "Chieftain of the Dúnedain, Aragorn's father; slain by Orcs in T.A. 2933",
+  "batch": 5
+ },
+ {
+  "id": "person:gilraen",
+  "title": "Gilraen",
+  "group": "Men",
+  "hint": "Aragorn's mother, who raised him in Rivendell; died T.A. 3007",
+  "batch": 5
+ },
+ {
+  "id": "person:arvedui",
+  "title": "Arvedui",
+  "group": "Men",
+  "hint": "last King of Arthedain, drowned in the Icebay of Forochel in T.A. 1975",
+  "batch": 5
+ },
+ {
+  "id": "person:radagast",
+  "title": "Radagast",
+  "group": "Wizards and Maiar",
+  "hint": "the Brown wizard of Rhosgobel, friend of beasts and birds",
+  "batch": 5
+ },
+ {
+  "id": "person:thorin-oakenshield",
+  "title": "Thorin Oakenshield",
+  "group": "Dwarves",
+  "hint": "King in exile who led the Quest of Erebor; born T.A. 2746, fell in 2941",
+  "batch": 6
+ },
+ {
+  "id": "person:balin",
+  "title": "Balin",
+  "group": "Dwarves",
+  "hint": "of Thorin's company; lord of Moria from T.A. 2989, slain there in 2994",
+  "batch": 6
+ },
+ {
+  "id": "person:dwalin",
+  "title": "Dwalin",
+  "group": "Dwarves",
+  "hint": "Balin's brother, first of Thorin's company to reach Bag End, T.A. 2941",
+  "batch": 6
+ },
+ {
+  "id": "person:fili",
+  "title": "Fíli",
+  "group": "Dwarves",
+  "hint": "nephew of Thorin, fell defending him at the Battle of Five Armies, T.A. 2941",
+  "batch": 6
+ },
+ {
+  "id": "person:kili",
+  "title": "Kíli",
+  "group": "Dwarves",
+  "hint": "younger nephew of Thorin, fell at the Battle of Five Armies, T.A. 2941",
+  "batch": 6
+ },
+ {
+  "id": "person:dori",
+  "title": "Dori",
+  "group": "Dwarves",
+  "hint": "of Thorin's company, who carried Bilbo in the goblin-tunnels, T.A. 2941",
+  "batch": 6
+ },
+ {
+  "id": "person:nori",
+  "title": "Nori",
+  "group": "Dwarves",
+  "hint": "of Thorin's company, brother of Dori and Ori, T.A. 2941",
+  "batch": 6
+ },
+ {
+  "id": "person:ori",
+  "title": "Ori",
+  "group": "Dwarves",
+  "hint": "of Thorin's company; went to Moria with Balin and died there in T.A. 2994",
+  "batch": 6
+ },
+ {
+  "id": "person:oin",
+  "title": "Óin",
+  "group": "Dwarves",
+  "hint": "of Thorin's company; went to Moria with Balin and was taken by the Watcher in T.A. 2994",
+  "batch": 6
+ },
+ {
+  "id": "person:gloin",
+  "title": "Glóin",
+  "group": "Dwarves",
+  "hint": "of Thorin's company, Gimli's father, at the Council of Elrond T.A. 3018",
+  "batch": 6
+ },
+ {
+  "id": "person:bifur",
+  "title": "Bifur",
+  "group": "Dwarves",
+  "hint": "of Thorin's company, a Dwarf not of Durin's line, T.A. 2941",
+  "batch": 6
+ },
+ {
+  "id": "person:bofur",
+  "title": "Bofur",
+  "group": "Dwarves",
+  "hint": "of Thorin's company, cousin of Bifur, T.A. 2941",
+  "batch": 6
+ },
+ {
+  "id": "person:bombur",
+  "title": "Bombur",
+  "group": "Dwarves",
+  "hint": "fat Dwarf of Thorin's company who fell into the Enchanted River, T.A. 2941",
+  "batch": 6
+ },
+ {
+  "id": "person:dain-ii-ironfoot",
+  "title": "Dáin II Ironfoot",
+  "group": "Dwarves",
+  "hint": "lord of the Iron Hills, King under the Mountain from T.A. 2941; fell in 3019",
+  "batch": 6
+ },
+ {
+  "id": "person:thrain-ii",
+  "title": "Thráin II",
+  "group": "Dwarves",
+  "hint": "Thorin's father, whose Ring was taken in Dol Guldur; died there in T.A. 2850",
+  "batch": 6
+ },
+ {
+  "id": "person:thror",
+  "title": "Thrór",
+  "group": "Dwarves",
+  "hint": "King under the Mountain driven out by Smaug; slain by Azog in Moria, T.A. 2790",
+  "batch": 6
+ },
+ {
+  "id": "person:frerin",
+  "title": "Frerin",
+  "group": "Dwarves",
+  "hint": "Thorin's younger brother, fell at Azanulbizar in T.A. 2799",
+  "batch": 6
+ },
+ {
+  "id": "person:fundin",
+  "title": "Fundin",
+  "group": "Dwarves",
+  "hint": "father of Balin and Dwalin, fell at Azanulbizar in T.A. 2799",
+  "batch": 6
+ },
+ {
+  "id": "person:dis",
+  "title": "Dís",
+  "group": "Dwarves",
+  "hint": "Thorin's sister, mother of Fíli and Kíli",
+  "batch": 6
+ },
+ {
+  "id": "person:nain",
+  "title": "Náin",
+  "group": "Dwarves",
+  "hint": "Dáin's father, slain by Azog before the East-gate of Moria in T.A. 2799",
+  "batch": 6
+ },
+ {
+  "id": "person:thorin-iii-stonehelm",
+  "title": "Thorin III Stonehelm",
+  "group": "Dwarves",
+  "hint": "son of Dáin, King under the Mountain from T.A. 3019",
+  "batch": 6
+ },
+ {
+  "id": "person:bard",
+  "title": "Bard the Bowman",
+  "group": "Men",
+  "hint": "slayer of Smaug in T.A. 2941 and refounder of Dale",
+  "batch": 6
+ },
+ {
+  "id": "person:beorn",
+  "title": "Beorn",
+  "group": "Men",
+  "hint": "skin-changer of the Anduin vale who sheltered Thorin's company, T.A. 2941",
+  "batch": 6
+ },
+ {
+  "id": "person:master-of-lake-town",
+  "title": "Master of Lake-town",
+  "group": "Men",
+  "hint": "greedy ruler of Esgaroth in T.A. 2941; died in the Waste",
+  "batch": 6
+ },
+ {
+  "id": "person:brand",
+  "title": "Brand",
+  "group": "Men",
+  "hint": "King of Dale, grandson of Bard; fell before Erebor in T.A. 3019",
+  "batch": 6
+ },
+ {
+  "id": "person:durin-the-deathless",
+  "title": "Durin the Deathless",
+  "group": "Dwarves",
+  "hint": "eldest of the Fathers of the Dwarves, who founded Khazad-dûm",
+  "batch": 7
+ },
+ {
+  "id": "person:durin-vi",
+  "title": "Durin VI",
+  "group": "Dwarves",
+  "hint": "King of Khazad-dûm slain by the Balrog in T.A. 1980",
+  "batch": 7
+ },
+ {
+  "id": "person:thrain-i",
+  "title": "Thráin I",
+  "group": "Dwarves",
+  "hint": "first King under the Mountain, who found the Arkenstone in T.A. 1999",
+  "batch": 7
+ },
+ {
+  "id": "person:narvi",
+  "title": "Narvi",
+  "group": "Dwarves",
+  "hint": "Dwarf who made the West-gate of Moria in the Second Age",
+  "batch": 7
+ },
+ {
+  "id": "person:azaghal",
+  "title": "Azaghâl",
+  "group": "Dwarves",
+  "hint": "Lord of Belegost who wounded Glaurung at the Nírnaeth, F.A. 472",
+  "batch": 7
+ },
+ {
+  "id": "person:telchar",
+  "title": "Telchar",
+  "group": "Dwarves",
+  "hint": "smith of Nogrod who made Narsil and Angrist",
+  "batch": 7
+ },
+ {
+  "id": "person:mim",
+  "title": "Mîm",
+  "group": "Dwarves",
+  "hint": "Petty-dwarf of Amon Rûdh who sheltered and then betrayed Túrin's band",
+  "batch": 7
+ },
+ {
+  "id": "person:ibun",
+  "title": "Ibun",
+  "group": "Dwarves",
+  "hint": "son of Mîm the Petty-dwarf",
+  "batch": 7
+ },
+ {
+  "id": "person:khim",
+  "title": "Khîm",
+  "group": "Dwarves",
+  "hint": "son of Mîm, killed by an arrow of Túrin's outlaws",
+  "batch": 7
+ },
+ {
+  "id": "person:smaug",
+  "title": "Smaug",
+  "group": "Creatures",
+  "hint": "the Golden, dragon who took Erebor in T.A. 2770; slain by Bard in 2941",
+  "batch": 7
+ },
+ {
+  "id": "person:bert",
+  "title": "Bert",
+  "group": "Creatures",
+  "hint": "one of the three trolls who caught Bilbo in the Trollshaws, T.A. 2941",
+  "batch": 7
+ },
+ {
+  "id": "person:william",
+  "title": "William",
+  "group": "Creatures",
+  "hint": "William Huggins, one of the three trolls of the Trollshaws, T.A. 2941",
+  "batch": 7
+ },
+ {
+  "id": "person:tom-the-troll",
+  "title": "Tom (troll)",
+  "group": "Creatures",
+  "hint": "one of the three trolls turned to stone in the Trollshaws, T.A. 2941",
+  "batch": 7
+ },
+ {
+  "id": "person:great-goblin",
+  "title": "Great Goblin",
+  "group": "Enemies",
+  "hint": "ruler of Goblin-town in the Misty Mountains; slain by Gandalf in T.A. 2941",
+  "batch": 7
+ },
+ {
+  "id": "person:azog",
+  "title": "Azog",
+  "group": "Enemies",
+  "hint": "Orc of Moria who slew Thrór in T.A. 2790; slain by Dáin in 2799",
+  "batch": 7
+ },
+ {
+  "id": "person:bolg",
+  "title": "Bolg",
+  "group": "Enemies",
+  "hint": "son of Azog who led the Orcs at the Battle of Five Armies; slain by Beorn, T.A. 2941",
+  "batch": 7
+ },
+ {
+  "id": "person:golfimbul",
+  "title": "Golfimbul",
+  "group": "Enemies",
+  "hint": "Orc-chief of Mount Gram slain by Bandobras Took at Greenfields, T.A. 2747",
+  "batch": 7
+ },
+ {
+  "id": "person:roac",
+  "title": "Roäc",
+  "group": "Creatures",
+  "hint": "son of Carc, aged chief of the ravens of Ravenhill, T.A. 2941",
+  "batch": 7
+ },
+ {
+  "id": "person:gwaihir",
+  "title": "Gwaihir",
+  "group": "Creatures",
+  "hint": "the Windlord, greatest of the Eagles; bore Gandalf from Orthanc in T.A. 3018",
+  "batch": 7
+ },
+ {
+  "id": "person:landroval",
+  "title": "Landroval",
+  "group": "Creatures",
+  "hint": "Eagle, brother of Gwaihir, who helped carry Frodo and Sam from Mount Doom, T.A. 3019",
+  "batch": 7
+ },
+ {
+  "id": "person:meneldor",
+  "title": "Meneldor",
+  "group": "Creatures",
+  "hint": "young Eagle who helped carry Frodo and Sam from Mount Doom, T.A. 3019",
+  "batch": 7
+ },
+ {
+  "id": "person:huan",
+  "title": "Huan",
+  "group": "Creatures",
+  "hint": "the Hound of Valinor, who aided Lúthien and slew Carcharoth",
+  "batch": 7
+ },
+ {
+  "id": "person:carcharoth",
+  "title": "Carcharoth",
+  "group": "Creatures",
+  "hint": "the Red Maw, wolf of Angband who bit off Beren's hand",
+  "batch": 7
+ },
+ {
+  "id": "person:draugluin",
+  "title": "Draugluin",
+  "group": "Creatures",
+  "hint": "sire of the werewolves of Angband, slain by Huan",
+  "batch": 7
+ },
+ {
+  "id": "person:thuringwethil",
+  "title": "Thuringwethil",
+  "group": "Creatures",
+  "hint": "bat-winged messenger of Sauron whose shape Lúthien wore",
+  "batch": 7
+ },
+ {
+  "id": "person:finwe",
+  "title": "Finwë",
+  "group": "Elves",
+  "hint": "first King of the Noldor, slain by Morgoth at Formenos",
+  "batch": 8
+ },
+ {
+  "id": "person:feanor",
+  "title": "Fëanor",
+  "group": "Elves",
+  "hint": "maker of the Silmarils; died in Beleriand after the Dagor-nuin-Giliath",
+  "batch": 8
+ },
+ {
+  "id": "person:fingolfin",
+  "title": "Fingolfin",
+  "group": "Elves",
+  "hint": "High King of the Noldor who fought Morgoth alone at Angband after the Dagor Bragollach",
+  "batch": 8
+ },
+ {
+  "id": "person:finarfin",
+  "title": "Finarfin",
+  "group": "Elves",
+  "hint": "third son of Finwë; led the host of the Valar in the War of Wrath",
+  "batch": 8
+ },
+ {
+  "id": "person:maedhros",
+  "title": "Maedhros",
+  "group": "Elves",
+  "hint": "eldest son of Fëanor, lord of Himring; cast himself with a Silmaril into a fiery chasm",
+  "batch": 8
+ },
+ {
+  "id": "person:maglor",
+  "title": "Maglor",
+  "group": "Elves",
+  "hint": "second son of Fëanor, the great singer; threw his Silmaril into the Sea",
+  "batch": 8
+ },
+ {
+  "id": "person:celegorm",
+  "title": "Celegorm",
+  "group": "Elves",
+  "hint": "son of Fëanor, master of Huan; slain by Dior in the attack on Doriath",
+  "batch": 8
+ },
+ {
+  "id": "person:curufin",
+  "title": "Curufin",
+  "group": "Elves",
+  "hint": "son of Fëanor, father of Celebrimbor; fell in the attack on Doriath",
+  "batch": 8
+ },
+ {
+  "id": "person:caranthir",
+  "title": "Caranthir",
+  "group": "Elves",
+  "hint": "son of Fëanor, lord of Thargelion by Lake Helevorn; fell in the attack on Doriath",
+  "batch": 8
+ },
+ {
+  "id": "person:fingon",
+  "title": "Fingon",
+  "group": "Elves",
+  "hint": "High King of the Noldor who rescued Maedhros; slain in the Nírnaeth Arnoediad, F.A. 472",
+  "batch": 8
+ },
+ {
+  "id": "person:turgon",
+  "title": "Turgon",
+  "group": "Elves",
+  "hint": "King of Gondolin; died in its fall, F.A. 510",
+  "batch": 8
+ },
+ {
+  "id": "person:finrod-felagund",
+  "title": "Finrod Felagund",
+  "group": "Elves",
+  "hint": "King of Nargothrond who died saving Beren in Tol-in-Gaurhoth",
+  "batch": 8
+ },
+ {
+  "id": "person:orodreth",
+  "title": "Orodreth",
+  "group": "Elves",
+  "hint": "King of Nargothrond after Finrod; slain in the Battle of Tumhalad",
+  "batch": 8
+ },
+ {
+  "id": "person:aredhel",
+  "title": "Aredhel",
+  "group": "Elves",
+  "hint": "the White Lady of the Noldor, sister of Turgon, wife of Eöl",
+  "batch": 8
+ },
+ {
+  "id": "person:idril",
+  "title": "Idril",
+  "group": "Elves",
+  "hint": "Celebrindal, daughter of Turgon, wife of Tuor, mother of Eärendil",
+  "batch": 8
+ },
+ {
+  "id": "person:maeglin",
+  "title": "Maeglin",
+  "group": "Elves",
+  "hint": "son of Eöl and Aredhel who betrayed Gondolin",
+  "batch": 8
+ },
+ {
+  "id": "person:eol",
+  "title": "Eöl",
+  "group": "Elves",
+  "hint": "the Dark Elf of Nan Elmoth, smith of the sword Anglachel",
+  "batch": 8
+ },
+ {
+  "id": "person:gwindor",
+  "title": "Gwindor",
+  "group": "Elves",
+  "hint": "Elf of Nargothrond who escaped Angband and brought Túrin to Nargothrond",
+  "batch": 8
+ },
+ {
+  "id": "person:finduilas",
+  "title": "Finduilas",
+  "group": "Elves",
+  "hint": "daughter of Orodreth, who loved Túrin; slain by Orcs at the Crossings of Teiglin",
+  "batch": 8
+ },
+ {
+  "id": "person:ecthelion-of-the-fountain",
+  "title": "Ecthelion of the Fountain",
+  "group": "Elves",
+  "hint": "Elf-lord of Gondolin who slew Gothmog in the city's fall",
+  "batch": 8
+ },
+ {
+  "id": "person:voronwe",
+  "title": "Voronwë",
+  "group": "Elves",
+  "hint": "Elf of Gondolin, mariner of Turgon, who guided Tuor to the Hidden City",
+  "batch": 8
+ },
+ {
+  "id": "person:ulfang",
+  "title": "Ulfang",
+  "group": "Enemies",
+  "hint": "Easterling chieftain who betrayed Maedhros at the Nírnaeth Arnoediad, F.A. 472",
+  "batch": 8
+ },
+ {
+  "id": "person:uldor",
+  "title": "Uldor",
+  "group": "Enemies",
+  "hint": "son of Ulfang, whose treachery broke the host of Maedhros; slain by Maglor",
+  "batch": 8
+ },
+ {
+  "id": "person:gothmog-lord-of-balrogs",
+  "title": "Gothmog, Lord of Balrogs",
+  "group": "Creatures",
+  "hint": "high captain of Angband who slew Fëanor and Fingon; slain in Gondolin",
+  "batch": 8
+ },
+ {
+  "id": "person:ungoliant",
+  "title": "Ungoliant",
+  "group": "Creatures",
+  "hint": "spirit in spider form who killed the Two Trees with Morgoth",
+  "batch": 8
+ },
+ {
+  "id": "person:glaurung",
+  "title": "Glaurung",
+  "group": "Creatures",
+  "hint": "Father of Dragons, slain by Túrin at Cabed-en-Aras",
+  "batch": 8
+ },
+ {
+  "id": "person:ancalagon",
+  "title": "Ancalagon the Black",
+  "group": "Creatures",
+  "hint": "greatest of the winged dragons, cast down by Eärendil in the War of Wrath",
+  "batch": 8
+ },
+ {
+  "id": "person:thorondor",
+  "title": "Thorondor",
+  "group": "Creatures",
+  "hint": "King of Eagles of the Crissaegrim, who marred Morgoth's face",
+  "batch": 8
+ },
+ {
+  "id": "person:thingol",
+  "title": "Thingol",
+  "group": "Elves",
+  "hint": "Elu Thingol, King of Doriath, husband of Melian; slain in Menegroth by Dwarves",
+  "batch": 9
+ },
+ {
+  "id": "person:luthien",
+  "title": "Lúthien",
+  "group": "Elves",
+  "hint": "daughter of Thingol and Melian, who with Beren took a Silmaril from Morgoth's crown",
+  "batch": 9
+ },
+ {
+  "id": "person:beleg",
+  "title": "Beleg Cúthalion",
+  "group": "Elves",
+  "hint": "Strongbow, march-warden of Doriath and friend of Túrin",
+  "batch": 9
+ },
+ {
+  "id": "person:mablung-of-doriath",
+  "title": "Mablung of Doriath",
+  "group": "Elves",
+  "hint": "chief captain of Thingol; slain at the doors of the treasury of Menegroth",
+  "batch": 9
+ },
+ {
+  "id": "person:daeron",
+  "title": "Daeron",
+  "group": "Elves",
+  "hint": "minstrel and loremaster of Doriath who loved Lúthien",
+  "batch": 9
+ },
+ {
+  "id": "person:dior",
+  "title": "Dior",
+  "group": "Elves",
+  "hint": "Thingol's Heir, son of Beren and Lúthien; slain by the sons of Fëanor",
+  "batch": 9
+ },
+ {
+  "id": "person:elwing",
+  "title": "Elwing",
+  "group": "Elves",
+  "hint": "daughter of Dior, who bore the Silmaril to Eärendil",
+  "batch": 9
+ },
+ {
+  "id": "person:earendil",
+  "title": "Eärendil",
+  "group": "Elves",
+  "hint": "the Mariner, who sailed Vingilot to Valinor and slew Ancalagon",
+  "batch": 9
+ },
+ {
+  "id": "person:beor",
+  "title": "Bëor the Old",
+  "group": "Men",
+  "hint": "first leader of Men to meet the Elves, met by Finrod in Ossiriand",
+  "batch": 9
+ },
+ {
+  "id": "person:barahir",
+  "title": "Barahir",
+  "group": "Men",
+  "hint": "lord of the House of Bëor who saved Finrod; slain at Tarn Aeluin",
+  "batch": 9
+ },
+ {
+  "id": "person:beren",
+  "title": "Beren",
+  "group": "Men",
+  "hint": "son of Barahir, who with Lúthien won a Silmaril",
+  "batch": 9
+ },
+ {
+  "id": "person:gorlim",
+  "title": "Gorlim",
+  "group": "Men",
+  "hint": "outlaw of Barahir's band who betrayed his lord to Sauron",
+  "batch": 9
+ },
+ {
+  "id": "person:hador",
+  "title": "Hador Lórindol",
+  "group": "Men",
+  "hint": "lord of Dor-lómin; fell at Eithel Sirion in the Dagor Bragollach, F.A. 455",
+  "batch": 9
+ },
+ {
+  "id": "person:galdor",
+  "title": "Galdor",
+  "group": "Men",
+  "hint": "Galdor the Tall, lord of Dor-lómin, father of Húrin and Huor",
+  "batch": 9
+ },
+ {
+  "id": "person:hurin",
+  "title": "Húrin Thalion",
+  "group": "Men",
+  "hint": "lord of Dor-lómin, captured at the Nírnaeth Arnoediad in F.A. 472",
+  "batch": 9
+ },
+ {
+  "id": "person:huor",
+  "title": "Huor",
+  "group": "Men",
+  "hint": "brother of Húrin and father of Tuor; fell at the Nírnaeth Arnoediad",
+  "batch": 9
+ },
+ {
+  "id": "person:morwen",
+  "title": "Morwen",
+  "group": "Men",
+  "hint": "Eledhwen, wife of Húrin and mother of Túrin and Nienor",
+  "batch": 9
+ },
+ {
+  "id": "person:rian",
+  "title": "Rían",
+  "group": "Men",
+  "hint": "wife of Huor and mother of Tuor; died on the Hill of Slain",
+  "batch": 9
+ },
+ {
+  "id": "person:turin",
+  "title": "Túrin Turambar",
+  "group": "Men",
+  "hint": "son of Húrin, slayer of Glaurung",
+  "batch": 9
+ },
+ {
+  "id": "person:nienor",
+  "title": "Nienor",
+  "group": "Men",
+  "hint": "Níniel, daughter of Húrin, who leapt into the Teiglin at Cabed-en-Aras",
+  "batch": 9
+ },
+ {
+  "id": "person:tuor",
+  "title": "Tuor",
+  "group": "Men",
+  "hint": "son of Huor, messenger of Ulmo to Gondolin, father of Eärendil",
+  "batch": 9
+ },
+ {
+  "id": "person:haleth",
+  "title": "Haleth",
+  "group": "Men",
+  "hint": "the Lady Haleth, leader of the Haladin who settled in Brethil",
+  "batch": 9
+ },
+ {
+  "id": "person:brandir",
+  "title": "Brandir",
+  "group": "Men",
+  "hint": "the Lame, ruler of the Men of Brethil; slain by Túrin",
+  "batch": 9
+ },
+ {
+  "id": "person:sador",
+  "title": "Sador",
+  "group": "Men",
+  "hint": "Labadal, lame old servant and friend of the boy Túrin in Dor-lómin",
+  "batch": 9
+ },
+ {
+  "id": "person:aerin",
+  "title": "Aerin",
+  "group": "Men",
+  "hint": "kinswoman of Húrin forced to wed the Easterling Brodda",
+  "batch": 9
+ },
+ {
+  "id": "person:androg",
+  "title": "Andróg",
+  "group": "Men",
+  "hint": "outlaw of Túrin's band on Amon Rûdh",
+  "batch": 9
+ },
+ {
+  "id": "person:brodda",
+  "title": "Brodda",
+  "group": "Enemies",
+  "hint": "Easterling who seized Húrin's lands in Dor-lómin; slain by Túrin",
+  "batch": 9
+ },
+ {
+  "id": "person:lorgan",
+  "title": "Lorgan",
+  "group": "Enemies",
+  "hint": "chief of the Easterlings in Hithlum who held Tuor as a thrall",
+  "batch": 9
+ },
+ {
+  "id": "person:melian",
+  "title": "Melian",
+  "group": "Wizards and Maiar",
+  "hint": "Maia, Queen of Doriath, who fenced it with the Girdle of Melian",
+  "batch": 10
+ },
+ {
+  "id": "person:manwe",
+  "title": "Manwë",
+  "group": "Valar",
+  "hint": "King of Arda, lord of the airs and winds",
+  "batch": 10
+ },
+ {
+  "id": "person:varda",
+  "title": "Varda",
+  "group": "Valar",
+  "hint": "Elbereth, Queen of the Stars",
+  "batch": 10
+ },
+ {
+  "id": "person:ulmo",
+  "title": "Ulmo",
+  "group": "Valar",
+  "hint": "Lord of Waters, who sent Tuor to Gondolin",
+  "batch": 10
+ },
+ {
+  "id": "person:aule",
+  "title": "Aulë",
+  "group": "Valar",
+  "hint": "the Smith, maker of the Dwarves",
+  "batch": 10
+ },
+ {
+  "id": "person:yavanna",
+  "title": "Yavanna",
+  "group": "Valar",
+  "hint": "Giver of Fruits, who sang the Two Trees into being",
+  "batch": 10
+ },
+ {
+  "id": "person:orome",
+  "title": "Oromë",
+  "group": "Valar",
+  "hint": "the Huntsman of the Valar, who found the Elves at Cuiviénen",
+  "batch": 10
+ },
+ {
+  "id": "person:mandos",
+  "title": "Mandos",
+  "group": "Valar",
+  "hint": "Námo, Doomsman of the Valar and keeper of the Houses of the Dead",
+  "batch": 10
+ },
+ {
+  "id": "person:nienna",
+  "title": "Nienna",
+  "group": "Valar",
+  "hint": "the Lady of pity and mourning",
+  "batch": 10
+ },
+ {
+  "id": "person:tulkas",
+  "title": "Tulkas",
+  "group": "Valar",
+  "hint": "the Strong, champion of the Valar who chained Melkor",
+  "batch": 10
+ },
+ {
+  "id": "person:lorien",
+  "title": "Irmo",
+  "group": "Valar",
+  "hint": "Lórien, master of visions and dreams",
+  "batch": 10
+ },
+ {
+  "id": "person:este",
+  "title": "Estë",
+  "group": "Valar",
+  "hint": "the Gentle, healer of hurts and weariness",
+  "batch": 10
+ },
+ {
+  "id": "person:vaire",
+  "title": "Vairë",
+  "group": "Valar",
+  "hint": "the Weaver, wife of Mandos",
+  "batch": 10
+ },
+ {
+  "id": "person:vana",
+  "title": "Vána",
+  "group": "Valar",
+  "hint": "the Ever-young, wife of Oromë",
+  "batch": 10
+ },
+ {
+  "id": "person:nessa",
+  "title": "Nessa",
+  "group": "Valar",
+  "hint": "the dancer, sister of Oromë and wife of Tulkas",
+  "batch": 10
+ },
+ {
+  "id": "person:osse",
+  "title": "Ossë",
+  "group": "Wizards and Maiar",
+  "hint": "Maia of the waves, vassal of Ulmo, friend of Círdan",
+  "batch": 10
+ },
+ {
+  "id": "person:eonwe",
+  "title": "Eönwë",
+  "group": "Wizards and Maiar",
+  "hint": "herald of Manwë who led the host of the West in the War of Wrath",
+  "batch": 10
+ },
+ {
+  "id": "person:arien",
+  "title": "Arien",
+  "group": "Wizards and Maiar",
+  "hint": "Maia of fire who steers the Sun",
+  "batch": 10
+ },
+ {
+  "id": "person:tilion",
+  "title": "Tilion",
+  "group": "Wizards and Maiar",
+  "hint": "Maia hunter who steers the Moon",
+  "batch": 10
+ },
+ {
+  "id": "person:morgoth",
+  "title": "Morgoth",
+  "group": "Enemies",
+  "hint": "Melkor, the first Dark Lord; thrust out into the Void after the War of Wrath",
+  "batch": 10
+ },
+ {
+  "id": "person:sauron",
+  "title": "Sauron",
+  "group": "Enemies",
+  "hint": "Maia of Aulë turned servant of Morgoth; Dark Lord of Mordor, overthrown T.A. 3019",
+  "batch": 10
+ },
+ {
+  "id": "person:elros",
+  "title": "Elros Tar-Minyatur",
+  "group": "Men",
+  "hint": "brother of Elrond, first King of Númenor from S.A. 32",
+  "batch": 10
+ },
+ {
+  "id": "person:tar-aldarion",
+  "title": "Tar-Aldarion",
+  "group": "Men",
+  "hint": "the Mariner King of Númenor who made Vinyalondë",
+  "batch": 10
+ },
+ {
+  "id": "person:erendis",
+  "title": "Erendis",
+  "group": "Men",
+  "hint": "Tar-Elestirnë, wife of Tar-Aldarion, estranged by his love of the sea",
+  "batch": 10
+ },
+ {
+  "id": "person:tar-ancalime",
+  "title": "Tar-Ancalimë",
+  "group": "Men",
+  "hint": "first Ruling Queen of Númenor, daughter of Aldarion and Erendis",
+  "batch": 10
+ },
+ {
+  "id": "person:tar-palantir",
+  "title": "Tar-Palantir",
+  "group": "Men",
+  "hint": "the Far-sighted, last faithful King of Númenor",
+  "batch": 10
+ },
+ {
+  "id": "person:ar-pharazon",
+  "title": "Ar-Pharazôn",
+  "group": "Men",
+  "hint": "the Golden, last King of Númenor; assailed Valinor in S.A. 3319",
+  "batch": 10
+ },
+ {
+  "id": "person:tar-miriel",
+  "title": "Tar-Míriel",
+  "group": "Men",
+  "hint": "daughter of Tar-Palantir, forced to wed Ar-Pharazôn; drowned in the Downfall",
+  "batch": 10
+ },
+ {
+  "id": "person:amandil",
+  "title": "Amandil",
+  "group": "Men",
+  "hint": "last Lord of Andúnië, father of Elendil; sailed West to plead with the Valar",
+  "batch": 10
+ }
+]

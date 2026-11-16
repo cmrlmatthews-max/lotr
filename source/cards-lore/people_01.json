@@ -1,0 +1,1505 @@
+[
+  {
+    "id": "person:frodo-baggins",
+    "title": "Frodo Baggins",
+    "group": "Hobbits",
+    "kind": "Hobbit of the Shire, Ring-bearer",
+    "aka": [
+      "Mr. Underhill",
+      "Ring-bearer",
+      "Frodo of the Nine Fingers"
+    ],
+    "blurb": "A hobbit of the Shire who carried the One Ring from Bag End to the Cracks of Doom.",
+    "book": "Frodo was born on 22 September T.A. 2968, the son of Drogo Baggins and Primula Brandybuck. His parents drowned in the Brandywine in T.A. 2980, and he grew up at Brandy Hall. In T.A. 2989 Bilbo Baggins adopted him and took him to Bag End.\n\nBilbo left the Shire in T.A. 3001 and gave Frodo his house and his magic ring. Seventeen years later Gandalf proved that the ring was the One Ring of Sauron. Frodo left the Shire in September T.A. 3018 with Samwise and Peregrin. Merry joined them in Buckland.\n\nBlack Riders hunted him. He passed through the Old Forest and the Barrow-downs and met Strider at Bree. A Nazgûl stabbed him with a Morgul-knife on Weathertop. Elrond healed him at Rivendell, and at the Council of Elrond he offered to carry the Ring to Mordor.\n\nFrodo went with the Fellowship through Moria and Lothlórien. At Parth Galen he left the company and crossed the river with Sam. Gollum guided them through the Dead Marshes and Ithilien to Cirith Ungol. There Shelob stung Frodo, and Orcs captured him before Sam rescued him.\n\nOn 25 March T.A. 3019 Frodo claimed the Ring at the Cracks of Doom. Gollum bit off his finger and fell into the fire with the Ring. After the war Frodo never fully recovered. In T.A. 3021 he sailed from the Grey Havens into the West.",
+    "film": "Played by Elijah Wood. The films omit the long delay before he leaves the Shire and the Scouring of the Shire. In the films Arwen carries him to Rivendell, and Frodo sends Sam away on the stairs of Cirith Ungol.",
+    "facts": {
+      "Race": "Hobbit",
+      "Born": "T.A. 2968",
+      "Parents": "Drogo Baggins and Primula Brandybuck",
+      "Realm or home": "Bag End, Hobbiton, in the Shire",
+      "Weapon or steed": "Sting"
+    },
+    "places": [
+      {
+        "id": "BU030",
+        "role": "lived",
+        "note": "Frodo lives at Bag End after Bilbo leaves, and departs from it in September T.A. 3018."
+      },
+      {
+        "id": "BU009",
+        "role": "other",
+        "note": "Meets Strider in the Prancing Pony and nearly reveals the Ring by accident."
+      },
+      {
+        "id": "HI052",
+        "role": "other",
+        "note": "Stabbed by the Witch-king with a Morgul-knife while wearing the Ring."
+      },
+      {
+        "id": "TO084",
+        "role": "other",
+        "note": "Healed by Elrond, then volunteers to bear the Ring at the Council."
+      },
+      {
+        "id": "TO066",
+        "role": "travelled",
+        "note": "Passes through Moria with the Fellowship in January T.A. 3019."
+      },
+      {
+        "id": "FO017",
+        "role": "travelled",
+        "note": "Rests in Lothlórien and receives the Phial of Galadriel."
+      },
+      {
+        "id": "FI021",
+        "role": "other",
+        "note": "Leaves the Fellowship here and crosses the river to go on alone with Sam."
+      },
+      {
+        "id": "CA013",
+        "role": "fought",
+        "note": "Stung by Shelob as he leaves her tunnels, then taken by Orcs."
+      },
+      {
+        "id": "BU036",
+        "role": "destroyed",
+        "note": "Claims the Ring at the Cracks of Doom, and Gollum falls into the fire with it."
+      },
+      {
+        "id": "TO043",
+        "role": "other",
+        "note": "Sails from the Grey Havens in T.A. 3021."
+      }
+    ],
+    "offmap": [
+      {
+        "name": "Valinor",
+        "role": "other",
+        "note": "Frodo sails there with Bilbo, Gandalf and the Elves."
+      }
+    ],
+    "related": [
+      "person:samwise-gamgee",
+      "person:bilbo-baggins",
+      "person:gandalf",
+      "person:gollum",
+      "thing:one-ring",
+      "thing:sting",
+      "thing:mithril-coat",
+      "thing:phial-of-galadriel"
+    ],
+    "sources": [
+      "The Lord of the Rings",
+      "The Lord of the Rings, Appendix B"
+    ],
+    "confidence": "high",
+    "series": ""
+  },
+  {
+    "id": "person:samwise-gamgee",
+    "title": "Samwise Gamgee",
+    "group": "Hobbits",
+    "kind": "Hobbit gardener, Ring-bearer for a time",
+    "aka": [
+      "Sam",
+      "Samwise the Stouthearted",
+      "Master Samwise",
+      "Mayor Samwise"
+    ],
+    "blurb": "Frodo's gardener and loyal companion, who helped carry the Ring to Mount Doom and later became Mayor of the Shire.",
+    "book": "Samwise was born in T.A. 2980, the youngest son of Hamfast Gamgee, the gardener of Bag End. He grew up in Bagshot Row in Hobbiton. He loved tales of the Elves and learned his letters from Bilbo.\n\nGandalf caught Sam listening under a window at Bag End and made him promise to stay with Frodo. Sam kept that promise. He left the Shire with Frodo, joined the Fellowship, and received a box of earth and a seed of a mallorn tree from Galadriel.\n\nAfter Parth Galen he crossed the river with Frodo. In the pass of Cirith Ungol he drove off Shelob with Sting and the Phial. Believing Frodo dead, he took the Ring for a short time. He then learned that Frodo lived, and he rescued him from the Tower of Cirith Ungol.\n\nSam carried Frodo up the slopes of Mount Doom when his master could walk no further. After the war he married Rose Cotton and they had thirteen children, the eldest being Elanor. He helped heal the Shire with Galadriel's gifts and was Mayor of the Shire for seven terms. After Rose died in Fo.A. 61, Sam gave the Red Book to Elanor, rode to the Grey Havens and sailed west.",
+    "film": "Played by Sean Astin. The films give Sam a bigger role in the last stage of the quest, and Gollum tricks Frodo into sending him away. The films omit the Scouring of the Shire.",
+    "facts": {
+      "Race": "Hobbit",
+      "Born": "T.A. 2980",
+      "Parents": "Hamfast Gamgee and Bell",
+      "Spouse": "Rose Cotton",
+      "Children": "Elanor and twelve others",
+      "Realm or home": "Bagshot Row, Hobbiton, later Bag End",
+      "Weapon or steed": "Sting"
+    },
+    "places": [
+      {
+        "id": "RD004",
+        "role": "lived",
+        "note": "Grows up in the Gamgee home at Bagshot Row under Hobbiton Hill."
+      },
+      {
+        "id": "BU030",
+        "role": "other",
+        "note": "Works as gardener at Bag End and is caught listening below the window."
+      },
+      {
+        "id": "FO017",
+        "role": "travelled",
+        "note": "Receives a box of earth and a mallorn seed from Galadriel."
+      },
+      {
+        "id": "CA013",
+        "role": "fought",
+        "note": "Drives off Shelob with Sting and the light of the Phial."
+      },
+      {
+        "id": "FT025",
+        "role": "fought",
+        "note": "Enters the Orc tower alone and rescues Frodo."
+      },
+      {
+        "id": "MT036",
+        "role": "travelled",
+        "note": "Carries Frodo up the slopes of Mount Doom."
+      },
+      {
+        "id": "battle:bywater",
+        "role": "fought",
+        "note": "Fights with the hobbits who free the Shire from Saruman's ruffians."
+      },
+      {
+        "id": "TO043",
+        "role": "other",
+        "note": "Sails from the Grey Havens after Rose dies."
+      }
+    ],
+    "offmap": [
+      {
+        "name": "Valinor",
+        "role": "other",
+        "note": "Allowed to follow the Ring-bearers into the West as the last of them."
+      }
+    ],
+    "related": [
+      "person:frodo-baggins",
+      "person:hamfast-gamgee",
+      "person:rose-cotton",
+      "person:elanor-gamgee",
+      "person:gollum",
+      "person:shelob",
+      "thing:sting",
+      "thing:red-book"
+    ],
+    "sources": [
+      "The Lord of the Rings",
+      "The Lord of the Rings, Appendix B"
+    ],
+    "confidence": "high",
+    "series": ""
+  },
+  {
+    "id": "person:meriadoc-brandybuck",
+    "title": "Meriadoc Brandybuck",
+    "group": "Hobbits",
+    "kind": "Hobbit of Buckland, knight of Rohan",
+    "aka": [
+      "Merry",
+      "Holdwine",
+      "Master of Buckland"
+    ],
+    "blurb": "Merry of Buckland, Frodo's cousin and friend, who joined the Fellowship, served Rohan and helped slay the Witch-king.",
+    "book": "Meriadoc was born in T.A. 2982, the son of Saradoc Brandybuck and Esmeralda Took. He grew up at Brandy Hall in Buckland. He was a close friend of Frodo and Pippin and helped plan the journey from the Shire.\n\nWith Pippin he was captured at Parth Galen by Orcs, who carried them toward Isengard. They escaped to Fangorn Forest, where they met Treebeard. Merry helped persuade the Ents to march against Saruman.\n\nHe offered his sword to Théoden at the Hornburg and rode to war with the Rohirrim. In the Battle of the Pelennor Fields he rode hidden behind Dernhelm, who was Éowyn. His Barrow-blade wounded the Witch-king, and Éowyn then killed him. Merry fell ill from the touch of the Nazgûl and was healed with athelas in the Houses of Healing.\n\nBack in the Shire he led the hobbits against Saruman's ruffians at the Battle of Bywater. He later became Master of Buckland. In old age he and Pippin left the Shire for Rohan and Gondor. They died in Gondor and were laid in Rath Dínen beside King Elessar.",
+    "film": "Played by Dominic Monaghan. In the films Merry and Pippin are captured at Parth Galen and also reach the Ents. The films omit the Scouring of the Shire and the Barrow-downs.",
+    "facts": {
+      "Race": "Hobbit",
+      "Born": "T.A. 2982",
+      "Parents": "Saradoc Brandybuck and Esmeralda Took",
+      "Realm or home": "Brandy Hall, Buckland",
+      "Title": "Master of Buckland"
+    },
+    "places": [
+      {
+        "id": "BU032",
+        "role": "lived",
+        "note": "Grows up at Brandy Hall, the home of the Brandybuck family."
+      },
+      {
+        "id": "TO022",
+        "role": "other",
+        "note": "Prepares Crickhollow as a hiding place for Frodo's departure from the Shire."
+      },
+      {
+        "id": "FI021",
+        "role": "other",
+        "note": "Captured by Orcs when the Fellowship breaks at Parth Galen."
+      },
+      {
+        "id": "FO012",
+        "role": "travelled",
+        "note": "Meets Treebeard after escaping from the Orcs."
+      },
+      {
+        "id": "FT016",
+        "role": "other",
+        "note": "Lays his sword in the lap of King Théoden and becomes his esquire."
+      },
+      {
+        "id": "battle:pelennor",
+        "role": "fought",
+        "note": "Helps Éowyn kill the Witch-king with his Barrow-blade."
+      },
+      {
+        "id": "BU063",
+        "role": "other",
+        "note": "Treated in the Houses of Healing after the touch of the Nazgûl."
+      },
+      {
+        "id": "battle:bywater",
+        "role": "fought",
+        "note": "Leads the hobbit rising against Saruman's ruffians."
+      },
+      {
+        "id": "RD031",
+        "role": "buried",
+        "note": "Laid among the great of Gondor in Rath Dínen, later beside King Elessar."
+      }
+    ],
+    "related": [
+      "person:peregrin-took",
+      "person:frodo-baggins",
+      "person:theoden",
+      "person:eowyn",
+      "person:treebeard",
+      "person:witch-king",
+      "thing:barrow-blades",
+      "person:saradoc-brandybuck"
+    ],
+    "sources": [
+      "The Lord of the Rings",
+      "The Lord of the Rings, Appendix B"
+    ],
+    "confidence": "high",
+    "series": "",
+    "offmap": []
+  },
+  {
+    "id": "person:peregrin-took",
+    "title": "Peregrin Took",
+    "group": "Hobbits",
+    "kind": "Hobbit of Tuckborough, Guard of the Citadel",
+    "aka": [
+      "Pippin",
+      "Ernil i Pheriannath",
+      "Thain of the Shire"
+    ],
+    "blurb": "Pippin, a young Took who joined the Fellowship, served Gondor in the Citadel and later became Thain of the Shire.",
+    "book": "Peregrin was born in T.A. 2990, the only son of Paladin Took. He was the youngest of the four hobbits who left the Shire with Frodo. He was curious and quick to speak, and his mistakes often caused trouble.\n\nIn Moria he dropped a stone into a well, and soon a distant hammering answered. At Parth Galen Orcs seized him and Merry. He left a brooch for his friends to find. He escaped to Fangorn and with Merry helped bring about the march of the Ents on Isengard.\n\nAt Orthanc he picked up the palantír that Wormtongue had thrown. That night at Dol Baran he stole a look into it, and Sauron questioned him. Gandalf took him to Minas Tirith, where he swore service to Denethor and became a Guard of the Citadel. He befriended Beregond and helped save Faramir from the pyre.\n\nPippin fought at the Black Gate and killed a troll, then lay hidden under its body until Gimli found him. Back in the Shire he fought at Bywater. He married Diamond of Long Cleeve and became Thain in Fo.A. 13. He died in Gondor and was laid in Rath Dínen with Merry.",
+    "film": "Played by Billy Boyd. In the films he sings for Denethor and lights the beacon of Minas Tirith. The films omit the Scouring of the Shire.",
+    "facts": {
+      "Race": "Hobbit",
+      "Born": "T.A. 2990",
+      "Parents": "Paladin Took and Eglantine Banks",
+      "Realm or home": "Great Smials, Tuckborough, in the Shire",
+      "Title": "Thain of the Shire"
+    },
+    "places": [
+      {
+        "id": "BU052",
+        "role": "lived",
+        "note": "Grows up in the Great Smials, seat of the Took family."
+      },
+      {
+        "id": "TO066",
+        "role": "travelled",
+        "note": "Drops a stone down a well in Moria, and drums answer from the deep."
+      },
+      {
+        "id": "FI021",
+        "role": "other",
+        "note": "Captured by Orcs when the Fellowship breaks at Parth Galen."
+      },
+      {
+        "id": "BU021",
+        "role": "other",
+        "note": "Picks up the palantír that Wormtongue throws from Orthanc."
+      },
+      {
+        "id": "HI017",
+        "role": "other",
+        "note": "Looks into the stolen palantír at night and is questioned by Sauron."
+      },
+      {
+        "id": "TO065",
+        "role": "lived",
+        "note": "Serves as a Guard of the Citadel under Denethor and Beregond."
+      },
+      {
+        "id": "battle:morannon",
+        "role": "fought",
+        "note": "Kills a troll in the fight before the Black Gate."
+      },
+      {
+        "id": "battle:bywater",
+        "role": "fought",
+        "note": "Fights in the hobbit rising against Saruman's ruffians."
+      }
+    ],
+    "related": [
+      "person:meriadoc-brandybuck",
+      "person:gandalf",
+      "person:denethor-ii",
+      "person:beregond",
+      "person:faramir",
+      "person:paladin-took",
+      "person:treebeard",
+      "thing:palantir-of-orthanc"
+    ],
+    "sources": [
+      "The Lord of the Rings",
+      "The Lord of the Rings, Appendix B"
+    ],
+    "confidence": "high",
+    "series": "",
+    "offmap": []
+  },
+  {
+    "id": "person:gandalf",
+    "title": "Gandalf",
+    "group": "Wizards and Maiar",
+    "kind": "Wizard, Maia, enemy of Sauron",
+    "aka": [
+      "Mithrandir",
+      "Olórin",
+      "The Grey Pilgrim",
+      "Gandalf the White",
+      "Tharkûn",
+      "Stormcrow",
+      "Incánus"
+    ],
+    "blurb": "A Maia sent to Middle-earth as a wizard to resist Sauron, who guided the Free Peoples to the fall of the Ring.",
+    "book": "Gandalf was a Maia named Olórin in Valinor. He came to Middle-earth about T.A. 1000 as one of the Istari, sent by the Valar to help against Sauron. Círdan gave him the Ring Narya at the Grey Havens. He was called Mithrandir by the Elves and Tharkûn by the Dwarves.\n\nHe wandered widely, and in T.A. 2850 he entered Dol Guldur and learned that Sauron had returned. In T.A. 2941 he brought Thorin's company to Bilbo and so began the quest to Erebor. In the same year the White Council drove Sauron out of Dol Guldur.\n\nIn T.A. 3018 he learned that Bilbo's ring was the One Ring. Saruman imprisoned him on Orthanc, and an eagle carried him away. He led the Fellowship until he fought the Balrog on the Bridge of Khazad-dûm. He fell, and slew the Balrog on the peak of Celebdil, and died.\n\nThe Valar sent him back as Gandalf the White. He healed King Théoden, came to the Hornburg at dawn, and broke Saruman's staff. He led the defence of Minas Tirith and rode with the host to the Morannon. After the war he crowned Aragorn. In T.A. 3021 he sailed into the West.",
+    "film": "Played by Ian McKellen. In the films he fights Saruman with staffs before being captured, and he searches the archives of Minas Tirith for Isildur's account of the Ring. The Hobbit films show him held captive in Dol Guldur.",
+    "facts": {
+      "Race": "Maia (one of the Istari)",
+      "Title": "Wizard",
+      "Weapon or steed": "Glamdring, Shadowfax"
+    },
+    "places": [
+      {
+        "id": "TO039",
+        "role": "other",
+        "note": "Rescues the Dwarves and Bilbo from the goblins in the Misty Mountains."
+      },
+      {
+        "id": "BU030",
+        "role": "other",
+        "note": "Visits Bilbo in T.A. 2941 and Frodo in T.A. 3018."
+      },
+      {
+        "id": "battle:dol-guldur-white-council",
+        "role": "fought",
+        "note": "Helps the White Council drive Sauron from Dol Guldur in T.A. 2941."
+      },
+      {
+        "id": "TO084",
+        "role": "other",
+        "note": "Reports to Elrond and takes part in the Council of Elrond."
+      },
+      {
+        "id": "BU021",
+        "role": "other",
+        "note": "Held prisoner by Saruman on the pinnacle of Orthanc."
+      },
+      {
+        "id": "battle:mazarbul-khazad-dum",
+        "role": "fought",
+        "note": "Faces the Balrog on the Bridge of Khazad-dûm and falls."
+      },
+      {
+        "id": "MT007",
+        "role": "died",
+        "note": "Fights the Balrog on the summit of Celebdil and dies."
+      },
+      {
+        "id": "battle:hornburg",
+        "role": "fought",
+        "note": "Arrives at dawn with Erkenbrand and the men of the Westfold."
+      },
+      {
+        "id": "battle:pelennor",
+        "role": "fought",
+        "note": "Rides to the defence of Minas Tirith and checks the Witch-king."
+      },
+      {
+        "id": "TO043",
+        "role": "other",
+        "note": "Sails into the West from the Grey Havens in T.A. 3021."
+      }
+    ],
+    "offmap": [
+      {
+        "name": "Valinor",
+        "role": "other",
+        "note": "Home of the Maia Olórin before his journey to Middle-earth, and where he returns."
+      }
+    ],
+    "related": [
+      "person:frodo-baggins",
+      "person:bilbo-baggins",
+      "person:saruman",
+      "person:durins-bane",
+      "person:shadowfax",
+      "thing:glamdring",
+      "thing:narya",
+      "thing:one-ring"
+    ],
+    "sources": [
+      "The Lord of the Rings",
+      "The Hobbit",
+      "The Lord of the Rings, Appendix B",
+      "The Silmarillion"
+    ],
+    "confidence": "high",
+    "series": ""
+  },
+  {
+    "id": "person:aragorn",
+    "title": "Aragorn II Elessar",
+    "group": "Men",
+    "kind": "Chieftain of the Dúnedain, King of Gondor",
+    "aka": [
+      "Strider",
+      "Estel",
+      "Elessar",
+      "Envinyatar",
+      "Thorongil",
+      "Wingfoot"
+    ],
+    "blurb": "Heir of Isildur who led the war against Sauron and became King of the Reunited Kingdom.",
+    "book": "Aragorn was born on 1 March T.A. 2931, the son of Arathorn II and Gilraen. His father died when he was two. Elrond raised him in Rivendell under the name Estel. At twenty he learned his lineage and received the shards of Narsil and the Ring of Barahir.\n\nHe met Arwen in Rivendell and later pledged himself to her in Lothlórien. Elrond agreed to their marriage only if Aragorn became king of both realms. In later years he served Thengel of Rohan and Ecthelion of Gondor in disguise as Thorongil. As Strider he guarded the Shire and hunted Gollum.\n\nHe led the hobbits from Bree to Rivendell and joined the Fellowship. After Boromir died, he followed the Orcs into Rohan, fought at the Hornburg, and looked into the palantír of Orthanc. He took the Paths of the Dead, summoned the Dead at Erech, defeated the Corsairs at Pelargir, and reached the Pelennor on captured ships. He healed many in the Houses of Healing.\n\nHe led the host to the Morannon to draw Sauron's eye from Frodo. He was crowned on 1 May T.A. 3019 and wed Arwen at Midsummer. He reigned for 122 years and died at age 210, in Fo.A. 120.",
+    "film": "Played by Viggo Mortensen. In the films Aragorn doubts his claim to the throne and receives Andúril at Dunharrow. He leads the army of the Dead at the Pelennor Fields and is crowned at Minas Tirith.",
+    "facts": {
+      "Race": "Man (Dúnedain of Arnor)",
+      "Born": "T.A. 2931",
+      "Died": "Fo.A. 120",
+      "Age at death": "210",
+      "Parents": "Arathorn II and Gilraen",
+      "Spouse": "Arwen Undómiel",
+      "Children": "Eldarion and daughters",
+      "Realm or home": "Rivendell, later Minas Tirith",
+      "Weapon or steed": "Andúril"
+    },
+    "places": [
+      {
+        "id": "TO084",
+        "role": "lived",
+        "note": "Raised by Elrond and his sons from the age of two."
+      },
+      {
+        "id": "HI014",
+        "role": "other",
+        "note": "Plights his troth to Arwen on Cerin Amroth in T.A. 2980."
+      },
+      {
+        "id": "BU009",
+        "role": "other",
+        "note": "Meets Frodo and his companions in the Prancing Pony at Bree."
+      },
+      {
+        "id": "battle:weathertop-3018",
+        "role": "fought",
+        "note": "Drives off the Nazgûl with fire and steel on Weathertop."
+      },
+      {
+        "id": "battle:hornburg",
+        "role": "fought",
+        "note": "Fights on the Deeping Wall alongside Théoden."
+      },
+      {
+        "id": "VA040",
+        "role": "travelled",
+        "note": "Leads the Grey Company along the Paths of the Dead."
+      },
+      {
+        "id": "battle:pelargir",
+        "role": "fought",
+        "note": "Drives the Corsairs from their ships with the Army of the Dead."
+      },
+      {
+        "id": "battle:pelennor",
+        "role": "fought",
+        "note": "Arrives by ship and reveals himself with the banner of Arwen."
+      },
+      {
+        "id": "battle:morannon",
+        "role": "fought",
+        "note": "Leads the Host of the West to the Black Gate."
+      },
+      {
+        "id": "TO065",
+        "role": "ruled",
+        "note": "Crowned king in T.A. 3019 and rules the Reunited Kingdom."
+      },
+      {
+        "id": "GR012",
+        "role": "buried",
+        "note": "Laid in the House of the Kings in Fo.A. 120."
+      }
+    ],
+    "related": [
+      "person:arwen",
+      "person:elrond",
+      "person:gandalf",
+      "person:boromir",
+      "person:gilraen",
+      "person:arathorn-ii",
+      "thing:anduril",
+      "thing:elessar-stone"
+    ],
+    "sources": [
+      "The Lord of the Rings",
+      "The Lord of the Rings, Appendix A",
+      "The Lord of the Rings, Appendix B"
+    ],
+    "confidence": "high",
+    "series": "",
+    "offmap": []
+  },
+  {
+    "id": "person:legolas",
+    "title": "Legolas",
+    "group": "Elves",
+    "kind": "Sindarin Elf of Mirkwood, archer",
+    "aka": [
+      "Legolas Greenleaf",
+      "Legolas Thranduilion"
+    ],
+    "blurb": "An Elf of the Woodland Realm and son of Thranduil, who was the archer of the Fellowship.",
+    "book": "Legolas was a Sindarin Elf of the Woodland Realm in Mirkwood and the son of King Thranduil. His father sent him to Rivendell in T.A. 3018 with news that Gollum had escaped from the Elves. He stayed for the Council of Elrond and was chosen as one of the Nine Walkers.\n\nIn the Fellowship he was a keen-eyed archer and walked lightly over snow. In Lothlórien he received a bow from Galadriel. With it he later shot down the winged steed of a Nazgûl above the Anduin. After Boromir fell, he joined Aragorn and Gimli in the chase after the Orcs across Rohan.\n\nHe fought at the Hornburg, went with Aragorn on the Paths of the Dead, and fought at the Pelennor Fields and the Morannon. He and Gimli became close friends, despite the old distrust between Elves and Dwarves.\n\nAfter the war Legolas led Woodland Elves to Ithilien and made it fair again. After Aragorn died in Fo.A. 120, he built a grey ship and sailed into the West, taking Gimli with him.",
+    "film": "Played by Orlando Bloom. The films give him stunts such as riding a shield down the stairs at Helm's Deep. In The Hobbit films he also appears with Tauriel in the Woodland Realm, at Lake-town and in the Battle of Five Armies. He is not in the book of The Hobbit.",
+    "facts": {
+      "Race": "Elf (Sindarin)",
+      "Parents": "Thranduil",
+      "Realm or home": "Woodland Realm, Mirkwood; later Ithilien",
+      "Weapon or steed": "Bow of Galadhrim"
+    },
+    "places": [
+      {
+        "id": "TO031",
+        "role": "lived",
+        "note": "Grows up in the halls of his father, the Elvenking, in northern Mirkwood."
+      },
+      {
+        "id": "TO084",
+        "role": "other",
+        "note": "Delivers news of Gollum's escape and joins the Fellowship."
+      },
+      {
+        "id": "FO017",
+        "role": "travelled",
+        "note": "Receives a bow from Galadriel in Lothlórien."
+      },
+      {
+        "id": "NP012",
+        "role": "fought",
+        "note": "Shoots down the winged steed of a Nazgûl in the dark above Sarn Gebir."
+      },
+      {
+        "id": "battle:hornburg",
+        "role": "fought",
+        "note": "Fights on the wall of the Hornburg beside Gimli."
+      },
+      {
+        "id": "VA040",
+        "role": "travelled",
+        "note": "Rides with Aragorn through the Paths of the Dead."
+      },
+      {
+        "id": "battle:pelennor",
+        "role": "fought",
+        "note": "Fights in the great battle before Minas Tirith."
+      },
+      {
+        "id": "realm:ithilien",
+        "role": "lived",
+        "note": "Leads Elves from Mirkwood to settle in Ithilien after the war."
+      }
+    ],
+    "offmap": [
+      {
+        "name": "Valinor",
+        "role": "other",
+        "note": "Sails into the West after the death of Aragorn."
+      }
+    ],
+    "related": [
+      "person:thranduil",
+      "person:gimli",
+      "person:aragorn",
+      "person:galadriel",
+      "person:elrond",
+      "person:boromir"
+    ],
+    "sources": [
+      "The Lord of the Rings",
+      "The Lord of the Rings, Appendix A"
+    ],
+    "confidence": "high",
+    "series": ""
+  },
+  {
+    "id": "person:gimli",
+    "title": "Gimli",
+    "group": "Dwarves",
+    "kind": "Dwarf of Durin's line, Fellowship member",
+    "aka": [
+      "Elf-friend",
+      "Lockbearer",
+      "Lord of the Glittering Caves"
+    ],
+    "blurb": "A Dwarf of Durin's line and son of Glóin, who walked with the Fellowship and later ruled the Glittering Caves.",
+    "book": "Gimli was born in T.A. 2879, the son of Glóin. His father had been one of Thorin's company on the quest to Erebor. Gimli came to Rivendell with Glóin in T.A. 3018 and was chosen as the Dwarf among the Nine Walkers.\n\nIn Moria he found the tomb of Balin and was moved by the loss of his kin. In Lothlórien he met Galadriel, who won his deep respect. He asked her for a single hair and she gave him three strands. This helped end the old enmity between him and the Elves, and he grew close to Legolas.\n\nHe fought at the Hornburg and kept a friendly count of slain Orcs with Legolas. He went with Aragorn on the Paths of the Dead and fought at the Pelennor Fields and the Morannon.\n\nAfter the war he brought Dwarves from Erebor to Rohan and founded a colony in the Glittering Caves of Aglarond. He remained lord there. After Aragorn died in Fo.A. 120, Gimli sailed west with Legolas, the only Dwarf recorded as doing so.",
+    "film": "Played by John Rhys-Davies. The films use him for comic relief. They show him at Helm's Deep, on the Paths of the Dead and at the Pelennor Fields.",
+    "facts": {
+      "Race": "Dwarf",
+      "Born": "T.A. 2879",
+      "Parents": "Glóin",
+      "Realm or home": "Erebor; later the Glittering Caves",
+      "Title": "Lord of the Glittering Caves",
+      "Weapon or steed": "Axe"
+    },
+    "places": [
+      {
+        "id": "TO084",
+        "role": "other",
+        "note": "Comes with Glóin to Rivendell and is chosen for the Fellowship."
+      },
+      {
+        "id": "GR001",
+        "role": "travelled",
+        "note": "Mourns at the tomb of Balin in the Chamber of Mazarbul."
+      },
+      {
+        "id": "FO017",
+        "role": "other",
+        "note": "Is moved by Galadriel and receives three golden hairs from her."
+      },
+      {
+        "id": "battle:hornburg",
+        "role": "fought",
+        "note": "Fights on the wall of the Hornburg beside Legolas."
+      },
+      {
+        "id": "VA040",
+        "role": "travelled",
+        "note": "Follows Aragorn through the Paths of the Dead."
+      },
+      {
+        "id": "battle:pelennor",
+        "role": "fought",
+        "note": "Fights in the great battle before Minas Tirith."
+      },
+      {
+        "id": "CA007",
+        "role": "ruled",
+        "note": "Rules the Dwarf colony in the Glittering Caves after the war."
+      }
+    ],
+    "offmap": [
+      {
+        "name": "Valinor",
+        "role": "other",
+        "note": "Sails west with Legolas after the death of Aragorn."
+      }
+    ],
+    "related": [
+      "person:gloin",
+      "person:legolas",
+      "person:aragorn",
+      "person:galadriel",
+      "person:balin",
+      "person:boromir"
+    ],
+    "sources": [
+      "The Lord of the Rings",
+      "The Lord of the Rings, Appendix A"
+    ],
+    "confidence": "high",
+    "series": ""
+  },
+  {
+    "id": "person:boromir",
+    "title": "Boromir",
+    "group": "Men",
+    "kind": "Captain of Gondor, Fellowship member",
+    "aka": [
+      "High Warden of the White Tower",
+      "Captain-General of Gondor"
+    ],
+    "blurb": "Elder son of Denethor II, a great captain of Gondor who joined the Fellowship and died defending the hobbits.",
+    "book": "Boromir was the elder son of Denethor II, Steward of Gondor, and Finduilas of Dol Amroth. His brother was Faramir. He was a strong captain and the pride of his father, and he defended Osgiliath against the growing power of Mordor.\n\nA dream sent Boromir to Rivendell to seek the meaning of a riddle about a broken sword. He came to the Council of Elrond and joined the Fellowship. He urged the use of the Ring against Sauron, and he was suspicious of Aragorn's claim.\n\nHe used his strength to carry the hobbits through the deep snow on Caradhras. At Parth Galen the Ring overcame him and he tried to take it from Frodo. He then repented. When Orcs attacked, he defended Merry and Pippin and was pierced by many arrows. He died after telling Aragorn what he had done.\n\nThe companions placed his body in a boat with his weapons and sent it over the falls of Rauros. He died on 26 February T.A. 3019. The people of Gondor mourned him, and Denethor grieved bitterly for his favourite son.",
+    "film": "Played by Sean Bean. In the films Boromir argues for using the Ring at the Council and is killed by arrows from Lurtz and the Uruk-hai at Amon Hen.",
+    "facts": {
+      "Race": "Man (Dúnadan of Gondor)",
+      "Born": "T.A. 2978",
+      "Died": "T.A. 3019",
+      "Parents": "Denethor II and Finduilas",
+      "Siblings": "Faramir",
+      "Realm or home": "Minas Tirith, Gondor",
+      "Title": "High Warden of the White Tower"
+    },
+    "places": [
+      {
+        "id": "TO065",
+        "role": "lived",
+        "note": "Serves in the Citadel under his father Denethor."
+      },
+      {
+        "id": "TO078",
+        "role": "fought",
+        "note": "Defends the ruined city of Osgiliath against Mordor's forces."
+      },
+      {
+        "id": "TO084",
+        "role": "other",
+        "note": "Speaks at the Council of Elrond and joins the Fellowship."
+      },
+      {
+        "id": "MT006",
+        "role": "travelled",
+        "note": "Helps carry the hobbits through the deep snow on Caradhras."
+      },
+      {
+        "id": "battle:parth-galen",
+        "role": "died",
+        "note": "Defends Merry and Pippin against Orcs and falls at Parth Galen."
+      },
+      {
+        "id": "FA007",
+        "role": "buried",
+        "note": "His boat is sent down the Anduin over the falls of Rauros."
+      }
+    ],
+    "related": [
+      "person:denethor-ii",
+      "person:faramir",
+      "person:aragorn",
+      "person:frodo-baggins",
+      "person:meriadoc-brandybuck",
+      "person:peregrin-took",
+      "thing:horn-of-gondor"
+    ],
+    "sources": [
+      "The Lord of the Rings"
+    ],
+    "confidence": "high",
+    "series": "",
+    "offmap": []
+  },
+  {
+    "id": "person:bilbo-baggins",
+    "title": "Bilbo Baggins",
+    "group": "Hobbits",
+    "kind": "Hobbit burglar, finder of the Ring",
+    "aka": [
+      "Burglar",
+      "Ringwinner",
+      "Elf-friend",
+      "Barrel-rider"
+    ],
+    "blurb": "A hobbit of Bag End who joined Thorin's quest to Erebor and found the One Ring.",
+    "book": "Bilbo was born on 22 September T.A. 2890, the son of Bungo Baggins and Belladonna Took. He lived quietly at Bag End until Gandalf and thirteen Dwarves arrived in T.A. 2941. Gandalf chose him as the burglar for Thorin's company.\n\nOn the road he met the trolls, was welcomed in Rivendell, and was lost in the goblin tunnels. There he found a ring and won a riddle contest against Gollum. Escaping, he reached Beorn, crossed Mirkwood, freed the Dwarves from the Elvenking's cells, and entered Erebor to speak with Smaug.\n\nHe took the Arkenstone from the hoard and gave it to Bard in hope of peace. He took part in the Battle of Five Armies and came home to the Shire in T.A. 2942 with a small fortune.\n\nIn T.A. 3001 Bilbo held a great party for his eleventy-first birthday. He then left the Shire and handed the Ring to Frodo. He lived in Rivendell and wrote his memoirs. He joined Frodo and Gandalf on the ship at the Grey Havens in T.A. 3021.",
+    "film": "Played by Martin Freeman as a younger hobbit and Ian Holm as an older one. The Hobbit films add Radagast, Azog's pursuit and the White Council scenes.",
+    "facts": {
+      "Race": "Hobbit",
+      "Born": "T.A. 2890",
+      "Parents": "Bungo Baggins and Belladonna Took",
+      "Realm or home": "Bag End, Hobbiton; later Rivendell",
+      "Weapon or steed": "Sting"
+    },
+    "places": [
+      {
+        "id": "BU030",
+        "role": "lived",
+        "note": "Lives at Bag End and is recruited by Gandalf and the Dwarves in T.A. 2941."
+      },
+      {
+        "id": "TO084",
+        "role": "travelled",
+        "note": "Rests in Elrond's house on the way to the Lonely Mountain."
+      },
+      {
+        "id": "NP037",
+        "role": "found",
+        "note": "Finds the Ring in a dark tunnel, then wins the riddle game against Gollum by his lake."
+      },
+      {
+        "id": "BU031",
+        "role": "travelled",
+        "note": "Stays in the hall of Beorn with Thorin's company."
+      },
+      {
+        "id": "FO018",
+        "role": "travelled",
+        "note": "Rescues the Dwarves from the spiders and the Wood-elves in Mirkwood."
+      },
+      {
+        "id": "TO053",
+        "role": "travelled",
+        "note": "Arrives in Lake-town in a barrel with the company."
+      },
+      {
+        "id": "TO051",
+        "role": "other",
+        "note": "Speaks with Smaug and takes the Arkenstone in the Lonely Mountain."
+      },
+      {
+        "id": "battle:five-armies",
+        "role": "fought",
+        "note": "Wears the Ring in the battle and is struck down."
+      },
+      {
+        "id": "TO043",
+        "role": "other",
+        "note": "Sails from the Grey Havens in T.A. 3021."
+      }
+    ],
+    "offmap": [
+      {
+        "name": "Valinor",
+        "role": "other",
+        "note": "Sails into the West with Frodo and Gandalf."
+      }
+    ],
+    "related": [
+      "person:frodo-baggins",
+      "person:gandalf",
+      "person:gollum",
+      "person:thorin-oakenshield",
+      "person:smaug",
+      "thing:one-ring",
+      "thing:sting",
+      "thing:arkenstone"
+    ],
+    "sources": [
+      "The Hobbit",
+      "The Lord of the Rings",
+      "The Lord of the Rings, Appendix B"
+    ],
+    "confidence": "high",
+    "series": ""
+  },
+  {
+    "id": "person:gollum",
+    "title": "Gollum",
+    "group": "Hobbits",
+    "kind": "Hobbit corrupted by the Ring",
+    "aka": [
+      "Sméagol",
+      "Stinker",
+      "Slinker"
+    ],
+    "blurb": "Sméagol, a river-folk hobbit corrupted by the Ring, who held it for nearly five hundred years and unwittingly destroyed it.",
+    "book": "Sméagol was a hobbit of a Stoor-like river people who lived near the Gladden Fields. His friend Déagol found the One Ring in the Anduin about T.A. 2463. Sméagol murdered him for it, and his people cast him out.\n\nHe hid in the caves of the Misty Mountains, where the Ring lengthened his life and wasted his body. He became Gollum, named for the sound in his throat. Bilbo won the Ring from him in T.A. 2941 during a riddle game.\n\nGollum then left the mountains to find it. Sauron captured him and learned of the Shire. Aragorn caught him in T.A. 3017 and gave him to the Elves of Mirkwood. He escaped from them in T.A. 3018. He followed the Fellowship through Moria and later was caught by Frodo and Sam in the Emyn Muil.\n\nHe swore on the Ring to guide them and led them through the Dead Marshes to the Black Gate and onward to the pass of Cirith Ungol. There he led them to Shelob. At the Cracks of Doom he bit the Ring from Frodo's hand and fell into the fire with it on 25 March T.A. 3019.",
+    "film": "Played by Andy Serkis. The films show Sméagol and Gollum as two voices arguing in one mind, and Gollum's lies about Sam are central to the stairs of Cirith Ungol. The Hobbit films show the riddle game in full.",
+    "facts": {
+      "Race": "Hobbit (of the Stoor kind)",
+      "Died": "T.A. 3019",
+      "Realm or home": "Gladden Fields; later the Misty Mountains",
+      "Kind": "Hobbit, long possessed by the Ring"
+    },
+    "places": [
+      {
+        "id": "SW006",
+        "role": "other",
+        "note": "Kills his friend Déagol after the Ring is found in the river nearby."
+      },
+      {
+        "id": "NP037",
+        "role": "lived",
+        "note": "Lives for centuries on an island in a lake under the Misty Mountains."
+      },
+      {
+        "id": "realm:mordor",
+        "role": "other",
+        "note": "Captured and questioned in Mordor, then let go in T.A. 3017."
+      },
+      {
+        "id": "TO031",
+        "role": "other",
+        "note": "Held captive in the halls of the Elvenking until he escapes."
+      },
+      {
+        "id": "HI022",
+        "role": "other",
+        "note": "Caught by Frodo and Sam in the Emyn Muil and bound to a promise."
+      },
+      {
+        "id": "SW002",
+        "role": "travelled",
+        "note": "Guides the hobbits across the Dead Marshes."
+      },
+      {
+        "id": "CA013",
+        "role": "other",
+        "note": "Leads the hobbits to the lair of Shelob."
+      },
+      {
+        "id": "BU036",
+        "role": "died",
+        "note": "Bites off Frodo's finger and falls into the fire with the Ring."
+      }
+    ],
+    "related": [
+      "person:deagol",
+      "person:frodo-baggins",
+      "person:samwise-gamgee",
+      "person:bilbo-baggins",
+      "person:shelob",
+      "thing:one-ring"
+    ],
+    "sources": [
+      "The Lord of the Rings",
+      "The Hobbit",
+      "The Lord of the Rings, Appendix B"
+    ],
+    "confidence": "high",
+    "series": "",
+    "offmap": []
+  },
+  {
+    "id": "person:deagol",
+    "title": "Déagol",
+    "group": "Hobbits",
+    "kind": "River hobbit, finder of the Ring",
+    "aka": [],
+    "blurb": "Sméagol's friend, who found the One Ring in the river and was killed for it.",
+    "book": "Déagol was a hobbit of the same river people as Sméagol, who lived near the Gladden Fields on the Anduin. The two were close friends. About T.A. 2463, on Sméagol's birthday, they went fishing together.\n\nA large fish pulled Déagol from his boat, and at the bottom of the river he saw something golden. He picked it up and found the One Ring. Sméagol demanded it as a birthday gift. Déagol refused, and Sméagol strangled him and took the Ring.\n\nHis body was hidden, and no one found it. His people did not know what had happened to him.",
+    "film": "Played by Thomas Robins. The prologue of The Return of the King shows the fishing trip and the murder.",
+    "facts": {
+      "Race": "Hobbit (of the Stoor kind)",
+      "Realm or home": "Gladden Fields, by the Anduin",
+      "Kind": "Hobbit"
+    },
+    "places": [
+      {
+        "id": "SW006",
+        "role": "found",
+        "note": "Finds the One Ring in the river and is murdered by Sméagol."
+      }
+    ],
+    "related": [
+      "person:gollum",
+      "thing:one-ring",
+      "person:bilbo-baggins"
+    ],
+    "sources": [
+      "The Lord of the Rings, Book I"
+    ],
+    "confidence": "high",
+    "series": "",
+    "offmap": []
+  },
+  {
+    "id": "person:bill-the-pony",
+    "title": "Bill the pony",
+    "group": "Creatures",
+    "kind": "Pony of the Fellowship, loyal beast",
+    "aka": [
+      "Bill"
+    ],
+    "blurb": "A pony the hobbits bought from Bill Ferny in Bree, which carried the Fellowship's packs to Moria.",
+    "book": "Bill was a pony kept by Bill Ferny, a rogue of Bree, who treated him badly. He was thin and ill-fed. The hobbits bought him in Bree in the autumn of T.A. 3018 to carry the load, and Sam became fond of him.\n\nBill traveled with the Fellowship from Rivendell over the mountains and past Hollin. Ponies could not go through Moria. At the Doors of Durin, Gandalf took off his load and set him free, to Sam's grief. When the Watcher in the Water attacked, the pony fled. He found his way back to Bree.\n\nWhen the hobbits returned in T.A. 3019, they found Bill in Bree, healthy and well fed. Sam took him back and kept him.",
+    "film": "Appears in The Fellowship of the Ring, where Sam leads him into the mountains and sends him away at the lake before the doors of Moria.",
+    "facts": {
+      "Kind": "Pony"
+    },
+    "places": [
+      {
+        "id": "TO011",
+        "role": "other",
+        "note": "Bought from Bill Ferny in Bree; Sam later finds him there again."
+      },
+      {
+        "id": "DO009",
+        "role": "lost",
+        "note": "Set free at the Doors of Durin; he flees when the Watcher in the Water attacks."
+      }
+    ],
+    "related": [
+      "person:samwise-gamgee",
+      "person:bill-ferny",
+      "person:frodo-baggins"
+    ],
+    "sources": [
+      "The Lord of the Rings"
+    ],
+    "confidence": "high",
+    "series": "",
+    "offmap": []
+  },
+  {
+    "id": "person:shadowfax",
+    "title": "Shadowfax",
+    "group": "Creatures",
+    "kind": "Chief of the Mearas, Gandalf's horse",
+    "aka": [
+      "Lord of all Horses"
+    ],
+    "blurb": "The greatest of the Mearas, the horses of Rohan, who became the steed of Gandalf.",
+    "book": "Shadowfax was the chief of the Mearas, the great horses of the kings of Rohan. He was silver-grey and swifter than any other horse in Middle-earth. No Man had tamed him.\n\nAfter Gandalf escaped from Orthanc, he came to Edoras. Théoden told him to take any horse and be gone. Gandalf chose Shadowfax, and the horse carried him from then on.\n\nShadowfax later came to Gandalf's call near Fangorn. He bore Gandalf to the Hornburg and then to Minas Tirith with Pippin before him. He carried Gandalf in the defence of the city and to the Black Gate.",
+    "film": "Shadowfax appears in the films as a white horse, and Gandalf calls him to his side after his return. In the films Gandalf rides him with Pippin to Minas Tirith.",
+    "facts": {
+      "Kind": "Horse of the Mearas",
+      "Realm or home": "Rohan"
+    },
+    "places": [
+      {
+        "id": "TO029",
+        "role": "other",
+        "note": "Gandalf chooses him from the horses of Rohan after Théoden offers any steed."
+      },
+      {
+        "id": "battle:hornburg",
+        "role": "other",
+        "note": "Carries Gandalf to the Hornburg at dawn with Erkenbrand and his men."
+      },
+      {
+        "id": "battle:pelennor",
+        "role": "fought",
+        "note": "Carries Gandalf in the defence of Minas Tirith."
+      }
+    ],
+    "related": [
+      "person:gandalf",
+      "person:theoden",
+      "person:peregrin-took",
+      "person:saruman",
+      "person:snowmane"
+    ],
+    "sources": [
+      "The Lord of the Rings"
+    ],
+    "confidence": "high",
+    "series": "",
+    "offmap": []
+  },
+  {
+    "id": "person:shelob",
+    "title": "Shelob",
+    "group": "Creatures",
+    "kind": "Great spider of Cirith Ungol",
+    "aka": [
+      "Her Ladyship"
+    ],
+    "blurb": "A huge spider who guarded the pass of Cirith Ungol and stung Frodo in T.A. 3019.",
+    "book": "Shelob was a giant spider, the last child of Ungoliant to trouble the world. She came from the ruin of Beleriand and made her lair in the mountains on the western edge of Mordor. She dwelt there before Sauron came, and she served no one. Sauron let her be, because she guarded the pass.\n\nGollum led Frodo and Sam to her in T.A. 3019. He hoped she would kill them and leave him the Ring. She stung Frodo and bound him in her cords. Sam fought her with Sting and the Phial of Galadriel. She drove herself onto the sword and fled back into her lair.\n\nOrcs from the nearby tower found Frodo and took him. The books do not say what became of Shelob.",
+    "film": "Appears in The Return of the King. In the film she stings Frodo outside her tunnels, and Sam fights her off.",
+    "facts": {
+      "Kind": "Giant spider",
+      "Parents": "Ungoliant (mother)",
+      "Realm or home": "Cirith Ungol"
+    },
+    "places": [
+      {
+        "id": "CA013",
+        "role": "lived",
+        "note": "Hunts in her lair beneath the pass of Cirith Ungol."
+      },
+      {
+        "id": "VA034",
+        "role": "fought",
+        "note": "Stings Frodo in the pass and is driven back by Sam."
+      }
+    ],
+    "related": [
+      "person:ungoliant",
+      "person:frodo-baggins",
+      "person:samwise-gamgee",
+      "person:gollum",
+      "thing:sting",
+      "thing:phial-of-galadriel"
+    ],
+    "sources": [
+      "The Lord of the Rings, Book IV",
+      "The Silmarillion"
+    ],
+    "confidence": "high",
+    "series": "",
+    "offmap": []
+  },
+  {
+    "id": "person:durins-bane",
+    "title": "Durin's Bane",
+    "group": "Creatures",
+    "kind": "Balrog of Moria, Maia spirit of fire",
+    "aka": [
+      "The Balrog of Moria",
+      "Flame of Udûn"
+    ],
+    "blurb": "The Balrog of Moria, a fire demon of Morgoth woken by Dwarves and slain by Gandalf on Celebdil.",
+    "book": "Durin's Bane was a Balrog, one of the fire spirits who served Morgoth. It survived the War of Wrath and hid beneath the Misty Mountains. It slept under Khazad-dûm for many ages.\n\nDwarves mining mithril woke it in T.A. 1980. It killed Durin VI in that year and his son Náin in T.A. 1981. The Dwarves fled and Moria stayed empty for ages.\n\nIn T.A. 3019 the Fellowship passed through Moria. The Balrog came to the Bridge of Khazad-dûm, and Gandalf broke the bridge under it. The Balrog's whip drew Gandalf down with it, and they fought through deep places to the peak of Celebdil. Gandalf destroyed the Balrog, and it fell down the mountain.",
+    "film": "In The Fellowship of the Ring the Balrog is a huge winged shape of flame and shadow. Gandalf breaks the bridge beneath it.",
+    "facts": {
+      "Race": "Balrog (Maia)",
+      "Realm or home": "Khazad-dûm",
+      "Kind": "Balrog"
+    },
+    "places": [
+      {
+        "id": "TO066",
+        "role": "lived",
+        "note": "Dwells under Khazad-dûm after it is woken in T.A. 1980."
+      },
+      {
+        "id": "BR003",
+        "role": "fought",
+        "note": "Meets Gandalf on the Bridge of Khazad-dûm and falls."
+      },
+      {
+        "id": "MT007",
+        "role": "died",
+        "note": "Dies on the peak of Celebdil after a long fight with Gandalf."
+      }
+    ],
+    "related": [
+      "person:gandalf",
+      "person:durin-vi",
+      "person:nain",
+      "person:morgoth"
+    ],
+    "sources": [
+      "The Lord of the Rings",
+      "The Lord of the Rings, Appendix A"
+    ],
+    "confidence": "high",
+    "series": "",
+    "offmap": []
+  },
+  {
+    "id": "person:treebeard",
+    "title": "Treebeard",
+    "group": "Creatures",
+    "kind": "Eldest Ent, Shepherd of Trees",
+    "aka": [
+      "Fangorn",
+      "Shepherd of the Trees"
+    ],
+    "blurb": "Fangorn, the eldest Ent, who guarded the forest and led the Ents against Isengard.",
+    "book": "Treebeard was the eldest of the Ents. His Elvish name was Fangorn, and the forest bore that name. The Ents were shepherds of the trees, and he was among the oldest living things of Middle-earth.\n\nHe had lost the Entwives long ago and still searched for them. When Saruman's Orcs cut down the trees of Fangorn, he grew angry. Merry and Pippin escaped the Orcs and met him in T.A. 3019. He carried them to his house at Wellinghall.\n\nAt an Entmoot in Derndingle the Ents decided to march. Treebeard led them to Isengard, tore down its walls and flooded the valley. Saruman remained in Orthanc until Gandalf arrived.\n\nTreebeard later released Saruman from Orthanc. The Ents then planted the Treegarth of Orthanc where the ring of Isengard had stood.",
+    "film": "Voiced by John Rhys-Davies. In The Two Towers the Ents hesitate until Pippin leads them to see the burnt trees, then Treebeard orders the attack on Isengard.",
+    "facts": {
+      "Kind": "Ent",
+      "Realm or home": "Fangorn Forest"
+    },
+    "places": [
+      {
+        "id": "FO012",
+        "role": "lived",
+        "note": "Lives in the forest that carries his name."
+      },
+      {
+        "id": "BU086",
+        "role": "lived",
+        "note": "Brings Merry and Pippin to his house and gives them Ent-draughts."
+      },
+      {
+        "id": "FI005",
+        "role": "other",
+        "note": "Holds the Entmoot at Derndingle."
+      },
+      {
+        "id": "battle:ents-of-isengard",
+        "role": "fought",
+        "note": "Leads the Ents in the destruction of Isengard."
+      },
+      {
+        "id": "BU021",
+        "role": "other",
+        "note": "Keeps Saruman in Orthanc and later releases him."
+      },
+      {
+        "id": "FO032",
+        "role": "made",
+        "note": "Plants the Treegarth of Orthanc after Saruman leaves."
+      }
+    ],
+    "related": [
+      "person:quickbeam",
+      "person:skinbark",
+      "person:meriadoc-brandybuck",
+      "person:peregrin-took",
+      "person:saruman",
+      "person:gandalf"
+    ],
+    "sources": [
+      "The Lord of the Rings, Book III",
+      "The Lord of the Rings, Book VI"
+    ],
+    "confidence": "high",
+    "series": "",
+    "offmap": []
+  },
+  {
+    "id": "person:quickbeam",
+    "title": "Quickbeam",
+    "group": "Creatures",
+    "kind": "Young Ent of Fangorn",
+    "aka": [
+      "Bregalad"
+    ],
+    "blurb": "A young and hasty Ent who guarded Merry and Pippin and joined the attack on Isengard.",
+    "book": "Quickbeam was an Ent known in Elvish as Bregalad. He was young among the Ents and quick in speech and in action. He loved rowan trees and was devastated when the Orcs cut them down.\n\nHe met Merry and Pippin at the Entmoot in Derndingle. Treebeard introduced them. Quickbeam later took part in the Ents' march on Isengard, where the Ents broke the walls and flooded the valley.",
+    "facts": {
+      "Kind": "Ent",
+      "Realm or home": "Fangorn Forest"
+    },
+    "places": [
+      {
+        "id": "FI005",
+        "role": "other",
+        "note": "Attends the Entmoot at Derndingle and is eager for war."
+      },
+      {
+        "id": "battle:ents-of-isengard",
+        "role": "fought",
+        "note": "Joins the march and the assault on Isengard."
+      }
+    ],
+    "related": [
+      "person:treebeard",
+      "person:skinbark",
+      "person:meriadoc-brandybuck",
+      "person:peregrin-took"
+    ],
+    "sources": [
+      "The Lord of the Rings, Book III"
+    ],
+    "confidence": "high",
+    "film": "",
+    "series": "",
+    "offmap": []
+  },
+  {
+    "id": "person:skinbark",
+    "title": "Skinbark",
+    "group": "Creatures",
+    "kind": "Elder Ent of Fangorn",
+    "aka": [
+      "Fladrif"
+    ],
+    "blurb": "One of the eldest Ents, wounded by the Orcs of Isengard.",
+    "book": "Skinbark was an Ent called Fladrif in Elvish. He was among the eldest Ents and a friend of Treebeard. Orcs of Isengard wounded him in Saruman's war on the forest, and he took refuge on the higher slopes of the mountains.",
+    "facts": {
+      "Kind": "Ent",
+      "Realm or home": "Fangorn Forest"
+    },
+    "places": [
+      {
+        "id": "FO012",
+        "role": "lived",
+        "note": "Dwells among the Ents of Fangorn Forest."
+      }
+    ],
+    "related": [
+      "person:treebeard",
+      "person:quickbeam",
+      "person:saruman"
+    ],
+    "sources": [
+      "The Lord of the Rings, Book III"
+    ],
+    "confidence": "high",
+    "film": "",
+    "series": "",
+    "offmap": []
+  },
+  {
+    "id": "person:ugluk",
+    "title": "Uglúk",
+    "group": "Enemies",
+    "kind": "Uruk-hai captain of Isengard",
+    "aka": [
+      "Uglúk of Isengard"
+    ],
+    "blurb": "Captain of Saruman's Uruk-hai who captured Merry and Pippin and was slain by Éomer.",
+    "book": "Uglúk was the captain of the Uruk-hai that Saruman sent to Amon Hen. His Orcs killed Boromir and seized Merry and Pippin to take them to Isengard. His band also held Northern Orcs and Mordor Orcs under Grishnákh.\n\nUglúk quarrelled with Grishnákh and the Northern Orcs over where to take the captives. He drove the band hard across Rohan toward Isengard.\n\nÉomer's Riders surrounded the Orcs near the edge of Fangorn Forest. In the night Merry and Pippin escaped into the forest. At dawn the Riders attacked and destroyed the band, and Éomer slew Uglúk.",
+    "facts": {
+      "Race": "Orc (Uruk-hai)",
+      "Realm or home": "Isengard"
+    },
+    "places": [
+      {
+        "id": "FI021",
+        "role": "fought",
+        "note": "Leads the Uruk-hai who kill Boromir and seize the two hobbits."
+      },
+      {
+        "id": "realm:rohan",
+        "role": "travelled",
+        "note": "Drives his band across Rohan toward Isengard with the captives."
+      },
+      {
+        "id": "FO012",
+        "role": "died",
+        "note": "Is killed by Éomer at the edge of Fangorn Forest."
+      }
+    ],
+    "related": [
+      "person:grishnakh",
+      "person:saruman",
+      "person:eomer",
+      "person:boromir",
+      "person:meriadoc-brandybuck",
+      "person:peregrin-took"
+    ],
+    "sources": [
+      "The Lord of the Rings, Book III"
+    ],
+    "confidence": "high",
+    "film": "Played by Nathaniel Lees in The Two Towers. In the films Lurtz leads the attack at Amon Hen.",
+    "series": "",
+    "offmap": []
+  },
+  {
+    "id": "person:grishnakh",
+    "title": "Grishnákh",
+    "group": "Enemies",
+    "kind": "Orc captain from Mordor",
+    "aka": [
+      "Grishnákh of Mordor"
+    ],
+    "blurb": "An Orc of Mordor who joined the captors of Merry and Pippin and tried to carry them away.",
+    "book": "Grishnákh was an Orc from Mordor, sent with a band to find the Ring. He and his Orcs went with the Uruk-hai of Isengard who took Merry and Pippin. He wanted the hobbits taken east, and he quarrelled with Uglúk.\n\nWhen the Riders surrounded the Orcs, Grishnákh crept away at night with the hobbits. He hoped to find the Ring on them. He was killed by a Rider's spear near the edge of Fangorn. Merry and Pippin escaped in the confusion.",
+    "facts": {
+      "Race": "Orc",
+      "Realm or home": "Mordor"
+    },
+    "places": [
+      {
+        "id": "FO012",
+        "role": "died",
+        "note": "Is slain by a Rider while trying to drag the hobbits away."
+      }
+    ],
+    "related": [
+      "person:ugluk",
+      "person:meriadoc-brandybuck",
+      "person:peregrin-took",
+      "person:eomer"
+    ],
+    "sources": [
+      "The Lord of the Rings, Book III"
+    ],
+    "confidence": "high",
+    "film": "Played by Stephen Ure in The Two Towers.",
+    "series": "",
+    "offmap": []
+  },
+  {
+    "id": "person:shagrat",
+    "title": "Shagrat",
+    "group": "Enemies",
+    "kind": "Orc captain of Cirith Ungol",
+    "aka": [],
+    "blurb": "Orc captain of the Tower of Cirith Ungol who took Frodo's mithril coat.",
+    "book": "Shagrat was the captain of the Orc garrison at the Tower of Cirith Ungol.\n\nIn T.A. 3019 his Orcs and Gorbag's band from Minas Morgul found Frodo after Shelob stung him. They carried him into the tower. The two bands then fought over Frodo's mithril coat. Shagrat killed Gorbag, though he was wounded himself.\n\nShagrat fled with the coat and took it to Barad-dûr. Sam found the tower almost empty and rescued Frodo.",
+    "facts": {
+      "Race": "Orc",
+      "Realm or home": "Tower of Cirith Ungol"
+    },
+    "places": [
+      {
+        "id": "FT025",
+        "role": "lived",
+        "note": "Commands the garrison in the Tower of Cirith Ungol."
+      }
+    ],
+    "related": [
+      "person:gorbag",
+      "person:frodo-baggins",
+      "person:samwise-gamgee",
+      "thing:mithril-coat"
+    ],
+    "sources": [
+      "The Lord of the Rings, Book IV",
+      "The Lord of the Rings, Book VI"
+    ],
+    "confidence": "high",
+    "film": "",
+    "series": "",
+    "offmap": []
+  },
+  {
+    "id": "person:gorbag",
+    "title": "Gorbag",
+    "group": "Enemies",
+    "kind": "Orc captain of Minas Morgul",
+    "aka": [],
+    "blurb": "Orc captain of Minas Morgul who quarrelled with Shagrat over Frodo's mithril coat.",
+    "book": "Gorbag was an Orc captain from Minas Morgul. He and his band came up from Minas Morgul and met Shagrat's Orcs over the body of Frodo. Sam overheard the two captains talk as they carried Frodo.\n\nWhen they reached the tower, the two captains fought over Frodo's mithril coat. Many of their Orcs died. Shagrat killed Gorbag in the quarrel.",
+    "facts": {
+      "Race": "Orc",
+      "Realm or home": "Minas Morgul"
+    },
+    "places": [
+      {
+        "id": "TO064",
+        "role": "lived",
+        "note": "Serves as an Orc captain in Minas Morgul."
+      },
+      {
+        "id": "FT025",
+        "role": "died",
+        "note": "Dies at the Tower of Cirith Ungol in the quarrel over the mithril coat."
+      }
+    ],
+    "related": [
+      "person:shagrat",
+      "person:frodo-baggins",
+      "person:samwise-gamgee",
+      "thing:mithril-coat"
+    ],
+    "sources": [
+      "The Lord of the Rings, Book IV",
+      "The Lord of the Rings, Book VI"
+    ],
+    "confidence": "high",
+    "film": "",
+    "series": "",
+    "offmap": []
+  },
+  {
+    "id": "person:khamul",
+    "title": "Khamûl",
+    "group": "Enemies",
+    "kind": "Easterling Nazgûl, second of the Nine",
+    "aka": [
+      "Black Easterling"
+    ],
+    "blurb": "An Easterling lord who became the second of the Nazgûl, served from Dol Guldur and hunted the Ring in the Shire.",
+    "book": "Khamûl was an Easterling who took one of the Nine Rings and became a Nazgûl. He was second in rank under the Witch-king. In T.A. 2951 Sauron sent him to command Dol Guldur.\n\nIn T.A. 3018 Sauron sent the Nazgûl to find the Ring in the Shire. Khamûl reached Hobbiton and asked Gaffer Gamgee where Baggins lived. He reached the Bucklebury Ferry just after Frodo crossed. The Riders pursued Frodo across Eriador. Khamûl's later fate is shared with the other Nazgûl, who perished when the Ring was destroyed.",
+    "facts": {
+      "Race": "Man (Easterling), then Nazgûl",
+      "Realm or home": "Dol Guldur"
+    },
+    "places": [
+      {
+        "id": "FT008",
+        "role": "lived",
+        "note": "Serves as Sauron's lieutenant in Dol Guldur."
+      },
+      {
+        "id": "TO050",
+        "role": "travelled",
+        "note": "Comes to Hobbiton in September T.A. 3018 seeking the Ring."
+      },
+      {
+        "id": "NP002",
+        "role": "travelled",
+        "note": "Reaches the ferry just after Frodo and his friends cross the Brandywine."
+      }
+    ],
+    "related": [
+      "person:witch-king",
+      "person:sauron",
+      "thing:nine-rings",
+      "person:hamfast-gamgee"
+    ],
+    "sources": [
+      "Unfinished Tales",
+      "The Lord of the Rings"
+    ],
+    "confidence": "medium",
+    "film": "",
+    "series": "",
+    "offmap": []
+  }
+]

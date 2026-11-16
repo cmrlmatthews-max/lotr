@@ -25,7 +25,10 @@ const S = {
 };
 const LAYER_GROUP = { Towns: 'settle', Harbors: 'settle', Fortresses: 'strong', Doors_Gates: 'strong', Walls: 'strong', Buildings: 'landmark', Bridges: 'landmark', Fords: 'landmark', Cave_entrances: 'landmark', Falls: 'landmark', Graves_Tombs: 'landmark', Mountains: 'relief', Mountains_of_Moria: 'relief', Hills: 'relief', Valleys: 'relief', Fields: 'relief', Islands: 'relief', Forests: 'woods', Swamps: 'woods', Rivers: 'water', Lakes: 'water', Bays: 'water', Roads: 'roads' };
 const LAYER_CLASS = { Towns: 'pt town', Harbors: 'pt town', Fortresses: 'pt fort', Doors_Gates: 'pt fort', Buildings: 'pt bld', Bridges: 'pt bld', Fords: 'pt bld', Cave_entrances: 'pt bld', Falls: 'pt bld', Graves_Tombs: 'pt bld', Walls: 'ar road', Mountains: 'ar mtn', Mountains_of_Moria: 'ar mtn', Hills: 'ar hill', Valleys: 'ar hill', Fields: 'ar hill', Islands: 'ar hill', Forests: 'ar wood', Swamps: 'ar wood', Rivers: 'ar water', Lakes: 'ar water', Bays: 'ar water', Roads: 'ar road' };
-const TYPE_NAME = { place: 'Place', realm: 'Realm', people: 'People', battle: 'Battle', journey: 'Journey' };
+const TYPE_NAME = { place: 'Place', realm: 'Realm', people: 'People', battle: 'Battle', journey: 'Journey', person: 'Person', thing: 'Thing' };
+const ROLE_NAME = { born: 'Born', lived: 'Lived', ruled: 'Ruled', travelled: 'Travelled', fought: 'Fought', died: 'Died', buried: 'Buried', made: 'Made', kept: 'Kept', found: 'Found', lost: 'Lost', destroyed: 'Destroyed', other: 'Linked' };
+const LINKED = new Map();   // map item id -> role, for the person or thing in view
+const isLore = it => it && (it.type === 'person' || it.type === 'thing');
 
 /* ---------- art (Gemini drawings prepared by art/process.py) ---------- */
 const ART = D.art || {}, artImg = {};
@@ -282,11 +285,11 @@ function rankVisible(L, dl) {
   if (L.group === 'battles') return L.rank === 1 ? dl < 3200 : L.rank === 2 ? dl < 1300 : dl < 600;
   return L.rank === 1 ? dl < 3400 : L.rank === 2 ? dl < 950 : dl < 340;
 }
-const _v = new THREE.Vector3(); let vw = 1, vh = 1; const placed = [], placedR = [];
+const _v = new THREE.Vector3(); let vw = 1, vh = 1; const placed = [], placedR = [], placedL = [];
 function updateLabels() {
-  placed.length = 0; placedR.length = 0; const cp = camera.position;
+  placed.length = 0; placedR.length = 0; placedL.length = 0; const cp = camera.position;
   const one = L => {
-    const sel = L.item.id === S.sel; let show = sel || (S.layers[L.group] && !(S.journey && L.group === 'battles')), sx = 0, sy = 0;
+    const lk = LINKED.get(L.item.id), sel = L.item.id === S.sel || !!lk; let show = sel || (S.layers[L.group] && !(S.journey && L.group === 'battles')), sx = 0, sy = 0;
     if (show) {
       _v.set(L.wx, L.hy * EX, L.wz); const dl = _v.distanceTo(cp);
       show = sel || rankVisible(L, dl);
@@ -297,17 +300,23 @@ function updateLabels() {
           sx = (_v.x * 0.5 + 0.5) * vw; sy = (-_v.y * 0.5 + 0.5) * vh;
           const x0 = L.pt ? sx - 6 : sx - L.w / 2 - 3, x1 = L.pt ? sx + 10 + L.w : sx + L.w / 2 + 3, y0 = sy - L.h / 2 - 1, y1 = sy + L.h / 2 + 1;
           const pool = L.group === 'realms' ? placedR : placed;
+          let mini = false;
           if (!sel) for (let k = 0; k < pool.length; k += 4) if (x0 < pool[k + 2] && x1 > pool[k] && y0 < pool[k + 3] && y1 > pool[k + 1]) { show = false; break; }
+          if (lk && L.item.id !== S.sel) for (let k = 0; k < placedL.length; k += 4) if (x0 < placedL[k + 2] && x1 > placedL[k] && y0 - 12 < placedL[k + 3] && y1 > placedL[k + 1]) { mini = true; break; }
+          if (lk && !mini) placedL.push(x0, y0 - 12, x1, y1);
+          if (L.mini !== mini) { L.mini = mini; L.el.classList.toggle('mini', mini); }
           if (show) { pool.push(x0, y0, x1, y1); L.rect = [x0, y0 - 3, x1, y1 + 3]; }
         }
       }
     }
     if (show) L.el.style.transform = `translate(${sx.toFixed(1)}px,${sy.toFixed(1)}px)`;
     if (show !== L.on) { L.on = show; L.el.classList.toggle('on', show); }
-    L.el.classList.toggle('sel', sel);
+    L.el.classList.toggle('sel', L.item.id === S.sel); L.el.classList.toggle('linked', !!lk);
+    if (L.role !== lk) { L.role = lk; if (lk) L.el.dataset.role = lk === 'other' ? '' : (ROLE_NAME[lk] || ''); else delete L.el.dataset.role; }
   };
   for (const L of labels) if (L.item.id === S.sel) one(L);
-  for (const L of labels) if (L.item.id !== S.sel) one(L);
+  for (const L of labels) if (L.item.id !== S.sel && LINKED.has(L.item.id)) one(L);
+  for (const L of labels) if (L.item.id !== S.sel && !LINKED.has(L.item.id)) one(L);
 }
 function project(x, y, lift = 0) { _v.set(wx(x), (hAt(x, y) + lift) * EX, wz(y)).project(camera); return _v.z > 1 || _v.z < -1 ? null : [(_v.x * 0.5 + 0.5) * vw, (-_v.y * 0.5 + 0.5) * vh]; }
 
@@ -423,6 +432,8 @@ function renderCard(it) {
   if (it.date || it.dates) h += `<div class="date">${esc(it.date || it.dates)}${it.war ? ' &middot; ' + esc(it.war) : ''}</div>`;
   if (it.travellers) h += `<div class="date">${esc(it.travellers)} &middot; <em>${esc(it.source || '')}</em></div>`;
   if (it.art && ART[it.art] && ART[it.art].card) h += `<img class="cardart" alt="" src="${ART[it.art].card}">`;
+  if (S.ctx && ITEMS[S.ctx] && S.ctx !== it.id) h = h.replace('<div class="kind">', `<a class="back" data-go="${esc(S.ctx)}">&larr; Back to ${esc(ITEMS[S.ctx].title)}</a><div class="kind">`);
+  if (it.aka && it.aka.length) h += `<div class="date">Also: ${it.aka.map(esc).join(' &middot; ')}</div>`;
   if (it.blurb) h += `<p class="blurb">${esc(it.blurb)}</p>`;
   if (it.names && Object.keys(it.names).length) h += `<div class="names">${Object.entries(it.names).map(([k, v]) => `<span><b>${esc(k)}</b> ${esc(v)}</span>`).join('')}</div>`;
   if (it.sides) h += `<div class="sides"><div><b>Victor / defender</b>${it.sides.a.map(esc).join('<br>')}</div><div><b>Opponent</b>${it.sides.b.map(esc).join('<br>')}</div></div>${it.outcome ? `<p class="outcome"><b>Outcome.</b> ${esc(it.outcome)}</p>` : ''}`;
@@ -432,16 +443,46 @@ function renderCard(it) {
   if (it.facts && Object.keys(it.facts).length) h += `<dl class="facts">${Object.entries(it.facts).map(([k, v]) => `<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join('')}</dl>`;
   if (it.type === 'journey') h += `<h4>Stages</h4><ol class="stages">${it.stages.map((s, i) => `<li data-stage="${i}"><b>${esc(s.title)}</b>${s.date ? `<span class="sd">${esc(s.date)}</span>` : ''}<div>${esc(s.note)}</div>${s.film && S.src.film ? `<div class="sf"><span class="tag f">Film</span> ${esc(s.film)}</div>` : ''}</li>`).join('')}</ol>`;
   const list = (title, ids) => { const c = (ids || []).map(chip).join(''); return c ? `<h4>${title}</h4><div class="chips">${c}</div>` : ''; };
+  if (isLore(it)) {
+    const rows = (it.places || []).filter(p => ITEMS[p.id]).map(p => { const t = ITEMS[p.id], ln = D.lands.find(l => l.id === t.land); return `<li><span class="role">${esc(ROLE_NAME[p.role] || 'Linked')}</span><a class="chip" data-go="${esc(p.id)}">${esc(t.title)}</a>${LAND && t.land !== LAND.id && ln ? `<span class="onsheet">${esc(ln.name)}</span>` : ''}${p.note ? `<div>${esc(p.note)}</div>` : ''}</li>`; }).join('');
+    const off = (it.offmap || []).map(p => `<li><span class="role">${esc(ROLE_NAME[p.role] || 'Linked')}</span><b>${esc(p.name)}</b>${p.note ? `<div>${esc(p.note)}</div>` : ''}</li>`).join('');
+    if (rows) h += `<h4>Places on the map</h4><ul class="links">${rows}</ul>`;
+    if (off) h += `<h4>Places not on these sheets</h4><ul class="links off">${off}</ul>`;
+  }
+  const lore = (it.linked || []).filter(id => ITEMS[id]);
+  if (lore.length) { const pp = lore.filter(id => ITEMS[id].type === 'person'), tt = lore.filter(id => ITEMS[id].type === 'thing'); h += list('People linked to this place', pp) + list('Things linked to this place', tt); }
   h += list('Peoples', it.peoples) + list('Lands', it.realms) + list('See also', it.related);
   if (it.sources && it.sources.length) h += `<p class="sources"><b>Where to read:</b> ${it.sources.map(esc).join('; ')}</p>`;
   h += `<p class="conf c-${esc(it.confidence || 'medium')}">Confidence: ${esc(it.confidence || 'medium')}${it.confidence === 'high' ? '' : '. Check this card against the books.'}</p>`;
   card.innerHTML = h; card.scrollTop = 0; card.classList.add('open');
 }
-function select(id, fly = true) {
+function loreLand(it) {   // the sheet that shows most of the linked places; the current sheet wins a tie
+  const n = {}; for (const p of it.places || []) { const t = ITEMS[p.id]; if (t && t.land) n[t.land] = (n[t.land] || 0) + 1; }
+  let best = LAND ? LAND.id : null, bn = best ? (n[best] || 0) : -1; for (const [k, v] of Object.entries(n)) if (v > bn) { best = k; bn = v; }
+  return best;
+}
+function setLinks(it) {
+  LINKED.clear();
+  if (it) for (const p of it.places || []) { const t = ITEMS[p.id]; if (t && t.x != null && t.land === LAND.id && !LINKED.has(p.id)) LINKED.set(p.id, p.role || 'other'); }
+  dirty = true;
+}
+function frameLinks() {
+  const ps = [...LINKED.keys()].map(id => ITEMS[id]); if (!ps.length) return;
+  let x0 = 1e9, x1 = -1e9, y0 = 1e9, y1 = -1e9; for (const t of ps) { x0 = Math.min(x0, t.x); x1 = Math.max(x1, t.x); y0 = Math.min(y0, t.y); y1 = Math.max(y1, t.y); }
+  flyTo((x0 + x1) / 2, (y0 + y1) / 2, clamp(Math.max((x1 - x0) * 2.35, (y1 - y0) * 2.7) + 280, 300, Math.max(W, H * 1.13) * 1.5));
+}
+function select(id, fly = true, keep = false) {
   const it = ITEMS[id]; if (!it) return;
-  if (LAND && it.land !== LAND.id) { setLand(it.land).then(() => select(id, fly)); return; }
-  if (it.type === 'journey') { startJourney(id); return; }
+  if (isLore(it)) {
+    const ld = loreLand(it); if (LAND && ld && ld !== LAND.id) { setLand(ld).then(() => select(id, fly)); return; }
+    if (J) stopJourney();
+    S.sel = id; S.ctx = id; renderCard(it); setHighlight(null); setLinks(it); if (fly) frameLinks(); dirty = true; return;
+  }
+  if (!(keep && S.ctx && ITEMS[S.ctx])) S.ctx = null;
+  if (LAND && it.land !== LAND.id) { setLand(it.land).then(() => select(id, fly, keep)); return; }
+  if (it.type === 'journey') { S.ctx = null; setLinks(null); startJourney(id); return; }
   if (it.type !== 'journey' && J && !(it.type === 'place' || it.type === 'battle')) stopJourney();
+  setLinks(S.ctx ? ITEMS[S.ctx] : null);
   S.sel = id; renderCard(it); setHighlight(it);
   if (fly && it.x != null) {
     const d = it.type === 'realm' ? clamp((it.radius || 200) * 4.2, 320, 2200) : it.type === 'battle' ? 200 : it.area ? clamp(Math.sqrt(it.area) * 5, 90, 1500) : /Rivers|Roads/.test(it.layer) ? 420 : (it.tier === 1 ? 170 : 110);
@@ -449,11 +490,11 @@ function select(id, fly = true) {
   } else if (fly && it.type === 'people' && it.realms && ITEMS[it.realms[0]]) { const r = ITEMS[it.realms[0]]; flyTo(r.x, r.y, 900); }
   dirty = true;
 }
-function closeCard() { card.classList.remove('open'); S.sel = null; setHighlight(null); dirty = true; }
+function closeCard() { card.classList.remove('open'); S.sel = null; S.ctx = null; setLinks(null); setHighlight(null); dirty = true; }
 card.addEventListener('click', e => {
   const t = e.target.closest('[data-go],[data-close],[data-stage]'); if (!t) return;
   if (t.dataset.close !== undefined) { J ? stopJourney() : closeCard(); }
-  else if (t.dataset.go) select(t.dataset.go);
+  else if (t.dataset.go) select(t.dataset.go, true, !!S.ctx);
   else if (t.dataset.stage !== undefined && J) gotoStage(+t.dataset.stage, true);
 });
 function hitLabel(x, y) {
@@ -538,6 +579,7 @@ function stepJourney(dt) {
 }
 
 /* ---------- side panel, search ---------- */
+const GROUP_ORDER = ['Hobbits', 'Men', 'Elves', 'Dwarves', 'Wizards and Maiar', 'Valar', 'Enemies', 'Creatures', 'Rings', 'Jewels', 'Weapons and armour', 'Seeing-stones', 'Ships', 'Books and heirlooms', 'Trees, plants and substances', 'Other'];
 function buildPanel() {
   const by = t => Object.values(ITEMS).filter(i => i.type === t && i.land === LAND.id);
   $('#journeys').innerHTML = by('journey').map(j => `<button data-go="${esc(j.id)}"><b>${esc(j.title)}</b><span>${esc(j.travellers || '')}</span></button>`).join('') || '<p class="muted">No journeys loaded.</p>';
@@ -546,7 +588,13 @@ function buildPanel() {
   $('#battlelist').innerHTML = bs.map(b => `<a data-go="${esc(b.id)}"><span>${esc((b.date || '').replace(/,.*/, ''))}</span>${esc(b.title)}</a>`).join('');
   const rs = by('realm').sort((a, b) => a.title.localeCompare(b.title));
   $('#realmlist').innerHTML = rs.map(r => `<a class="chip" data-go="${esc(r.id)}">${esc(r.title)}</a>`).join('');
-  $('#counts').textContent = `${by('place').length} places · ${rs.length} realms · ${by('people').length} peoples · ${bs.length} battles · ${by('journey').length} journeys`;
+  if (!$('#personlist').dataset.done) {
+    const groups = (type, el) => { const g = {}; for (const i of Object.values(ITEMS)) if (i.type === type) (g[i.group || 'Other'] = g[i.group || 'Other'] || []).push(i);
+      el.innerHTML = Object.keys(g).sort((a, b) => (GROUP_ORDER.indexOf(a) + 99) % 99 - (GROUP_ORDER.indexOf(b) + 99) % 99).map(k => `<details><summary>${esc(k)} <em>${g[k].length}</em></summary><div class="chips">${g[k].sort((a, b) => a.title.localeCompare(b.title)).map(p => `<a class="chip" data-go="${esc(p.id)}">${esc(p.title)}</a>`).join('')}</div></details>`).join('') || '<p class="muted">None loaded.</p>'; el.dataset.done = 1; };
+    groups('person', $('#personlist')); groups('thing', $('#thinglist'));
+  }
+  const nl = t => Object.values(ITEMS).filter(i => i.type === t).length;
+  $('#counts').textContent = `${nl('person')} persons · ${nl('thing')} things · ${by('place').length} places · ${rs.length} realms · ${by('people').length} peoples · ${bs.length} battles · ${by('journey').length} journeys`;
 }
 $('#panel').addEventListener('click', e => { const g = e.target.closest('[data-go]'); if (g) { if (S.journey === g.dataset.go) stopJourney(); else select(g.dataset.go); } });
 $('#panel').addEventListener('change', e => {
@@ -556,13 +604,18 @@ $('#panel').addEventListener('change', e => {
 });
 $('#ex').addEventListener('input', e => { S.ex = +e.target.value; $('#exv').textContent = S.ex + '×'; dirty = true; });
 const q = $('#q'), res = $('#results'); let INDEX = [];
-function buildIndex() { INDEX = Object.values(ITEMS).map(it => ({ it, t: it.title.toLowerCase(), alt: Object.values(it.names || {}).join(' ').toLowerCase() })); }
-const fold = s => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+const fold = s => s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+function buildIndex() { INDEX = Object.values(ITEMS).map(it => ({ it, t: fold(it.title), alt: fold(Object.values(it.names || {}).concat(it.aka || []).join(' | ')) })); }
 function search(s) {
   s = fold(s.trim()); if (!s) { res.innerHTML = ''; res.classList.remove('open'); return []; }
-  const out = []; for (const e of INDEX) { const t = fold(e.t); let sc = t === s ? 0 : t.startsWith(s) ? 1 : t.includes(' ' + s) ? 2 : t.includes(s) ? 3 : fold(e.alt).includes(s) ? 5 : -1; if (sc >= 0) out.push([sc + (e.it.tier || 2) * 0.1 + (e.it.land !== LAND.id ? 0.45 : 0), e.it]); }
-  out.sort((a, b) => a[0] - b[0] || a[1].title.localeCompare(b[1].title)); const top = out.slice(0, 9).map(o => o[1]);
-  res.innerHTML = top.map(it => `<a data-go="${esc(it.id)}"><b>${esc(it.title)}</b><span>${esc(it.kind || TYPE_NAME[it.type])}${it.land !== LAND.id ? ' · ' + esc(D.lands.find(l => l.id === it.land).name) : ''}</span></a>`).join('') || '<p class="muted">No match.</p>'; res.classList.add('open'); return top;
+  const out = [];
+  for (const e of INDEX) {
+    const t = e.t, it = e.it; let sc = t === s ? 0 : t.startsWith(s) ? 1 : t.includes(' ' + s) || t.includes('-' + s) ? 2 : t.includes(s) ? 3 : (' | ' + e.alt).includes(' | ' + s) ? 3.5 : e.alt.includes(s) ? 5 : -1;
+    if (sc >= 0) out.push([sc + (it.tier || 2) * 0.1 + (isLore(it) ? -0.05 : it.land !== LAND.id ? 0.45 : 0), it]);
+  }
+  out.sort((a, b) => a[0] - b[0] || a[1].title.localeCompare(b[1].title)); const top = out.slice(0, 12).map(o => o[1]);
+  const where = it => isLore(it) ? '' : it.land !== LAND.id ? ' · ' + esc(D.lands.find(l => l.id === it.land).name) : '';
+  res.innerHTML = top.map(it => `<a data-go="${esc(it.id)}"><b>${esc(it.title)}</b><span><i class="ty ty-${it.type}">${TYPE_NAME[it.type]}</i>${esc(it.kind || '')}${where(it)}</span></a>`).join('') || '<p class="muted">No match.</p>'; res.classList.add('open'); return top;
 }
 q.addEventListener('input', () => search(q.value));
 q.addEventListener('keydown', e => { if (e.key === 'Enter') { const t = search(q.value); if (t[0]) { select(t[0].id); res.classList.remove('open'); q.value = ''; q.blur(); } } if (e.key === 'Escape') { q.value = ''; search(''); q.blur(); } });

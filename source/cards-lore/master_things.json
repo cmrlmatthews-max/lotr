@@ -1,0 +1,560 @@
+[
+ {
+  "id": "thing:one-ring",
+  "title": "The One Ring",
+  "group": "Rings",
+  "hint": "Sauron's Ruling Ring, forged in Mount Doom about S.A. 1600; unmade there in T.A. 3019",
+  "batch": 1,
+  "picture": 1,
+  "picture_subject": "A plain, smooth band of bright gold with no stone and no marks, lying alone on dark rough stone."
+ },
+ {
+  "id": "thing:narya",
+  "title": "Narya",
+  "group": "Rings",
+  "hint": "the Ring of Fire, red-stoned Elven ring kept by Círdan and given to Gandalf",
+  "batch": 1,
+  "picture": 1,
+  "picture_subject": "A gold ring set with a single deep red stone that glows faintly like an ember, resting on grey cloth."
+ },
+ {
+  "id": "thing:nenya",
+  "title": "Nenya",
+  "group": "Rings",
+  "hint": "the Ring of Adamant, white-stoned Elven ring kept by Galadriel in Lórien",
+  "batch": 1,
+  "picture": 1,
+  "picture_subject": "A slender ring of white metal set with one clear white stone that glints like a star, lying on green leaves."
+ },
+ {
+  "id": "thing:vilya",
+  "title": "Vilya",
+  "group": "Rings",
+  "hint": "the Ring of Air, mightiest of the Three, kept by Gil-galad and then Elrond",
+  "batch": 1,
+  "picture": 1,
+  "picture_subject": "A gold ring set with one large blue stone, lying on a pale stone ledge under a soft evening sky."
+ },
+ {
+  "id": "thing:seven-rings",
+  "title": "Seven Rings",
+  "group": "Rings",
+  "hint": "the Rings of Power given to the Dwarf-lords; four were consumed by dragons, three taken by Sauron",
+  "batch": 1,
+  "picture": 2,
+  "picture_subject": "Seven heavy gold rings, each set with a different coloured gem, laid in a row on a dark iron anvil."
+ },
+ {
+  "id": "thing:nine-rings",
+  "title": "Nine Rings",
+  "group": "Rings",
+  "hint": "the Rings of Power given to Men, whose bearers became the Nazgûl",
+  "batch": 1,
+  "picture": 2,
+  "picture_subject": "Nine plain rings of pale gold scattered on black stone, faintly shadowed as if smoke drifted over them."
+ },
+ {
+  "id": "thing:ring-of-thror",
+  "title": "Ring of Thrór",
+  "group": "Rings",
+  "hint": "last of the Seven, held by Durin's heirs; taken from Thráin II in Dol Guldur, T.A. 2845",
+  "batch": 1,
+  "picture": 3,
+  "picture_subject": "A thick gold ring with one square green-blue stone, lying on a heap of old coins in a dim cave."
+ },
+ {
+  "id": "thing:arkenstone",
+  "title": "Arkenstone",
+  "group": "Jewels",
+  "hint": "the Heart of the Mountain, great white gem found under Erebor by Thráin I; buried with Thorin",
+  "batch": 1,
+  "picture": 1,
+  "picture_subject": "A large round white gem cut with many facets, shining with its own soft light on a bed of gold coins in darkness."
+ },
+ {
+  "id": "thing:elessar-stone",
+  "title": "Elessar (the Elfstone)",
+  "group": "Jewels",
+  "hint": "green gem in an eagle-shaped silver brooch, given by Galadriel to Aragorn in T.A. 3019",
+  "batch": 1,
+  "picture": 1,
+  "picture_subject": "A clear green gem set in a silver brooch shaped like a bird with outspread wings, lying on a grey cloak."
+ },
+ {
+  "id": "thing:elendilmir",
+  "title": "Star of Elendil",
+  "group": "Jewels",
+  "hint": "the Elendilmir, white gem bound on the brow of the Kings of Arnor",
+  "batch": 1,
+  "picture": 2,
+  "picture_subject": "A single white star-like gem fixed to a fine band of silver, lying on dark blue velvet."
+ },
+ {
+  "id": "thing:necklace-of-girion",
+  "title": "Necklace of Girion",
+  "group": "Jewels",
+  "hint": "necklace of five hundred emeralds that Girion of Dale paid to the Dwarves for his son's armour",
+  "batch": 1,
+  "picture": 3,
+  "picture_subject": "A long necklace of many green emeralds on a chain of gold, draped over a dark wooden chest."
+ },
+ {
+  "id": "thing:phial-of-galadriel",
+  "title": "Phial of Galadriel",
+  "group": "Other",
+  "hint": "crystal phial holding the light of Eärendil's star, given to Frodo in Lórien",
+  "batch": 1,
+  "picture": 1,
+  "picture_subject": "A small clear crystal flask that glows with a bright white-silver light from within, standing on black rock."
+ },
+ {
+  "id": "thing:anduril",
+  "title": "Andúril",
+  "group": "Weapons and armour",
+  "hint": "Flame of the West, the sword Narsil of Elendil reforged for Aragorn in T.A. 3018",
+  "batch": 1,
+  "picture": 1,
+  "picture_subject": "A long straight sword with a bright polished blade and a plain hilt, lying on a dark stone table beside a dark scabbard."
+ },
+ {
+  "id": "thing:sting",
+  "title": "Sting",
+  "group": "Weapons and armour",
+  "hint": "Elvish knife found by Bilbo in the trolls' lair; glows blue when Orcs are near",
+  "batch": 1,
+  "picture": 1,
+  "picture_subject": "A short Elvish blade, the size of a long knife, whose edges glow pale blue, lying on a mossy forest floor."
+ },
+ {
+  "id": "thing:glamdring",
+  "title": "Glamdring",
+  "group": "Weapons and armour",
+  "hint": "Foe-hammer, sword of Turgon of Gondolin, found in the trolls' lair and borne by Gandalf",
+  "batch": 1,
+  "picture": 1,
+  "picture_subject": "A long Elvish sword with a gleaming blade and a hilt set with small gems, leaning against grey rock."
+ },
+ {
+  "id": "thing:orcrist",
+  "title": "Orcrist",
+  "group": "Weapons and armour",
+  "hint": "Goblin-cleaver, sword from Gondolin borne by Thorin and laid on his tomb",
+  "batch": 1,
+  "picture": 1,
+  "picture_subject": "A long Elvish sword with a bright blade laid on a stone tomb, a faint gleam along its edge."
+ },
+ {
+  "id": "thing:mithril-coat",
+  "title": "Mithril coat",
+  "group": "Weapons and armour",
+  "hint": "Bilbo's shirt of mithril rings, gift of Thorin, worn by Frodo in T.A. 3019",
+  "batch": 1,
+  "picture": 1,
+  "picture_subject": "A small shirt of fine silver-white rings that shines like moonlight, spread on a wooden table with a belt of pearls and crystals."
+ },
+ {
+  "id": "thing:black-arrow",
+  "title": "Black Arrow",
+  "group": "Weapons and armour",
+  "hint": "the heirloom arrow of Bard's house that slew Smaug in T.A. 2941",
+  "batch": 1,
+  "picture": 1,
+  "picture_subject": "A single long black arrow with dark feathers, resting on a weathered wooden longbow by the water's edge."
+ },
+ {
+  "id": "thing:barrow-blades",
+  "title": "Barrow-blades",
+  "group": "Weapons and armour",
+  "hint": "daggers of Westernesse from the Barrow-downs; Merry's blade helped to destroy the Witch-king",
+  "batch": 1,
+  "picture": 2,
+  "picture_subject": "Four long leaf-shaped daggers with red and gold patterned blades, laid on dark earth beside old gold."
+ },
+ {
+  "id": "thing:morgul-knife",
+  "title": "Morgul-knife",
+  "group": "Weapons and armour",
+  "hint": "the Witch-king's knife that wounded Frodo on Weathertop; its blade melted away",
+  "batch": 1,
+  "picture": 2,
+  "picture_subject": "A thin cruel knife with a notched, pale blade that seems to fade into smoke, lying on grass at night."
+ },
+ {
+  "id": "thing:grond-ram",
+  "title": "Grond",
+  "group": "Weapons and armour",
+  "hint": "great battering-ram of Mordor that broke the Gate of Minas Tirith in T.A. 3019",
+  "batch": 1,
+  "picture": 2,
+  "picture_subject": "An enormous black iron battering-ram with a head like a snarling wolf, resting on a huge wheeled frame."
+ },
+ {
+  "id": "thing:guthwine",
+  "title": "Guthwinë",
+  "group": "Weapons and armour",
+  "hint": "Éomer's sword, wielded at Helm's Deep in T.A. 3019",
+  "batch": 2,
+  "picture": 3,
+  "picture_subject": "A broad straight sword of Rohan with a plain gilded hilt, lying on a green cloak."
+ },
+ {
+  "id": "thing:palantir-of-orthanc",
+  "title": "Palantír of Orthanc",
+  "group": "Seeing-stones",
+  "hint": "seeing-stone of Isengard used by Saruman; thrown down by Gríma in T.A. 3019",
+  "batch": 2,
+  "picture": 1,
+  "picture_subject": "A smooth dark crystal globe the size of a large ball, with a faint glow deep inside it, resting on wet stone."
+ },
+ {
+  "id": "thing:anor-stone",
+  "title": "Anor-stone",
+  "group": "Seeing-stones",
+  "hint": "palantír of Minas Tirith, used by Denethor II",
+  "batch": 2,
+  "picture": 2,
+  "picture_subject": "A smooth crystal globe in which faint flames seem to move, set on a stone pedestal in a dim tower room."
+ },
+ {
+  "id": "thing:ithil-stone",
+  "title": "Ithil-stone",
+  "group": "Seeing-stones",
+  "hint": "palantír of Minas Ithil, taken by the Nazgûl and held in Barad-dûr",
+  "batch": 2,
+  "picture": 3,
+  "picture_subject": "A dark crystal globe glowing with a cold pale light, resting in a black stone niche."
+ },
+ {
+  "id": "thing:elostirion-stone",
+  "title": "Stone of Elostirion",
+  "group": "Seeing-stones",
+  "hint": "palantír in the tower on Emyn Beraid that looked only west to the Sea",
+  "batch": 2,
+  "picture": 3,
+  "picture_subject": "A crystal globe on a stone sill of a white tower window, catching the light of a far western sky."
+ },
+ {
+  "id": "thing:red-book",
+  "title": "Red Book of Westmarch",
+  "group": "Books and heirlooms",
+  "hint": "Bilbo's and Frodo's book of the Quest, kept by Sam's heirs",
+  "batch": 2,
+  "picture": 1,
+  "picture_subject": "A large thick book bound in red leather, its cover plain and worn, lying closed on a wooden desk beside a candle."
+ },
+ {
+  "id": "thing:thrors-map",
+  "title": "Thrór's Map",
+  "group": "Books and heirlooms",
+  "hint": "map of the Lonely Mountain with the secret door, given by Gandalf to Thorin",
+  "batch": 2,
+  "picture": 1,
+  "picture_subject": "An old rolled-out parchment map showing a lone mountain and a river, its edges curled, beside a small iron key."
+ },
+ {
+  "id": "thing:book-of-mazarbul",
+  "title": "Book of Mazarbul",
+  "group": "Books and heirlooms",
+  "hint": "record of Balin's colony in Moria, found by the Fellowship in T.A. 3019",
+  "batch": 2,
+  "picture": 3,
+  "picture_subject": "A large battered book, slashed and stained, its pages half burned, lying on a stone tomb in a dark hall."
+ },
+ {
+  "id": "thing:horn-of-gondor",
+  "title": "Horn of Gondor",
+  "group": "Books and heirlooms",
+  "hint": "Boromir's great horn, bound with silver; cloven in two at his death",
+  "batch": 2,
+  "picture": 1,
+  "picture_subject": "A great wild-ox horn bound with silver, cloven in two, its halves lying on a grey river stone."
+ },
+ {
+  "id": "thing:horn-of-the-mark",
+  "title": "Horn of the Mark",
+  "group": "Books and heirlooms",
+  "hint": "small silver horn given to Merry by Éowyn; he blew it to rouse the Shire in T.A. 3019",
+  "batch": 2,
+  "picture": 3,
+  "picture_subject": "A small silver horn on a green baldric, lying on short grass."
+ },
+ {
+  "id": "thing:crown-of-gondor",
+  "title": "Crown of Gondor",
+  "group": "Books and heirlooms",
+  "hint": "the winged white crown of the Kings, set on Aragorn's head in T.A. 3019",
+  "batch": 2,
+  "picture": 2,
+  "picture_subject": "A tall white helm-shaped crown with wings of pearl and silver at its sides, seven white gems on the circlet and one bright jewel at the top, on a black cushion."
+ },
+ {
+  "id": "thing:sceptre-of-annuminas",
+  "title": "Sceptre of Annúminas",
+  "group": "Books and heirlooms",
+  "hint": "silver rod of the Lords of Andúnië and Kings of Arnor, given to Aragorn",
+  "batch": 2,
+  "picture": 2,
+  "picture_subject": "A long rod of silver topped with a small white stone, lying on dark velvet."
+ },
+ {
+  "id": "thing:standard-of-elendil",
+  "title": "Standard of Elendil",
+  "group": "Books and heirlooms",
+  "hint": "banner made by Arwen, a White Tree with seven stars and a crown, unfurled at Erech and borne to the Harlond",
+  "batch": 2,
+  "picture": 3,
+  "picture_subject": "A black silk banner bearing a white tree in flower under seven white stars and a crown, hanging still from a tall staff."
+ },
+ {
+  "id": "thing:white-tree",
+  "title": "White Tree of Gondor",
+  "group": "Trees, plants and substances",
+  "hint": "tree of Minas Tirith descended from Nimloth; a new sapling was found on Mindolluin in T.A. 3019",
+  "batch": 2,
+  "picture": 1,
+  "picture_subject": "A slender tree with white bark and white blossoms, standing alone in a paved courtyard beside a fountain."
+ },
+ {
+  "id": "thing:mallorn",
+  "title": "Mallorn",
+  "group": "Trees, plants and substances",
+  "hint": "the great golden trees of Lórien; Sam planted one in the Party Field",
+  "batch": 2,
+  "picture": 2,
+  "picture_subject": "A towering tree with smooth silver-grey bark and golden leaves, standing alone in a green field."
+ },
+ {
+  "id": "thing:athelas",
+  "title": "Athelas",
+  "group": "Trees, plants and substances",
+  "hint": "kingsfoil, herb of healing used by Aragorn for Frodo, Faramir, Éowyn and Merry",
+  "batch": 2,
+  "picture": 2,
+  "picture_subject": "A small bunch of long green leaves steeping in a bowl of steaming water on a wooden table."
+ },
+ {
+  "id": "thing:lembas",
+  "title": "Lembas",
+  "group": "Trees, plants and substances",
+  "hint": "Elvish waybread of Lórien that sustained Frodo and Sam in Mordor",
+  "batch": 2,
+  "picture": 1,
+  "picture_subject": "Thin pale cakes of bread, brown at the edges, wrapped in green leaves, lying on a grey cloth."
+ },
+ {
+  "id": "thing:miruvor",
+  "title": "Miruvor",
+  "group": "Trees, plants and substances",
+  "hint": "cordial of Imladris that restored the Fellowship on Caradhras",
+  "batch": 2,
+  "picture": 3,
+  "picture_subject": "A small leather flask beside a silver cup holding a clear golden liquid, on snowy rock."
+ },
+ {
+  "id": "thing:mithril",
+  "title": "Mithril",
+  "group": "Trees, plants and substances",
+  "hint": "true-silver, the precious metal of Moria",
+  "batch": 2,
+  "picture": 2,
+  "picture_subject": "A rough vein of bright silver metal shining in dark rock, with a few small polished ingots beside it."
+ },
+ {
+  "id": "thing:pipe-weed",
+  "title": "Pipe-weed",
+  "group": "Trees, plants and substances",
+  "hint": "leaf grown in the Southfarthing; first planted at Longbottom",
+  "batch": 2,
+  "picture": 3,
+  "picture_subject": "Dried brown leaves in a small barrel beside a long wooden pipe, on a wooden bench."
+ },
+ {
+  "id": "thing:simbelmyne",
+  "title": "Simbelmynë",
+  "group": "Trees, plants and substances",
+  "hint": "Evermind, small white flowers that grow on the barrows of the Kings of Rohan",
+  "batch": 2,
+  "picture": 3,
+  "picture_subject": "Small white star-shaped flowers covering a green burial mound under a pale sky."
+ },
+ {
+  "id": "thing:elanor-flower",
+  "title": "Elanor",
+  "group": "Trees, plants and substances",
+  "hint": "small golden star-flower of Cerin Amroth in Lórien",
+  "batch": 3,
+  "picture": 3,
+  "picture_subject": "Tiny golden star-shaped flowers growing among the grass on a green hill."
+ },
+ {
+  "id": "thing:box-of-galadriel",
+  "title": "Galadriel's box",
+  "group": "Other",
+  "hint": "small grey box of Lórien earth and a mallorn nut given to Sam",
+  "batch": 3,
+  "picture": 3,
+  "picture_subject": "A small plain box of grey wood, its lid open to show soft earth and a single silver nut."
+ },
+ {
+  "id": "thing:mirror-of-galadriel",
+  "title": "Mirror of Galadriel",
+  "group": "Other",
+  "hint": "silver basin of water in Lórien in which Frodo and Sam saw visions",
+  "batch": 3,
+  "picture": 3,
+  "picture_subject": "A wide shallow silver basin on a low stone pedestal, filled with still dark water reflecting stars."
+ },
+ {
+  "id": "thing:elven-cloaks",
+  "title": "Elven-cloaks of Lórien",
+  "group": "Other",
+  "hint": "grey hooded cloaks given to the Fellowship, each fastened with a leaf-shaped brooch",
+  "batch": 3,
+  "picture": 3,
+  "picture_subject": "A light grey hooded cloak folded on a branch, with a green and silver brooch shaped like a leaf."
+ },
+ {
+  "id": "thing:silmarils",
+  "title": "Silmarils",
+  "group": "Jewels",
+  "hint": "the three jewels of Fëanor that held the light of the Two Trees",
+  "batch": 3,
+  "picture": 1,
+  "picture_subject": "Three jewels like round crystals, each blazing with white and gold light, set in a dark iron crown."
+ },
+ {
+  "id": "thing:nauglamir",
+  "title": "Nauglamír",
+  "group": "Jewels",
+  "hint": "the Necklace of the Dwarves made for Finrod; remade to hold the Silmaril of Beren and Lúthien",
+  "batch": 3,
+  "picture": 1,
+  "picture_subject": "A necklace of gold set with many clear gems, with one bright jewel at its centre, lying on dark stone."
+ },
+ {
+  "id": "thing:ring-of-barahir",
+  "title": "Ring of Barahir",
+  "group": "Rings",
+  "hint": "ring of twin serpents with green gems given by Finrod to Barahir; heirloom of Aragorn",
+  "batch": 3,
+  "picture": 1,
+  "picture_subject": "A gold ring shaped as two twined serpents with emerald eyes, their heads meeting under a crown of golden flowers."
+ },
+ {
+  "id": "thing:gurthang",
+  "title": "Gurthang",
+  "group": "Weapons and armour",
+  "hint": "the black sword Anglachel, made by Eöl from a fallen star; reforged for Túrin",
+  "batch": 3,
+  "picture": 2,
+  "picture_subject": "A long black sword whose dark blade has a pale shining edge, lying on rocks above a gorge."
+ },
+ {
+  "id": "thing:anguirel",
+  "title": "Anguirel",
+  "group": "Weapons and armour",
+  "hint": "black sword of Eöl, twin of Anglachel, stolen by Maeglin",
+  "batch": 3,
+  "picture": 3,
+  "picture_subject": "A long dark sword of black iron with a plain hilt, lying on a smith's bench."
+ },
+ {
+  "id": "thing:ringil",
+  "title": "Ringil",
+  "group": "Weapons and armour",
+  "hint": "Fingolfin's sword that glittered like ice; it wounded Morgoth seven times",
+  "batch": 3,
+  "picture": 2,
+  "picture_subject": "A long sword with a pale blade that glitters like ice, lying on snow beside a blue shield."
+ },
+ {
+  "id": "thing:aeglos",
+  "title": "Aeglos",
+  "group": "Weapons and armour",
+  "hint": "the spear of Gil-galad, borne in the Last Alliance",
+  "batch": 3,
+  "picture": 2,
+  "picture_subject": "A tall spear with a long, sharp, pale blade like an icicle, leaning against a white stone."
+ },
+ {
+  "id": "thing:angrist",
+  "title": "Angrist",
+  "group": "Weapons and armour",
+  "hint": "Curufin's knife made by Telchar, used by Beren to cut a Silmaril from Morgoth's crown",
+  "batch": 3,
+  "picture": 3,
+  "picture_subject": "A long knife of grey steel with a plain hilt, lying on black iron."
+ },
+ {
+  "id": "thing:dragon-helm",
+  "title": "Dragon-helm of Dor-lómin",
+  "group": "Weapons and armour",
+  "hint": "heirloom helm of the House of Hador with a dragon crest, worn by Túrin",
+  "batch": 3,
+  "picture": 2,
+  "picture_subject": "A grey steel helm with a golden dragon crest along its top, standing on a stone table."
+ },
+ {
+  "id": "thing:belthronding",
+  "title": "Belthronding",
+  "group": "Weapons and armour",
+  "hint": "the great bow of Beleg, buried with him",
+  "batch": 3,
+  "picture": 3,
+  "picture_subject": "A tall bow of black yew wood, unstrung, lying on pine needles."
+ },
+ {
+  "id": "thing:iron-crown",
+  "title": "Iron Crown",
+  "group": "Other",
+  "hint": "Morgoth's crown of iron that held the Silmarils",
+  "batch": 3,
+  "picture": 2,
+  "picture_subject": "A massive crown of black iron with three empty settings for jewels, resting on dark stone."
+ },
+ {
+  "id": "thing:vingilot",
+  "title": "Vingilot",
+  "group": "Ships",
+  "hint": "Eärendil's ship, built of Nimbrethil birch; sails the sky bearing a Silmaril",
+  "batch": 3,
+  "picture": 1,
+  "picture_subject": "A slender white ship with silver sails and a swan-like prow, sailing above clouds at dusk with a bright light at its bow."
+ },
+ {
+  "id": "thing:swan-ships",
+  "title": "Swan-ships of Alqualondë",
+  "group": "Ships",
+  "hint": "the white ships of the Teleri, seized by the Noldor in the Kinslaying",
+  "batch": 3,
+  "picture": 2,
+  "picture_subject": "White ships with prows shaped like swans' heads and golden eyes, moored in a quiet harbour under a stone arch."
+ },
+ {
+  "id": "thing:two-trees",
+  "title": "Two Trees of Valinor",
+  "group": "Trees, plants and substances",
+  "hint": "Telperion the silver and Laurelin the golden, which lit Valinor until Ungoliant killed them",
+  "batch": 3,
+  "picture": 1,
+  "picture_subject": "Two great trees on a green mound, one with dark leaves and silver light, the other with pale green leaves and golden flowers."
+ },
+ {
+  "id": "thing:nimloth",
+  "title": "Nimloth",
+  "group": "Trees, plants and substances",
+  "hint": "the White Tree of Númenor; Isildur saved its fruit before it was burned",
+  "batch": 3,
+  "picture": 3,
+  "picture_subject": "A white tree in flower in a royal courtyard, with one small fruit hanging low."
+ },
+ {
+  "id": "thing:lamps-of-the-valar",
+  "title": "Lamps of the Valar",
+  "group": "Other",
+  "hint": "Illuin and Ormal, the first great lights of Arda, thrown down by Melkor",
+  "batch": 3,
+  "picture": 3,
+  "picture_subject": "Two immense lamps on tall stone pillars rising from a dark land, one shining blue-silver, the other gold."
+ }
+]

@@ -1,0 +1,1511 @@
+[
+ {
+  "id": "person:thingol",
+  "title": "Thingol",
+  "group": "Elves",
+  "kind": "Sindarin Elf, King of Doriath",
+  "aka": [
+   "Elwë",
+   "Elu Thingol",
+   "Greycloak"
+  ],
+  "blurb": "Thingol was the Sindarin king of Doriath, husband of the Maia Melian and father of Lúthien.",
+  "book": "Thingol, first named Elwë, was a lord of the Teleri. He went to Valinor as an envoy with Ingwë and Finwë and saw the Two Trees. He then led his people on the great journey west.\n\nIn the forest of Nan Elmoth he met the Maia Melian and stood under a spell for many years. He did not go on to Valinor with his people. He became king of the Sindar in Beleriand and ruled from the halls of Menegroth.\n\nMelian placed a magic Girdle around the land, and Doriath stayed safe for centuries. He welcomed the Noldor but kept his realm closed to most of them.\n\nHis daughter Lúthien loved the mortal Beren. Thingol did not want the match and demanded a Silmaril from Morgoth's crown as the bride-price. He later fostered Túrin son of Húrin.\n\nHúrin brought him the Nauglamír, the necklace that Dwarves had made for Finrod. Thingol had the Dwarves of Nogrod set the Silmaril in it. They lusted for the jewel and slew him in Menegroth. Melian then left Middle-earth, and the Girdle failed.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Elf (Sindar)",
+   "Spouse": "Melian",
+   "Children": "Lúthien",
+   "Title": "King of Doriath",
+   "Realm or home": "Doriath"
+  },
+  "places": [
+   {
+    "id": "b:FO05",
+    "role": "other",
+    "note": "Meets Melian in the forest and is held in enchantment for long years."
+   },
+   {
+    "id": "b:TO01",
+    "role": "ruled",
+    "note": "Rules Doriath from the hidden halls of Menegroth."
+   },
+   {
+    "id": "b:TO01",
+    "role": "died",
+    "note": "Slain in his halls by the Dwarf smiths of Nogrod over the Nauglamír."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Valinor",
+    "role": "travelled",
+    "note": "Goes to Valinor as an envoy of the Elves, then returns to lead his people west."
+   }
+  ],
+  "related": [
+   "person:melian",
+   "person:luthien",
+   "person:beren",
+   "person:dior",
+   "person:turin",
+   "thing:nauglamir",
+   "thing:silmarils",
+   "person:mablung-of-doriath"
+  ],
+  "sources": [
+   "The Silmarillion",
+   "Unfinished Tales"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:luthien",
+  "title": "Lúthien",
+  "group": "Elves",
+  "kind": "Elf-maiden, daughter of Thingol and Melian",
+  "aka": [
+   "Tinúviel",
+   "Lúthien Tinúviel"
+  ],
+  "blurb": "Lúthien was the daughter of Thingol and Melian, who with Beren won a Silmaril from Morgoth and chose a mortal life.",
+  "book": "Lúthien was born in Doriath to Thingol and the Maia Melian, and she was called the fairest of all the Children of Ilúvatar. In the woods of Neldoreth she danced, and there the mortal Beren saw her and loved her.\n\nThingol set Beren the task of bringing a Silmaril, hoping he would die. Thingol shut her in a house high in the tree Hírilorn, but she escaped to follow Beren. Celegorm and Curufin caught her and held her in Nargothrond, and the hound Huan helped her flee.\n\nShe and Huan overcame Sauron on his island. With Beren she entered Angband and lulled Morgoth and his court to sleep with her song. Beren cut a Silmaril from the iron crown. The wolf Carcharoth bit off his hand as they left.\n\nBeren died in Doriath. Lúthien's grief won the pity of Mandos, who allowed both to return to life, but only if she became mortal. They lived on Tol Galen in Ossiriand, and their son was Dior. There they died at last as mortals.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Elf, later mortal",
+   "Parents": "Thingol and Melian",
+   "Spouse": "Beren",
+   "Children": "Dior",
+   "Realm or home": "Doriath"
+  },
+  "places": [
+   {
+    "id": "b:FO01",
+    "role": "lived",
+    "note": "Dances in the woods, where Beren first sees her."
+   },
+   {
+    "id": "b:NP011",
+    "role": "other",
+    "note": "Held in the tree-house by Thingol, she escapes to follow Beren."
+   },
+   {
+    "id": "b:TO02",
+    "role": "travelled",
+    "note": "Held captive in Nargothrond by Celegorm and Curufin until Huan helps her escape."
+   },
+   {
+    "id": "b:battle:duel-at-tol-in-gaurhoth",
+    "role": "fought",
+    "note": "With Huan she overcomes Sauron and frees Beren."
+   },
+   {
+    "id": "b:FT01",
+    "role": "travelled",
+    "note": "Puts Morgoth and his court to sleep so Beren can cut a Silmaril."
+   },
+   {
+    "id": "b:IS02",
+    "role": "died",
+    "note": "Lives with Beren on the island after their return from death and dies there."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Halls of Mandos",
+    "role": "other",
+    "note": "Pleads for Beren's return and accepts mortality."
+   }
+  ],
+  "related": [
+   "person:thingol",
+   "person:melian",
+   "person:beren",
+   "person:dior",
+   "person:huan",
+   "person:daeron",
+   "person:carcharoth",
+   "thing:silmarils"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:beleg",
+  "title": "Beleg Cúthalion",
+  "group": "Elves",
+  "kind": "Sindarin archer, march-warden of Doriath",
+  "aka": [
+   "Cúthalion",
+   "Strongbow"
+  ],
+  "blurb": "Beleg was a Sindarin archer of Doriath, named Strongbow, who befriended Túrin and was slain by him by mischance.",
+  "book": "Beleg was one of the greatest archers among the Elves of Doriath and served Thingol as a warden of the marches. He was called Cúthalion, meaning Strongbow.\n\nWhen the young Túrin came to Menegroth, Beleg became his friend and teacher. After Túrin fled from Doriath, Beleg left with Thingol's blessing and a great sword, Anglachel, and searched for him. He brought the Dragon-helm of Dor-lómin as a gift.\n\nBeleg found Túrin among the outlaws and fought at his side for a time, hoping to turn him from his dark path. Orcs later took Túrin on Amon Rûdh, and Beleg was wounded. With the Elf Gwindor he followed the Orcs to free him.\n\nIn Taur-nu-Fuin Beleg cut Túrin's bonds. Túrin woke in confusion and took him for an enemy. He killed his friend with the sword Anglachel. Túrin then grieved terribly. Túrin and Gwindor buried Beleg there with his bow. Anglachel was later reforged in Nargothrond as Gurthang.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Elf (Sindar)",
+   "Title": "March-warden of Doriath",
+   "Weapon or steed": "Belthronding (bow), Anglachel (sword)",
+   "Realm or home": "Doriath"
+  },
+  "places": [
+   {
+    "id": "b:TO01",
+    "role": "lived",
+    "note": "Serves Thingol and befriends the young Túrin."
+   },
+   {
+    "id": "b:HI03",
+    "role": "lived",
+    "note": "Lives for a time among Túrin's outlaw band."
+   },
+   {
+    "id": "b:battle:fall-of-bar-en-danwedh",
+    "role": "fought",
+    "note": "Is wounded when the Orcs take the hill and capture Túrin."
+   },
+   {
+    "id": "b:FO08",
+    "role": "died",
+    "note": "Freed from Orcs, he is killed by Túrin by mistake."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:turin",
+   "person:thingol",
+   "person:mablung-of-doriath",
+   "person:gwindor",
+   "thing:belthronding",
+   "thing:dragon-helm",
+   "thing:gurthang"
+  ],
+  "sources": [
+   "The Silmarillion",
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:mablung-of-doriath",
+  "title": "Mablung of Doriath",
+  "group": "Elves",
+  "kind": "Chief captain of Thingol",
+  "aka": [
+   "Mablung of the Heavy Hand"
+  ],
+  "blurb": "Mablung was the chief captain of Thingol and a friend of Túrin, who died defending Menegroth against the Dwarves.",
+  "book": "Mablung was a great Elf warrior of Doriath and the chief captain of King Thingol. He was called Mablung of the Heavy Hand.\n\nHe took part in the Hunting of the Wolf and cut the Silmaril from the belly of Carcharoth. He was a friend of Beleg and of Túrin when Túrin lived in Menegroth.\n\nAfter the fall of Nargothrond, Morwen rode out to seek news, and Thingol sent Mablung to guard her. Nienor went with them in disguise. Near Amon Ethir Glaurung put a spell on Nienor, and she lost her memory and fled. Mablung searched for her in vain.\n\nLater he came to Brethil and told Túrin the truth about Níniel. After Túrin's death he helped raise his grave.\n\nMablung died in the sack of Menegroth. He fell before the doors of the treasury while fighting the Dwarves.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Elf (Sindar)",
+   "Title": "Chief captain of Thingol",
+   "Realm or home": "Doriath"
+  },
+  "places": [
+   {
+    "id": "b:battle:hunting-of-carcharoth",
+    "role": "fought",
+    "note": "Cuts the Silmaril from the slain wolf."
+   },
+   {
+    "id": "b:TO02",
+    "role": "travelled",
+    "note": "Goes to the ruins of Nargothrond and finds Glaurung there."
+   },
+   {
+    "id": "b:HI06",
+    "role": "other",
+    "note": "Loses Nienor after Glaurung's spell strikes her near this hill."
+   },
+   {
+    "id": "b:VA01",
+    "role": "other",
+    "note": "Tells Túrin the truth and raises his grave nearby."
+   },
+   {
+    "id": "b:battle:sack-of-menegroth",
+    "role": "died",
+    "note": "Falls fighting Dwarves at the doors of the treasury."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:thingol",
+   "person:nienor",
+   "person:beleg",
+   "person:turin",
+   "person:glaurung",
+   "person:morwen",
+   "person:carcharoth"
+  ],
+  "sources": [
+   "The Silmarillion",
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:daeron",
+  "title": "Daeron",
+  "group": "Elves",
+  "kind": "Sindarin minstrel and loremaster",
+  "aka": [
+   "Daeron the Minstrel"
+  ],
+  "blurb": "Daeron was a minstrel and loremaster of Doriath who loved Lúthien and betrayed her flight to Thingol.",
+  "book": "Daeron was the chief minstrel and loremaster at the court of King Thingol in Doriath. He was famed for his music.\n\nDaeron loved Lúthien, but she did not return his love. He told Thingol that Beren had come into Doriath. Later, when Lúthien planned to follow Beren, Daeron told the king again. Thingol then shut her in a house high in the tree Hírilorn.\n\nAfter she escaped, Daeron left Doriath to seek her and never came back. He wandered east. Appendix E to The Lord of the Rings names a fuller form of the Elvish runes, the Angerthas, after him.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Elf (Sindar)",
+   "Title": "Minstrel and loremaster",
+   "Realm or home": "Doriath"
+  },
+  "places": [
+   {
+    "id": "b:TO01",
+    "role": "lived",
+    "note": "Serves as minstrel at Thingol's court and betrays Lúthien's plan."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:luthien",
+   "person:thingol",
+   "person:beren",
+   "person:melian"
+  ],
+  "sources": [
+   "The Silmarillion",
+   "The Lord of the Rings, Appendix E"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:dior",
+  "title": "Dior",
+  "group": "Elves",
+  "kind": "Heir of Thingol, last king of Doriath",
+  "aka": [
+   "Dior Eluchíl",
+   "Thingol's Heir"
+  ],
+  "blurb": "Dior was the son of Beren and Lúthien and ruled Doriath after Thingol, until the sons of Fëanor slew him.",
+  "book": "Dior was the son of the mortal Beren and the Elf Lúthien, so he had the blood of Elves, Men and Maia. He was called Eluchíl, Thingol's Heir.\n\nHe grew up on Tol Galen in Ossiriand. His wife was Nimloth, and they had three children: Eluréd, Elurín and Elwing. After Thingol was slain, Dior went to Menegroth and ruled Doriath. When Beren and Lúthien died, the Nauglamír with the Silmaril was brought to him, and he wore it.\n\nThe sons of Fëanor demanded the jewel. Dior refused. They attacked Menegroth in the Second Kinslaying. Dior killed Celegorm in the fighting but was slain himself.\n\nHis young sons were left in the forest to die, and their fate is unknown. His daughter Elwing escaped with the jewel to the Havens of Sirion.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Half-elven",
+   "Parents": "Beren and Lúthien",
+   "Spouse": "Nimloth",
+   "Children": "Eluréd, Elurín, Elwing",
+   "Title": "King of Doriath",
+   "Realm or home": "Doriath"
+  },
+  "places": [
+   {
+    "id": "b:IS02",
+    "role": "lived",
+    "note": "Grows up with his parents on the island in Ossiriand."
+   },
+   {
+    "id": "b:TO01",
+    "role": "ruled",
+    "note": "Rules Doriath from Menegroth and wears the Nauglamír with the Silmaril."
+   },
+   {
+    "id": "b:battle:second-kinslaying",
+    "role": "died",
+    "note": "Slain by the sons of Fëanor when they attack Doriath."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:beren",
+   "person:luthien",
+   "person:elwing",
+   "person:thingol",
+   "person:celegorm",
+   "thing:silmarils",
+   "thing:nauglamir"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:elwing",
+  "title": "Elwing",
+  "group": "Elves",
+  "kind": "Half-elven princess, bearer of the Silmaril",
+  "aka": [],
+  "blurb": "Elwing was the daughter of Dior who escaped Doriath with the Silmaril, wed Eärendil and became the mother of Elrond.",
+  "book": "Elwing was the daughter of Dior and Nimloth and the granddaughter of Beren and Lúthien. She escaped from Menegroth with the Nauglamír and its Silmaril after her father was slain.\n\nShe went to the mouth of the Sirion and lived at the Havens, where refugees gathered. There she married Eärendil, who ruled the Havens. Their sons were Elrond and Elros.\n\nThe sons of Fëanor attacked the Havens a final time in the Third Kinslaying. Elwing threw herself into the sea with the Silmaril. Ulmo saved her and turned her into a white bird. She flew to Eärendil's ship and brought the jewel to him.\n\nAfter Eärendil's embassy to the Valar, she dwelt in the West. Like Elrond, she chose the fate of the Elves.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Half-elven",
+   "Parents": "Dior and Nimloth",
+   "Spouse": "Eärendil",
+   "Children": "Elrond, Elros"
+  },
+  "places": [
+   {
+    "id": "b:TO01",
+    "role": "lived",
+    "note": "Grows up in Menegroth and escapes with the Silmaril when Dior falls."
+   },
+   {
+    "id": "b:TO07",
+    "role": "lived",
+    "note": "Gathers survivors and lives at the Havens with Eärendil."
+   },
+   {
+    "id": "b:battle:third-kinslaying",
+    "role": "other",
+    "note": "Leaps into the sea with the Silmaril as the Fëanorians attack."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Valinor",
+    "role": "lived",
+    "note": "Joins Eärendil in the West."
+   }
+  ],
+  "related": [
+   "person:dior",
+   "person:earendil",
+   "person:elrond",
+   "person:elros",
+   "thing:silmarils",
+   "thing:nauglamir",
+   "person:ulmo"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:earendil",
+  "title": "Eärendil",
+  "group": "Elves",
+  "kind": "Mariner, bearer of the Silmaril to Valinor",
+  "aka": [
+   "Eärendil the Mariner",
+   "Half-elven"
+  ],
+  "blurb": "Eärendil was the half-elven Mariner who sailed to Valinor to plead for aid and later slew Ancalagon.",
+  "book": "Eärendil was the son of Tuor and Idril and was born in Gondolin. When the hidden city fell, he escaped with his parents and fled to the Havens of Sirion. There he became lord after Tuor sailed away.\n\nHe married Elwing, who brought him the Silmaril of Beren and Lúthien. Their sons were Elrond and Elros. With the help of Círdan he built the ship Vingilot and sailed to find Valinor.\n\nWearing the Silmaril, he passed the shadows and reached the Undying Lands. He spoke for Elves and Men before the Valar. They agreed to help, and the War of Wrath followed.\n\nThe Valar set Vingilot to sail the sky, and the Silmaril shone on Eärendil's brow as a star. In the War of Wrath he fought Morgoth's winged dragons with Thorondor and the Eagles. He slew Ancalagon the Black.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Half-elven",
+   "Parents": "Tuor and Idril",
+   "Spouse": "Elwing",
+   "Children": "Elrond, Elros",
+   "Weapon or steed": "Vingilot"
+  },
+  "places": [
+   {
+    "id": "b:TO03",
+    "role": "born",
+    "note": "Born in Gondolin."
+   },
+   {
+    "id": "b:battle:fall-of-gondolin",
+    "role": "travelled",
+    "note": "Escapes the burning city with his parents."
+   },
+   {
+    "id": "b:TO07",
+    "role": "ruled",
+    "note": "Rules the Havens of Sirion and marries Elwing."
+   },
+   {
+    "id": "b:battle:war-of-wrath",
+    "role": "fought",
+    "note": "Slays Ancalagon the Black."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Valinor",
+    "role": "other",
+    "note": "Arrives in the West and pleads for aid on behalf of both Elves and Men."
+   }
+  ],
+  "related": [
+   "person:tuor",
+   "person:idril",
+   "person:elwing",
+   "person:elrond",
+   "person:elros",
+   "person:ancalagon",
+   "thing:vingilot",
+   "thing:silmarils"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:beor",
+  "title": "Bëor the Old",
+  "group": "Men",
+  "kind": "First Man to meet the Elves in Beleriand",
+  "aka": [
+   "Bëor the Old",
+   "Balan"
+  ],
+  "blurb": "Bëor was the leader of the first Men to cross the Blue Mountains into Beleriand, and he served Finrod Felagund.",
+  "book": "Bëor was the chief of the first people of Men to enter Beleriand. His own name was Balan. The Elves called him Bëor, which means vassal, because he served Finrod.\n\nFinrod Felagund found Bëor's folk in Ossiriand, in the east of Beleriand. He taught them, and they loved him. Bëor left his people and served Finrod for the rest of his life.\n\nHis people dwelt for a time in Estolad. Bëor died of old age, and the Elves saw for the first time how Men die without wound or sickness. His descendants became the House of Bëor, and later lords of that house held Dorthonion.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man (Edain)",
+   "House or line": "House of Bëor",
+   "Realm or home": "Estolad, then the household of Finrod"
+  },
+  "places": [
+   {
+    "id": "b:RG16",
+    "role": "other",
+    "note": "Meets Finrod Felagund there and enters his service."
+   },
+   {
+    "id": "b:RG17",
+    "role": "other",
+    "note": "His people settle in Estolad after they come into Beleriand."
+   },
+   {
+    "id": "b:TO02",
+    "role": "lived",
+    "note": "Dwells with Finrod in his household until his death."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:finrod-felagund",
+   "person:barahir",
+   "person:beren"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:barahir",
+  "title": "Barahir",
+  "group": "Men",
+  "kind": "Lord of the House of Bëor, outlaw of Dorthonion",
+  "aka": [],
+  "blurb": "Barahir was a lord of the House of Bëor, friend of Finrod and father of Beren, slain by Orcs at Tarn Aeluin.",
+  "book": "Barahir was a lord of the House of Bëor. His father was Boromir, and his elder brother was Bregolas. His wife was Emeldir, and his son was Beren.\n\nIn the Dagor Bragollach, Barahir came to the aid of Finrod Felagund in the Fen of Serech and saved the king's life. Finrod swore an oath of friendship to him and gave him his ring as a token.\n\nAfter the battle Dorthonion fell. Barahir and twelve companions stayed in the highlands and became outlaws. He held out for years near Tarn Aeluin.\n\nGorlim, one of his men, was tricked by Sauron into betraying their hiding place. Orcs came to the camp and killed all but Beren. They cut off Barahir's hand with the ring, but Beren slew them and took it back.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man (Edain)",
+   "House or line": "House of Bëor",
+   "Parents": "Boromir",
+   "Spouse": "Emeldir",
+   "Children": "Beren",
+   "Siblings": "Bregolas"
+  },
+  "places": [
+   {
+    "id": "b:battle:dagor-bragollach",
+    "role": "fought",
+    "note": "Rescues Finrod Felagund in the Fen of Serech and receives his ring."
+   },
+   {
+    "id": "b:RG11",
+    "role": "lived",
+    "note": "Remains in Dorthonion as an outlaw after the battle."
+   },
+   {
+    "id": "b:battle:end-of-barahirs-outlaws",
+    "role": "died",
+    "note": "Slain with his band by Orcs at Tarn Aeluin."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:beren",
+   "person:finrod-felagund",
+   "person:gorlim",
+   "thing:ring-of-barahir"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:beren",
+  "title": "Beren",
+  "group": "Men",
+  "kind": "Mortal hero who won a Silmaril",
+  "aka": [
+   "Beren Erchamion",
+   "Erchamion",
+   "Camlost"
+  ],
+  "blurb": "Beren was a mortal Man of the House of Bëor who loved Lúthien and with her took a Silmaril from Morgoth.",
+  "book": "Beren was the son of Barahir. After Orcs killed his father and the outlaw band, he lived alone in Dorthonion and later fled over the Mountains of Terror into Doriath.\n\nThere he saw Lúthien dancing and loved her. Thingol set him an impossible task: bring a Silmaril from Morgoth. Beren went to Nargothrond, where Finrod helped him and died in Sauron's dungeon. Lúthien and Huan freed Beren.\n\nBeren and Lúthien entered Angband in disguise. Lúthien put the court to sleep, and Beren cut a Silmaril from Morgoth's crown with Angrist. Carcharoth bit off his hand and the jewel with it.\n\nBeren returned to Doriath and was slain in the hunt for Carcharoth. Lúthien followed him to Mandos, and the two were permitted to live again. They lived on Tol Galen and had a son, Dior.\n\nLater Beren ambushed the Dwarves of Nogrod at Sarn Athrad. He slew their lord and took back the Nauglamír with the Silmaril.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man (Edain)",
+   "House or line": "House of Bëor",
+   "Parents": "Barahir and Emeldir",
+   "Spouse": "Lúthien",
+   "Children": "Dior"
+  },
+  "places": [
+   {
+    "id": "b:RG11",
+    "role": "lived",
+    "note": "Lives as an outlaw until the end of his father's band."
+   },
+   {
+    "id": "b:RG10",
+    "role": "travelled",
+    "note": "Crosses the poisonous valley on his way to Doriath."
+   },
+   {
+    "id": "b:FO01",
+    "role": "other",
+    "note": "Sees Lúthien dancing and falls in love."
+   },
+   {
+    "id": "b:TO02",
+    "role": "travelled",
+    "note": "Seeks Finrod's help, then sets out north with him."
+   },
+   {
+    "id": "b:battle:duel-at-tol-in-gaurhoth",
+    "role": "other",
+    "note": "Imprisoned by Sauron and rescued by Lúthien and Huan."
+   },
+   {
+    "id": "b:FT01",
+    "role": "fought",
+    "note": "Cuts a Silmaril from Morgoth's iron crown."
+   },
+   {
+    "id": "b:battle:hunting-of-carcharoth",
+    "role": "fought",
+    "note": "Hunts the great wolf, but is mortally wounded."
+   },
+   {
+    "id": "b:battle:battle-of-sarn-athrad",
+    "role": "fought",
+    "note": "Ambushes the Dwarves of Nogrod and takes back the Nauglamír."
+   },
+   {
+    "id": "b:IS02",
+    "role": "died",
+    "note": "Lives with Lúthien after their return from death and dies there."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Halls of Mandos",
+    "role": "other",
+    "note": "Dies and returns to life at Lúthien's plea."
+   }
+  ],
+  "related": [
+   "person:luthien",
+   "person:thingol",
+   "person:barahir",
+   "person:finrod-felagund",
+   "person:huan",
+   "person:carcharoth",
+   "thing:silmarils",
+   "thing:ring-of-barahir"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:gorlim",
+  "title": "Gorlim",
+  "group": "Men",
+  "kind": "Man of Barahir's band who betrayed his lord",
+  "aka": [
+   "Gorlim the Unhappy"
+  ],
+  "blurb": "Gorlim was an outlaw of Barahir's band who was tricked by Sauron and betrayed the hiding place at Tarn Aeluin.",
+  "book": "Gorlim was the son of Angrim, a Man of Dorthonion. He was one of Barahir's company in Dorthonion.\n\nHe was the husband of Eilinel, who was lost when the Orcs overran his land. Gorlim was always haunted by the loss. Sauron's servants showed him a false vision of his wife, which drew him away from the band.\n\nSauron tricked him into revealing where Barahir hid. Then Sauron mocked him and had him put to death. Orcs then attacked the camp at Tarn Aeluin.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man (Edain)",
+   "Parents": "Angrim",
+   "Spouse": "Eilinel"
+  },
+  "places": [
+   {
+    "id": "b:RG11",
+    "role": "lived",
+    "note": "Lives as an outlaw in Barahir's band."
+   },
+   {
+    "id": "b:LA03",
+    "role": "other",
+    "note": "Reveals that Barahir hides by this tarn."
+   },
+   {
+    "id": "b:FT03",
+    "role": "died",
+    "note": "Is brought before Sauron, betrays his lord and is put to death."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:barahir",
+   "person:beren",
+   "person:sauron",
+   "thing:ring-of-barahir"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:hador",
+  "title": "Hador Lórindol",
+  "group": "Men",
+  "kind": "Lord of Dor-lómin of the House of Hador",
+  "aka": [
+   "Hador Goldenhead",
+   "Lórindol"
+  ],
+  "blurb": "Hador was the lord of Dor-lómin who served Fingolfin and fell at Eithel Sirion in F.A. 455.",
+  "book": "Hador, called Lórindol or Goldenhead, was the leader of the third house of the Edain. He earned the friendship of Fingolfin, High King of the Noldor.\n\nFingolfin gave Hador the lordship of Dor-lómin in Hithlum. His people grew strong and loyal to the Noldor there. His sons were Galdor and Gundor, and his daughter was Gloredhel.\n\nHador was already old when Morgoth broke the siege in the Dagor Bragollach. He took part in the defence of Eithel Sirion, Fingolfin's fortress, and fell in the fighting there with his son Gundor. His son Galdor succeeded him in Dor-lómin.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man (Edain)",
+   "House or line": "House of Hador",
+   "Children": "Galdor, Gundor, Gloredhel",
+   "Title": "Lord of Dor-lómin",
+   "Died": "F.A. 455"
+  },
+  "places": [
+   {
+    "id": "b:RG02",
+    "role": "ruled",
+    "note": "Governs Dor-lómin under Fingolfin."
+   },
+   {
+    "id": "b:FT02",
+    "role": "died",
+    "note": "Falls defending Eithel Sirion in the Dagor Bragollach."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:galdor",
+   "person:fingolfin",
+   "person:hurin",
+   "person:huor"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:galdor",
+  "title": "Galdor",
+  "group": "Men",
+  "kind": "Lord of Dor-lómin, father of Húrin and Huor",
+  "aka": [
+   "Galdor the Tall"
+  ],
+  "blurb": "Galdor was the son of Hador and lord of Dor-lómin, father of Húrin and Huor.",
+  "book": "Galdor was the son of Hador Lórindol. He was called the Tall. His wife was Hareth, the daughter of Halmir of the Haladin, and they had two sons, Húrin and Huor.\n\nAfter Hador fell in the Dagor Bragollach, Galdor became lord of Dor-lómin. He helped hold Eithel Sirion against the Orcs. He was killed there by an arrow in F.A. 462.\n\nHis son Húrin then became lord of Dor-lómin.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man (Edain)",
+   "House or line": "House of Hador",
+   "Parents": "Hador",
+   "Spouse": "Hareth",
+   "Children": "Húrin, Huor",
+   "Title": "Lord of Dor-lómin",
+   "Died": "F.A. 462"
+  },
+  "places": [
+   {
+    "id": "b:RG02",
+    "role": "ruled",
+    "note": "Becomes lord of Dor-lómin after his father's death."
+   },
+   {
+    "id": "b:FT02",
+    "role": "died",
+    "note": "Killed in the defence of Eithel Sirion."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:hador",
+   "person:hurin",
+   "person:huor"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:hurin",
+  "title": "Húrin Thalion",
+  "group": "Men",
+  "kind": "Lord of Dor-lómin, father of Túrin and Nienor",
+  "aka": [
+   "Húrin the Steadfast",
+   "Thalion",
+   "Húrin Thalion"
+  ],
+  "blurb": "Húrin was the lord of Dor-lómin who fought to the last at the Nírnaeth Arnoediad and was cursed by Morgoth.",
+  "book": "Húrin was the son of Galdor and brother of Huor. As boys, he and Huor spent a year in Gondolin, where Turgon honoured them. They promised never to reveal its location.\n\nHúrin became lord of Dor-lómin and married Morwen. They had Túrin, Urwen and Nienor. At the Nírnaeth Arnoediad he held the rear while the Noldor fled, and killed many Orcs. At last he was taken alive.\n\nMorgoth set Húrin in a chair on Thangorodrim. He cursed him and his kin and forced him to watch their sorrows. Húrin refused to tell the way to Gondolin. After many years he was released.\n\nHe called aloud to Turgon below the Echoriath, and so the enemy learned where Gondolin lay. He found Morwen dying by Túrin's grave at Cabed-en-Aras. Then he took the Nauglamír from the hoard of Nargothrond and cast it at Thingol's feet in Menegroth. At last he cast himself into the western sea.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man (Edain)",
+   "House or line": "House of Hador",
+   "Parents": "Galdor and Hareth",
+   "Spouse": "Morwen",
+   "Children": "Túrin, Urwen, Nienor",
+   "Title": "Lord of Dor-lómin"
+  },
+  "places": [
+   {
+    "id": "b:RG02",
+    "role": "ruled",
+    "note": "Becomes lord of Dor-lómin after his father's death."
+   },
+   {
+    "id": "b:TO03",
+    "role": "lived",
+    "note": "Spends a year in Gondolin with his brother."
+   },
+   {
+    "id": "b:battle:nirnaeth-arnoediad",
+    "role": "fought",
+    "note": "Holds the rear to the last and is taken alive."
+   },
+   {
+    "id": "b:MT02",
+    "role": "other",
+    "note": "Held captive by Morgoth in a chair on the mountain."
+   },
+   {
+    "id": "b:MT08",
+    "role": "other",
+    "note": "Calls to Turgon here, and spies learn where Gondolin lies."
+   },
+   {
+    "id": "b:NP008",
+    "role": "other",
+    "note": "Finds Morwen dying by the stone over Túrin's grave."
+   },
+   {
+    "id": "b:TO02",
+    "role": "found",
+    "note": "Takes the Nauglamír from the ruined treasury."
+   },
+   {
+    "id": "b:TO01",
+    "role": "other",
+    "note": "Casts the Nauglamír at Thingol's feet."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Western sea",
+    "role": "died",
+    "note": "Walks into the sea after his long grief."
+   }
+  ],
+  "related": [
+   "person:morwen",
+   "person:turin",
+   "person:nienor",
+   "person:huor",
+   "person:galdor",
+   "person:morgoth",
+   "person:thingol",
+   "thing:nauglamir"
+  ],
+  "sources": [
+   "The Silmarillion",
+   "Unfinished Tales"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:huor",
+  "title": "Huor",
+  "group": "Men",
+  "kind": "Man of Dor-lómin, father of Tuor",
+  "aka": [],
+  "blurb": "Huor was the younger brother of Húrin and father of Tuor, who fell at the Nírnaeth Arnoediad.",
+  "book": "Huor was the son of Galdor and brother of Húrin. He married Rían, daughter of Belegund, two months before the great battle.\n\nAs a boy, Huor spent a year with Húrin in Gondolin, and Turgon welcomed them.\n\nAt the Nírnaeth Arnoediad he fought beside his brother. Together they covered the retreat of Turgon's host. Huor told Turgon that a new star would arise from their two houses. Then he fell, shot in the eye by a poisoned arrow. Tuor, his son, was born after the battle.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man (Edain)",
+   "House or line": "House of Hador",
+   "Parents": "Galdor and Hareth",
+   "Spouse": "Rían",
+   "Children": "Tuor"
+  },
+  "places": [
+   {
+    "id": "b:RG02",
+    "role": "lived",
+    "note": "Lives in Dor-lómin with his wife Rían."
+   },
+   {
+    "id": "b:TO03",
+    "role": "lived",
+    "note": "Lives with Húrin in Gondolin for a year."
+   },
+   {
+    "id": "b:battle:nirnaeth-arnoediad",
+    "role": "died",
+    "note": "Falls covering Turgon's retreat."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:hurin",
+   "person:rian",
+   "person:tuor",
+   "person:turgon",
+   "person:galdor"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:morwen",
+  "title": "Morwen",
+  "group": "Men",
+  "kind": "Lady of Dor-lómin, wife of Húrin",
+  "aka": [
+   "Eledhwen"
+  ],
+  "blurb": "Morwen was the wife of Húrin and mother of Túrin and Nienor, who endured widowhood in Dor-lómin.",
+  "book": "Morwen was the daughter of Baragund and a kinswoman of Beren. She married Húrin, and they had Túrin, Urwen and Nienor. For her beauty she was called Eledhwen.\n\nAfter the Nírnaeth Arnoediad, Húrin was captured and Dor-lómin fell to the Easterlings. Morwen stayed on in her house, proud and poor. She bore Nienor after Húrin was taken.\n\nShe sent the boy Túrin secretly to Thingol in Doriath, but she would not leave her home. Years later she went to Doriath with Nienor. After Nargothrond fell, she rode out to seek news of Túrin.\n\nShe was lost in Glaurung's mist near Amon Ethir. Long after, Húrin found her by Túrin's grave at Cabed-en-Aras, and she died there.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man (Edain)",
+   "House or line": "House of Bëor",
+   "Parents": "Baragund",
+   "Spouse": "Húrin",
+   "Children": "Túrin, Urwen, Nienor"
+  },
+  "places": [
+   {
+    "id": "b:RG02",
+    "role": "lived",
+    "note": "Remains in Dor-lómin after Húrin is taken."
+   },
+   {
+    "id": "b:TO01",
+    "role": "lived",
+    "note": "Shelters in Thingol's halls before going in search of her children."
+   },
+   {
+    "id": "b:HI06",
+    "role": "other",
+    "note": "Is lost in Glaurung's mist near this hill."
+   },
+   {
+    "id": "b:NP008",
+    "role": "died",
+    "note": "Dies by the stone over Túrin's grave after Húrin finds her."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:hurin",
+   "person:turin",
+   "person:nienor",
+   "person:thingol",
+   "person:aerin"
+  ],
+  "sources": [
+   "The Silmarillion",
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:rian",
+  "title": "Rían",
+  "group": "Men",
+  "kind": "Wife of Huor, mother of Tuor",
+  "aka": [],
+  "blurb": "Rían was the wife of Huor and mother of Tuor, who died of grief on the Haudh-en-Ndengin.",
+  "book": "Rían was the daughter of Belegund of the House of Bëor. She married Huor of the House of Hador and lived in Dor-lómin.\n\nShe was expecting a child when Huor was killed at the Nírnaeth Arnoediad. She fled into the wild, and the Grey-elves of Mithrim took her in.\n\nShe gave birth to Tuor and left him in the care of the Elves. She then went to the Haudh-en-Ndengin on the field of battle. She lay down there and died of grief.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man (Edain)",
+   "House or line": "House of Bëor",
+   "Parents": "Belegund",
+   "Spouse": "Huor",
+   "Children": "Tuor"
+  },
+  "places": [
+   {
+    "id": "b:RG02",
+    "role": "lived",
+    "note": "Lives in Dor-lómin with Huor."
+   },
+   {
+    "id": "b:RG03",
+    "role": "other",
+    "note": "Gives birth to Tuor and leaves him with the Grey-elves of Mithrim."
+   },
+   {
+    "id": "b:GR01",
+    "role": "died",
+    "note": "Lies down on the Hill of Slain and dies."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:huor",
+   "person:tuor",
+   "person:hurin"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:turin",
+  "title": "Túrin Turambar",
+  "group": "Men",
+  "kind": "Man of Dor-lómin, slayer of Glaurung",
+  "aka": [
+   "Turambar",
+   "Neithan",
+   "Agarwaen",
+   "Gorthol",
+   "Mormegil",
+   "Adanedhel"
+  ],
+  "blurb": "Túrin was the son of Húrin, a hero doomed by Morgoth's curse, who slew Glaurung and died by his own sword.",
+  "book": "Túrin was the son of Húrin and Morwen of Dor-lómin. After the Nírnaeth Arnoediad, his mother sent him to Doriath, where Thingol fostered him. He grew skilled in war, but Saeros died fleeing from him after a quarrel, and Túrin left the kingdom.\n\nHe became an outlaw leader and fought Orcs from Amon Rûdh. In Taur-nu-Fuin he slew his friend Beleg by mistake. He went to Nargothrond and named himself Agarwaen, and the Elves called him Mormegil. He fought at Tumhalad and the city fell. Glaurung enchanted him.\n\nHe went to Dor-lómin and slew the Easterling Brodda. Then he went to Brethil and took the name Turambar. There he married Níniel, not knowing she was his sister Nienor. Turambar killed Glaurung at Cabed-en-Aras. When the truth came out, Nienor leapt into the Teiglin.\n\nTúrin killed Brandir in grief. When Mablung confirmed the truth, he fell on his own sword, Gurthang. He was buried beside Cabed-en-Aras.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man (Edain)",
+   "House or line": "House of Hador",
+   "Parents": "Húrin and Morwen",
+   "Siblings": "Urwen, Nienor",
+   "Weapon or steed": "Gurthang, Dragon-helm of Dor-lómin"
+  },
+  "places": [
+   {
+    "id": "b:RG02",
+    "role": "born",
+    "note": "Born in Dor-lómin."
+   },
+   {
+    "id": "b:TO01",
+    "role": "lived",
+    "note": "Fostered by Thingol in Doriath."
+   },
+   {
+    "id": "b:FO08",
+    "role": "other",
+    "note": "Accidentally slays Beleg here."
+   },
+   {
+    "id": "b:HI03",
+    "role": "lived",
+    "note": "Leads the outlaws at Bar-en-Danwedh."
+   },
+   {
+    "id": "b:TO02",
+    "role": "lived",
+    "note": "Becomes a captain of Nargothrond."
+   },
+   {
+    "id": "b:battle:battle-of-tumhalad",
+    "role": "fought",
+    "note": "Fights the Orc host that destroys Nargothrond's army."
+   },
+   {
+    "id": "b:TO08",
+    "role": "lived",
+    "note": "Lives as Turambar and weds Níniel."
+   },
+   {
+    "id": "b:VA01",
+    "role": "died",
+    "note": "Slays Glaurung, then falls on Gurthang."
+   },
+   {
+    "id": "b:NP008",
+    "role": "buried",
+    "note": "His grave is marked here by the Stone of the Hapless."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:hurin",
+   "person:morwen",
+   "person:nienor",
+   "person:beleg",
+   "person:glaurung",
+   "person:brandir",
+   "thing:gurthang",
+   "thing:dragon-helm"
+  ],
+  "sources": [
+   "The Silmarillion",
+   "Unfinished Tales"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:nienor",
+  "title": "Nienor",
+  "group": "Men",
+  "kind": "Daughter of Húrin, called Níniel",
+  "aka": [
+   "Níniel"
+  ],
+  "blurb": "Nienor was the daughter of Húrin and sister of Túrin, who unknowingly married him and leapt into the Teiglin.",
+  "book": "Nienor was the youngest child of Húrin and Morwen, born after the Nírnaeth Arnoediad. When she was grown, she went with her mother to Doriath.\n\nAfter Nargothrond fell, Morwen rode out to seek Túrin, and Nienor followed in disguise. Mablung was sent to guard them. Glaurung found Nienor on Amon Ethir. His spell took her memory, and she fled into the wild.\n\nTúrin, who did not know her, found her lying on Haudh-en-Elleth. He called her Níniel and took her to Brethil. They married.\n\nWhen Túrin killed Glaurung, the dying dragon told her the truth. She leapt into the Teiglin at Cabed-en-Aras and died.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man (Edain)",
+   "House or line": "House of Hador",
+   "Parents": "Húrin and Morwen",
+   "Siblings": "Túrin, Urwen",
+   "Spouse": "Túrin (unknowingly)"
+  },
+  "places": [
+   {
+    "id": "b:RG02",
+    "role": "born",
+    "note": "Born in Dor-lómin."
+   },
+   {
+    "id": "b:TO01",
+    "role": "lived",
+    "note": "Taken in by Thingol and Melian in Doriath."
+   },
+   {
+    "id": "b:HI06",
+    "role": "other",
+    "note": "Glaurung's spell takes her memory on this hill."
+   },
+   {
+    "id": "b:GR02",
+    "role": "other",
+    "note": "Túrin finds her near this grave and names her Níniel."
+   },
+   {
+    "id": "b:TO08",
+    "role": "lived",
+    "note": "Marries Túrin among the Men of Brethil."
+   },
+   {
+    "id": "b:VA01",
+    "role": "died",
+    "note": "Leaps into the Teiglin after learning the truth."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:hurin",
+   "person:morwen",
+   "person:turin",
+   "person:glaurung",
+   "person:mablung-of-doriath",
+   "person:brandir"
+  ],
+  "sources": [
+   "The Silmarillion",
+   "Unfinished Tales"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:tuor",
+  "title": "Tuor",
+  "group": "Men",
+  "kind": "Man of Dor-lómin, messenger of Ulmo",
+  "aka": [],
+  "blurb": "Tuor was the son of Huor, sent by Ulmo to Gondolin, where he wed Idril and became the father of Eärendil.",
+  "book": "Tuor was the son of Huor and Rían, and the cousin of Túrin. He was fostered by Grey-elves in Mithrim after his mother's death. As a young man he was taken as a thrall by the Easterling lord Lorgan.\n\nAfter three years he escaped. Ulmo led him through the Gate of the Noldor and the ravine of Cirith Ninniach to the sea. At Vinyamar in Nevrast he found arms left there by Turgon, and Ulmo appeared to him on the shore. The Vala sent him to find Gondolin and warn Turgon, and the Elf Voronwë guided him.\n\nTuor was brought to Turgon and gave Ulmo's message. He stayed in Gondolin and married Idril. Their son was Eärendil.\n\nIn the fall of the city, Tuor led the survivors out by Idril's secret way and came at last to the Havens of Sirion. Later he built a ship and sailed West with Idril.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man (Edain)",
+   "House or line": "House of Hador",
+   "Parents": "Huor and Rían",
+   "Spouse": "Idril",
+   "Children": "Eärendil"
+  },
+  "places": [
+   {
+    "id": "b:NP004",
+    "role": "lived",
+    "note": "Grows up among the Grey-elves of Androth."
+   },
+   {
+    "id": "b:RG01",
+    "role": "other",
+    "note": "Held as a thrall by Lorgan."
+   },
+   {
+    "id": "b:NP003",
+    "role": "travelled",
+    "note": "Reaches the hidden door by the river and passes through."
+   },
+   {
+    "id": "b:VA02",
+    "role": "travelled",
+    "note": "Follows the ravine from the hidden gate down to the sea."
+   },
+   {
+    "id": "b:TO04",
+    "role": "found",
+    "note": "Finds the arms left by Turgon, and Ulmo appears to him on the shore."
+   },
+   {
+    "id": "b:TO03",
+    "role": "lived",
+    "note": "Lives in Gondolin and marries Idril."
+   },
+   {
+    "id": "b:battle:fall-of-gondolin",
+    "role": "fought",
+    "note": "Leads survivors out by a secret way."
+   },
+   {
+    "id": "b:TO07",
+    "role": "lived",
+    "note": "Dwells at the Havens of Sirion until he sails."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Valinor",
+    "role": "other",
+    "note": "Sails West with Idril and is counted among the Elves."
+   }
+  ],
+  "related": [
+   "person:huor",
+   "person:rian",
+   "person:idril",
+   "person:earendil",
+   "person:ulmo",
+   "person:voronwe",
+   "person:turgon",
+   "person:lorgan"
+  ],
+  "sources": [
+   "The Silmarillion",
+   "Unfinished Tales"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:haleth",
+  "title": "Haleth",
+  "group": "Men",
+  "kind": "Leader of the Haladin, lady of Brethil",
+  "aka": [
+   "Lady Haleth",
+   "Haleth the Lady"
+  ],
+  "blurb": "Haleth was the lady of the Haladin who led her people to safety in the forest of Brethil.",
+  "book": "Haleth was the daughter of Haldad, leader of the Haladin, the second house of the Edain. She was a woman of great courage and will.\n\nOrcs attacked the Haladin in Thargelion, and Haldad and her twin brother Haldar were killed. Haleth then took command. She held the stockade for seven days until Caranthir came to their aid.\n\nAfterward she led her people west. The Haladin settled in Brethil with Thingol's leave, on the terms that they guard the Crossings of Teiglin. Haleth ruled them until her death. She was buried in a mound in the forest, Haudh-en-Arwen.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man (Haladin)",
+   "House or line": "House of Haleth",
+   "Parents": "Haldad",
+   "Siblings": "Haldar",
+   "Title": "Lady of the Haladin"
+  },
+  "places": [
+   {
+    "id": "b:RG15",
+    "role": "fought",
+    "note": "Holds the stockade of her people against the Orcs."
+   },
+   {
+    "id": "b:FO04",
+    "role": "lived",
+    "note": "Leads the Haladin into Brethil, where they settle."
+   },
+   {
+    "id": "b:NP010",
+    "role": "buried",
+    "note": "Buried in the mound named after her."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:brandir",
+   "person:turin",
+   "person:thingol"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:brandir",
+  "title": "Brandir",
+  "group": "Men",
+  "kind": "Lord of Brethil, called the Lame",
+  "aka": [
+   "Brandir the Lame"
+  ],
+  "blurb": "Brandir was the gentle, lame ruler of the Men of Brethil who loved Níniel and was slain by Túrin.",
+  "book": "Brandir was the son of Handir and a descendant of Haleth. He was lamed as a boy and could not fight. He turned to the study of herbs and healing.\n\nAfter Handir was slain by Orcs, Brandir ruled Brethil from Ephel Brandir, but many of the Haladin followed Túrin instead. Brandir loved Níniel, but she married Túrin.\n\nWhen Túrin went to slay Glaurung, Brandir followed Níniel to Cabed-en-Aras. He heard the dying dragon speak, and he saw her leap into the Teiglin.\n\nHe went back to the people at Nen Girith and told them the truth. Túrin, wild with grief, thought him a liar and killed him there.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man (Haladin)",
+   "House or line": "House of Haleth",
+   "Parents": "Handir",
+   "Title": "Lord of Brethil"
+  },
+  "places": [
+   {
+    "id": "b:TO08",
+    "role": "ruled",
+    "note": "Rules the Men of Brethil from Ephel Brandir."
+   },
+   {
+    "id": "b:FA01",
+    "role": "died",
+    "note": "Slain by Túrin after he tells the truth about Níniel."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:turin",
+   "person:nienor",
+   "person:haleth",
+   "person:glaurung"
+  ],
+  "sources": [
+   "The Silmarillion",
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:sador",
+  "title": "Sador",
+  "group": "Men",
+  "kind": "Lame servant of Húrin in Dor-lómin",
+  "aka": [
+   "Labadal"
+  ],
+  "blurb": "Sador was an old lame woodman in Húrin's household who befriended the young Túrin in Dor-lómin.",
+  "book": "Sador, also called Labadal, was a servant in the household of Húrin in Dor-lómin. He had once been a woodman, and he was lame from a wound of his own axe.\n\nHe befriended Túrin when the boy was young and made things in wood. Túrin gave him his own knife as a gift.\n\nYears later Túrin came back to Dor-lómin and fought the Easterlings in Brodda's hall. Sador was killed in that fight.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man",
+   "Realm or home": "Dor-lómin"
+  },
+  "places": [
+   {
+    "id": "b:RG02",
+    "role": "lived",
+    "note": "Serves in Húrin's household and dies in the fight in Brodda's hall."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:turin",
+   "person:hurin",
+   "person:morwen"
+  ],
+  "sources": [
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:aerin",
+  "title": "Aerin",
+  "group": "Men",
+  "kind": "Kinswoman of Húrin, wife of Brodda",
+  "aka": [],
+  "blurb": "Aerin was a kinswoman of Húrin of Dor-lómin who was forced to become the wife of the Easterling Brodda.",
+  "book": "Aerin was a woman of Dor-lómin and a kinswoman of Húrin. After the Nírnaeth Arnoediad, the Easterlings seized the land. Aerin was forced to marry Brodda, one of the new masters.\n\nShe remained loyal to her own people. In secret, she helped Morwen and tried to ease her hardships.\n\nWhen Túrin came back and killed Brodda, Aerin told him where his mother had gone. Later she set fire to her own hall and died in it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man",
+   "Spouse": "Brodda",
+   "Realm or home": "Dor-lómin"
+  },
+  "places": [
+   {
+    "id": "b:RG02",
+    "role": "lived",
+    "note": "Forced to live as Brodda's wife in Dor-lómin."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:brodda",
+   "person:morwen",
+   "person:hurin"
+  ],
+  "sources": [
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:androg",
+  "title": "Andróg",
+  "group": "Men",
+  "kind": "Outlaw of Túrin's band",
+  "aka": [],
+  "blurb": "Androg was one of the outlaws who joined Túrin's band and lived with it on Amon Rûdh.",
+  "book": "Andróg was a man of the outlaw band that Túrin came to lead. He was among its members before Túrin joined.\n\nHe lived with the company on the hill of Amon Rûdh. Before that, he shot an arrow at the Petty-dwarves, and it gave Mîm's son Khîm his death. Mîm cursed him for it.\n\nHe died in the Orc attack on Bar-en-Danwedh.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man"
+  },
+  "places": [
+   {
+    "id": "b:HI03",
+    "role": "lived",
+    "note": "Lives with Túrin's company on the hill."
+   },
+   {
+    "id": "b:battle:fall-of-bar-en-danwedh",
+    "role": "died",
+    "note": "Dies of his wounds when the Orcs take the hill."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:turin",
+   "person:beleg",
+   "person:mim",
+   "person:khim"
+  ],
+  "sources": [
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:brodda",
+  "title": "Brodda",
+  "group": "Enemies",
+  "kind": "Easterling who took Húrin's lands",
+  "aka": [],
+  "blurb": "Brodda was an Easterling who seized power in Dor-lómin, took Aerin as wife and was slain by Túrin.",
+  "book": "Brodda was one of the Easterlings who settled in Dor-lómin after the Nírnaeth Arnoediad. He used the land and people of Húrin for his own gain.\n\nHe took Aerin, a kinswoman of Húrin, as his wife by force. He treated Morwen with disrespect.\n\nWhen Túrin returned to Dor-lómin, he learned of Brodda's cruelty. At a feast in Brodda's hall, Túrin attacked and killed him.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man (Easterling)",
+   "Spouse": "Aerin",
+   "Realm or home": "Dor-lómin"
+  },
+  "places": [
+   {
+    "id": "b:RG02",
+    "role": "lived",
+    "note": "Holds Húrin's former lands in Dor-lómin and dies there at Túrin's hand."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:aerin",
+   "person:turin",
+   "person:morwen",
+   "person:lorgan"
+  ],
+  "sources": [
+   "Unfinished Tales"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "person:lorgan",
+  "title": "Lorgan",
+  "group": "Enemies",
+  "kind": "Chief of the Easterlings in Hithlum",
+  "aka": [],
+  "blurb": "Lorgan was the chief of the Easterlings in Hithlum and held the young Tuor as a thrall.",
+  "book": "Lorgan was the chief of the Easterlings who held Hithlum under Morgoth after the Nírnaeth Arnoediad. He was cruel to those whom he ruled.\n\nHe took the young Tuor son of Huor as a thrall. Tuor spent three years in his service before he escaped to the wild.\n\nThe books do not record how Lorgan met his end.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Man (Easterling)",
+   "Title": "Chief of the Easterlings in Hithlum",
+   "Realm or home": "Hithlum"
+  },
+  "places": [
+   {
+    "id": "b:RG01",
+    "role": "ruled",
+    "note": "Rules the Easterlings in Hithlum and keeps Tuor as a thrall."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:tuor",
+   "person:morgoth",
+   "person:brodda"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ }
+]

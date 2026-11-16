@@ -1,0 +1,1120 @@
+[
+ {
+  "id": "person:durin-the-deathless",
+  "title": "Durin the Deathless",
+  "group": "Dwarves",
+  "kind": "Eldest Father of the Dwarves, founder of Khazad-dûm",
+  "aka": [
+   "Durin I",
+   "Eldest of the Seven Fathers",
+   "Father of the Longbeards"
+  ],
+  "blurb": "Durin was the eldest of the Seven Fathers of the Dwarves and the founder of Khazad-dûm, the great mansion later called Moria.",
+  "book": "Durin was the eldest of the seven Dwarf-fathers whom the Vala Aulë made in the deeps of the world. The Dwarves of his line, the Longbeards, honoured him as their forefather.\n\nHe woke in the far north of Middle-earth. He later travelled south and came to a dale beneath the Misty Mountains. There he looked into a still lake and saw a crown of stars shining above his reflection.\n\nDurin took this as a sign and founded a hall near the lake. That hall grew into Khazad-dûm, the greatest of Dwarf cities. The lake became known as the Mirrormere. A stone was later set where he first looked into it.\n\nDurin lived for so long that the Dwarves called him the Deathless. Later kings of his line were named Durin in his memory, and the Dwarves said that he returned in them.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Dwarf",
+   "Title": "Eldest of the Seven Fathers of the Dwarves",
+   "Made by": "Aulë",
+   "Realm or home": "Khazad-dûm"
+  },
+  "places": [
+   {
+    "id": "NP011",
+    "role": "other",
+    "note": "Marks the spot where Durin first looked into the lake and saw the crown of stars."
+   },
+   {
+    "id": "LA012",
+    "role": "other",
+    "note": "Sees a crown of stars reflected in the lake and takes it as a sign."
+   },
+   {
+    "id": "TO066",
+    "role": "ruled",
+    "note": "Founds Khazad-dûm in the dale beside the lake and rules it for ages."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:durin-vi",
+   "person:durins-bane",
+   "person:narvi",
+   "thing:mithril",
+   "person:thrain-i"
+  ],
+  "sources": [
+   "The Silmarillion",
+   "The Lord of the Rings, Book II",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:durin-vi",
+  "title": "Durin VI",
+  "group": "Dwarves",
+  "kind": "King of Khazad-dûm slain by the Balrog",
+  "aka": [
+   "King of Khazad-dûm"
+  ],
+  "blurb": "Durin VI was a king of Khazad-dûm whom the Balrog killed in T.A. 1980, after his Dwarves delved too deep.",
+  "book": "Durin VI was a king of Durin's Folk in Khazad-dûm during the Third Age. His reign came in the long years when the Dwarves of Moria mined mithril, the most prized metal in the world.\n\nThe miners dug ever deeper in search of it. In T.A. 1980 they woke a terrible creature of the old world that had slept beneath the mountain. The Dwarves later called it Durin's Bane.\n\nThe Balrog killed Durin VI. His son Náin I became king, but the Balrog killed him a year later.\n\nThe survivors of the Dwarf-kingdom then fled from Khazad-dûm. Many years passed before any of Durin's line dared to return.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Dwarf",
+   "Died": "T.A. 1980",
+   "Title": "King of Khazad-dûm",
+   "Realm or home": "Khazad-dûm",
+   "Born": "T.A. 1731"
+  },
+  "places": [
+   {
+    "id": "TO066",
+    "role": "died",
+    "note": "Killed by the Balrog that the Dwarves woke from the deeps in T.A. 1980."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:durins-bane",
+   "person:durin-the-deathless",
+   "person:thrain-i",
+   "thing:mithril"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:thrain-i",
+  "title": "Thráin I",
+  "group": "Dwarves",
+  "kind": "First King under the Mountain",
+  "aka": [
+   "King under the Mountain"
+  ],
+  "blurb": "Thráin I led the Dwarves of Durin's line out of Moria and founded the kingdom under the Lonely Mountain.",
+  "book": "Thráin I was the son of Náin I and a grandson of Durin VI. He belonged to the royal house of Durin's Folk in Khazad-dûm.\n\nIn T.A. 1980 the Balrog killed Durin VI, and in T.A. 1981 it killed Náin I. Thráin then led the survivors out of Khazad-dûm and into exile.\n\nHe wandered north and reached the Lonely Mountain in T.A. 1999. Deep in its roots he found the Arkenstone, the white jewel that later became the heart of the Dwarf-hoard.\n\nThráin established a new kingdom there, the Kingdom under the Mountain. Many Dwarves gathered to him. He ruled until his death in T.A. 2190.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Dwarf",
+   "Died": "T.A. 2190",
+   "Parents": "Náin I",
+   "Title": "King under the Mountain",
+   "Realm or home": "Erebor",
+   "Born": "T.A. 1934"
+  },
+  "places": [
+   {
+    "id": "TO066",
+    "role": "other",
+    "note": "Flees Khazad-dûm with the survivors after the Balrog kills his father in T.A. 1981."
+   },
+   {
+    "id": "MT029",
+    "role": "found",
+    "note": "Comes to the Lonely Mountain in T.A. 1999 and finds the Arkenstone in its roots."
+   },
+   {
+    "id": "realm:erebor",
+    "role": "ruled",
+    "note": "Rules as the first King under the Mountain until his death in T.A. 2190."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "thing:arkenstone",
+   "person:durin-vi",
+   "person:thror",
+   "person:thorin-oakenshield",
+   "person:durins-bane"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A",
+   "The Hobbit"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:narvi",
+  "title": "Narvi",
+  "group": "Dwarves",
+  "kind": "Dwarf craftsman of Khazad-dûm",
+  "aka": [
+   "Maker of the West-gate"
+  ],
+  "blurb": "Narvi was a Dwarf-smith of Khazad-dûm who made the West-gate of Moria in the Second Age.",
+  "book": "Narvi was a Dwarf of Khazad-dûm who lived in the Second Age. He was a skilled craftsman.\n\nIn that age Dwarves and Elves of Eregion were close friends. Narvi built the West-gate of Moria, the doors that face west toward Eregion.\n\nCelebrimbor of Eregion drew the shining signs on those doors. The signs were made of ithildin, which shows only in starlight or moonlight.\n\nThe doors bear his name as their maker. Gandalf reads it when the Fellowship stands before them in T.A. 3019.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Dwarf",
+   "Realm or home": "Khazad-dûm"
+  },
+  "places": [
+   {
+    "id": "DO009",
+    "role": "made",
+    "note": "Builds the West-gate of Moria, the doors whose signs Celebrimbor later draws."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:celebrimbor",
+   "person:gandalf",
+   "person:gimli",
+   "person:durin-the-deathless"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:azaghal",
+  "title": "Azaghâl",
+  "group": "Dwarves",
+  "kind": "Lord of Belegost in the First Age",
+  "aka": [
+   "Lord of Belegost"
+  ],
+  "blurb": "Azaghâl was Lord of the Dwarves of Belegost, who wounded Glaurung at the Nírnaeth Arnoediad in F.A. 472 and died there.",
+  "book": "Azaghâl was the lord of Belegost, one of the two great Dwarf-cities in the Blue Mountains. He was a mighty leader of his people in the wars of Beleriand.\n\nHe came to the Nírnaeth Arnoediad, the Battle of Unnumbered Tears, with the Dwarves of Belegost. They were hardy warriors, and they were less hurt by dragon-fire than Elves or Men.\n\nWhen Glaurung, the father of dragons, came into the battle, Azaghâl stabbed him in the belly with his knife. The wound forced Glaurung to turn back, and his Orcs lost heart.\n\nGlaurung fell upon Azaghâl in his pain and crushed him. The Dwarves of Belegost carried their lord from the field.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Dwarf",
+   "Died": "F.A. 472",
+   "Title": "Lord of Belegost",
+   "Realm or home": "Belegost"
+  },
+  "places": [
+   {
+    "id": "b:TO09",
+    "role": "ruled",
+    "note": "Rules the Dwarves of Belegost in the Blue Mountains."
+   },
+   {
+    "id": "b:battle:nirnaeth-arnoediad",
+    "role": "fought",
+    "note": "Wounds Glaurung with his knife and is crushed by the dragon."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:glaurung",
+   "person:maedhros",
+   "person:fingon"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:telchar",
+  "title": "Telchar",
+  "group": "Dwarves",
+  "kind": "Famous Dwarf-smith of Nogrod",
+  "aka": [
+   "Telchar the Smith",
+   "Smith of Nogrod"
+  ],
+  "blurb": "Telchar was a master smith of Nogrod in the First Age who made the sword Narsil and the knife Angrist.",
+  "book": "Telchar was a Dwarf of Nogrod in the Blue Mountains. He was the most renowned smith of the Dwarves in the First Age.\n\nHe forged the sword Narsil, which Elendil bore in the Last Alliance. Isildur used its broken blade to cut the One Ring from Sauron's hand. The sword was later reforged as Andúril.\n\nHe also made the knife Angrist, which could cut iron. Beren later used it to cut a Silmaril from the crown of Morgoth.\n\nUnfinished Tales credits Telchar with the Dragon-helm of Dor-lómin as well. The Dwarves of Nogrod long remembered his name.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Dwarf",
+   "Realm or home": "Nogrod"
+  },
+  "places": [
+   {
+    "id": "b:TO10",
+    "role": "lived",
+    "note": "Lives and works as a smith in Nogrod in the Blue Mountains."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "thing:anduril",
+   "thing:angrist",
+   "thing:dragon-helm",
+   "person:beren",
+   "person:elendil"
+  ],
+  "sources": [
+   "The Silmarillion",
+   "The Lord of the Rings, Book II",
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:mim",
+  "title": "Mîm",
+  "group": "Dwarves",
+  "kind": "Petty-dwarf of Amon Rûdh",
+  "aka": [
+   "Mîm the Petty-dwarf"
+  ],
+  "blurb": "Mîm was a Petty-dwarf who sheltered Túrin's outlaws on Amon Rûdh and later betrayed them to the Orcs.",
+  "book": "Mîm was one of the Petty-dwarves, a small and secretive people who were driven out of their old homes in Beleriand. He lived with his sons Ibun and Khîm in a hidden stronghold on Amon Rûdh.\n\nTúrin's outlaw band caught Mîm. Andróg shot at his fleeing sons, and an arrow struck Khîm. Mîm bought his life by taking the band to his hidden halls, Bar-en-Danwedh.\n\nMîm hated the Elves and had little love for Men. Still, the outlaws made their home on Amon Rûdh, and Túrin became lord of that place.\n\nLater Orcs caught Mîm and Ibun. To save his son, Mîm led the Orcs to the hidden halls. The Orcs overran Bar-en-Danwedh, and Túrin lost most of his band.\n\nAfter Nargothrond fell, Mîm took its treasure for himself. Húrin found him at the doors of Nargothrond and killed him.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Petty-dwarf",
+   "Children": "Ibun, Khîm",
+   "Realm or home": "Amon Rûdh"
+  },
+  "places": [
+   {
+    "id": "b:HI03",
+    "role": "lived",
+    "note": "Lives in the hidden halls of Bar-en-Danwedh and shelters Túrin's band."
+   },
+   {
+    "id": "b:battle:fall-of-bar-en-danwedh",
+    "role": "other",
+    "note": "Betrays the outlaws to the Orcs, who storm the stronghold."
+   },
+   {
+    "id": "b:TO02",
+    "role": "died",
+    "note": "Takes the hoard of the ruined city and is killed there by Húrin."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:ibun",
+   "person:khim",
+   "person:turin",
+   "person:androg",
+   "person:hurin",
+   "thing:nauglamir"
+  ],
+  "sources": [
+   "The Silmarillion",
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:ibun",
+  "title": "Ibun",
+  "group": "Dwarves",
+  "kind": "Petty-dwarf, son of Mîm",
+  "aka": [
+   "Son of Mîm"
+  ],
+  "blurb": "Ibun was a Petty-dwarf, a son of Mîm of Amon Rûdh, whose capture by Orcs led Mîm to betray Túrin.",
+  "book": "Ibun was a Petty-dwarf and a son of Mîm. He and his brother Khîm lived with their father at Bar-en-Danwedh on Amon Rûdh.\n\nWhen Túrin's outlaws caught Mîm, Ibun and Khîm fled. An outlaw's arrow struck Khîm, and he died of the wound. Ibun lived on with his father, and the outlaws came to dwell in their halls.\n\nLater Orcs caught Mîm and Ibun. To save his son, Mîm led the Orcs to the hidden halls, and the outlaws were overrun.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Petty-dwarf",
+   "Parents": "Mîm",
+   "Siblings": "Khîm",
+   "Realm or home": "Amon Rûdh"
+  },
+  "places": [
+   {
+    "id": "b:HI03",
+    "role": "lived",
+    "note": "Lives with his father and brother in the hidden halls of Bar-en-Danwedh."
+   },
+   {
+    "id": "b:battle:fall-of-bar-en-danwedh",
+    "role": "other",
+    "note": "His capture by Orcs leads Mîm to betray the outlaws."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:mim",
+   "person:khim",
+   "person:turin"
+  ],
+  "sources": [
+   "The Silmarillion",
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:khim",
+  "title": "Khîm",
+  "group": "Dwarves",
+  "kind": "Petty-dwarf, son of Mîm",
+  "aka": [
+   "Son of Mîm"
+  ],
+  "blurb": "Khîm was a Petty-dwarf, a son of Mîm, who died of an arrow wound from one of Túrin's outlaws.",
+  "book": "Khîm was a Petty-dwarf and a son of Mîm. He lived with his father and his brother Ibun on Amon Rûdh.\n\nTúrin's outlaws chased three Dwarves near the hill and caught Mîm. Andróg shot at the two who fled, and an arrow struck Khîm. He died of the wound in the hidden halls.\n\nMîm grieved for his son. He still agreed to guide the band to his hidden halls, Bar-en-Danwedh, and so he saved his own life.\n\nThe death of Khîm was a root of Mîm's later bitterness, and of his betrayal of the outlaws.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Petty-dwarf",
+   "Parents": "Mîm",
+   "Siblings": "Ibun",
+   "Realm or home": "Amon Rûdh"
+  },
+  "places": [
+   {
+    "id": "b:HI03",
+    "role": "died",
+    "note": "Dies of an outlaw's arrow wound in the hidden halls on Amon Rûdh."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:mim",
+   "person:ibun",
+   "person:turin",
+   "person:androg"
+  ],
+  "sources": [
+   "The Silmarillion",
+   "Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:smaug",
+  "title": "Smaug",
+  "group": "Creatures",
+  "kind": "Great fire-drake of the North, called the Golden",
+  "aka": [
+   "Smaug the Golden",
+   "the dragon",
+   "the Worm",
+   "Chiefest of Calamities"
+  ],
+  "blurb": "Smaug was the greatest dragon of his day. He took Erebor in T.A. 2770 and died at the hand of Bard in T.A. 2941.",
+  "book": "Smaug was a fire-drake who came from the north in T.A. 2770, drawn by tales of the Dwarf-gold under the Lonely Mountain. He destroyed Dale, entered Erebor by the Front Gate and drove out the Dwarves.\n\nHe made his lair in the Dwarf-halls and slept on the great hoard. His scales were red and gold, and his belly was crusted with gems. The land around the mountain became the Desolation of Smaug.\n\nIn T.A. 2941 Thorin's Company came to take back the treasure. Bilbo Baggins entered the hall alone and spoke with Smaug. Bilbo saw a bare patch on the dragon's chest.\n\nA thrush heard Bilbo's tale and told it to Bard. Smaug, in his rage, attacked Lake-town. Bard shot him through the bare patch with the Black Arrow, and the dragon fell dead on the town.",
+  "film": "Benedict Cumberbatch voices Smaug and performs his motion capture. The Desolation of Smaug adds a long chase through the halls of Erebor. Bard kills him at the opening of The Battle of the Five Armies.",
+  "series": "",
+  "facts": {
+   "Race": "Dragon",
+   "Kind": "Fire-drake",
+   "Died": "T.A. 2941",
+   "Realm or home": "Erebor"
+  },
+  "places": [
+   {
+    "id": "battle:sack-of-erebor",
+    "role": "fought",
+    "note": "Takes Dale and Erebor in T.A. 2770 and drives out the Dwarves."
+   },
+   {
+    "id": "TO024",
+    "role": "destroyed",
+    "note": "Lays Dale waste when he comes to the Mountain in T.A. 2770."
+   },
+   {
+    "id": "MT029",
+    "role": "lived",
+    "note": "Lies on the hoard in the halls beneath the Lonely Mountain for about 170 years."
+   },
+   {
+    "id": "NP036",
+    "role": "lived",
+    "note": "The land about his lair is laid waste and named after him."
+   },
+   {
+    "id": "TO053",
+    "role": "died",
+    "note": "Attacks the town and is shot dead by Bard in T.A. 2941."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:bard",
+   "person:bilbo-baggins",
+   "person:thorin-oakenshield",
+   "person:thror",
+   "thing:black-arrow",
+   "thing:arkenstone"
+  ],
+  "sources": [
+   "The Hobbit",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:bert",
+  "title": "Bert",
+  "group": "Creatures",
+  "kind": "One of the three stone-trolls",
+  "aka": [
+   "Bert the troll",
+   "Stone-troll"
+  ],
+  "blurb": "Bert was one of three trolls who caught Bilbo and the Dwarves on the Road and turned to stone at sunrise in T.A. 2941.",
+  "book": "Bert was a troll who lived with two companions, Tom and William, in the lands west of Rivendell. The three of them cooked mutton and quarrelled by a fire.\n\nThorin's Company stumbled on their camp in T.A. 2941. Bilbo was sent to scout, and the trolls captured him. They then caught the Dwarves one by one.\n\nGandalf copied the voices of the trolls from the dark, and Bert, Tom and William fell to arguing. They were still quarrelling when the sun rose.\n\nThe sun turned them to stone. The company then found the trolls' cave and hoard. It held the swords Glamdring and Orcrist and the knife that became Sting. In T.A. 3018 Strider led Frodo past the three stone figures.",
+  "film": "In An Unexpected Journey, the trolls are named Bert, Tom and William and speak in comic voices. Bilbo stalls them, and Gandalf splits a rock to let the dawn light fall on them.",
+  "series": "",
+  "facts": {
+   "Race": "Troll",
+   "Kind": "Stone-troll",
+   "Realm or home": "The Trollshaws"
+  },
+  "places": [
+   {
+    "id": "NP006",
+    "role": "other",
+    "note": "Camps here, catches Bilbo and the Dwarves, and is turned to stone at dawn."
+   },
+   {
+    "id": "CA014",
+    "role": "kept",
+    "note": "Shares the trolls' cave and hoard, where the company later finds swords."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:william",
+   "person:tom-the-troll",
+   "person:gandalf",
+   "person:bilbo-baggins",
+   "thing:sting",
+   "thing:orcrist",
+   "thing:glamdring"
+  ],
+  "sources": [
+   "The Hobbit"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:william",
+  "title": "William",
+  "group": "Creatures",
+  "kind": "One of the three stone-trolls",
+  "aka": [
+   "William Huggins",
+   "Bill Huggins",
+   "Stone-troll"
+  ],
+  "blurb": "William Huggins was one of the three trolls of the Trollshaws, who caught Bilbo and was turned to stone in T.A. 2941.",
+  "book": "William Huggins was a troll who shared a camp west of Rivendell with Bert and Tom. He was a coarse creature who grumbled about eating mutton every day.\n\nBilbo tried to take William's purse as the first test of his burglary. The purse cried out, and William seized him.\n\nThe trolls then caught the Dwarves one by one. Gandalf copied their voices from the shadows and set them quarrelling until dawn.\n\nWhen the sun rose, William turned to stone. In T.A. 3018 Strider led Frodo and his friends past the three stone figures.",
+  "film": "In An Unexpected Journey, William is one of the three trolls, along with Bert and Tom. Bilbo stalls them, and Gandalf splits a rock to let in the sunlight.",
+  "series": "",
+  "facts": {
+   "Race": "Troll",
+   "Kind": "Stone-troll",
+   "Realm or home": "The Trollshaws"
+  },
+  "places": [
+   {
+    "id": "NP006",
+    "role": "other",
+    "note": "Seizes Bilbo at his camp and is turned to stone by sunrise."
+   },
+   {
+    "id": "CA014",
+    "role": "kept",
+    "note": "Shares the trolls' cave and hoard, where the company later finds swords."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:bert",
+   "person:tom-the-troll",
+   "person:gandalf",
+   "person:bilbo-baggins",
+   "thing:sting"
+  ],
+  "sources": [
+   "The Hobbit"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:tom-the-troll",
+  "title": "Tom (troll)",
+  "group": "Creatures",
+  "kind": "One of the three stone-trolls",
+  "aka": [
+   "Tom",
+   "Stone-troll"
+  ],
+  "blurb": "Tom was one of the three trolls who caught Bilbo in the Trollshaws and was turned to stone in T.A. 2941.",
+  "book": "Tom was a troll who lived in the lands west of Rivendell with his friends Bert and William. The three cooked mutton on a fire near the Road.\n\nIn T.A. 2941 Thorin's Company came upon their camp, and Bilbo went to see what it was. The trolls caught Bilbo and then the Dwarves.\n\nThey could not agree how to cook their prisoners. Gandalf copied their voices and made them argue until the first light came.\n\nThe sun turned Tom to stone. Bilbo and his friends found the trolls' cave and its treasure, including swords of the Elves of Gondolin.",
+  "film": "In An Unexpected Journey, Tom is one of three talking trolls who threaten to cook the Dwarves. Bilbo stalls them until Gandalf lets in the sunlight.",
+  "series": "",
+  "facts": {
+   "Race": "Troll",
+   "Kind": "Stone-troll",
+   "Realm or home": "The Trollshaws"
+  },
+  "places": [
+   {
+    "id": "NP006",
+    "role": "other",
+    "note": "Joins in capturing the company and is turned to stone at sunrise."
+   },
+   {
+    "id": "CA014",
+    "role": "kept",
+    "note": "Shares the trolls' cave and hoard, where the company later finds swords."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:bert",
+   "person:william",
+   "person:gandalf",
+   "person:bilbo-baggins",
+   "thing:glamdring",
+   "thing:orcrist"
+  ],
+  "sources": [
+   "The Hobbit"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:great-goblin",
+  "title": "Great Goblin",
+  "group": "Enemies",
+  "kind": "Ruler of Goblin-town",
+  "aka": [
+   "Goblin-king",
+   "Great Goblin of Goblin-town"
+  ],
+  "blurb": "The Great Goblin ruled Goblin-town in the Misty Mountains and died when Gandalf killed him in T.A. 2941.",
+  "book": "The Great Goblin was the huge ruler of the Orcs who lived in Goblin-town, deep in the Misty Mountains. His Orcs raided the passes and took prisoners.\n\nIn T.A. 2941 the goblins seized Thorin's Company in a cave and dragged them to his hall. He grew furious when he saw the sword Orcrist, which the goblins knew as Biter and hated.\n\nHe ordered the Dwarves seized. Gandalf then appeared in a flash of light, slew the Great Goblin with Glamdring, and rescued the company.\n\nThe goblins later gathered to avenge him. That anger helped bring about the Battle of Five Armies.",
+  "film": "In The Hobbit: An Unexpected Journey, the Great Goblin is a huge, bloated creature voiced by Barry Humphries. Gandalf kills him.",
+  "series": "",
+  "facts": {
+   "Race": "Goblin",
+   "Title": "Ruler of Goblin-town",
+   "Realm or home": "Goblin-town"
+  },
+  "places": [
+   {
+    "id": "TO039",
+    "role": "died",
+    "note": "Rules the goblins here and is killed by Gandalf when the company is captured."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:gandalf",
+   "person:thorin-oakenshield",
+   "person:bolg",
+   "thing:orcrist",
+   "thing:glamdring"
+  ],
+  "sources": [
+   "The Hobbit"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:azog",
+  "title": "Azog",
+  "group": "Enemies",
+  "kind": "Orc chief of Moria",
+  "aka": [
+   "Azog the Defiler",
+   "Chief of the Orcs of Moria"
+  ],
+  "blurb": "Azog was an Orc chief of Moria who killed Thrór in T.A. 2790 and was slain by Dáin at Azanulbizar in T.A. 2799.",
+  "book": "Azog was a great Orc who ruled in Moria after the Dwarves lost it. He was fierce and proud.\n\nIn T.A. 2790 Thrór went to Moria alone. Azog killed him inside and threw his body out at the gate. He cut his own name on the dead king's head, as an insult to the Dwarves.\n\nThe Dwarves gathered a great host and fought the Orcs for years. Their last battle was at Azanulbizar, in the valley below Moria, in T.A. 2799.\n\nDáin Ironfoot killed Azog before the East-gate. The Dwarves won the battle at great cost, but they did not enter Moria.",
+  "film": "In The Hobbit films, Azog is a pale Orc leader played by Manu Bennett, who hunts Thorin through the story. He survives Azanulbizar, and Thorin kills him at Ravenhill.",
+  "series": "",
+  "facts": {
+   "Race": "Orc",
+   "Died": "T.A. 2799",
+   "Title": "Chief of the Orcs of Moria",
+   "Realm or home": "Moria"
+  },
+  "places": [
+   {
+    "id": "TO066",
+    "role": "lived",
+    "note": "Rules the Orcs in Moria and kills Thrór there in T.A. 2790."
+   },
+   {
+    "id": "battle:azanulbizar",
+    "role": "died",
+    "note": "Leads the Orcs and is slain by Dáin Ironfoot before the East-gate."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:thror",
+   "person:dain-ii-ironfoot",
+   "person:bolg",
+   "person:thrain-ii",
+   "person:thorin-oakenshield"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:bolg",
+  "title": "Bolg",
+  "group": "Enemies",
+  "kind": "Orc chief, son of Azog",
+  "aka": [
+   "Bolg of the North",
+   "Son of Azog"
+  ],
+  "blurb": "Bolg was Azog's son and led the Orcs at the Battle of Five Armies, where Beorn killed him.",
+  "book": "Bolg was the son of Azog the Orc. The Hobbit calls him Bolg of the North.\n\nThe Goblins wanted revenge on the Dwarves after the death of the Great Goblin. In T.A. 2941 Bolg led a great army of goblins and wolves toward the Lonely Mountain.\n\nThey struck the Dwarves, Men and Elves in the Battle of Five Armies. The Orcs were near victory until the Eagles and then Beorn came to the field.\n\nBeorn killed Bolg, and the goblin host broke and fled.",
+  "film": "In the films, Bolg is a huge Orc played by Lawrence Makoare and then John Tui. He leads the northern host, and Legolas kills him in the battle.",
+  "series": "",
+  "facts": {
+   "Race": "Orc",
+   "Parents": "Azog",
+   "Died": "T.A. 2941"
+  },
+  "places": [
+   {
+    "id": "battle:five-armies",
+    "role": "died",
+    "note": "Leads the Orc host at the Battle of Five Armies and is slain by Beorn."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:azog",
+   "person:beorn",
+   "person:great-goblin",
+   "person:thorin-oakenshield",
+   "person:dain-ii-ironfoot"
+  ],
+  "sources": [
+   "The Hobbit",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:golfimbul",
+  "title": "Golfimbul",
+  "group": "Enemies",
+  "kind": "Orc-chief of Mount Gram",
+  "aka": [
+   "Golfimbul of Mount Gram"
+  ],
+  "blurb": "Golfimbul was an Orc-chief who invaded the Shire in T.A. 2747 and died at the Battle of Greenfields.",
+  "book": "Golfimbul was the chief of a band of Orcs from Mount Gram. In T.A. 2747 he led his Orcs west into Eriador.\n\nThey crossed into the Northfarthing of the Shire.\n\nBandobras Took, called Bullroarer, rode against them. At the Battle of Greenfields he struck off Golfimbul's head with a wooden club.\n\nThe head flew away and fell into a rabbit-hole. The Hobbits say that this is how the game of golf began.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Orc",
+   "Died": "T.A. 2747",
+   "Title": "Orc-chief of Mount Gram"
+  },
+  "places": [
+   {
+    "id": "battle:greenfields",
+    "role": "died",
+    "note": "Leads the raid and is killed by Bandobras Took at Greenfields in T.A. 2747."
+   },
+   {
+    "id": "NP043",
+    "role": "travelled",
+    "note": "Leads his band into the Northfarthing of the Shire."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Mount Gram",
+    "role": "lived",
+    "note": "Home of his Orc band; the books do not say exactly where it lies."
+   }
+  ],
+  "related": [
+   "person:bandobras-took",
+   "person:bilbo-baggins"
+  ],
+  "sources": [
+   "The Hobbit",
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:roac",
+  "title": "Roäc",
+  "group": "Creatures",
+  "kind": "Chief of the ravens of Ravenhill",
+  "aka": [
+   "Roäc son of Carc",
+   "Chief of the Ravens"
+  ],
+  "blurb": "Roäc was the aged chief of the ravens of Ravenhill, who told Thorin of Smaug's death and counselled peace with Bard.",
+  "book": "Roäc was the son of Carc and the chief of the ravens who lived on Ravenhill, close to the Lonely Mountain. He was very old, about one hundred and fifty-three years. He could speak the common tongue.\n\nThe ravens were old friends of the Dwarves of Thrór's house and carried their messages.\n\nIn T.A. 2941 Roäc came to Thorin at the Mountain. He told the Dwarves that Smaug was dead. He also warned that Men and Elves were marching to the Mountain for a share of the hoard. He advised Thorin to trust Bard.\n\nThorin did not take this advice. Instead he sent ravens to his cousin Dáin in the Iron Hills to ask for help.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Raven",
+   "Parents": "Carc",
+   "Title": "Chief of the ravens of Ravenhill",
+   "Realm or home": "Ravenhill"
+  },
+  "places": [
+   {
+    "id": "HI042",
+    "role": "lived",
+    "note": "Leads the ravens here and brings Thorin news of Smaug's death in T.A. 2941."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:thorin-oakenshield",
+   "person:dain-ii-ironfoot",
+   "person:bard",
+   "person:smaug",
+   "person:thror"
+  ],
+  "sources": [
+   "The Hobbit"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:gwaihir",
+  "title": "Gwaihir",
+  "group": "Creatures",
+  "kind": "Windlord, chief of the Great Eagles",
+  "aka": [
+   "The Windlord",
+   "Lord of the Eagles"
+  ],
+  "blurb": "Gwaihir the Windlord was the greatest of the Great Eagles in his time. He carried Gandalf from Orthanc and Frodo and Sam from Mount Doom.",
+  "book": "Gwaihir the Windlord was a Great Eagle of the North. With his brother Landroval he was the greatest of the Eagles of his time. They came of the line of Thorondor.\n\nIn T.A. 3018 Radagast asked Gwaihir to carry news to Gandalf. Gwaihir found Gandalf imprisoned on the pinnacle of Orthanc and flew him out of Isengard into Rohan.\n\nIn T.A. 3019 Gandalf fell with the Balrog and died on the peak of Celebdil. When he came back, Gwaihir found him there and carried him to Lothlórien.\n\nLater that year the Eagles came to the Black Gate and fought the Nazgûl. After the fall of Sauron, Gwaihir carried Gandalf to Mount Doom. With Landroval and the young Meneldor he bore Frodo and Sam out of the fires.",
+  "film": "In the films, Gwaihir carries Gandalf away from Orthanc and rescues Frodo and Sam from Mount Doom. The Hobbit films show the Eagles saving the Company.",
+  "series": "",
+  "facts": {
+   "Race": "Eagle",
+   "Title": "The Windlord",
+   "Siblings": "Landroval"
+  },
+  "places": [
+   {
+    "id": "BU021",
+    "role": "other",
+    "note": "Rescues Gandalf from the pinnacle of Orthanc in T.A. 3018."
+   },
+   {
+    "id": "MT007",
+    "role": "other",
+    "note": "Finds Gandalf on the peak after his fight with the Balrog."
+   },
+   {
+    "id": "FO017",
+    "role": "travelled",
+    "note": "Carries Gandalf from Celebdil to Lothlórien in T.A. 3019."
+   },
+   {
+    "id": "battle:morannon",
+    "role": "fought",
+    "note": "Leads the Eagles against the Nazgûl at the Black Gate."
+   },
+   {
+    "id": "MT036",
+    "role": "other",
+    "note": "Bears Gandalf there and carries Frodo and Sam out of the fires."
+   },
+   {
+    "id": "FI010",
+    "role": "travelled",
+    "note": "Brings the rescued Hobbits to the Field of Cormallen in Ithilien."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:gandalf",
+   "person:landroval",
+   "person:meneldor",
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:thorondor",
+   "person:radagast"
+  ],
+  "sources": [
+   "The Lord of the Rings, Books II, III and VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:landroval",
+  "title": "Landroval",
+  "group": "Creatures",
+  "kind": "Great Eagle, brother of Gwaihir",
+  "aka": [
+   "Brother of Gwaihir"
+  ],
+  "blurb": "Landroval was a Great Eagle and the brother of Gwaihir, who helped rescue Frodo and Sam from Mount Doom.",
+  "book": "Landroval was a Great Eagle of the North and the brother of Gwaihir. Like his brother, he was a mighty flyer.\n\nIn T.A. 3019 he joined the host of Eagles that came to the Black Gate.\n\nAfter the fall of Sauron, Gandalf called Gwaihir, Landroval and the young Meneldor to Mount Doom. They bore Frodo and Sam from the burning mountain to safety.\n\nThe books name him only briefly in these passages.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Eagle",
+   "Siblings": "Gwaihir"
+  },
+  "places": [
+   {
+    "id": "battle:morannon",
+    "role": "fought",
+    "note": "Flies with the Eagles against the Nazgûl at the Black Gate."
+   },
+   {
+    "id": "MT036",
+    "role": "other",
+    "note": "Helps carry Frodo and Sam out of the fires of Mount Doom."
+   },
+   {
+    "id": "FI010",
+    "role": "travelled",
+    "note": "Helps bring the rescued Hobbits to the Field of Cormallen."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:gwaihir",
+   "person:meneldor",
+   "person:gandalf",
+   "person:frodo-baggins",
+   "person:samwise-gamgee"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:meneldor",
+  "title": "Meneldor",
+  "group": "Creatures",
+  "kind": "Young Great Eagle",
+  "aka": [
+   "Meneldor the Swift"
+  ],
+  "blurb": "Meneldor was a young Great Eagle who helped carry Frodo and Sam from Mount Doom in T.A. 3019.",
+  "book": "Meneldor was a young Great Eagle of the North. The books call him swift.\n\nHe came with Gwaihir and Landroval after the fall of the Dark Tower. The Eagles had been watching the war, and they came at the call of Gandalf.\n\nMeneldor was one of the three Eagles that flew with Gandalf to Mount Doom and carried Frodo and Sam out of the ruin. The Eagles brought the Hobbits to Ithilien, near the Field of Cormallen.\n\nThe books say little more of him.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Eagle"
+  },
+  "places": [
+   {
+    "id": "MT036",
+    "role": "other",
+    "note": "Helps carry Frodo and Sam out of the fires of Mount Doom."
+   },
+   {
+    "id": "FI010",
+    "role": "travelled",
+    "note": "Helps bring the rescued Hobbits to Ithilien near the Field of Cormallen."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:gwaihir",
+   "person:landroval",
+   "person:gandalf",
+   "person:frodo-baggins",
+   "person:samwise-gamgee"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book VI"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:huan",
+  "title": "Huan",
+  "group": "Creatures",
+  "kind": "Hound of Valinor, hound of Oromë",
+  "aka": [
+   "Hound of Valinor",
+   "Hound of Oromë"
+  ],
+  "blurb": "Huan was the great hound of Valinor who helped Lúthien and Beren and slew Carcharoth, but died of his wounds.",
+  "book": "Huan was a great hound of Valinor. Oromë gave him to Celegorm, who brought him to Middle-earth, where the hound lived with him.\n\nIt was foretold that Huan would die only when he met the mightiest wolf in the world. He served Celegorm, but he came to love Lúthien.\n\nWhen Celegorm held Lúthien in Nargothrond, Huan helped her escape. He then went with her to find Beren.\n\nHuan fought and slew the werewolf Draugluin and battled Sauron on the isle of Tol-in-Gaurhoth. After Beren and Lúthien took a Silmaril, Huan hunted Carcharoth, the wolf of Angband, in Doriath.\n\nHuan killed Carcharoth, but the wolf wounded him with poison, and he died beside Beren.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Hound of Valinor",
+   "Realm or home": "Nargothrond"
+  },
+  "places": [
+   {
+    "id": "b:TO02",
+    "role": "lived",
+    "note": "Serves Celegorm here and helps Lúthien flee to find Beren."
+   },
+   {
+    "id": "b:battle:duel-at-tol-in-gaurhoth",
+    "role": "fought",
+    "note": "Slays Draugluin and overcomes Sauron on the isle."
+   },
+   {
+    "id": "b:battle:hunting-of-carcharoth",
+    "role": "died",
+    "note": "Kills Carcharoth in Doriath and dies of his wounds."
+   }
+  ],
+  "offmap": [
+   {
+    "name": "Valinor",
+    "role": "lived",
+    "note": "Lives in Valinor until Oromë gives him to Celegorm."
+   }
+  ],
+  "related": [
+   "person:luthien",
+   "person:beren",
+   "person:celegorm",
+   "person:carcharoth",
+   "person:draugluin",
+   "person:orome",
+   "person:sauron"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:carcharoth",
+  "title": "Carcharoth",
+  "group": "Creatures",
+  "kind": "Great wolf of Angband, the Red Maw",
+  "aka": [
+   "The Red Maw",
+   "Anfauglir"
+  ],
+  "blurb": "Carcharoth was the huge wolf of Angband who bit off Beren's hand and the Silmaril in it, and died in Doriath.",
+  "book": "Carcharoth was the greatest wolf in the world. Morgoth fed him on living flesh and set him to guard the gates of Angband. He grew huge, and fire burned within him.\n\nBeren and Lúthien took a Silmaril from Morgoth's crown. At the gate, Carcharoth leapt and bit off Beren's hand with the jewel in it. The Silmaril burned him from within.\n\nMad with pain, Carcharoth fled across Beleriand and raged through Doriath.\n\nBeren, Huan, Mablung and others hunted him there. Carcharoth wounded Beren to death before Huan killed the wolf. Huan died of his own wounds.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Wolf",
+   "Kind": "Wolf of Angband",
+   "Realm or home": "Angband"
+  },
+  "places": [
+   {
+    "id": "b:FT01",
+    "role": "kept",
+    "note": "Guards the gate of Angband and bites off Beren's hand holding the Silmaril."
+   },
+   {
+    "id": "b:battle:hunting-of-carcharoth",
+    "role": "died",
+    "note": "Rampages through Doriath and is slain by Huan."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:beren",
+   "person:luthien",
+   "person:huan",
+   "person:morgoth",
+   "thing:silmarils",
+   "person:draugluin"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "person:draugluin",
+  "title": "Draugluin",
+  "group": "Creatures",
+  "kind": "Sire of the werewolves",
+  "aka": [
+   "Sire of werewolves"
+  ],
+  "blurb": "Draugluin was the father of the werewolves of Angband. Huan slew him on the isle of Tol-in-Gaurhoth.",
+  "book": "Draugluin was the father of the werewolves, the fell wolves that served Morgoth and Sauron. He served Sauron in the isle of Tol-in-Gaurhoth.\n\nWhen Lúthien and Huan came to the isle, Huan fought Draugluin. The wounded wolf fled to Sauron and died at his feet. He then overcame Sauron, who had changed shape.\n\nBeren took the shape of Draugluin by wearing his pelt. This helped Beren and Lúthien come to the gate of Angband in disguise.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Werewolf",
+   "Kind": "Sire of werewolves"
+  },
+  "places": [
+   {
+    "id": "b:FT03",
+    "role": "lived",
+    "note": "Serves Sauron on the isle of Tol-in-Gaurhoth."
+   },
+   {
+    "id": "b:battle:duel-at-tol-in-gaurhoth",
+    "role": "died",
+    "note": "Killed by Huan on the isle of Sauron during the quest for the Silmaril."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:huan",
+   "person:beren",
+   "person:luthien",
+   "person:sauron",
+   "person:thuringwethil",
+   "person:carcharoth"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "person:thuringwethil",
+  "title": "Thuringwethil",
+  "group": "Creatures",
+  "kind": "Bat-winged messenger of Sauron",
+  "aka": [],
+  "blurb": "Thuringwethil was a bat-winged messenger of Sauron whose form Lúthien took to enter Angband.",
+  "book": "Thuringwethil was a creature in the service of Sauron. She had the shape of a great bat, and she flew with messages between Angband and Sauron's isle.\n\nHer name means woman of the secret shadow.\n\nAfter Huan overcame Sauron, Lúthien took the bat-skin of Thuringwethil from the isle. In that shape she came to Angband with Beren. Beren went with her in the shape of a wolf, wearing the pelt of Draugluin.\n\nThe books give little more about her.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Race": "Vampire",
+   "Kind": "Messenger of Sauron"
+  },
+  "places": [
+   {
+    "id": "b:FT03",
+    "role": "lived",
+    "note": "Serves Sauron on his isle; Lúthien takes her bat-skin there."
+   },
+   {
+    "id": "b:FT01",
+    "role": "other",
+    "note": "Flies to Angband with messages; Lúthien later uses her shape to enter it."
+   }
+  ],
+  "offmap": [],
+  "related": [
+   "person:luthien",
+   "person:beren",
+   "person:sauron",
+   "person:draugluin",
+   "person:huan"
+  ],
+  "sources": [
+   "The Silmarillion"
+  ],
+  "confidence": "medium"
+ }
+]

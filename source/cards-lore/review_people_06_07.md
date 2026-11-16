@@ -1,0 +1,55 @@
+# Review of people_06 and people_07
+
+## people_06.json
+- person:thorin-oakenshield | minor | Bag End note was garbled; the map-and-key sentence implied Bree; burial place not linked -> fixed both texts, removed BU031 (to keep 10 links), added TO051 buried; Title made plain "King under the Mountain"
+- person:balin | serious | burial linked to TO066 (Moria) although the index has his tomb -> changed to GR001 Balin's Tomb
+- person:dwalin | minor | said nothing of his later life -> added that he lived into the Fourth Age (Appendix A), Died Fo.A. 91
+- person:fili | serious | film invention in "book" (Fíli stays in Lake-town with the wounded Kíli and Óin); claimed he came to Bag End with Thorin -> removed, rewrote; Lake-town link now "travelled" with the company; moved Lake-town to "film"; dropped Óin from related
+- person:kili | serious | film invention in "book" (wounded and left in Lake-town); "sharp eyes" doubtful -> removed, rewrote; Lake-town link now "travelled"; moved the Lake-town wound and Ravenhill to "film"; dropped Óin from related
+- person:dori | serious | aka "Dori son of Gróin" was wrong (no parent given); "strongest" and "carried Bombur" doubtful; Bilbo carried "after he was found" was wrong (Dori dropped him in the dark) -> aka removed, text corrected
+- person:ori | serious | "youngest of three brothers" and "scribe" come from the films; "wrote much of the Book" overstated -> kind, blurb and text corrected
+- person:oin | serious | film inventions in "book" (healer; stays in Lake-town with Kíli) -> removed; Lake-town link removed; died link TO066 -> DO009 Doors of Durin (Watcher); added TO066 lived; added Born; film text now holds the Lake-town detail
+- person:gloin | minor | news from Mordor described loosely -> corrected; added TO051 lived, Born T.A. 2783, Died Fo.A. 15
+- person:bifur | minor | blurb said he "belonged to" the Dwarves of Moria -> "came of"
+- person:bofur | serious | blurb used the film trait "cheerful"; "helped carry Bombur" not in the books -> removed
+- person:bombur | serious | kind "cook" is from the films; the story of his fatness was credited to The Hobbit (it comes from Glóin at Rivendell, LotR Book II) -> kind, text and sources corrected
+- person:dain-ii-ironfoot | serious | said he won the name Ironfoot by killing Azog (not in the books) -> removed from text and place note
+- person:thrain-ii | serious | said Thorin escaped Smaug with Thráin (Thorin was outside) -> corrected; added loss of an eye, Dunland, Born T.A. 2644; film text made more exact
+- person:thror | serious | said Azog killed him at the gate (he was killed inside and his body thrown out) -> corrected; added return from the Grey Mountains in T.A. 2590 and link MT022
+- person:frerin | minor | added Born T.A. 2751; small wording fix
+- person:fundin | minor | added Born T.A. 2662
+- person:dis | minor | confidence low -> medium; text now notes she is the only Dwarf-woman named; added Born T.A. 2760
+- person:nain | minor | added Born T.A. 2665
+- person:thorin-iii-stonehelm | minor | added that he and Bard II drove off the Easterlings and kept friendship with Gondor; Born T.A. 2866
+- person:bard | minor | removed aka "Bard I" (not a book name); Arkenstone went to Bard and the Elvenking
+- person:beorn | serious | related held Azog (no link) -> removed; added that Beorn killed Bolg; source LotR Book II for Grimbeorn
+- person:master-of-lake-town | serious | events out of order (people did not turn from him after Smaug; the gold he stole was given by Bard after the battle); "chosen by the merchants" doubtful -> book text rewritten in correct order
+- people_06 style | minor | small wording fixes in the cards above
+
+## people_07.json
+- person:durin-the-deathless | serious | claimed the Silmarillion places his waking at Gundabad (not in the allowed books) -> removed claim and MT024 link; added NP011 Durin's Stone
+- person:durin-vi | minor | removed invented aka "Durin of Moria"; added Born T.A. 1731
+- person:thrain-i | serious | called a great-grandson of Durin VI (he was a grandson) -> corrected; added realm:erebor ruled, Born T.A. 1934
+- person:narvi | minor | "friend" of Celebrimbor and "among the makers of the mansion" not stated -> removed; Gandalf reads his name on the doors
+- person:azaghal | minor | removed Húrin from related (no direct tie)
+- person:telchar | serious | credited the Silmarillion with Telchar making the Dragon-helm (that is Unfinished Tales); place note claimed Narsil was forged in Nogrod -> corrected, source added, link role "lived"
+- person:mim | minor | added Andróg as the archer, how Mîm was forced to betray the band, and his death at the doors of Nargothrond
+- person:ibun | serious | wrong account of the capture (the sons fled, Mîm alone was caught) -> rewritten; added his capture by Orcs and link to the fall of Bar-en-Danwedh; confidence medium
+- person:khim | serious | said the outlaws seized the whole family and he died at once -> corrected (he fled, was hit and died of the wound in the halls); confidence medium
+- person:smaug | minor | "last great dragon" doubtful -> "greatest dragon of his day"; order of the attack made exact; added TO024 Dale; film text made exact
+- person:bert | serious | trolls placed east of Rivendell (Trollshaws lie west) -> corrected; film text wrongly said Gandalf tricks them with voices -> Bilbo stalls, Gandalf splits a rock; added CA014 Troll's Cave
+- person:william | serious | same east/west error; "taste for Dwarf" invented -> corrected; added CA014; film fixed
+- person:tom-the-troll | serious | same east/west error; film said Gandalf stalls them -> corrected; added CA014
+- person:great-goblin | minor | the goblins called Orcrist Biter
+- person:azog | serious | said Azog killed Thrór at the gate -> killed inside, body thrown out; film text adds his death at Ravenhill
+- person:bolg | serious | claim that he took Azog's place in the Misty Mountains not in the books -> removed; Eagles came before Beorn; film actor corrected (Lawrence Makoare, then John Tui)
+- person:golfimbul | minor | Mount Gram located in "northern Misty Mountains" without support -> removed; dropped filler sentence
+- person:roac | serious | said Roäc told Thorin that Dáin was coming and goblins were gathering (wrong: he told of Smaug's death, the coming Men and Elves, and urged trust in Bard) -> rewritten; related bilbo -> bard
+- person:gwaihir | serious | Celebdil rescue placed before Orthanc (it came after); Hobbit's unnamed Lord of the Eagles and the arrow-wound healing linked to Gwaihir without support -> rewritten; removed BU090 link; added FO017 and FI010; Realm fact removed; added Radagast to related
+- person:landroval | minor | "of the Misty Mountains" -> "of the North"; added FI010
+- person:meneldor | minor | same; Eagles carried Frodo and Sam, Gandalf rode Gwaihir; added FI010
+- person:huan | minor | "Oromë bred him" -> Oromë gave him to Celegorm; offmap note and role fixed; death detail added
+- person:carcharoth | minor | added that Carcharoth gave Beren his death wound
+- person:draugluin | minor | Draugluin fled to Sauron and died at his feet; added b:FT03 lived
+- person:thuringwethil | serious | b:FT01 "lived" was wrong (she served Sauron on his isle) -> added b:FT03 lived, b:FT01 now "other"
+- people_07 style | minor | small wording fixes in the cards above
