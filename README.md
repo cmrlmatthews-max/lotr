@@ -129,7 +129,7 @@ An AI model wrote the card text in its own words. A second model then examined e
 - Card pictures exist for 78 of the 1417 cards. Named persons have no picture.
 - 167 of the 321 person and thing cards have medium confidence, and 6 have low confidence. Check these against the books before you rely on them.
 - Film and series text is empty on many person and thing cards. The writers left it empty when they were not sure.
-- 268 of the 353 knowledge entries have medium confidence, and 0 have low confidence. The writers and the reviewers worked from their knowledge of the books, not from the book text. Check dates and chapter details against the books before you rely on them.
+- 268 of the 353 knowledge entries have medium confidence. The writers and the reviewers worked from their knowledge of the books, not from the book text. Check dates and chapter details against the books before you rely on them.
 - The loremaster test used a simulated API. No test called the real Anthropic API, because the builder had no key. If the first real question shows an error, the error text says what to do.
 - The loremaster can make errors, also in text that it gives a card for. The card is the source: open it to check.
 - The file is about 20 MB. The first load can take some seconds.
