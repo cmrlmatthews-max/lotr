@@ -1,0 +1,1066 @@
+[
+ {
+  "id": "lore:ut-tuor-gondolin",
+  "title": "Of Tuor and his Coming to Gondolin",
+  "group": "Unfinished Tales and other books",
+  "kind": "Unfinished Tales, Part One",
+  "aka": [],
+  "blurb": "Tuor, son of Huor, travels from Hithlum to the hidden city of Gondolin as the messenger of Ulmo.",
+  "book": "This tale follows Tuor, son of Huor, from the hills of Hithlum to the hidden city of Gondolin. It is the fullest account of his journey that Tolkien wrote.\n\nTuor grows up among the Grey-elves of Mithrim after the Nirnaeth Arnoediad. He is then a thrall of the Easterlings in Dor-lómin for three years. After his escape he lives for years as a lone outlaw in the caves of Androth. Then Ulmo, Lord of Waters, chooses him as a messenger to Turgon, king of Gondolin.\n\nTuor leaves by the old Noldorin gate and travels west to Nevrast. There he finds the empty halls of Vinyamar and the arms that Turgon left behind. Ulmo himself appears to him from the sea. The Elf Voronwë, who survived a shipwreck, then guides Tuor back east to the secret city.\n\nTolkien began this tale as the opening of a new, longer telling of the fall of Gondolin. He never finished it. The text breaks off as Tuor passes the last gate and first sees the city, before he meets Turgon.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "Unfinished Tales, Part One",
+   "Subject": "Tuor's journey to Gondolin"
+  },
+  "places": [
+   {
+    "id": "b:RG03",
+    "role": "lived",
+    "note": "Tuor is fostered by the Grey-elves of Mithrim."
+   },
+   {
+    "id": "b:RG02",
+    "role": "lived",
+    "note": "Tuor is a thrall of the Easterlings in Dor-lómin before his escape."
+   },
+   {
+    "id": "b:NP004",
+    "role": "lived",
+    "note": "Tuor lives as an outlaw in the caves of Androth."
+   },
+   {
+    "id": "b:NP003",
+    "role": "travelled",
+    "note": "Tuor leaves Hithlum through the Gate of the Noldor."
+   },
+   {
+    "id": "b:RG04",
+    "role": "travelled",
+    "note": "Tuor crosses Nevrast and sees the shore."
+   },
+   {
+    "id": "b:TO04",
+    "role": "found",
+    "note": "At Vinyamar Tuor finds the arms left by Turgon."
+   },
+   {
+    "id": "b:TO03",
+    "role": "travelled",
+    "note": "Tuor reaches the hidden city of Gondolin."
+   }
+  ],
+  "related": [
+   "person:tuor",
+   "person:turgon",
+   "person:ulmo",
+   "person:voronwe",
+   "person:huor",
+   "person:lorgan",
+   "b:journey:tuor"
+  ],
+  "sources": [
+   "Unfinished Tales, Part One, \"Of Tuor and his Coming to Gondolin\""
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:ut-narn-i-hin-hurin",
+  "title": "Narn i Hîn Húrin",
+  "group": "Unfinished Tales and other books",
+  "kind": "Unfinished Tales, Part One",
+  "aka": [
+   "The Tale of the Children of Húrin",
+   "Narn"
+  ],
+  "blurb": "The long tale of Túrin and Nienor, the children of Húrin, as Tolkien told it in its fullest form.",
+  "book": "The title is Sindarin and means the tale of the children of Húrin. This is the longest version of the story of Túrin that Tolkien wrote, and it is far fuller than the short form in The Silmarillion.\n\nAfter the Nirnaeth Arnoediad, Túrin is sent from Dor-lómin to live in Doriath. He leaves in disgrace and joins a band of outlaws. His friend Beleg follows him, and Túrin later kills Beleg by mistake.\n\nGwindor leads Túrin to Nargothrond. There Túrin takes command, but the dragon Glaurung destroys the city. Under the dragon's spell, Túrin fails to save Finduilas and finds his home in Dor-lómin empty.\n\nHe settles at Brethil under a new name. His sister Nienor, who has lost her memory, comes there and marries him without knowing the truth. Túrin kills Glaurung. Nienor then learns who she is and ends her life. Túrin dies on his own sword.\n\nThe Narn in Unfinished Tales has gaps, and Christopher Tolkien bridges them with short notes.\n\nThe tale shows a doom that follows a family because of a curse of Morgoth.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "Unfinished Tales, Part One",
+   "Subject": "Túrin and Nienor"
+  },
+  "places": [
+   {
+    "id": "b:RG02",
+    "role": "born",
+    "note": "Túrin is born in Dor-lómin and returns there in vain."
+   },
+   {
+    "id": "b:RG07",
+    "role": "lived",
+    "note": "Túrin is fostered in Doriath by Thingol."
+   },
+   {
+    "id": "b:TO02",
+    "role": "lived",
+    "note": "Túrin rules in Nargothrond until Glaurung destroys it."
+   },
+   {
+    "id": "b:FO04",
+    "role": "lived",
+    "note": "Túrin lives in Brethil as Turambar."
+   },
+   {
+    "id": "b:VA01",
+    "role": "fought",
+    "note": "Túrin kills Glaurung at the ravine of Cabed-en-Aras."
+   },
+   {
+    "id": "b:HI03",
+    "role": "lived",
+    "note": "The outlaw band of Túrin holds Amon Rûdh for a time."
+   }
+  ],
+  "related": [
+   "person:turin",
+   "person:nienor",
+   "person:hurin",
+   "person:morwen",
+   "person:beleg",
+   "person:glaurung",
+   "person:finduilas",
+   "thing:gurthang",
+   "b:journey:turin"
+  ],
+  "sources": [
+   "Unfinished Tales, Part One, \"Narn i Hîn Húrin\"",
+   "The Silmarillion, chapter 21"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:ut-numenor-description",
+  "title": "A Description of the Island of Númenor",
+  "group": "Unfinished Tales and other books",
+  "kind": "Unfinished Tales, Part Two",
+  "aka": [],
+  "blurb": "An essay on the shape, regions, harbours and landscape of the island kingdom given to the Edain.",
+  "book": "This is a geographical essay about Númenor, the island given to the Edain after the War of Wrath. It is the main source for the layout of the land.\n\nThe island had the form of a star with five points. Each point was a great peninsula. The regions were Forostar in the north, Hyarrostar in the southeast, Hyarnustar in the southwest, Andustar in the west and Orrostar in the east. The central land was Mittalmar, which held the capital Armenelos.\n\nIn the middle stood Meneltarma, the Pillar of Heaven. It was a holy mountain, and the Númenóreans climbed it to give thanks to Eru Ilúvatar.\n\nThe essay also names the main harbours. Rómenna lay in the east, and Andúnië lay in the west, facing Valinor. It describes the fertile lands and the ships of the island. These ships carried the Númenóreans to Middle-earth and back.\n\nThe essay does not tell a story. It gives the reader the setting for the tales of Aldarion and Erendis and of the later kings.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "Unfinished Tales, Part Two",
+   "Subject": "The geography of Númenor"
+  },
+  "places": [],
+  "related": [
+   "person:elros",
+   "person:tar-aldarion",
+   "person:ar-pharazon",
+   "person:elendil",
+   "person:amandil"
+  ],
+  "sources": [
+   "Unfinished Tales, Part Two, \"A Description of the Island of Númenor\""
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:ut-aldarion-erendis",
+  "title": "Aldarion and Erendis",
+  "group": "Unfinished Tales and other books",
+  "kind": "Unfinished Tales, Part Two",
+  "aka": [
+   "The Mariner's Wife"
+  ],
+  "blurb": "The troubled marriage of a Númenórean king who loved the sea and a wife who feared it.",
+  "book": "Subtitled The Mariner's Wife, this is the longest Númenórean tale in Unfinished Tales. It follows Aldarion, who becomes the sixth king of Númenor as Tar-Aldarion.\n\nAldarion loves ships and sails to Middle-earth against the wish of his father, King Meneldur. He becomes a friend of Gil-galad. He builds a harbour on the coast of Middle-earth to support his voyages. That harbour was first called Vinyalondë and later Lond Daer.\n\nHe marries Erendis, a woman of the western lands of the island. She loves the quiet land and dislikes the sea that takes her husband away. His long absences strain the marriage. Erendis leaves him and raises their daughter Ancalimë in bitterness against his ways.\n\nAldarion changes the law so that the eldest child inherits the crown, even a daughter. Ancalimë later becomes the first ruling queen of Númenor.\n\nTolkien never finished the tale. It is a story of love and grief more than of war.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "Unfinished Tales, Part Two",
+   "Subtitle": "The Mariner's Wife"
+  },
+  "places": [
+   {
+    "id": "TO056",
+    "role": "made",
+    "note": "Aldarion builds the harbour of Vinyalondë, later known as Lond Daer."
+   }
+  ],
+  "related": [
+   "person:tar-aldarion",
+   "person:erendis",
+   "person:tar-ancalime",
+   "person:gil-galad",
+   "person:elros"
+  ],
+  "sources": [
+   "Unfinished Tales, Part Two, \"Aldarion and Erendis: The Mariner's Wife\""
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:ut-line-of-elros",
+  "title": "The Line of Elros",
+  "group": "Unfinished Tales and other books",
+  "kind": "Unfinished Tales, Part Two",
+  "aka": [
+   "Kings of Númenor"
+  ],
+  "blurb": "A chronicle of the kings and queens of Númenor from Elros to the last rulers before the Downfall.",
+  "book": "This is a chronicle of the rulers of Númenor, from Elros Tar-Minyatur to the last king. It gives the order of the kings, the length of their lives and short notes on their deeds.\n\nElros, brother of Elrond, chose the fate of Men. He became the first king in S.A. 32 and ruled for 410 years. He died in S.A. 442, aged 500 years. His descendants kept the royal line by direct descent.\n\nThe kings of the early age were wise and friendly to the Elves. Their lives were long, but they slowly became shorter over the generations. Among the kings are Tar-Aldarion, who loved the sea, and Tar-Ancalimë, the first ruling queen.\n\nIn later reigns the kings grew proud and turned away from the Elves and the Valar. Tar-Palantir tried to restore the old ways. His daughter Tar-Míriel was forced to marry her cousin Ar-Pharazôn, who took the sceptre.\n\nThe line of Elros continued after the Downfall through Elendil and his sons.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "Unfinished Tales, Part Two",
+   "First king": "Elros Tar-Minyatur, S.A. 32 to 442"
+  },
+  "places": [],
+  "related": [
+   "person:elros",
+   "person:elrond",
+   "person:tar-aldarion",
+   "person:tar-ancalime",
+   "person:tar-palantir",
+   "person:tar-miriel",
+   "person:ar-pharazon",
+   "person:elendil"
+  ],
+  "sources": [
+   "Unfinished Tales, Part Two, \"The Line of Elros: Kings of Númenor\"",
+   "The Silmarillion, Akallabêth"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:ut-galadriel-celeborn",
+  "title": "The History of Galadriel and Celeborn",
+  "group": "Unfinished Tales and other books",
+  "kind": "Unfinished Tales, Part Two",
+  "aka": [],
+  "blurb": "A set of texts on Galadriel and Celeborn, Amroth and Nimrodel, and the Elessar, which give differing accounts of their past.",
+  "book": "This part gathers Tolkien's texts and notes on Galadriel, Celeborn and the Elves of Lórien. The texts come from different times, and they do not agree. Christopher Tolkien sets them side by side and does not choose one as final.\n\nGaladriel was the daughter of Finarfin. In The Silmarillion she goes into exile with the Noldor and meets Celeborn, a kinsman of Thingol, in Doriath. One of Tolkien's last writings changes this. In it she does not join the revolt of Fëanor, and Celeborn is a prince of the Teleri of Aman. The texts also differ on where the two lived in the Second Age, though Lindon and Eregion both appear. Their daughter Celebrían later married Elrond.\n\nThe part also tells of Amroth and Nimrodel. Amroth was king of Lórien. One account makes him the son of Amdír, and an older one the son of Galadriel and Celeborn. Amroth and Nimrodel set out for the havens of the south to sail west together. Nimrodel was lost in the White Mountains on the way. Amroth waited for her by the sea until a storm drove his ship from the shore. He leapt into the water and was lost in the Bay of Belfalas in T.A. 1981.\n\nAfter that, Galadriel and Celeborn took up the rule of Lórien. Another section tells of the Elessar, the green Elf-stone that Galadriel later gave to Aragorn. It too exists in two versions.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "Unfinished Tales, Part Two",
+   "Loss of Amroth": "T.A. 1981"
+  },
+  "places": [
+   {
+    "id": "FO017",
+    "role": "ruled",
+    "note": "Galadriel and Celeborn rule Lothlórien after the loss of Amroth."
+   },
+   {
+    "id": "TO018",
+    "role": "lived",
+    "note": "The rulers dwell in the tree-city of Caras Galadhon."
+   },
+   {
+    "id": "TO028",
+    "role": "other",
+    "note": "Amroth waits for Nimrodel at the southern haven."
+   },
+   {
+    "id": "BA003",
+    "role": "died",
+    "note": "Amroth is lost at sea in the Bay of Belfalas."
+   },
+   {
+    "id": "TO079",
+    "role": "other",
+    "note": "Some texts place Galadriel and Celeborn in Eregion in the Second Age."
+   }
+  ],
+  "related": [
+   "person:galadriel",
+   "person:celeborn",
+   "person:amroth",
+   "person:nimrodel",
+   "person:celebrian",
+   "person:finarfin",
+   "person:elrond",
+   "person:aragorn",
+   "thing:elessar-stone"
+  ],
+  "sources": [
+   "Unfinished Tales, Part Two, \"The History of Galadriel and Celeborn\""
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:ut-gladden-fields",
+  "title": "The Disaster of the Gladden Fields (Unfinished Tales)",
+  "group": "Unfinished Tales and other books",
+  "kind": "Unfinished Tales, Part Three",
+  "aka": [],
+  "blurb": "The full tale of how Isildur died and the One Ring was lost in the Anduin in T.A. 2.",
+  "book": "This tale gives the longest account of the death of Isildur. It happens in T.A. 2, soon after Sauron is overthrown and Isildur takes the One Ring.\n\nIsildur sets out from Gondor to go north to Rivendell and to his own people. He travels with about two hundred men and his three elder sons, Elendur, Aratan and Ciryon. His youngest son Valandil is already in Rivendell.\n\nOrcs ambush the company at the Gladden Fields, beside the Anduin. Many of the men die, including the three sons. Isildur puts on the Ring to escape and swims into the river. The Ring slips from his finger, and he is revealed. Orc archers kill him.\n\nOnly a few men survive. One of them, the esquire Ohtar, carries the shards of the sword Narsil to Valandil at Rivendell.\n\nThe Ring stays hidden in the river for a very long time. Déagol finds it about T.A. 2463, and it comes to Gollum and then to Bilbo.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "Unfinished Tales, Part Three",
+   "Date": "T.A. 2"
+  },
+  "places": [
+   {
+    "id": "SW006",
+    "role": "died",
+    "note": "Isildur is ambushed in the marshes of the Gladden Fields."
+   },
+   {
+    "id": "RI003",
+    "role": "other",
+    "note": "The Ring is lost in the great river Anduin."
+   },
+   {
+    "id": "TO084",
+    "role": "other",
+    "note": "Ohtar brings the shards of Narsil to Rivendell."
+   }
+  ],
+  "related": [
+   "person:isildur",
+   "person:elendur",
+   "person:valandil",
+   "person:deagol",
+   "person:gollum",
+   "thing:one-ring",
+   "battle:gladden-fields"
+  ],
+  "sources": [
+   "Unfinished Tales, Part Three, \"The Disaster of the Gladden Fields\"",
+   "The Fellowship of the Ring, Book II, chapter 2"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:ut-cirion-eorl",
+  "title": "Cirion and Eorl",
+  "group": "Unfinished Tales and other books",
+  "kind": "Unfinished Tales, Part Three",
+  "aka": [
+   "The Oath of Cirion and Eorl"
+  ],
+  "blurb": "How Gondor and the Éothéod became allies at the Field of Celebrant and Rohan was founded in T.A. 2510.",
+  "book": "This tale tells how the realm of Rohan began. It also explains the friendship between Gondor and the Rohirrim.\n\nIn T.A. 2510 the Balchoth, a people from the east, attacked Gondor from across the Anduin. They had Orc allies. The Steward Cirion was hard pressed and sent for help to the Northmen.\n\nEorl the Young, lord of the Éothéod, came south with his riders. They arrived at a critical moment at the Field of Celebrant. The horsemen broke the enemy, and the invasion ended.\n\nCirion gave to Eorl and his people the northern land of Calenardhon, which became Rohan. The two leaders swore an oath of friendship, and it was kept for ages. The tale describes the oath and the reasons for it.\n\nEorl rode the horse Felaróf, the sire of the Mearas. Eorl died in T.A. 2545 in battle against the Easterlings. His son Brego then became king.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "Unfinished Tales, Part Three",
+   "Battle": "Field of Celebrant, T.A. 2510",
+   "Death of Eorl": "T.A. 2545"
+  },
+  "places": [
+   {
+    "id": "FI009",
+    "role": "fought",
+    "note": "The riders of Eorl break the Balchoth at the Field of Celebrant."
+   },
+   {
+    "id": "BU085_54",
+    "role": "other",
+    "note": "Cirion and Eorl swear their oath on the hill of Halifirien."
+   },
+   {
+    "id": "NP039",
+    "role": "lived",
+    "note": "The Éothéod lived in the north before they rode south."
+   },
+   {
+    "id": "realm:rohan",
+    "role": "other",
+    "note": "Calenardhon becomes the land of Rohan."
+   }
+  ],
+  "related": [
+   "person:cirion",
+   "person:eorl-the-young",
+   "person:felarof",
+   "person:brego",
+   "battle:field-of-celebrant",
+   "people:rohirrim"
+  ],
+  "sources": [
+   "Unfinished Tales, Part Three, \"Cirion and Eorl and the Great Events of Their Time\"",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:ut-quest-of-erebor",
+  "title": "The Quest of Erebor",
+  "group": "Unfinished Tales and other books",
+  "kind": "Unfinished Tales, Part Three",
+  "aka": [],
+  "blurb": "Gandalf's later account of why he helped to plan the journey to recover the Lonely Mountain.",
+  "book": "This is an account that Gandalf gave in Minas Tirith after the War of the Ring. It tells why he sent Thorin and his Company on the quest that Bilbo joined. It links the story of The Hobbit to the larger war against Sauron.\n\nGandalf explains that he feared Smaug. A dragon in the Lonely Mountain could be used by Sauron in the coming war. He had also learned that Thráin, father of Thorin, was a prisoner in Dol Guldur. Before Thráin died, Gandalf received from him the map and the key to a secret door in the mountain.\n\nGandalf then met Thorin Oakenshield in Bree. Thorin spoke of his wish to regain his heritage. Gandalf saw that their purposes agreed, and he promised help. He argued the plan to Thorin until the Dwarf accepted it.\n\nGandalf also chose Bilbo as the burglar for the company. He thought a hobbit would be unexpected and also useful.\n\nThe tale shows that the quest had greater purposes than the Dwarves knew.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "Unfinished Tales, Part Three",
+   "Company": "Thorin Oakenshield and twelve other Dwarves, with Bilbo and Gandalf"
+  },
+  "places": [
+   {
+    "id": "MT029",
+    "role": "other",
+    "note": "The Lonely Mountain is the goal of the quest."
+   },
+   {
+    "id": "FT008",
+    "role": "other",
+    "note": "Gandalf finds Thráin a prisoner in Dol Guldur."
+   },
+   {
+    "id": "TO011",
+    "role": "other",
+    "note": "Gandalf meets Thorin in Bree."
+   },
+   {
+    "id": "realm:erebor",
+    "role": "other",
+    "note": "Smaug holds the Kingdom under the Mountain."
+   }
+  ],
+  "related": [
+   "person:gandalf",
+   "person:thorin-oakenshield",
+   "person:thrain-ii",
+   "person:bilbo-baggins",
+   "person:smaug",
+   "thing:thrors-map"
+  ],
+  "sources": [
+   "Unfinished Tales, Part Three, \"The Quest of Erebor\"",
+   "The Hobbit",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:ut-hunt-for-the-ring",
+  "title": "The Hunt for the Ring (Unfinished Tales)",
+  "group": "Unfinished Tales and other books",
+  "kind": "Unfinished Tales, Part Three",
+  "aka": [],
+  "blurb": "How the Nazgûl and Gandalf moved in T.A. 3018, filling in the gaps in The Fellowship of the Ring.",
+  "book": "This long narrative tells the same events as the first part of The Lord of the Rings, but from the side of the pursuers. It covers the year T.A. 3018.\n\nSauron learns from Gollum that the Ring is with a hobbit named Baggins in a land called the Shire. He then sends the Nazgûl out of Mordor to find it. The Witch-king leads them. Khamûl is second to him, and he leads the Riders who search the Shire.\n\nThe tale follows the Black Riders as they cross the Anduin and search the lands to the west. They come at last to the Shire. Along the way they ask questions at Isengard and in Rohan.\n\nThe narrative also explains why Gandalf was late. Saruman had made him a prisoner at Orthanc. This is why Gandalf did not meet Frodo as he had promised.\n\nThe tale then matches the events of the book: the escape from the Shire, Bree, Weathertop and the Ford of Bruinen. It is mainly a map of times and movements.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "Unfinished Tales, Part Three",
+   "Year": "T.A. 3018"
+  },
+  "places": [
+   {
+    "id": "FJ013",
+    "role": "other",
+    "note": "The Black Riders cross into the Shire by the southern ford."
+   },
+   {
+    "id": "TO011",
+    "role": "other",
+    "note": "The Riders search for Frodo in Bree."
+   },
+   {
+    "id": "HI052",
+    "role": "other",
+    "note": "The Riders attack Frodo at Weathertop."
+   },
+   {
+    "id": "FJ006",
+    "role": "other",
+    "note": "The Riders are swept away at the Ford of Bruinen."
+   }
+  ],
+  "related": [
+   "person:khamul",
+   "person:gandalf",
+   "person:sauron",
+   "person:saruman",
+   "person:gollum",
+   "person:frodo-baggins",
+   "people:nazgul",
+   "journey:nazgul"
+  ],
+  "sources": [
+   "Unfinished Tales, Part Three, \"The Hunt for the Ring\"",
+   "The Fellowship of the Ring, Book I"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:ut-fords-of-isen",
+  "title": "The Battles of the Fords of Isen",
+  "group": "Unfinished Tales and other books",
+  "kind": "Unfinished Tales, Part Three",
+  "aka": [],
+  "blurb": "The fuller story of the two battles in which Rohan fought Saruman at the crossing of the River Isen.",
+  "book": "This account tells of the two battles at the Fords of Isen, where the Rohirrim tried to keep Saruman out of their land. The Fords are the main crossing of the Isen, close to Isengard.\n\nSaruman had Orcs and the Dunlendings at his command. He sent them against the west of Rohan. The first battle cost Rohan its heir, Théodred, son of King Théoden. Later, the second battle left the Fords in Saruman's hands.\n\nThe tale names the leaders who held the line. They include Grimbold of the Westfold and Elfhelm. Erkenbrand, the lord of the Westfold, also played a part. He was cut off from the Fords, and he later came with Gandalf to relieve Helm's Deep.\n\nThe account shows how the war began before the event described in The Two Towers. It also shows how weak Rohan was at the time, when Théoden was under the influence of Gríma.\n\nThe account is drawn from the point of view of the Rohirrim.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "Unfinished Tales, Part Three",
+   "Place": "The Fords of Isen"
+  },
+  "places": [
+   {
+    "id": "FJ008",
+    "role": "fought",
+    "note": "The Rohirrim fight Saruman's forces at the Fords of Isen."
+   },
+   {
+    "id": "FT017",
+    "role": "other",
+    "note": "Isengard lies close to the crossing, and Saruman sends his army from it."
+   },
+   {
+    "id": "battle:first-fords-of-isen",
+    "role": "fought",
+    "note": "In the first battle Théodred is killed."
+   },
+   {
+    "id": "battle:second-fords-of-isen",
+    "role": "fought",
+    "note": "The second battle gives Saruman control of the crossing."
+   }
+  ],
+  "related": [
+   "person:theodred",
+   "person:theoden",
+   "person:grimbold",
+   "person:elfhelm",
+   "person:erkenbrand",
+   "person:saruman",
+   "person:grima",
+   "people:dunlendings"
+  ],
+  "sources": [
+   "Unfinished Tales, Part Three, \"The Battles of the Fords of Isen\"",
+   "The Two Towers, Book III"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:ut-druedain",
+  "title": "The Drúedain",
+  "group": "Unfinished Tales and other books",
+  "kind": "Unfinished Tales, Part Four",
+  "aka": [
+   "Woses",
+   "Wild Men",
+   "Drûgs"
+  ],
+  "blurb": "An essay on the Wild Men of the woods, called Woses by their neighbours, in Beleriand and in the Third Age.",
+  "book": "This essay describes the Drúedain, a people also known as the Woses or Wild Men. They were short, broad and strong, with dark eyes and little hair on their faces.\n\nThey were skilled in woodcraft and in stone carving. They made statues of themselves that served as guards, and their neighbours called these the Púkel-men. Their silence, patience and odd laughter often confused outsiders.\n\nIn the First Age some Drúedain lived with the Folk of Haleth in the forest of Brethil. They were faithful to those they trusted. In the Third Age they were found in the Drúadan Forest, in the White Mountains.\n\nGhân-buri-Ghân, their chief, helped the Rohirrim in T.A. 3019. He showed them a hidden road around the enemy before the Battle of the Pelennor Fields.\n\nThe essay presents the Drúedain as a wise and gifted people, not simple savages.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "Unfinished Tales, Part Four",
+   "Also called": "Woses, Wild Men, Púkel-men (statues)"
+  },
+  "places": [
+   {
+    "id": "FO007",
+    "role": "lived",
+    "note": "The Drúedain lived in the Drúadan Forest in the White Mountains."
+   },
+   {
+    "id": "b:FO04",
+    "role": "lived",
+    "note": "In the First Age they lived beside the Folk of Haleth in Brethil."
+   },
+   {
+    "id": "NP052",
+    "role": "lived",
+    "note": "Some Drúedain were found in the land of Drúwaith Iaur."
+   },
+   {
+    "id": "VA018",
+    "role": "travelled",
+    "note": "Ghân-buri-Ghân guides the Rohirrim along a hidden path."
+   }
+  ],
+  "related": [
+   "person:ghan-buri-ghan",
+   "person:haleth",
+   "person:theoden",
+   "people:druedain",
+   "b:people:druedain",
+   "b:people:house-of-haleth"
+  ],
+  "sources": [
+   "Unfinished Tales, Part Four, \"The Drúedain\"",
+   "The Return of the King, Book V, chapter 5"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:ut-istari",
+  "title": "The Istari",
+  "group": "Unfinished Tales and other books",
+  "kind": "Unfinished Tales, Part Four",
+  "aka": [
+   "Wizards",
+   "The Five Wizards"
+  ],
+  "blurb": "An essay on the five Wizards sent to Middle-earth: who they were, why they came and what limits they had.",
+  "book": "This essay explains the Istari, the Wizards of Middle-earth. They came about T.A. 1000 as messengers from the Valar. Their task was to help the free peoples resist Sauron.\n\nThere were five. Saruman, also called Curunír, came first and was the chief. Gandalf, known earlier as Olórin, came last. Radagast, whose name in Elvish was Aiwendil, loved birds and beasts. The other two, Alatar and Pallando, were the Blue Wizards, who went into the East. Tolkien's notes do not agree on their fate.\n\nThe Wizards were Maiar in bodies of Men. They were forbidden to match Sauron in force or to rule the free peoples. They had to teach, persuade and advise. This rule made them weaker than they would otherwise have been.\n\nGandalf received the Ring Narya from Círdan at the Grey Havens. Saruman failed his task and sought power for himself.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "Unfinished Tales, Part Four",
+   "Arrival": "About T.A. 1000"
+  },
+  "places": [
+   {
+    "id": "TO043",
+    "role": "other",
+    "note": "Círdan receives the Wizards at the Grey Havens."
+   },
+   {
+    "id": "FT017",
+    "role": "lived",
+    "note": "Saruman later makes Isengard his seat."
+   },
+   {
+    "id": "BU021",
+    "role": "lived",
+    "note": "Saruman uses the Tower of Orthanc."
+   }
+  ],
+  "related": [
+   "person:gandalf",
+   "person:saruman",
+   "person:radagast",
+   "person:cirdan",
+   "thing:narya",
+   "people:istari",
+   "person:manwe"
+  ],
+  "sources": [
+   "Unfinished Tales, Part Four, \"The Istari\"",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:ut-palantiri",
+  "title": "The Palantíri",
+  "group": "Unfinished Tales and other books",
+  "kind": "Unfinished Tales, Part Four",
+  "aka": [
+   "Seeing-stones"
+  ],
+  "blurb": "An essay on the seven seeing-stones: who made them, where they stood and what became of them.",
+  "book": "This essay deals with the palantíri, the seeing-stones of the Dúnedain. They let a user see far-off places and speak with another stone-holder. The word is Quenya and means far-seeing.\n\nThe Noldor made the stones in Eldamar long before Númenor, and Fëanor himself may have made them. The Eldar gave seven of them to Amandil, and Elendil brought them to Middle-earth.\n\nThere were seven stones. The places of the stones were Amon Sûl, Annúminas, Elostirion, Orthanc, Minas Anor, Minas Ithil and Osgiliath. The master-stone was in Osgiliath. It was lost when the city burned in the Kin-strife.\n\nThe stones of the north were lost when King Arvedui drowned in the Bay of Forochel in T.A. 1975. The stone of Elostirion looked west toward the sea.\n\nSauron took the Ithil-stone. Saruman held the stone of Orthanc, and he fell into Sauron's power when he used it. Denethor also used the stone of Minas Tirith.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "Unfinished Tales, Part Four",
+   "Number": "Seven stones",
+   "Loss of the northern stones": "T.A. 1975"
+  },
+  "places": [
+   {
+    "id": "BU015",
+    "role": "kept",
+    "note": "The stone of Elostirion looked out west across the sea."
+   },
+   {
+    "id": "BU021",
+    "role": "kept",
+    "note": "Saruman held the stone of Orthanc."
+   },
+   {
+    "id": "TO078",
+    "role": "kept",
+    "note": "The master-stone stood at Osgiliath until the city burned."
+   },
+   {
+    "id": "TO006",
+    "role": "kept",
+    "note": "A stone was kept at Annúminas."
+   },
+   {
+    "id": "HI052",
+    "role": "kept",
+    "note": "A stone stood in the tower of Amon Sûl on Weathertop."
+   },
+   {
+    "id": "BA013",
+    "role": "lost",
+    "note": "Arvedui was lost with the northern stones in the Icebay of Forochel."
+   }
+  ],
+  "related": [
+   "thing:palantir-of-orthanc",
+   "thing:anor-stone",
+   "thing:ithil-stone",
+   "thing:elostirion-stone",
+   "person:elendil",
+   "person:saruman",
+   "person:denethor-ii",
+   "person:arvedui",
+   "person:sauron"
+  ],
+  "sources": [
+   "Unfinished Tales, Part Four, \"The Palantíri\"",
+   "The Two Towers, Book III, chapter 11"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:ut-book-unfinished-tales",
+  "title": "Unfinished Tales (the book, 1980)",
+  "group": "Unfinished Tales and other books",
+  "kind": "Book overview",
+  "aka": [
+   "Unfinished Tales of Númenor and Middle-earth"
+  ],
+  "blurb": "A 1980 collection of Tolkien's longer narratives, essays and drafts, edited by his son Christopher Tolkien.",
+  "book": "Unfinished Tales of Númenor and Middle-earth appeared in 1980. J.R.R. Tolkien had died in 1973. His son Christopher Tolkien edited the book from his father's papers.\n\nThe book is not a single story. It gathers narratives that Tolkien never finished, together with essays and notes. Christopher Tolkien adds his own comments to each piece. He explains the state of the texts and what Tolkien changed.\n\nThe contents are arranged in four parts. They cover the First Age, the Second Age, the Third Age and a group of essays on peoples and objects. The tales include Tuor and Gondolin, the story of Túrin, Númenor, Galadriel and Celeborn, the quest of Erebor and the Wizards.\n\nReaders use it for background and for details that The Lord of the Rings leaves out. The texts show Tolkien at work, so some details are not final. Where they conflict with other books, the reader should note that the texts are drafts.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Title": "Unfinished Tales of Númenor and Middle-earth",
+   "Published": "1980",
+   "Editor": "Christopher Tolkien"
+  },
+  "places": [],
+  "related": [
+   "person:tuor",
+   "person:turin",
+   "person:galadriel",
+   "person:gandalf",
+   "person:elros"
+  ],
+  "sources": [
+   "Unfinished Tales (1980)"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:ut-book-children-of-hurin",
+  "title": "The Children of Húrin (2007)",
+  "group": "Unfinished Tales and other books",
+  "kind": "Book overview",
+  "aka": [],
+  "blurb": "A 2007 stand-alone book that presents the tale of Túrin and Nienor as one continuous story.",
+  "book": "The Children of Húrin was published in 2007. Christopher Tolkien edited it from the writings of his father. The artist Alan Lee made the illustrations.\n\nThe book tells the story of Túrin Turambar and his sister Nienor. It follows their lives from Túrin's childhood in Dor-lómin, before the Nirnaeth Arnoediad, to their deaths. The tale is a tragedy about the curse of Morgoth on the house of Húrin.\n\nJ.R.R. Tolkien wrote several versions of this story over many years. None of them was ever made into a finished long narrative of the whole tale. Christopher Tolkien joined parts of different texts, with as few changes as he could manage. He used material that also appears in The Silmarillion and in Unfinished Tales.\n\nThe book gives a reader a full telling in one volume. It is a dark and serious tale, and it is also one of the best-known of the First Age stories.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Published": "2007",
+   "Editor": "Christopher Tolkien",
+   "Illustrator": "Alan Lee"
+  },
+  "places": [
+   {
+    "id": "b:RG02",
+    "role": "other",
+    "note": "The story begins in Dor-lómin, the home of the house of Hador."
+   },
+   {
+    "id": "b:TO02",
+    "role": "other",
+    "note": "Nargothrond is destroyed by the dragon Glaurung."
+   },
+   {
+    "id": "b:FO04",
+    "role": "other",
+    "note": "Túrin and Nienor meet their end in Brethil."
+   }
+  ],
+  "related": [
+   "person:turin",
+   "person:nienor",
+   "person:hurin",
+   "person:morwen",
+   "person:glaurung",
+   "b:journey:turin"
+  ],
+  "sources": [
+   "The Children of Húrin (2007)",
+   "Unfinished Tales, Part One"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:ut-book-beren-and-luthien",
+  "title": "Beren and Lúthien (2017)",
+  "group": "Unfinished Tales and other books",
+  "kind": "Book overview",
+  "aka": [],
+  "blurb": "A 2017 book that traces the story of Beren and Lúthien through the versions Tolkien wrote over his life.",
+  "book": "Beren and Lúthien was published in 2017. Christopher Tolkien edited it, and Alan Lee illustrated it. It is a collection of texts about one story, rather than a single retelling.\n\nThe tale of Beren and Lúthien was one of the first parts of Tolkien's legends. He began it about 1917 and returned to it for decades. The book places the main versions side by side. They include early prose, a long poem and the later form that appears in The Silmarillion.\n\nIn the story a mortal man, Beren, loves Lúthien, the daughter of the Elvenking Thingol and Melian. Thingol asks for a Silmaril as a bride-price. Beren and Lúthien enter the fortress of Morgoth to take one.\n\nChristopher Tolkien explains how the story changed. Some names and events differ in the early texts.\n\nThe story had a special importance to Tolkien. Its themes of love and loss appear in his letters.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Published": "2017",
+   "Editor": "Christopher Tolkien",
+   "Illustrator": "Alan Lee"
+  },
+  "places": [
+   {
+    "id": "b:RG07",
+    "role": "other",
+    "note": "Lúthien lives in Doriath, the realm of Thingol and Melian."
+   },
+   {
+    "id": "b:FT01",
+    "role": "other",
+    "note": "Beren and Lúthien enter Angband to take a Silmaril."
+   }
+  ],
+  "related": [
+   "person:beren",
+   "person:luthien",
+   "person:thingol",
+   "person:melian",
+   "person:morgoth",
+   "thing:silmarils",
+   "b:journey:beren-luthien"
+  ],
+  "sources": [
+   "Beren and Lúthien (2017)",
+   "The Silmarillion, chapter 19"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:ut-book-fall-of-gondolin",
+  "title": "The Fall of Gondolin (2018)",
+  "group": "Unfinished Tales and other books",
+  "kind": "Book overview",
+  "aka": [],
+  "blurb": "A 2018 book that gathers Tolkien's versions of the fall of the hidden city of Gondolin.",
+  "book": "The Fall of Gondolin was published in 2018. Christopher Tolkien edited it, and Alan Lee illustrated it. It was one of the last books he prepared from his father's papers.\n\nTolkien wrote the first version of the tale about 1916 to 1917. It was one of the earliest parts of his mythology. The new book gathers that early version, later tellings and the opening piece that also appears in Unfinished Tales, Of Tuor and his Coming to Gondolin. The versions show how the details changed over many years.\n\nThe tale itself tells of Tuor, who comes to Gondolin as a messenger of Ulmo. He marries Idril, the daughter of King Turgon. A traitor, Maeglin, betrays the city to Morgoth. Gondolin is destroyed, and Tuor and Idril escape with their son Eärendil.\n\nChristopher Tolkien explains in his notes how the stories relate. The book is mainly for readers who want to see how Tolkien developed one story.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Published": "2018",
+   "Editor": "Christopher Tolkien",
+   "Illustrator": "Alan Lee"
+  },
+  "places": [
+   {
+    "id": "b:TO03",
+    "role": "other",
+    "note": "The hidden city of Gondolin is the setting of the story."
+   },
+   {
+    "id": "b:battle:fall-of-gondolin",
+    "role": "other",
+    "note": "The tale builds toward the fall of the city."
+   }
+  ],
+  "related": [
+   "person:tuor",
+   "person:idril",
+   "person:turgon",
+   "person:maeglin",
+   "person:earendil",
+   "person:ulmo",
+   "b:battle:fall-of-gondolin"
+  ],
+  "sources": [
+   "The Fall of Gondolin (2018)",
+   "The Silmarillion, chapter 23"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:ut-book-fall-of-numenor",
+  "title": "The Fall of Númenor (2022)",
+  "group": "Unfinished Tales and other books",
+  "kind": "Book overview",
+  "aka": [],
+  "blurb": "A 2022 book that arranges Tolkien's writings on the Second Age into one connected narrative.",
+  "book": "The Fall of Númenor was published in 2022. It is edited by Brian Sibley, with illustrations by Alan Lee. Christopher Tolkien had died in 2020, so this book was not prepared by him.\n\nThe book collects Tolkien's writings on the Second Age. These come from The Silmarillion, Unfinished Tales, The Lord of the Rings and other posthumous books. The editor arranges them into a continuous story with short links between pieces.\n\nThe story begins with the gift of the island Númenor to the Edain and follows the history of its kings. It covers the rise of Sauron, the forging of the Rings of Power and the pride of the later Númenóreans. It ends with the Downfall of the island and the escape of Elendil and his sons to Middle-earth.\n\nThe book does not add new lore. It is a way to read the Second Age as one tale. A reader who wants the original sources should look in the earlier books.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Published": "2022",
+   "Editor": "Brian Sibley",
+   "Illustrator": "Alan Lee"
+  },
+  "places": [],
+  "related": [
+   "person:elros",
+   "person:ar-pharazon",
+   "person:elendil",
+   "person:sauron",
+   "person:tar-miriel",
+   "person:tar-aldarion"
+  ],
+  "sources": [
+   "The Fall of Númenor (2022)"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:ut-history-of-middle-earth",
+  "title": "The History of Middle-earth",
+  "group": "Unfinished Tales and other books",
+  "kind": "Twelve-volume series",
+  "aka": [
+   "HoMe",
+   "HME"
+  ],
+  "blurb": "A series of twelve books, edited by Christopher Tolkien, that prints the drafts behind Tolkien's legends.",
+  "book": "The History of Middle-earth is a series of twelve volumes. Christopher Tolkien edited it, and it was published from 1983 to 1996. It prints the early versions of his father's stories, and the changes he made over the years.\n\nThe first volumes cover the earliest legends, including the Book of Lost Tales and the Lays of Beleriand. The middle volumes follow the writing of The Lord of the Rings draft by draft. The last volumes cover Tolkien's later thoughts on the First Age and on the peoples of Middle-earth.\n\nThis series explains why texts can differ. The Silmarillion of 1977 was edited by Christopher Tolkien, with help from Guy Gavriel Kay. It joins material from different periods into one smooth text. The History of Middle-earth shows the earlier and later forms that were not used, and many differ in details.\n\nA reader should therefore treat a detail in these volumes as one stage in Tolkien's thought, not a final ruling.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Volumes": "Twelve",
+   "Published": "1983 to 1996",
+   "Editor": "Christopher Tolkien"
+  },
+  "places": [],
+  "related": [
+   "person:feanor",
+   "person:galadriel",
+   "person:turin",
+   "thing:silmarils",
+   "thing:one-ring"
+  ],
+  "sources": [
+   "The History of Middle-earth (12 volumes, 1983 to 1996)",
+   "The Silmarillion, Foreword"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:ut-letters-of-tolkien",
+  "title": "The Letters of J.R.R. Tolkien",
+  "group": "Unfinished Tales and other books",
+  "kind": "Collected letters",
+  "aka": [
+   "Letters"
+  ],
+  "blurb": "A 1981 selection of Tolkien's letters, used to settle points that his stories leave open.",
+  "book": "The Letters of J.R.R. Tolkien was published in 1981. Humphrey Carpenter selected and edited it, with the help of Christopher Tolkien. It prints a selection of letters that Tolkien wrote to family, friends, publishers and readers.\n\nThe letters show how Tolkien thought about his work. In them he explains what he meant by certain events, how his languages worked and what he intended for the larger legends. One long letter of 1951 to Milton Waldman describes the whole mythology in brief.\n\nReaders use the book for points that the stories leave open. Examples include the nature of Tom Bombadil or the fate of certain characters. Tolkien often wrote his replies in a private or a casual way. He also changed his mind between letters.\n\nBecause of this, the letters are valuable but not final. A letter gives Tolkien's view at one time. It may differ from the published books, and the books remain the main authority.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Published": "1981",
+   "Editor": "Humphrey Carpenter, with Christopher Tolkien"
+  },
+  "places": [],
+  "related": [
+   "person:tom-bombadil",
+   "person:gandalf",
+   "person:frodo-baggins",
+   "person:sauron"
+  ],
+  "sources": [
+   "The Letters of J.R.R. Tolkien (1981)"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:ut-adventures-of-tom-bombadil",
+  "title": "The Adventures of Tom Bombadil (1962)",
+  "group": "Unfinished Tales and other books",
+  "kind": "Poetry collection",
+  "aka": [],
+  "blurb": "A 1962 book of sixteen poems, presented as hobbit verse from the Red Book of Westmarch.",
+  "book": "The Adventures of Tom Bombadil and Other Verses from the Red Book was published in 1962. Pauline Baynes illustrated it. It holds sixteen poems.\n\nTolkien presents the poems as verse from the Red Book, written by hobbits. Some are about Tom Bombadil, such as the title poem and Bombadil Goes Boating. Others are lighter pieces, such as The Man in the Moon Stayed Up Too Late and Errantry. Some poems had appeared in earlier forms.\n\nThe title poem tells of Tom's meeting with Goldberry and the dangers of the Old Forest. The book echoes the Old Forest and Barrow-downs episode in The Fellowship of the Ring. It also includes a poem about the Man in the Moon and one on the Oliphaunt.\n\nThe book is not part of the main story. It is a small collection, but it shows the hobbit voice and a love of rhyme and odd names.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Published": "1962",
+   "Poems": "Sixteen",
+   "Illustrator": "Pauline Baynes"
+  },
+  "places": [
+   {
+    "id": "NP041",
+    "role": "other",
+    "note": "The house of Tom Bombadil is the setting of the title poem."
+   },
+   {
+    "id": "FO023",
+    "role": "other",
+    "note": "The Old Forest appears in the poems about Tom."
+   },
+   {
+    "id": "HI011",
+    "role": "other",
+    "note": "The Barrow-downs are a related setting from The Lord of the Rings."
+   }
+  ],
+  "related": [
+   "person:tom-bombadil",
+   "person:goldberry",
+   "person:old-man-willow",
+   "thing:red-book"
+  ],
+  "sources": [
+   "The Adventures of Tom Bombadil (1962)",
+   "The Fellowship of the Ring, Book I, chapters 6 to 8"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:ut-author-tolkien",
+  "title": "J.R.R. Tolkien",
+  "group": "Unfinished Tales and other books",
+  "kind": "The author",
+  "aka": [
+   "John Ronald Reuel Tolkien",
+   "Tolkien"
+  ],
+  "blurb": "The English writer and scholar who created Middle-earth, from his birth in 1892 to his death in 1973.",
+  "book": "John Ronald Reuel Tolkien was born on 3 January 1892 in Bloemfontein, in South Africa. He grew up in England. He served as an officer in the First World War. In 1916 he married Edith Bratt.\n\nTolkien became a scholar of Old and Middle English. He taught at Oxford for many years. His work as a philologist shaped his invented languages and stories.\n\nHe began writing his mythology about 1914 to 1917, with the early tales that later led to The Silmarillion. The Hobbit appeared in 1937. He then began The Lord of the Rings, which he finished in 1949. It was published in three volumes in 1954 and 1955.\n\nHe went on revising his legends for the rest of his life. He died on 2 September 1973 in Bournemouth. The Silmarillion followed in 1977, edited by his son Christopher.\n\nThe main works date from different periods, so a reader may find differences between them.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Born": "3 January 1892",
+   "Died": "2 September 1973",
+   "The Hobbit": "1937",
+   "The Lord of the Rings": "1954 to 1955"
+  },
+  "places": [],
+  "related": [
+   "person:bilbo-baggins",
+   "person:frodo-baggins",
+   "person:beren",
+   "person:luthien",
+   "thing:red-book"
+  ],
+  "sources": [
+   "The Hobbit",
+   "The Lord of the Rings",
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:ut-christopher-tolkien",
+  "title": "Christopher Tolkien",
+  "group": "Unfinished Tales and other books",
+  "kind": "Editor and son of the author",
+  "aka": [
+   "Christopher Reuel Tolkien"
+  ],
+  "blurb": "The third son of J.R.R. Tolkien, who edited and published his father's unfinished writings.",
+  "book": "Christopher Tolkien was the son of J.R.R. Tolkien. He was born in 1924 and died in 2020. He heard his father's stories as a boy. Later he helped him with his work, and he drew the maps of Middle-earth for The Lord of the Rings.\n\nAfter his father died in 1973, Christopher became the editor of the unpublished papers. In 1977 he published The Silmarillion, with help from Guy Gavriel Kay. He then edited Unfinished Tales in 1980.\n\nHis largest work was The History of Middle-earth, in twelve volumes from 1983 to 1996. It shows the drafts and the changes. Later he published single-story books: The Children of Húrin in 2007, Beren and Lúthien in 2017 and The Fall of Gondolin in 2018.\n\nHis editing explains many differences between texts. Mostly he chose among versions, and his notes name these choices. In a few places, such as the chapter Of the Ruin of Doriath, he had to build the story himself from scattered notes, as he later explained.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Born": "1924",
+   "Died": "2020",
+   "The Silmarillion": "1977",
+   "Unfinished Tales": "1980"
+  },
+  "places": [],
+  "related": [
+   "person:turin",
+   "person:beren",
+   "person:tuor",
+   "person:feanor"
+  ],
+  "sources": [
+   "The Silmarillion, Foreword",
+   "Unfinished Tales, Introduction"
+  ],
+  "confidence": "high"
+ }
+]

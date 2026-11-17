@@ -1,0 +1,1114 @@
+[
+ {
+  "id": "lore:fotr-0-overview",
+  "title": "The Lord of the Rings (the book)",
+  "group": "The Fellowship of the Ring",
+  "kind": "Tolkien's novel, 1954 to 1955",
+  "aka": [
+   "LotR",
+   "The Lord of the Rings novel"
+  ],
+  "blurb": "Tolkien's long novel about the One Ring, published in three volumes in 1954 and 1955, with appendices.",
+  "book": "The Lord of the Rings is a novel by J.R.R. Tolkien. He began it in December 1937 as a sequel to The Hobbit. It grew into a much larger tale.\n\nGeorge Allen and Unwin published it in three volumes. The Fellowship of the Ring appeared in 1954, followed by The Two Towers in the same year. The Return of the King came out in 1955. Tolkien had planned one work. The division into three volumes was a matter of publishing, partly because of the length.\n\nThe story itself falls into six books. Books I and II form the first volume, Books III and IV the second, and Books V and VI the third. Appendices follow the main text in the last volume. They give annals of the kings of Númenor, Arnor and Gondor, a Tale of Years, family trees, calendars, and notes on languages and writing.\n\nThe plot in brief: Bilbo Baggins leaves his magic ring to Frodo. Gandalf learns that it is the One Ring of Sauron. Frodo leaves the Shire with friends and joins the Fellowship at Rivendell. The Fellowship breaks at Amon Hen. Frodo and Sam go on to Mordor. The other members fight in the war for Rohan and Gondor. The Ring is destroyed in Mount Doom on 25 March, T.A. 3019. Aragorn becomes king, and the hobbits clear the Shire of Saruman's rule.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Author": "J.R.R. Tolkien",
+   "Published": "1954 to 1955",
+   "Structure": "Six books in three volumes, plus appendices"
+  },
+  "places": [
+   {
+    "id": "TO050",
+    "role": "other",
+    "note": "Hobbiton in the Shire is where the tale begins."
+   },
+   {
+    "id": "MT036",
+    "role": "destroyed",
+    "note": "The One Ring is unmade in Mount Doom."
+   }
+  ],
+  "related": [
+   "person:frodo-baggins",
+   "person:gandalf",
+   "person:aragorn",
+   "person:sauron",
+   "thing:one-ring",
+   "person:bilbo-baggins",
+   "people:hobbits"
+  ],
+  "sources": [
+   "The Lord of the Rings, all volumes and Appendices"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:fotr-0-prologue",
+  "title": "Prologue (The Lord of the Rings)",
+  "group": "The Fellowship of the Ring",
+  "kind": "Prologue",
+  "aka": [],
+  "blurb": "The Prologue introduces hobbits, their pipe-weed, the order of the Shire, and how Bilbo found the Ring.",
+  "book": "The Prologue has four parts. The first, Concerning Hobbits, describes the small, quiet folk of the Shire. They love peace, good food, farming and gardens. They wear no shoes and have thick hair on their feet. They avoid the affairs of the wider world.\n\nThe Prologue names three kinds of hobbits: Harfoots, Stoors and Fallohides. Next it describes pipe-weed. The Prologue says that hobbits were the first to smoke it, though the plant itself may have come from Men of the South. The Prologue credits Tobold Hornblower of Longbottom in the Southfarthing with first planting it in the Shire.\n\nThe part on the ordering of the Shire tells how hobbits settled the land and began their own count of years, Shire Reckoning, in T.A. 1601. It explains the four Farthings and the offices of Thain, Mayor and Shirriffs. The Thain was the head of the Took family in later times. The hobbits acknowledged the king at Fornost. After the kings failed, they kept their own laws.\n\nThe last part, Of the Finding of the Ring, tells how Bilbo found the Ring in the Misty Mountains, as told in The Hobbit. It adds that Bilbo gave a false account of the find for many years. A closing note describes the Shire records and the Red Book of Westmarch.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "Prologue to The Fellowship of the Ring",
+   "Shire Reckoning": "Began in T.A. 1601",
+   "Parts": "Hobbits, pipe-weed, ordering of the Shire, finding of the Ring"
+  },
+  "places": [
+   {
+    "id": "TO059",
+    "role": "other",
+    "note": "Longbottom in the Southfarthing is where pipe-weed was first grown in the Shire."
+   },
+   {
+    "id": "TO050",
+    "role": "other",
+    "note": "Hobbiton is a central village of the Shire."
+   }
+  ],
+  "related": [
+   "people:hobbits",
+   "thing:pipe-weed",
+   "thing:one-ring",
+   "person:bilbo-baggins",
+   "person:gollum",
+   "thing:red-book"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Prologue"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:fotr-1-01",
+  "title": "A Long-expected Party",
+  "group": "The Fellowship of the Ring",
+  "kind": "Book I, chapter 1",
+  "aka": [],
+  "blurb": "Bilbo celebrates his eleventy-first birthday, vanishes from the party, and leaves the Ring and Bag End to Frodo.",
+  "book": "Bilbo Baggins plans a great party for his eleventy-first birthday. It is also the thirty-third birthday of his heir, Frodo. The date is 22 September, T.A. 3001. The hobbits of Hobbiton and Bywater gossip about the feast for weeks. Gandalf arrives with a cart of fireworks, and the display delights the guests.\n\nDuring the feast Bilbo gives a speech. He announces that he is leaving and then vanishes by slipping on his magic ring. The guests are stunned. Gandalf sets off a last flash to cover his friend's exit.\n\nIn Bag End, Bilbo prepares to leave. He has left Bag End and all his goods to Frodo. Gandalf presses Bilbo to leave the Ring behind as well. Bilbo grows suspicious and angry and calls it his precious. In the end he lets it go and leaves it for Frodo in an envelope.\n\nBilbo walks away into the night with three dwarves. Gandalf tells Frodo to keep the Ring secret and safe and not to use it, though he does not yet say why. The next day Frodo deals with crowds of visitors. The Sackville-Bagginses, who hoped to inherit Bag End, are angry. Gandalf leaves soon after, full of doubt about the Ring.",
+  "film": "The film shows the party, the fireworks, and Bilbo's vanishing and farewell. It also shows Gandalf urging Bilbo to leave the Ring and Bilbo's sudden outburst.",
+  "series": "",
+  "facts": {
+   "Date": "22 September, T.A. 3001",
+   "Event": "Bilbo's 111th and Frodo's 33rd birthday"
+  },
+  "places": [
+   {
+    "id": "TO050",
+    "role": "other",
+    "note": "The party takes place in Hobbiton."
+   },
+   {
+    "id": "BU030",
+    "role": "lived",
+    "note": "Bilbo hands Bag End and the Ring to Frodo."
+   },
+   {
+    "id": "TO016",
+    "role": "other",
+    "note": "Hobbits from Bywater attend the party."
+   }
+  ],
+  "related": [
+   "person:bilbo-baggins",
+   "person:frodo-baggins",
+   "person:gandalf",
+   "thing:one-ring",
+   "person:lobelia-sackville-baggins",
+   "people:hobbits"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I, chapter 1"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:fotr-1-02",
+  "title": "The Shadow of the Past",
+  "group": "The Fellowship of the Ring",
+  "kind": "Book I, chapter 2",
+  "aka": [],
+  "blurb": "Years later, Gandalf tells Frodo the history of the Ring and urges him to leave the Shire.",
+  "book": "Seventeen years pass. Frodo lives quietly at Bag End, and he does not age as most hobbits do. Rumours of strange events outside the Shire reach the inns. At the Green Dragon in Bywater, Sam Gamgee tells Ted Sandyman of tree-giants and Elves going west.\n\nIn the spring of T.A. 3018 Gandalf returns after a long absence. He tells Frodo the history of the Ring. Gandalf has come to fear that it is the One Ring that Sauron made. He tests it by placing it in the fire. Fiery letters appear on the Ring, and Gandalf reads them as the Black Speech of Mordor.\n\nFrodo tries to throw the Ring into the fire, but he cannot do it. Gandalf then tells how Isildur cut the Ring from Sauron's hand at the end of the Second Age and kept it. After Isildur died, it lay in the River Anduin until Déagol found it and Sméagol killed him for it. Sméagol became Gollum and lived in the mountains for centuries. Bilbo found the Ring there.\n\nGollum was later caught by Sauron and made to speak under torment. He named the Shire and Baggins. Gandalf says that the Enemy now knows where to look. Frodo wishes that Bilbo had killed Gollum. Gandalf answers that pity stayed Bilbo's hand, and that Gollum may yet have a part to play.\n\nFrodo agrees to leave the Shire. Gandalf catches Sam listening under the window and decides that Sam shall go with Frodo.",
+  "film": "The film compresses the history and the years between. Gandalf searches the archives of Minas Tirith, then rides to Bag End and tests the Ring in the fire. He tells Frodo to leave, and Sam is caught listening and sent with him.",
+  "series": "",
+  "facts": {
+   "Date": "April T.A. 3018",
+   "Event": "Gandalf tests the Ring and tells its history"
+  },
+  "places": [
+   {
+    "id": "BU030",
+    "role": "other",
+    "note": "Gandalf tests the Ring in the fire at Bag End."
+   },
+   {
+    "id": "BU004",
+    "role": "other",
+    "note": "Sam talks with Ted Sandyman at the Green Dragon."
+   },
+   {
+    "id": "RI003",
+    "role": "other",
+    "note": "The Ring lay for years in the River Anduin before Déagol found it."
+   }
+  ],
+  "related": [
+   "person:gandalf",
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "thing:one-ring",
+   "person:gollum",
+   "person:isildur",
+   "person:sauron",
+   "person:deagol",
+   "person:ted-sandyman"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I, chapter 2"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:fotr-1-03",
+  "title": "Three Is Company",
+  "group": "The Fellowship of the Ring",
+  "kind": "Book I, chapter 3",
+  "aka": [],
+  "blurb": "Frodo leaves Bag End with Sam and Pippin, and the hobbits meet a Black Rider and a company of Elves.",
+  "book": "Gandalf stays at Bag End through the spring and leaves at the end of June. He promises to return before Frodo goes, but he does not come back. Frodo cannot wait any longer. He spreads the story that he is moving to Buckland, and he sells Bag End to the Sackville-Bagginses. On 23 September, T.A. 3018, he sets out on foot with Sam Gamgee and Pippin Took.\n\nMerry and Fredegar Bolger go ahead with a cart to the new house in Buckland. Frodo, Sam and Pippin leave Bag End at dusk. They walk across country rather than by the main road, toward Woody End.\n\nOn the way a black-cloaked rider comes up the road behind them. The hobbits hide, and the rider stops and seems to sniff the ground. Then he moves on. Frodo feels a strange fear and a pull to put on the Ring.\n\nLater they hear singing, and a company of High Elves comes down the path under the stars. Their leader is Gildor Inglorion. The Elves treat the hobbits kindly and share their food. They sleep that night in the wood and hear many songs.\n\nGildor will not say much about the Riders, but he warns that they are deadly and that Frodo should not stay. He advises Frodo to take trusty friends with him. He names Frodo an Elf-friend and promises to send word of their journey to those who may help.",
+  "film": "The film shortens the early journey. Frodo and Sam leave together and only watch a procession of Elves pass in the night; they do not speak with Gildor. Merry and Pippin join them by chance, and a Black Rider then nearly finds them under a tree root.",
+  "series": "",
+  "facts": {
+   "Date": "23 September, T.A. 3018",
+   "Event": "Frodo, Sam and Pippin leave Hobbiton"
+  },
+  "places": [
+   {
+    "id": "TO050",
+    "role": "other",
+    "note": "The journey starts from Hobbiton."
+   },
+   {
+    "id": "FO037",
+    "role": "travelled",
+    "note": "The hobbits camp in Woody End and meet Gildor."
+   },
+   {
+    "id": "RD020",
+    "role": "travelled",
+    "note": "The Hobbiton Road leads away from the village."
+   }
+  ],
+  "related": [
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:peregrin-took",
+   "person:gildor-inglorion",
+   "people:nazgul",
+   "thing:one-ring",
+   "person:gandalf"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I, chapter 3"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:fotr-1-04",
+  "title": "A Short Cut to Mushrooms",
+  "group": "The Fellowship of the Ring",
+  "kind": "Book I, chapter 4",
+  "aka": [],
+  "blurb": "The hobbits cross the farms of the Eastfarthing, meet Farmer Maggot, and reach the Brandywine ferry.",
+  "book": "The next morning the hobbits walk on through woods and farmland. Frodo decides to take a short cut across country to the ferry. He dreads Farmer Maggot, who caught him stealing mushrooms as a boy and set his dogs on him.\n\nBefore they reach the farm, they hear a rider on the lane. Frodo draws the others into the cover of a tree. A black rider rides slowly past, sniffs, and then turns away, though he does not find them.\n\nThen they meet Maggot, who is a tough hobbit of the Marish. He is friendly and tells them that a black rider came to his gate and asked about Mr. Baggins. Maggot sent him away. He offers the hobbits a meal. Frodo finds that the farmer has kept no grudge. Mrs Maggot gives them a basket of mushrooms, and Maggot drives them in his wagon toward the ferry.\n\nIn the misty dark the hobbits hear hooves on the road and fear a Rider. It is Merry Brandybuck, who has come looking for them. They walk to the Bucklebury Ferry and cross the Brandywine into Buckland. Looking back, Frodo sees a dark shape stooping on the far landing.",
+  "film": "The film shows Farmer Maggot only briefly, chasing Merry and Pippin from his crops. A Black Rider then chases the four hobbits to the ferry.",
+  "series": "",
+  "facts": {
+   "Book": "The Fellowship of the Ring"
+  },
+  "places": [
+   {
+    "id": "NP001",
+    "role": "other",
+    "note": "Farmer Maggot's farm is Bamfurlong in the Marish."
+   },
+   {
+    "id": "NP002",
+    "role": "travelled",
+    "note": "The hobbits reach the Bucklebury Ferry over the Brandywine."
+   },
+   {
+    "id": "NP046",
+    "role": "travelled",
+    "note": "They cross into Buckland."
+   }
+  ],
+  "related": [
+   "person:farmer-maggot",
+   "person:frodo-baggins",
+   "person:peregrin-took",
+   "person:samwise-gamgee",
+   "person:meriadoc-brandybuck",
+   "people:nazgul"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I, chapter 4"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:fotr-1-05",
+  "title": "A Conspiracy Unmasked",
+  "group": "The Fellowship of the Ring",
+  "kind": "Book I, chapter 5",
+  "aka": [],
+  "blurb": "At Crickhollow, Frodo learns that his friends know his secret and mean to go with him.",
+  "book": "Merry takes Frodo and his companions to the house in Crickhollow, in Buckland. Frodo has bought the house and planned to live there as part of his story. Fredegar Bolger, called Fatty, is already there.\n\nAfter baths and supper that night they talk, and Frodo plans to tell his friends part of the truth. He prepares to say farewell and leave alone. Then Merry stops him. He says that the friends know much more than Frodo thinks.\n\nMerry, Pippin, Sam and Fredegar have been watching Frodo for a long time. They have listened, followed Gandalf's hints, and guessed that Frodo has a dangerous secret. They know about the Ring, and they know that Frodo must go. They tell him that they will not leave him to face the road alone.\n\nFrodo is moved. He accepts that they are loyal friends. Merry and Pippin will go with him, as will Sam. Fatty Bolger agrees to stay at Crickhollow and keep up the pretence that Frodo still lives there.\n\nThe party plans to leave the next morning, going through the Old Forest, which the Black Riders may not expect.",
+  "film": "The film omits Crickhollow and Fatty Bolger. Merry and Pippin join the journey by chance, rather than through a plan to confront Frodo.",
+  "series": "",
+  "facts": {
+   "Book": "The Fellowship of the Ring"
+  },
+  "places": [
+   {
+    "id": "TO022",
+    "role": "lived",
+    "note": "The house at Crickhollow is where the friends talk."
+   },
+   {
+    "id": "NP046",
+    "role": "other",
+    "note": "Crickhollow lies in Buckland east of the Brandywine."
+   }
+  ],
+  "related": [
+   "person:frodo-baggins",
+   "person:meriadoc-brandybuck",
+   "person:peregrin-took",
+   "person:samwise-gamgee",
+   "person:fredegar-bolger",
+   "thing:one-ring"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I, chapter 5"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:fotr-1-06",
+  "title": "The Old Forest (Book I, chapter 6)",
+  "group": "The Fellowship of the Ring",
+  "kind": "Book I, chapter 6",
+  "aka": [],
+  "blurb": "The hobbits enter the Old Forest, are caught by Old Man Willow, and are saved by Tom Bombadil.",
+  "book": "The hobbits leave Crickhollow and enter the Old Forest, which stands between Buckland and the Barrow-downs. They hope to avoid the Road and the Black Riders. The trees seem to watch them, and the paths shift and lead them downward.\n\nThey are drawn toward the valley of the Withywindle. The air grows warm and heavy with sleep. Frodo, Merry and Pippin fall asleep against a great willow, while Sam stays awake. The tree, called Old Man Willow, traps Merry and Pippin in cracks in its trunk. Frodo is tipped into the stream and held under by a root, and Sam pulls him out.\n\nFrodo and Sam light a fire to scare the tree, but the willow only squeezes Merry harder. Frodo runs down the path and cries for help. Then a cheerful voice answers, singing nonsense. A man in a blue coat and yellow boots appears. He is Tom Bombadil.\n\nTom commands the willow to let his captives go, and it obeys at once. He invites the hobbits to his house.",
+  "film": "The film omits Tom Bombadil entirely. The Old Forest and Old Man Willow do not appear.",
+  "series": "",
+  "facts": {
+   "Book": "The Fellowship of the Ring"
+  },
+  "places": [
+   {
+    "id": "FO023",
+    "role": "travelled",
+    "note": "The hobbits enter the Old Forest from Buckland."
+   },
+   {
+    "id": "RI083",
+    "role": "travelled",
+    "note": "They are drawn toward the Withywindle."
+   },
+   {
+    "id": "NP041",
+    "role": "other",
+    "note": "Tom's house lies beyond the forest valley."
+   }
+  ],
+  "related": [
+   "person:old-man-willow",
+   "person:tom-bombadil",
+   "person:frodo-baggins",
+   "person:meriadoc-brandybuck",
+   "person:peregrin-took",
+   "person:samwise-gamgee"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I, chapter 6"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:fotr-1-07",
+  "title": "In the House of Tom Bombadil",
+  "group": "The Fellowship of the Ring",
+  "kind": "Book I, chapter 7",
+  "aka": [],
+  "blurb": "The hobbits shelter with Tom Bombadil and Goldberry and hear tales of the forest and the Barrow-downs.",
+  "book": "Tom brings the hobbits to his house at the edge of the Old Forest. Goldberry, whom he calls the River-daughter, welcomes them with joy. She is lovely and wears green and silver. The hobbits wash, eat a fine supper, and feel their fear fade.\n\nFrodo asks Goldberry who Tom is, and she says that he is the Master of wood, water and hill. That night the hobbits have strange dreams. Frodo dreams of a wizard on a high tower.\n\nThe next day brings heavy rain, so the hobbits stay another night. Tom tells stories of the forest and of the old kings of the Barrow-downs. In the evening Frodo asks him who he is. Tom answers that he is Eldest, the oldest one in the land. He remembers the first raindrop and the first acorn.\n\nThen Tom asks to see the Ring and slips it onto his finger. He does not vanish and shows no sign of being harmed. He gives it back to Frodo.\n\nTom also teaches the hobbits a rhyme to call him if they find trouble on the Downs. The book leaves the nature of Bombadil open, and Tolkien gave no full explanation.",
+  "film": "The film omits Tom Bombadil and Goldberry.",
+  "series": "",
+  "facts": {
+   "Book": "The Fellowship of the Ring",
+   "Tom's title": "Eldest, as he names himself"
+  },
+  "places": [
+   {
+    "id": "NP041",
+    "role": "lived",
+    "note": "The house of Tom Bombadil stands near the Old Forest."
+   },
+   {
+    "id": "RI083",
+    "role": "other",
+    "note": "Goldberry is the daughter of the Withywindle."
+   }
+  ],
+  "related": [
+   "person:tom-bombadil",
+   "person:goldberry",
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:meriadoc-brandybuck",
+   "person:peregrin-took",
+   "thing:one-ring"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I, chapter 7"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:fotr-1-08",
+  "title": "Fog on the Barrow-downs",
+  "group": "The Fellowship of the Ring",
+  "kind": "Book I, chapter 8",
+  "aka": [],
+  "blurb": "The hobbits cross the Barrow-downs, a barrow-wight captures them, and Tom Bombadil rescues them.",
+  "book": "The hobbits leave Tom's house and cross the Barrow-downs by way of a path he describes. The morning is bright, but a fog rises as they climb. They lose each other and see standing stones in the mist.\n\nFrodo finds himself alone near a great barrow. A cold shadow overtakes him, and he falls unconscious. When he wakes, he is in a barrow, laid on a stone beside the unconscious bodies of his friends. They are dressed in white and have swords and ornaments laid over them. A voice and a creeping hand draw near.\n\nFrodo thinks of fleeing with the Ring, but he is ashamed to leave his friends. He cuts off the wight's hand and calls out Tom's rhyme. Tom answers, breaks the wight's power, and opens the barrow to the daylight.\n\nTom wakes the hobbits and frees them from the barrow. He takes a brooch for Goldberry and gives each hobbit a dagger from the hoard. They are old blades from Westernesse, made by the Men of Arnor long ago. Tom escorts the party to the East Road. He advises them to stay at the Prancing Pony in Bree and leaves them there.\n\nThe hobbits continue toward Bree.",
+  "film": "The film omits the Barrow-downs, the barrow-wight, and Tom Bombadil.",
+  "series": "",
+  "facts": {
+   "Book": "The Fellowship of the Ring"
+  },
+  "places": [
+   {
+    "id": "HI011",
+    "role": "travelled",
+    "note": "The hobbits cross the Barrow-downs in fog."
+   },
+   {
+    "id": "TO011",
+    "role": "other",
+    "note": "The road ahead leads to Bree."
+   }
+  ],
+  "related": [
+   "person:tom-bombadil",
+   "person:frodo-baggins",
+   "thing:barrow-blades",
+   "person:meriadoc-brandybuck",
+   "person:peregrin-took",
+   "person:samwise-gamgee"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I, chapter 8"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:fotr-1-09",
+  "title": "At the Sign of the Prancing Pony",
+  "group": "The Fellowship of the Ring",
+  "kind": "Book I, chapter 9",
+  "aka": [],
+  "blurb": "The hobbits reach Bree, meet Barliman Butterbur and the Ranger Strider, and Frodo vanishes by accident.",
+  "book": "The hobbits reach Bree after dark and go to the Prancing Pony. The innkeeper, Barliman Butterbur, takes them in. Frodo gives his name as Mr. Underhill, to hide his identity.\n\nIn the common room the hobbits meet Men, hobbits and Dwarves of the district. Frodo notices a weathered, hooded man in a corner. Butterbur says he is one of the Rangers, called Strider. Strider beckons Frodo over and warns him that Pippin is talking too much.\n\nPippin is telling the story of Bilbo's party, and Frodo fears he will name Baggins. To stop him, Frodo climbs on a table and sings a comic song about the Man in the Moon. Then he falls off the table. His hand is in his pocket, and the Ring slips onto his finger. He vanishes from the room.\n\nThe room is in uproar. Frodo crawls away and takes off the Ring near Strider's corner. Strider rebukes him and asks for a quiet word later.\n\nBill Ferny and a squint-eyed southerner have been watching the hobbits closely. They slip out of the inn after the uproar. Butterbur is upset, and the hobbits go to their parlour.",
+  "film": "The film changes the Bree scene. Frodo does not sing. Pippin starts to say the name Baggins, and Frodo trips while lunging to stop him. The Ring falls onto his finger, and Strider then drags him aside.",
+  "series": "",
+  "facts": {
+   "Date": "29 September, T.A. 3018",
+   "Place": "Bree, the Prancing Pony"
+  },
+  "places": [
+   {
+    "id": "TO011",
+    "role": "other",
+    "note": "Bree is the village where the hobbits meet Strider."
+   },
+   {
+    "id": "BU009",
+    "role": "other",
+    "note": "The Prancing Pony is the inn where the events take place."
+   },
+   {
+    "id": "DO037",
+    "role": "other",
+    "note": "The hobbits enter Bree by the West-gate."
+   }
+  ],
+  "related": [
+   "person:barliman-butterbur",
+   "person:frodo-baggins",
+   "person:peregrin-took",
+   "person:aragorn",
+   "person:bill-ferny",
+   "thing:one-ring",
+   "people:men-of-bree",
+   "person:harry-goatleaf"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I, chapter 9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:fotr-1-10",
+  "title": "Strider",
+  "group": "The Fellowship of the Ring",
+  "kind": "Book I, chapter 10",
+  "aka": [],
+  "blurb": "Strider talks with the hobbits, Gandalf's letter vouches for him, and the hobbits accept him as guide.",
+  "book": "Strider talks to the hobbits in their private parlour. He says that he overheard Frodo's plans and that the Black Riders are hunting him. He offers to guide them, but he asks to be taken along. The hobbits are suspicious.\n\nThen Butterbur comes in. He confesses that he forgot to send a letter that Gandalf left with him in the summer. He also warns that black men have been asking for Baggins. Frodo reads the letter.\n\nGandalf urges Frodo to leave the Shire quickly. He writes that Strider is a friend and that his true name is Aragorn. The letter holds a short verse about him. Sam is still wary, but Strider shows the broken sword of Elendil. Frodo decides to trust him.\n\nMerry then rushes in. He went out for a walk and saw a Black Rider in the village. He followed it and was overcome by a dark fear. Nob found him lying near a house.\n\nStrider advises the hobbits not to sleep in their rooms. They bed down in the parlour, and Strider keeps watch.",
+  "film": "In the film, Strider drags Frodo into a private room after the Ring incident. There is no letter from Gandalf. That night the Black Riders strike at empty beds in the inn.",
+  "series": "",
+  "facts": {
+   "Date": "29 September, T.A. 3018",
+   "Place": "Bree, the Prancing Pony"
+  },
+  "places": [
+   {
+    "id": "TO011",
+    "role": "other",
+    "note": "Bree is where Strider joins the hobbits."
+   },
+   {
+    "id": "BU009",
+    "role": "other",
+    "note": "Strider talks with the hobbits in a parlour of the inn."
+   }
+  ],
+  "related": [
+   "person:aragorn",
+   "person:frodo-baggins",
+   "person:barliman-butterbur",
+   "person:samwise-gamgee",
+   "person:meriadoc-brandybuck",
+   "people:nazgul",
+   "person:gandalf",
+   "thing:anduril"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I, chapter 10"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:fotr-1-11",
+  "title": "A Knife in the Dark",
+  "group": "The Fellowship of the Ring",
+  "kind": "Book I, chapter 11",
+  "aka": [],
+  "blurb": "Riders raid Crickhollow and the inn, Strider leads the hobbits to Weathertop, and Frodo is stabbed by the Witch-king.",
+  "book": "That night the Black Riders come to Crickhollow. Fatty Bolger flees and raises the alarm in Buckland, and the Riders ride away. In Bree, the hobbits' empty rooms at the inn are broken into, and the bolsters in the beds are slashed. In the morning all the horses and ponies are gone. The hobbits buy a poor pony from Bill Ferny at a high price. Sam names him Bill.\n\nStrider leads the hobbits off the road, through the Chetwood and the Midgewater Marshes, to Weathertop. On the summit they find signs of burning and a stone with marks. Strider reads them as a message that Gandalf was there on 3 October. From the hilltop they see Riders on the road.\n\nThey camp in a dell on the west side of the hill. Strider tells the tale of Beren and Lúthien. At night five Riders creep toward the dell. Frodo is overcome and puts on the Ring. He sees them as tall figures with pale, cruel faces. Their tall leader wears a crown. Frodo calls on Elbereth and strikes at the leader's foot. The leader stabs him in the left shoulder with a knife.\n\nStrider leaps out with flaming brands, and the Riders withdraw. The blade of the knife melts away. Frodo's arm grows cold and numb. Strider finds athelas nearby and bathes the wound, which eases the pain.",
+  "film": "The film places the fight on the top of Weathertop, with all five Riders. Aragorn drives them off with fire and a sword, and Frodo is stabbed and weakened. Aragorn then takes Frodo on toward Rivendell, where Arwen helps.",
+  "series": "",
+  "facts": {
+   "Date": "30 September to 6 October, T.A. 3018",
+   "Place": "Bree and Weathertop"
+  },
+  "places": [
+   {
+    "id": "TO022",
+    "role": "other",
+    "note": "The Riders raid the empty house at Crickhollow."
+   },
+   {
+    "id": "BU009",
+    "role": "other",
+    "note": "The hobbits' empty rooms at the inn are raided."
+   },
+   {
+    "id": "SW010",
+    "role": "travelled",
+    "note": "Strider leads the hobbits through the Midgewater Marshes."
+   },
+   {
+    "id": "HI052",
+    "role": "fought",
+    "note": "The Black Riders attack the hobbits at Weathertop."
+   },
+   {
+    "id": "battle:weathertop-3018",
+    "role": "fought",
+    "note": "The fight below Weathertop on 6 October T.A. 3018."
+   }
+  ],
+  "related": [
+   "person:frodo-baggins",
+   "person:aragorn",
+   "people:nazgul",
+   "person:witch-king",
+   "thing:morgul-knife",
+   "thing:athelas",
+   "person:fredegar-bolger",
+   "person:bill-ferny",
+   "person:bill-the-pony"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I, chapter 11"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:fotr-1-12",
+  "title": "Flight to the Ford",
+  "group": "The Fellowship of the Ring",
+  "kind": "Book I, chapter 12",
+  "aka": [],
+  "blurb": "Frodo, weakened by his wound, is carried to the Ford of Bruinen, where the Riders are swept away.",
+  "book": "Strider leads the party away from Weathertop, carrying Frodo on Bill the pony. They go south of the Road through wild country, then return to it. At the Last Bridge over the Hoarwell, Strider finds a green elf-stone, a sign that friends have passed. They go north into the Trollshaws and find the stone trolls from Bilbo's tale. Frodo grows weaker each day.\n\nBack on the Road, Glorfindel, an Elf-lord of Rivendell, meets them. Elrond sent him out to find the travellers. He puts Frodo on his white horse, Asfaloth.\n\nNear the Ford of Bruinen the nine Riders appear behind them. Asfaloth carries Frodo across the Ford ahead of them. On the far bank Frodo turns and defies them, though his strength is fading.\n\nAs the Riders enter the water, the river rises in a great flood, crested like white horses, and sweeps them away. Glorfindel and Strider drive the last Riders into the flood with fire. Frodo faints on the far bank.",
+  "film": "The film gives this role to Arwen rather than Glorfindel. She finds Frodo, rides with him on her horse, and calls the river to wash the Riders away at the Ford.",
+  "series": "",
+  "facts": {
+   "Date": "20 October, T.A. 3018",
+   "Place": "Ford of Bruinen"
+  },
+  "places": [
+   {
+    "id": "BR008",
+    "role": "travelled",
+    "note": "The party crosses the Last Bridge over the Hoarwell."
+   },
+   {
+    "id": "FO033",
+    "role": "travelled",
+    "note": "They pass the stone trolls in the Trollshaws."
+   },
+   {
+    "id": "FJ006",
+    "role": "fought",
+    "note": "Frodo defies the Riders at the Ford of Bruinen."
+   },
+   {
+    "id": "battle:ford-of-bruinen",
+    "role": "fought",
+    "note": "The Nazgûl are swept away at the Ford."
+   }
+  ],
+  "related": [
+   "person:frodo-baggins",
+   "person:glorfindel",
+   "person:aragorn",
+   "people:nazgul",
+   "person:bill-the-pony",
+   "person:samwise-gamgee"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I, chapter 12"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:fotr-2-01",
+  "title": "Many Meetings",
+  "group": "The Fellowship of the Ring",
+  "kind": "Book II, chapter 1",
+  "aka": [],
+  "blurb": "Frodo wakes in Rivendell, meets Gandalf and Bilbo, and joins the feast of Elrond.",
+  "book": "Frodo wakes in Rivendell on 24 October, T.A. 3018. He lies in a bed in the house of Elrond, and he is healed of his wound. Gandalf is at his side. Gandalf tells him that Elrond took out a splinter of the Morgul-blade that was working toward his heart. He says that Elrond raised the flood of the Bruinen and that he himself gave it the shape of horses.\n\nGandalf says that a delay kept him from meeting Frodo in the Shire. He promises to tell the whole tale at the Council.\n\nAt Elrond's feast Frodo sits beside Glóin, who has come from the Lonely Mountain with news of Dale and Erebor. Frodo sees Elrond's daughter Arwen at the high table.\n\nAfter the feast, in the Hall of Fire, Frodo finds Bilbo, who has lived in Rivendell for years. Bilbo asks to see the Ring again. For a moment Frodo sees him as a grasping little creature, and Bilbo is grieved by his own longing.\n\nStrider joins them, and Bilbo works on a song. Frodo drifts into a dream as the Elves make music. Then Bilbo chants his song of Eärendil, to which Strider added a green stone. Later Bilbo and Frodo talk of the Shire and go to rest.",
+  "film": "The film shows Frodo waking and Gandalf explaining the flood. It also shows Bilbo's meeting with Frodo, and Bilbo briefly lunging at the Ring.",
+  "series": "",
+  "facts": {
+   "Date": "24 October, T.A. 3018",
+   "Place": "Rivendell"
+  },
+  "places": [
+   {
+    "id": "TO084",
+    "role": "lived",
+    "note": "Frodo recovers in the house of Elrond."
+   },
+   {
+    "id": "BU054",
+    "role": "other",
+    "note": "Frodo meets Bilbo in the Hall of Fire after the feast."
+   }
+  ],
+  "related": [
+   "person:frodo-baggins",
+   "person:gandalf",
+   "person:bilbo-baggins",
+   "person:elrond",
+   "person:arwen",
+   "person:gloin",
+   "person:aragorn",
+   "thing:one-ring"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II, chapter 1"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:fotr-2-02",
+  "title": "The Council of Elrond",
+  "group": "The Fellowship of the Ring",
+  "kind": "Book II, chapter 2",
+  "aka": [],
+  "blurb": "Elrond holds a council that hears the history of the Ring and decides that it must be destroyed in Mount Doom.",
+  "book": "On 25 October, T.A. 3018, Elrond holds a council in Rivendell. Elves, Dwarves, Men, Gandalf and hobbits attend. Glóin tells how Balin went to Moria and was not heard of again. He also tells of a messenger from Mordor who asked Dáin for news of Bilbo and his ring.\n\nElrond tells the history of the Rings, the Last Alliance and Isildur. Boromir tells of the war in Gondor and of a dream that sent him to seek Imladris. Aragorn shows the broken sword Narsil, and Frodo shows the Ring. Bilbo tells the true tale of the finding.\n\nGandalf tells how he and Aragorn hunted Gollum. Legolas says that Gollum has escaped from the Elves of Mirkwood. Gandalf then tells of his own capture. Saruman had turned to evil and held him prisoner on top of Orthanc. Gwaihir the Eagle carried him away.\n\nThe council debates what to do. They cannot send the Ring to Bombadil, hide it or send it over the Sea. Boromir asks why Gondor should not use it, but Elrond and Gandalf refuse. The Ring must be destroyed in the fire of Mount Doom.\n\nFrodo offers to take the Ring, and Elrond accepts. Sam, who was hiding in a corner, insists on going with him, and Elrond allows it.",
+  "film": "The film keeps the Council as a debate in which the delegates quarrel until Frodo offers to carry the Ring. Boromir wishes to use it.",
+  "series": "",
+  "facts": {
+   "Date": "25 October, T.A. 3018",
+   "Place": "Rivendell"
+  },
+  "places": [
+   {
+    "id": "TO084",
+    "role": "other",
+    "note": "The council meets in the house of Elrond."
+   }
+  ],
+  "related": [
+   "person:elrond",
+   "person:frodo-baggins",
+   "person:gandalf",
+   "person:boromir",
+   "person:aragorn",
+   "person:legolas",
+   "person:gloin",
+   "person:saruman",
+   "person:gollum",
+   "person:samwise-gamgee"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II, chapter 2"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:fotr-2-03",
+  "title": "The Ring Goes South",
+  "group": "The Fellowship of the Ring",
+  "kind": "Book II, chapter 3",
+  "aka": [],
+  "blurb": "The Fellowship of nine is chosen, leaves Rivendell, and is driven back from the pass of Caradhras by snow.",
+  "book": "After the Council, Elrond sends scouts out for two months to learn what the Riders are doing. Elrond then names the Company of the Ring. Frodo and Sam go with Gandalf, Aragorn, Legolas, Gimli and Boromir. Merry and Pippin beg to go, and Gandalf supports them, so the Company is nine. Bilbo gives Frodo his sword Sting and his coat of mithril rings.\n\nOn 25 December, T.A. 3018, the Company leaves Rivendell. They go south and reach Hollin. There flocks of crebain, crows from Dunland and Fangorn, pass over them, and Aragorn fears they are spies. The Company travels on by night, and a shadow passes across the stars.\n\nThey try the pass of the Redhorn Gate under Caradhras, as planned. A great storm of snow and wind blocks the way. The mountain itself seems to rise against them. Gandalf lights a fire to save them from the cold.\n\nIn the morning the snow is too deep. Boromir and Aragorn force a path back down through the drifts and carry the hobbits. The Company retreats from the mountain, weary and defeated.",
+  "film": "The film shows the storm on Caradhras, with Saruman casting a spell from Orthanc to raise it. The Company then chooses the road through Moria on the mountainside.",
+  "series": "",
+  "facts": {
+   "Date": "25 December T.A. 3018 to 12 January T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "TO084",
+    "role": "other",
+    "note": "The Fellowship leaves Rivendell on the road south."
+   },
+   {
+    "id": "realm:eregion",
+    "role": "travelled",
+    "note": "The Company rests in Hollin and sees the crebain."
+   },
+   {
+    "id": "MT006",
+    "role": "travelled",
+    "note": "The Fellowship fails to cross the pass under Caradhras."
+   },
+   {
+    "id": "NP009",
+    "role": "travelled",
+    "note": "The Company tries the Redhorn Gate and is driven back."
+   }
+  ],
+  "related": [
+   "person:gandalf",
+   "person:frodo-baggins",
+   "person:aragorn",
+   "person:boromir",
+   "person:bilbo-baggins",
+   "thing:sting",
+   "thing:mithril-coat",
+   "person:legolas",
+   "person:gimli",
+   "person:elrond"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II, chapter 3"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:fotr-2-04",
+  "title": "A Journey in the Dark",
+  "group": "The Fellowship of the Ring",
+  "kind": "Book II, chapter 4",
+  "aka": [],
+  "blurb": "The Company chooses Moria, escapes wolves, opens the Doors of Durin and walks in the dark to find Balin's tomb.",
+  "book": "Gandalf proposes the road under the mountains, through Moria. Boromir is against it, and Aragorn has dark fears of the place. Wolves howl that night, and the Company accepts Gandalf's plan. Before dawn wolves attack, and Gandalf drives them off with fire and his staff.\n\nOn 13 January the Company reaches the West-gate of Moria. The Doors of Durin open only for a password. Gandalf at last reads the Elvish words as a riddle and speaks the word friend. A creature in the lake seizes Frodo by the ankle. The Company flees inside, and the Watcher slams the Doors shut.\n\nGandalf leads them through the dark. At one point three ways meet, and he chooses after long thought. The Company rests in a guardroom. Pippin drops a stone into a well, and a tapping sound answers from deep below. Gandalf speaks of mithril and says that Bilbo's mail was worth more than the Shire. Frodo hears soft footsteps following them and sees two pale eyes in the dark.\n\nThe next day they reach the Twenty-first Hall. A side passage leads to a chamber lit by a shaft of light. There they find a tomb with runes saying that Balin, son of Fundin, Lord of Moria, lies there.",
+  "film": "The film shows the choice of Moria, the Watcher in the Water and the march through the mines in a shorter form. Gollum appears only as a glimpse in the dark, and Gandalf tells Frodo that pity stayed Bilbo's hand.",
+  "series": "",
+  "facts": {
+   "Date": "13 to 15 January T.A. 3019",
+   "Place": "Khazad-dûm (Moria)"
+  },
+  "places": [
+   {
+    "id": "DO009",
+    "role": "other",
+    "note": "The Company enters Moria by the Doors of Durin."
+   },
+   {
+    "id": "TO066",
+    "role": "travelled",
+    "note": "The Fellowship travels through the dark of Moria."
+   },
+   {
+    "id": "BU082",
+    "role": "other",
+    "note": "The Company sleeps in the Twenty-first Hall."
+   },
+   {
+    "id": "GR001",
+    "role": "found",
+    "note": "The Company finds Balin's tomb at the end of the chapter."
+   }
+  ],
+  "related": [
+   "person:gandalf",
+   "person:frodo-baggins",
+   "person:gimli",
+   "person:gollum",
+   "person:aragorn",
+   "person:peregrin-took",
+   "person:balin",
+   "realm:khazad-dum"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II, chapter 4"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:fotr-2-05",
+  "title": "The Bridge of Khazad-dûm",
+  "group": "The Fellowship of the Ring",
+  "kind": "Book II, chapter 5",
+  "aka": [],
+  "blurb": "In Moria, the Fellowship finds Balin's tomb, is attacked by Orcs, and loses Gandalf to the Balrog.",
+  "book": "In the Chamber of Mazarbul, beside Balin's tomb, Gandalf finds a battered book. It records how Balin's colony came to Moria and how Orcs and a terror from the deep destroyed it. Gandalf reads the last page aloud.\n\nDrums sound in the deep, and Orcs attack the chamber. A cave-troll thrusts its foot through the door, and Frodo stabs it with Sting. An Orc chieftain then spears Frodo, but his mithril coat saves him. The Company flees by the other door, and Gandalf holds it with a spell. A great power meets him there, and the door breaks.\n\nThe Fellowship flees down the stairs toward the Bridge of Khazad-dûm. Orcs and a great shadow come behind them. It is a Balrog, a demon of the old world. Gandalf stands upon the bridge and breaks it under the Balrog. As it falls, its whip catches Gandalf's knees. He cries to the others to flee and falls into the abyss.\n\nAragorn leads the Company out of the Great Gates into Dimrill Dale. They grieve for Gandalf.",
+  "film": "The film shows the chamber, the cave-troll, the flight and the fall of Gandalf on the bridge in the same order. In the film the cave-troll, not an Orc chieftain, spears Frodo.",
+  "series": "",
+  "facts": {
+   "Date": "15 January T.A. 3019",
+   "Event": "Gandalf falls with the Balrog"
+  },
+  "places": [
+   {
+    "id": "BU034",
+    "role": "other",
+    "note": "The Fellowship finds Balin's tomb and book in this chamber."
+   },
+   {
+    "id": "BR003",
+    "role": "fought",
+    "note": "Gandalf breaks the bridge under the Balrog."
+   },
+   {
+    "id": "VA004",
+    "role": "travelled",
+    "note": "The company escapes into Dimrill Dale."
+   },
+   {
+    "id": "battle:mazarbul-khazad-dum",
+    "role": "fought",
+    "note": "The fight in the chamber and on the bridge."
+   },
+   {
+    "id": "DO031",
+    "role": "other",
+    "note": "The Company escapes Moria by the Great Gates."
+   }
+  ],
+  "related": [
+   "person:gandalf",
+   "person:balin",
+   "thing:book-of-mazarbul",
+   "person:durins-bane",
+   "person:frodo-baggins",
+   "thing:mithril-coat",
+   "person:aragorn",
+   "person:boromir",
+   "person:gimli"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II, chapter 5"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:fotr-2-06",
+  "title": "Lothlórien (Book II, chapter 6)",
+  "group": "The Fellowship of the Ring",
+  "kind": "Book II, chapter 6",
+  "aka": [],
+  "blurb": "The grieving Fellowship enters Lothlórien, is led blindfolded through the wood, and comes to Caras Galadhon.",
+  "book": "Gimli takes Frodo and Sam to look into the Mirrormere. Then Aragorn leads the Company south down Dimrill Dale. He tends Sam's cut and Frodo's bruise, and the others see Frodo's mithril coat. Late that night they reach the stream Nimrodel at the edge of Lothlórien. Legolas sings an old song of the maid Nimrodel. Boromir is uneasy about entering the Golden Wood.\n\nLegolas climbs a tree to keep watch and finds Elves there. Their leader, Haldir, lets the Company sleep on high platforms called flets. In the night Orcs pass below. Frodo sees a shape climbing the tree and hears hissing breath.\n\nThe next day they cross the Silverlode on ropes into the Naith of Lórien. Haldir says that Gimli must be blindfolded. Aragorn says that all of them will be blindfolded, so that none is treated unequally. Later a message from Galadriel lifts the blindfolds. At Cerin Amroth they see the wood in its beauty, and Aragorn stands lost in memory.\n\nOn 17 January they come to Caras Galadhon, the city of the Galadhrim, among great mallorn trees. Celeborn and Galadriel receive them. Galadriel looks long at each of them and tests their minds. She grieves for Gandalf.",
+  "film": "The film shows the entry into Lothlórien more briefly. Haldir meets the company and brings them to Galadriel. It stresses Galadriel's speech in their minds and Boromir's unease.",
+  "series": "",
+  "facts": {
+   "Date": "15 to 17 January T.A. 3019",
+   "Place": "Lothlórien"
+  },
+  "places": [
+   {
+    "id": "LA012",
+    "role": "other",
+    "note": "Gimli takes Frodo and Sam to look into the Mirrormere."
+   },
+   {
+    "id": "RI061",
+    "role": "travelled",
+    "note": "The Company reaches the Nimrodel at the edge of the wood."
+   },
+   {
+    "id": "RI014",
+    "role": "travelled",
+    "note": "They cross the Silverlode on ropes."
+   },
+   {
+    "id": "NP010",
+    "role": "travelled",
+    "note": "Gimli is blindfolded in the Naith of Lórien."
+   },
+   {
+    "id": "HI014",
+    "role": "other",
+    "note": "Aragorn stands lost in memory at Cerin Amroth."
+   },
+   {
+    "id": "TO018",
+    "role": "other",
+    "note": "Caras Galadhon is the city of the Galadhrim."
+   }
+  ],
+  "related": [
+   "person:haldir",
+   "person:galadriel",
+   "person:celeborn",
+   "person:nimrodel",
+   "person:aragorn",
+   "person:gimli",
+   "person:legolas",
+   "person:boromir",
+   "person:gollum",
+   "thing:mallorn"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II, chapter 6"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:fotr-2-07",
+  "title": "The Mirror of Galadriel",
+  "group": "The Fellowship of the Ring",
+  "kind": "Book II, chapter 7",
+  "aka": [],
+  "blurb": "In Lothlórien, Galadriel shows Sam and Frodo visions in her mirror and refuses the Ring.",
+  "book": "The Fellowship stays in Lothlórien for some time. They rest, mourn Gandalf, and hear Galadriel's counsel. Aragorn speaks little. Boromir is troubled.\n\nOne evening Galadriel invites Frodo and Sam to see her mirror, a basin of water that shows things that were, are, and may be. She warns them that the visions may be false or may not come to pass. Sam looks first. He sees Frodo lying pale under a dark cliff, and then the Shire. Trees are felled near Bywater, the Old Mill is pulled down, and a red brick building rises. He is greatly distressed. Frodo then looks. He sees a figure in white, Bilbo pacing in a room, the Sea, a ship and great battles. Then a great fiery Eye appears and searches for him, and the Ring grows heavy on its chain.\n\nGaladriel tells Frodo that she perceives the mind of the Enemy. She reveals that she bears Nenya, one of the Three Rings. Frodo then offers the One Ring to her. She is tempted and speaks of how she might become a queen, terrible and beautiful. After a moment she refuses it. She says that she will diminish and go into the West.\n\nGaladriel and the hobbits leave the garden in silence.",
+  "film": "The film makes the mirror scene dramatic. Frodo sees dark visions, including the Eye, and then offers the Ring to Galadriel. Her form changes in a vivid display before she masters the temptation.",
+  "series": "",
+  "facts": {
+   "Date": "January to February T.A. 3019",
+   "Place": "Lothlórien"
+  },
+  "places": [
+   {
+    "id": "TO018",
+    "role": "other",
+    "note": "Galadriel and Celeborn rule from Caras Galadhon."
+   },
+   {
+    "id": "FO017",
+    "role": "other",
+    "note": "The mirror stands in a garden in Lothlórien."
+   }
+  ],
+  "related": [
+   "person:galadriel",
+   "thing:mirror-of-galadriel",
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "thing:nenya",
+   "thing:one-ring",
+   "person:celeborn"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II, chapter 7"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:fotr-2-08",
+  "title": "Farewell to Lórien",
+  "group": "The Fellowship of the Ring",
+  "kind": "Book II, chapter 8",
+  "aka": [],
+  "blurb": "The Fellowship receives gifts from Galadriel, leaves Lothlórien in boats, and travels down the Anduin.",
+  "book": "The Fellowship decides to leave Lothlórien and go down the Great River Anduin. Celeborn gives them boats and counsel. He warns them of the Emyn Muil and the falls of Rauros, and of entering Fangorn. The Elves give them the waybread called lembas, grey Elvish cloaks and ropes.\n\nAt a farewell feast Galadriel gives each member of the company a gift. She gives Frodo a phial holding the light of Eärendil's star. Sam receives a small box of earth from her garden, with a seed of a mallorn tree. Gimli asks for a strand of her hair and receives three. Legolas receives a bow. Aragorn receives a sheath for his sword and a green stone, the Elessar, set in a brooch. Merry and Pippin receive small silver belts, and Boromir a belt of gold.\n\nThe Fellowship takes leave of the Elves. The boats move down the river, and Galadriel sings a lament in Elvish as they go. Gimli weeps at leaving her. The Company passes on down the Anduin, and the Golden Wood falls behind them.",
+  "film": "In the theatrical film, Galadriel gives Frodo the phial and the Company leaves by boat. The extended edition shows the gifts to the others in more detail.",
+  "series": "",
+  "facts": {
+   "Date": "16 February, T.A. 3019",
+   "Place": "Lothlórien"
+  },
+  "places": [
+   {
+    "id": "FO017",
+    "role": "other",
+    "note": "The Fellowship leaves the Golden Wood by boat."
+   },
+   {
+    "id": "RI014",
+    "role": "travelled",
+    "note": "The boats go down the Silverlode to its meeting with the Anduin."
+   },
+   {
+    "id": "RI003",
+    "role": "travelled",
+    "note": "They travel south on the Anduin."
+   }
+  ],
+  "related": [
+   "person:galadriel",
+   "person:celeborn",
+   "thing:lembas",
+   "thing:elven-cloaks",
+   "thing:phial-of-galadriel",
+   "thing:box-of-galadriel",
+   "thing:elessar-stone",
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:gimli"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II, chapter 8"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:fotr-2-09",
+  "title": "The Great River",
+  "group": "The Fellowship of the Ring",
+  "kind": "Book II, chapter 9",
+  "aka": [],
+  "blurb": "The Fellowship travels down the Anduin, is shot at by Orcs near Sarn Gebir, and passes the Argonath.",
+  "book": "The Fellowship travels south by boat on the Anduin. They pass the bare Brown Lands and the Wold of Rohan. Sam sees a log with eyes floating after them. Aragorn says that Gollum has followed them since Moria.\n\nBoromir argues for the road to Minas Tirith, and Aragorn is unsure of the way. On the night of 23 February the current carries them into the rapids of Sarn Gebir. Orcs shoot arrows from the eastern bank. The Company fights its way to the western shore. A great winged shape passes over them. Legolas shoots it with the bow of Lórien, and it falls from the sky.\n\nThe next day Aragorn finds the old portage path. The Company carries the boats around the rapids.\n\nThey come at last to the Argonath, two great statues of kings standing on either side of the river. Aragorn says they are Isildur and Anárion, his ancestors. Beyond lies the lake of Nen Hithoel with the hill of Amon Hen. On 25 February the Company camps at Parth Galen on the west shore, where they must choose their road.",
+  "film": "The film shows the boats on the river and the Argonath, with Aragorn looking up at the statues of his ancestors. The film omits the rapids of Sarn Gebir and the Orc attack from the shore at this point.",
+  "series": "",
+  "facts": {
+   "Date": "16 to 25 February T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "RI003",
+    "role": "travelled",
+    "note": "The Fellowship travels down the Anduin."
+   },
+   {
+    "id": "NP012",
+    "role": "travelled",
+    "note": "They face the rapids of Sarn Gebir."
+   },
+   {
+    "id": "DO002",
+    "role": "travelled",
+    "note": "They pass between the Argonath."
+   },
+   {
+    "id": "LA013",
+    "role": "travelled",
+    "note": "Beyond the statues lies the lake Nen Hithoel."
+   },
+   {
+    "id": "FI021",
+    "role": "other",
+    "note": "The Company camps at Parth Galen."
+   }
+  ],
+  "related": [
+   "person:aragorn",
+   "person:frodo-baggins",
+   "person:legolas",
+   "person:gollum",
+   "person:isildur",
+   "person:anarion",
+   "people:nazgul",
+   "person:boromir",
+   "person:samwise-gamgee"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II, chapter 9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:fotr-2-10",
+  "title": "The Breaking of the Fellowship",
+  "group": "The Fellowship of the Ring",
+  "kind": "Book II, chapter 10",
+  "aka": [],
+  "blurb": "At Amon Hen, Boromir tries to take the Ring, Frodo leaves, and the Fellowship breaks apart.",
+  "book": "The Fellowship camps at Parth Galen and must decide whether to go east to Mordor or west to Minas Tirith. Aragorn lets Frodo choose, and Frodo asks for an hour to think. He walks off into the woods of Amon Hen.\n\nBoromir follows him and urges him to take the Ring to Minas Tirith. His speech turns angry and he tries to seize it. Frodo flees. He puts on the Ring and finds that he is on the Seat of Seeing on the hill of Amon Hen. There he sees far across the lands, and he feels the Eye of Sauron searching for him. He feels two powers striving in him. At the last he takes off the Ring and resolves to go alone to Mordor.\n\nBoromir returns to the camp, ashamed. The others scatter to search for Frodo. Frodo, still unseen, takes a boat to cross the river alone. Sam has guessed what Frodo means to do and follows. Sam leaps after the boat and sinks in deep water. Frodo pulls him out and lets him come. They cross toward the eastern shore.\n\nThe chapter ends there. The Orc attack that takes Merry and Pippin, and the end of Boromir, are told at the start of the next volume. The Fellowship is broken.",
+  "film": "The film moves Boromir's attack on Frodo and his later death to a single sequence at Amon Hen. Aragorn finds Boromir dying after an Uruk-hai attack. Frodo and Sam cross the river alone.",
+  "series": "",
+  "facts": {
+   "Date": "26 February, T.A. 3019",
+   "Place": "Amon Hen and Parth Galen"
+  },
+  "places": [
+   {
+    "id": "FI021",
+    "role": "other",
+    "note": "The Fellowship camps at Parth Galen."
+   },
+   {
+    "id": "HI004",
+    "role": "other",
+    "note": "Frodo climbs the Seat of Seeing on Amon Hen."
+   },
+   {
+    "id": "battle:parth-galen",
+    "role": "other",
+    "note": "Orcs attack the others at Parth Galen soon after, told in the next volume."
+   },
+   {
+    "id": "LA013",
+    "role": "travelled",
+    "note": "Frodo and Sam cross the lake in a boat."
+   }
+  ],
+  "related": [
+   "person:frodo-baggins",
+   "person:boromir",
+   "person:aragorn",
+   "person:samwise-gamgee",
+   "person:meriadoc-brandybuck",
+   "person:peregrin-took",
+   "thing:one-ring",
+   "person:sauron"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II, chapter 10"
+  ],
+  "confidence": "high"
+ }
+]

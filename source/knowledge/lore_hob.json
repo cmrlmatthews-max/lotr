@@ -1,0 +1,899 @@
+[
+ {
+  "id": "lore:hob-00",
+  "title": "The Hobbit (the book)",
+  "group": "The Hobbit",
+  "kind": "Book overview",
+  "aka": [
+   "The Hobbit",
+   "There and Back Again"
+  ],
+  "blurb": "Tolkien's children's story of 1937, which follows Bilbo Baggins on a quest to Erebor and leads into The Lord of the Rings.",
+  "book": "The Hobbit, or There and Back Again was published in September 1937 by Allen and Unwin. Tolkien wrote it as a story for children, and it grew from his private work on his own mythology.\n\nThe tale follows Bilbo Baggins, a comfortable hobbit of the Shire. The wizard Gandalf sends him on a quest with thirteen dwarves led by Thorin Oakenshield. The dwarves wish to win back their lost home and treasure under the Lonely Mountain from the dragon Smaug. Bilbo meets trolls, goblins, giant spiders, Elves and a shape-changing man. He finds a magic ring in the dark. He steals from Smaug, and he tries to make peace before the Battle of Five Armies. He returns home in T.A. 2942, changed and wiser.\n\nThe book led to The Lord of the Rings. The publisher asked for a sequel, and Tolkien began it in late 1937. The Ring that Bilbo finds grew into the One Ring, and the later story names The Hobbit as Bilbo's own memoir. Bilbo, Gandalf, Elrond and Gollum appear in both works. Thranduil and Dáin are named in the later book.\n\nTolkien revised the chapter Riddles in the Dark for a second edition in 1951. In the first edition Gollum offered his ring as a prize for winning the riddle game, and he parted from Bilbo with courtesy. The revision shows Gollum as a desperate creature who is bound to the Ring. It fits the darker Ring of the sequel. The later book explains the old version as a false story that Bilbo first told.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Published": "September 1937",
+   "Author": "J. R. R. Tolkien",
+   "Revised": "1951 (Riddles in the Dark)"
+  },
+  "places": [
+   {
+    "id": "TO050",
+    "role": "other",
+    "note": "Hobbiton in the Shire is where the story begins and ends."
+   },
+   {
+    "id": "MT029",
+    "role": "other",
+    "note": "The Lonely Mountain is the goal of the quest."
+   }
+  ],
+  "related": [
+   "person:bilbo-baggins",
+   "person:gandalf",
+   "person:thorin-oakenshield",
+   "person:smaug",
+   "person:gollum",
+   "thing:one-ring",
+   "journey:thorin",
+   "battle:five-armies"
+  ],
+  "sources": [
+   "The Hobbit",
+   "The Lord of the Rings, Foreword and Book I, chapter 2",
+   "The Lord of the Rings, Prologue"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:hob-01",
+  "title": "An Unexpected Party",
+  "group": "The Hobbit",
+  "kind": "Chapter 1",
+  "aka": [],
+  "blurb": "Gandalf and thirteen dwarves arrive at Bag End, and Bilbo is drawn into a quest to win back the treasure of Erebor.",
+  "book": "Bilbo Baggins lives quietly at Bag End in Hobbiton. One day Gandalf visits him and marks his door with a sign. Soon after, dwarves arrive one by one, until thirteen sit in his home. Thorin Oakenshield comes last.\n\nBilbo feeds them and listens as they sing of their lost home under the Lonely Mountain. Thorin tells of the dragon Smaug, who drove the dwarves out of Erebor and took their treasure. Gandalf gives Thorin a map and a key. They belonged to Thrór, Thorin's grandfather, and Gandalf received them from Thráin, Thorin's father. The map shows a secret door into the Mountain. Gandalf also says that the dwarves need a burglar, and he has chosen Bilbo.\n\nBilbo is afraid at first. He is stung when the dwarves doubt that he can do the work. The Tookish side of his nature stirs, and he agrees to listen. The dwarves plan to leave in the morning, and Bilbo goes to bed and falls asleep.\n\nThe chapter sets up the whole quest and shows the contrast between the comfortable hobbit and the bold adventurers.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Hobbit",
+   "Chapter": "1 of 19",
+   "Place": "Bag End, Hobbiton",
+   "Dates": "Spring T.A. 2941"
+  },
+  "places": [
+   {
+    "id": "BU030",
+    "role": "other",
+    "note": "The dwarves gather in Bilbo's hobbit-hole for supper and plans."
+   },
+   {
+    "id": "TO050",
+    "role": "lived",
+    "note": "Hobbiton is Bilbo's home village."
+   }
+  ],
+  "related": [
+   "person:bilbo-baggins",
+   "person:gandalf",
+   "person:thorin-oakenshield",
+   "person:balin",
+   "person:dwalin",
+   "person:bombur",
+   "thing:thrors-map",
+   "person:smaug"
+  ],
+  "sources": [
+   "The Hobbit, chapter 1"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:hob-02",
+  "title": "Roast Mutton",
+  "group": "The Hobbit",
+  "kind": "Chapter 2",
+  "aka": [],
+  "blurb": "Bilbo joins the company, then meets three trolls and Gandalf saves the dwarves at dawn.",
+  "book": "Bilbo wakes late and finds the dwarves gone. He runs out without his handkerchief and catches up with them. The company rides east with Gandalf.\n\nThe journey passes through quiet lands, then wild country in cold rain. One night the company sees a fire in the distance. Gandalf is away, so Thorin sends Bilbo to scout. He finds three trolls named Tom, Bert and William cooking mutton. Bilbo tries to steal from them, but a purse speaks and he is caught.\n\nThe dwarves come to help one at a time, and the trolls catch each one in a sack. The trolls argue over how to cook them. Gandalf then returns and copies the trolls' voices from the dark, so the three argue until dawn. The sun rises and turns them to stone.\n\nGandalf finds the key to the trolls' cave. There the company finds food, gold and several swords, and they bury the gold. Gandalf and Thorin take two fine blades that were made by Elves long ago, and Bilbo takes a small knife that is a sword for a hobbit. The chapter shows both Bilbo's weakness as a burglar and Gandalf's cunning.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Hobbit",
+   "Chapter": "2 of 19",
+   "Place": "Lone-lands and the Trollshaws, east of Bree"
+  },
+  "places": [
+   {
+    "id": "NP006",
+    "role": "other",
+    "note": "Trolls catch the dwarves and are turned to stone at dawn."
+   },
+   {
+    "id": "CA014",
+    "role": "found",
+    "note": "The company finds the trolls' hoard in a cave."
+   },
+   {
+    "id": "FO033",
+    "role": "travelled",
+    "note": "The trolls live in this hilly wood on the road east."
+   }
+  ],
+  "related": [
+   "person:bilbo-baggins",
+   "person:gandalf",
+   "person:tom-the-troll",
+   "person:bert",
+   "person:william",
+   "thing:glamdring",
+   "thing:orcrist",
+   "people:trolls"
+  ],
+  "sources": [
+   "The Hobbit, chapter 2"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:hob-03",
+  "title": "A Short Rest",
+  "group": "The Hobbit",
+  "kind": "Chapter 3",
+  "aka": [],
+  "blurb": "The company reaches Rivendell, where Elrond reads the moon-letters on the map and the travellers rest.",
+  "book": "After the troll adventure the company rides on toward the Misty Mountains. Gandalf leads them down a hidden path into a deep valley. There they reach Rivendell, the house of Elrond.\n\nThe Elves of the valley greet them with song and laughter. Bilbo and the dwarves rest, eat and mend their clothes. Some dwarves are wary of Elves, but all find comfort there.\n\nElrond is wise and learned in old lore. He studies the swords from the troll cave and names them. Both were made in the elder days by Elves of Gondolin, and both were famous in the wars against goblins. Elrond also studies Thorin's map. He finds moon-letters that show only when a moon of the same shape and season shines behind them. By luck it is Midsummer Eve, and he can read them.\n\nThe letters say to stand by the grey stone when the thrush knocks. Then the setting sun on Durin's Day will shine on the keyhole of a hidden door. This gives the dwarves new hope. After about two weeks the company sets out on Midsummer morning for the Misty Mountains.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Hobbit",
+   "Chapter": "3 of 19",
+   "Place": "Rivendell",
+   "Dates": "Midsummer T.A. 2941"
+  },
+  "places": [
+   {
+    "id": "TO084",
+    "role": "other",
+    "note": "The company rests in Elrond's house and reads the map there."
+   },
+   {
+    "id": "MT034",
+    "role": "travelled",
+    "note": "The company leaves Rivendell to cross the Misty Mountains."
+   }
+  ],
+  "related": [
+   "person:elrond",
+   "person:thorin-oakenshield",
+   "person:gandalf",
+   "thing:thrors-map",
+   "thing:orcrist",
+   "thing:glamdring",
+   "person:bilbo-baggins"
+  ],
+  "sources": [
+   "The Hobbit, chapter 3"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:hob-04",
+  "title": "Over Hill and Under Hill",
+  "group": "The Hobbit",
+  "kind": "Chapter 4",
+  "aka": [],
+  "blurb": "Storms and goblins trap the company in the Misty Mountains, and Bilbo is separated in the dark.",
+  "book": "The company climbs into the Misty Mountains by a high pass. A fierce storm breaks, and the travellers see stone giants hurl rocks at each other across the peaks. Thorin's company seeks shelter in a dry cave. They do not know that the cave is a goblin entrance.\n\nDuring the night a crack opens at the back of the cave. Goblins seize the dwarves and Bilbo and take them deep inside the mountain. Only Gandalf escapes capture. The goblins bring their captives to the Great Goblin, who sits in a great cave of torches.\n\nThe Great Goblin sees the sword Orcrist and grows angry, for the goblins know it as Biter. Suddenly the lights go out, and Gandalf, who slipped away when the goblins struck, kills the Great Goblin with his sword. He leads the prisoners away along dark tunnels. Dori carries Bilbo on his back.\n\nThe goblins give chase and catch up with the fleeing company. Gandalf and Thorin turn and fight with their Elvish swords, and the goblins fall back in fear. The company runs on, but goblins soon follow again. The chapter ends with the chase still going on in the dark.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Hobbit",
+   "Chapter": "4 of 19",
+   "Place": "Misty Mountains"
+  },
+  "places": [
+   {
+    "id": "MT034",
+    "role": "travelled",
+    "note": "The company crosses the Misty Mountains by a high pass."
+   },
+   {
+    "id": "TO039",
+    "role": "fought",
+    "note": "The goblins take the captives to their great cave under the mountain."
+   }
+  ],
+  "related": [
+   "person:great-goblin",
+   "person:gandalf",
+   "person:bilbo-baggins",
+   "person:dori",
+   "thing:orcrist",
+   "people:orcs",
+   "person:thorin-oakenshield",
+   "thing:glamdring"
+  ],
+  "sources": [
+   "The Hobbit, chapter 4"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:hob-05",
+  "title": "Riddles in the Dark",
+  "group": "The Hobbit",
+  "kind": "Chapter 5",
+  "aka": [],
+  "blurb": "Alone under the mountain, Bilbo finds a ring, meets Gollum and wins a riddle game.",
+  "book": "Bilbo wakes alone in the dark. He has fallen from Dori's back. As he crawls on, his hand finds a small ring on the tunnel floor, and he puts it in his pocket. He follows the tunnel down to a cold lake. There he meets a thin creature called Gollum. Gollum lives on an island in a cold underground lake and eats fish and any goblin he can catch. He is curious about Bilbo and thinks him a fine meal.\n\nBilbo proposes a game of riddles. If Gollum wins, he may eat Bilbo, and if Bilbo wins, Gollum must show him the way out. They trade many riddles. Bilbo is hard pressed, and he wins by asking what he has in his pocket, which is not a true riddle. Gollum fails to guess.\n\nGollum goes to find his ring, which can make its wearer invisible. He finds that it is gone and realises that Bilbo has it. In his rage he hunts Bilbo. As Bilbo runs, the ring slips onto his finger and Gollum passes him by. Bilbo learns what the ring can do and follows Gollum toward the way out. Gollum blocks a passage, and Bilbo leaps over him.\n\nBilbo escapes to the eastern gate with goblins in pursuit. The chapter ends with the ring in his pocket and a secret he does not share.\n\nIn the first edition Gollum offered the ring as a prize. Tolkien rewrote this scene in 1951.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Hobbit",
+   "Chapter": "5 of 19",
+   "Place": "Under the Misty Mountains",
+   "Revised": "1951 edition"
+  },
+  "places": [
+   {
+    "id": "NP037",
+    "role": "other",
+    "note": "Bilbo meets Gollum beside his dark underground lake."
+   },
+   {
+    "id": "DO028",
+    "role": "other",
+    "note": "Bilbo reaches the goblin-gate and escapes eastward."
+   },
+   {
+    "id": "MT034",
+    "role": "other",
+    "note": "The tunnels run under the Misty Mountains."
+   }
+  ],
+  "related": [
+   "person:gollum",
+   "person:bilbo-baggins",
+   "thing:one-ring",
+   "people:orcs",
+   "person:dori"
+  ],
+  "sources": [
+   "The Hobbit, chapter 5"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:hob-06",
+  "title": "Out of the Frying-Pan into the Fire",
+  "group": "The Hobbit",
+  "kind": "Chapter 6",
+  "aka": [],
+  "blurb": "Bilbo rejoins the company, wolves and goblins trap them in burning trees, and the Eagles carry them away.",
+  "book": "Bilbo reaches the daylight outside the goblin-gate. He finds that Gandalf and the dwarves have escaped and are hiding nearby. He uses the ring to slip past their guard unseen, and then he shows himself to surprise them. He tells how he escaped but does not mention the ring.\n\nThe company hurries down the mountain slopes. At dusk they hear the howl of wolves, and they find that wargs plan to meet the goblins in a clearing. The travellers climb trees. The wolves circle below, and Gandalf throws burning pine cones among them.\n\nThen the goblins arrive. They pile wood and grass around the trees and set them alight. The dwarves and the hobbit are trapped on the branches above the flames.\n\nThe Great Eagles of the Misty Mountains see the fire. The Lord of the Eagles and his folk swoop down. They take the wizard, the dwarves and Bilbo from the trees. The eagles carry them to their eyrie high in the mountains. There the eagles bring them food, and the travellers eat and rest. The chapter ends with Bilbo asleep on the hard rock of the eyrie.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Hobbit",
+   "Chapter": "6 of 19",
+   "Place": "East of the Misty Mountains"
+  },
+  "places": [
+   {
+    "id": "DO028",
+    "role": "other",
+    "note": "Bilbo emerges from the mountain by the goblin-gate."
+   },
+   {
+    "id": "MT034",
+    "role": "travelled",
+    "note": "The company flees down the eastern slopes of the mountains."
+   },
+   {
+    "id": "BU090",
+    "role": "other",
+    "note": "The eagles carry the company to their eyrie for the night."
+   }
+  ],
+  "related": [
+   "person:gandalf",
+   "person:bilbo-baggins",
+   "person:thorin-oakenshield",
+   "people:great-eagles",
+   "people:orcs"
+  ],
+  "sources": [
+   "The Hobbit, chapter 6"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:hob-07",
+  "title": "Queer Lodgings",
+  "group": "The Hobbit",
+  "kind": "Chapter 7",
+  "aka": [],
+  "blurb": "The company meets Beorn, who shelters them and lends ponies for the road to Mirkwood.",
+  "book": "In the morning the eagles carry the company to the Carrock, a rock in the Great River. Gandalf then leads them to a house nearby. This is the home of Beorn, a huge man who can take the shape of a great bear. Gandalf knows him and knows that he hates goblins and wargs.\n\nGandalf does not take the whole company in at once. He tells his tale to Beorn in stages, and the dwarves come in a few at a time. The tale pleases Beorn, and he takes the company in and feeds them well. In the night Bilbo hears growls outside the house. The next day Beorn returns from a journey and says that he has tested their tale. He caught a goblin and a warg, and they confirmed it.\n\nBeorn gives them food, water-skins and ponies, and a horse for Gandalf. They must send the beasts back at the forest gate. He gives strong advice about the dark forest that lies ahead. He warns them to keep to the path, not to drink the black stream and not to leave the road for any reason.\n\nThe company rides to the edge of Mirkwood. Gandalf takes his leave there, for he has other business. He tells Bilbo to be brave and to take care.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Hobbit",
+   "Chapter": "7 of 19",
+   "Place": "Beorn's house"
+  },
+  "places": [
+   {
+    "id": "BU031",
+    "role": "other",
+    "note": "Beorn shelters the company in his wooden hall."
+   },
+   {
+    "id": "IS003",
+    "role": "other",
+    "note": "The company reaches Beorn's lands from the Carrock."
+   },
+   {
+    "id": "FO018",
+    "role": "travelled",
+    "note": "Beorn sends them to the eaves of Mirkwood."
+   }
+  ],
+  "related": [
+   "person:beorn",
+   "person:gandalf",
+   "person:bilbo-baggins",
+   "person:thorin-oakenshield",
+   "people:beornings",
+   "people:great-eagles"
+  ],
+  "sources": [
+   "The Hobbit, chapter 7"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:hob-08",
+  "title": "Flies and Spiders",
+  "group": "The Hobbit",
+  "kind": "Chapter 8",
+  "aka": [],
+  "blurb": "In Mirkwood the company loses the path, Bilbo kills a spider and names Sting, and he rescues the dwarves.",
+  "book": "The company enters Mirkwood and keeps to the path in dim, stifling gloom. Their food runs low. They come to a dark stream with a boat on the far bank. They pull the boat across with a rope and hook and cross in turns. A deer leaps among them, Bombur falls into the water and he sinks into a deep sleep. They carry him on.\n\nBilbo climbs a tall tree to look for the edge of the forest. He sees black butterflies above the canopy, but no end to the wood. Later Bombur wakes and speaks of a dream of a feast.\n\nThen the company sees the lights of Elves feasting in the trees and leaves the path to follow them. Three times the lights go out when the dwarves rush in. After the third time the company is scattered in the dark.\n\nBilbo wakes alone, bound by a giant spider. He kills it with his small sword and names the blade Sting. He finds the dwarves wrapped in webs. He uses the ring to lead the spiders away with taunts and stones, and he cuts the dwarves free. The company fights its way out of the spider country. Bilbo tells the dwarves about his ring. Then they find that Thorin is missing. The wood-elves took him prisoner at the last feast.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Hobbit",
+   "Chapter": "8 of 19",
+   "Place": "Mirkwood"
+  },
+  "places": [
+   {
+    "id": "FO018",
+    "role": "travelled",
+    "note": "The company loses the path in the great forest."
+   },
+   {
+    "id": "RI022",
+    "role": "other",
+    "note": "The enchanted black stream puts Bombur into a long sleep."
+   },
+   {
+    "id": "RD013",
+    "role": "travelled",
+    "note": "The company follows the Elf-path until they leave it for the feast lights."
+   }
+  ],
+  "related": [
+   "person:bilbo-baggins",
+   "person:bombur",
+   "person:thorin-oakenshield",
+   "thing:sting",
+   "thing:one-ring",
+   "person:beorn"
+  ],
+  "sources": [
+   "The Hobbit, chapter 8"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:hob-09",
+  "title": "Barrels Out of Bond",
+  "group": "The Hobbit",
+  "kind": "Chapter 9",
+  "aka": [],
+  "blurb": "The dwarves are held by the Elvenking, and Bilbo frees them by hiding them in barrels on the river.",
+  "book": "Soon after the fight with the spiders, the wood-elves capture the weary dwarves. Bilbo escapes by the ring and follows the Elves into their halls under a hill. He lives in secret in the halls and watches.\n\nThe Elvenking questions the dwarves, but none will say why they travel. He has them locked in separate cells. Bilbo finds each dwarf. He also learns that Thorin is held in a deeper dungeon, having been taken earlier. Thorin tells the others to keep silent.\n\nBilbo learns that empty barrels are sent down a river to the town on the lake. The barrels leave through a water-gate under the halls. He makes a plan. The chief of the guards and the butler drink strong wine and fall asleep. Bilbo takes the keys, frees each dwarf and packs them into barrels.\n\nThe Elves push the barrels into the water. Bilbo has no barrel for himself, so he clings to one and later rides on it. The barrels float down the Forest River. Bilbo is cold and wet, but the company is free of the Elvenking's halls.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Hobbit",
+   "Chapter": "9 of 19",
+   "Place": "Mirkwood, Elvenking's halls"
+  },
+  "places": [
+   {
+    "id": "TO031",
+    "role": "other",
+    "note": "The Elvenking holds the dwarves in his halls under the hill."
+   },
+   {
+    "id": "RI027",
+    "role": "travelled",
+    "note": "The barrels float down the Forest River to the lake."
+   }
+  ],
+  "related": [
+   "person:thranduil",
+   "person:bilbo-baggins",
+   "person:thorin-oakenshield",
+   "people:silvan-elves",
+   "thing:one-ring"
+  ],
+  "sources": [
+   "The Hobbit, chapter 9"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:hob-10",
+  "title": "A Warm Welcome",
+  "group": "The Hobbit",
+  "kind": "Chapter 10",
+  "aka": [],
+  "blurb": "The company reaches Lake-town, and the people there welcome the dwarves with songs of the old kingdom.",
+  "book": "The barrels are caught by raft-elves near the edge of the forest. Bilbo lets the dwarves out of their barrels at night, and they walk to Lake-town, a town built on the water. Thorin goes to the town gate and names himself the King under the Mountain. The people remember the old tales and old songs. Some believe the prophecy that the mountain will once again be rich.\n\nThe Master of the town welcomes the dwarves. He is a clever man who thinks mostly of trade and profit. He supplies the company with food and lodging. The dwarves recover their strength and wear fine clothes. Bilbo catches a bad cold.\n\nThe town folk sing songs of the King under the Mountain and the golden river that will run again. The Elvenking hears of the dwarves, but he waits. After about two weeks Thorin asks to go on.\n\nThe Master gladly gives them boats and provisions, for he thinks the dwarves are a cost to the town. The company rows up the Long Lake toward the River Running. The chapter ends as they leave the town.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Hobbit",
+   "Chapter": "10 of 19",
+   "Place": "Lake-town (Esgaroth)",
+   "Dates": "Autumn T.A. 2941"
+  },
+  "places": [
+   {
+    "id": "TO053",
+    "role": "lived",
+    "note": "The company is welcomed and rests in the town on the lake."
+   },
+   {
+    "id": "LA009",
+    "role": "travelled",
+    "note": "The town stands on the Long Lake."
+   }
+  ],
+  "related": [
+   "person:master-of-lake-town",
+   "person:thorin-oakenshield",
+   "person:bilbo-baggins",
+   "people:men-of-dale-and-the-lake",
+   "person:smaug",
+   "person:thranduil"
+  ],
+  "sources": [
+   "The Hobbit, chapter 10"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:hob-11",
+  "title": "On the Doorstep",
+  "group": "The Hobbit",
+  "kind": "Chapter 11",
+  "aka": [],
+  "blurb": "The dwarves find the hidden door in the Mountain, and the key opens it on Durin's Day.",
+  "book": "The company rows up the Long Lake and is met by ponies at the river. They reach the Desolation of Smaug, a bare and ruined land beneath the Lonely Mountain. Balin and Bilbo look down on the broken ruins of Dale and the Front Gate.\n\nThey go round to the western side of the Mountain and search for the secret door that the map promised. At last they find a narrow ledge above a cliff. It leads to a small bay with a smooth wall of rock. For days they try to open the door in vain, and the dwarves grow sullen.\n\nBilbo sits on the doorstep and gazes west. A thrush cracks a snail on a grey stone. Bilbo remembers the moon-letters and calls the dwarves. The sun sets, and its last ray on Durin's Day falls upon the rock. A flake of rock falls away, and a keyhole appears. Thorin turns the key and the door swings open.\n\nThe chapter ends with the dark tunnel open before them.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Hobbit",
+   "Chapter": "11 of 19",
+   "Place": "Lonely Mountain",
+   "Dates": "Durin's Day, autumn T.A. 2941"
+  },
+  "places": [
+   {
+    "id": "NP036",
+    "role": "travelled",
+    "note": "The company crosses the barren land that Smaug laid waste."
+   },
+   {
+    "id": "MT029",
+    "role": "other",
+    "note": "The hidden door lies in the western face of the Mountain."
+   },
+   {
+    "id": "TO024",
+    "role": "other",
+    "note": "The ruined town of Dale lies in the valley below the Mountain."
+   }
+  ],
+  "related": [
+   "person:bilbo-baggins",
+   "person:thorin-oakenshield",
+   "thing:thrors-map",
+   "person:smaug",
+   "person:balin"
+  ],
+  "sources": [
+   "The Hobbit, chapter 11"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:hob-12",
+  "title": "Inside Information",
+  "group": "The Hobbit",
+  "kind": "Chapter 12",
+  "aka": [],
+  "blurb": "Bilbo steals a cup from Smaug, then talks with the dragon and learns of a gap in his armour.",
+  "book": "The dwarves ask Bilbo to go into the tunnel first. He creeps down alone toward a red glow. He sees Smaug asleep upon a vast heap of treasure. Bilbo takes a great two-handled cup and returns to the dwarves, who rejoice.\n\nSmaug wakes and finds the cup missing. In rage he flies out and searches the slopes of the Mountain. The company hides in the tunnel. The ponies are lost.\n\nBilbo goes in a second time, wearing the ring. Smaug is only pretending to sleep. He smells a stranger and speaks to him. Bilbo answers with riddling names for himself. Smaug tries to make Bilbo doubt the dwarves and their promise of a share.\n\nBilbo flatters the dragon, and Smaug rolls over to show his jewel-crusted belly. Bilbo sees a bare patch in the hollow of his left breast. Bilbo then mocks the dragon and runs. Smaug's fire follows him up the tunnel.\n\nBilbo tells the dwarves of the bare patch, and an old thrush listens nearby. Bilbo urges them to shut the door. Soon after, Smaug smashes the rock wall around the hidden door, and the company is shut inside the tunnel.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Hobbit",
+   "Chapter": "12 of 19",
+   "Place": "Inside Erebor"
+  },
+  "places": [
+   {
+    "id": "MT029",
+    "role": "other",
+    "note": "The great hall of Thrór lies deep inside the Mountain."
+   },
+   {
+    "id": "NP036",
+    "role": "other",
+    "note": "Smaug burns the slopes outside the Mountain."
+   }
+  ],
+  "related": [
+   "person:smaug",
+   "person:bilbo-baggins",
+   "person:thorin-oakenshield",
+   "person:balin",
+   "thing:one-ring"
+  ],
+  "sources": [
+   "The Hobbit, chapter 12"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:hob-13",
+  "title": "Not at Home",
+  "group": "The Hobbit",
+  "kind": "Chapter 13",
+  "aka": [],
+  "blurb": "With Smaug gone, Bilbo takes the Arkenstone in secret, and the dwarves explore the hoard and leave by the Front Gate.",
+  "book": "The dwarves sit in the dark tunnel in fear. After a long time all is quiet. Bilbo leads them down the tunnel, since the dragon does not return.\n\nBilbo goes into the great hall first with a torch. On the hoard he sees a great white jewel that glows with its own light. It is the Arkenstone, the Heart of the Mountain. Bilbo takes it and keeps it secret from the dwarves. He tells himself that it may count as his chosen share.\n\nThe dwarves come down and explore the hoard. They arm themselves with mail and weapons. Thorin gives Bilbo a small mail coat of mithril and a helm.\n\nThorin then leads the company through the ruined halls and out by the Front Gate. They go to an old lookout post on Ravenhill and rest there. They do not know where the dragon has gone, and they fear his return.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Hobbit",
+   "Chapter": "13 of 19",
+   "Place": "Inside Erebor"
+  },
+  "places": [
+   {
+    "id": "MT029",
+    "role": "other",
+    "note": "The company explores the dragon's hoard and the old halls."
+   },
+   {
+    "id": "DO014",
+    "role": "other",
+    "note": "The company leaves the Mountain by the Front Gate."
+   },
+   {
+    "id": "HI042",
+    "role": "other",
+    "note": "The company rests at the old lookout post on Ravenhill."
+   }
+  ],
+  "related": [
+   "person:bilbo-baggins",
+   "person:thorin-oakenshield",
+   "thing:arkenstone",
+   "thing:mithril-coat",
+   "person:smaug",
+   "thing:mithril"
+  ],
+  "sources": [
+   "The Hobbit, chapter 13"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:hob-14",
+  "title": "Fire and Water",
+  "group": "The Hobbit",
+  "kind": "Chapter 14",
+  "aka": [],
+  "blurb": "Smaug burns Lake-town, and Bard kills him with the Black Arrow.",
+  "book": "The chapter goes back in time to Lake-town. The people see a glow in the north and think the golden river has come. Bard, a grim bowman, guesses that it is the dragon. The town breaks the bridge to the shore and prepares.\n\nSmaug comes and sets the houses on fire. The arrows of the townsfolk do him no harm. The Master flees to his boat. Bard stands his ground with a few archers. He has one black arrow left, an heirloom of his house.\n\nA thrush lands on Bard's shoulder and tells him of the bare place on the dragon's breast. Bard, a descendant of Girion, the last lord of Dale, understands the bird. He shoots the black arrow into the bare spot. Smaug falls dead upon the burning town.\n\nThe survivors gather on the shore. Some wish to make Bard king. The Master turns their anger against the dwarves instead, and he stays in charge. Bard takes the lead in the rescue.\n\nThe Elvenking was already marching toward the Mountain in hope of treasure. When he hears of the town's plight, he turns aside to help. Soon a host of Elves and Men, led by Bard, marches north toward the Mountain.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Hobbit",
+   "Chapter": "14 of 19",
+   "Place": "Lake-town",
+   "Dates": "Autumn T.A. 2941"
+  },
+  "places": [
+   {
+    "id": "TO053",
+    "role": "other",
+    "note": "Smaug destroys Lake-town and dies in the lake."
+   },
+   {
+    "id": "LA009",
+    "role": "other",
+    "note": "Smaug falls dead into the Long Lake."
+   },
+   {
+    "id": "MT029",
+    "role": "other",
+    "note": "The survivors and the Elves march toward the Mountain."
+   }
+  ],
+  "related": [
+   "person:smaug",
+   "person:bard",
+   "thing:black-arrow",
+   "person:master-of-lake-town",
+   "person:thranduil",
+   "people:men-of-dale-and-the-lake"
+  ],
+  "sources": [
+   "The Hobbit, chapter 14"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:hob-15",
+  "title": "The Gathering of the Clouds",
+  "group": "The Hobbit",
+  "kind": "Chapter 15",
+  "aka": [],
+  "blurb": "The ravens bring news of Smaug's death, Bard and the Elvenking besiege the Mountain, and Thorin refuses to share the hoard.",
+  "book": "The old raven Roäc, son of Carc, comes to Thorin on the Mountain. He tells the dwarves that Smaug is dead. He also says that Elves and Men are marching toward the Mountain. Roäc advises Thorin to trust Bard, the slayer of the dragon.\n\nThorin refuses this advice. He sends ravens to his cousin Dáin in the Iron Hills to ask for help. The dwarves go back to the Front Gate and block it with a wall of stone. They make the gate ready for a siege.\n\nBard and the Elvenking arrive with their host and camp in the ruins of Dale. Bard asks for a share of the treasure. He claims it as the heir of Girion, and as help for the people of Lake-town, who lost their homes. He also notes that the Elvenking has a claim.\n\nThorin refuses. He says that he will give nothing as long as an armed host sits before his door. Bard declares the Mountain besieged.\n\nBilbo is distressed. He sees that war is near and that Thorin will not yield. He still keeps the Arkenstone secret.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Hobbit",
+   "Chapter": "15 of 19",
+   "Place": "Erebor and Dale"
+  },
+  "places": [
+   {
+    "id": "HI042",
+    "role": "other",
+    "note": "Roäc and the ravens of Ravenhill bring news to Thorin."
+   },
+   {
+    "id": "DO014",
+    "role": "other",
+    "note": "The dwarves wall up the Front Gate of the Mountain."
+   },
+   {
+    "id": "HI037",
+    "role": "other",
+    "note": "Thorin sends ravens to Dáin in the Iron Hills."
+   },
+   {
+    "id": "TO024",
+    "role": "other",
+    "note": "Bard and the Elvenking camp in the ruins of Dale."
+   }
+  ],
+  "related": [
+   "person:roac",
+   "person:thorin-oakenshield",
+   "person:dain-ii-ironfoot",
+   "person:bard",
+   "person:thranduil",
+   "person:bilbo-baggins",
+   "thing:arkenstone"
+  ],
+  "sources": [
+   "The Hobbit, chapter 15"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:hob-16",
+  "title": "A Thief in the Night",
+  "group": "The Hobbit",
+  "kind": "Chapter 16",
+  "aka": [],
+  "blurb": "Bilbo slips out at night and gives the Arkenstone to Bard and the Elvenking, hoping to buy peace.",
+  "book": "The siege goes on. The ravens bring word that Dáin is coming with more than five hundred dwarves and will arrive within two days. Thorin hunts in vain for the Arkenstone, and Bilbo grows more afraid of war.\n\nBilbo decides to act. At midnight he takes the watch from Bombur. He climbs down the wall by a rope and, with the ring on, makes his way to the camp of the Elves and Men in Dale.\n\nBilbo gives the Arkenstone to Bard and the Elvenking. Thorin values it above all else, so Bilbo hopes that the stone may bring a peaceful bargain. He says that he does not want to see the dwarves and the Men fight.\n\nBard and the Elvenking are amazed. The Elvenking urges Bilbo to stay with them, but Bilbo refuses to leave his friends in the night. An old man in a cloak rises from a tent. It is Gandalf, who praises Bilbo for his deed.\n\nBilbo returns to the Mountain, wakes Bombur and goes to sleep.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Hobbit",
+   "Chapter": "16 of 19",
+   "Place": "Erebor and the valley of Dale"
+  },
+  "places": [
+   {
+    "id": "DO014",
+    "role": "other",
+    "note": "Bilbo climbs down the walled-up Front Gate at night."
+   },
+   {
+    "id": "TO024",
+    "role": "other",
+    "note": "Bilbo brings the Arkenstone to the camp of Elves and Men in Dale."
+   }
+  ],
+  "related": [
+   "person:bilbo-baggins",
+   "thing:arkenstone",
+   "person:bard",
+   "person:thranduil",
+   "person:thorin-oakenshield",
+   "person:gandalf",
+   "person:bombur",
+   "person:dain-ii-ironfoot"
+  ],
+  "sources": [
+   "The Hobbit, chapter 16"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:hob-17",
+  "title": "The Clouds Burst",
+  "group": "The Hobbit",
+  "kind": "Chapter 17",
+  "aka": [],
+  "blurb": "Thorin learns of the Arkenstone, Dáin arrives, and goblins and wargs attack in the Battle of Five Armies.",
+  "book": "The next day Bard shows the Arkenstone to Thorin and offers to trade it for a fair share of the hoard. Thorin is furious. Bilbo admits that he gave it away. Gandalf reveals himself and rebukes Thorin. Thorin sends Bilbo out of the Mountain, but he agrees to pay a fourteenth share of the treasure for the stone.\n\nDáin arrives with his dwarves. He is ready to attack the Elves and Men. Then a darkness comes, and Gandalf calls on all to unite. A host of goblins and wargs, led by Bolg son of Azog, has come to take the Mountain. Dwarves, Elves and Men join forces against them.\n\nThe allies set a trap in the valley between the arms of the Mountain. At first it works, but the goblins come in great numbers and press them hard. Then Thorin and his twelve companions burst out of the Mountain and join the fight. The goblins gather around them.\n\nBilbo stands with the Elves on Ravenhill, wearing the ring. He sees the Eagles coming and shouts the news. A stone strikes his helm, and he falls senseless. The chapter ends there, with the outcome unknown.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Hobbit",
+   "Chapter": "17 of 19",
+   "Place": "Below Erebor",
+   "Dates": "T.A. 2941"
+  },
+  "places": [
+   {
+    "id": "battle:five-armies",
+    "role": "fought",
+    "note": "Dwarves, Elves and Men fight goblins and wargs at the foot of the Mountain."
+   },
+   {
+    "id": "HI042",
+    "role": "fought",
+    "note": "Ravenhill is a key point in the fight."
+   },
+   {
+    "id": "MT029",
+    "role": "fought",
+    "note": "The battle rages in the valleys around the Mountain."
+   }
+  ],
+  "related": [
+   "person:bolg",
+   "person:gandalf",
+   "person:dain-ii-ironfoot",
+   "person:bard",
+   "person:thranduil",
+   "people:great-eagles",
+   "person:thorin-oakenshield",
+   "person:bilbo-baggins"
+  ],
+  "sources": [
+   "The Hobbit, chapter 17"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:hob-18",
+  "title": "The Return Journey",
+  "group": "The Hobbit",
+  "kind": "Chapter 18",
+  "aka": [],
+  "blurb": "Thorin dies of his wounds, the treasure is shared, and Bilbo begins the road home.",
+  "book": "Bilbo wakes alone on Ravenhill after the battle. A man searching the field finds him and carries him to the camp. Gandalf tells him that Thorin lies dying.\n\nThorin speaks with Bilbo. He takes back his angry words and asks for pardon. He says that the world would be merrier if more people valued food, cheer and song above hoarded gold. Then he dies. Fíli and Kíli also fell defending him.\n\nGandalf tells how the battle ended. The Eagles struck the goblins, and Beorn came in the shape of a great bear and broke their lines. The goblins were routed.\n\nThorin is buried deep in the Mountain. Bard lays the Arkenstone on his breast, and the Elvenking lays Orcrist on his tomb. Dáin becomes King under the Mountain. He gives Bard his share, and Bard shares it generously. Bilbo accepts only two small chests, one of silver and one of gold. He gives the Elvenking a necklace of pearls.\n\nBilbo and Gandalf ride west with the Elves and then with Beorn. They spend Yule at Beorn's house, and in spring they ride on.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Hobbit",
+   "Chapter": "18 of 19",
+   "Place": "Erebor, then west to Beorn's house",
+   "Dates": "Late T.A. 2941 to spring T.A. 2942"
+  },
+  "places": [
+   {
+    "id": "HI042",
+    "role": "other",
+    "note": "Bilbo wakes on Ravenhill after the battle."
+   },
+   {
+    "id": "MT029",
+    "role": "buried",
+    "note": "Thorin is buried inside the Mountain."
+   },
+   {
+    "id": "BU031",
+    "role": "travelled",
+    "note": "Bilbo and Gandalf spend the winter with Beorn."
+   }
+  ],
+  "related": [
+   "person:thorin-oakenshield",
+   "person:bilbo-baggins",
+   "person:gandalf",
+   "person:dain-ii-ironfoot",
+   "person:fili",
+   "person:kili",
+   "thing:arkenstone",
+   "thing:orcrist",
+   "person:beorn",
+   "person:bard"
+  ],
+  "sources": [
+   "The Hobbit, chapter 18"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:hob-19",
+  "title": "The Last Stage",
+  "group": "The Hobbit",
+  "kind": "Chapter 19",
+  "aka": [],
+  "blurb": "Bilbo returns to Bag End in 2942 and finds that his goods are being auctioned.",
+  "book": "Bilbo and Gandalf come to Rivendell on the first of May and rest there for a while. Then they ride west toward the Shire. On the way they stop where the troll gold lies buried, and they dig it up.\n\nBilbo comes to Hobbiton in June of T.A. 2942. He finds a crowd outside his home. The hobbits have declared him dead and are selling his goods at an auction. Bilbo has to prove that he is alive. He must buy back many of his own things, and some are lost. The Sackville-Bagginses are angry that he has returned.\n\nBilbo has lost his good name. Many hobbits think him odd. He does not mind. He is content at home, writes poems and visits the Elves.\n\nSome years later Gandalf and Balin come to visit him. Balin says that Dale has been rebuilt and that the land is rich again. The old Master of Lake-town ran off with gold and died alone in the Waste. Bilbo is glad that the old songs came true in a way.\n\nGandalf laughs and reminds Bilbo that he is only a small person in a wide world. The tale ends there.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Hobbit",
+   "Chapter": "19 of 19",
+   "Place": "Bag End, Hobbiton",
+   "Dates": "June T.A. 2942"
+  },
+  "places": [
+   {
+    "id": "TO084",
+    "role": "travelled",
+    "note": "Bilbo and Gandalf rest at Rivendell in May."
+   },
+   {
+    "id": "NP006",
+    "role": "found",
+    "note": "Bilbo and Gandalf dig up the troll gold buried near the stone trolls."
+   },
+   {
+    "id": "BU030",
+    "role": "lived",
+    "note": "Bilbo returns to Bag End and finds it being sold."
+   },
+   {
+    "id": "TO050",
+    "role": "other",
+    "note": "The auction takes place in Hobbiton."
+   }
+  ],
+  "related": [
+   "person:bilbo-baggins",
+   "person:gandalf",
+   "person:balin",
+   "person:lobelia-sackville-baggins",
+   "person:master-of-lake-town",
+   "people:hobbits"
+  ],
+  "sources": [
+   "The Hobbit, chapter 19"
+  ],
+  "confidence": "medium"
+ }
+]

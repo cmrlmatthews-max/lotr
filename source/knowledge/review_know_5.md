@@ -1,0 +1,34 @@
+# Review 5: know/lore_idea_a.json
+
+- idea-a-eru | serious | Said the Ring "was meant to be found" (Gandalf says Bilbo was meant to find it); claimed LotR names Eru -> corrected; noted main story never names him, Appendix A speaks of the One; softened "Valar do not command the Children".
+- idea-a-arda-and-ea | serious | Trees said to light the world and Valar placed in Aman before the Lamps fell; "remade after the Last Battle" given as book fact -> corrected order (Lamps, move to Aman, Trees lit Valinor only); Last Battle/Arda remade marked as later writings, Silmarillion only speaks of a greater Music.
+- idea-a-undying-lands | serious | Noldor/Vanyar "in the First Age"; Sam said to be hurt past mending; mortality rule credited to letters -> Years of the Trees; Sam sailed S.R. 1482 as Ring-bearer; rule credited to Akallabêth; Gimli with Legolas per Appendix A; added Legolas, Appendix A source.
+- idea-a-mandos-and-elves | serious | Fëanor called the first of the Noldor to reach Mandos (Finwë died first) -> now only says his spirit never left the Halls.
+- idea-a-half-elven-choice | minor | Lúthien listed as if half-elven; choice credited to "the Valar" -> noted Lúthien was not half-elven; choice granted by Manwë.
+- idea-a-sundering-of-elves | serious | Nandor said to settle in Ossiriand when they left the host -> first in the Anduin vales, some later to Ossiriand.
+- idea-a-oath-of-feanor | serious | War "against Thingol's people" (Thingol was dead); Eönwë "asked" -> attacks on Dior and Elwing; demand and theft from the camp; added "Man not yet born".
+- idea-a-doom-of-mandos | serious | Invented "hope" that some spirits would be released; interpretation given as Tolkien's -> rewrote doom content per text; interpretation marked as reading.
+- idea-a-three-kinslayings | serious | Dior said to kill all three sons; Silmaril still "Lúthien's", Thingol's people attacked; Elwing "fled"; Amrod and Amras omitted; dates F.A. 506/538 from later annals given as fact -> corrected all; removed unsourced dates; added Elrond.
+- idea-a-ban-of-the-valar | minor | Eru "destroyed the fleet"; last sentence unclear -> fleet swallowed, Númenor sank; reason for ban per Akallabêth.
+- idea-a-ages-of-the-world | serious | "Years of the Lamps" and 590-year First Age given as book fact -> marked length as from later annals; removed term.
+- idea-a-making-of-rings | serious | Sauron "seized the Seven" with no note of Dwarf tradition; vague series text -> Appendix A tradition added; series: Three forged first; added Appendix sources.
+- idea-a-fates-of-rings | serious | Thrór's ring "vanished" (Sauron took it from Thráin in Dol Guldur); dragons/Seven count credited to Silmarillion -> Gandalf: three recovered, rest consumed; corrected.
+- idea-a-power-of-one-ring | minor | Near-quotation of Galadriel -> reworded.
+- idea-a-istari-order | serious | Number five presented as LotR fact; Gandalf's return credited to a Tolkien statement -> number credited to Unfinished Tales; Gandalf's own words used; Narya named; stray whitespace fixed.
+- idea-a-blue-wizards | serious | Claimed LotR and Silmarillion mention them and Appendix B as source; fates from letter and late note mixed together -> rewritten: only Unfinished Tales, Letter 211 (failure, cults) and late note (Morinehtar/Rómestámo, Second Age, weakening Sauron) each marked; confidence low -> medium.
+- idea-a-white-council | serious | Saruman "settled" in Isengard after 2953 (held it since 2759); Rivendell link unsupported -> corrected; removed TO084; added Silmarillion source.
+- idea-a-nazgul-nine | serious | "Some" Númenórean lords (Silmarillion: three); visibility claim; Khamûl given as main-book fact -> three; Khamûl credited to Unfinished Tales; added source.
+- idea-a-balrogs-kind | serious | "Few" Balrogs not marked as later note; wings described only as simile; place linked to Moria generally -> marked later note (at most seven); both wing passages; Náin I named; place BR003 and Mazarbul battle.
+- idea-a-orcs-origin-kinds | serious | Elf-origin given as plain fact (text gives it as belief of the Wise); snaga misattributed to Uglúk/Mordor -> corrected; Appendix A for 2475; Osgiliath link added.
+- idea-a-trolls-kinds | serious | Ent-mockery credited to Silmarillion (Treebeard says it); Olog-hai at Pelennor and Morannon unsupported; person:nob (a Bree hobbit) in related -> corrected; removed; added Pippin and sources.
+- idea-a-wargs-werewolves | minor | Wargs "howl in Eregion" and "raid Rohan" vague -> night attack in Hollin, wolf-riders of Isengard; source chapter fixed.
+- idea-a-barrow-wights | serious | Wights said to use the bodies of the dead; origin dated loosely; Barrow-blades "Númenórean" -> Appendix A: after plague of 1636, spirits from Angmar and Rhudaur; Frodo strikes the hand; blades made by Men of Westernesse against Angmar.
+- idea-a-dead-men-of-dunharrow | serious | Isildur set up the Stone to mark the oath (oath sworn on the Stone he brought from Númenor) -> corrected; film text tightened; added Erech and Pelargir links.
+- idea-a-ents-entwives-huorns | serious | Huorns at Isengard; "left open on purpose"; Dwarves "cut" the forests; film claim on Entwives -> removed/corrected; Letter view on Entwives added.
+- idea-a-great-spiders | serious | Said books do not link Mirkwood spiders to Shelob (LotR says her offspring spread to Mirkwood); Ungoliant's end stated as fact; flight "into the south" right after the Trees -> corrected; Nan Dungortheb link added.
+- idea-a-fell-beasts | serious | First appearance placed at the Ford of Bruinen; origin called unstated (RotK gives a short account); "letter" origin misreported; place list empty -> rewritten: first seen near Sarn Gebir (Legolas), Dead Marshes, Rohan, Pelennor; RotK account and Letter 211 marked; places NP012, SW002, FI024; confidence low -> medium.
+- idea-a-mearas | serious | Felaróf "carried Eorl at Celebrant" and "from wild horses of the northern vales" unsupported; Snowmane implied a meara; Oromë link called rumour of "tales" -> removed; Léod's death and Béma belief per Appendix A; removed Snowmane.
+- idea-a-magic-in-middle-earth | serious | Galadriel said Elves use one word for both (she says hobbits seem to) -> corrected; Glorfindel and both worlds per Gandalf.
+- idea-a-prophecy-foresight | minor | Glorfindel's words paraphrased loosely; place link to Fornost town -> wording fixed; Malbeth's Arvedui prophecy added; link changed to battle:fornost.
+- idea-a-marring-of-arda | serious | Arda remade after Last Battle given as book fact; "the Ring grows from it" unsupported -> marked later writings; removed claim.
+- lore_idea_a.json | minor | Style: trailing whitespace and small wording fixes across entries.

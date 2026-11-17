@@ -1,0 +1,1396 @@
+[
+ {
+  "id": "lore:faq-eagles-ring",
+  "title": "Why did the Eagles not carry the Ring to Mount Doom?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [
+   "Eagles plot hole",
+   "Why not fly to Mordor"
+  ],
+  "blurb": "The books give no single stated reason; the usual answers rest on the plan of stealth and on the nature of the Eagles.",
+  "book": "The books never give one direct answer. The points below are readers' inferences from hints in the text, not reasons Tolkien states.\n\nThe Council of Elrond chose secrecy. Gandalf and Elrond judged that Sauron must never learn where the Ring went. A flight of Eagles over Mordor would be easy to see.\n\nSauron held the Nazgûl, who rode winged beasts in the later war. His Eye watched the land around Mount Doom. Nobody can know whether the Eagles would have survived.\n\nThe Eagles are also not servants. Gwaihir helped Gandalf several times, but the Eagles act by their own choice and keep to their own concerns. No one in the books commands them.\n\nThe Ring also works on the mind of its bearer. A bearer on an Eagle would still face its pull near the Fire.\n\nThe Eagles did come at the end. Gwaihir and his kin rescued Frodo and Sam from the slopes of Mount Doom.",
+  "film": "The films do not explain it either. Gandalf uses Eagles to travel and to rescue, and they arrive at the Black Gate. Fans therefore ask the same question about the films.",
+  "series": "",
+  "facts": {
+   "Rescuer": "Gwaihir, Lord of the Eagles",
+   "Rescue": "Frodo and Sam taken from Mount Doom, March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "MT036",
+    "role": "other",
+    "note": "The Eagles rescue Frodo and Sam from the slopes of Mount Doom."
+   },
+   {
+    "id": "FT004",
+    "role": "other",
+    "note": "Sauron watches from Barad-dûr across the lands around Mount Doom."
+   }
+  ],
+  "related": [
+   "person:gwaihir",
+   "person:gandalf",
+   "thing:one-ring",
+   "people:great-eagles",
+   "person:frodo-baggins",
+   "person:sauron"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II, chapter 2",
+   "The Return of the King, Book VI, chapter 4"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:faq-who-is-tom-bombadil",
+  "title": "Who or what is Tom Bombadil?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [
+   "Eldest",
+   "Master of wood, water and hill"
+  ],
+  "blurb": "The books never say what Tom is. They show him as an ancient being who is master of his own small land.",
+  "book": "Nobody in the books states what Tom Bombadil is.\n\nTom calls himself the Eldest. His wife Goldberry says only that he is the master of wood, water and hill, and that he is simply himself.\n\nTom says he was in the land before the river and the trees. He remembers the first raindrop and the first acorn, and he claims to have known the dark before Sauron came. He protects the Old Forest and the Barrow-downs without any army.\n\nTolkien himself said in a letter that Tom is an enigma. He wrote that he did not mean to explain him and that some mystery is wanted in the world.\n\nThe common reader guesses are a spirit of the land, a Maia, or the voice of nature. All are theories. None is stated by Tolkien.",
+  "film": "Peter Jackson left Tom Bombadil out of the films, so the question does not arise on screen.",
+  "series": "Tom Bombadil appears in the second season of The Rings of Power (2024), played by Rory Kinnear. He meets the Stranger, who is a different character. The series' version of Tom is its own invention and not a book event.",
+  "facts": {
+   "First appears": "The Fellowship of the Ring, Book I, chapters 6 to 8"
+  },
+  "places": [
+   {
+    "id": "realm:old-forest",
+    "role": "lived",
+    "note": "Tom lives at the edge of the Old Forest, near the river Withywindle."
+   }
+  ],
+  "related": [
+   "person:tom-bombadil",
+   "person:goldberry",
+   "person:old-man-willow",
+   "thing:one-ring",
+   "realm:old-forest"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I, chapters 7 and 8",
+   "Tolkien, Letters, no. 144"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:faq-bombadil-ring",
+  "title": "Why does the Ring have no power over Tom Bombadil?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [
+   "Bombadil and the Ring"
+  ],
+  "blurb": "The books show that the Ring does not affect Tom, but they give no firm reason beyond hints from Gandalf and Tolkien.",
+  "book": "Tom Bombadil puts the Ring on his finger and does not vanish. He holds it up to the light, laughs, and hands it back to Frodo without any sign of desire.\n\nAt the Council of Elrond, Erestor suggests giving the Ring to Tom. Gandalf says that Tom would be safe from it, yet he would not understand what it means. He would soon forget it or throw it away.\n\nGandalf adds that Tom could not break the Ring or its hold over other people. The Ring is therefore not harmless; Tom is simply unmoved by it.\n\nTolkien wrote that Tom does not want power or possession. In Tolkien's view the Ring has no way to take hold of a being who wants nothing from it.\n\nThe books do not say what Tom is, so they cannot say why this is so. Any firmer reason, such as Tom being a spirit of the land, is a reader's theory.",
+  "film": "Tom is absent from the films.",
+  "series": "",
+  "facts": {
+   "Tom's reaction": "Puts on the Ring and stays visible",
+   "Gandalf's view": "Tom would forget it or cast it aside"
+  },
+  "places": [
+   {
+    "id": "realm:old-forest",
+    "role": "other",
+    "note": "Tom handles the Ring in his house near the Old Forest."
+   }
+  ],
+  "related": [
+   "person:tom-bombadil",
+   "thing:one-ring",
+   "person:gandalf",
+   "person:frodo-baggins",
+   "person:goldberry",
+   "person:elrond"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I, chapter 7; Book II, chapter 2",
+   "Tolkien, Letters, no. 144"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:faq-entwives",
+  "title": "What happened to the Entwives?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [
+   "Lost Entwives",
+   "Ents and their wives"
+  ],
+  "blurb": "The books do not say. The Ents lost them long ago and have never found them.",
+  "book": "The books do not say. The Entwives are lost, and the story gives no final answer.\n\nTreebeard explains that the Ents loved wild trees, but the Entwives loved smaller plants and orderly gardens. They crossed the Anduin and made gardens in the land east of the river.\n\nThen war came and that land was laid waste. It became the Brown Lands. The Entwives were gone when the Ents later searched for them.\n\nTreebeard does not know if they were killed or went elsewhere. He says Men learned crafts from the Entwives, but he has no news of them.\n\nTreebeard hopes that somewhere a land of gardens still holds them, and an old Ent song speaks of a meeting at the end. He also says there have been no Entings for a very long time.\n\nIn a letter (no. 144), Tolkien wrote that he thought the Entwives had been destroyed, with their gardens, in the War of the Last Alliance. He did not put this in the books, so the story itself leaves it open.\n\nSam's cousin Hal says he saw a giant tree-man in the Northfarthing. Some readers link this to the Entwives, but the book does not.",
+  "film": "The theatrical films do not mention the Entwives. In the extended edition of The Two Towers, Treebeard speaks briefly of the lost Entwives.",
+  "series": "",
+  "facts": {
+   "Gardens": "East of the Anduin, later the Brown Lands",
+   "Last mention": "Treebeard, The Two Towers, Book III, chapter 4"
+  },
+  "places": [
+   {
+    "id": "realm:brown-lands",
+    "role": "lived",
+    "note": "The Entwives made gardens here before Sauron laid the land waste."
+   },
+   {
+    "id": "FO012",
+    "role": "other",
+    "note": "Treebeard tells the hobbits of the Entwives in Fangorn."
+   }
+  ],
+  "related": [
+   "person:treebeard",
+   "people:ents",
+   "realm:brown-lands",
+   "person:sauron",
+   "person:quickbeam",
+   "person:skinbark"
+  ],
+  "sources": [
+   "The Two Towers, Book III, chapter 4",
+   "The Fellowship of the Ring, Book I, chapter 2",
+   "Tolkien, Letters, no. 144"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:faq-balrog-wings",
+  "title": "Do Balrogs have wings?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [
+   "Durin's Bane wings",
+   "Balrog flight"
+  ],
+  "blurb": "The books leave it unclear. The one passage that mentions wings may describe a shadow and not real wings.",
+  "book": "The text is not clear on this.\n\nIn Moria, the Balrog stands on the bridge of Khazad-dûm. The narrator says its shadow stretched out like two wings. A later phrase says its wings spread from wall to wall.\n\nThe first wording is a comparison. It may mean only a shadow that looks like wings. Many readers take that reading, and it is the more careful one.\n\nThe Balrog does not fly in the book. It walks onto the bridge and falls into the abyss.\n\nThe Silmarillion calls Balrogs spirits of fire who serve Morgoth. It does not describe wings.\n\nTolkien does not settle the point in the finished text, so both readings remain possible.",
+  "film": "The Fellowship of the Ring film shows the Balrog with clear wings of flame and smoke. The wings help to give it a larger shape. They are the film's choice and not a settled fact from the books.",
+  "series": "",
+  "facts": {
+   "Where seen": "Bridge of Khazad-dûm, January T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "BR003",
+    "role": "fought",
+    "note": "Gandalf faces the Balrog on the bridge."
+   }
+  ],
+  "related": [
+   "person:durins-bane",
+   "b:people:balrogs",
+   "person:gandalf",
+   "realm:khazad-dum",
+   "person:gothmog-lord-of-balrogs"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II, chapter 5",
+   "The Silmarillion, Quenta Silmarillion"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:faq-orc-origin",
+  "title": "Where do Orcs come from?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [
+   "Origin of Orcs",
+   "Orcs and Elves"
+  ],
+  "blurb": "The published Silmarillion says Morgoth bred them from captured Elves. Tolkien later doubted this and left it open.",
+  "book": "The Silmarillion gives the best-known account. In the early days, Morgoth captured Elves, tortured them and twisted them into Orcs. The Orcs mocked the Elves in their form.\n\nThis account has a problem. Morgoth could not create living things of his own. Tolkien wrote other ideas in his later notes: Orcs from corrupted Men, from beasts that Morgoth taught to speak, or from lesser spirits in bodies.\n\nTolkien never settled it. In The Lord of the Rings, Treebeard says Orcs were made by the Enemy in mockery of Elves. He says Trolls were made in mockery of Ents.\n\nThe Uruk-hai appear in the Third Age as larger and stronger Orcs. Appendix A says they came out of Mordor in T.A. 2475. Treebeard wonders whether Saruman has blended the races of Orcs and Men at Isengard, but he does not know.",
+  "film": "In the Fellowship of the Ring film, Saruman breeds Uruk-hai in pits under Isengard from mud. Saruman also tells an Uruk that Orcs were once Elves, taken and twisted by the dark powers.",
+  "series": "The Rings of Power series makes Orcs Elves who were corrupted by Morgoth. Adar is shown as one of the first.",
+  "facts": {
+   "Published account": "Elves captured and twisted by Morgoth",
+   "Later notes": "Several other theories, none settled"
+  },
+  "places": [],
+  "related": [
+   "b:people:orcs",
+   "people:orcs",
+   "people:uruk-hai",
+   "person:morgoth",
+   "person:saruman",
+   "person:treebeard"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Coming of the Elves",
+   "The Two Towers, Book III, chapter 4",
+   "The Lord of the Rings, Appendix A",
+   "Morgoth's Ring"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:faq-blue-wizards",
+  "title": "What happened to the two Blue Wizards?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [
+   "Alatar and Pallando",
+   "Ithryn Luin"
+  ],
+  "blurb": "The books do not tell their fate. Tolkien's notes name them Alatar and Pallando and offer several possible outcomes.",
+  "book": "No book tells what became of them. The Lord of the Rings names only three Wizards: Gandalf, Saruman and Radagast.\n\nUnfinished Tales says the Istari were five, and that the other two went into the East and never returned to the west of Middle-earth. It names them Alatar and Pallando and says they were dressed in sea-blue. They are called the Ithryn Luin, the Blue Wizards. One account there says they went east with Saruman.\n\nIn a letter (no. 211), Tolkien said he knew nothing clear about the two. He feared they had failed, and he guessed they founded secret cults and traditions of magic in the East.\n\nLate notes printed outside these books give them other names. Those notes say they came in the Second Age and helped to weaken Sauron in the East.\n\nThe texts do not agree, so nothing about their deeds or their end is sure. Any tale of what they did is a reader's story.",
+  "film": "In The Hobbit: An Unexpected Journey (2012), Gandalf mentions the two Blue Wizards but says he has forgotten their names.",
+  "series": "",
+  "facts": {
+   "Names": "Alatar and Pallando",
+   "Land": "Went into the East",
+   "Source": "Unfinished Tales and Tolkien's letters"
+  },
+  "places": [],
+  "related": [
+   "people:istari",
+   "person:gandalf",
+   "person:saruman",
+   "person:radagast",
+   "person:sauron"
+  ],
+  "sources": [
+   "Unfinished Tales, The Istari",
+   "Tolkien, Letters, no. 211"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:faq-radagast-fate",
+  "title": "What happened to Radagast?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [
+   "Radagast the Brown",
+   "Aiwendil"
+  ],
+  "blurb": "The books do not tell how Radagast ended. Unfinished Tales says he gave up his task for the love of beasts and birds.",
+  "book": "The Lord of the Rings gives Radagast a small role. Gandalf says Radagast the Brown lives at Rhosgobel and is a master of herbs and shape and colour. Birds and beasts are his friends.\n\nSaruman uses Radagast to send Gandalf to Isengard. Radagast does not know that he is helping a trap. At Gandalf's request he sends birds and beasts with news to Orthanc. This is how Gwaihir comes to free Gandalf.\n\nUnfinished Tales says that Radagast became so fond of the beasts and birds of Middle-earth that he gave up his task.\n\nGandalf calls Radagast a worthy Wizard. Saruman mocks him as simple.\n\nThe books do not tell what became of Radagast after the War of the Ring. They do not say if he went West. Any detail beyond that is a guess.",
+  "film": "In the Hobbit films Radagast is shown as a kind but odd Wizard with a rabbit sled. He warns Gandalf of Dol Guldur. In the book of The Hobbit he is only named once, by Gandalf.",
+  "series": "",
+  "facts": {
+   "Home": "Rhosgobel, near Mirkwood",
+   "Order": "Istari"
+  },
+  "places": [
+   {
+    "id": "FO018",
+    "role": "lived",
+    "note": "Radagast lives at Rhosgobel on the edge of Mirkwood."
+   }
+  ],
+  "related": [
+   "person:radagast",
+   "people:istari",
+   "person:gandalf",
+   "person:saruman",
+   "person:gwaihir"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II, chapter 2",
+   "Unfinished Tales, The Istari"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:faq-refuse-ring",
+  "title": "Why did Gandalf and Galadriel refuse the Ring?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [
+   "Gandalf and the Ring",
+   "Galadriel's test"
+  ],
+  "blurb": "Both feared that the Ring would corrupt them. They knew that using it for good would end in a new Dark Lord.",
+  "book": "Gandalf refuses when Frodo offers it in Bag End. He says that he would try to use it out of pity for the weak and to do good. That wish would give the Ring its hold, and the Ring would turn his strength into a tyranny.\n\nThe Ring gives power in proportion to the owner's stature. A great being would gain much, but would be corrupted more.\n\nGaladriel faces the same test in Lothlórien. Frodo offers her the Ring. She admits she has long dreamed of the chance, and she pictures herself as a Queen, both lovely and dreadful. Then she passes the test and chooses to diminish and go into the West.\n\nOthers refuse too. Aragorn will not take it, and Faramir lets Frodo go. Boromir does fall to desire.\n\nThe point in the books is that wanting to do good does not protect anyone.",
+  "film": "In the films Gandalf and Galadriel both refuse in similar scenes. Galadriel's change is shown more strongly, with a dark and loud voice.",
+  "series": "",
+  "facts": {
+   "Gandalf refuses": "The Shadow of the Past, Bag End",
+   "Galadriel refuses": "The Mirror of Galadriel, Lothlórien"
+  },
+  "places": [
+   {
+    "id": "BU030",
+    "role": "other",
+    "note": "Gandalf refuses the Ring when Frodo offers it."
+   },
+   {
+    "id": "FO017",
+    "role": "other",
+    "note": "Galadriel refuses the Ring beside her Mirror."
+   }
+  ],
+  "related": [
+   "person:gandalf",
+   "person:galadriel",
+   "thing:one-ring",
+   "person:frodo-baggins",
+   "thing:mirror-of-galadriel",
+   "person:boromir"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I, chapter 2; Book II, chapter 7"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:faq-ring-powers",
+  "title": "What powers does the One Ring give?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [
+   "What does the Ring do"
+  ],
+  "blurb": "The Ring makes its wearer invisible, prolongs life and gives power over other Rings and minds, but it also corrupts.",
+  "book": "The books show several powers.\n\nA mortal who wears the Ring becomes invisible to normal eyes. He can then see the Ringwraiths in their true shape, but they can also see him more clearly.\n\nThe Ring prolongs life without giving health. Gollum and Bilbo lived far beyond their years, and Bilbo felt thin and stretched.\n\nThe Ring gives power in the measure of its owner. For a great being such as Gandalf, it could become a tyrant's weapon. A hobbit could not yet use its greater powers.\n\nSauron made the Ring to rule the other Rings and their wearers. He could also see the thoughts of those who used them.\n\nThe Ring has a will. It tries to return to its master, abandons its owner at a chosen moment, and betrays him. It increases the owner's pride and fear.\n\nIt cannot be broken by any craft that Elves or Dwarves know.",
+  "film": "The films show invisibility and the world of the wraiths, with whispers and an Eye that sees the wearer. They show less of the long life.",
+  "series": "",
+  "facts": {
+   "Maker": "Sauron",
+   "Made": "S.A. 1600, in Mount Doom"
+  },
+  "places": [
+   {
+    "id": "MT036",
+    "role": "made",
+    "note": "Sauron forged the One Ring in the fires of Mount Doom."
+   }
+  ],
+  "related": [
+   "thing:one-ring",
+   "person:sauron",
+   "person:gollum",
+   "person:bilbo-baggins",
+   "person:frodo-baggins",
+   "people:nazgul"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I, chapters 1 and 2; Book II, chapter 2",
+   "The Silmarillion, Of the Rings of Power"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:faq-why-mount-doom",
+  "title": "Why could the Ring only be destroyed in Mount Doom?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [
+   "Cracks of Doom",
+   "Orodruin"
+  ],
+  "blurb": "Sauron forged the Ring in the Fire of Mount Doom, and Elrond says only that fire can unmake it.",
+  "book": "Elrond tells the Council that no craft of the Elves can break the Ring. It cannot be destroyed except in the Fire of Mount Doom, where it was made.\n\nThe books give no deeper reason. They do not explain how this works.\n\nA reasonable idea follows from the story. Sauron poured much of his own power into the Ring. The Ring is bound to his fate and to the place of its making. The heat of ordinary fires is not enough.\n\nIsildur had the chance to destroy it after Sauron's first fall, at S.A. 3441. He refused and kept it. Many ages later, Frodo reaches the Cracks of Doom, and yet he cannot throw it in.\n\nGollum finally takes it and falls into the Fire.\n\nThe Ring and Sauron's power end together when the Ring is gone.",
+  "film": "The films keep the rule. Peter Jackson shows the Ring melting in lava and Barad-dûr falling.",
+  "series": "",
+  "facts": {
+   "Place": "Mount Doom (Orodruin) in Mordor",
+   "Date of unmaking": "25 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "MT036",
+    "role": "destroyed",
+    "note": "The Ring is destroyed in the Fire of Mount Doom."
+   },
+   {
+    "id": "BU036",
+    "role": "destroyed",
+    "note": "Gollum falls into the Cracks of Doom with the Ring."
+   }
+  ],
+  "related": [
+   "thing:one-ring",
+   "person:sauron",
+   "person:elrond",
+   "person:isildur",
+   "person:gollum",
+   "person:frodo-baggins"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II, chapter 2",
+   "The Return of the King, Book VI, chapter 3"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:faq-three-rings",
+  "title": "What did the Three Rings of the Elves do, and what happened to them?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [
+   "Elven Rings",
+   "Narya Nenya Vilya"
+  ],
+  "blurb": "The Three Rings preserved and healed. Sauron never touched them, and they left Middle-earth with the Elves after the Ring fell.",
+  "book": "Celebrimbor made Narya, Nenya and Vilya himself. Sauron did not help in their making and never held them.\n\nSauron wished to rule through the Rings, so the Elves hid the Three when he put on the One. They did not wear them in his sight.\n\nThe Rings did not give power for conquest. They slowed the effects of time and kept the places of the Elves fair. They also helped heal harm and weariness.\n\nGil-galad gave Vilya to Elrond and Narya to Círdan. Círdan later gave Narya to Gandalf. Galadriel kept Nenya.\n\nWhen the One Ring is destroyed, the power of the Three fails and the places that depend on them fade. The Elves leave.\n\nIn S.R. 1421 (T.A. 3021), Elrond, Galadriel and Gandalf carry the Three over the Sea with the Ring-bearers.",
+  "film": "The prologue of The Fellowship of the Ring tells that the Three were given to the Elves. The film shows Nenya on Galadriel's hand in Lothlórien.",
+  "series": "The Rings of Power series shows the making of the Three differently. Sauron plays a larger part in the forging.",
+  "facts": {
+   "Maker": "Celebrimbor of Eregion",
+   "Bearers": "Círdan then Gandalf, Galadriel, Elrond"
+  },
+  "places": [
+   {
+    "id": "realm:eregion",
+    "role": "made",
+    "note": "Celebrimbor and the smiths of Eregion made the Three Rings."
+   }
+  ],
+  "related": [
+   "thing:narya",
+   "thing:nenya",
+   "thing:vilya",
+   "person:celebrimbor",
+   "person:elrond",
+   "person:galadriel",
+   "person:cirdan",
+   "person:gandalf"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Rings of Power",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:faq-seven-nine",
+  "title": "What happened to the Seven and the Nine?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [
+   "Rings of Dwarves and Men"
+  ],
+  "blurb": "Sauron took back the Nine, whose bearers became the Nazgûl. Dragons consumed four of the Seven, and Sauron took the rest.",
+  "book": "Sauron took back the Nine, and their bearers became the Nazgûl. Of the Seven, Gandalf says that dragons consumed four and Sauron took back the rest.\n\nThe Nine were given to Men. One by one the bearers fell under Sauron's power and faded into wraiths. Sauron gathered the Nine Rings to himself.\n\nThe Seven went to the Dwarf-lords. Sauron could not make the Dwarves into slaves, but the Rings stirred their greed for gold. Durin's Folk held that their own Ring was given to Durin III by the Elven-smiths, not by Sauron.\n\nThat Ring passed down to Thrór, who gave it to his son Thráin II. In T.A. 2845 Thráin was imprisoned in Dol Guldur, and the last of the Seven was taken from him there.\n\nWhen the One Ring was destroyed, the Nazgûl perished and the power of the other Rings ended. The books do not say what became of the Rings that Sauron held, as objects.",
+  "film": "The films show the Nazgûl and their end. The prologue of The Fellowship of the Ring tells that Seven Rings went to the Dwarf-lords, but the story does not follow them.",
+  "series": "The Rings of Power series shows Nine Rings for Men and Seven for Dwarves. It shows these differently.",
+  "facts": {
+   "Nine": "Taken back by Sauron; their bearers became the Nazgûl",
+   "Seven": "Four consumed by dragons; Sauron took the rest",
+   "Last of the Seven lost": "T.A. 2845, Dol Guldur"
+  },
+  "places": [
+   {
+    "id": "FT008",
+    "role": "lost",
+    "note": "Thráin II was held at Dol Guldur and lost his Ring there."
+   }
+  ],
+  "related": [
+   "thing:seven-rings",
+   "thing:nine-rings",
+   "people:nazgul",
+   "thing:ring-of-thror",
+   "person:thror",
+   "person:thrain-ii",
+   "person:sauron",
+   "person:witch-king"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Rings of Power",
+   "The Lord of the Rings, Appendix A (Durin's Folk) and Appendix B",
+   "The Fellowship of the Ring, Book I, chapter 2"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:faq-sauron-eye",
+  "title": "Is Sauron only an eye, and does he have a body in the Third Age?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [
+   "Eye of Sauron",
+   "Lidless Eye"
+  ],
+  "blurb": "No. The Eye is how he is seen in visions. In the books Sauron has a bodily form again in the Third Age, with a hand.",
+  "book": "The Eye is a symbol of his watching. Frodo and others see it in the Mirror, in Amon Hen and in the Palantír, but it is not his whole shape.\n\nSauron lost his fair form at the fall of Númenor. At the end of the Second Age, Gil-galad and Elendil fought him in body, and Isildur cut the Ring from his hand. His body died, but his spirit fled.\n\nIn the Third Age he gathered strength again, first in Dol Guldur, and later in Mordor. Gollum says that Sauron has a black hand with only four fingers.\n\nTolkien does not describe his face or form. The book keeps him as a shape in the dark, felt through his servants and the Eye. In a letter (no. 246), Tolkien wrote that Sauron had a bodily form of more than human size and great terror.\n\nHe is not simply an eye.",
+  "film": "The Lord of the Rings films show him in armour only in the prologue. Elsewhere he appears as a great Eye on the tower. The Hobbit films show him as a dark and fiery shape at Dol Guldur.",
+  "series": "The Rings of Power series shows Sauron in a fair form as Halbrand and later Annatar.",
+  "facts": {
+   "Gollum's words": "Sauron has a hand with four fingers",
+   "Fall of body": "S.A. 3441, on the slopes of Mount Doom"
+  },
+  "places": [
+   {
+    "id": "FT004",
+    "role": "ruled",
+    "note": "Sauron rules from Barad-dûr, topped by the Eye in visions."
+   },
+   {
+    "id": "FT008",
+    "role": "lived",
+    "note": "Sauron lived at Dol Guldur as the Necromancer."
+   }
+  ],
+  "related": [
+   "person:sauron",
+   "person:gollum",
+   "person:isildur",
+   "person:mouth-of-sauron",
+   "thing:palantir-of-orthanc",
+   "thing:one-ring"
+  ],
+  "sources": [
+   "The Two Towers, Book IV, chapter 3",
+   "The Silmarillion, Of the Rings of Power",
+   "The Lord of the Rings, Appendix B",
+   "Tolkien, Letters, no. 246"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:faq-necromancer-sauron",
+  "title": "Is the Necromancer of The Hobbit the same as Sauron?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [
+   "Necromancer of Dol Guldur"
+  ],
+  "blurb": "Yes. The Hobbit does not say so, but The Lord of the Rings and its Appendix state that the Necromancer was Sauron.",
+  "book": "In The Hobbit, Gandalf leaves the company to deal with the Necromancer in the south of Mirkwood. The story does not say who he is.\n\nThe Lord of the Rings answers. The Necromancer of Dol Guldur was Sauron, who had returned in a hidden form. The White Council suspected this for many years.\n\nGandalf entered Dol Guldur in T.A. 2063, and Sauron fled. Around 2460 Sauron returned and the Council grew uneasy. In 2850 Gandalf entered Dol Guldur again, found Thráin dying there, and learned the truth.\n\nSaruman then delayed the Council's attack. In T.A. 2941 the White Council drove the Necromancer out. Sauron went to Mordor and declared himself openly in 2951.\n\nThe Hobbit and Appendix B therefore agree once read together.",
+  "film": "The Hobbit films state the identity plainly. The Necromancer is Sauron, and the White Council attacks Dol Guldur. The films give Galadriel a larger part.",
+  "series": "",
+  "facts": {
+   "Council attack": "T.A. 2941",
+   "Sauron openly in Mordor": "T.A. 2951"
+  },
+  "places": [
+   {
+    "id": "FT008",
+    "role": "lived",
+    "note": "Sauron lives at Dol Guldur as the Necromancer."
+   },
+   {
+    "id": "FO018",
+    "role": "other",
+    "note": "Dol Guldur stands in the south of Mirkwood."
+   }
+  ],
+  "related": [
+   "person:sauron",
+   "person:gandalf",
+   "person:saruman",
+   "battle:dol-guldur-white-council",
+   "person:thrain-ii",
+   "person:radagast"
+  ],
+  "sources": [
+   "The Hobbit, chapters 1 and 7",
+   "The Fellowship of the Ring, Book II, chapter 2",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:faq-witch-king-origin",
+  "title": "Who was the Witch-king before he became a Ringwraith?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [
+   "Lord of the Nazgûl",
+   "King of Angmar"
+  ],
+  "blurb": "The books never name him. They say he was a mortal man, and Tolkien's later notes suggest a Númenórean.",
+  "book": "The books do not say who he was. They tell only that he was a Man who took one of the Nine Rings and fell under Sauron's will. He became the chief of the Nine.\n\nThe Silmarillion says the bearers of the Nine became mighty in their day, as kings, sorcerers and warriors. The Akallabêth adds that three of them were great lords of Númenórean race. It does not say whether the Witch-king was one of the three.\n\nUnfinished Tales names one other Ringwraith, Khamûl the Easterling. The Witch-king's own name is never given.\n\nAbout T.A. 1300 the Lord of the Nazgûl came north and ruled the realm of Angmar from Carn Dûm. He fought the Dúnedain of the North for centuries, until the last northern kingdom fell in T.A. 1974.\n\nTolkien's later notes suggest he was a Númenórean, but this is not in the main texts. No record gives his birth, family or real name. Any name for him in a fan account is invented.",
+  "film": "The films do not name him either. They show only the wraith lord and give no earlier life.",
+  "series": "",
+  "facts": {
+   "Realm": "Angmar",
+   "Death": "Pelennor Fields, T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "TO019",
+    "role": "ruled",
+    "note": "The Witch-king ruled Angmar from Carn Dûm."
+   },
+   {
+    "id": "realm:angmar",
+    "role": "ruled",
+    "note": "He founded Angmar in the north of Eriador."
+   }
+  ],
+  "related": [
+   "person:witch-king",
+   "people:nazgul",
+   "thing:nine-rings",
+   "person:khamul",
+   "realm:angmar",
+   "person:sauron"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A (Arnor) and Appendix B",
+   "The Silmarillion, Of the Rings of Power; Akallabêth",
+   "Unfinished Tales, The Hunt for the Ring"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:faq-gandalf-return",
+  "title": "How did Gandalf come back after his fall in Moria, and what changed?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [
+   "Gandalf the White",
+   "Gandalf's death"
+  ],
+  "blurb": "He died fighting the Balrog and was sent back for a short time. He returned as Gandalf the White, more powerful.",
+  "book": "Gandalf falls from the bridge of Khazad-dûm with the Balrog. The two fight through deep places and at last on the Peak of Zirakzigil. Gandalf destroys the Balrog, and his own body dies.\n\nHe tells Aragorn, Legolas and Gimli that his spirit passed beyond thought and time. He was then sent back to Middle-earth to finish his task, and he does not say by whom.\n\nTolkien states in a letter that he was sent back by a higher authority and was allowed a greater degree of power.\n\nHe returns in white and calls himself Gandalf the White. Gwaihir carries him to Lothlórien, where Galadriel heals him.\n\nHe has greater power and is the head of the Wizards, replacing Saruman. He remembers some things, but not all.\n\nHe is still himself. His gentle humour and his care for the small remain.",
+  "film": "The film follows this. Gandalf says he has fought the Balrog and returned, and the White Wizard appears in Fangorn.",
+  "series": "",
+  "facts": {
+   "Fall": "15 January T.A. 3019",
+   "Return": "Meets Aragorn, Legolas and Gimli in Fangorn, 1 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "BR003",
+    "role": "fought",
+    "note": "Gandalf falls from the bridge with the Balrog."
+   },
+   {
+    "id": "FO012",
+    "role": "other",
+    "note": "Gandalf meets his friends again in Fangorn as the White Rider."
+   }
+  ],
+  "related": [
+   "person:gandalf",
+   "person:durins-bane",
+   "person:gwaihir",
+   "person:galadriel",
+   "person:saruman",
+   "people:istari"
+  ],
+  "sources": [
+   "The Two Towers, Book III, chapter 5",
+   "Tolkien, Letters, no. 156"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:faq-gandalf-man-wizards",
+  "title": "Is Gandalf a man, and what are the Wizards?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [
+   "Istari",
+   "Olórin",
+   "Mithrandir"
+  ],
+  "blurb": "No. Gandalf is a Maia, one of the Istari, spirits sent in the shape of old men.",
+  "book": "Gandalf is not a man. The Istari came from the West around the year 1000 of the Third Age, to help against Sauron.\n\nThe Silmarillion and Unfinished Tales say they were Maiar sent by the Valar. They took the bodies of old men, and they felt hunger, pain and weariness. They were forbidden to meet Sauron with equal force or to rule the free peoples.\n\nGandalf was once Olórin, the wisest of the Maiar. He lived in the gardens of Lórien and learned patience from Nienna.\n\nSaruman was Curumo and Radagast was Aiwendil. Two others, the Blue Wizards, went east.\n\nMen called them Wizards. The Elves called them Istari, the Wise. Gandalf was known as Mithrandir to the Elves, and as the Grey Pilgrim.",
+  "film": "The films present Gandalf as a wizard with deep power and do not say he is a Maia in the main story.",
+  "series": "",
+  "facts": {
+   "Gandalf was": "Olórin, a Maia",
+   "Arrived": "About T.A. 1000"
+  },
+  "places": [
+   {
+    "id": "TO043",
+    "role": "other",
+    "note": "Gandalf landed at the Grey Havens, where Círdan welcomed him."
+   }
+  ],
+  "related": [
+   "person:gandalf",
+   "people:istari",
+   "person:saruman",
+   "person:radagast",
+   "person:cirdan",
+   "person:nienna",
+   "person:manwe"
+  ],
+  "sources": [
+   "Unfinished Tales, The Istari",
+   "The Lord of the Rings, Appendix B",
+   "The Silmarillion, Valaquenta"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:faq-character-ages",
+  "title": "How old are the main characters at the time of the War of the Ring?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [],
+  "blurb": "At the start of the quest in T.A. 3018, Frodo is 50, Sam 38, Merry 36, Pippin 28 and Aragorn 87, by the Appendices.",
+  "book": "At the start of the quest in September T.A. 3018 (S.R. 1418), Frodo is 50, Sam 38, Merry 36, Pippin 28 and Aragorn 87. These ages follow from the birth years in Appendix B.\n\nBilbo turns 128 that September (born S.R. 1290). Frodo was born in 1368, and he was 33 when he received the Ring. Samwise was born in 1380, Merry in 1382 and Pippin in 1390.\n\nAragorn was born in T.A. 2931. Boromir was born in 2978, so he was about 40 when he died. Faramir was born in 2983, so he was about 35. Gimli was born in T.A. 2879, so he was about 139.\n\nThe Elves and the Maiar are far older. Elrond was born in the First Age, and Galadriel was born in Valinor long before the Sun. Gandalf is a Maia, and his age is not given.\n\nLegolas's age is not given in the books.\n\nHobbits come of age at 33, so Pippin is still under age.",
+  "film": "The films give few ages. Bilbo's eleventy-first birthday is shown, and in The Two Towers Aragorn tells Éowyn that he is 87. Frodo seems younger on screen than 50, and the films leave out the 17 years between the party and his departure.",
+  "series": "",
+  "facts": {
+   "Bilbo": "128",
+   "Frodo": "50",
+   "Samwise": "38",
+   "Meriadoc": "36",
+   "Peregrin": "28",
+   "Aragorn": "87"
+  },
+  "places": [],
+  "related": [
+   "person:bilbo-baggins",
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:meriadoc-brandybuck",
+   "person:peregrin-took",
+   "person:aragorn",
+   "person:boromir",
+   "person:faramir"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix B (The Tale of Years)",
+   "The Lord of the Rings, Appendix A",
+   "The Fellowship of the Ring, Book I, chapters 1 and 3"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:faq-journey-time-distance",
+  "title": "How long did the journey from Bag End to Mount Doom take, and how far was it?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [],
+  "blurb": "The journey took about six months. The books give no total distance, but readers estimate close to 1,800 miles by the route taken.",
+  "book": "Frodo leaves Bag End on 23 September T.A. 3018 and the Ring is destroyed on 25 March 3019. That is a little over six months.\n\nThe quest has several stages. Frodo reaches Rivendell on 20 October, the Council meets on 25 October, and the Fellowship sets out on 25 December. They reach Moria in mid-January, and Lothlórien soon after. They leave Lórien on 16 February.\n\nThe Fellowship breaks at Parth Galen on 26 February. Frodo and Sam then go on alone. They reach Mount Doom a month later.\n\nThe books give no sum of miles for the whole way. They give some leagues and days for single stretches. Readers who measure Tolkien's maps reach different totals. A common estimate is about 1,800 miles along the route taken, but this is a reader's estimate and not Tolkien's own count.",
+  "film": "The films shorten the first stage and leave out the Old Forest, the Barrow-downs and Crickhollow.",
+  "series": "",
+  "facts": {
+   "Start": "Bag End, 23 September T.A. 3018",
+   "End": "Mount Doom, 25 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "BU030",
+    "role": "other",
+    "note": "The quest begins at Bag End."
+   },
+   {
+    "id": "MT036",
+    "role": "other",
+    "note": "The quest ends at Mount Doom."
+   }
+  ],
+  "related": [
+   "journey:frodo",
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:gollum",
+   "thing:one-ring",
+   "person:gandalf"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix B (The Tale of Years)",
+   "The Fellowship of the Ring, Book I, chapter 3",
+   "The Return of the King, Book VI, chapter 3"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:faq-hobbits-in-west",
+  "title": "What happens to Frodo, Bilbo and Sam in the West: do they live for ever?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [
+   "Ring-bearers in Valinor",
+   "Grey Havens departure"
+  ],
+  "blurb": "The books say they sail to the Undying Lands, but they do not say they become immortal. Tolkien's letters say they die in time.",
+  "book": "Bilbo and Frodo sail from the Grey Havens on 29 September T.A. 3021, with Gandalf, Elrond and Galadriel. Frodo goes for healing, because his wounds from the quest will not mend in Middle-earth.\n\nSam stays in the Shire for more than sixty years. He serves as Mayor and raises a large family. In S.R. 1482, after the death of his wife Rose, he goes to the Havens. The Red Book says he was the last Ring-bearer to cross the Sea.\n\nThe books do not say what happens to them there. Arwen tells Frodo that if his hurts still grieve him, he may go into the West and be healed.\n\nTolkien states in letters that Ring-bearers were not made immortal. He wrote that their stay, on Tol Eressëa, was for rest and healing, and that in time they would die of their own free will. A mortal cannot become an Elf.\n\nNothing else in the books fixes how long they stay.",
+  "film": "The films show Frodo and Bilbo going West with Gandalf and the Elves. They show Sam staying at home with his family. The book's passage on Sam's later voyage is not shown.",
+  "series": "",
+  "facts": {
+   "Frodo and Bilbo sail": "29 September T.A. 3021",
+   "Sam sails": "S.R. 1482"
+  },
+  "places": [
+   {
+    "id": "TO043",
+    "role": "other",
+    "note": "The Ring-bearers sail from the Grey Havens."
+   }
+  ],
+  "related": [
+   "person:frodo-baggins",
+   "person:bilbo-baggins",
+   "person:samwise-gamgee",
+   "person:gandalf",
+   "person:elrond",
+   "person:galadriel",
+   "person:elanor-gamgee"
+  ],
+  "sources": [
+   "The Return of the King, Book VI, chapters 6 and 9",
+   "The Lord of the Rings, Appendix B",
+   "Tolkien, Letters, nos. 154 and 246"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:faq-fellowship-fates",
+  "title": "What happened to each member of the Fellowship after the war?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [
+   "Fellowship after the war"
+  ],
+  "blurb": "Boromir died in the war. The others lived on in the Fourth Age, and three of them sailed West.",
+  "book": "Boromir was killed at Parth Galen defending Merry and Pippin.\n\nAragorn became King Elessar, married Arwen and died in Fourth Age 120 at 210 years old.\n\nGandalf sailed West with Frodo, Bilbo and the Elves in T.A. 3021. Frodo went with him for healing.\n\nSam became Mayor of the Shire seven times. He left Middle-earth in S.R. 1482, the last Ring-bearer to go.\n\nMerry became Master of Buckland, and Pippin became Thain of the Shire. In their old age, they went to Rohan and Gondor. They died in Gondor and were laid in Rath Dínen. When Elessar died, their beds were set beside his.\n\nGimli led Dwarves to the Glittering Caves. Legolas founded an Elf colony in Ithilien. After Aragorn died, Legolas built a ship and sailed West, and Gimli went with him. If the tale is true, Gimli is the only Dwarf ever to sail West.",
+  "film": "The films end with Frodo, Bilbo and Gandalf sailing West. Sam is shown with his family. The films do not show the later lives of Merry, Pippin, Legolas or Gimli.",
+  "series": "",
+  "facts": {
+   "Aragorn died": "Fo.A. 120",
+   "Sam sailed": "S.R. 1482"
+  },
+  "places": [
+   {
+    "id": "FI021",
+    "role": "died",
+    "note": "Boromir fell at Parth Galen."
+   },
+   {
+    "id": "TO043",
+    "role": "other",
+    "note": "The Ring-bearers and later Legolas and Gimli sailed from the Havens."
+   },
+   {
+    "id": "CA007",
+    "role": "lived",
+    "note": "Gimli led Dwarves to dwell in the Glittering Caves."
+   }
+  ],
+  "related": [
+   "person:aragorn",
+   "person:boromir",
+   "person:legolas",
+   "person:gimli",
+   "person:meriadoc-brandybuck",
+   "person:peregrin-took",
+   "person:samwise-gamgee",
+   "person:frodo-baggins",
+   "person:gandalf"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A and Appendix B",
+   "The Return of the King, Book VI, chapter 9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:faq-arwen-after",
+  "title": "What happened to Arwen after Aragorn died?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [
+   "Death of Arwen",
+   "Arwen's grave"
+  ],
+  "blurb": "Arwen left Gondor, went to Lothlórien and died there the next winter on Cerin Amroth.",
+  "book": "The Tale of Aragorn and Arwen in Appendix A gives the answer. Aragorn chose the hour of his death in Fo.A. 120, when he felt old. Arwen begged him not to go but accepted it.\n\nShe was an Elf who had chosen the fate of mortals, so she could not follow him beyond the world. She felt the weight of that choice, and said she understood the Gift of Men only now.\n\nAfter his death, she left Minas Tirith and went to Lothlórien, which was empty by then. She lived alone under the bare trees.\n\nShe laid herself down on Cerin Amroth. She died in the winter after, and her grave is there.\n\nTheir son Eldarion became King. Their daughters are not named in the books.",
+  "film": "Her death is not shown. In The Two Towers, Elrond describes a vision of Arwen grieving alone after Aragorn's death.",
+  "series": "",
+  "facts": {
+   "Death": "The winter after Aragorn's death in Fo.A. 120",
+   "Grave": "Cerin Amroth, Lothlórien"
+  },
+  "places": [
+   {
+    "id": "HI014",
+    "role": "died",
+    "note": "Arwen laid herself to rest on Cerin Amroth, and her grave is there."
+   },
+   {
+    "id": "TO065",
+    "role": "lived",
+    "note": "Arwen lived as Queen in Minas Tirith."
+   }
+  ],
+  "related": [
+   "person:arwen",
+   "person:aragorn",
+   "person:elrond",
+   "person:galadriel",
+   "person:celeborn",
+   "person:gilraen"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A (The Tale of Aragorn and Arwen)"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:faq-death-elves-men",
+  "title": "What happens to Elves and to Men when they die?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [
+   "Halls of Mandos",
+   "Gift of Men"
+  ],
+  "blurb": "Slain Elves go to the Halls of Mandos and may be reborn. Men leave the world for a fate that the Elves do not know.",
+  "book": "The books describe two different fates.\n\nThe Elves are bound to the world. When an Elf is killed, the spirit goes to the Halls of Mandos in Valinor. There it waits and may in time return to life. Tolkien's later notes say Glorfindel of Gondolin came back in this way. Some Elves lose the will to live, and their spirits also go to Mandos.\n\nMen are mortal. Ilúvatar gave them the Gift of Men, a short life and a leaving of the world. Their spirits go beyond the circles of the world.\n\nThe Silmarillion says the Elves do not know where Men go. It does not tell what lies beyond. Some Elvish lore says Men will take part in a second Music after the world ends.\n\nMen often fear death, but the Elves in the books sometimes envy Men's freedom.\n\nAragorn gives up his life by choice and tells Arwen not to grieve beyond hope.",
+  "film": "The films hint at the Elves' fate through Arwen's choice. They do not explain the Halls of Mandos.",
+  "series": "",
+  "facts": {
+   "Elves": "Go to the Halls of Mandos",
+   "Men": "Pass out of the world; their end is not told"
+  },
+  "places": [],
+  "related": [
+   "person:mandos",
+   "person:arwen",
+   "person:aragorn",
+   "person:glorfindel",
+   "person:luthien",
+   "person:beren"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Beginning of Days and Ainulindalë",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:faq-elves-leave",
+  "title": "Why did the Elves leave Middle-earth?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [
+   "Elves sailing West",
+   "Fading of the Elves"
+  ],
+  "blurb": "They were fading in an age that belonged to Men. After the Ring fell, their Rings lost power, and the Elves went West.",
+  "book": "The books give several reasons that work together.\n\nThe Third Age ends with the rise of Men. Elves who stay in Middle-earth slowly fade, as their bodies weaken and they become like spirits. The Sea also calls them, and many hear that call.\n\nThe Three Rings had delayed the change. When Sauron falls and the One Ring is destroyed, the power of the Three fails. Lothlórien and Rivendell lose their special protection.\n\nElrond, Galadriel and Gandalf leave with the Ring-bearers in T.A. 3021. Other Elves sail in the years after. Círdan remains at the Havens until the last ship has gone.\n\nSome Elves remain for a long time in Ithilien and in Mirkwood, in smaller numbers.\n\nEach Elf chooses when to go, and the parting is full of grief.",
+  "film": "The films present the departure at the Grey Havens with a sense of an Age ending. The series is set in the Second Age and does not show it.",
+  "series": "",
+  "facts": {
+   "Main departure": "29 September T.A. 3021",
+   "Last ship": "Círdan sails last"
+  },
+  "places": [
+   {
+    "id": "TO043",
+    "role": "other",
+    "note": "The Elves sail from the Grey Havens."
+   },
+   {
+    "id": "TO084",
+    "role": "other",
+    "note": "Elrond's sons and Celeborn stayed in Rivendell for a while after Elrond sailed."
+   }
+  ],
+  "related": [
+   "person:elrond",
+   "person:galadriel",
+   "person:cirdan",
+   "person:celeborn",
+   "thing:vilya",
+   "thing:nenya",
+   "thing:narya"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix B",
+   "The Return of the King, Book VI, chapter 9",
+   "Tolkien, Letters, no. 154"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:faq-oldest-living",
+  "title": "Who is the oldest living thing in Middle-earth?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [
+   "Eldest",
+   "Treebeard oldest"
+  ],
+  "blurb": "The books give no single answer. Gandalf calls Treebeard the oldest living thing, and Tom Bombadil calls himself the Eldest.",
+  "book": "The books give no single answer. Two figures are given the title.\n\nGandalf says that Treebeard is the oldest of the Ents, and the oldest living thing that still walks under the Sun in Middle-earth.\n\nTom Bombadil calls himself the Eldest. He says he was in the land before the river and the trees, and that he knew the dark before the Dark Lord came. At the Council, Elrond calls him by the Elvish name Iarwain Ben-adar, oldest and fatherless.\n\nBoth claims cannot be exact at once, and Tolkien does not settle it.\n\nOther beings are older still in years. The Maiar, such as Sauron and Gandalf, existed before the world was made. Elves such as Círdan were alive before the first rising of the Sun.\n\nThe question is therefore left open by the books.",
+  "film": "Treebeard in the films makes no such claim. Tom does not appear in the films.",
+  "series": "",
+  "facts": {
+   "Gandalf on Treebeard": "Oldest living thing that walks under the Sun",
+   "Tom's claim": "The Eldest"
+  },
+  "places": [],
+  "related": [
+   "person:treebeard",
+   "person:tom-bombadil",
+   "person:cirdan",
+   "person:gandalf",
+   "person:sauron",
+   "people:ents"
+  ],
+  "sources": [
+   "The Two Towers, Book III, chapter 5",
+   "The Fellowship of the Ring, Book I, chapter 7; Book II, chapter 2"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:faq-shelob-ungoliant",
+  "title": "What became of Shelob and of Ungoliant?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [
+   "Shelob's end",
+   "Ungoliant's end"
+  ],
+  "blurb": "Neither end is told with certainty. Shelob is wounded by Sam. Ungoliant is said to have ended by devouring herself.",
+  "book": "Ungoliant was a vast spirit in spider's form. She helped Morgoth destroy the Two Trees, took the light, and then turned on him. After Morgoth took the Silmarils, she fled and her end is unclear.\n\nThe Silmarillion says some tales tell that she ended by devouring herself. This is told as report, not as certain fact.\n\nShelob is Ungoliant's last known child. The narrator says she dwelt there before Sauron came. She feeds on every living thing near Cirith Ungol.\n\nSam wounds her with Sting, and she crawls away to her lair. Her fate after that is not told, and no later text says whether she lived.\n\nThe books do not say how many other children Ungoliant had.",
+  "film": "The films show Shelob stabbed by Sam and then fleeing. The film leaves her living, as the book does.",
+  "series": "",
+  "facts": {
+   "Shelob's lair": "Cirith Ungol",
+   "Ungoliant": "Fled south; her end is told only as a report"
+  },
+  "places": [
+   {
+    "id": "VA034",
+    "role": "lived",
+    "note": "Shelob lived in the pass of Cirith Ungol."
+   }
+  ],
+  "related": [
+   "person:shelob",
+   "person:ungoliant",
+   "person:samwise-gamgee",
+   "thing:sting",
+   "person:morgoth",
+   "person:gollum",
+   "thing:two-trees"
+  ],
+  "sources": [
+   "The Two Towers, Book IV, chapters 9 and 10",
+   "The Silmarillion, Of the Darkening of Valinor and Of the Flight of the Noldor"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:faq-moria-retaken",
+  "title": "Was Moria ever retaken by the Dwarves?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [],
+  "blurb": "Not in any story the books tell. Balin tried in T.A. 2989 and failed. A later return is only in Tolkien's notes.",
+  "book": "Not in any story the books tell. Balin's colony tried and failed, and a later return appears only in notes outside the published books.\n\nThe Balrog drove the Dwarves out in T.A. 1980 and 1981. Orcs later filled Moria. In T.A. 2790 King Thrór went in alone and was slain by the Orc Azog.\n\nThe Dwarves avenged him at the Battle of Azanulbizar in T.A. 2799. They won, but Dáin looked in at the gate and said that Durin's Bane still waited within. The Dwarves did not enter.\n\nIn T.A. 2989 Balin led a colony from Erebor into Moria. Balin was killed in 2994, and the colony was destroyed soon after. In January T.A. 3019 the Fellowship found his tomb and the colony's last record. They met the Watcher at the gate, then Orcs, a cave-troll and the Balrog.\n\nAfter the War of the Ring, The Lord of the Rings tells of no second attempt. Notes by Tolkien, published later in The Peoples of Middle-earth, say that a king named Durin VII led his people back to Khazad-dûm. That is not in the main text, so the books themselves leave it open.",
+  "film": "The film shows Balin's tomb, the Orcs and the failure of the colony.",
+  "series": "",
+  "facts": {
+   "Thrór slain": "T.A. 2790",
+   "Azanulbizar": "T.A. 2799",
+   "Balin's colony": "T.A. 2989 to 2994",
+   "Fellowship passes": "January T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "TO066",
+    "role": "other",
+    "note": "Balin's colony settled in Moria and was destroyed there."
+   },
+   {
+    "id": "realm:khazad-dum",
+    "role": "other",
+    "note": "Khazad-dûm was the great Dwarf-city of Durin's Folk."
+   }
+  ],
+  "related": [
+   "person:balin",
+   "person:thror",
+   "person:azog",
+   "person:dain-ii-ironfoot",
+   "person:durins-bane",
+   "thing:book-of-mazarbul",
+   "people:durins-folk",
+   "battle:azanulbizar"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II, chapters 4 and 5",
+   "The Lord of the Rings, Appendix A (Durin's Folk) and Appendix B",
+   "The Peoples of Middle-earth (later notes)"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:faq-dwarf-women",
+  "title": "Where are the Dwarf-women?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [],
+  "blurb": "The books say Dwarf-women exist but are few and rarely seen. Outsiders think they do not exist.",
+  "book": "Appendix A answers this. There are few Dwarf-women, perhaps only a third of the whole people.\n\nThe women seldom leave their homes. When they do, they are dressed like Dwarf-men and have a similar voice. Other peoples therefore think the Dwarves have no women, and that Dwarves spring from stones.\n\nThis is also why the Dwarves increase slowly. Many Dwarf-men never wed. Some do not wish to, some cannot have the one they want, and some are given wholly to their crafts.\n\nDís, the sister of Thorin Oakenshield, is the only Dwarf-woman named in The Lord of the Rings. She is the mother of Fíli and Kíli.\n\nThe Dwarves are secretive about the matter and tell little to outsiders.\n\nThe books therefore give some of the answer but keep a veil.",
+  "film": "Dwarf-women barely appear in the films. In The Two Towers, Aragorn and Gimli joke to Éowyn that Dwarf-women look so like the men that people think there are none.",
+  "series": "",
+  "facts": {
+   "Share": "About one third of the Dwarves",
+   "Named example": "Dís, mother of Fíli and Kíli"
+  },
+  "places": [],
+  "related": [
+   "person:dis",
+   "person:fili",
+   "person:kili",
+   "person:thorin-oakenshield",
+   "people:durins-folk",
+   "person:gimli"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A (Durin's Folk)"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:faq-sauron-hobbits",
+  "title": "Did Sauron know about Hobbits before the War of the Ring?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [],
+  "blurb": "Not in a useful way. He learned the words Shire and Baggins from Gollum, whom his servants held in Mordor before T.A. 3017.",
+  "book": "Not in any useful way. Until he questioned Gollum, Sauron knew little of Hobbits. They were small and hidden and had no part in the old wars. In Gondor most people knew Halflings only from old tales.\n\nGollum went towards Mordor and was caught. Sauron's servants held him and questioned him under torment, and he was released in T.A. 3017. From him Sauron learned the words Shire and Baggins, and that a Hobbit had the Ring.\n\nThat is why the Black Riders go to the Shire. Gandalf tells Frodo that the Enemy now knows of Hobbits, and the war reaches them.\n\nSaruman knew much earlier. He had watched the Shire and traded for its pipe-weed.\n\nSauron's own ignorance helps the quest. He does not expect a Hobbit to take the Ring to Mount Doom. He thinks only of a great lord who would use it.",
+  "film": "The films do not show Gollum's capture. Sauron's knowledge of Hobbits is not stated in them.",
+  "series": "",
+  "facts": {
+   "Gollum released from Mordor": "T.A. 3017",
+   "Names learned": "Shire and Baggins"
+  },
+  "places": [
+   {
+    "id": "realm:the-shire",
+    "role": "other",
+    "note": "Sauron's servants search the Shire after learning its name."
+   },
+   {
+    "id": "realm:mordor",
+    "role": "other",
+    "note": "Gollum is tortured in Mordor."
+   }
+  ],
+  "related": [
+   "person:sauron",
+   "person:gollum",
+   "person:gandalf",
+   "person:saruman",
+   "people:hobbits",
+   "person:frodo-baggins"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I, chapter 2; Book II, chapter 2",
+   "The Lord of the Rings, Appendix B",
+   "Unfinished Tales, The Hunt for the Ring"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:faq-gollum-survives",
+  "title": "Why is Gollum not destroyed by the Ring after so many years?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [],
+  "blurb": "The Ring kept Gollum alive and ruined him. He held it for about five hundred years, but he was hollowed out and not destroyed.",
+  "book": "Gandalf gives the main answer. The Ring prolongs life, but it does not grant health. Gollum lived for about five hundred years, but he became a thin and wretched creature.\n\nThe Ring slowly consumed him. Gandalf says little was left of the old Sméagol, although a small part remained.\n\nGollum was also of hobbit-kind. Gandalf says he proved tougher than the Wise would have guessed, as a hobbit might. He used the Ring for small and mean things, such as hiding and listening.\n\nHe never tried to wield it as a lord. This kept him from facing its full power.\n\nThe Ring left him when it chose, to return to its master. That is why it slipped away to Bilbo.\n\nHe was thus kept alive by the Ring, and yet he was a ruin.",
+  "film": "The films show the same long life and wretched state. Gollum's earlier years are shown more briefly.",
+  "series": "",
+  "facts": {
+   "Time with Ring": "About five hundred years"
+  },
+  "places": [],
+  "related": [
+   "person:gollum",
+   "thing:one-ring",
+   "person:deagol",
+   "person:bilbo-baggins",
+   "person:gandalf",
+   "people:hobbits"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I, chapter 2"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:faq-bilbo-give-up",
+  "title": "Why did Bilbo find it so hard, and yet possible, to give up the Ring?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [],
+  "blurb": "Bilbo wore the Ring lightly and with a good heart, but the Ring had a hold. Gandalf's urging helped him to let go.",
+  "book": "Bilbo had the Ring for about sixty years. He used it seldom and kept it in his pocket. He had found it by luck and had shown pity to Gollum.\n\nGandalf says that this early pity helped Bilbo. A bearer who is kind is damaged more slowly.\n\nStill, the Ring had a hold. On the night of his party, Bilbo tells Gandalf that he feels thin, like butter spread over too much bread. He wants a holiday. When Gandalf asks him to leave it for Frodo, Bilbo becomes angry and calls it his own and his precious.\n\nGandalf stays firm. Bilbo at last leaves the Ring in an envelope for Frodo and goes.\n\nHe gives up the Ring with help, not by himself.\n\nAfterward he is much calmer.",
+  "film": "The film shows the same struggle at Bag End, where Bilbo grows angry. Later, in Rivendell, his face briefly turns monstrous when he sees the Ring.",
+  "series": "",
+  "facts": {
+   "Time with Ring": "About sixty years",
+   "Party": "22 September T.A. 3001"
+  },
+  "places": [
+   {
+    "id": "BU030",
+    "role": "kept",
+    "note": "Bilbo kept the Ring at Bag End and left it there."
+   },
+   {
+    "id": "TO050",
+    "role": "lived",
+    "note": "Bilbo lived in Hobbiton."
+   }
+  ],
+  "related": [
+   "person:bilbo-baggins",
+   "thing:one-ring",
+   "person:gandalf",
+   "person:frodo-baggins",
+   "person:gollum",
+   "thing:sting"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I, chapters 1 and 2"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:faq-hobbit-lotr-link",
+  "title": "How are The Hobbit and The Lord of the Rings connected?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [],
+  "blurb": "Bilbo finds the Ring in The Hobbit. The Lord of the Rings follows its history and treats the earlier book as Bilbo's memoir.",
+  "book": "The Hobbit tells how Bilbo goes with Thorin's Dwarves to win back Erebor from Smaug. On the way he finds a ring in Gollum's cave.\n\nIn The Lord of the Rings, that ring is the One Ring. Gandalf learns this in T.A. 3018, and Frodo takes the Ring to Mount Doom.\n\nTolkien presents The Hobbit as Bilbo's own book, There and Back Again, taken from the Red Book. The later story also goes on with Gandalf's concerns about the Necromancer.\n\nTolkien changed the riddle chapter in the second edition (1951). In the first version, Gollum offered the ring as a prize. When he could not find it, he showed Bilbo the way out instead. The new version matches the later book.\n\nThe tone also changes. The Hobbit is for children and The Lord of the Rings is far darker.\n\nDáin, Bard and Dale also return later in the story.",
+  "film": "The Hobbit films, released in 2012 to 2014, added links to the Rings story. They include the Necromancer, Radagast and Galadriel, which the book does not show in the same way.",
+  "series": "",
+  "facts": {
+   "The Hobbit": "1937",
+   "The Lord of the Rings": "1954 and 1955",
+   "Story dates": "T.A. 2941 and T.A. 3018 to 3019"
+  },
+  "places": [
+   {
+    "id": "realm:erebor",
+    "role": "other",
+    "note": "Erebor is the goal of the quest in The Hobbit."
+   }
+  ],
+  "related": [
+   "person:bilbo-baggins",
+   "thing:one-ring",
+   "person:gollum",
+   "person:gandalf",
+   "thing:red-book",
+   "person:thorin-oakenshield",
+   "person:smaug"
+  ],
+  "sources": [
+   "The Hobbit, chapters 5 and 19",
+   "The Lord of the Rings, Prologue and Book I, chapter 2"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:faq-reading-order",
+  "title": "In what order do the stories happen, and in what order is it best to read the books?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [],
+  "blurb": "In time, The Silmarillion comes first, then The Hobbit, then The Lord of the Rings. Most readers start with The Hobbit.",
+  "book": "The order of events in time is this. The Silmarillion covers the First Age and the Second Age. The Hobbit takes place in T.A. 2941. The Lord of the Rings covers T.A. 3018 and 3019, with the Appendices for the rest.\n\nTolkien wrote them in a different order. The Hobbit appeared in 1937, The Lord of the Rings in 1954 and 1955, and The Silmarillion in 1977, after his death.\n\nThere is no right order, but many readers follow publication order. They read The Hobbit, then The Lord of the Rings, and then The Silmarillion.\n\nThe Silmarillion is dense and is easier after the other books. Unfinished Tales and The Children of Húrin come later.\n\nThis is advice, not Tolkien's own rule.",
+  "film": "The Lord of the Rings films came first (2001 to 2003) and the Hobbit films later (2012 to 2014). The usual advice is to watch them in story order or release order.",
+  "series": "The Rings of Power series is set in the Second Age, so it comes before The Hobbit in the story.",
+  "facts": {
+   "The Hobbit": "1937",
+   "The Lord of the Rings": "1954 and 1955",
+   "The Silmarillion": "1977"
+  },
+  "places": [],
+  "related": [
+   "person:bilbo-baggins",
+   "person:frodo-baggins",
+   "person:morgoth",
+   "person:sauron",
+   "thing:silmarils",
+   "thing:one-ring"
+  ],
+  "sources": [
+   "The Hobbit",
+   "The Lord of the Rings",
+   "The Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:faq-valar-maiar",
+  "title": "What is the difference between the Valar and the Maiar?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [],
+  "blurb": "The Valar are the great Ainur who rule Arda. The Maiar are lesser Ainur who serve them.",
+  "book": "Both groups are Ainur, the holy spirits that Ilúvatar made before the world. Some of them entered Arda to shape it.\n\nThe Valar are the greater ones. The Silmarillion names fourteen: seven Lords and seven Queens. The Lords are Manwë, Ulmo, Aulë, Oromë, Mandos, Lórien and Tulkas. The Queens are Varda, Yavanna, Nienna, Estë, Vairë, Vána and Nessa. Melkor was once among the Valar.\n\nThe Maiar are the lesser spirits, many in number, who help the Valar. Melian, Eönwë and Olórin, who became Gandalf, are Maiar. So are Sauron, who served Aulë before he fell, and the Balrogs, who served Morgoth.\n\nThe Wizards of the Third Age were Maiar.\n\nThe Elves call the Valar the Powers, and Men have sometimes thought them gods. The books say they are not gods.",
+  "film": "The films do not use these terms.",
+  "series": "",
+  "facts": {
+   "Valar": "Fourteen, not counting Melkor",
+   "Examples of Maiar": "Gandalf, Sauron, Melian, Eönwë"
+  },
+  "places": [],
+  "related": [
+   "person:manwe",
+   "person:aule",
+   "person:varda",
+   "person:melian",
+   "person:eonwe",
+   "person:sauron",
+   "person:gandalf",
+   "person:morgoth"
+  ],
+  "sources": [
+   "The Silmarillion, Ainulindalë and Valaquenta"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:faq-sauron-without-ring",
+  "title": "Could Sauron have been defeated without destroying the Ring?",
+  "group": "Questions readers ask",
+  "kind": "Question and answer",
+  "aka": [],
+  "blurb": "Not for good. An army could break his power for a time, but the Ring would bring him back.",
+  "book": "The books answer this through the history of the Last Alliance. Elves and Men besieged Sauron and killed his body, but Isildur kept the Ring. Sauron returned in the Third Age.\n\nElrond says this plainly at the Council. The Ring survived, and so Sauron's spirit could be reborn.\n\nGandalf and Elrond doubt that the armies of the West can beat Sauron by arms alone. If the Ring comes back to him, he becomes far more powerful. Anyone who takes it by force and wields it would become a new Dark Lord.\n\nThe battle before the Black Gate is therefore a diversion. It draws his eye away while Frodo goes up Mount Doom.\n\nGandalf says that victory cannot be won by arms. Only the unmaking of the Ring ends Sauron. When it is gone, his power falls and he is maimed for ever, a spirit of malice that cannot grow again.",
+  "film": "The films follow this. Aragorn leads the army to the Black Gate to give Frodo a chance.",
+  "series": "",
+  "facts": {
+   "First fall": "S.A. 3441",
+   "Final fall": "25 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "FT005",
+    "role": "fought",
+    "note": "The armies of the West fought before the Black Gate as a diversion."
+   },
+   {
+    "id": "MT036",
+    "role": "destroyed",
+    "note": "The Ring's end destroys Sauron's power."
+   }
+  ],
+  "related": [
+   "person:sauron",
+   "thing:one-ring",
+   "person:isildur",
+   "person:elrond",
+   "person:gandalf",
+   "person:aragorn",
+   "battle:morannon"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II, chapter 2",
+   "The Return of the King, Book V, chapters 9 and 10"
+  ],
+  "confidence": "high"
+ }
+]

@@ -5,6 +5,7 @@ import { LineGeometry } from 'three/examples/jsm/lines/LineGeometry.js';
 import { LineMaterial } from 'three/examples/jsm/lines/LineMaterial.js';
 import { LineSegments2 } from 'three/examples/jsm/lines/LineSegments2.js';
 import { LineSegmentsGeometry } from 'three/examples/jsm/lines/LineSegmentsGeometry.js';
+import { initChat } from './chat.js';
 
 const $ = (s, el = document) => el.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
@@ -25,10 +26,10 @@ const S = {
 };
 const LAYER_GROUP = { Towns: 'settle', Harbors: 'settle', Fortresses: 'strong', Doors_Gates: 'strong', Walls: 'strong', Buildings: 'landmark', Bridges: 'landmark', Fords: 'landmark', Cave_entrances: 'landmark', Falls: 'landmark', Graves_Tombs: 'landmark', Mountains: 'relief', Mountains_of_Moria: 'relief', Hills: 'relief', Valleys: 'relief', Fields: 'relief', Islands: 'relief', Forests: 'woods', Swamps: 'woods', Rivers: 'water', Lakes: 'water', Bays: 'water', Roads: 'roads' };
 const LAYER_CLASS = { Towns: 'pt town', Harbors: 'pt town', Fortresses: 'pt fort', Doors_Gates: 'pt fort', Buildings: 'pt bld', Bridges: 'pt bld', Fords: 'pt bld', Cave_entrances: 'pt bld', Falls: 'pt bld', Graves_Tombs: 'pt bld', Walls: 'ar road', Mountains: 'ar mtn', Mountains_of_Moria: 'ar mtn', Hills: 'ar hill', Valleys: 'ar hill', Fields: 'ar hill', Islands: 'ar hill', Forests: 'ar wood', Swamps: 'ar wood', Rivers: 'ar water', Lakes: 'ar water', Bays: 'ar water', Roads: 'ar road' };
-const TYPE_NAME = { place: 'Place', realm: 'Realm', people: 'People', battle: 'Battle', journey: 'Journey', person: 'Person', thing: 'Thing' };
+const TYPE_NAME = { place: 'Place', realm: 'Realm', people: 'People', battle: 'Battle', journey: 'Journey', person: 'Person', thing: 'Thing', lore: 'Lore' };
 const ROLE_NAME = { born: 'Born', lived: 'Lived', ruled: 'Ruled', travelled: 'Travelled', fought: 'Fought', died: 'Died', buried: 'Buried', made: 'Made', kept: 'Kept', found: 'Found', lost: 'Lost', destroyed: 'Destroyed', other: 'Linked' };
 const LINKED = new Map();   // map item id -> role, for the person or thing in view
-const isLore = it => it && (it.type === 'person' || it.type === 'thing');
+const isLore = it => it && (it.type === 'person' || it.type === 'thing' || it.type === 'lore');
 
 /* ---------- art (Gemini drawings prepared by art/process.py) ---------- */
 const ART = D.art || {}, artImg = {};
@@ -425,7 +426,7 @@ canvas.addEventListener('dblclick', e => { const L = hitLabel(e.clientX, e.clien
 
 /* ---------- selection and cards ---------- */
 const card = $('#card');
-const paras = t => String(t || '').split(/\n\s*\n/).map(p => `<p>${esc(p.trim())}</p>`).join('');
+const paras = t => String(t || '').split(/\n\s*\n/).map(p => `<p>${esc(p.trim()).replace(/\n/g, '<br>')}</p>`).join('');
 const chip = id => ITEMS[id] ? `<a class="chip" data-go="${esc(id)}">${esc(ITEMS[id].title)}</a>` : '';
 function renderCard(it) {
   let h = `<button class="x" data-close title="Close (Esc)">&times;</button><div class="kind">${esc(it.kind || TYPE_NAME[it.type])}${it.status ? ' &middot; ' + esc(it.status) : ''}</div><h2>${esc(it.title)}</h2>`;
@@ -439,7 +440,7 @@ function renderCard(it) {
   if (it.sides) h += `<div class="sides"><div><b>Victor / defender</b>${it.sides.a.map(esc).join('<br>')}</div><div><b>Opponent</b>${it.sides.b.map(esc).join('<br>')}</div></div>${it.outcome ? `<p class="outcome"><b>Outcome.</b> ${esc(it.outcome)}</p>` : ''}`;
   const sec = (key, name, txt) => txt && S.src[key] ? `<section class="src ${key}"><h3><span class="tag">${name}</span></h3>${paras(txt)}</section>` : '';
   const body = sec('book', 'Book', it.book) + sec('film', 'Film', it.film) + sec('series', 'Series', it.series);
-  h += body || `<p class="muted">No text for the selected sources.</p>`;
+  h += body || (it.hidden ? '' : `<p class="muted">No text for the selected sources.</p>`);
   if (it.facts && Object.keys(it.facts).length) h += `<dl class="facts">${Object.entries(it.facts).map(([k, v]) => `<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join('')}</dl>`;
   if (it.type === 'journey') h += `<h4>Stages</h4><ol class="stages">${it.stages.map((s, i) => `<li data-stage="${i}"><b>${esc(s.title)}</b>${s.date ? `<span class="sd">${esc(s.date)}</span>` : ''}<div>${esc(s.note)}</div>${s.film && S.src.film ? `<div class="sf"><span class="tag f">Film</span> ${esc(s.film)}</div>` : ''}</li>`).join('')}</ol>`;
   const list = (title, ids) => { const c = (ids || []).map(chip).join(''); return c ? `<h4>${title}</h4><div class="chips">${c}</div>` : ''; };
@@ -451,9 +452,11 @@ function renderCard(it) {
   }
   const lore = (it.linked || []).filter(id => ITEMS[id]);
   if (lore.length) { const pp = lore.filter(id => ITEMS[id].type === 'person'), tt = lore.filter(id => ITEMS[id].type === 'thing'); h += list('People linked to this place', pp) + list('Things linked to this place', tt); }
+  const ll = (it.lorelinks || []).filter(id => ITEMS[id]); if (ll.length) h += list('Chapters and lore for this place', ll.slice(0, 14));
   h += list('Peoples', it.peoples) + list('Lands', it.realms) + list('See also', it.related);
+  if (it.prev || it.next) h += `<p class="pn">${ITEMS[it.prev] ? `<a data-go="${esc(it.prev)}">&larr; ${esc(ITEMS[it.prev].title)}</a>` : '<span></span>'}${ITEMS[it.next] ? `<a data-go="${esc(it.next)}">${esc(ITEMS[it.next].title)} &rarr;</a>` : ''}</p>`;
   if (it.sources && it.sources.length) h += `<p class="sources"><b>Where to read:</b> ${it.sources.map(esc).join('; ')}</p>`;
-  h += `<p class="conf c-${esc(it.confidence || 'medium')}">Confidence: ${esc(it.confidence || 'medium')}${it.confidence === 'high' ? '' : '. Check this card against the books.'}</p>`;
+  if (!it.hidden) h += `<p class="conf c-${esc(it.confidence || 'medium')}">Confidence: ${esc(it.confidence || 'medium')}${it.confidence === 'high' ? '' : '. Check this card against the books.'}</p>`;
   card.innerHTML = h; card.scrollTop = 0; card.classList.add('open');
 }
 function loreLand(it) {   // the sheet that shows most of the linked places; the current sheet wins a tie
@@ -489,6 +492,11 @@ function select(id, fly = true, keep = false) {
     flyTo(it.x, it.y, d);
   } else if (fly && it.type === 'people' && it.realms && ITEMS[it.realms[0]]) { const r = ITEMS[it.realms[0]]; flyTo(r.x, r.y, 900); }
   dirty = true;
+}
+function showPlaces(ids) {   // the assistant asks the map to mark a set of places
+  const pl = [...new Set(ids)].filter(id => ITEMS[id] && ITEMS[id].x != null && ITEMS[id].land).map(id => ({ id, role: 'other' })); if (!pl.length) return;
+  ITEMS['chat:places'] = { id: 'chat:places', type: 'lore', hidden: 1, land: null, title: 'Places in the answer', kind: 'From the loremaster', blurb: 'The map marks these places in red. Select a name to go to its card.', places: pl };
+  select('chat:places');
 }
 function closeCard() { card.classList.remove('open'); S.sel = null; S.ctx = null; setLinks(null); setHighlight(null); dirty = true; }
 card.addEventListener('click', e => {
@@ -579,7 +587,7 @@ function stepJourney(dt) {
 }
 
 /* ---------- side panel, search ---------- */
-const GROUP_ORDER = ['Hobbits', 'Men', 'Elves', 'Dwarves', 'Wizards and Maiar', 'Valar', 'Enemies', 'Creatures', 'Rings', 'Jewels', 'Weapons and armour', 'Seeing-stones', 'Ships', 'Books and heirlooms', 'Trees, plants and substances', 'Other'];
+const GROUP_ORDER = ['Hobbits', 'Men', 'Elves', 'Dwarves', 'Wizards and Maiar', 'Valar', 'Enemies', 'Creatures', 'Rings', 'Jewels', 'Weapons and armour', 'Seeing-stones', 'Ships', 'Books and heirlooms', 'Trees, plants and substances', 'Other', 'The Hobbit', 'The Fellowship of the Ring', 'The Two Towers', 'The Return of the King', 'The Silmarillion', 'Unfinished Tales and other books', 'Timeline', 'Powers, peoples and ideas', 'Lands beyond the map', 'Lines and lists', 'Films and series', 'Questions readers ask'];
 function buildPanel() {
   const by = t => Object.values(ITEMS).filter(i => i.type === t && i.land === LAND.id);
   $('#journeys').innerHTML = by('journey').map(j => `<button data-go="${esc(j.id)}"><b>${esc(j.title)}</b><span>${esc(j.travellers || '')}</span></button>`).join('') || '<p class="muted">No journeys loaded.</p>';
@@ -589,12 +597,12 @@ function buildPanel() {
   const rs = by('realm').sort((a, b) => a.title.localeCompare(b.title));
   $('#realmlist').innerHTML = rs.map(r => `<a class="chip" data-go="${esc(r.id)}">${esc(r.title)}</a>`).join('');
   if (!$('#personlist').dataset.done) {
-    const groups = (type, el) => { const g = {}; for (const i of Object.values(ITEMS)) if (i.type === type) (g[i.group || 'Other'] = g[i.group || 'Other'] || []).push(i);
-      el.innerHTML = Object.keys(g).sort((a, b) => (GROUP_ORDER.indexOf(a) + 99) % 99 - (GROUP_ORDER.indexOf(b) + 99) % 99).map(k => `<details><summary>${esc(k)} <em>${g[k].length}</em></summary><div class="chips">${g[k].sort((a, b) => a.title.localeCompare(b.title)).map(p => `<a class="chip" data-go="${esc(p.id)}">${esc(p.title)}</a>`).join('')}</div></details>`).join('') || '<p class="muted">None loaded.</p>'; el.dataset.done = 1; };
-    groups('person', $('#personlist')); groups('thing', $('#thinglist'));
+    const groups = (type, el) => { const g = {}; for (const i of Object.values(ITEMS)) if (i.type === type && !i.hidden) (g[i.group || 'Other'] = g[i.group || 'Other'] || []).push(i);
+      el.innerHTML = Object.keys(g).sort((a, b) => (GROUP_ORDER.indexOf(a) + 99) % 99 - (GROUP_ORDER.indexOf(b) + 99) % 99).map(k => `<details><summary>${esc(k)} <em>${g[k].length}</em></summary>${type === 'lore' ? `<div class="lorelist">${g[k].sort((a, b) => a.ord - b.ord).map(p => `<a data-go="${esc(p.id)}">${esc(p.title)}</a>`).join('')}</div>` : `<div class="chips">${g[k].sort((a, b) => a.title.localeCompare(b.title)).map(p => `<a class="chip" data-go="${esc(p.id)}">${esc(p.title)}</a>`).join('')}</div>`}</details>`).join('') || '<p class="muted">None loaded.</p>'; el.dataset.done = 1; };
+    groups('person', $('#personlist')); groups('thing', $('#thinglist')); groups('lore', $('#lorelist'));
   }
-  const nl = t => Object.values(ITEMS).filter(i => i.type === t).length;
-  $('#counts').textContent = `${nl('person')} persons · ${nl('thing')} things · ${by('place').length} places · ${rs.length} realms · ${by('people').length} peoples · ${bs.length} battles · ${by('journey').length} journeys`;
+  const nl = t => Object.values(ITEMS).filter(i => i.type === t && !i.hidden).length;
+  $('#counts').textContent = `${nl('person')} persons · ${nl('thing')} things · ${nl('lore')} lore entries · ${by('place').length} places · ${rs.length} realms · ${by('people').length} peoples · ${bs.length} battles · ${by('journey').length} journeys`;
 }
 $('#panel').addEventListener('click', e => { const g = e.target.closest('[data-go]'); if (g) { if (S.journey === g.dataset.go) stopJourney(); else select(g.dataset.go); } });
 $('#panel').addEventListener('change', e => {
@@ -611,7 +619,7 @@ function search(s) {
   const out = [];
   for (const e of INDEX) {
     const t = e.t, it = e.it; let sc = t === s ? 0 : t.startsWith(s) ? 1 : t.includes(' ' + s) || t.includes('-' + s) ? 2 : t.includes(s) ? 3 : (' | ' + e.alt).includes(' | ' + s) ? 3.5 : e.alt.includes(s) ? 5 : -1;
-    if (sc >= 0) out.push([sc + (it.tier || 2) * 0.1 + (isLore(it) ? -0.05 : it.land !== LAND.id ? 0.45 : 0), it]);
+    if (sc >= 0) out.push([sc + (it.tier || 2) * 0.1 + (it.type === 'lore' ? 3.6 : isLore(it) ? -0.05 : it.land !== LAND.id ? 0.45 : 0), it]);
   }
   out.sort((a, b) => a[0] - b[0] || a[1].title.localeCompare(b[1].title)); const top = out.slice(0, 12).map(o => o[1]);
   const where = it => isLore(it) ? '' : it.land !== LAND.id ? ' · ' + esc(D.lands.find(l => l.id === it.land).name) : '';
@@ -622,8 +630,9 @@ q.addEventListener('keydown', e => { if (e.key === 'Enter') { const t = search(q
 res.addEventListener('click', e => { const g = e.target.closest('[data-go]'); if (g) { select(g.dataset.go); res.classList.remove('open'); q.value = ''; } });
 window.addEventListener('keydown', e => {
   if (e.target === q) return;
+  if (e.target.closest && e.target.closest('input,textarea,select')) { if (e.key === 'Escape') e.target.blur(); return; }
   if (e.key === '/') { e.preventDefault(); q.focus(); q.select(); }
-  if (e.key === 'Escape') { if ($('#about').classList.contains('open')) $('#about').classList.remove('open'); else if (J) stopJourney(); else closeCard(); }
+  if (e.key === 'Escape') { if ($('#about').classList.contains('open')) $('#about').classList.remove('open'); else if (J) stopJourney(); else if (S.sel) closeCard(); else if (CHAT && CHAT.isOpen()) CHAT.setOpen(false); }
   if (e.key === ' ' && J) { e.preventDefault(); setPlaying(!J.playing); }
   if (J && e.key === 'ArrowRight') gotoStage(J.stage + 1, true); if (J && e.key === 'ArrowLeft') gotoStage(J.stage - 1, true);
 });
@@ -660,7 +669,7 @@ $('#lands').addEventListener('click', e => { const b = e.target.closest('button'
 
 /* ---------- loop ---------- */
 let dirty = true, lastT = performance.now(), poCur = 150;
-const poGoal = () => (document.body.classList.contains('nopanel') ? 0 : Math.min(306, vw * 0.25)) - (card.classList.contains('open') ? Math.min(390, vw * 0.3) : 0);
+const poGoal = () => (document.body.classList.contains('chat') ? Math.min(424, vw * 0.36) : document.body.classList.contains('nopanel') ? 0 : Math.min(306, vw * 0.25)) - (card.classList.contains('open') ? Math.min(390, vw * 0.3) : 0);
 function resize() { vw = window.innerWidth; vh = window.innerHeight; renderer.setSize(vw, vh, false); camera.aspect = vw / vh; camera.setViewOffset(vw, vh, -poCur / 2, 0, vw, vh); camera.updateProjectionMatrix(); for (const m of lineMats) m.resolution.set(vw, vh); dirty = true; }
 window.addEventListener('resize', resize);
 controls.addEventListener('change', () => { dirty = true; });
@@ -684,5 +693,6 @@ async function boot() {
   $('#exv').textContent = S.ex + '×'; $('#ex').value = S.ex;
   requestAnimationFrame(t => { frame(t); document.body.classList.add('ready'); window.__ready = true; });
 }
-window.__api = { S, ITEMS, D, setLand, get LAND() { return LAND; }, select, flyTo, startJourney, stopJourney, setPlaying, gotoStage, home, get J() { return J; }, camera, controls, labels };
+const CHAT = initChat({ ITEMS, D, S, TYPE_NAME, ROLE_NAME, esc, fold, select, showPlaces, landId: () => (LAND ? LAND.id : null), onLayout: () => { dirty = true; } });
+window.__api = { S, ITEMS, D, CHAT, showPlaces, setLand, get LAND() { return LAND; }, select, flyTo, startJourney, stopJourney, setPlaying, gotoStage, home, get J() { return J; }, camera, controls, labels };
 boot().catch(e => { document.body.classList.add('ready'); $('#loading').textContent = 'The map did not load: ' + e.message; console.error(e); });

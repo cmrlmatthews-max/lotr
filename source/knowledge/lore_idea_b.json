@@ -1,0 +1,1470 @@
+[
+ {
+  "id": "lore:idea-b-languages-overview",
+  "title": "The Languages of Middle-earth",
+  "group": "Powers, peoples and ideas",
+  "kind": "Overview of tongues and peoples",
+  "aka": [
+   "Tongues of Middle-earth",
+   "Speech of Middle-earth"
+  ],
+  "blurb": "Middle-earth has many languages: two Elvish tongues, the secret speech of Dwarves, the Common Speech of Men, and the Black Speech of Mordor.",
+  "book": "The Elves spoke two main tongues in the Third Age. Quenya was the ancient High-elven speech of Valinor. Sindarin was the Grey-elven speech of Beleriand and the common Elvish language of Middle-earth in later ages.\n\nThe Dwarves kept their own tongue, Khuzdul, private. They used other languages with outsiders. Men spoke many tongues. The most widespread was Westron, also called the Common Speech. It grew from the language of Númenor and served Men, Hobbits and many others in the west.\n\nSauron made the Black Speech for his servants. He failed in that aim. Orcs had no tongue of their own. They took words from other languages, many from the Black Speech. Their dialects differed so much that they often used the Common Speech between tribes.\n\nThe Ents had a slow, rich language of their own. The Rohirrim spoke Rohirric, and the Dunlendings and Drúedain had other tongues. Tolkien presents the Red Book as a translation. English stands in for Westron, and Old English stands in for Rohirric.\n\nWriting also differed. Elves used the Tengwar, and Dwarves and some others used the Cirth, the runes.\n\nThe books say little of the languages of the far East and South. Tolkien left many of them unnamed.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Elvish": "Quenya and Sindarin",
+   "Common tongue": "Westron",
+   "Dwarvish": "Khuzdul (secret)",
+   "Dark tongue": "Black Speech"
+  },
+  "places": [
+   {
+    "id": "realm:rohan",
+    "role": "other",
+    "note": "The Rohirrim speak a tongue related to the languages of the Northmen."
+   },
+   {
+    "id": "TO084",
+    "role": "other",
+    "note": "Rivendell is a house of Elvish lore and speech."
+   }
+  ],
+  "related": [
+   "people:sindar",
+   "people:noldor",
+   "people:ents",
+   "people:rohirrim",
+   "people:orcs",
+   "people:hobbits"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix F",
+   "The Lord of the Rings, Appendix E",
+   "The Silmarillion, Quenta Silmarillion"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:idea-b-quenya",
+  "title": "Quenya",
+  "group": "Powers, peoples and ideas",
+  "kind": "High-elven language",
+  "aka": [
+   "High-elven",
+   "Elven-latin"
+  ],
+  "blurb": "Quenya is the ancient High-elven language of Valinor, used in the Third Age mainly for lore, ceremony, formal names and song.",
+  "book": "Quenya was the speech of the Noldor and the Vanyar in Valinor. The Noldor carried it back to Middle-earth when they left the Blessed Realm.\n\nIn Beleriand it met trouble. After the Kinslaying at Alqualondë, Thingol forbade its use in his lands. The Noldor then took up Sindarin for daily speech. Quenya survived among them as a language of lore.\n\nBy the Third Age Quenya was no longer a mother tongue in Middle-earth. Elves still sang in it and used it in formal speech. The Dúnedain also kept it. Many Númenórean royal names were Quenya, and Gondor's kings took Quenya throne-names. Aragorn's name Elessar is Quenya.\n\nGaladriel's lament in Lothlórien, Namárië, is in Quenya. Quenya words also appear in the Oath of Elendil, which Aragorn used when he took the crown.\n\nAppendix F calls it a kind of Elven-latin. It was no longer a mother tongue, but it was kept for ceremony, lore and song.\n\nIt is written most often in the Tengwar.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Spoken by": "Noldor and Vanyar of Valinor",
+   "Banned in Beleriand by": "Thingol",
+   "Used in the Third Age for": "lore, song and royal names"
+  },
+  "places": [
+   {
+    "id": "FO017",
+    "role": "other",
+    "note": "Galadriel sings her farewell lament in Quenya here."
+   },
+   {
+    "id": "TO084",
+    "role": "other",
+    "note": "Elrond's house keeps Elvish lore in both High-elven and Grey-elven."
+   }
+  ],
+  "related": [
+   "people:noldor",
+   "person:thingol",
+   "person:galadriel",
+   "person:aragorn",
+   "person:elendil",
+   "person:feanor"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapter 15",
+   "The Lord of the Rings, Appendix F",
+   "The Fellowship of the Ring, Book II, chapter 8",
+   "The Return of the King, Book VI, chapter 5"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:idea-b-sindarin",
+  "title": "Sindarin",
+  "group": "Powers, peoples and ideas",
+  "kind": "Grey-elven language",
+  "aka": [
+   "Grey-elven",
+   "Elvish of Beleriand"
+  ],
+  "blurb": "Sindarin is the Grey-elven language of Beleriand and the everyday Elvish speech of Middle-earth in the Third Age.",
+  "book": "Sindarin grew from the speech of the Elves who stayed in Middle-earth while others went west. In Beleriand it changed a great deal over the long years of the First Age.\n\nThe Noldor learned it quickly after their return. After Thingol banned Quenya, the exiles used Sindarin as their daily language. Later it spread among Elves of Eriador, Lindon and Rivendell.\n\nMany names in the books come from it. Imladris, Lothlórien, Mithrandir and Mordor are Sindarin names. Most place-names of Gondor are Sindarin, because the Dúnedain valued Elvish speech. Few Men used it daily.\n\nSilvan Elves spoke their own older tongues but used Sindarin when talking with the Eldar, with an accent. Legolas and Haldir speak it naturally.\n\nThe book shows Sindarin on the West-gate of Moria. The inscription invites a friend to speak and enter. Gandalf at last sees that the password is simply the Sindarin word for friend.\n\nSindarin appears in both Tengwar and Cirth, depending on who writes it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Origin": "Beleriand, First Age",
+   "Everyday Elvish tongue": "Third Age",
+   "Seen on": "the West-gate of Moria"
+  },
+  "places": [
+   {
+    "id": "DO009",
+    "role": "other",
+    "note": "The Sindarin inscription and password are on the Doors of Durin."
+   },
+   {
+    "id": "TO084",
+    "role": "other",
+    "note": "Elves of Eriador use Sindarin daily here."
+   }
+  ],
+  "related": [
+   "people:sindar",
+   "people:silvan-elves",
+   "person:thingol",
+   "person:gandalf",
+   "person:legolas",
+   "person:haldir"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix F",
+   "The Fellowship of the Ring, Book II, chapter 4",
+   "The Silmarillion, Quenta Silmarillion, chapters 13 and 15"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:idea-b-khuzdul",
+  "title": "Khuzdul",
+  "group": "Powers, peoples and ideas",
+  "kind": "Secret language of the Dwarves",
+  "aka": [
+   "Dwarvish",
+   "Dwarf-tongue"
+  ],
+  "blurb": "Khuzdul is the language of the Dwarves, kept secret from outsiders. Only a few of its words are known in the books.",
+  "book": "The Dwarves say that Aulë, their maker, devised their language before they woke. They treasured it and taught it to no one outside their folk. Dwarves in Middle-earth used other languages with other peoples.\n\nFor this reason the books record very little Khuzdul. Dwarves give outsiders names taken from the speech of Men, usually Northern names. Thorin, Dwalin and Gimli are such outer names. The true names of Dwarves are secret and are never revealed to others.\n\nA few words survive. Khazad means Dwarves, and the old city of Khazad-dûm takes its name from it. Gimli cries a war-shout in Khuzdul at the Hornburg. The Elvish name Belegost for a Dwarf-city of the west stands beside its Dwarvish name, Gabilgathol.\n\nOther Dwarvish place-names are given in the languages of those who named them, such as Moria, Dwarrowdelf and Hadhodrond. Even the Elves knew little of the language.\n\nWhen Dwarves wrote, they used runes, the Cirth, for Khuzdul as well as for the Common Speech. Tombs and records show this.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Made for Dwarves by": "Aulë (Dwarvish tradition)",
+   "Taught to outsiders": "No",
+   "Written in": "Cirth (runes)"
+  },
+  "places": [
+   {
+    "id": "FT016",
+    "role": "other",
+    "note": "Gimli shouts his war-cry in Khuzdul during the defence of the Hornburg."
+   },
+   {
+    "id": "TO066",
+    "role": "other",
+    "note": "The Dwarvish name Khazad-dûm belongs to this realm."
+   }
+  ],
+  "related": [
+   "people:durins-folk",
+   "person:aule",
+   "person:gimli",
+   "person:durin-the-deathless",
+   "person:balin",
+   "thing:book-of-mazarbul"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix F",
+   "The Lord of the Rings, Appendix A (Durin's Folk)",
+   "The Two Towers, Book III, chapter 7",
+   "The Silmarillion, chapter 10"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-b-westron",
+  "title": "Westron (the Common Speech)",
+  "group": "Powers, peoples and ideas",
+  "kind": "Common language of the west",
+  "aka": [
+   "Common Speech",
+   "Common Tongue"
+  ],
+  "blurb": "Westron, the Common Speech, was the main language of Men in the west and was used by Hobbits, Dwarves and others for trade and daily talk.",
+  "book": "Westron grew from Adûnaic, the language of Númenor. In the Second Age it was spoken in the Númenórean forts and havens on the coasts of Middle-earth. There it mixed with the tongues of Men and spread. Over the centuries it became the language that most peoples of the west could understand.\n\nGondor and Arnor spoke it as a native tongue. By the time of the War of the Ring even many Elves understood it. Hobbits spoke a form of it with local words, and Dwarves and Orcs used it with outsiders.\n\nThe Dúnedain of Gondor kept Elvish names for places and persons. They also took many Elvish words into Westron. That gave the Common Speech a mix of Númenórean and Elvish sounds.\n\nTolkien presents the Red Book as a translation from Westron. English stands for it. Tolkien tells us that many names are also translated. Hobbit family names and place names such as Bag End are translations of Westron names. Tolkien says the same of the names of Hobbit months and days.\n\nThe Rohirrim spoke their own language and used Westron with the Gondorians.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Root": "Adûnaic, spoken in the Númenórean havens",
+   "Rendered in English as": "English"
+  },
+  "places": [
+   {
+    "id": "realm:gondor",
+    "role": "other",
+    "note": "Westron became the native tongue of the Men of Gondor."
+   },
+   {
+    "id": "realm:the-shire",
+    "role": "other",
+    "note": "Hobbits spoke Westron with local words and humour."
+   }
+  ],
+  "related": [
+   "people:hobbits",
+   "people:men-of-gondor",
+   "person:elendil",
+   "people:dunedain-of-the-north",
+   "person:ar-pharazon"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix F, 'Of Men'",
+   "The Lord of the Rings, Appendix F, 'On Translation'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-b-black-speech",
+  "title": "The Black Speech",
+  "group": "Powers, peoples and ideas",
+  "kind": "Sauron's language",
+  "aka": [
+   "Language of Mordor",
+   "Orkish tongue"
+  ],
+  "blurb": "The Black Speech is the language that Sauron devised for his servants. Only a few words appear in the books.",
+  "book": "Sauron made the Black Speech in the Dark Years of the Second Age. He wanted all his servants to share one tongue.\n\nHe failed in that aim. Many words of the Black Speech spread among the Orcs, but they twisted them into many dialects. Orcs of different tribes often fell back on the Common Speech to talk with each other.\n\nAfter his first downfall, the ancient form of the Black Speech was forgotten by all but the Nazgûl. Sauron revived it in the Third Age when he rose again in Mordor.\n\nThe best-known example is the verse on the One Ring. It is written in the Elvish script. Gandalf speaks it aloud at the Council of Elrond. His voice turns harsh, a shadow seems to pass over the sun, and the Elves stop their ears. Afterwards Elrond rebukes him, for no one had ever spoken that tongue in Rivendell.\n\nThe books give a few other words. The words Nazgûl and Uruk come from it. Orc names such as Grishnákh and Uglúk have the same harsh sound.\n\nTolkien never tells us everything about the Black Speech.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Maker": "Sauron",
+   "Period": "Dark Years, Second Age",
+   "Best-known text": "The Ring inscription"
+  },
+  "places": [
+   {
+    "id": "FT004",
+    "role": "other",
+    "note": "Barad-dûr is the seat of the lord who made this tongue."
+   },
+   {
+    "id": "TO084",
+    "role": "other",
+    "note": "Gandalf speaks the Ring verse at the Council of Elrond here."
+   }
+  ],
+  "related": [
+   "person:sauron",
+   "thing:one-ring",
+   "people:orcs",
+   "people:nazgul",
+   "person:gandalf",
+   "person:grishnakh"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II, chapter 2",
+   "The Lord of the Rings, Appendix F",
+   "The Two Towers, Book III, chapter 3"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-b-rohirric-and-men-tongues",
+  "title": "The Tongue of Rohan and Other Languages of Men",
+  "group": "Powers, peoples and ideas",
+  "kind": "Languages of Men",
+  "aka": [
+   "Rohirric",
+   "Tongues of Men"
+  ],
+  "blurb": "The Rohirrim spoke Rohirric, a tongue like the speech of the Northmen. Other Men had Dunlending, Drúedain and Southron languages.",
+  "book": "The Rohirrim spoke Rohirric. It was related to the languages of the Northmen of the Anduin vales, from whom they came. They used the Common Speech with the Men of Gondor, though they kept their own speech in the Mark.\n\nTolkien makes Rohirric look like Old English, and he treats the Rohirrim names as English. Théoden, Éomer, Meduseld and Edoras are in this style. Théoden calls the Hobbits holbytlan, hole-builders. Appendix F treats the word hobbit as a worn-down form of a Rohirric word of this kind.\n\nThe men of Dale used names that look like Old Norse. Bard and Brand are examples. Beorn belongs to the same group of northern Men.\n\nThe Dunlendings spoke their own tongue and hated the Rohirrim. The Drúedain, the Wild Men of the Drúadan Forest, had their own speech. Ghân-buri-Ghân speaks the Common Speech only haltingly.\n\nThe Men of Harad and the Easterlings used other languages. Tolkien does not name them, and he gives almost nothing of their words.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Style in the books": "Old English for Rohirric",
+   "Related speech": "Northmen of the Anduin vales"
+  },
+  "places": [
+   {
+    "id": "TO029",
+    "role": "other",
+    "note": "Edoras and Meduseld carry Rohirric names rendered in an Old English style."
+   },
+   {
+    "id": "realm:dunland",
+    "role": "other",
+    "note": "The Dunlendings kept their own tongue."
+   }
+  ],
+  "related": [
+   "people:rohirrim",
+   "people:dunlendings",
+   "people:druedain",
+   "person:theoden",
+   "person:eomer",
+   "people:men-of-dale-and-the-lake"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix F",
+   "The Two Towers, Book III, chapter 8",
+   "The Lord of the Rings, Appendix A (The House of Eorl)",
+   "The Return of the King, Book V, chapter 5"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-b-tengwar",
+  "title": "The Tengwar",
+  "group": "Powers, peoples and ideas",
+  "kind": "Elvish script",
+  "aka": [
+   "Elvish letters",
+   "Fëanorian letters",
+   "Tengwar of Fëanor"
+  ],
+  "blurb": "The Tengwar is the flowing Elvish script that Fëanor designed. It is used for many languages and appears on the Ring and the Doors of Durin.",
+  "book": "The Tengwar were devised by Fëanor in Valinor. He built on the older letters of Rúmil of Tirion, which were never used in Middle-earth. The exiled Noldor brought the Fëanorian letters to Middle-earth.\n\nThe script is systematic. Letters are formed from a stem and a bow, and families of related letters form series. The shape of a letter shows its place in the sound system. This is not an alphabet in the Latin sense. It is a scheme designed by a loremaster.\n\nIn many modes, vowels are marked by small signs placed above the consonants. Writers can adapt the same letters to different languages, which are called modes. Elvish, Westron and even the Black Speech were written in it in the Third Age.\n\nThe Ring inscription is in Tengwar. So is the writing on the West-gate of Moria. It is drawn in ithildin, which shows only under the light of the moon and the stars.\n\nThe Tengwar suited pen and brush. The Cirth were made mainly for carving, and the Dwarves often used them.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Inventor": "Fëanor",
+   "Earlier script": "The letters of Rúmil",
+   "Used for": "Quenya, Sindarin, Westron and the Black Speech"
+  },
+  "places": [
+   {
+    "id": "DO009",
+    "role": "other",
+    "note": "The Doors of Durin carry an inscription in Tengwar."
+   },
+   {
+    "id": "TO084",
+    "role": "other",
+    "note": "The Ring inscription is read in Elrond's hall."
+   }
+  ],
+  "related": [
+   "person:feanor",
+   "thing:one-ring",
+   "people:noldor",
+   "person:gandalf",
+   "person:celebrimbor"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix E",
+   "The Silmarillion, Quenta Silmarillion, chapter 6",
+   "The Fellowship of the Ring, Book II, chapters 2 and 4"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:idea-b-cirth",
+  "title": "The Cirth (Runes)",
+  "group": "Powers, peoples and ideas",
+  "kind": "Runic script of Elves and Dwarves",
+  "aka": [
+   "Runes",
+   "Angerthas",
+   "Daeron's runes"
+  ],
+  "blurb": "The Cirth are the angular runes devised in Beleriand and later adopted by the Dwarves. They are used mainly for carving and inscriptions.",
+  "book": "The Cirth were first devised by the Sindar of Beleriand to write Sindarin. Daeron, the minstrel and loremaster of Doriath, later arranged and enlarged them. That fuller form is called the Alphabet of Daeron. It was later used and enlarged in Eregion.\n\nThe Dwarves of Moria took the runes and adapted them for their own tongue. Dwarvish loremasters rearranged the signs. These forms are called the runes of Moria, and Dwarves across Middle-earth used them.\n\nBecause the Cirth are angular, they are well suited to carving on stone, wood and metal. The Dwarves used them on tombs, in books and on maps. Balin's tomb in Moria bears a Cirth inscription.\n\nThe Book of Mazarbul is written in runes of Moria and of Dale, with Elvish letters here and there. The mixture shows that the Dwarves of the colony used both scripts. Thrór's Map shows runes too. Elrond reads its moon letters, which show only when a moon of the same shape and season shines behind them.\n\nElves later preferred the Tengwar.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Inventor": "The Sindar; enlarged by Daeron of Doriath",
+   "Dwarvish form": "Angerthas Moria",
+   "Used for": "Carved inscriptions and maps"
+  },
+  "places": [
+   {
+    "id": "GR001",
+    "role": "other",
+    "note": "Balin's tomb bears an inscription in the runes of Moria."
+   },
+   {
+    "id": "BU034",
+    "role": "other",
+    "note": "The Book of Mazarbul was found in this chamber of Moria."
+   }
+  ],
+  "related": [
+   "person:daeron",
+   "person:gandalf",
+   "thing:book-of-mazarbul",
+   "thing:thrors-map",
+   "person:balin",
+   "people:durins-folk"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix E",
+   "The Hobbit, chapter 3",
+   "The Fellowship of the Ring, Book II, chapters 4 and 5"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-b-shire-reckoning",
+  "title": "Shire Reckoning and the Shire Calendar",
+  "group": "Powers, peoples and ideas",
+  "kind": "Calendar of the Hobbits",
+  "aka": [
+   "S.R.",
+   "Hobbit calendar",
+   "Shire calendar"
+  ],
+  "blurb": "Hobbits counted years from the founding of the Shire. Their calendar had twelve thirty-day months and a few extra holidays.",
+  "book": "Shire Reckoning counts years from the settlement of the Shire in T.A. 1601. That year is S.R. 1. The brothers Marcho and Blanco led the Hobbits across the Brandywine with the permission of the King at Fornost. So T.A. 3018 is S.R. 1418, the year Frodo left Bag End. Bilbo's farewell party was in S.R. 1401, or T.A. 3001.\n\nThe year has twelve months of thirty days each. Their names are Afteryule, Solmath, Rethe, Astron, Thrimidge, Forelithe, Afterlithe, Wedmath, Halimath, Winterfilth, Blotmath and Foreyule.\n\nFive extra days fall outside the months. Two Yule days mark the end of one year and the start of the next. Three Lithe days stand at midsummer. The middle one is Midyear's Day. A leap year adds the Overlithe after Midyear's Day.\n\nThe week has seven days, called Sterday, Sunday, Monday, Trewsday, Hevensday, Mersday and Highday. Highday is the last and chief day of the week. It is a holiday from noon, with feasts in the evening.\n\nMidyear's Day and the Overlithe have no weekday. So each year begins on the same day of the week, and a given date always falls on the same weekday.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "S.R. 1": "T.A. 1601",
+   "Months": "12 of 30 days",
+   "Extra days": "Yule, Lithe days and the Overlithe in leap years"
+  },
+  "places": [
+   {
+    "id": "realm:the-shire",
+    "role": "other",
+    "note": "Shire Reckoning begins with the founding of the Shire."
+   },
+   {
+    "id": "TO035",
+    "role": "other",
+    "note": "The King's seat at Fornost gave the Hobbits leave to settle."
+   }
+  ],
+  "related": [
+   "people:hobbits",
+   "person:bilbo-baggins",
+   "person:frodo-baggins",
+   "realm:the-shire",
+   "realm:arnor"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix D",
+   "The Lord of the Rings, Prologue, 'Concerning Hobbits'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-b-calendars-elves-kings-stewards",
+  "title": "The Calendars of the Elves, the Kings and the Stewards",
+  "group": "Powers, peoples and ideas",
+  "kind": "Calendars in the Appendices",
+  "aka": [
+   "Kings' Reckoning",
+   "Stewards' Reckoning",
+   "Elvish calendar"
+  ],
+  "blurb": "Appendix D describes three older calendars: the Elvish one, the Reckoning of the Kings used in Númenor and Arnor, and the Stewards' Reckoning of Gondor.",
+  "book": "The Elves counted time in long spans. A yén was a period of 144 solar years. Their solar year, the loa, had six seasons: tuilë, lairë, yávië, quellë, hrívë and coirë. The Elvish week, the enquië, had six days.\n\nThe Númenóreans used the Reckoning of the Kings. It was kept in Númenor and later in Arnor and Gondor. It has a seven-day week and twelve months with Quenya names, such as Narvinyë, Nénimë and Súlimë. Ten months had thirty days and two had thirty-one. Three more days stood outside the months: one at the start of the year, one at midsummer and one at the end. That makes 365 days. In a leap year the midsummer day was doubled.\n\nIn Gondor the Stewards later adopted a revised calendar, the Stewards' Reckoning. In it every month had thirty days. Two new days outside the months were added, one in spring and one in autumn. Mardil, the first Ruling Steward, is linked with the change. Most users of the Common Speech adopted it, but the Hobbits did not.\n\nAfter the fall of Sauron, the restored kingdom began the New Reckoning. It returned to the Kings' Reckoning, but its year began in spring, on 25 March by the old count, in memory of Sauron's downfall.\n\nThe Shire kept its own calendar, which had grown out of the Kings' Reckoning.\n\nAppendix D gives full tables for anyone who wishes to compare the systems.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Elvish span": "Yén of 144 years",
+   "Elvish week": "Six days",
+   "Kings' year": "365 days, seven-day week",
+   "New Reckoning begins": "25 March (old style)"
+  },
+  "places": [
+   {
+    "id": "TO065",
+    "role": "other",
+    "note": "Gondor used the Stewards' Reckoning from this city."
+   },
+   {
+    "id": "TO084",
+    "role": "other",
+    "note": "Elrond's house kept the Elvish lore of the calendar."
+   }
+  ],
+  "related": [
+   "person:aragorn",
+   "person:mardil-voronwe",
+   "person:elendil",
+   "people:dunedain-of-the-north"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix D"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-b-hobbit-customs",
+  "title": "Customs of Hobbits",
+  "group": "Powers, peoples and ideas",
+  "kind": "Hobbit habits and traditions",
+  "aka": [
+   "Hobbit manners",
+   "Hobbit ways"
+  ],
+  "blurb": "Hobbits love gifts, good food and comfort. Their customs include birthday presents, mathoms, round homes and many meals.",
+  "book": "Hobbits give presents on their own birthdays. The host hands them out to the guests. Bilbo's eleventy-first birthday party was famous for its gifts.\n\nA mathom is an object that has no clear use but that nobody wishes to throw away. Hobbits pass them on as gifts. The Mathom-house at Michel Delving held many that were never given away.\n\nHobbits like homes with round doors and windows, all on one floor, dug into banks and hillsides. Such a home is called a smial. Bag End in Hobbiton and the Great Smials of Tuckborough are examples. By the time of the story many Hobbits lived in ordinary houses.\n\nMeals matter greatly. The Prologue says Hobbits like six meals a day when they can get them.\n\nHobbits also keep long family records. They are fond of pipe-weed, beer and tales of their forebears. Most prefer not to go far from home.\n\nThey laugh easily, they go barefoot, and most of them distrust adventures.",
+  "film": "In the 2001 film Pippin asks about second breakfast, and Merry adds elevenses, luncheon, afternoon tea, dinner and supper.",
+  "series": "",
+  "facts": {
+   "Birthday": "The host gives presents",
+   "Meals": "Six a day when possible"
+  },
+  "places": [
+   {
+    "id": "BU030",
+    "role": "lived",
+    "note": "Bag End is the best-known Hobbit smial."
+   },
+   {
+    "id": "BU069",
+    "role": "kept",
+    "note": "The Mathom-house stores unwanted gifts and curiosities."
+   },
+   {
+    "id": "BU052",
+    "role": "lived",
+    "note": "The Great Smials is the Took family's huge home."
+   },
+   {
+    "id": "TO061",
+    "role": "other",
+    "note": "The Mathom-house stands in the chief town of the Shire."
+   }
+  ],
+  "related": [
+   "people:hobbits",
+   "person:bilbo-baggins",
+   "person:peregrin-took",
+   "person:meriadoc-brandybuck",
+   "thing:pipe-weed"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue, 'Concerning Hobbits'",
+   "The Fellowship of the Ring, Book I, chapters 1 and 2",
+   "The Hobbit, chapter 1"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-b-government-of-the-shire",
+  "title": "The Government of the Shire",
+  "group": "Powers, peoples and ideas",
+  "kind": "Offices and officers of the Shire",
+  "aka": [
+   "Thain",
+   "Mayor of Michel Delving",
+   "Shirriffs"
+  ],
+  "blurb": "The Shire has a Thain, a Mayor, the Master of Buckland, Shirriffs and Bounders. Few laws are enforced, and most Hobbits keep to old customs.",
+  "book": "The Shire has little government. Hobbits obey the old Rules, which are mostly customs from the days of the King.\n\nThe Thain held the authority of the vanished King. The office passed from the Oldbucks to the Tooks. The Thain was master of the Shire-moot and captain of the Shire-muster and the Hobbitry-in-arms. These met only in emergencies, so by Bilbo's time the office was mostly a title.\n\nThe Mayor of Michel Delving was the only real official. He was elected every seven years at the Free Fair on the White Downs at Midsummer. He presided at banquets on Shire holidays. He was also Postmaster and First Shirriff.\n\nBuckland is part of the Shire but has its own ruler, the Master of Buckland, who is a Brandybuck.\n\nThe Shirriffs are the police. There were twelve, three in each Farthing. They dealt more with stray beasts than with people. A larger body, the Bounders, beat the bounds and kept Outsiders from making a nuisance of themselves.\n\nIn Frodo's time, Lotho's men misuse these offices. The Shirriffs become his police, and the Hobbits must rise to restore order.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Thain": "Took family (earlier the Oldbucks)",
+   "Mayor elected": "Every seven years at the Free Fair, at Midsummer",
+   "Shirriffs": "Twelve, three per Farthing"
+  },
+  "places": [
+   {
+    "id": "TO061",
+    "role": "other",
+    "note": "The Mayor lives and works in Michel Delving."
+   },
+   {
+    "id": "BU075",
+    "role": "other",
+    "note": "Shirriff-houses serve as the Shirriffs' lodgings."
+   },
+   {
+    "id": "NP046",
+    "role": "ruled",
+    "note": "The Master of Buckland rules this land."
+   },
+   {
+    "id": "BU032",
+    "role": "ruled",
+    "note": "Brandy Hall is the seat of the Master of Buckland."
+   }
+  ],
+  "related": [
+   "people:hobbits",
+   "person:paladin-took",
+   "person:saradoc-brandybuck",
+   "person:will-whitfoot",
+   "person:lotho-sackville-baggins"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue, 'Of the Ordering of the Shire'",
+   "The Return of the King, Book VI, chapter 8"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-b-three-kinds-of-hobbits",
+  "title": "The Three Kinds of Hobbits",
+  "group": "Powers, peoples and ideas",
+  "kind": "Harfoots, Stoors and Fallohides",
+  "aka": [
+   "Harfoots",
+   "Stoors",
+   "Fallohides"
+  ],
+  "blurb": "Hobbits came in three kinds. Harfoots were the commonest, Stoors loved rivers and Fallohides were fair, tall and fond of Elves.",
+  "book": "Hobbits of the Third Age were descended from three groups: Harfoots, Stoors and Fallohides. They moved from the Anduin vales into Eriador in stages. Appendix B dates the Harfoots there about T.A. 1050, and the Fallohides and Stoors about T.A. 1150. By the time of the story the kinds had mixed.\n\nHarfoots were small, brown and beardless. They went barefoot and lived in hills and holes. They were the most numerous and the first to cross the mountains.\n\nStoors were broader and heavier than the others. They preferred river country and boats, and they were more at ease with Men. Some wore boots in muddy lands. Gandalf guesses that Gollum's people were akin to the Stoors. They lived by the river near the Gladden Fields.\n\nFallohides were fairer and taller, and slimmer too. They liked woods and had friendships with Elves. They were bolder than other Hobbits and often became leaders. The Tooks and the Masters of Buckland have a strong Fallohide strain.\n\nThe Shire holds a mix of all three. Stoors lingered long in the Angle and in Dunland. Some later went back east to the Wild, and others moved west.\n\nAppendix and Prologue give no exact count of any group.",
+  "film": "",
+  "series": "The Rings of Power shows Harfoots as a nomadic folk who travel with the seasons.",
+  "facts": {
+   "Harfoots": "Small, brown, beardless, hill-dwellers",
+   "Stoors": "Broad, river folk",
+   "Fallohides": "Fair, tall, friends of Elves"
+  },
+  "places": [
+   {
+    "id": "SW006",
+    "role": "lived",
+    "note": "The Stoor-kin Sméagol lived near the Gladden Fields."
+   },
+   {
+    "id": "NP040",
+    "role": "lived",
+    "note": "Stoors lived in the Angle between two rivers."
+   },
+   {
+    "id": "realm:the-shire",
+    "role": "lived",
+    "note": "The three kinds mixed in the Shire."
+   }
+  ],
+  "related": [
+   "people:hobbits",
+   "person:gollum",
+   "person:deagol",
+   "person:peregrin-took",
+   "person:bilbo-baggins"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue, 'Concerning Hobbits'",
+   "The Lord of the Rings, Appendix B (The Third Age)",
+   "The Fellowship of the Ring, Book I, chapter 2"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-b-dunedain-descent-and-rangers",
+  "title": "Dúnedain: Descent, Long Life and the Rangers",
+  "group": "Powers, peoples and ideas",
+  "kind": "Men of Númenórean blood",
+  "aka": [
+   "Men of the West",
+   "Númenóreans in exile",
+   "Rangers of Ithilien"
+  ],
+  "blurb": "The Dúnedain descend from the Men of Númenor. They lived long, kept lore, and served as kings, stewards and Rangers.",
+  "book": "The Dúnedain are the descendants of the Edain, the Men who helped the Elves against Morgoth and were rewarded with the island of Númenor. After its Downfall in S.A. 3319, Elendil and his sons came to Middle-earth and founded Arnor and Gondor.\n\nThe Dúnedain lived much longer than other Men, but the gift faded in later generations. Aragorn, who is of the line of Isildur, lived to be 210 in the Fourth Age. They also became fewer and mixed with lesser Men, and their wisdom declined in Gondor.\n\nIn the Third Age, the Rangers of the North kept watch in Eriador. They were the remnant of Arnor, hidden from most Hobbits and Men, and they guarded the Shire without being known. Their lords were the Chieftains, from Aranarth to Aragorn.\n\nIn the south, the Rangers of Ithilien held Gondor's land east of the Anduin. Faramir led them and was known as their captain. They hid in the woods and ambushed servants of Mordor from places such as Henneth Annûn.\n\nDúnedain of both kingdoms spoke Westron but valued Elvish. They were proud and watchful.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Origin": "Númenor; Elendil came to Middle-earth after the Downfall in S.A. 3319",
+   "Aragorn's lifespan": "210 years (Appendix A)"
+  },
+  "places": [
+   {
+    "id": "realm:arnor",
+    "role": "ruled",
+    "note": "Arnor was the northern kingdom founded by Elendil."
+   },
+   {
+    "id": "realm:gondor",
+    "role": "ruled",
+    "note": "Gondor was the southern kingdom of the Dúnedain."
+   },
+   {
+    "id": "CA008",
+    "role": "other",
+    "note": "The Rangers of Ithilien use this hidden refuge."
+   },
+   {
+    "id": "realm:ithilien",
+    "role": "lived",
+    "note": "Faramir's Rangers hold Ithilien against Mordor."
+   }
+  ],
+  "related": [
+   "person:elendil",
+   "person:aragorn",
+   "person:faramir",
+   "person:isildur",
+   "person:halbarad",
+   "people:dunedain-of-the-north"
+  ],
+  "sources": [
+   "The Silmarillion, Akallabêth",
+   "The Lord of the Rings, Appendix A",
+   "The Two Towers, Book IV, chapters 4 to 6"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-b-government-of-gondor",
+  "title": "The Government of Gondor",
+  "group": "Powers, peoples and ideas",
+  "kind": "Kings, Stewards, beacons and guards",
+  "aka": [
+   "Stewards of Gondor",
+   "Beacons of Gondor",
+   "Tower Guard"
+  ],
+  "blurb": "Gondor was ruled by kings of Anárion's line and then by Ruling Stewards. Beacons warned of war, and the Tower Guard watched the Citadel.",
+  "book": "Gondor was founded in S.A. 3320 by Elendil's sons Isildur and Anárion. Kings of Anárion's line ruled it, first from Osgiliath and from T.A. 1640 from Minas Anor. The line failed in T.A. 2050, when Eärnur rode to Minas Morgul and did not return.\n\nAfter that the Stewards ruled in the name of the king. The first Ruling Steward was Mardil Voronwë. The Stewards were of the House of Húrin, and the office usually passed from father to son. They held the white rod of office. They never sat on the throne but ruled from a plain black chair below it, in the name of the king until he should return. Their banner was plain white.\n\nThe realm was divided into fiefs. Great lords governed them, such as the Prince of Dol Amroth, the lords of Lamedon and Lossarnach, and the lord of Pinnath Gelin. Each owed service to the Steward.\n\nBeacons stood on hills along the White Mountains. The lighting of one signalled war. Seven are named: Amon Dîn, Eilenach, Nardol, Erelas, Min-Rimmon, Calenhad and Halifirien. The chain carried the call from Minas Tirith west toward Rohan.\n\nThe Guards of the Citadel wore black, marked with a white tree beneath a silver crown and stars. Some kept watch by the White Tree in the Court of the Fountain. Beregond was one of them.",
+  "film": "In the film, Pippin lights the first beacon in Minas Tirith, and the beacons are shown being lit as a chain.",
+  "series": "",
+  "facts": {
+   "Kings ended": "T.A. 2050 (Eärnur)",
+   "First Ruling Steward": "Mardil Voronwë",
+   "Beacon hills named": "Seven"
+  },
+  "places": [
+   {
+    "id": "TO065",
+    "role": "ruled",
+    "note": "The Kings and later the Stewards ruled Gondor from this city."
+   },
+   {
+    "id": "BU085_66",
+    "role": "other",
+    "note": "Amon Dîn is the first beacon seen from Minas Tirith."
+   },
+   {
+    "id": "NP025",
+    "role": "other",
+    "note": "Min-Rimmon is a beacon on the road to Rohan."
+   },
+   {
+    "id": "BU085_54",
+    "role": "other",
+    "note": "Halifirien is the last beacon before Rohan."
+   },
+   {
+    "id": "MT060",
+    "role": "other",
+    "note": "Calenhad carries the beacon-call westward."
+   }
+  ],
+  "related": [
+   "person:mardil-voronwe",
+   "person:denethor-ii",
+   "person:earnur",
+   "person:beregond",
+   "person:imrahil",
+   "realm:gondor"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A (Gondor and the Heirs of Anárion)",
+   "The Return of the King, Book V, chapters 1 and 4"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-b-rohan-customs-army",
+  "title": "The Customs and Army of Rohan",
+  "group": "Powers, peoples and ideas",
+  "kind": "Riders and traditions of the Mark",
+  "aka": [
+   "Riders of Rohan",
+   "Marshals of the Mark",
+   "Éored"
+  ],
+  "blurb": "The Rohirrim fight as horsemen in companies called éoreds, under Marshals of the Mark. They bury their kings in grassy mounds.",
+  "book": "The army of Rohan was a force of mounted spearmen and archers. Its basic unit was the éored, a company of riders who served under a captain. In war they rode with the king and his captains.\n\nThe king commanded his Riders through marshals. Éomer and Elfhelm held the title Marshal of the Mark. The Master of the Westfold, like Erkenbrand, led the men of the west.\n\nThe Rohirrim loved horses and ranked them with honour. Their finest were the Mearas, which would bear only the King of the Mark or his sons, until Shadowfax. Eorl's horse Felaróf was the first of them known to Men. Shadowfax, of the same breed, chose Gandalf as his rider.\n\nThe kings of the Mark were buried in mounds, in two lines beside the road below Edoras. The mounds were covered with simbelmynë, a white flower that bloomed all year. The people called it Evermind.\n\nRiders who fell on the Pelennor were buried there in a mound. Théoden fell in that battle. His body lay first in Minas Tirith and was later carried home and laid in a mound at Edoras.\n\nThe kings held court in Meduseld, the golden hall of Edoras.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Basic unit": "Éored",
+   "Officers": "Marshals of the Mark, Master of the Westfold",
+   "Burial": "Mounds with simbelmynë"
+  },
+  "places": [
+   {
+    "id": "TO029",
+    "role": "lived",
+    "note": "Edoras is the capital of Rohan."
+   },
+   {
+    "id": "BU070",
+    "role": "other",
+    "note": "Meduseld is the golden hall of the kings."
+   },
+   {
+    "id": "GR003",
+    "role": "buried",
+    "note": "Barrowfield holds the burial mounds of the kings of the Mark."
+   },
+   {
+    "id": "GR016",
+    "role": "buried",
+    "note": "The Mound of Riders on the Pelennor holds fallen Rohirrim."
+   },
+   {
+    "id": "NP026",
+    "role": "buried",
+    "note": "Snowmane's Howe on the Pelennor holds Théoden's horse."
+   }
+  ],
+  "related": [
+   "people:rohirrim",
+   "person:eomer",
+   "person:elfhelm",
+   "person:erkenbrand",
+   "person:theoden",
+   "thing:simbelmyne",
+   "person:shadowfax",
+   "person:felarof"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A (The House of Eorl)",
+   "The Two Towers, Book III, chapters 2 and 6",
+   "The Return of the King, Book V, chapters 5 and 6; Book VI, chapter 6"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-b-dwarves-houses-names-durins-day",
+  "title": "The Dwarves: Houses, Secret Names and Durin's Day",
+  "group": "Powers, peoples and ideas",
+  "kind": "Dwarvish society and lore",
+  "aka": [
+   "Seven Fathers of the Dwarves",
+   "Durin's Day",
+   "Dwarf-women"
+  ],
+  "blurb": "Dwarves came from seven Fathers, hide their true names, keep Durin's Day as their New Year, and have few women.",
+  "book": "The Dwarves say that Aulë made seven Fathers, from whom seven Houses came. Durin's was the eldest, the Longbeards, who founded Khazad-dûm. The Lord of the Rings and The Silmarillion do not name the other six Houses. Names for them appear only in late notes by Tolkien published outside these books.\n\nEvery Dwarf has a secret true name, which he does not speak to outsiders. He is known by an outer name taken from the speech of Men. Even on a tomb the true name is not shown.\n\nDurin's Day is the first day of the Dwarves' New Year. It falls when the last moon of autumn and the sun are in the sky together. Thrór's map said that the last light of the sun on Durin's Day would show the keyhole of the secret door of Erebor. On that evening Thorin's company found it.\n\nGimli said that dwarf-women are few, probably no more than a third of the people. They look and dress much like the men, and they seldom travel. Many dwarf-men never marry, so the race grows slowly. Dís, the sister of Thorin, is the only dwarf-woman named in these histories.\n\nThe books show Dwarves laid in tombs of stone. Balin lies in a stone tomb in Moria. Thorin is buried deep beneath the Mountain with the Arkenstone on his breast.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Houses": "Seven",
+   "Women": "No more than a third of the people",
+   "Durin's Day": "First day of the Dwarves' year"
+  },
+  "places": [
+   {
+    "id": "MT029",
+    "role": "other",
+    "note": "The secret door of Erebor opened on Durin's Day."
+   },
+   {
+    "id": "TO066",
+    "role": "lived",
+    "note": "The Longbeards of Durin founded this great realm."
+   },
+   {
+    "id": "HI037",
+    "role": "lived",
+    "note": "Some of Durin's Folk later settled in the Iron Hills."
+   }
+  ],
+  "related": [
+   "people:durins-folk",
+   "person:aule",
+   "person:durin-the-deathless",
+   "person:thorin-oakenshield",
+   "person:dis",
+   "thing:thrors-map"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A (Durin's Folk)",
+   "The Lord of the Rings, Appendix F",
+   "The Hobbit, chapters 3, 11 and 18",
+   "The Silmarillion, chapter 2"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-b-faithful-kings-men-black-numenoreans",
+  "title": "The Faithful, the King's Men and the Black Númenóreans",
+  "group": "Powers, peoples and ideas",
+  "kind": "Parties of Númenor",
+  "aka": [
+   "King's Men",
+   "Faithful of Númenor",
+   "Black Númenóreans"
+  ],
+  "blurb": "Númenor divided into the Faithful, who honoured the Valar and Elves, and the King's Men, who defied them. Black Númenóreans served Sauron.",
+  "book": "In later Númenor the people split. The Faithful stayed friends of the Elves and honoured the Valar. They were a small group, living mostly in the west of the island until the kings moved many of them east. Elendil and his sons belonged to them.\n\nThe King's Men were the opposing party. They were proud, feared death, and resented the Ban of the Valar. They followed the kings who grew hostile to the Elves, and Ar-Pharazôn made them powerful. They oppressed the Faithful. At the urging of Sauron, Ar-Pharazôn had the White Tree Nimloth cut down and burned.\n\nWhen Ar-Pharazôn led a fleet against Valinor, Númenor was drowned. The Faithful who had prepared ships escaped to Middle-earth. Some King's Men already held havens on the coasts, such as Umbar.\n\nSome of these Númenóreans in Middle-earth became the Black Númenóreans. They served Sauron and hated the Faithful. Their lords held Umbar against Gondor until Gondor took it in T.A. 933. The Mouth of Sauron is described as one of their race.\n\nTolkien uses these names for the two sides of the old quarrel and for its heirs in Middle-earth.",
+  "film": "",
+  "series": "The Rings of Power shows Númenor divided between those who welcome the Elves and those who distrust them.",
+  "facts": {
+   "Downfall of Númenor": "S.A. 3319",
+   "Faithful's leader": "Elendil"
+  },
+  "places": [
+   {
+    "id": "TO081",
+    "role": "other",
+    "note": "Pelargir was a haven built by the Faithful on the Anduin."
+   }
+  ],
+  "related": [
+   "person:elendil",
+   "person:amandil",
+   "person:ar-pharazon",
+   "thing:nimloth",
+   "person:mouth-of-sauron",
+   "person:sauron"
+  ],
+  "sources": [
+   "The Silmarillion, Akallabêth",
+   "The Lord of the Rings, Appendix A",
+   "The Return of the King, Book V, chapter 10"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-b-wainriders-balchoth-variags",
+  "title": "Wainriders, Balchoth and Variags",
+  "group": "Powers, peoples and ideas",
+  "kind": "Eastern enemies of Gondor",
+  "aka": [
+   "Easterling tribes",
+   "Men of Khand",
+   "Wain-riders"
+  ],
+  "blurb": "Eastern tribes pressed on Gondor for centuries. The Wainriders, the Balchoth and the Variags of Khand were named foes.",
+  "book": "The Easterlings came out of Rhûn in waves. The Wainriders began to attack Gondor in T.A. 1851. They were a league of tribes who travelled in great wains. In T.A. 1856 King Narmacil II fell in battle, Gondor lost its eastern lands, and the Northmen of Rhovanion were overrun.\n\nThe Wainriders attacked again in T.A. 1944. King Ondoher and his sons died in the fighting. Eärnil, captain of the Southern Army, then overthrew the enemy in their camp and drove the survivors into the Dead Marshes. He became king as Eärnil II.\n\nThe Balchoth were another Easterling people, wild and numerous. In T.A. 2510 they crossed the Anduin in boats and on rafts and drove the army of Gondor back onto the Field of Celebrant. Eorl and the Riders of the Éothéod came at Cirion's call and won the battle. Cirion then gave them Calenardhon, which became Rohan.\n\nThe Variags of Khand were Men of Khand, a land south-east of Mordor. They fought as allies of Mordor in the War of the Ring. At the Pelennor they appear with Southrons and Easterlings.\n\nThe books say little about their gods, tongues or homes.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Wainrider attacks begin": "T.A. 1851",
+   "Narmacil II falls": "T.A. 1856",
+   "Eärnil's victory": "T.A. 1944",
+   "Balchoth defeated": "T.A. 2510"
+  },
+  "places": [
+   {
+    "id": "SW002",
+    "role": "fought",
+    "note": "Eärnil drove the Wainriders into the Dead Marshes."
+   },
+   {
+    "id": "FI009",
+    "role": "fought",
+    "note": "The Field of Celebrant was the site of the Balchoth's defeat."
+   },
+   {
+    "id": "realm:rhun",
+    "role": "lived",
+    "note": "The Easterlings came out of the lands of Rhûn."
+   },
+   {
+    "id": "battle:pelennor",
+    "role": "fought",
+    "note": "Easterlings and Variags marched with Sauron's host here."
+   }
+  ],
+  "related": [
+   "people:easterlings",
+   "person:earnil-ii",
+   "person:cirion",
+   "person:eorl-the-young",
+   "battle:field-of-celebrant",
+   "realm:rhun"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A (Gondor and the Heirs of Anárion)",
+   "The Return of the King, Book V, chapters 4 and 6"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-b-haradrim-and-mumakil",
+  "title": "The Haradrim and the Mûmakil",
+  "group": "Powers, peoples and ideas",
+  "kind": "Southern Men and war-beasts",
+  "aka": [
+   "Southrons",
+   "Oliphaunts",
+   "Mumakil"
+  ],
+  "blurb": "The Haradrim are the southern Men who fought for Sauron. They brought the mûmakil, huge war-beasts, to the Pelennor Fields.",
+  "book": "The Haradrim are the Men of Harad, in the south of Middle-earth. Gondor called them Southrons and often fought them. Near Harad lies close to Gondor's southern border. Far Harad is a remote land.\n\nMost Haradrim served Sauron in the War of the Ring. In Ithilien, Faramir's Rangers ambush a column of Southrons on the road to Mordor. Sam sees a dead Southron and wonders about his life and home.\n\nThe mûmakil, which Sam calls oliphaunts, are huge beasts of Harad. Each carries a tower of fighters on its back. Their size and strength shake any line of battle. Sam knows a rhyme about them, and then he sees one.\n\nAt the Pelennor Fields the mûmakil advance with the army of Mordor. Horses fear them, and the Rohirrim cannot easily charge them. In the end the mûmakil are slain or driven off. The chieftain of the Haradrim rides under a black serpent on scarlet. Théoden kills him.\n\nThe books give few details about Haradrim customs, gods or cities. Tolkien leaves most of the far South untold.",
+  "film": "In the films the mûmakil are huge elephant-like beasts, and Legolas climbs one and brings it down with his arrows.",
+  "series": "",
+  "facts": {
+   "Beast": "Mûmak, plural mûmakil",
+   "Banner": "Black serpent on scarlet"
+  },
+  "places": [
+   {
+    "id": "realm:harad",
+    "role": "lived",
+    "note": "The Haradrim come from the lands south of Gondor."
+   },
+   {
+    "id": "battle:pelennor",
+    "role": "fought",
+    "note": "The mûmakil fight here on the side of Mordor."
+   },
+   {
+    "id": "NP033",
+    "role": "fought",
+    "note": "Faramir's men ambush Southrons in South Ithilien."
+   }
+  ],
+  "related": [
+   "people:haradrim",
+   "person:samwise-gamgee",
+   "person:faramir",
+   "person:theoden",
+   "battle:pelennor",
+   "realm:harad"
+  ],
+  "sources": [
+   "The Two Towers, Book IV, chapters 3 and 4",
+   "The Return of the King, Book V, chapters 4 and 6"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-b-corsairs-of-umbar",
+  "title": "The Corsairs of Umbar",
+  "group": "Powers, peoples and ideas",
+  "kind": "Sea-raiders of the south",
+  "aka": [
+   "Corsairs",
+   "Pirates of Umbar"
+  ],
+  "blurb": "The Corsairs of Umbar descended from the rebels of the Kin-strife. They raided Gondor's coasts for centuries and joined Sauron's war.",
+  "book": "Umbar was a Númenórean haven in the south. In T.A. 1432 a civil war began in Gondor, called the Kin-strife. Castamir the Usurper seized the throne in 1437 and was killed in 1447. In 1448 his sons and followers fled with many ships and seized Umbar. Their descendants became the Corsairs of Umbar.\n\nThe Corsairs built a fleet and raided the coasts of Gondor for centuries. They often joined the Southrons. Telumehtar Umbardacil took Umbar in T.A. 1810 and drove out the Corsairs. Gondor later lost it again, and the Corsairs went on raiding its coasts. Late in the Third Age Thorongil, who was Aragorn in disguise, burned many of their ships at Umbar.\n\nDuring the War of the Ring, the Corsairs sailed north toward Pelargir. Sauron meant to use them against Gondor from the south. Aragorn fell on them at Pelargir on 13 March in T.A. 3019 and took their ships. Aragorn's men and recruits from the southern fiefs manned the captured ships. The fleet reached the Harlond on the Pelennor on 15 March.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Kin-strife begins": "T.A. 1432",
+   "Rebels seize Umbar": "T.A. 1448",
+   "Umbar retaken by Telumehtar": "T.A. 1810",
+   "Ships taken at Pelargir": "13 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "TO081",
+    "role": "fought",
+    "note": "Pelargir was the target of the Corsairs in T.A. 3019."
+   },
+   {
+    "id": "battle:pelargir",
+    "role": "fought",
+    "note": "Aragorn defeated the Corsair fleet and took their ships."
+   }
+  ],
+  "related": [
+   "person:castamir",
+   "person:telumehtar",
+   "person:aragorn",
+   "battle:pelargir",
+   "battle:burning-of-osgiliath"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A (Gondor and the Heirs of Anárion)",
+   "The Return of the King, Book V, chapters 1 and 9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-b-northmen-and-eotheod",
+  "title": "The Northmen and the Éothéod",
+  "group": "Powers, peoples and ideas",
+  "kind": "Northern kindred of the Rohirrim",
+  "aka": [
+   "Northmen of Rhovanion",
+   "Éothéod",
+   "Horse-lords of the North"
+  ],
+  "blurb": "The Northmen were Men of Rhovanion who were friends of Gondor. From them came the Éothéod and later the Rohirrim.",
+  "book": "The Northmen lived in Rhovanion, the lands east and north of the Anduin. They were kin to the Edain of old and good friends of Gondor. Their king Vidugavia was a valued ally.\n\nThe friendship brought a great change to Gondor. Prince Valacar, who lived among the Northmen, married Vidugavia's daughter Vidumavi. Their son Eldacar was half-Northman. Some Gondorians disliked this, and it helped cause the Kin-strife that began in T.A. 1432.\n\nThe Northmen later suffered badly. The Wainriders overran them in T.A. 1856, and many were enslaved or driven away. Some of their kin survived in the vales of Anduin between the Carrock and the Gladden Fields.\n\nAmong them were the Éothéod, a people of horse-breeders. In T.A. 1977 Frumgar led them north. Their later lands lay near the sources of the Anduin, below the Grey Mountains. In T.A. 2510 their lord Eorl led riders south to help Gondor at the Field of Celebrant. As a reward, Cirion gave them Calenardhon, which became Rohan.\n\nThe Men of Dale, the Beornings and others belonged to the same northern family. The Rohirrim kept the old tongue and customs of the Northmen.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Wainriders overrun the Northmen": "T.A. 1856",
+   "Éothéod move north": "T.A. 1977",
+   "Éothéod ride south": "T.A. 2510",
+   "Rohan given": "T.A. 2510"
+  },
+  "places": [
+   {
+    "id": "realm:rhovanion",
+    "role": "lived",
+    "note": "The Northmen lived in the lands called Rhovanion."
+   },
+   {
+    "id": "NP039",
+    "role": "lived",
+    "note": "The Éothéod lived near the sources of the Anduin."
+   },
+   {
+    "id": "FI009",
+    "role": "fought",
+    "note": "The Éothéod came to the Field of Celebrant in T.A. 2510."
+   }
+  ],
+  "related": [
+   "people:rohirrim",
+   "person:eorl-the-young",
+   "person:cirion",
+   "person:castamir",
+   "realm:rhovanion",
+   "battle:field-of-celebrant"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A (Gondor and the Heirs of Anárion; The House of Eorl)",
+   "Unfinished Tales, 'Cirion and Eorl'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-b-the-wise",
+  "title": "The Wise",
+  "group": "Powers, peoples and ideas",
+  "kind": "Elves, wizards and the White Council",
+  "aka": [
+   "White Council",
+   "Lore-masters"
+  ],
+  "blurb": "In the books the Wise are those with lore and power. They include Elrond, Galadriel, Círdan, Gandalf and Saruman.",
+  "book": "The Wise is a loose name. The books use it for those who know the ancient lore and the secrets of the Enemy. They are mostly Elves and wizards, along with a few Men.\n\nIn T.A. 2463 the White Council was formed. Its members were Elrond, Galadriel, Círdan, Gandalf and Saruman, among others. The Council was formed soon after Sauron returned to Dol Guldur with greater strength. It met to decide how to respond.\n\nSaruman was chosen as its head. He had studied the Rings more than any other. Galadriel had wished Gandalf to lead. In T.A. 2851 Gandalf urged an attack on Dol Guldur, but Saruman overruled him. The Council finally attacked in T.A. 2941 and drove Sauron out.\n\nGandalf and Saruman are the best-known members. Saruman ended as a traitor. His fall shows that wisdom is no guard against pride.\n\nOther members acted differently. Elrond kept Rivendell, and Galadriel kept Lothlórien. Círdan guarded the Havens.\n\nAt the Council of Elrond, those present decided the fate of the Ring. The Wise did not rule the world. They advised and resisted in their own places.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "White Council formed": "T.A. 2463",
+   "Attack on Dol Guldur": "T.A. 2941",
+   "Head of the Council": "Saruman"
+  },
+  "places": [
+   {
+    "id": "TO084",
+    "role": "other",
+    "note": "Elrond held the Council of the Ring here."
+   },
+   {
+    "id": "FO017",
+    "role": "ruled",
+    "note": "Galadriel ruled this wood with Celeborn."
+   },
+   {
+    "id": "FT008",
+    "role": "fought",
+    "note": "Dol Guldur was the target of the White Council in T.A. 2941."
+   },
+   {
+    "id": "BU021",
+    "role": "lived",
+    "note": "Saruman later made Orthanc his stronghold."
+   }
+  ],
+  "related": [
+   "person:elrond",
+   "person:galadriel",
+   "person:cirdan",
+   "person:gandalf",
+   "person:saruman",
+   "battle:dol-guldur-white-council"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix B (The Third Age)",
+   "The Fellowship of the Ring, Book II, chapter 2",
+   "Unfinished Tales, 'The Istari'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-b-emblems-and-banners",
+  "title": "Emblems and Banners",
+  "group": "Powers, peoples and ideas",
+  "kind": "Heraldry of Middle-earth",
+  "aka": [
+   "White Tree and stars",
+   "White Horse",
+   "Red Eye",
+   "White Hand",
+   "Swan of Dol Amroth"
+  ],
+  "blurb": "Many peoples have emblems. The heirs of Elendil bear the White Tree, Rohan the White Horse, Mordor the Red Eye, Isengard the White Hand and Dol Amroth the swan-ship.",
+  "book": "The Stewards of Gondor flew a plain white banner. Aragorn came to the Pelennor under the royal standard, made by Arwen. It shows a white tree on black, with seven stars and a high crown, the signs of Elendil. The White Tree recalls Nimloth and the line of trees from it.\n\nRohan's banner shows a white horse running free on a green field. Théoden's host rode under it to the Pelennor.\n\nMordor uses a red Eye. Sauron's servants bore it on their shields and helms. It is also the symbol that Frodo and others dread.\n\nIsengard uses a white hand on a black field. The Uruk-hai of Saruman wore a white hand on their helms and shields. The orcs of Minas Morgul carried another sign, a moon with a death-like face.\n\nDol Amroth has a ship like a silver swan, set on blue. The knights of Prince Imrahil rode under it, and the ship is part of the haven's long link with the sea and the Elves.\n\nThe Guards of the Citadel wore black, marked with a white tree beneath a silver crown and stars, like the royal sign.\n\nEach emblem is tied to a place or a lord.",
+  "film": "The films show the White Tree on Gondor's banners, the white horse on green for Rohan, and a white hand on Saruman's Uruk-hai.",
+  "series": "",
+  "facts": {
+   "Gondor (royal)": "White Tree, seven stars, crown on black",
+   "Stewards": "Plain white",
+   "Rohan": "White horse on green",
+   "Isengard": "White hand on black",
+   "Dol Amroth": "Silver swan-ship on blue"
+  },
+  "places": [
+   {
+    "id": "TO065",
+    "role": "other",
+    "note": "The White Tree grows in the Court of the Fountain here."
+   },
+   {
+    "id": "TO026",
+    "role": "other",
+    "note": "Dol Amroth is the seat of the swan-ship banner."
+   },
+   {
+    "id": "TO029",
+    "role": "other",
+    "note": "Edoras is the seat of the White Horse."
+   },
+   {
+    "id": "FT017",
+    "role": "other",
+    "note": "Isengard bears the White Hand."
+   },
+   {
+    "id": "FT004",
+    "role": "other",
+    "note": "Barad-dûr bears the Red Eye."
+   }
+  ],
+  "related": [
+   "thing:white-tree",
+   "thing:standard-of-elendil",
+   "person:imrahil",
+   "person:theoden",
+   "person:saruman",
+   "person:sauron",
+   "thing:nimloth"
+  ],
+  "sources": [
+   "The Return of the King, Book V, chapters 1, 4, 6 and 9",
+   "The Two Towers, Book III, chapters 1 to 3",
+   "The Two Towers, Book IV, chapter 8"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-b-songs-and-verse",
+  "title": "Songs and Verse in the Books",
+  "group": "Powers, peoples and ideas",
+  "kind": "Poetry and singing",
+  "aka": [
+   "Poems in The Lord of the Rings",
+   "Songs of Middle-earth"
+  ],
+  "blurb": "The books are full of songs. Hobbits sing walking and drinking songs, Elves sing hymns and laments, and Men of Rohan recall old kings.",
+  "book": "Songs and poems appear in many chapters. Tolkien uses them to show a speaker's character and a people's history.\n\nHobbits sing walking songs, bath songs, drinking songs and nonsense rhymes. Bilbo composed a famous road song. Frodo and his friends sing in the inns and on the road. Sam makes up a verse about trolls, and later sings in the tower of Cirith Ungol.\n\nElves sing hymns to the stars and laments for lost lands. Galadriel's farewell to Lothlórien is in Quenya. In Rivendell, Bilbo recites a long song about Eärendil. Legolas sings a song of Nimrodel.\n\nThe Dwarves sing slow songs of mountains and gold, as at Bag End. Gimli recites old verse about Durin. The goblins sing harsh songs in Goblin-town. Gollum makes riddles in verse.\n\nRohan has alliterative songs and laments. On the way to Edoras, Aragorn chants an old song of the Rohirrim about lost glory. Riders sing at the burial of Théoden.\n\nGandalf's charms and Tom Bombadil's verses are spells as well as songs.\n\nNear Weathertop, Sam recites lines about Gil-galad, and Aragorn chants part of the tale of Beren and Lúthien.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Hobbit": "Walking, bath and drinking songs",
+   "Elves": "Hymns and laments",
+   "Rohan": "Alliterative songs and laments"
+  },
+  "places": [
+   {
+    "id": "TO084",
+    "role": "other",
+    "note": "Bilbo sings of Eärendil in Elrond's hall."
+   },
+   {
+    "id": "FO017",
+    "role": "other",
+    "note": "Galadriel's farewell lament is sung in Lothlórien."
+   },
+   {
+    "id": "TO029",
+    "role": "other",
+    "note": "Aragorn chants a song of the Rohirrim as the company nears Edoras."
+   },
+   {
+    "id": "FT025",
+    "role": "other",
+    "note": "Sam sings in the Tower of Cirith Ungol."
+   }
+  ],
+  "related": [
+   "person:bilbo-baggins",
+   "person:samwise-gamgee",
+   "person:tom-bombadil",
+   "person:legolas",
+   "person:gimli",
+   "person:aragorn",
+   "person:gollum"
+  ],
+  "sources": [
+   "The Hobbit, chapters 1, 4 and 5",
+   "The Fellowship of the Ring, Book I, chapters 3, 11 and 12; Book II, chapters 1, 4, 6 and 8",
+   "The Two Towers, Book III, chapter 6; Book IV, chapter 3",
+   "The Return of the King, Book VI, chapters 1 and 6"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-b-food-and-drink",
+  "title": "Food and Drink in the Books",
+  "group": "Powers, peoples and ideas",
+  "kind": "Provisions and drinks",
+  "aka": [
+   "Cram",
+   "Ent-draught",
+   "Orc-draught"
+  ],
+  "blurb": "Food runs through the story: travelling bread such as cram, the Ents' drink, Beorn's honey, wine and the Hobbits' home meals.",
+  "book": "Tolkien uses food to show character and place. Hobbits love stew, bacon, mushrooms, cakes, beer and tea. Sam is the cook of the Quest. He stews rabbit with herbs in Ithilien and carries pots and salt in his pack.\n\nCram is a hard, plain biscuit made for journeys. When the Elves give the Fellowship lembas, Gimli first takes it for cram and soon finds it far better.\n\nIn Fangorn, Treebeard gives Merry and Pippin Ent-draughts from great stone jars at Wellinghall. Later both Hobbits grow taller than any other Hobbit in the Shire records.\n\nThe Orcs force the captured Hobbits to drink a fiery orc-draught. It burns but gives them some strength.\n\nBeorn feeds the Dwarves and Bilbo with bread, honey, cream and mead. He keeps bees, and he sends them off with twice-baked cakes for the road.\n\nWine is served in the halls of Men and Elves. Bilbo leaves Rory Brandybuck a dozen bottles of Old Winyards, a strong red wine of the Southfarthing. In The Hobbit, the Elvenking's butler and chief guard fall asleep over strong wine of Dorwinion, which lets Bilbo free the Dwarves.\n\nGood drink and good food mark friendship in the story.\n\nLembas, miruvor and athelas have their own cards.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Cram": "Hard travel biscuit",
+   "Ent-draught": "Drink of the Ents, given from stone jars",
+   "Orc-draught": "Fiery drink forced on captives"
+  },
+  "places": [
+   {
+    "id": "BU086",
+    "role": "other",
+    "note": "Treebeard gives Merry and Pippin Ent-draughts at Wellinghall."
+   },
+   {
+    "id": "BU031",
+    "role": "other",
+    "note": "Beorn feeds his guests with honey and cream at his hall."
+   },
+   {
+    "id": "NP033",
+    "role": "other",
+    "note": "Sam cooks a stew in South Ithilien."
+   }
+  ],
+  "related": [
+   "thing:lembas",
+   "thing:miruvor",
+   "person:treebeard",
+   "person:beorn",
+   "person:samwise-gamgee",
+   "person:meriadoc-brandybuck"
+  ],
+  "sources": [
+   "The Hobbit, chapters 7 and 9",
+   "The Fellowship of the Ring, Book I, chapter 1; Book II, chapter 8",
+   "The Two Towers, Book III, chapters 3 and 4; Book IV, chapter 4",
+   "The Return of the King, Book VI, chapter 9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-b-riddle-game",
+  "title": "The Riddle-Game",
+  "group": "Powers, peoples and ideas",
+  "kind": "Contest of wits",
+  "aka": [
+   "Riddles in the Dark",
+   "Game of riddles"
+  ],
+  "blurb": "The riddle-game is an ancient contest of riddles. Bilbo and Gollum play it under old rules that even wicked creatures fear to break.",
+  "book": "In the riddle-game two players ask riddles in turn. The one who fails to answer loses. The stakes are agreed at the start. Bilbo and Gollum play for their lives and their freedom.\n\nGollum proposes the game in the dark under the Misty Mountains. If Bilbo loses, Gollum will eat him. If Gollum loses, he will show Bilbo the way out. The narrator calls the game sacred and very old. Even wicked creatures fear to cheat in it.\n\nThe players trade riddles about teeth, the dark, time and other things. Bilbo wins some by luck and by quick thought. The last riddle is not a true one. Bilbo asks what he has in his pocket, which is the Ring.\n\nGollum protests that this is not fair and demands three guesses. Bilbo agrees. Gollum fails all three. He then goes to fetch the Ring so he can attack Bilbo, but finds it gone. Bilbo slips it on by chance and escapes.\n\nBilbo uses riddling speech again with Smaug. He gives answers that tell the dragon little and flatter him.\n\nThe meeting brings the Ring out of Gollum's keeping and into the Shire.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Date": "T.A. 2941",
+   "Stakes": "Bilbo's life against a way out"
+  },
+  "places": [
+   {
+    "id": "NP037",
+    "role": "other",
+    "note": "Gollum's Lake is the place where the contest was played."
+   },
+   {
+    "id": "MT034",
+    "role": "other",
+    "note": "The Misty Mountains hide the tunnels where they met."
+   }
+  ],
+  "related": [
+   "person:gollum",
+   "person:bilbo-baggins",
+   "thing:one-ring",
+   "person:smaug",
+   "person:gandalf"
+  ],
+  "sources": [
+   "The Hobbit, chapter 5",
+   "The Hobbit, chapter 12",
+   "The Fellowship of the Ring, Book I, chapter 2"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-b-travel-and-distance",
+  "title": "Travel and Distance",
+  "group": "Powers, peoples and ideas",
+  "kind": "Journey times in the War of the Ring",
+  "aka": [
+   "Journey times",
+   "How long journeys take"
+  ],
+  "blurb": "This entry gives dates and days for the main journeys of the War of the Ring, from the Tale of Years.",
+  "book": "The books record dates carefully. Appendix B gives the days of the main journeys in T.A. 3018 and 3019. Its dates follow the Shire calendar. Every month has thirty days, and two Yule days fall between December and January.\n\nFrodo left Bag End on 23 September 3018. He reached Bree on 29 September. He crossed the Ford of Bruinen on 20 October. From Bag End to the Ford took 27 days.\n\nThe Fellowship left Rivendell on 25 December. They came to the West-gate of Moria on 13 January and crossed the Bridge of Khazad-dûm on 15 January, when Gandalf fell. They reached the Nimrodel that night and left Lothlórien on 16 February. They camped at Parth Galen on 25 February, and the Fellowship broke on 26 February. From Rivendell to the breaking took 63 days, counting the two Yule days.\n\nFrodo and Sam left Parth Galen on 26 February and reached the Cracks of Doom on 25 March. That is 29 days.\n\nThe Rohirrim rode from Harrowdale on 10 March and came to the Pelennor on 15 March, five days later. Aragorn took the ships at Pelargir on 13 March and reached the Pelennor on 15 March.\n\nThe four Hobbits left Rivendell with Gandalf on 5 October 3019 on their way home. The Battle of Bywater took place on 3 November, 28 days later.\n\nBilbo's earlier journey began in T.A. 2941, and he came home in 2942.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Bag End to the Ford of Bruinen": "27 days",
+   "Rivendell to the Breaking of the Fellowship": "63 days",
+   "Parth Galen to Mount Doom": "29 days",
+   "Harrowdale to the Pelennor": "5 days",
+   "Rivendell to Bywater (homeward)": "28 days"
+  },
+  "places": [
+   {
+    "id": "TO050",
+    "role": "travelled",
+    "note": "Frodo's journey begins at Hobbiton on 23 September 3018."
+   },
+   {
+    "id": "TO011",
+    "role": "travelled",
+    "note": "Frodo reaches Bree on 29 September."
+   },
+   {
+    "id": "FJ006",
+    "role": "travelled",
+    "note": "Frodo crosses the Ford of Bruinen on 20 October."
+   },
+   {
+    "id": "FI021",
+    "role": "travelled",
+    "note": "The Fellowship breaks at Parth Galen on 26 February 3019."
+   },
+   {
+    "id": "VA008",
+    "role": "travelled",
+    "note": "The Rohirrim ride from Harrowdale on 10 March."
+   },
+   {
+    "id": "FI024",
+    "role": "travelled",
+    "note": "The Rohirrim and Aragorn reach the Pelennor Fields on 15 March."
+   },
+   {
+    "id": "MT036",
+    "role": "travelled",
+    "note": "Frodo and Sam reach the Cracks of Doom on 25 March."
+   },
+   {
+    "id": "TO016",
+    "role": "travelled",
+    "note": "The Hobbits fight the Battle of Bywater on 3 November 3019."
+   }
+  ],
+  "related": [
+   "journey:frodo",
+   "journey:rohirrim",
+   "journey:return",
+   "journey:thorin",
+   "person:frodo-baggins"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix B (The Tale of Years)",
+   "The Lord of the Rings, Appendix D"
+  ],
+  "confidence": "high"
+ }
+]

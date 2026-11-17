@@ -1,0 +1,823 @@
+[
+ {
+  "id": "lore:land-aman",
+  "title": "Aman, the Blessed Realm",
+  "group": "Lands beyond the map",
+  "kind": "Western continent of the Valar",
+  "aka": [
+   "Blessed Realm",
+   "Undying Lands",
+   "The Uttermost West"
+  ],
+  "blurb": "Aman is the western land across the Great Sea where the Valar settled and where the Elves later lived in light.",
+  "book": "Aman lies far to the west of Middle-earth, across the Great Sea called Belegaer. The name means blessed, free from evil. Melkor lived there for a time after his release and sowed lies among the Noldor. The great harm came when he and Ungoliant killed the Two Trees.\n\nThe Valar left Almaren after Melkor destroyed the Lamps. They made their home in Aman and raised the Pelóri, a great wall of mountains, near its eastern shore. Eldamar, or Elvenhome, is the land of the Elves by that shore and in its bay. The Elves who answered the summons lived there.\n\nThe Akallabêth says the land itself does not make mortals deathless. It is deathless because the Valar dwell there, and a mortal there would only wither sooner. After the Noldor rebelled and left, the Valar set the Shadowy Seas and the Enchanted Isles in the sea to the east to guard it.\n\nWhen Númenor fell, Aman was taken out of the round world. Only the Straight Road leads there now. Elves may sail it, and a few others were allowed by special grace. The Ring-bearers passed over the Sea at the end of the Third Age.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Direction": "West, beyond the Great Sea",
+   "Chief regions": "Valinor and Eldamar",
+   "Guarded by": "The Pelóri and the Enchanted Isles"
+  },
+  "places": [
+   {
+    "id": "TO043",
+    "role": "other",
+    "note": "The Grey Havens is the gate from which ships took the Straight Road to Aman."
+   }
+  ],
+  "related": [
+   "person:manwe",
+   "person:varda",
+   "person:ulmo",
+   "thing:two-trees"
+  ],
+  "sources": [
+   "The Silmarillion, Valaquenta and Quenta Silmarillion; Akallabêth"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:land-valinor",
+  "title": "Valinor",
+  "group": "Lands beyond the map",
+  "kind": "Realm of the Valar in Aman",
+  "aka": [
+   "Land of the Valar",
+   "Valinor the Blessed"
+  ],
+  "blurb": "Valinor is the part of Aman where the Valar built their cities and where the Two Trees gave light before the Sun.",
+  "book": "Valinor is the land of the Valar inside Aman, west of the Pelóri mountains. It lies far west of every land on the maps. The Valar made their dwellings here after leaving Almaren.\n\nAt the green mound Ezellohar, outside the city of Valmar, Yavanna sang the Two Trees into growth. Telperion gave silver light and Laurelin gave gold. This age is called the Days of Bliss, and the Elves who came to Valinor lived in its light.\n\nThe Valar had halls of their own, such as the mansions of Mandos and the gardens of Lórien and Yavanna. The Vanyar, and for a time the Noldor, lived near the mountains.\n\nMelkor and Ungoliant killed the Trees, and the Noldor under Fëanor left Valinor to hunt Morgoth. Yavanna saved a last flower and a last fruit. From these the Valar made the Moon and the Sun.\n\nThe Valar withdrew behind guarded seas. After the fall of Númenor, Valinor could no longer be reached by an ordinary road.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Direction": "West, in Aman beyond the Great Sea",
+   "Light": "Telperion and Laurelin, until Melkor and Ungoliant killed them",
+   "Chief city": "Valmar"
+  },
+  "places": [],
+  "related": [
+   "person:manwe",
+   "person:yavanna",
+   "person:feanor",
+   "thing:two-trees",
+   "person:mandos"
+  ],
+  "sources": [
+   "The Silmarillion, Valaquenta; Quenta Silmarillion, chapters 1 to 9"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:land-taniquetil-valmar",
+  "title": "Taniquetil and Valmar",
+  "group": "Lands beyond the map",
+  "kind": "Mountain and city of the Valar",
+  "aka": [
+   "Oiolossë",
+   "Valimar"
+  ],
+  "blurb": "Taniquetil is the highest mountain of the world and Manwë's seat. Valmar is the Valar's city of many bells.",
+  "book": "Taniquetil is the tallest mountain in the world. It rises in the Pelóri in the east of Valinor, near the coast, and its peak is always white. The Elves also call it Oiolossë.\n\nManwë and Varda keep their halls on the summit. From there Manwë looks over the whole world, and Varda hears the cries of those who call on her name, Elbereth, from Middle-earth.\n\nValmar lies on the plain of Valinor, west of the mountains. It is the city of the Valar, and it has many bells. The mound Ezellohar stands by its western gate, and the Two Trees grew there.\n\nThe Vanyar, the first kindred of the Elves to come to Valinor, lived on the slopes of Taniquetil and in Valmar, near Manwë. The Valar met in council at Máhanaxar, the Ring of Doom, outside the gates of Valmar.\n\nNothing in the books places these sites on any map of Middle-earth. They lie across the Great Sea in the far west.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Peak": "Taniquetil in the Pelóri",
+   "City": "Valmar",
+   "Mound": "Ezellohar"
+  },
+  "places": [],
+  "related": [
+   "person:manwe",
+   "person:varda",
+   "thing:two-trees"
+  ],
+  "sources": [
+   "The Silmarillion, Valaquenta and Quenta Silmarillion, chapters 1 and 3"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:land-tirion",
+  "title": "Tirion upon Túna",
+  "group": "Lands beyond the map",
+  "kind": "Elven city in Aman",
+  "aka": [
+   "Tirion",
+   "Tirion the Fair"
+  ],
+  "blurb": "Tirion is the white Elven city on the hill Túna, where the Noldor lived before the Exile.",
+  "book": "Tirion stands on the green hill Túna, in the gap of the Pelóri known as the Calacirya. It faces the sea, far west of the lands on the maps.\n\nThe Noldor and the Vanyar first built it together. Later the Vanyar moved into Valinor to live near Manwë, and the Noldor kept the city. Finwë was their king.\n\nA tall white tower called Mindon Eldaliéva stood in the city. Its lamp could be seen far out to sea.\n\nTirion was the home of Fëanor and his kin, and the place where his quarrel with his half-brother Fingolfin grew. When the Valar banished Fëanor to Formenos, Finwë went with him, and Fingolfin ruled the Noldor in Tirion.\n\nAfter Morgoth killed Finwë, most of the Noldor left Valinor. Finarfin turned back after the Doom of Mandos, and he ruled the Noldor who remained in Tirion.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Hill": "Túna",
+   "Gap": "Calacirya",
+   "Tower": "Mindon Eldaliéva"
+  },
+  "places": [],
+  "related": [
+   "person:finwe",
+   "person:feanor",
+   "person:fingolfin",
+   "person:finarfin",
+   "person:manwe"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapters 3 and 6 to 9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:land-alqualonde",
+  "title": "Alqualondë",
+  "group": "Lands beyond the map",
+  "kind": "Haven of the Teleri in Aman",
+  "aka": [
+   "Haven of the Swans",
+   "Alqualondë the Swan Haven"
+  ],
+  "blurb": "Alqualondë is the Teleri port in Aman, where the first Kinslaying took place.",
+  "book": "Alqualondë is a harbour city on the coast of Eldamar in Aman, west of the lands on the maps. The Teleri built it after they crossed the Sea. It lies in a bay with an arch of rock that guards the harbour mouth.\n\nOlwë ruled the city. The Teleri loved ships and the sea, and they built swan-shaped ships with the help of Ossë. They also made lamps that lit the harbour.\n\nWhen Fëanor decided to leave for Middle-earth, he asked the Teleri for their ships. They refused. Fëanor's Noldor then attacked the city and killed many Teleri, and took the ships. This is the first Kinslaying. The Teleri lost many people, and Tolkien says the Noldor suffered under the Doom of Mandos as a result.\n\nOssë and Uinen were friends of the Teleri, and Uinen wept for the slain mariners. Olwë was the brother of Thingol, King of Doriath.\n\nThe ships that Fëanor took crossed to Middle-earth, and he burned them at Losgar.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Ruler": "Olwë",
+   "Event": "First Kinslaying, at the Darkening of Valinor",
+   "Famous for": "Swan-ships and harbour"
+  },
+  "places": [],
+  "related": [
+   "person:finwe",
+   "person:feanor",
+   "person:osse",
+   "thing:swan-ships",
+   "person:thingol"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapters 5 and 9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:land-tol-eressea",
+  "title": "Tol Eressëa and Avallónë",
+  "group": "Lands beyond the map",
+  "kind": "Lonely Isle and its haven",
+  "aka": [
+   "Lonely Isle",
+   "Avallónë",
+   "Eressëa"
+  ],
+  "blurb": "Tol Eressëa is an island off Aman where the Teleri lived, and Avallónë is its port.",
+  "book": "Tol Eressëa is a large island in the Bay of Eldamar, west of Middle-earth and near the coast of Aman. Ulmo drew it across the Sea like a great ship, to carry the Teleri to Aman. Ossë later rooted it to the floor of the bay.\n\nThe Teleri lived there for a long age and learned the songs of the sea. Later they moved to the mainland, where they built Alqualondë. Some Elves stayed on the island.\n\nAvallónë is its haven. The name is linked to the nearness of the island to Valinor. After the First Age, Elves of Tol Eressëa became friends of the Númenóreans and sailed to Númenor with gifts. The Númenóreans cherished a tree from Tol Eressëa.\n\nAt the Drowning of Númenor, Aman and Tol Eressëa were both taken out of the circles of the world. Only the Straight Road leads to them now. In letters, Tolkien says that the Ring-bearers went to Tol Eressëa.\n\nMany Elves lived there in the Third Age and after.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Direction": "West, in the Bay of Eldamar",
+   "Haven": "Avallónë",
+   "Moved by": "Ulmo"
+  },
+  "places": [],
+  "related": [
+   "person:ulmo",
+   "person:osse",
+   "thing:nimloth",
+   "person:elros"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapters 5 and 20; Akallabêth; Letters"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:land-pelori-calacirya",
+  "title": "The Pelóri and the Calacirya",
+  "group": "Lands beyond the map",
+  "kind": "Mountain wall and pass of Aman",
+  "aka": [
+   "Pelóri Mountains",
+   "Pass of Light"
+  ],
+  "blurb": "The Pelóri are the great mountain wall around Valinor, and the Calacirya is its only gap.",
+  "book": "The Pelóri are a chain of mountains that the Valar raised along the east side of Aman. They lie on the far side of the Great Sea from Middle-earth. The Valar built them after Melkor destroyed the Lamps, to keep Valinor safe from him.\n\nTaniquetil is the highest peak of the Pelóri. The mountains are steep and cold on their outer side. The strip of land between them and the sea is Eldamar.\n\nThe Calacirya, or Pass of Light, is a great cleft in the middle of the Pelóri. Light from the Two Trees poured through it onto the shore beyond. The green hill Túna stands in the gap, and Tirion is built on it. The Elves of Eldamar lived near it, and they could look out to sea in the light.\n\nThe pass was the only break in the mountain wall. The Akallabêth tells that Ar-Pharazôn landed on the shore of Aman, and Númenor was destroyed soon after.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Highest peak": "Taniquetil",
+   "Gap": "Calacirya, with the hill Túna",
+   "Raised": "After the fall of the Lamps"
+  },
+  "places": [],
+  "related": [
+   "person:manwe",
+   "person:ar-pharazon",
+   "thing:two-trees",
+   "thing:lamps-of-the-valar"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapters 1, 3 and 5; Akallabêth"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:land-helcaraxe",
+  "title": "The Helcaraxë",
+  "group": "Lands beyond the map",
+  "kind": "Frozen strait between Aman and Middle-earth",
+  "aka": [
+   "Grinding Ice",
+   "Helcaraxë"
+  ],
+  "blurb": "The Helcaraxë is the icy strait in the far north where Fingolfin's host crossed from Aman to Middle-earth.",
+  "book": "The Helcaraxë lies in the far north, where Aman comes close to the lands of Middle-earth. Ice fills the narrow sea, and it grinds and breaks in the cold. This gave it the name Grinding Ice.\n\nAfter Fëanor took the Teleri ships and burned them at Losgar, Fingolfin and his people had no ships. They had to choose between returning to the Valar and crossing the ice. Pride and loyalty to their kin drove them to go on.\n\nThe crossing cost the Noldor many lives. Some fell into the water and some died of cold. Among those lost was Elenwë, wife of Turgon. Fingolfin's host included Fingon, Turgon, Finrod, Galadriel and their followers.\n\nThey reached Middle-earth when the Moon first rose. The long journey left bitterness between the two houses.\n\nThe strait lies in the far north, between Araman on the coast of Aman and the northern shores of Middle-earth. Nothing in the books tells us what became of the Helcaraxë after the Change of the World.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Direction": "Far north, between Araman and Middle-earth",
+   "Crossed by": "Fingolfin's host, arriving at the first rising of the Moon",
+   "Lost": "Elenwë among others"
+  },
+  "places": [],
+  "related": [
+   "person:fingolfin",
+   "person:galadriel",
+   "person:feanor",
+   "person:morgoth"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapters 9 to 11"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:land-almaren-two-lamps",
+  "title": "Almaren and the Two Lamps",
+  "group": "Lands beyond the map",
+  "kind": "First home of the Valar",
+  "aka": [
+   "Almaren",
+   "Illuin and Ormal",
+   "Spring of Arda"
+  ],
+  "blurb": "Almaren was the first home of the Valar on an island in a lake, lit by two great lamps until Melkor destroyed them.",
+  "book": "Almaren was the first dwelling of the Valar in Arda, in the centre of Middle-earth. It stood on an island in a great lake. It lies far from the north-west lands on the maps, and its position is known only in the old tales.\n\nAulë made two great lamps to light the world. Illuin stood in the north and Ormal stood in the south. Their light fell over all the land, and this time is called the Spring of Arda. Plants and creatures grew in the light.\n\nMelkor returned in secret while the Valar rested. He built the fortress Utumno in the north, and then he threw down both pillars of the Lamps. The fall of the Lamps shattered the shape of the world, and fire and water flooded the land. Almaren was destroyed.\n\nThe Valar left Middle-earth and went west to Aman, where they made Valinor. Tolkien notes that the lamps' fall also changed the seas and mountains.\n\nThe books give no later account of the island.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Lamps": "Illuin (north) and Ormal (south)",
+   "Makers": "Aulë",
+   "Destroyed by": "Melkor"
+  },
+  "places": [],
+  "related": [
+   "person:aule",
+   "person:morgoth",
+   "person:varda",
+   "thing:lamps-of-the-valar"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapters 1 and 3"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:land-utumno",
+  "title": "Utumno",
+  "group": "Lands beyond the map",
+  "kind": "Melkor's first fortress",
+  "aka": [
+   "Utumno of the North"
+  ],
+  "blurb": "Utumno was Melkor's first great fortress, in the far north of Middle-earth, broken in the War of the Powers.",
+  "book": "Utumno was a great fortress of Melkor in the far north of Middle-earth. It lay far beyond the lands of the Third Age and of Beleriand. Melkor delved it in secret while the Valar dwelt on Almaren, and from it he went out to throw down the Lamps.\n\nFrom Utumno Melkor ruled his servants and bred evil creatures. He hunted the first Elves who woke at Cuiviénen. Sauron was his chief servant.\n\nThe Valar waged the War of the Powers to free the Elves. They marched into the north and besieged Utumno. The war was long. The north of Middle-earth was changed, and the Great Sea between Aman and Middle-earth grew wide and deep. Tulkas wrestled Melkor down, and the Valar bound him and carried him to Aman.\n\nMelkor's second stronghold, Angband, was not fully searched. Sauron was not found, and many evil things lingered there. When Melkor fled from Valinor, he returned to Angband and built it anew.\n\nThe books do not tell of Utumno after the war.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Direction": "Far north of Middle-earth",
+   "Ruler": "Melkor",
+   "Fall": "War of the Powers, before the Sun"
+  },
+  "places": [],
+  "related": [
+   "person:morgoth",
+   "person:manwe",
+   "person:tulkas",
+   "person:sauron"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapters 1, 3 and 4"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:land-cuvienen",
+  "title": "Cuiviénen",
+  "group": "Lands beyond the map",
+  "kind": "Where the Elves awoke",
+  "aka": [
+   "Water of Awakening",
+   "Waters of Awakening"
+  ],
+  "blurb": "Cuiviénen is the bay in the far east of Middle-earth where the first Elves woke under the stars.",
+  "book": "Cuiviénen means Water of Awakening. It was a bay of an inland sea in the far east of Middle-earth. It lies far beyond every map of the Third Age.\n\nThe first Elves woke beside it under the stars, before the Sun and Moon. They called themselves the Quendi, those who speak with voices.\n\nMelkor hunted them from Utumno. Oromë found the Elves while riding in the east, and the Valar summoned them to Valinor. Many set out on the Great Journey west, and some refused.\n\nThose who refused are the Avari, the Unwilling. Those who went became the Eldar: the Vanyar, the Noldor and the Teleri. The Sindar were Teleri who stayed in Beleriand and never crossed the Sea.\n\nThe Silmarillion places Cuiviénen by the Sea of Helcar, which filled the place where the Lamp Illuin had stood. Later writings outside the published books name the first Elf-fathers, but The Silmarillion does not. The books do not say what became of the shore.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Direction": "Far east of Middle-earth",
+   "Kindreds": "Eldar (Vanyar, Noldor, Teleri) and Avari",
+   "Found by": "Oromë"
+  },
+  "places": [],
+  "related": [
+   "person:orome",
+   "person:morgoth",
+   "person:manwe"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapters 3 and 4"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:land-hildorien",
+  "title": "Hildórien",
+  "group": "Lands beyond the map",
+  "kind": "Where Men first awoke",
+  "aka": [
+   "Hildórien"
+  ],
+  "blurb": "Hildórien is the land in the far east where the first Men woke at the first sunrise.",
+  "book": "Hildórien is the land in the east of Middle-earth where Men first woke. They woke at the first rising of the Sun. The Elves called Men the Hildor, the Followers, because they came after the Elves, and the name of the land comes from this.\n\nThe Valar did not come to guide Men or summon them to Valinor. The books say little of their first days. The Silmarillion hints that Morgoth went among them and that a darkness lay on their early history.\n\nSome Men wandered west. The first of them to reach Beleriand were the people of Bëor, more than three hundred years after the Noldor came there. Finrod Felagund found them in Ossiriand. Bëor told him that a darkness lay behind them in the east, and that they had turned their backs on it.\n\nThe books give no firm location for Hildórien beyond the eastern lands. Nothing is told of what became of it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Direction": "East of Middle-earth",
+   "Event": "Awakening of Men at the first sunrise",
+   "Name": "From Hildor, the Followers"
+  },
+  "places": [],
+  "related": [
+   "person:morgoth",
+   "person:beor",
+   "person:finrod-felagund",
+   "b:people:house-of-beor"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapters 11, 12 and 17"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:land-numenor",
+  "title": "Númenor",
+  "group": "Lands beyond the map",
+  "kind": "Island kingdom of the Edain",
+  "aka": [
+   "Elenna",
+   "Westernesse",
+   "Andor",
+   "Anadûnê"
+  ],
+  "blurb": "Númenor was the great island west of Middle-earth given to the Edain, which sank in S.A. 3319.",
+  "book": "Númenor was an island raised from the sea by the Valar and given to the Edain who fought against Morgoth. It lay far to the west in the Great Sea. The Edain called it Elenna, Starwards, because Eärendil's star guided them to it. It was also called Andor, the Land of Gift.\n\nIt had the shape of a five-pointed star. The Meneltarma rose in the middle. Forostar lay in the north, Andustar in the west and Mittalmar inland. Hyarnustar lay in the south-west, Hyarrostar in the south-east and Orrostar in the east. Arandor was the kingsland.\n\nElros was the first king, in S.A. 32. The Númenóreans lived long and sailed far. They founded havens in Middle-earth, including Umbar.\n\nIn time the Kings grew proud and feared death. Ar-Pharazôn took Sauron captive, and Sauron corrupted him. The king sailed to Aman with a fleet. Eru broke the world, and Númenor sank in S.A. 3319.\n\nElendil and his people escaped and founded Arnor and Gondor.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Direction": "West of Middle-earth",
+   "First king": "Elros, S.A. 32",
+   "Fall": "S.A. 3319"
+  },
+  "places": [],
+  "related": [
+   "person:elros",
+   "person:ar-pharazon",
+   "person:sauron",
+   "person:elendil",
+   "person:earendil",
+   "person:tar-miriel"
+  ],
+  "sources": [
+   "The Silmarillion, Akallabêth; Unfinished Tales, The Description of the Island of Númenor"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:land-armenelos",
+  "title": "Armenelos",
+  "group": "Lands beyond the map",
+  "kind": "Royal city of Númenor",
+  "aka": [
+   "City of the Kings",
+   "Armenelos of the Kings"
+  ],
+  "blurb": "Armenelos was the royal city of Númenor, with the palace, the court of the White Tree and, later, the Temple of Melkor.",
+  "book": "Armenelos was the royal city of Númenor. It stood in Arandor, the King's land, in the middle part of the island. It was the seat of the Kings for most of Númenor's history.\n\nThe palace of the Kings stood there. Nimloth, the White Tree, grew in the King's court. The tombs of the Kings did not lie in the city but in a valley at the foot of the Meneltarma.\n\nAr-Pharazôn built the Temple of Melkor in the city. It had a great dome. Sauron, who had been brought as a captive, became the King's counsellor. Men were sacrificed in the Temple, according to the Akallabêth.\n\nSauron urged the King to cut down Nimloth. Isildur went in secret into the court and took a fruit from the tree. Later the King yielded, and the tree was felled and burned in the Temple. From the fruit came the line of the White Tree of Gondor.\n\nArmenelos was destroyed in the drowning of the island in S.A. 3319.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Region": "Arandor, the King's land",
+   "Features": "Palace, King's court with Nimloth, Temple of Melkor",
+   "Fall": "S.A. 3319"
+  },
+  "places": [],
+  "related": [
+   "person:ar-pharazon",
+   "person:sauron",
+   "person:isildur",
+   "thing:nimloth",
+   "thing:white-tree"
+  ],
+  "sources": [
+   "The Silmarillion, Akallabêth; Unfinished Tales, A Description of the Island of Númenor"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:land-romenna",
+  "title": "Rómenna",
+  "group": "Lands beyond the map",
+  "kind": "East haven of Númenor",
+  "aka": [
+   "Rómenna of the East"
+  ],
+  "blurb": "Rómenna was the great eastern port of Númenor, facing Middle-earth, and the home of Elendil's line.",
+  "book": "Rómenna was a harbour on the east coast of Númenor. It faced Middle-earth, and it was the main port for ships heading east. It lay far from the mapped lands, across the Great Sea.\n\nTar-Aldarion, the sixth King, loved the sea. His ships sailed from the east coast to Middle-earth, and he became a friend of Gil-galad in Lindon.\n\nIn the later days many of the Faithful were moved to the east of the island, and Rómenna became their chief home. Elendil, son of Amandil, was of the line of Elros and lived in Rómenna with his sons Isildur and Anárion.\n\nWhen Sauron came to Númenor, the Faithful were hated. Elendil gathered ships in the harbour. His fleet left at the time of the Downfall. He reached Middle-earth and founded the realms of Arnor and Gondor.\n\nThe city sank with the island in S.A. 3319.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Direction": "East coast of Númenor",
+   "Mariner King": "Tar-Aldarion",
+   "Notable": "Home of Amandil and Elendil"
+  },
+  "places": [],
+  "related": [
+   "person:tar-aldarion",
+   "person:elendil",
+   "person:isildur",
+   "person:gil-galad"
+  ],
+  "sources": [
+   "The Silmarillion, Akallabêth; Unfinished Tales, Aldarion and Erendis"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:land-andunie",
+  "title": "Andúnië",
+  "group": "Lands beyond the map",
+  "kind": "West haven of Númenor",
+  "aka": [
+   "Andúnië of the West",
+   "Lords of Andúnië"
+  ],
+  "blurb": "Andúnië was the western port of Númenor, home of the Lords of Andúnië, who stayed loyal to the Valar.",
+  "book": "Andúnië was a harbour on the west coast of Númenor. It faced Aman across the sea. The Númenóreans looked west from there to Tol Eressëa.\n\nThe Lords of Andúnië were a great house of Númenor. They descended from Silmariën, a child of King Tar-Elendil. They were friendly with the Elves and remained Faithful to the Valar.\n\nAmandil was the last Lord. He was a friend of the Elves. When Ar-Pharazôn made war on the Valar, Amandil tried to warn the Faithful. He sailed west in secret, hoping to ask the Valar for mercy. He did not return.\n\nHis son Elendil gathered ships at Rómenna and fled to Middle-earth with his sons.\n\nIn the early days Elvish ships from Eressëa came to Andúnië with gifts. As the Kings turned from the Valar, the Elves came seldom and in secret, and at last they no longer came.\n\nAndúnië sank with Númenor in S.A. 3319.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Direction": "West coast of Númenor",
+   "Last Lord": "Amandil",
+   "Faction": "The Faithful"
+  },
+  "places": [],
+  "related": [
+   "person:amandil",
+   "person:elendil",
+   "person:ar-pharazon"
+  ],
+  "sources": [
+   "The Silmarillion, Akallabêth; Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:land-meneltarma",
+  "title": "The Meneltarma",
+  "group": "Lands beyond the map",
+  "kind": "Holy mountain of Númenor",
+  "aka": [
+   "Pillar of Heaven",
+   "Meneltarma"
+  ],
+  "blurb": "The Meneltarma was the tall mountain at the centre of Númenor, where the Kings prayed to Eru.",
+  "book": "The Meneltarma, or Pillar of Heaven, stood in the middle of Númenor. It was the only high mountain on the island. It lay far west of the lands on the maps.\n\nThe Númenóreans held its summit as the Hallow of Eru. They built no temple on it. Three times each year the King went up to give prayer and thanks to Eru Ilúvatar, and many of the people followed him. At all times silence was kept there.\n\nTolkien says the Kings kept the custom in honour of Eru, who had given the island to the Edain.\n\nIn the later days the Kings neglected the prayers. Under Ar-Pharazôn no one might climb the mountain, on pain of death. Sauron persuaded the King to build a Temple to Melkor at Armenelos instead. The people no longer prayed on the mountain.\n\nWhen Ar-Pharazôn landed in Aman, the fleet was destroyed and the island sank. Fire burst from the Meneltarma as the land went down, and the mountain was lost with the island.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Position": "Centre of Númenor",
+   "Use": "Holy place for prayer to Eru",
+   "Fall": "S.A. 3319"
+  },
+  "places": [],
+  "related": [
+   "person:ar-pharazon",
+   "person:sauron",
+   "person:elros"
+  ],
+  "sources": [
+   "The Silmarillion, Akallabêth; Unfinished Tales"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:land-harad",
+  "title": "Harad, Near and Far",
+  "group": "Lands beyond the map",
+  "kind": "Southern lands beyond Gondor",
+  "aka": [
+   "Near Harad",
+   "Far Harad",
+   "The South"
+  ],
+  "blurb": "Harad is the wide southern region beyond Gondor and Mordor, home of the Haradrim and of Men of many peoples.",
+  "book": "Harad means the South. It lies south of Gondor and of Mordor, beyond the river Harnen. Only its northern edge appears on the Middle-earth map.\n\nNear Harad is the nearer part. The Haradrim fought against Gondor many times, and their kings often allied with Sauron. Umbar, on the coast, was long contested between Gondor and the Men of the South.\n\nFar Harad lies farther south. Men from there fought at the Pelennor Fields, and the book describes them as black and huge. The Haradrim brought the great beasts called mûmakil, or oliphaunts, to war.\n\nIn the War of the Ring, Southrons marched with Sauron's armies to Gondor. Faramir's men ambushed a company of them in Ithilien. Their chief at the Pelennor fought under a black serpent on a scarlet banner, and Théoden slew him.\n\nThe people of Harad had many tongues and lords. The books do not describe their cities or customs in detail.\n\nAfter the fall of Sauron, King Elessar made peace with the peoples of Harad.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Direction": "South of Gondor and Mordor",
+   "Parts": "Near Harad and Far Harad",
+   "Beasts": "Mûmakil (oliphaunts)"
+  },
+  "places": [
+   {
+    "id": "realm:harad",
+    "role": "other",
+    "note": "The map shows only the northern edge of Harad."
+   }
+  ],
+  "related": [
+   "person:sauron",
+   "person:faramir",
+   "people:haradrim"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A and B; The Two Towers, Book IV, chapter 4; The Return of the King, Book V, chapter 6, and Book VI, chapter 5"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:land-umbar",
+  "title": "Umbar",
+  "group": "Lands beyond the map",
+  "kind": "Great haven south of Gondor",
+  "aka": [
+   "Haven of Umbar",
+   "Umbar of the Corsairs"
+  ],
+  "blurb": "Umbar is the great natural harbour south of Gondor, held in turn by Númenóreans, Gondor and the Corsairs.",
+  "book": "Umbar is a large natural harbour on the coast of the South, a long sail south of Gondor. It lies beyond the Bay of Belfalas, past Harondor.\n\nThe Númenóreans made it a great haven in the Second Age. After the Downfall, Black Númenóreans who served Sauron held it. Gondor took it under King Eärnil I in T.A. 933.\n\nAfter the Kin-strife (T.A. 1432 to 1448), the rebels who had followed Castamir the Usurper fled to Umbar. They became the Corsairs of Umbar and raided the coasts of Gondor for centuries. King Telumehtar took Umbar back in T.A. 1810 and took the name Umbardacil. Later it was lost again to the Men of Harad.\n\nIn T.A. 2980 Aragorn, serving Gondor under the name Thorongil, led a raid on Umbar and burned many Corsair ships.\n\nDuring the War of the Ring, a Corsair fleet sailed up the Anduin against Gondor. Aragorn captured it at Pelargir with the help of the Dead Men, and sailed it to Minas Tirith.\n\nThe books do not say what became of the haven after the War of the Ring.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Direction": "South of Gondor, beyond the Bay of Belfalas",
+   "Taken by Gondor": "T.A. 933, and again in T.A. 1810",
+   "Corsairs": "From T.A. 1448"
+  },
+  "places": [
+   {
+    "id": "battle:pelargir",
+    "role": "other",
+    "note": "The Corsair fleet of Umbar sailed up the Anduin to Pelargir."
+   }
+  ],
+  "related": [
+   "person:telumehtar",
+   "person:castamir",
+   "person:aragorn",
+   "person:sauron",
+   "battle:pelargir",
+   "people:haradrim"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A (I, iv) and Appendix B; The Return of the King, Book V, chapter 9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:land-khand",
+  "title": "Khand",
+  "group": "Lands beyond the map",
+  "kind": "Land east of Mordor",
+  "aka": [
+   "Variags of Khand"
+  ],
+  "blurb": "Khand is a land south-east of Mordor whose warriors, the Variags, served Sauron against Gondor.",
+  "book": "Khand lies south-east of Mordor. The general map of The Lord of the Rings shows its name in that corner, and the books tell almost nothing more about it.\n\nIts people are the Variags. The Return of the King names the Variags of Khand among the enemies who came to the Battle of the Pelennor Fields. They fought there beside Easterlings and Southrons in Sauron's host.\n\nAppendix A tells that in T.A. 1944 the Wainriders made an alliance with the Men of Khand and of Near Harad. Together they attacked Gondor from the north and from the south. King Ondoher fell in that war, but Eärnil defeated the southern army and then the Wainriders.\n\nThe books give no names of towns or kings of Khand. They say nothing of its customs or of its later history. Any fuller picture of the land is a reader's invention.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Direction": "South-east of Mordor",
+   "People": "Variags",
+   "Wars": "Allies of the Wainriders, T.A. 1944; Pelennor Fields, T.A. 3019"
+  },
+  "places": [],
+  "related": [
+   "person:sauron",
+   "person:earnil-ii",
+   "people:easterlings",
+   "people:haradrim",
+   "people:men-of-gondor"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A (I, iv); The Return of the King, Book V, chapter 6; general map"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:land-dorwinion",
+  "title": "Dorwinion",
+  "group": "Lands beyond the map",
+  "kind": "Wine-land by the Sea of Rhûn",
+  "aka": [
+   "Land of Wine"
+  ],
+  "blurb": "Dorwinion is a land in the east known for its strong wine, which reached the Elvenking of Mirkwood.",
+  "book": "Dorwinion is a land in the east of Middle-earth. The Hobbit names it as the source of a strong wine. The maps in the books do not show it.\n\nIn The Hobbit, the Elvenking of Mirkwood drinks wine from Dorwinion. The wine reached his halls by trade, and empty barrels were floated back down the Forest River to Lake-town. The chief guard and the butler drank the wine and fell asleep, and Bilbo took the keys. He and the Dwarves then escaped in empty barrels.\n\nThe book gives no names of towns or kings in Dorwinion, and says almost nothing of its people.\n\nA map that Tolkien annotated for the artist Pauline Baynes places Dorwinion on the north-west shore of the Sea of Rhûn. That map is not part of the books.\n\nThe books tell nothing of its later history.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Direction": "East; placed by the Sea of Rhûn only on the Baynes map",
+   "Known for": "Wine",
+   "Appears in": "The Hobbit, chapter 9"
+  },
+  "places": [
+   {
+    "id": "LA019",
+    "role": "other",
+    "note": "A map Tolkien annotated places Dorwinion on the shore of the Sea of Rhûn."
+   }
+  ],
+  "related": [
+   "people:silvan-elves",
+   "people:men-of-dale-and-the-lake"
+  ],
+  "sources": [
+   "The Hobbit, chapter 9; Tolkien's notes on the Pauline Baynes map"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:land-far-east-south",
+  "title": "The far East and South of Middle-earth",
+  "group": "Lands beyond the map",
+  "kind": "What the books say of distant lands",
+  "aka": [
+   "Lands beyond Rhûn",
+   "Far Harad"
+  ],
+  "blurb": "The books say very little of the far East and South, apart from a few peoples, beasts and names.",
+  "book": "Tolkien made maps of the north-west only, and he told little of the rest of Middle-earth. The books mention the East and South mainly through the peoples who came from there to war.\n\nIn the East, beyond Rhûn, live the Easterlings. Many of them served Sauron and fought against Gondor. Khand, home of the Variags, lies south-east of Mordor. Unfinished Tales says that two of the five Wizards went into the East and did not return. Tolkien guessed about them in letters but settled nothing.\n\nIn the South, beyond Near Harad, lies Far Harad. Men from there came to the Pelennor Fields, and the Haradrim brought mûmakil, the great oliphaunts, to Gondor's wars.\n\nAppendix A says that Aragorn journeyed far into Rhûn and Harad, under stars he did not know. The books do not tell what he saw there.\n\nThe maps of the Third Age fade out beyond these lands. Sauron's power reached far into the East and South, but the books do not map his realms there.\n\nBecause the books give so little, any detailed picture of the far East and South goes beyond what Tolkien wrote.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Peoples": "Easterlings, Variags, Haradrim",
+   "Beasts": "Mûmakil (oliphaunts)",
+   "Detail": "Very little in the books"
+  },
+  "places": [
+   {
+    "id": "realm:rhun",
+    "role": "other",
+    "note": "Rhûn borders the unmapped East."
+   }
+  ],
+  "related": [
+   "people:easterlings",
+   "people:haradrim",
+   "people:istari",
+   "person:aragorn",
+   "person:sauron",
+   "realm:rhun"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V, chapter 6; Appendix A (The Tale of Aragorn and Arwen)",
+   "Unfinished Tales, The Istari",
+   "Tolkien, Letters, no. 211"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:land-straight-road",
+  "title": "The Straight Road and the bending of the world",
+  "group": "Lands beyond the map",
+  "kind": "How Aman left the circles of the world",
+  "aka": [
+   "Straight Way",
+   "Old Straight Road"
+  ],
+  "blurb": "The Straight Road is the Elves' sea-path to Aman, left open when the Valar bent the world after Númenor sank.",
+  "book": "Before Númenor fell, a mortal could sail west to Aman, because the world was flat. When Ar-Pharazôn landed there, Manwë called on Eru. Eru changed the world.\n\nThe world was made round. Aman and Tol Eressëa were removed from the circles of the world. A mortal who sails west now returns to his starting point and finds no end to the sea.\n\nThe Straight Road remains. It runs from the western coasts of Middle-earth to the land of the Valar. Only Elves, and others who are allowed, can follow it. For them, the road passes over the bending of the world. It is hidden from mortal sight.\n\nShips of the Elves left from the Grey Havens to the Straight Road in the Third Age and after. Círdan kept the ships there. Elrond, Galadriel, Gandalf, Bilbo and Frodo went there when the Third Age ended.\n\nAfter this, Aman and its lands could not be reached by an ordinary voyage.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Event": "The Changing of the World, S.A. 3319",
+   "Gate": "The Grey Havens",
+   "Who may sail": "Elves and those allowed"
+  },
+  "places": [
+   {
+    "id": "TO043",
+    "role": "other",
+    "note": "Ships of the Elves left the Grey Havens for the Straight Road."
+   }
+  ],
+  "related": [
+   "person:manwe",
+   "person:ar-pharazon",
+   "person:cirdan",
+   "person:galadriel",
+   "person:elendil"
+  ],
+  "sources": [
+   "The Silmarillion, Akallabêth; The Lord of the Rings, Book VI, chapter 9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:land-void-doors-night",
+  "title": "The Void and the Doors of Night",
+  "group": "Lands beyond the map",
+  "kind": "Beyond the world",
+  "aka": [
+   "Door of Night",
+   "Walls of the World",
+   "Timeless Void"
+  ],
+  "blurb": "The Void is the emptiness outside the world, and the Door of Night is the gate through which Morgoth was thrust.",
+  "book": "Arda is enclosed by the Walls of the World, and beyond them lies the Void, the empty space outside the world. The Silmarillion does not say where the Door of Night stands. No mapped place lies near it.\n\nBefore the world was made, Melkor often went alone into the void places, seeking the Imperishable Flame. He did not find it, for it is with Ilúvatar.\n\nAfter the War of Wrath, the Valar thrust Morgoth through the Door of Night beyond the Walls of the World, into the Timeless Void. A guard is set on those walls, and Eärendil keeps watch in the sky on Vingilot with the Silmaril.\n\nThe lies that Morgoth sowed still bore fruit after he was gone, as the last chapter of the Quenta Silmarillion says.\n\nDrafts that are not in the published books tell of his return at a Last Battle. The Silmarillion itself does not tell this, and Tolkien did not describe the Void any further.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Place": "Outside the Walls of the World",
+   "Event": "Morgoth thrust out after the War of Wrath",
+   "Return": "Told only in drafts outside the published books"
+  },
+  "places": [],
+  "related": [
+   "person:morgoth",
+   "person:earendil",
+   "thing:vingilot",
+   "thing:silmarils",
+   "person:manwe"
+  ],
+  "sources": [
+   "The Silmarillion, Ainulindalë and Quenta Silmarillion, chapter 24"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:land-beleriand-survivors",
+  "title": "What survived the drowning of Beleriand",
+  "group": "Lands beyond the map",
+  "kind": "Remnants of the First Age lands",
+  "aka": [
+   "Himling",
+   "Tol Fuin",
+   "Tol Morwen"
+  ],
+  "blurb": "After the War of Wrath most of Beleriand sank. Lindon and a few isles, such as Himling, Tol Fuin and Tol Morwen, remained.",
+  "book": "At the end of the First Age, the War of Wrath broke the north-west of Middle-earth. The sea rushed in, and most of Beleriand was drowned. The books name only a few pieces that remained.\n\nPart of Ossiriand, west of the Ered Luin, stayed above the water and kept the name Lindon. Gil-galad ruled there, and Círdan kept the Grey Havens. The sea broke through the mountains and made the Gulf of Lune, which split Lindon in two.\n\nThe general map of The Lord of the Rings shows two isles off the coast. Himling keeps the name of the hill of Himring, where Maedhros had his fortress. Tol Fuin is a remnant of the highlands of Dorthonion, which were called Taur-nu-Fuin after their fall.\n\nThe Silmarillion adds Tol Morwen. The stone over the grave of Túrin and Morwen stood above the waters as a lonely isle.\n\nTolkien drew no full map of the new coasts, so the shape of what survived is not fully known. The rest of Beleriand, with Doriath, Nargothrond and Gondolin, lay under the sea.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Survived": "Lindon, Himling, Tol Fuin and Tol Morwen",
+   "Cause": "War of Wrath, end of the First Age",
+   "Lost": "Most of Beleriand"
+  },
+  "places": [
+   {
+    "id": "realm:lindon",
+    "role": "other",
+    "note": "Lindon is the main land that survived."
+   },
+   {
+    "id": "BA012",
+    "role": "other",
+    "note": "The sea broke through the mountains here and split Lindon."
+   },
+   {
+    "id": "b:FT04",
+    "role": "other",
+    "note": "The hill of Himring became the isle of Himling."
+   },
+   {
+    "id": "b:FO08",
+    "role": "other",
+    "note": "Tol Fuin is a remnant of these highlands."
+   }
+  ],
+  "related": [
+   "person:maedhros",
+   "person:morwen",
+   "person:turin",
+   "person:gil-galad",
+   "person:cirdan",
+   "b:battle:war-of-wrath"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapters 21 and 24; Of the Rings of Power",
+   "The Lord of the Rings, general map"
+  ],
+  "confidence": "medium"
+ }
+]

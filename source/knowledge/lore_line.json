@@ -1,0 +1,1025 @@
+[
+ {
+  "id": "lore:line-finwe",
+  "title": "The House of Finwë (family line)",
+  "group": "Lines and lists",
+  "kind": "Family line of the Noldor kings",
+  "aka": [
+   "Finwë's descendants",
+   "Noldorin royal house"
+  ],
+  "blurb": "The descendants of Finwë, first king of the Noldor, through Fëanor, Fingolfin and Finarfin.",
+  "book": "Finwë led the Noldor from Cuiviénen to Valinor and ruled them at Tirion. His line holds all the royal houses of the Noldor.\n\nFinwë, first king of the Noldor, slain by Morgoth at Formenos\nFirst marriage, to Míriel: Fëanor\nFëanor and Nerdanel had seven sons: Maedhros, Maglor, Celegorm, Caranthir, Curufin, Amrod, Amras\nCurufin's son: Celebrimbor, maker of the Three Rings\nSecond marriage, to Indis of the Vanyar: Fingolfin and Finarfin\nFingolfin's children: Fingon, Turgon, Aredhel\nFingon's son: Gil-galad, last High King of the Noldor\nTurgon's daughter: Idril, wife of Tuor, mother of Eärendil\nAredhel and Eöl: Maeglin\nFinarfin's children: Finrod Felagund, Orodreth, Angrod, Aegnor, Galadriel\nOrodreth's daughter: Finduilas\nGaladriel and Celeborn: Celebrían, wife of Elrond\n\nThe list follows the published Silmarillion. Tolkien's later notes differ on some points. They add daughters of Finwë and Indis, Findis and Írimë, and a fourth child of Fingolfin, Argon. They also make Orodreth a son of Angrod, and Gil-galad a son of Orodreth rather than of Fingon.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Founder": "Finwë",
+   "Branches": "Fëanorians, Fingolfin's line, Finarfin's line"
+  },
+  "places": [],
+  "related": [
+   "person:finwe",
+   "person:feanor",
+   "person:fingolfin",
+   "person:finarfin",
+   "person:fingon",
+   "person:turgon",
+   "person:finrod-felagund",
+   "person:galadriel",
+   "person:gil-galad",
+   "person:celebrimbor"
+  ],
+  "sources": [
+   "The Silmarillion, chapters 1, 5, 6 and 13",
+   "The Silmarillion, genealogical tables"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:line-bethor",
+  "title": "The House of Bëor (family line)",
+  "group": "Lines and lists",
+  "kind": "Family line of the First House of Men",
+  "aka": [
+   "Beor's house",
+   "First House of Men"
+  ],
+  "blurb": "Bëor led the first Men to enter Beleriand. His house gave Beren, Dior and, through Elwing, the line of Elrond.",
+  "book": "Bëor the Old led the first Men over the Blue Mountains. His people became friends of Finrod Felagund and held Dorthonion for many years.\n\nBëor the Old, first lord of the house, who served Finrod\nBaran, elder son of Bëor\nBoron, son of Baran\nBoromir, son of Boron\nBregor, son of Boromir, father of Bregolas and Barahir\nBregolas, lord of the house, slain in the Dagor Bragollach\nBregolas's sons: Baragund and Belegund\nBaragund's daughter: Morwen, wife of Húrin of the House of Hador\nBelegund's daughter: Rían, wife of Huor, mother of Tuor\nBarahir, brother of Bregolas, who received the Ring of Barahir from Finrod\nBarahir's son: Beren, who won the Silmaril with Lúthien\nBeren and Lúthien: Dior Eluchíl, called the Heir of Thingol\nDior and Nimloth: Elwing, Eluréd and Elurín\nElwing and Eärendil: Elrond and Elros\n\nThis list follows the main line of lords. It leaves out many other members of the house, such as the daughters of Bregor and the kin of Andreth.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "People": "Edain, the First House",
+   "Home": "Dorthonion"
+  },
+  "places": [],
+  "related": [
+   "person:beor",
+   "person:barahir",
+   "person:beren",
+   "person:luthien",
+   "person:dior",
+   "person:elwing",
+   "person:morwen",
+   "person:rian",
+   "thing:ring-of-barahir"
+  ],
+  "sources": [
+   "The Silmarillion, chapters 17 and 18",
+   "The Silmarillion, genealogical tables"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:line-hador",
+  "title": "The House of Hador (family line)",
+  "group": "Lines and lists",
+  "kind": "Family line of the Third House of Men",
+  "aka": [
+   "Hador's house",
+   "Third House of the Edain"
+  ],
+  "blurb": "The line of Hador Lórindol, lord of Dor-lómin, from which came Húrin, Túrin, Tuor and Eärendil.",
+  "book": "Hador Lórindol was given the land of Dor-lómin by Fingolfin. His people were tall and fair, and many were golden-haired.\n\nHador Lórindol, lord of Dor-lómin, slain at Eithel Sirion in the Dagor Bragollach\nGaldor the Tall, son of Hador, who succeeded him\nGundor, younger son of Hador, slain beside his father\nGlóredhel, daughter of Hador, wife of Haldir of the Haladin\nGaldor's children: Húrin and Huor, with Rían as Huor's wife\nGaldor's wife: Hareth, of the House of Haleth\nHúrin and Morwen: Túrin, Urwen called Lalaith, and Nienor\nHuor and Rían: Tuor\nTuor and Idril: Eärendil\nEärendil and Elwing: Elrond and Elros\n\nThrough Tuor the house joined the lines of Thingol and Finwë. Through Elros and Elrond it passed down to the Kings of Númenor and the Dúnedain.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Lord's seat": "Dor-lómin",
+   "Founder": "Hador Lórindol"
+  },
+  "places": [
+   {
+    "id": "b:RG02",
+    "role": "ruled",
+    "note": "Hador and his heirs held Dor-lómin as lords under the High King."
+   }
+  ],
+  "related": [
+   "person:hador",
+   "person:hurin",
+   "person:huor",
+   "person:tuor",
+   "person:turin",
+   "person:nienor",
+   "person:morwen",
+   "person:rian",
+   "person:earendil",
+   "person:idril"
+  ],
+  "sources": [
+   "The Silmarillion, chapters 17, 18, 20 and 21"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:line-haleth",
+  "title": "The House of Haleth (family line)",
+  "group": "Lines and lists",
+  "kind": "Family line of the Haladin",
+  "aka": [
+   "Haladin",
+   "People of Haleth"
+  ],
+  "blurb": "The people of Haleth, who lived in the forest of Brethil, and their lords down to Brandir.",
+  "book": "The Haladin were a smaller people of Men. They lived apart in the forest of Brethil and were led for a time by a woman, Haleth.\n\nHaldad, father of Haleth, slain by Orcs\nHaldar, brother of Haleth, slain with him\nHaleth, the lady who led the Haladin into Brethil\nHaldan, son of Haldar and nephew of Haleth, who ruled after her; Haleth had no children\nHalmir, son of Haldan\nHalmir's daughter: Hareth, wife of Galdor of the House of Hador and mother of Húrin and Huor\nHaldir, son of Halmir, husband of Glóredhel of the House of Hador, slain in the Nírnaeth Arnoediad\nHandir, son of Haldir, slain in battle with Orcs\nBrandir the Lame, son of Handir, last lord of the house\nHunthor, a kinsman of Brandir but not a lord, killed by a falling stone at Cabed-en-Aras\n\nThe Silmarillion names these lords in this order. It does not say who led the Haladin after Brandir died.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Forest": "Brethil",
+   "Last lord": "Brandir the Lame"
+  },
+  "places": [
+   {
+    "id": "b:TO08",
+    "role": "ruled",
+    "note": "Ephel Brandir was the hidden stronghold of the Haladin in Brethil."
+   }
+  ],
+  "related": [
+   "person:haleth",
+   "person:brandir",
+   "person:hurin",
+   "person:huor",
+   "person:turin",
+   "b:people:house-of-haleth"
+  ],
+  "sources": [
+   "The Silmarillion, chapters 17, 18 and 21",
+   "Unfinished Tales, Part Two"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:line-thingol-elrond",
+  "title": "From Thingol and Melian to Elrond and Arwen (family line)",
+  "group": "Lines and lists",
+  "kind": "Line of the Half-elven",
+  "aka": [
+   "Half-elven line",
+   "Descent of Elrond"
+  ],
+  "blurb": "The line from the Elven-king Thingol and the Maia Melian down to Elrond, Arwen and Aragorn, with the line of Tuor and Idril that joins it.",
+  "book": "This line joins Elves, Men and a Maia. It runs from Doriath through Beren and Lúthien to the Half-elven of the Second and Third Ages.\n\nThingol and Melian (a Maia): Lúthien\nLúthien and Beren: Dior\nDior and Nimloth: Elwing (and her brothers Eluréd and Elurín)\nTuor of the House of Hador and Idril, daughter of Turgon: Eärendil\nEärendil and Elwing: Elrond and Elros\nElros became the first King of Númenor\nElrond and Celebrían: Elladan, Elrohir and Arwen\nArwen and Aragorn: Eldarion and daughters\n\nElrond's mother Elwing came from Doriath. His father Eärendil came from Gondolin and from the House of Hador. Elrond and Elros chose different fates: Elros chose mortality and Elrond chose to remain among the Elves. Arwen later chose the fate of Men.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Chosen fate": "Elros chose Men; Elrond chose Elves; Arwen chose Men"
+  },
+  "places": [
+   {
+    "id": "b:TO01",
+    "role": "ruled",
+    "note": "Menegroth was the hall of Thingol and Melian in Doriath."
+   },
+   {
+    "id": "TO084",
+    "role": "ruled",
+    "note": "Rivendell was the house of Elrond in the Second and Third Ages."
+   }
+  ],
+  "related": [
+   "person:thingol",
+   "person:melian",
+   "person:luthien",
+   "person:beren",
+   "person:dior",
+   "person:elwing",
+   "person:tuor",
+   "person:idril",
+   "person:earendil",
+   "person:elrond",
+   "person:arwen",
+   "person:elros"
+  ],
+  "sources": [
+   "The Silmarillion, chapters 19, 23 and 24",
+   "The Lord of the Rings, Appendix A and Appendix B"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:line-numenor-kings",
+  "title": "The Kings and Queens of Númenor (list)",
+  "group": "Lines and lists",
+  "kind": "List of rulers of Númenor",
+  "aka": [
+   "Rulers of Númenor",
+   "Kings of Westernesse"
+  ],
+  "blurb": "The twenty-five rulers of Númenor, in order, from Elros to Ar-Pharazôn, with the rightful queen Tar-Míriel.",
+  "book": "Elros, son of Eärendil, founded the kingdom of Númenor in S.A. 32. The sceptre passed from parent to eldest child, and after a change of the law under Tar-Aldarion the eldest child could inherit, whether son or daughter.\n\n1. Elros Tar-Minyatur (S.A. 32 to 442)\n2. Vardamir Nólimon\n3. Tar-Amandil\n4. Tar-Elendil\n5. Tar-Meneldur\n6. Tar-Aldarion\n7. Tar-Ancalimë, the first ruling Queen\n8. Tar-Anárion\n9. Tar-Súrion\n10. Tar-Telperiën, the second ruling Queen\n11. Tar-Minastir\n12. Tar-Ciryatan\n13. Tar-Atanamir the Great\n14. Tar-Ancalimon\n15. Tar-Telemmaitë\n16. Tar-Vanimeldë, the third ruling Queen\n17. Tar-Alcarin\n18. Tar-Calmacil\n19. Tar-Ardamin\n20. Ar-Adûnakhôr\n21. Ar-Zimrathôn\n22. Ar-Sakalthôr\n23. Ar-Gimilzôr\n24. Tar-Palantír, who also bore the name Ar-Inziladûn\n25. Ar-Pharazôn the Golden, who seized the sceptre in S.A. 3255 by forcing Tar-Míriel, daughter of Tar-Palantír and the rightful heir, to marry him\n\nAr-Pharazôn brought about the Downfall in S.A. 3319. This numbering follows Unfinished Tales. Appendix A leaves out Tar-Ardamin, so its count differs by one. Vardamir is counted as king but gave the sceptre at once to his son. From Ar-Adûnakhôr on, the kings took Adûnaic names and grew hostile to the Valar.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Founded": "S.A. 32",
+   "Downfall": "S.A. 3319",
+   "Count": "25 rulers"
+  },
+  "places": [],
+  "related": [
+   "person:elros",
+   "person:tar-aldarion",
+   "person:tar-ancalime",
+   "person:tar-palantir",
+   "person:tar-miriel",
+   "person:ar-pharazon"
+  ],
+  "sources": [
+   "The Silmarillion, Akallabêth",
+   "The Lord of the Rings, Appendix A (I)",
+   "Unfinished Tales, Part Two"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:line-andunie-lords",
+  "title": "The Lords of Andúnië (list)",
+  "group": "Lines and lists",
+  "kind": "Partial list of the Lords of Andúnië",
+  "aka": [
+   "Lords of Andunie"
+  ],
+  "blurb": "The Lords of Andúnië, who were kin to the Kings of Númenor and leaders of the Faithful, and ended with Amandil and Elendil.",
+  "book": "Andúnië lay on the west coast of Númenor. Its lords were of the line of Elros and were friends of the Elves.\n\nValandil, first Lord of Andúnië, son of Silmariën, eldest child of Tar-Elendil, and of Elatan of Andúnië\nA long line of lords followed him. The books name few of them. Inzilbêth, mother of Tar-Palantír, came of this house\nAmandil, last Lord of Andúnië before the Downfall\nElendil, son of Amandil, leader of the Faithful and later High King of the Dúnedain in exile\nIsildur and Anárion, sons of Elendil\n\nSilmariën was the eldest child of Tar-Elendil, but the law of that time let only a son inherit, so her brother Meneldur received the sceptre. For that reason her line stayed among the lords. Late in Númenor the Kings turned against the Valar, and the lords became the leaders of the Faithful. They were later made to leave Andúnië and live at Rómenna. Amandil sailed west to plead with the Valar and was not seen again. Elendil escaped the Downfall with his sons and founded Arnor and Gondor. This list is not complete.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Seat": "Andúnië, western Númenor",
+   "Last lord": "Amandil"
+  },
+  "places": [],
+  "related": [
+   "person:amandil",
+   "person:elendil",
+   "person:isildur",
+   "person:anarion",
+   "person:tar-palantir",
+   "person:elros"
+  ],
+  "sources": [
+   "The Silmarillion, Akallabêth",
+   "Unfinished Tales, Part Two, chapter 1"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:line-noldor-high-kings",
+  "title": "The High Kings of the Noldor (list)",
+  "group": "Lines and lists",
+  "kind": "List of the Noldor's High Kings",
+  "aka": [
+   "Kings of the Noldor"
+  ],
+  "blurb": "The kings who held the title of High King of the Noldor, from Finwë to Gil-galad.",
+  "book": "After Finwë died, the kingship of the Noldor passed through the house of Finwë. In Middle-earth the title went to Fingolfin's line.\n\nFinwë, king in Valinor, slain by Morgoth at Formenos\nFëanor, who led the Noldor to Middle-earth and fell soon after the landing\nMaedhros, heir of Fëanor, who gave up the kingship to Fingolfin\nFingolfin, High King of the Noldor (died in his duel with Morgoth soon after the Dagor Bragollach of F.A. 455; the later annals give F.A. 456)\nFingon, son of Fingolfin (slain in the Nírnaeth Arnoediad, F.A. 472)\nTurgon, brother of Fingon, King of Gondolin (died when Gondolin fell, F.A. 510 in the later annals)\nGil-galad, High King in Lindon (slain in the Last Alliance, S.A. 3441)\n\nMaedhros was the eldest of Fëanor's sons, but he gave up his claim. Finarfin ruled the Noldor who stayed in Aman. The Silmarillion calls Gil-galad a son of Fingon; Tolkien's later notes make him a son of Orodreth. Some of the Noldor lived outside the realm of the High King, such as those in Nargothrond.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "First king": "Finwë",
+   "Last High King": "Gil-galad"
+  },
+  "places": [
+   {
+    "id": "b:TO03",
+    "role": "ruled",
+    "note": "Turgon ruled the hidden city of Gondolin and became High King after Fingon fell."
+   },
+   {
+    "id": "b:RG01",
+    "role": "ruled",
+    "note": "Fingolfin and Fingon held Hithlum as High Kings."
+   }
+  ],
+  "related": [
+   "person:finwe",
+   "person:feanor",
+   "person:maedhros",
+   "person:fingolfin",
+   "person:fingon",
+   "person:turgon",
+   "person:gil-galad"
+  ],
+  "sources": [
+   "The Silmarillion, chapters 6, 13, 18, 20, 23 and 24"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:line-arnor-kings",
+  "title": "The Kings of Arnor and Arthedain (list)",
+  "group": "Lines and lists",
+  "kind": "List of the northern Dúnedain kings",
+  "aka": [
+   "Kings of the North-kingdom"
+  ],
+  "blurb": "The kings of Arnor from Elendil to Eärendur, and of Arthedain from Amlaith to Arvedui.",
+  "book": "Elendil founded Arnor in S.A. 3320. After the death of Eärendur in T.A. 861 the realm split into Arthedain, Cardolan and Rhudaur.\n\nElendil the Tall (slain in S.A. 3441)\nIsildur (slain in the Gladden Fields, T.A. 2)\nValandil\nEldacar\nArantar\nTarcil\nTarondor\nValandur\nElendur\nEärendur, last king of undivided Arnor (T.A. 861)\nArthedain: Amlaith of Fornost\nBeleg\nMallor\nCelepharn\nCelebrindor\nMalvegil\nArgeleb I (slain in the war with Rhudaur)\nArveleg I\nAraphor\nArgeleb II\nArvegil\nArveleg II\nAraval\nAraphant\nArvedui, last king, drowned in the Ice Bay of Forochel (T.A. 1975)\n\nArvedui claimed the crown of Gondor as well. His son Aranarth became the first Chieftain of the Dúnedain. Aragorn later reunited both kingdoms.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Arnor founded": "S.A. 3320",
+   "Realm divided": "T.A. 861",
+   "Last king": "Arvedui"
+  },
+  "places": [
+   {
+    "id": "TO006",
+    "role": "ruled",
+    "note": "Annúminas was the first capital of Arnor."
+   },
+   {
+    "id": "TO035",
+    "role": "ruled",
+    "note": "Fornost Erain became the seat of the kings of Arthedain."
+   }
+  ],
+  "related": [
+   "person:elendil",
+   "person:isildur",
+   "person:valandil",
+   "person:arvedui",
+   "person:aragorn",
+   "realm:arnor",
+   "realm:arthedain"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A (I, iii)",
+   "The Silmarillion, Of the Rings of Power"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:line-dunedain-chieftains",
+  "title": "The Chieftains of the Dúnedain (list)",
+  "group": "Lines and lists",
+  "kind": "List of the heirs of Isildur in the North",
+  "aka": [
+   "Rangers' chieftains",
+   "Heirs of Isildur"
+  ],
+  "blurb": "The Chieftains of the Dúnedain of the North, from Aranarth to Aragorn II, in order.",
+  "book": "After Arvedui was lost, the heirs of Isildur kept the title of Chieftain. They lived in secret and guarded the North, with the heirlooms kept at Rivendell.\n\nAranarth, son of Arvedui (T.A. 1975)\nArahael\nAranuir\nAravir\nAragorn I (slain by wolves)\nAraglas\nArahad I\nAragost\nAravorn\nArahad II\nArassuil\nArathorn I\nArgonui\nArador (slain by hill-trolls, T.A. 2930)\nArathorn II, husband of Gilraen (slain by Orcs, T.A. 2933)\nAragorn II Elessar, born T.A. 2931\n\nAragorn was two years old when his father died. His mother took him to Rivendell, where Elrond raised him. He became Chieftain at once and later became King of the Reunited Kingdom.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "First chieftain": "Aranarth",
+   "Last chieftain": "Aragorn II"
+  },
+  "places": [
+   {
+    "id": "TO084",
+    "role": "kept",
+    "note": "The heirlooms of the line were held at Rivendell by Elrond."
+   }
+  ],
+  "related": [
+   "person:arvedui",
+   "person:arathorn-ii",
+   "person:aragorn",
+   "person:gilraen",
+   "person:halbarad",
+   "person:elrond",
+   "thing:ring-of-barahir",
+   "thing:sceptre-of-annuminas"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A (I, iii)"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:line-gondor-kings",
+  "title": "The Kings of Gondor (list)",
+  "group": "Lines and lists",
+  "kind": "List of the Kings of Gondor",
+  "aka": [
+   "Kings of the South-kingdom"
+  ],
+  "blurb": "The kings of Gondor in order, from Anárion and Isildur to Eärnur, with Aragorn restoring the line.",
+  "book": "Gondor was founded in S.A. 3320 by Isildur and Anárion. After Isildur left for the north, the line of Anárion held the crown.\n\nElendil, High King of Arnor and Gondor\nIsildur and Anárion, joint rulers\nMeneldil, son of Anárion\nCemendur\nEärendil\nAnardil\nOstoher\nRómendacil I (Tarostar)\nTurambar\nAtanatar I\nSiriondil\nTarannon Falastur, first of the ship-kings\nEärnil I\nCiryandil\nHyarmendacil I (Ciryaher)\nAtanatar II Alcarin\nNarmacil I\nCalmacil\nMinalcar, regent, later Rómendacil II\nValacar\nEldacar (Vinitharya)\nCastamir the Usurper\nEldacar, restored\nAldamir\nHyarmendacil II (Vinyarion)\nMinardil\nTelemnar\nTarondor\nTelumehtar Umbardacil\nNarmacil II\nCalimehtar\nOndoher\nEärnil II\nEärnur, last king (vanished in T.A. 2050)\n\nThe Ruling Stewards held the city after Eärnur vanished. Aragorn Elessar took the crown in T.A. 3019 and his son Eldarion followed him.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Founded": "S.A. 3320",
+   "Kin-strife": "T.A. 1432 to 1448",
+   "Last king": "Eärnur (T.A. 2050)"
+  },
+  "places": [
+   {
+    "id": "TO065",
+    "role": "ruled",
+    "note": "Minas Tirith was the chief city of the later kings."
+   },
+   {
+    "id": "TO078",
+    "role": "ruled",
+    "note": "Osgiliath was the old capital before the Kin-strife."
+   }
+  ],
+  "related": [
+   "person:anarion",
+   "person:isildur",
+   "person:meneldil",
+   "person:castamir",
+   "person:telumehtar",
+   "person:earnil-ii",
+   "person:earnur",
+   "person:aragorn",
+   "realm:gondor"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A (I, iv)"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:line-stewards-gondor",
+  "title": "The Ruling Stewards of Gondor (list)",
+  "group": "Lines and lists",
+  "kind": "List of the Ruling Stewards",
+  "aka": [
+   "Stewards of Gondor",
+   "Ruling Stewards"
+  ],
+  "blurb": "The twenty-six Ruling Stewards of Gondor, from Mardil Voronwë to Denethor II.",
+  "book": "The Stewards were of the House of Húrin. After the last king vanished, they ruled in the name of the king who would one day return.\n\nMardil Voronwë, the Steadfast\nEradan\nHerion\nBelegorn\nHúrin I\nTúrin I\nHador\nBarahir\nDior\nDenethor I\nBoromir\nCirion\nHallas\nHúrin II\nBelecthor I\nOrodreth\nEcthelion I\nEgalmoth\nBeren\nBeregond\nBelecthor II\nThorondir\nTúrin II\nTurgon\nEcthelion II\nDenethor II, last of the Ruling Stewards (died in T.A. 3019)\n\nCirion gave Calenardhon to Eorl in the time of the Oath of Cirion. After the War of the Ring, Faramir served as Steward under King Elessar.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "First": "Mardil Voronwë",
+   "Last ruling": "Denethor II",
+   "Count": "26"
+  },
+  "places": [
+   {
+    "id": "TO065",
+    "role": "ruled",
+    "note": "The Stewards ruled from Minas Tirith."
+   }
+  ],
+  "related": [
+   "person:mardil-voronwe",
+   "person:cirion",
+   "person:ecthelion-ii",
+   "person:denethor-ii",
+   "person:boromir",
+   "person:faramir",
+   "realm:gondor"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A (II)"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:line-rohan-kings",
+  "title": "The Kings of Rohan (list)",
+  "group": "Lines and lists",
+  "kind": "List of the Kings of the Mark",
+  "aka": [
+   "Kings of the Mark",
+   "Rulers of Rohan"
+  ],
+  "blurb": "The kings of Rohan in three lines, from Eorl the Young to Éomer Éadig.",
+  "book": "Eorl the Young led the Éothéod south and received Calenardhon from Cirion in T.A. 2510. The Kings of the Mark follow in three lines.\n\nFirst line: Eorl the Young (killed in battle in the Wold, T.A. 2545)\nBrego\nAldor the Old, third son of Brego (his elder brother Baldor was lost on the Paths of the Dead)\nFréa\nFréawine\nGoldwine\nDéor\nGram\nHelm Hammerhand\nSecond line: Fréaláf Hildeson, nephew of Helm\nBrytta Léofa\nWalda\nFolca\nFolcwine\nFengel\nThengel\nThéoden, slain on the Pelennor Fields\nThird line: Éomer Éadig, nephew of Théoden\n\nWulf of Dunland usurped the throne for a time during the Long Winter. Fréaláf slew him and began the second line. Théoden's son Théodred fell at the Fords of Isen, so his sister's son Éomer became king.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Realm founded": "T.A. 2510",
+   "Kings by T.A. 3019": "Eighteen, in three lines"
+  },
+  "places": [
+   {
+    "id": "TO029",
+    "role": "ruled",
+    "note": "Edoras was the royal seat of the Kings of the Mark."
+   }
+  ],
+  "related": [
+   "person:eorl-the-young",
+   "person:brego",
+   "person:baldor",
+   "person:helm-hammerhand",
+   "person:wulf",
+   "person:thengel",
+   "person:theoden",
+   "person:theodred",
+   "person:eomer",
+   "realm:rohan"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A (II)"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:line-durin-kings",
+  "title": "The Kings of Durin's Folk (list)",
+  "group": "Lines and lists",
+  "kind": "Line of the Dwarf-kings of Durin's Folk",
+  "aka": [
+   "Longbeard kings",
+   "Kings of Khazad-dûm"
+  ],
+  "blurb": "The heirs of Durin the Deathless, from Khazad-dûm to Erebor and the Iron Hills.",
+  "book": "Durin the Deathless woke first of the seven Fathers and founded Khazad-dûm. His line kept the title of King of Durin's Folk through many ages.\n\nDurin the Deathless, the Father of Durin's Folk\nMany kings called Durin and others followed in Khazad-dûm; the books do not list them all\nDurin VI, slain by the Balrog (Durin's Bane) in T.A. 1980\nNáin I, slain by the Balrog soon after\nThráin I, son of Náin I, who founded the realm of Erebor in T.A. 1999\nThorin I, who moved the court to the Grey Mountains in T.A. 2210\nGlóin\nÓin\nNáin II\nDáin I, slain by a cold-drake with his son Frór\nThrór, who returned to Erebor and lost it to Smaug\nThráin II, son of Thrór, captive in Dol Guldur\nThorin II Oakenshield, slain in the Battle of Five Armies (T.A. 2941)\nDáin II Ironfoot, grandson of Grór son of Dáin I, lord of the Iron Hills and then King under the Mountain\nThorin III Stonehelm, son of Dáin II\n\nThrór held the last of the Seven Rings kept by Durin's line. Thráin II bore it until it was taken from him in Dol Guldur.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Seats": "Khazad-dûm, Erebor, Iron Hills"
+  },
+  "places": [
+   {
+    "id": "realm:khazad-dum",
+    "role": "ruled",
+    "note": "Durin's heirs held Khazad-dûm until the Balrog."
+   },
+   {
+    "id": "realm:erebor",
+    "role": "ruled",
+    "note": "Thráin I founded the kingdom under the Mountain at Erebor."
+   }
+  ],
+  "related": [
+   "person:durin-the-deathless",
+   "person:durin-vi",
+   "person:nain",
+   "person:thrain-i",
+   "person:thror",
+   "person:thrain-ii",
+   "person:thorin-oakenshield",
+   "person:dain-ii-ironfoot",
+   "person:thorin-iii-stonehelm",
+   "people:durins-folk"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A (III)",
+   "The Hobbit, chapter 1"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:line-erebor-dale",
+  "title": "The Kings under the Mountain and the Kings of Dale (list)",
+  "group": "Lines and lists",
+  "kind": "Lists of the rulers of Erebor and Dale",
+  "aka": [
+   "Rulers of Erebor and Dale"
+  ],
+  "blurb": "The kings of Erebor and the lords and kings of Dale, from Thráin I to the Reunited Kingdom.",
+  "book": "Erebor and Dale stood close together and were friends. The Dwarves of Durin's line ruled the Mountain, and Men ruled the town below it.\n\nUnder the Mountain: Thráin I, who founded the realm in T.A. 1999\nThorin I, who left for the Grey Mountains\nThrór, who returned to Erebor in T.A. 2590 and lost it to Smaug in T.A. 2770\nThorin II Oakenshield, who regained the Mountain and was slain in T.A. 2941\nDáin II Ironfoot (T.A. 2941 to 3019)\nThorin III Stonehelm\nDale: Girion, Lord of Dale when Smaug came\nBard the Bowman (Bard I), who slew Smaug and became King of Dale\nBain, son of Bard\nBrand, son of Bain, slain in the battle at Dale in T.A. 3019\nBard II, son of Brand\n\nDale was ruined by Smaug. Bard rebuilt it in T.A. 2944. The kings of Erebor and Dale stood together in the War of the Ring. Dáin and Brand both died in the battle at Dale in T.A. 3019.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Erebor founded": "T.A. 1999",
+   "Smaug came": "T.A. 2770",
+   "Rebuilt": "T.A. 2944"
+  },
+  "places": [
+   {
+    "id": "realm:erebor",
+    "role": "ruled",
+    "note": "The Kings under the Mountain ruled Erebor."
+   },
+   {
+    "id": "TO024",
+    "role": "ruled",
+    "note": "The lords and kings of Dale ruled the town below the Mountain."
+   }
+  ],
+  "related": [
+   "person:thrain-i",
+   "person:thror",
+   "person:thorin-oakenshield",
+   "person:dain-ii-ironfoot",
+   "person:thorin-iii-stonehelm",
+   "person:bard",
+   "person:brand",
+   "person:smaug"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A (III)",
+   "The Hobbit, chapters 12 to 18"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:line-baggins",
+  "title": "The Baggins family (family line)",
+  "group": "Lines and lists",
+  "kind": "Family line of Bilbo and Frodo",
+  "aka": [
+   "Bagginses of Bag End"
+  ],
+  "blurb": "The Baggins family of Hobbiton, from Balbo to Bilbo and Frodo, with the Sackville-Bagginses as cousins.",
+  "book": "The Bagginses were a respectable Hobbit family of Hobbiton and Bag End. Two of them carried the One Ring.\n\nBalbo Baggins and his wife Berylla Boffin\nMungo Baggins, son of Balbo\nBungo Baggins, son of Mungo, who built Bag End and married Belladonna Took\nBilbo Baggins, son of Bungo and Belladonna, born in S.R. 1290\nLongo Baggins, another son of Mungo, married Camellia Sackville; their son was Otho Sackville-Baggins\nLargo Baggins, another son of Balbo, father of Fosco\nDrogo Baggins, son of Fosco\nDrogo and Primula Brandybuck: Frodo Baggins, born in S.R. 1368\nDrogo and Primula both drowned in the Brandywine\nBilbo adopted Frodo and made him his heir\nOtho Sackville-Baggins and Lobelia Bracegirdle: Lotho\n\nBilbo and Frodo were cousins on both sides. This list leaves out many members of the family. Bilbo left Bag End in S.R. 1401. Frodo sold it to the Sackville-Bagginses and left in S.R. 1418.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Seat": "Bag End, Hobbiton"
+  },
+  "places": [],
+  "related": [
+   "person:bilbo-baggins",
+   "person:frodo-baggins",
+   "person:drogo-baggins",
+   "person:belladonna-took",
+   "person:primula-brandybuck",
+   "person:lobelia-sackville-baggins",
+   "person:lotho-sackville-baggins"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue and Appendix C",
+   "The Hobbit, chapter 1"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:line-took-thains",
+  "title": "The Took family and the Thains (family line)",
+  "group": "Lines and lists",
+  "kind": "Family line of the Thains of the Shire",
+  "aka": [
+   "Tooks",
+   "Thains of the Shire"
+  ],
+  "blurb": "The Took family, leaders of the Shire as Thains, with a partial list of the Thains.",
+  "book": "The Thain was the master of the Shire-moot and the captain of the Shire-muster and the hobbitry-in-arms. The title belonged first to the Oldbuck family and then to the Took family.\n\nBucca of the Marish, first Thain, in S.R. 379, head of the Oldbucks\nThe Oldbucks held the title for twelve Thains in all\nIsumbras I, thirteenth Thain and the first of the Took line, in S.R. 740\nIsengrim II, Thain, who began the Great Smials in S.R. 1083\nBandobras Took, called Bullroarer, of Isengrim's line (the Prologue calls him a son of Isengrim II; the family tree in Appendix C makes him a grandson), who beat the goblin chief Golfimbul at Greenfields in S.R. 1147; he was not Thain\nGerontius Took, the Old Took, Thain, who lived to the age of 130\nThe Old Took's children included Belladonna, mother of Bilbo, and Mirabella, grandmother of Frodo\nPaladin II, Thain at the time of the War of the Ring\nPeregrin I (Pippin), son of Paladin II, Thain from S.R. 1434\nFaramir I, son of Peregrin, who married Goldilocks, daughter of Sam Gamgee\n\nThe Tooks lived at Tuckborough and in the Great Smials. Some Tooks were adventurous, and this ran in the blood of Belladonna and her son Bilbo. This list is not complete. It leaves out many Thains between Isumbras I and Paladin II.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Seat": "Great Smials, Tuckborough",
+   "First Thain": "Bucca of the Marish",
+   "First Took Thain": "Isumbras I (S.R. 740)"
+  },
+  "places": [],
+  "related": [
+   "person:gerontius-took",
+   "person:bandobras-took",
+   "person:belladonna-took",
+   "person:paladin-took",
+   "person:peregrin-took",
+   "person:golfimbul"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue and Appendix C",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:line-brandybuck",
+  "title": "The Brandybuck family and the Masters of Buckland (family line)",
+  "group": "Lines and lists",
+  "kind": "Family line of the Masters of Buckland",
+  "aka": [
+   "Brandybucks",
+   "Masters of Buckland"
+  ],
+  "blurb": "The Brandybucks, who ruled Buckland, with a partial list of their Masters.",
+  "book": "The Brandybucks lived at Brandy Hall in Buckland. Their head held the title Master of Buckland.\n\nGorhendad Oldbuck, head of the Oldbucks, who crossed the Brandywine about S.R. 740, began Brandy Hall and changed his name to Brandybuck\nGormadoc Deepdelver Brandybuck, in a later generation\nGorbadoc Broadbelt, husband of Mirabella Took, father of Rorimac and Primula\nPrimula Brandybuck, wife of Drogo Baggins and mother of Frodo\nRorimac Goldfather, called Old Rory, Master of Buckland, husband of Menegilda Goold\nSaradoc Scattergold, son of Rorimac, who married Esmeralda Took\nMeriadoc the Magnificent (Merry), son of Saradoc, Master of Buckland from S.R. 1432\n\nBuckland lay east of the Brandywine and was almost a country of its own. Frodo spent his youth at Brandy Hall. The Old Forest and the Hedge shielded Buckland. This list is not complete.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Seat": "Brandy Hall, Buckland",
+   "Founded": "About S.R. 740"
+  },
+  "places": [],
+  "related": [
+   "person:meriadoc-brandybuck",
+   "person:saradoc-brandybuck",
+   "person:primula-brandybuck",
+   "person:frodo-baggins",
+   "person:fredegar-bolger"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue, 'Of the Ordering of the Shire'",
+   "The Lord of the Rings, Appendix C"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:line-gamgee-cotton",
+  "title": "The Gamgee and Cotton families (family line)",
+  "group": "Lines and lists",
+  "kind": "Family lines of Sam Gamgee and Rose Cotton",
+  "aka": [
+   "Gamgees",
+   "Cottons",
+   "Sam's children"
+  ],
+  "blurb": "The Gamgee and Cotton families of Hobbiton and Bywater, and the thirteen children of Sam and Rose.",
+  "book": "The Gamgees came of a family of ropemakers, and the Gaffer and Sam were gardeners. The Cottons farmed near Bywater.\n\nHamfast Gamgee, called the Gaffer, gardener at Bag End\nThe Gaffer and his wife Bell Goodchild had six children: Hamson, Halfred, Daisy, May, Samwise and Marigold\nSamwise Gamgee, born in S.R. 1380, later Mayor of the Shire\nTolman Cotton (Farmer Cotton), father of Rose\nRose Cotton, who married Sam in S.R. 1420\nSam and Rose's children: Elanor, Frodo, Rose, Merry, Pippin, Goldilocks, Hamfast, Daisy, Primrose, Bilbo, Ruby, Robin and Tolman\nElanor the Fair, who became a maid of honour to Queen Arwen and married Fastred of Greenholm\n\nSam kept the Red Book after Frodo and handed it to Elanor when he went to the Grey Havens. Elanor kept the book at Undertowers after Sam sailed West.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Sam's children": "13",
+   "Eldest": "Elanor"
+  },
+  "places": [],
+  "related": [
+   "person:hamfast-gamgee",
+   "person:samwise-gamgee",
+   "person:rose-cotton",
+   "person:tolman-cotton",
+   "person:elanor-gamgee",
+   "thing:elanor-flower",
+   "thing:red-book"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix B and Appendix C",
+   "The Lord of the Rings, Book VI, chapter 9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:line-fellowship",
+  "title": "The Fellowship of the Ring (list)",
+  "group": "Lines and lists",
+  "kind": "List of the nine Walkers",
+  "aka": [
+   "The Nine Walkers",
+   "The Company of the Ring"
+  ],
+  "blurb": "The nine members of the Fellowship, each with the people it stood for and what became of it.",
+  "book": "Elrond chose nine Walkers to set against the nine Black Riders. They left Rivendell in T.A. 3018.\n\nFrodo Baggins, a Hobbit: Ring-bearer, who bore the Ring to Mount Doom and sailed West in S.R. 1421\nSamwise Gamgee, a Hobbit: companion of Frodo, who later became Mayor of the Shire and sailed West in S.R. 1482\nMeriadoc Brandybuck, a Hobbit: later Master of Buckland, who died in Gondor\nPeregrin Took, a Hobbit: later Thain of the Shire, who also died in Gondor\nGandalf, a Wizard and Maia, who left Middle-earth in S.R. 1421\nAragorn, a Man of the Dúnedain: later King Elessar of Gondor and Arnor\nBoromir, a Man of Gondor: slain at Amon Hen\nLegolas, an Elf of the Woodland Realm: who later sailed West\nGimli, a Dwarf of Durin's Folk: who sailed West with Legolas\n\nMerry and Pippin were laid to rest near Aragorn in Rath Dínen. Legolas and Gimli left Middle-earth after the death of Aragorn in the Fourth Age. The party broke up at Parth Galen after Boromir's death.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Set out": "25 December T.A. 3018",
+   "Broken": "26 February T.A. 3019 at Parth Galen"
+  },
+  "places": [],
+  "related": [
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:meriadoc-brandybuck",
+   "person:peregrin-took",
+   "person:gandalf",
+   "person:aragorn",
+   "person:boromir",
+   "person:legolas",
+   "person:gimli"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II, chapter 3",
+   "The Lord of the Rings, Book VI, chapter 9",
+   "The Lord of the Rings, Appendix A and B"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:line-thorins-company",
+  "title": "Thorin's company (list)",
+  "group": "Lines and lists",
+  "kind": "List of the thirteen Dwarves",
+  "aka": [
+   "The Company of Thorin Oakenshield",
+   "The thirteen Dwarves"
+  ],
+  "blurb": "The thirteen Dwarves who went with Bilbo to Erebor, with their kinship and what became of each.",
+  "book": "Thorin led twelve Dwarves and the hobbit Bilbo to the Lonely Mountain in T.A. 2941. Gandalf set the quest in motion.\n\nThorin Oakenshield, leader, son of Thráin II; slain in the Battle of Five Armies\nFíli and Kíli, sons of Thorin's sister Dís; both fell defending Thorin\nBalin and Dwalin, sons of Fundin and kin to Thorin; Balin later led a colony in Moria and fell there in T.A. 2994\nÓin and Glóin, brothers and sons of Gróin; Óin went with Balin and died in Moria, Glóin lived and fathered Gimli\nDori, Nori and Ori; Ori went with Balin and died in Moria\nBifur, Bofur and Bombur, who came of Moria Dwarves but not of Durin's line; Bombur grew very fat in later years\n\nDwalin and several of the others lived long after the quest. Gandalf chose Bilbo as the burglar so that the company would not number thirteen. The books do not tell the fate of every Dwarf in full.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Quest year": "T.A. 2941",
+   "Goal": "Erebor and the treasure of Smaug"
+  },
+  "places": [],
+  "related": [
+   "person:thorin-oakenshield",
+   "person:fili",
+   "person:kili",
+   "person:balin",
+   "person:dwalin",
+   "person:oin",
+   "person:gloin",
+   "person:dori",
+   "person:nori",
+   "person:ori",
+   "person:bifur",
+   "person:bofur",
+   "person:bombur"
+  ],
+  "sources": [
+   "The Hobbit, chapters 1 and 18",
+   "The Lord of the Rings, Appendix A (III)",
+   "The Fellowship of the Ring, Book II, chapter 5",
+   "Unfinished Tales, Part Three, The Quest of Erebor"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:line-ring-bearers",
+  "title": "The bearers of the One Ring (list)",
+  "group": "Lines and lists",
+  "kind": "List of the Ring's keepers, with years",
+  "aka": [
+   "Ring-bearers",
+   "Keepers of the One Ring"
+  ],
+  "blurb": "The people who held the One Ring from its forging until its destruction, in order.",
+  "book": "Sauron made the One Ring in the Second Age. Several others held it before it was destroyed in Mount Doom.\n\nSauron, maker of the Ring, who forged it about S.A. 1600\nIsildur, who cut the Ring from Sauron's hand in S.A. 3441 and lost it in the Anduin in T.A. 2\nDéagol, who found it in the river about T.A. 2463\nSméagol, later called Gollum, who took it from Déagol and kept it for nearly five hundred years\nBilbo Baggins, who found it in the Misty Mountains in T.A. 2941\nFrodo Baggins, to whom Bilbo gave it in T.A. 3001\nSamwise Gamgee, who held it for a short time in Mordor\n\nGollum took the Ring again at Mount Doom and fell with it into the fire on 25 March, T.A. 3019. Frodo kept the Ring from T.A. 3001 and was named Ring-bearer at the Council of Elrond in T.A. 3018. Tom Bombadil and Gandalf also handled it briefly in 3018.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Forged": "About S.A. 1600",
+   "Destroyed": "25 March T.A. 3019"
+  },
+  "places": [],
+  "related": [
+   "thing:one-ring",
+   "person:sauron",
+   "person:isildur",
+   "person:deagol",
+   "person:gollum",
+   "person:bilbo-baggins",
+   "person:frodo-baggins",
+   "person:samwise-gamgee"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I, chapter 2",
+   "The Lord of the Rings, Book VI, chapter 3",
+   "The Silmarillion, Of the Rings of Power"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:line-three-rings-keepers",
+  "title": "The keepers of the Three Rings (list)",
+  "group": "Lines and lists",
+  "kind": "List of the holders of Narya, Nenya and Vilya",
+  "aka": [
+   "Elven rings",
+   "Three Elven-rings"
+  ],
+  "blurb": "The holders of the Three Rings of the Elves, in order for each ring.",
+  "book": "Celebrimbor made the three Elven Rings without Sauron's help. They were kept hidden and never touched by Sauron.\n\nNarya, the Ring of Fire: Celebrimbor, then Gil-galad, then Círdan, then Gandalf\nNenya, the Ring of Water: Celebrimbor, then Galadriel\nVilya, the Ring of Air: Celebrimbor, then Gil-galad, then Elrond\n\nCelebrimbor made the Rings in Eregion. Narya and Vilya went to Gil-galad and Nenya to Galadriel. Gil-galad later passed Narya to Círdan and Vilya to Elrond. Círdan gave Narya to Gandalf at the Grey Havens. When the One Ring was destroyed, the Three lost their power and the bearers sailed West.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Maker": "Celebrimbor",
+   "Status": "Power ended with the One Ring (T.A. 3019)"
+  },
+  "places": [],
+  "related": [
+   "thing:narya",
+   "thing:nenya",
+   "thing:vilya",
+   "person:celebrimbor",
+   "person:gil-galad",
+   "person:cirdan",
+   "person:elrond",
+   "person:galadriel",
+   "person:gandalf"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Rings of Power",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:line-palantiri",
+  "title": "The seven palantíri (list)",
+  "group": "Lines and lists",
+  "kind": "List of the seven seeing-stones",
+  "aka": [
+   "Seeing-stones",
+   "Palantiri"
+  ],
+  "blurb": "The seven palantíri of the Dúnedain: where each stood and what became of each.",
+  "book": "The palantíri were seeing-stones made by the Noldor in Valinor. Elendil brought seven to Middle-earth. They let the viewer see far places.\n\nOsgiliath: the great stone of Gondor, lost in the Anduin during the Kin-strife\nMinas Anor (Minas Tirith): the Anor-stone, kept in the White Tower\nMinas Ithil: the Ithil-stone, taken by Sauron when Minas Ithil fell\nOrthanc: the stone of Isengard, used by Saruman, whom Sauron ensnared through it\nAmon Sûl: the chief stone of the North, later kept at Fornost and lost with Arvedui\nAnnúminas: also lost with them\nElostirion: the Elostirion stone on the Tower Hills, which looks only West\n\nKing Arvedui carried the two northern stones in his ship. They sank in the Ice Bay of Forochel in T.A. 1975. Denethor looked into the Anor-stone and was driven to despair by Sauron. After Gríma threw the Orthanc-stone down from the tower, Aragorn claimed it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Count": "Seven",
+   "Maker": "Noldor of Valinor, perhaps Fëanor"
+  },
+  "places": [],
+  "related": [
+   "thing:palantir-of-orthanc",
+   "thing:anor-stone",
+   "thing:ithil-stone",
+   "thing:elostirion-stone",
+   "person:saruman",
+   "person:denethor-ii",
+   "person:arvedui",
+   "person:elendil"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book III, chapter 11 and Appendix A",
+   "Unfinished Tales, Part Four, chapter 3"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:line-valar",
+  "title": "The Valar (list)",
+  "group": "Lines and lists",
+  "kind": "List of the fourteen Valar and their realms",
+  "aka": [
+   "Powers of Arda",
+   "Lords and Queens of the West"
+  ],
+  "blurb": "The fourteen Valar, seven Lords and seven Queens, with the realm of each.",
+  "book": "The Valar are the great Powers of Arda, sent by Ilúvatar to shape and guard the world. Seven are called Lords and seven Queens.\n\nManwë: lord of air and winds, King of Arda; wife of Varda\nUlmo: lord of all waters\nAulë: smith and maker, lord of earth and crafts; husband of Yavanna\nOromë: hunter and lord of forests; husband of Vána\nMandos (Námo): keeper of the Halls of the dead and giver of doom; husband of Vairë\nIrmo (Lórien): lord of dreams, visions and gardens; husband of Estë\nTulkas: the strong, a wrestler and champion; husband of Nessa\nVarda: queen of the stars and light\nYavanna: giver of fruits, lady of growing things\nNienna: lady of pity and mourning\nEstë: lady of healing and rest\nVairë: weaver of the tales of time\nVána: queen of flowers and spring\nNessa: lady of dance and deer\n\nMelkor was once counted among the Valar, but he turned to evil and is not named in this list. Mandos and Irmo are brothers, and Nienna is their sister.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Number": "14",
+   "Home": "Aman"
+  },
+  "places": [],
+  "related": [
+   "person:manwe",
+   "person:ulmo",
+   "person:aule",
+   "person:orome",
+   "person:mandos",
+   "person:lorien",
+   "person:tulkas",
+   "person:varda",
+   "person:yavanna",
+   "person:nienna",
+   "person:este",
+   "person:vaire",
+   "person:vana",
+   "person:nessa"
+  ],
+  "sources": [
+   "The Silmarillion, Valaquenta"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:line-feanor-sons",
+  "title": "The seven sons of Fëanor (list)",
+  "group": "Lines and lists",
+  "kind": "List of Fëanor's sons and their fates",
+  "aka": [
+   "Sons of Fëanor",
+   "Fëanorians"
+  ],
+  "blurb": "The seven sons of Fëanor and Nerdanel, with the fate of each.",
+  "book": "Fëanor and his seven sons swore an oath to win back the Silmarils. The oath drove them to the Kinslayings and ruin.\n\nMaedhros the Tall, eldest: captive of Morgoth, freed by Fingon, later took a Silmaril and cast himself into a chasm\nMaglor the singer: cast his Silmaril into the sea, then wandered the shores; his end is not told\nCelegorm the Fair: slain by Dior in Doriath\nCaranthir the Dark: slain in Doriath\nCurufin the Crafty: slain in Doriath, father of Celebrimbor\nAmrod and Amras, the twins: perished at the Havens of Sirion\n\nOnly Maedhros and Maglor lived to the end of the First Age. The Silmarils were lost to them. Some of Tolkien's later notes give different details for Amrod and Amras.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Number": "7",
+   "Survivors": "Maedhros and Maglor"
+  },
+  "places": [],
+  "related": [
+   "person:feanor",
+   "person:maedhros",
+   "person:maglor",
+   "person:celegorm",
+   "person:caranthir",
+   "person:curufin",
+   "person:celebrimbor",
+   "thing:silmarils",
+   "person:dior"
+  ],
+  "sources": [
+   "The Silmarillion, chapters 5, 22, 24"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:line-named-weapons",
+  "title": "Named swords and weapons (list)",
+  "group": "Lines and lists",
+  "kind": "List of named arms and their bearers",
+  "aka": [
+   "Named blades",
+   "Swords of Middle-earth"
+  ],
+  "blurb": "The named weapons of Middle-earth and the people who bore them.",
+  "book": "Many blades and bows in Tolkien's tales have their own names. This list gathers the best known and the people who bore them.\n\nNarsil, made by Telchar, borne by Elendil; shards later reforged as Andúril\nAndúril, borne by Aragorn\nGlamdring, found in the Troll's hoard by Gandalf; made in Gondolin\nOrcrist, found with Glamdring, borne by Thorin Oakenshield\nSting, found by Bilbo, who later gave it to Frodo; Sam also carried it in Cirith Ungol\nAnglachel, later reforged as Gurthang, borne by Beleg and then Túrin\nAnguirel, the twin sword of Anglachel, kept by Eöl and taken by Maeglin\nRingil, sword of Fingolfin\nAeglos, spear of Gil-galad\nAngrist, knife of Curufin\nBelthronding, bow of Beleg\nBlack Arrow, an heirloom of Bard's line, shot by Bard at Smaug\nGuthwinë, sword of Éomer\nHerugrim, sword of Théoden\nBarrow-blades, carried by the Hobbits from the barrow of Cardolan\n\nGlamdring and Orcrist glow when Orcs are near. Telchar the smith of Nogrod made Narsil, and Isildur cut the Ring from Sauron's hand with the hilt-shard of Narsil.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Reforged": "Narsil became Andúril in T.A. 3018, before the Fellowship left Rivendell"
+  },
+  "places": [],
+  "related": [
+   "thing:anduril",
+   "thing:glamdring",
+   "thing:orcrist",
+   "thing:sting",
+   "thing:gurthang",
+   "thing:anguirel",
+   "thing:ringil",
+   "thing:aeglos",
+   "thing:angrist",
+   "thing:belthronding"
+  ],
+  "sources": [
+   "The Silmarillion",
+   "The Lord of the Rings",
+   "The Hobbit"
+  ],
+  "confidence": "medium"
+ }
+]

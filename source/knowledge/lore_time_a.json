@@ -1,0 +1,712 @@
+[
+ {
+  "id": "lore:time-a-01",
+  "title": "Timeline: Before the Sun",
+  "group": "Timeline",
+  "kind": "Dated list of events",
+  "aka": [
+   "Years of the Lamps",
+   "Spring of Arda"
+  ],
+  "blurb": "The making of Arda, the Lamps of the Valar, and the first wars with Melkor, set out in order without years.",
+  "book": "This period covers the oldest times, before the Sun and Moon. The books give no years here, so the events are placed only in order.\n\nBeyond time: Eru Ilúvatar makes the Ainur, and they sing the Great Music before him.\nBeyond time: Melkor weaves discord into the Music, and Ilúvatar answers with new themes.\nBeyond time: Ilúvatar shows the Ainur a vision of the world and then gives it being as Eä.\nFirst days: many Ainur enter the world. The greater ones are the Valar, and the lesser ones are the Maiar.\nFirst days: the Valar shape Arda, and Melkor hinders and wrecks their work.\nFirst days: the Valar raise two great Lamps, Illuin and Ormal, on tall pillars in the north and the south.\nSpring of Arda: the Valar dwell on the isle of Almaren in a great lake, and the growing things of Yavanna flourish.\nSpring of Arda: Melkor returns in secret and builds the fortress of Utumno in the far north.\nEnd of the Spring: Melkor overthrows the Lamps. Their fall breaks the land and seas and ends Almaren.\nAfter the Lamps: the Valar leave Middle-earth and settle in Aman, in the far west.\nAfter the Lamps: the Valar raise the Pelóri mountains and build Valinor behind them.\nLater: Yavanna sings, and the Two Trees of Valinor grow and give light to the land.\nLater: Melkor holds Middle-earth from Utumno and builds a second stronghold, Angband, in the north-west.\nLater: Oromë hunts in the dark lands of Middle-earth, and he finds the Elves awake.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Period": "Before the Years of the Trees",
+   "Years": "None given in the books"
+  },
+  "places": [
+   {
+    "id": "b:FT01",
+    "role": "other",
+    "note": "Angband was the second stronghold that Melkor built in the north-west of Middle-earth."
+   }
+  ],
+  "related": [
+   "person:manwe",
+   "person:varda",
+   "person:aule",
+   "person:yavanna",
+   "person:ulmo",
+   "person:morgoth",
+   "person:orome",
+   "thing:lamps-of-the-valar",
+   "thing:two-trees"
+  ],
+  "sources": [
+   "The Silmarillion, Ainulindalë",
+   "The Silmarillion, Valaquenta",
+   "The Silmarillion, Quenta Silmarillion, chapters 1 and 2"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:time-a-02",
+  "title": "Timeline: The Awakening of the Elves",
+  "group": "Timeline",
+  "kind": "Dated list of events",
+  "aka": [
+   "Great Journey",
+   "Cuiviénen"
+  ],
+  "blurb": "The awakening of the Elves at Cuiviénen and the Great Journey toward the west, set out in order without years.",
+  "book": "The Two Trees began the Years of the Trees, and the Elves woke under the stars soon after. The books give no exact years for these events.\n\nEarly Years of the Trees: Telperion and Laurelin bloom in turn, and Valinor is lit by their light.\nEarly Years of the Trees: Varda makes the stars, and she sets them in the sky before the Elves wake.\nEarly Years of the Trees: the Elves awake beside the water of Cuiviénen in the far east of Middle-earth.\nEarly Years of the Trees: the Elves name themselves the Quendi, the people who speak with voices.\nSoon after: Melkor finds the Elves and sends shadows and spies to prey on them.\nSoon after: Oromë finds the Elves while hunting, and the Valar learn that the Children of Ilúvatar have come.\nThe War of the Powers: the Valar attack Melkor, break Utumno, and bind him in chains.\nThe War of the Powers: Melkor is taken to Valinor and held in the halls of Mandos for three ages.\nThe Summons: the Valar invite the Elves to come to Valinor.\nThe Summons: Ingwë, Finwë, and Elwë travel to Valinor as ambassadors and then return to their people.\nThe Great Journey: Oromë leads three hosts west, the Vanyar, the Noldor, and the Teleri.\nThe Great Journey: many Elves refuse the call and stay behind. They are later called the Avari.\nThe Great Journey: the Teleri halt at the river Anduin, and a part of them under Lenwë turns south and becomes the Nandor.\nThe Great Journey: Elwë meets Melian in the woods of Nan Elmoth and is lost to his people for many years.\nThe Great Journey: Ulmo carries the Vanyar and the Noldor across the sea, and the Teleri come later.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Period": "Years of the Trees",
+   "Years": "None given in the books"
+  },
+  "places": [],
+  "related": [
+   "person:orome",
+   "person:varda",
+   "person:yavanna",
+   "person:manwe",
+   "person:morgoth",
+   "person:finwe",
+   "person:thingol",
+   "person:melian",
+   "thing:two-trees"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapters 1 to 5"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:time-a-03",
+  "title": "Timeline: Noontide of Valinor and the Flight of the Noldor",
+  "group": "Timeline",
+  "kind": "Dated list of events",
+  "aka": [
+   "Darkening of Valinor",
+   "Kinslaying at Alqualondë"
+  ],
+  "blurb": "The high days of Valinor, the Silmarils, the Darkening, and the Flight of the Noldor, set out in order.",
+  "book": "Valinor reached its fullest glory late in the Years of the Trees. Then Melkor spread lies, and the Noldor left the land of the Valar.\n\nNoontide: the Noldor learn much under Aulë and make great works of craft in Tirion.\nNoontide: Fëanor, son of Finwë, invents the Tengwar letters and grows in skill beyond all other Noldor.\nNoontide: Finwë's first wife Míriel dies, and Finwë later marries Indis and has sons Fingolfin and Finarfin.\nNoontide: Fëanor makes the three Silmarils and fills them with the light of the Two Trees.\nNoontide: Melkor is freed from Mandos after three ages, and he feigns repentance.\nNoontide: Melkor spreads lies among the Noldor and sets Fëanor against his half-brothers.\nThe Darkening: Fëanor draws his sword on Fingolfin, and Finwë takes him before the Valar for judgment.\nThe Darkening: Fëanor is banished from Tirion and withdraws to Formenos, and Melkor goes into hiding.\nThe Darkening: Melkor and Ungoliant come to Valinor, kill the Two Trees, and steal the Silmarils from Formenos.\nThe Darkening: Melkor kills Finwë at Formenos and flees north with the Silmarils.\nThe Flight: Fëanor swears his terrible Oath with his seven sons, and many of the Noldor choose to follow him.\nThe Flight: the Noldor march north, and the host of Fëanor takes the Teleri ships at Alqualondë by force.\nThe Flight: the Doom of Mandos falls on the Noldor. Finarfin and many of his people turn back, but Fingolfin goes on.\nThe Flight: Fëanor sails to Middle-earth, lands at Losgar, and burns the ships behind him.\nThe Flight: Fëanor wins the Dagor-nuin-Giliath and is mortally wounded by Gothmog near Angband.\nThe Flight: Fingolfin's host crosses the Helcaraxë, the grinding ice, and reaches Middle-earth at the first rising of the Moon.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Period": "Late Years of the Trees",
+   "Years": "None given in the books"
+  },
+  "places": [
+   {
+    "id": "b:HA01",
+    "role": "other",
+    "note": "Fëanor landed at Losgar and burned the ships that brought the Noldor from Aman."
+   },
+   {
+    "id": "b:battle:dagor-nuin-giliath",
+    "role": "fought",
+    "note": "Fëanor's host defeated Melkor's army in the Battle under Stars."
+   },
+   {
+    "id": "b:RG03",
+    "role": "other",
+    "note": "Fingolfin's host later camped by Lake Mithrim after crossing the ice."
+   }
+  ],
+  "related": [
+   "person:feanor",
+   "person:finwe",
+   "person:fingolfin",
+   "person:finarfin",
+   "person:morgoth",
+   "person:ungoliant",
+   "person:mandos",
+   "thing:silmarils",
+   "thing:swan-ships",
+   "thing:two-trees"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapters 6 to 9",
+   "The Silmarillion, Quenta Silmarillion, chapters 9 to 13"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:time-a-04",
+  "title": "Timeline: First Age 1 to 100",
+  "group": "Timeline",
+  "kind": "Dated list of events",
+  "aka": [
+   "First century of the Sun"
+  ],
+  "blurb": "The first century of the Sun in Beleriand, from the rising of the Sun to the Dagor Aglareb.",
+  "book": "The First Age begins with the Sun in the sky and the Noldor of Fingolfin in Beleriand. The early years bring the Siege of Angband.\n\nF.A. 1: the Sun rises for the first time, and Fingolfin's host marches into Mithrim.\nF.A. 1: Fingolfin's people camp by Lake Mithrim, apart from the people of Fëanor.\nEarly years: Fingolfin and his people learn of Fëanor's death and the doom of the Silmarils.\nEarly years: Fingon rescues Maedhros from Thangorodrim, with help from Thorondor, king of the Eagles.\nEarly years: Maedhros gives up his claim to the kingship in favour of Fingolfin.\nEarly years: Fëanor's sons keep the eastern lands, and Maedhros takes Himring as his fortress.\nEarly years: the Feast of Reuniting is held in Mithrim, and the Noldor and the Sindar become friends.\nEarly years: Thingol rules in Doriath behind the Girdle of Melian, and he allows the Noldor to settle elsewhere in Beleriand.\nEarly years: Finrod Felagund founds Nargothrond, and Turgon begins to plan a hidden city.\nEarly years: Fingolfin rules Hithlum, and Fingon holds Dor-lómin.\nEarly years: Dwarves of Belegost and Nogrod trade with Thingol and the Elves.\nF.A. 60: Melkor sends his orcs against the Elves, and the Dagor Aglareb ends in a Noldorin victory.\nF.A. 60: the Noldor besiege Angband, and the Siege lasts for about four hundred years.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Period": "First Age 1 to 100",
+   "Siege of Angband": "From about F.A. 60"
+  },
+  "places": [
+   {
+    "id": "b:battle:dagor-aglareb",
+    "role": "fought",
+    "note": "The Noldor and Sindar defeated Melkor's orcs in the Glorious Battle."
+   },
+   {
+    "id": "b:FT01",
+    "role": "other",
+    "note": "Angband was the fortress of Melkor that the Noldor besieged."
+   },
+   {
+    "id": "b:RG03",
+    "role": "other",
+    "note": "Fingolfin's host first camped in Mithrim."
+   },
+   {
+    "id": "b:FT04",
+    "role": "ruled",
+    "note": "Maedhros held the hill fortress of Himring."
+   },
+   {
+    "id": "b:TO02",
+    "role": "ruled",
+    "note": "Finrod Felagund founded Nargothrond."
+   },
+   {
+    "id": "b:TO01",
+    "role": "ruled",
+    "note": "Thingol ruled Doriath from Menegroth."
+   }
+  ],
+  "related": [
+   "person:fingolfin",
+   "person:fingon",
+   "person:maedhros",
+   "person:thingol",
+   "person:thorondor",
+   "person:finrod-felagund",
+   "person:turgon",
+   "person:morgoth"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapters 13 and 14",
+   "The Silmarillion, Annals of Beleriand"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:time-a-05",
+  "title": "Timeline: First Age 100 to 455",
+  "group": "Timeline",
+  "kind": "Dated list of events",
+  "aka": [
+   "The Long Peace",
+   "Siege of Angband"
+  ],
+  "blurb": "The long peace of the Siege of Angband, the coming of the Edain, and the years before the Battle of Sudden Flame.",
+  "book": "For about three centuries the Siege of Angband held Melkor's armies in the north. The Noldor prospered, and Men arrived in Beleriand.\n\nEarly in this period: Turgon builds Gondolin in the hidden valley of Tumladen and withdraws behind its walls.\nEarly in this period: the Elves of Beleriand live in peace behind the Siege, and their realms grow rich.\nEarly in this period: Thingol and Melian dwell in Menegroth, and Doriath is closed to strangers by the Girdle.\nEarly in this period: Fingolfin rules his people from Hithlum, and Fingon holds the north-west.\nAbout F.A. 260: Glaurung, the first of the dragons, comes out of Angband, but the Noldor drive him back.\nAbout F.A. 260: Fingon and the Noldor drive the fire-drake back, and the Siege still holds.\nAbout F.A. 310: Bëor and his people, the first Men to cross the Blue Mountains, enter Beleriand and meet Finrod.\nAbout F.A. 310: Bëor becomes a loyal man of Finrod, and his people later hold lands in Dorthonion and Ladros.\nLater: the Haladin come into Beleriand under Haldad. After his death his daughter Haleth leads them, and they settle in the forest of Brethil.\nLater: the people of Marach cross the Blue Mountains, and many of them settle in Estolad.\nLater: Hador Lórindol is given the lordship of Dor-lómin by Fingolfin.\nLater: the Edain become friends of the Noldor, and many of them serve the lords of the Elves.\nLate in this period: Melkor prepares a great attack and breeds new creatures in the deep of Angband.\nF.A. 455: the Siege ends in the Dagor Bragollach, the Battle of Sudden Flame.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Period": "First Age 100 to 455",
+   "Ending": "F.A. 455, Dagor Bragollach"
+  },
+  "places": [
+   {
+    "id": "b:TO03",
+    "role": "other",
+    "note": "Turgon hid Gondolin and its people from the sight of Melkor."
+   },
+   {
+    "id": "b:TO01",
+    "role": "other",
+    "note": "Thingol and Melian dwelt in Menegroth, in Doriath."
+   },
+   {
+    "id": "b:battle:first-coming-of-glaurung",
+    "role": "fought",
+    "note": "Glaurung the dragon was driven back by the Noldor."
+   },
+   {
+    "id": "b:RG11",
+    "role": "lived",
+    "note": "Bëor's people held lands in Dorthonion."
+   },
+   {
+    "id": "b:RG02",
+    "role": "ruled",
+    "note": "Hador Lórindol held Dor-lómin under Fingolfin."
+   },
+   {
+    "id": "b:battle:dagor-bragollach",
+    "role": "fought",
+    "note": "The Siege ended in the Battle of Sudden Flame."
+   }
+  ],
+  "related": [
+   "person:turgon",
+   "person:thingol",
+   "person:melian",
+   "person:beor",
+   "person:hador",
+   "person:haleth",
+   "person:finrod-felagund",
+   "person:fingolfin",
+   "person:glaurung"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapters 15 to 17",
+   "The Silmarillion, Annals of Beleriand"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:time-a-06",
+  "title": "Timeline: First Age 455 to 472",
+  "group": "Timeline",
+  "kind": "Dated list of events",
+  "aka": [
+   "From the Bragollach to the Nírnaeth"
+  ],
+  "blurb": "The Battle of Sudden Flame, the quest of Beren and Lúthien, and the Nírnaeth Arnoediad, from F.A. 455 to 472.",
+  "book": "The Dagor Bragollach broke the Siege of Angband. The next seventeen years held great losses and the Quest for the Silmaril.\n\nF.A. 455: the Dagor Bragollach breaks the Siege, and Morgoth sets Ard-galen alight.\nF.A. 455: Dorthonion falls, and Angrod and Aegnor die in the fighting.\nF.A. 455: Barahir saves Finrod's life, and Finrod gives him a ring as a token of his thanks.\nF.A. 455: Glaurung comes out of Angband for the second time, and the Noldor lose many lands.\nSoon after the battle: Fingolfin rides to Angband in despair and challenges Morgoth to single combat. The Silmarillion gives no year; the later annals give F.A. 456.\nSoon after the battle: Fingolfin wounds Morgoth seven times but dies, and Thorondor carries his body away.\nSoon after the battle: Fingon becomes the High King of the Noldor, and Hithlum stands against the dark.\nSoon after: Sauron takes the tower of Minas Tirith on Tol Sirion.\nAfter the Bragollach: Barahir and his men hold out in Dorthonion as outlaws.\nAfter the Bragollach: Gorlim is tricked by Sauron and reveals the hiding place, and the outlaws are slain except for Beren.\nAfter the Bragollach: Beren flees Dorthonion, passes the Nan Dungortheb, and comes to Doriath.\nAfter the Bragollach: Beren meets Lúthien in Neldoreth, and Thingol sets him the quest for a Silmaril.\nAfter the Bragollach: Lúthien and Huan defeat Sauron on Tol Sirion, and Beren is freed.\nAfter the Bragollach: Beren and Lúthien take a Silmaril from the crown of Morgoth.\nAfter the Bragollach: the wolf Carcharoth bites off Beren's hand, and the wolf later runs wild in Doriath.\nBefore F.A. 472: Maedhros plans a great union of Elves and Men to break Morgoth's power.\nF.A. 472: the Nírnaeth Arnoediad is lost through the treachery of Men from the east and through Morgoth's craft.\nF.A. 472: Fingon dies, Húrin is taken, and Turgon withdraws to Gondolin and shuts the gates.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Period": "First Age 455 to 472",
+   "Key battles": "Dagor Bragollach and Nírnaeth Arnoediad"
+  },
+  "places": [
+   {
+    "id": "b:battle:dagor-bragollach",
+    "role": "fought",
+    "note": "Morgoth broke the Siege of Angband with fire and orcs."
+   },
+   {
+    "id": "b:battle:duel-fingolfin-morgoth",
+    "role": "fought",
+    "note": "Fingolfin fought Morgoth before the gates of Angband."
+   },
+   {
+    "id": "b:battle:end-of-barahirs-outlaws",
+    "role": "fought",
+    "note": "Barahir's outlaws were slain at Tarn Aeluin."
+   },
+   {
+    "id": "b:battle:duel-at-tol-in-gaurhoth",
+    "role": "fought",
+    "note": "Lúthien and Huan overcame Sauron on Tol Sirion."
+   },
+   {
+    "id": "b:battle:hunting-of-carcharoth",
+    "role": "fought",
+    "note": "Beren and Huan fought the wolf in Doriath."
+   },
+   {
+    "id": "b:battle:nirnaeth-arnoediad",
+    "role": "fought",
+    "note": "The great union of the Free Peoples failed in the Battle of Unnumbered Tears."
+   }
+  ],
+  "related": [
+   "person:fingolfin",
+   "person:fingon",
+   "person:barahir",
+   "person:beren",
+   "person:luthien",
+   "person:morgoth",
+   "person:huan",
+   "person:hurin",
+   "person:turgon",
+   "thing:silmarils"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapters 18 to 20",
+   "The Silmarillion, Annals of Beleriand"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:time-a-07",
+  "title": "Timeline: First Age 473 to 505",
+  "group": "Timeline",
+  "kind": "Dated list of events",
+  "aka": [
+   "Years of the Children of Húrin"
+  ],
+  "blurb": "The years after the Nírnaeth Arnoediad, the tale of Túrin, and the fall of Nargothrond.",
+  "book": "After the Nírnaeth Arnoediad Morgoth ruled most of Beleriand. This period holds the tale of Túrin and his family. The Silmarillion gives few exact years here; the later annals give more.\n\nSoon after F.A. 472: Morgoth rules almost all of Beleriand, and Hithlum falls to the Easterlings.\nAfter the Nírnaeth: Húrin is held captive in Angband and is made to watch the fates of his kin.\nAfter the Nírnaeth: Túrin goes to Doriath and grows up in the halls of Thingol.\nAfter the Nírnaeth: Túrin chases Saeros of Doriath, who falls to his death in a ravine, and Túrin flees as an outlaw.\nAfter the Nírnaeth: Beleg Cúthalion finds Túrin and follows him into the wild.\nAfter the Nírnaeth: Túrin becomes the captain of an outlaw band and later lives in the hidden stronghold of Amon Rûdh.\nAfter the Nírnaeth: Túrin kills Beleg by mistake, and Gwindor leads him to Nargothrond.\nAfter the Nírnaeth: Glaurung and his orcs destroy Nargothrond in the Battle of Tumhalad.\nAfter the Nírnaeth: Glaurung bewitches Túrin, and the orcs carry off Finduilas.\nAfter the Nírnaeth: Túrin comes to the land of the Haladin and calls himself Turambar.\nAfter the Nírnaeth: Nienor, his sister, loses her memory by the spell of Glaurung and comes to Brethil.\nAfter the Nírnaeth: Túrin slays Glaurung at Cabed-en-Aras.\nAfter the Nírnaeth: Nienor learns the truth and leaps into the Teiglin, and Túrin kills Brandir.\nAfter the Nírnaeth: Túrin dies on his own sword Gurthang.\nAfter the Nírnaeth: Morgoth frees Húrin, and Húrin finds Morwen dying at the grave of Túrin by Cabed-en-Aras.\nAfter the Nírnaeth: Húrin brings the Nauglamír from the hoard of Nargothrond to Thingol.\nLast years of the period: Tuor, son of Huor, reaches Gondolin and marries Idril, and Eärendil is born.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Period": "First Age 473 to 505",
+   "Main story": "The Children of Húrin"
+  },
+  "places": [
+   {
+    "id": "b:battle:battle-of-tumhalad",
+    "role": "fought",
+    "note": "Glaurung and the orcs destroyed Nargothrond."
+   },
+   {
+    "id": "b:battle:slaying-of-glaurung",
+    "role": "fought",
+    "note": "Túrin killed Glaurung at the ravine of Cabed-en-Aras."
+   },
+   {
+    "id": "b:TO02",
+    "role": "lost",
+    "note": "Nargothrond fell to Glaurung and Morgoth's orcs."
+   },
+   {
+    "id": "b:FO04",
+    "role": "lived",
+    "note": "Túrin lived among the Haladin of Brethil."
+   },
+   {
+    "id": "b:HI03",
+    "role": "lived",
+    "note": "Túrin took Amon Rûdh as a hold for his band."
+   },
+   {
+    "id": "b:TO01",
+    "role": "lived",
+    "note": "Túrin grew up in Doriath as Thingol's fosterling."
+   }
+  ],
+  "related": [
+   "person:turin",
+   "person:hurin",
+   "person:morwen",
+   "person:nienor",
+   "person:beleg",
+   "person:gwindor",
+   "person:glaurung",
+   "person:thingol",
+   "person:tuor",
+   "person:earendil",
+   "thing:gurthang",
+   "thing:nauglamir"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapter 21",
+   "The Children of Húrin",
+   "Unfinished Tales, Narn i Hîn Húrin"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:time-a-08",
+  "title": "Timeline: First Age 506 to 590",
+  "group": "Timeline",
+  "kind": "Dated list of events",
+  "aka": [
+   "Fall of Gondolin to the War of Wrath"
+  ],
+  "blurb": "Doriath and Gondolin fall, the Havens of Sirion are attacked, Eärendil sails West, and the War of Wrath ends the First Age.",
+  "book": "This last period holds the loss of the hidden realms of the Elves, the plea of Eärendil, and the war of the Valar against Morgoth. The Silmarillion gives no years here. The years below come from Tolkien's later annals.\n\nBefore F.A. 506: Dior, heir of Thingol, keeps the Silmaril in Doriath, and the sons of Fëanor demand it.\nAbout F.A. 506: Dior is killed and Doriath is ruined in the Second Kinslaying.\nAbout F.A. 506: Elwing, Dior's daughter, escapes to the mouths of Sirion with the Silmaril.\nBefore F.A. 510: Morgoth learns the hiding place of Gondolin through Maeglin, who is taken by Orcs and betrays the city.\nF.A. 510: Gondolin falls, Turgon dies, and Idril and Tuor flee with Eärendil.\nAfter Gondolin: Tuor and Idril take the survivors to the Havens of Sirion, where they join Elwing's people.\nLater: the sons of Fëanor attack the Havens of Sirion in the Third Kinslaying.\nLater: Elwing casts herself into the sea with the Silmaril, and Ulmo changes her into a bird.\nLater: Eärendil sails Vingilot over the sea, reaches Valinor, and brings word of the Elves and Men.\nAfter the voyage: Eärendil pleads for the Elves and Men before the Valar, and the Valar answer.\nAfter the plea: the Host of the West sails to Middle-earth, led by Eönwë.\nThe War of Wrath: the great war begins, and Beleriand is broken by the battles.\nThe War of Wrath: Ancalagon the Black rises, and Eärendil slays him over Thangorodrim.\nThe War of Wrath: Morgoth is thrown from Arda into the Void, and Angband is destroyed.\nThe War of Wrath: Beleriand sinks beneath the sea, and its high places remain as islands.\nAbout F.A. 590: the First Age ends, and the surviving Elves go to Lindon or over the sea to Tol Eressëa. This year comes from the later annals; the published books give none.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Period": "First Age 506 to 590",
+   "End of the age": "About F.A. 590 (later annals)"
+  },
+  "places": [
+   {
+    "id": "b:battle:fall-of-gondolin",
+    "role": "fought",
+    "note": "Morgoth's host broke Gondolin."
+   },
+   {
+    "id": "b:battle:second-kinslaying",
+    "role": "fought",
+    "note": "The sons of Fëanor destroyed Doriath."
+   },
+   {
+    "id": "b:battle:third-kinslaying",
+    "role": "fought",
+    "note": "The sons of Fëanor attacked the Havens of Sirion."
+   },
+   {
+    "id": "b:battle:war-of-wrath",
+    "role": "fought",
+    "note": "The Host of the West overthrew Morgoth."
+   },
+   {
+    "id": "b:TO07",
+    "role": "lived",
+    "note": "Elwing and the refugees of Gondolin lived at the Havens of Sirion."
+   },
+   {
+    "id": "b:FT01",
+    "role": "destroyed",
+    "note": "Angband was broken in the War of Wrath."
+   }
+  ],
+  "related": [
+   "person:earendil",
+   "person:elwing",
+   "person:maeglin",
+   "person:turgon",
+   "person:tuor",
+   "person:idril",
+   "person:eonwe",
+   "person:ancalagon",
+   "person:morgoth",
+   "thing:vingilot",
+   "thing:silmarils"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapters 22 to 24"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:time-a-09",
+  "title": "Timeline: Second Age 1 to 1000",
+  "group": "Timeline",
+  "kind": "Dated list of events",
+  "aka": [],
+  "blurb": "The early Second Age, from the founding of Lindon and the Grey Havens to the first shadow in Mordor.",
+  "book": "The Second Age begins after the War of Wrath. The first thousand years brought peace in the west and the rise of Númenor.\n\nAbout S.A. 1: the Grey Havens and the realm of Lindon are founded. Gil-galad is king in Lindon, and Círdan keeps the Havens.\nEarly in the age: the Edain, who aided the Valar against Morgoth, are given the island of Númenor as a gift.\nEarly in the age: many Noldor and Sindar stay in Middle-earth, and some go over the sea.\nEarly in the age: Elrond chooses to live among the Elves, and Elros chooses to be a king of Men.\nS.A. 32: the Edain land in Númenor, and Elros becomes the first king as Tar-Minyatur.\nS.A. 442: Elros dies. His son Vardamir Nólimon is counted as the second king, but he gives the sceptre at once to his son Amandil.\nAbout S.A. 500: Sauron, once a servant of Morgoth, begins to stir again in Middle-earth.\nS.A. 600: the first Númenórean ships appear off the coasts of Middle-earth.\nS.A. 750: Celebrimbor and the Noldor found Eregion near Khazad-dûm.\nAfter S.A. 750: the Elves of Eregion and the Dwarves of Khazad-dûm trade and become friends.\nThe following centuries: the Númenóreans become great sailors and meet the Men of Middle-earth.\nAbout S.A. 1000: Sauron, alarmed by the power of Númenor, chooses Mordor as his land and starts to build Barad-dûr.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Period": "Second Age 1 to 1000"
+  },
+  "places": [
+   {
+    "id": "realm:lindon",
+    "role": "other",
+    "note": "Lindon held the Elves under Gil-galad."
+   },
+   {
+    "id": "TO043",
+    "role": "other",
+    "note": "Círdan kept the Grey Havens."
+   },
+   {
+    "id": "realm:eregion",
+    "role": "made",
+    "note": "Celebrimbor and the Noldor made Eregion."
+   },
+   {
+    "id": "realm:mordor",
+    "role": "other",
+    "note": "Sauron settled in Mordor."
+   }
+  ],
+  "related": [
+   "person:gil-galad",
+   "person:cirdan",
+   "person:elros",
+   "person:elrond",
+   "person:celebrimbor",
+   "person:sauron"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix B",
+   "The Silmarillion, Akallabêth",
+   "The Silmarillion, Of the Rings of Power and the Third Age",
+   "Unfinished Tales, Part Two, The Line of Elros"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:time-a-10",
+  "title": "Timeline: Second Age 1000 to 1701",
+  "group": "Timeline",
+  "kind": "Dated list of events",
+  "aka": [],
+  "blurb": "The Rings of Power, the forging of the One Ring, and the war of the Elves and Sauron.",
+  "book": "In this period Sauron deceived the Elven-smiths of Eregion, forged the One Ring, and made war on Gil-galad and the Elves.\n\nAbout S.A. 1200: Sauron tries to win over the Elves. Gil-galad refuses him, but the smiths of Eregion accept his teaching.\nAbout S.A. 1500: the Elven-smiths, taught by Sauron, reach the height of their skill and begin to forge the Rings of Power.\nAbout S.A. 1590: Celebrimbor completes the Three Rings of the Elves in Eregion, and Sauron has no hand in them.\nAbout S.A. 1600: Sauron forges the One Ring in Orodruin and completes Barad-dûr. Celebrimbor sees his purpose.\nS.A. 1693: the war between Sauron and the Elves begins, and the Three Rings are hidden.\nS.A. 1695: Sauron's armies overrun Eriador, and Gil-galad sends Elrond to Eregion.\nS.A. 1697: Eregion is laid waste, Celebrimbor is slain, and the gates of Moria are shut.\nS.A. 1697: Elrond withdraws with the survivors and founds Imladris.\nS.A. 1699: Sauron overruns Eriador.\nS.A. 1700: Tar-Minastir of Númenor sends a great fleet to Lindon, and Sauron is defeated.\nS.A. 1701: Sauron is driven out of Eriador, and the Westlands have peace for a long while.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Period": "Second Age 1000 to 1701",
+   "Ring year": "S.A. 1600"
+  },
+  "places": [
+   {
+    "id": "TO079",
+    "role": "lost",
+    "note": "Ost-in-Edhil, the chief city of Eregion, fell to Sauron."
+   },
+   {
+    "id": "battle:sack-of-eregion",
+    "role": "fought",
+    "note": "Sauron's armies destroyed Eregion in the war."
+   },
+   {
+    "id": "FT004",
+    "role": "made",
+    "note": "Sauron built Barad-dûr in Mordor."
+   },
+   {
+    "id": "MT036",
+    "role": "made",
+    "note": "Sauron forged the One Ring in the Mountain of Fire."
+   },
+   {
+    "id": "TO084",
+    "role": "made",
+    "note": "Elrond founded Imladris in a hidden valley."
+   }
+  ],
+  "related": [
+   "person:sauron",
+   "person:celebrimbor",
+   "person:gil-galad",
+   "person:elrond",
+   "thing:one-ring",
+   "thing:nenya",
+   "thing:narya",
+   "thing:vilya",
+   "thing:seven-rings",
+   "thing:nine-rings"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix B",
+   "The Silmarillion, Of the Rings of Power and the Third Age"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:time-a-11",
+  "title": "Timeline: Second Age 1701 to 3175",
+  "group": "Timeline",
+  "kind": "Dated list of events",
+  "aka": [],
+  "blurb": "The shadow over Númenor and the growth of Sauron's power, from his defeat in Eriador to the reign of Tar-Palantir.",
+  "book": "After the defeat of Sauron, Númenor reached the height of its power. Then it fell slowly into pride and the fear of death.\n\nS.A. 1701: Sauron retreats to Mordor, and Eriador is free again.\nAbout S.A. 1800: the Númenóreans begin to set up lordships on the coasts of Middle-earth, and the shadow falls on Númenor.\nUnder Tar-Atanamir the Great: the Númenóreans begin to murmur against the ban of the Valar.\nS.A. 2251: Appendix B says Tar-Atanamir takes the sceptre in this year, but Unfinished Tales gives other years for his reign. The rebellion and division of the Númenóreans begin.\nAbout S.A. 2251: the Nazgûl, the Nine Ringwraiths, first appear.\nS.A. 2280: Umbar is made into a great fortress of Númenor.\nS.A. 2350: Pelargir is built, and it becomes the chief haven of the Faithful.\nS.A. 2899: Ar-Adûnakhôr becomes king, and he takes a royal title in the Adûnaic tongue.\nUnder Ar-Gimilzôr: the king persecutes the Faithful and forbids the Elvish tongue.\nS.A. 3175: Tar-Palantír, the Far-sighted, repents of the deeds of the kings before him, and civil war breaks out in Númenor.\nAfter S.A. 3175: the Faithful, led by Amandil and Elendil, keep their love for the Elves and the Valar.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Period": "Second Age 1701 to 3175"
+  },
+  "places": [
+   {
+    "id": "TO081",
+    "role": "made",
+    "note": "Pelargir was built as a haven of the Númenóreans in S.A. 2350."
+   },
+   {
+    "id": "realm:mordor",
+    "role": "other",
+    "note": "Sauron grew strong again in Mordor."
+   }
+  ],
+  "related": [
+   "person:tar-palantir",
+   "person:amandil",
+   "person:elendil",
+   "person:sauron",
+   "person:witch-king",
+   "thing:nine-rings"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix B",
+   "The Silmarillion, Akallabêth",
+   "Unfinished Tales, Part Two, The Line of Elros"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:time-a-12",
+  "title": "Timeline: Second Age 3175 to 3319",
+  "group": "Timeline",
+  "kind": "Dated list of events",
+  "aka": [],
+  "blurb": "The corruption of Númenor, Sauron's captivity there, and the Downfall of the island in S.A. 3319.",
+  "book": "This period holds the last kings of Númenor, the arrival of Sauron as a prisoner, and the great punishment of the island.\n\nS.A. 3175: Tar-Palantír, the Far-sighted, repents and tries to turn the kingdom back to the Valar. Civil war follows.\nS.A. 3255: his nephew Ar-Pharazôn seizes the sceptre and the throne of Númenor.\nS.A. 3261: Ar-Pharazôn lands at Umbar with a great army to challenge Sauron.\nS.A. 3262: Sauron yields, and he is taken to Númenor as a hostage.\nAfter S.A. 3262: Sauron corrupts the king and many of the Númenóreans, and he builds a temple to Morgoth.\nAfter S.A. 3262: the Faithful are hunted, and the white tree Nimloth is felled and burned.\nAfter S.A. 3262: Isildur saves a fruit of Nimloth, and the Faithful hold to their hope.\nS.A. 3310: Ar-Pharazôn begins to build a great fleet, and the king grows afraid of death.\nS.A. 3319: the Númenórean fleet sails against Valinor, and the Valar call on Ilúvatar for help.\nS.A. 3319: Ilúvatar sinks Númenor beneath the sea, and Aman is removed from the world.\nS.A. 3319: Elendil, Isildur, and Anárion sail to Middle-earth with nine ships.\nS.A. 3319: Sauron's body is destroyed, but his spirit escapes to Mordor.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Period": "Second Age 3175 to 3319",
+   "Downfall": "S.A. 3319"
+  },
+  "places": [
+   {
+    "id": "realm:mordor",
+    "role": "other",
+    "note": "Sauron fled to Mordor after the Downfall."
+   }
+  ],
+  "related": [
+   "person:ar-pharazon",
+   "person:tar-palantir",
+   "person:sauron",
+   "person:amandil",
+   "person:elendil",
+   "person:isildur",
+   "person:anarion",
+   "person:tar-miriel",
+   "thing:nimloth"
+  ],
+  "sources": [
+   "The Silmarillion, Akallabêth",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:time-a-13",
+  "title": "Timeline: Second Age 3320 to 3441",
+  "group": "Timeline",
+  "kind": "Dated list of events",
+  "aka": [],
+  "blurb": "The Realms in Exile and the Last Alliance of Elves and Men, from S.A. 3320 to the fall of Sauron.",
+  "book": "Elendil and his sons founded two kingdoms after the Downfall. Sauron returned, and the Last Alliance brought about his defeat.\n\nS.A. 3320: Elendil founds Arnor in the north, and Isildur and Anárion found Gondor in the south.\nS.A. 3320: the seven palantíri are divided among the realms, and Isildur plants a seedling of the White Tree at Minas Ithil. Sauron returns to Mordor.\nS.A. 3429: Sauron attacks Gondor, takes Minas Ithil, and burns the White Tree.\nS.A. 3429: Isildur escapes down the Anduin and goes to Elendil in the north, and Anárion holds Minas Anor and Osgiliath.\nS.A. 3430: the Last Alliance of Elves and Men is formed between Gil-galad and Elendil.\nS.A. 3431: Gil-galad and Elendil march east to Imladris.\nS.A. 3434: the host crosses the Misty Mountains, and the army of the Alliance defeats Sauron's host in the Battle of Dagorlad.\nS.A. 3434: the Siege of Barad-dûr begins and lasts for seven years.\nS.A. 3440: Anárion is killed in the Siege by a stone thrown from the Dark Tower.\nS.A. 3441: Sauron himself fights Gil-galad and Elendil, and both of them die.\nS.A. 3441: Isildur cuts the One Ring from Sauron's hand with the hilt-shard of his father's sword Narsil.\nS.A. 3441: Sauron is overthrown, the Ringwraiths pass into the shadows, and the Second Age ends.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Period": "Second Age 3320 to 3441",
+   "Founding": "S.A. 3320",
+   "End": "S.A. 3441"
+  },
+  "places": [
+   {
+    "id": "battle:dagorlad",
+    "role": "fought",
+    "note": "The Last Alliance defeated Sauron's army before the Black Gate."
+   },
+   {
+    "id": "TO064",
+    "role": "lost",
+    "note": "Minas Ithil was taken by Sauron in S.A. 3429."
+   },
+   {
+    "id": "TO078",
+    "role": "lived",
+    "note": "Osgiliath was the chief city of Gondor."
+   },
+   {
+    "id": "FT004",
+    "role": "other",
+    "note": "Barad-dûr was besieged for seven years."
+   },
+   {
+    "id": "MT036",
+    "role": "other",
+    "note": "Isildur cut the Ring from Sauron's hand on the slopes of Orodruin."
+   },
+   {
+    "id": "realm:arnor",
+    "role": "ruled",
+    "note": "Elendil ruled Arnor in the north."
+   }
+  ],
+  "related": [
+   "person:elendil",
+   "person:isildur",
+   "person:anarion",
+   "person:gil-galad",
+   "person:sauron",
+   "person:elrond",
+   "thing:one-ring",
+   "thing:elendilmir"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix B",
+   "The Silmarillion, Of the Rings of Power and the Third Age"
+  ],
+  "confidence": "high"
+ }
+]

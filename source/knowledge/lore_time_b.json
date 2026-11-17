@@ -1,0 +1,985 @@
+[
+ {
+  "id": "lore:time-b-01-ta-1-1000",
+  "title": "Timeline: Third Age 1 to 1000",
+  "group": "Timeline",
+  "kind": "Dated list of events",
+  "aka": [],
+  "blurb": "Dated events from the founding of the Realms in Exile to the end of the first millennium of the Third Age.",
+  "book": "The first thousand years of the Third Age began with the fall of Sauron and the founding of Gondor and Arnor, and they were years of growth for the Dúnedain.\n\nT.A. 1: The Third Age begins. Sauron has fallen, and the Dúnedain hold the two Realms in Exile, Arnor in the north and Gondor in the south.\nT.A. 2: Before he marches north, Isildur plants a seedling of the White Tree in Minas Anor and gives the rule of Gondor to Meneldil, son of Anárion.\nT.A. 2: Orcs ambush Isildur at the Gladden Fields. He and his three elder sons are killed, and the One Ring is lost in the Anduin.\nT.A. 3: Ohtar brings the shards of Narsil to Imladris.\nT.A. 10: Valandil, the youngest son of Isildur, becomes King of Arnor.\nT.A. 109: Elrond weds Celebrían, the daughter of Celeborn and Galadriel.\nT.A. 158: Meneldil dies, and his son Cemendur becomes King of Gondor.\nT.A. 241: Arwen Undómiel, the daughter of Elrond and Celebrían, is born.\nT.A. 249: Valandil, King of Arnor, dies.\nT.A. 490: The first invasion of the Easterlings falls on Gondor.\nT.A. 500: Rómendacil I defeats the Easterlings.\nT.A. 541: Rómendacil I, King of Gondor, is slain in battle against the Easterlings.\nT.A. 861: Eärendur, King of Arnor, dies. His three sons divide the realm into Arthedain, Rhudaur and Cardolan.\nT.A. 933: Eärnil I of Gondor takes Umbar, and it becomes a fortress of Gondor.\nT.A. 936: Eärnil I is lost at sea in a great storm, with much of his fleet.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Lord of the Rings, Appendix B",
+   "Period": "T.A. 1 to 1000"
+  },
+  "places": [
+   {
+    "id": "SW006",
+    "role": "died",
+    "note": "Isildur is killed by Orcs near the Gladden Fields."
+   },
+   {
+    "id": "battle:gladden-fields",
+    "role": "fought",
+    "note": "The disaster at the Gladden Fields costs Isildur his life and the Ring."
+   },
+   {
+    "id": "realm:gondor",
+    "role": "ruled",
+    "note": "Meneldil and his heirs rule the southern kingdom."
+   },
+   {
+    "id": "realm:arnor",
+    "role": "ruled",
+    "note": "The north kingdom divides in T.A. 861."
+   },
+   {
+    "id": "TO084",
+    "role": "lived",
+    "note": "Elrond dwells in Rivendell through these years."
+   },
+   {
+    "id": "TO078",
+    "role": "other",
+    "note": "Osgiliath is the chief city of Gondor in these years."
+   }
+  ],
+  "related": [
+   "person:isildur",
+   "person:meneldil",
+   "person:valandil",
+   "person:elrond",
+   "person:celebrian",
+   "person:arwen",
+   "thing:one-ring",
+   "person:elendil"
+  ],
+  "sources": [
+   "The Return of the King, Appendix B, The Tale of Years",
+   "The Return of the King, Appendix A, I"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:time-b-02-ta-1000-1636",
+  "title": "Timeline: T.A. 1000 to 1636",
+  "group": "Timeline",
+  "kind": "Dated list of events",
+  "aka": [],
+  "blurb": "Dated events from the arrival of the Wizards to the Great Plague.",
+  "book": "In these centuries the Wizards came, a shadow fell on Greenwood, Angmar rose, Gondor suffered the Kin-strife and a great plague struck the West.\n\nAbout T.A. 1000: The Wizards, called the Istari, appear in Middle-earth.\nT.A. 1015: King Ciryandil of Gondor is slain while he besieges Umbar, and his son Ciryaher takes the crown as Hyarmendacil I.\nT.A. 1050: Hyarmendacil subdues Harad, and Gondor reaches the height of its power. A shadow falls on Greenwood, and men begin to call it Mirkwood.\nAbout T.A. 1100: The Wise learn that an evil power has made a stronghold at Dol Guldur. They think it is one of the Nazgûl.\nAbout T.A. 1300: Evil creatures multiply again, the Nazgûl reappear, and their chief comes north to Angmar.\nT.A. 1356: Argeleb I of Arthedain is killed in the war with Rhudaur.\nT.A. 1409: The Witch-king invades Arnor. King Arveleg I is slain, and the tower of Amon Sûl is destroyed.\nT.A. 1432: Valacar dies. His son Eldacar becomes King of Gondor, and the Kin-strife begins.\nT.A. 1437: Osgiliath is burned and its palantír is lost. Eldacar flees to Rhovanion, and Castamir the Usurper takes the throne.\nT.A. 1447: Eldacar returns, and Castamir is slain at the Crossings of Erui.\nT.A. 1448: The rebels escape and seize Umbar.\nT.A. 1601: Hobbits from Bree cross the Brandywine and settle in the Shire, with leave from King Argeleb II. The Shire Reckoning begins in this year.\nT.A. 1636: The Great Plague strikes. King Telemnar dies, the White Tree withers and the Dúnedain of Cardolan come to an end.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Lord of the Rings, Appendix B",
+   "Period": "T.A. 1000 to 1636"
+  },
+  "places": [
+   {
+    "id": "FT008",
+    "role": "other",
+    "note": "The Wise fear a power in the old fortress of Dol Guldur."
+   },
+   {
+    "id": "realm:angmar",
+    "role": "other",
+    "note": "The Witch-king builds up his realm of Angmar."
+   },
+   {
+    "id": "battle:fall-of-amon-sul",
+    "role": "fought",
+    "note": "The Witch-king burns the tower of Amon Sûl."
+   },
+   {
+    "id": "battle:burning-of-osgiliath",
+    "role": "fought",
+    "note": "Rebels burn Osgiliath in the Kin-strife."
+   },
+   {
+    "id": "battle:crossings-of-erui",
+    "role": "fought",
+    "note": "Castamir is slain at the Crossings of Erui."
+   },
+   {
+    "id": "realm:the-shire",
+    "role": "lived",
+    "note": "Hobbits found the Shire in T.A. 1601."
+   }
+  ],
+  "related": [
+   "people:istari",
+   "person:witch-king",
+   "person:castamir",
+   "people:hobbits",
+   "person:gandalf",
+   "person:saruman"
+  ],
+  "sources": [
+   "The Return of the King, Appendix B, The Tale of Years",
+   "The Return of the King, Appendix A, I and III"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:time-b-03-ta-1636-2050",
+  "title": "Timeline: T.A. 1636 to 2050",
+  "group": "Timeline",
+  "kind": "Dated list of events",
+  "aka": [],
+  "blurb": "Dated events from the Wainrider wars to the end of the kings of Gondor.",
+  "book": "This period saw the Wainriders, the fall of Arthedain and the return of the Shadow, and it ended with the last king of Gondor.\n\nT.A. 1640: King Tarondor moves the royal house of Gondor from Osgiliath to Minas Anor.\nT.A. 1810: Telumehtar Umbardacil retakes Umbar and ends the power of Castamir's heirs.\nT.A. 1851: The Wainriders, a people from the east, attack Gondor.\nT.A. 1856: King Narmacil II is slain, and Gondor loses its eastern lands.\nT.A. 1899: Calimehtar defeats the Wainriders on Dagorlad.\nT.A. 1944: King Ondoher and his two sons fall in battle. Eärnil wins in South Ithilien and then destroys the Wainriders at the Battle of the Camp.\nT.A. 1945: Eärnil II becomes King of Gondor.\nT.A. 1974: The Witch-king takes Fornost, and the kingdom of Arthedain ends.\nT.A. 1975: Arvedui, last king of Arthedain, drowns in the Ice Bay of Forochel. Eärnur brings a fleet from Gondor to Lindon, the Witch-king is defeated at the Battle of Fornost, and he vanishes from the North.\nT.A. 1980: A Balrog kills Durin VI in Moria.\nT.A. 1981: Náin I is slain, and the Dwarves flee Moria. Amroth and Nimrodel are lost, and many Silvan Elves of Lórien flee south.\nT.A. 2000: The Nazgûl besiege Minas Ithil.\nT.A. 2002: Minas Ithil falls and becomes Minas Morgul.\nT.A. 2050: Eärnur, last king of Gondor, rides to Minas Morgul and does not return. Mardil begins the line of Ruling Stewards.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Lord of the Rings, Appendix B",
+   "Period": "T.A. 1636 to 2050"
+  },
+  "places": [
+   {
+    "id": "TO065",
+    "role": "ruled",
+    "note": "Minas Anor, later Minas Tirith, becomes the royal seat in T.A. 1640."
+   },
+   {
+    "id": "battle:fornost",
+    "role": "fought",
+    "note": "The fleet of Gondor drives the Witch-king from Fornost."
+   },
+   {
+    "id": "battle:battle-of-the-camp",
+    "role": "fought",
+    "note": "Eärnil destroys the camp of the Wainriders after the fall of Ondoher."
+   },
+   {
+    "id": "TO066",
+    "role": "other",
+    "note": "A Balrog wakes in Moria in T.A. 1980."
+   },
+   {
+    "id": "battle:fall-of-minas-ithil",
+    "role": "fought",
+    "note": "Minas Ithil falls to the Nazgûl in T.A. 2002."
+   },
+   {
+    "id": "realm:gondor",
+    "role": "ruled",
+    "note": "Gondor loses its last king in T.A. 2050."
+   }
+  ],
+  "related": [
+   "person:witch-king",
+   "person:arvedui",
+   "person:telumehtar",
+   "person:durin-vi",
+   "person:durins-bane",
+   "person:earnur",
+   "person:mardil-voronwe",
+   "person:amroth"
+  ],
+  "sources": [
+   "The Return of the King, Appendix B, The Tale of Years",
+   "The Return of the King, Appendix A, I"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:time-b-04-ta-2050-2510",
+  "title": "Timeline: T.A. 2050 to 2510",
+  "group": "Timeline",
+  "kind": "Dated list of events",
+  "aka": [],
+  "blurb": "Dated events from the first Ruling Steward to the eve of the Ride of Eorl.",
+  "book": "After the last king vanished, Stewards ruled Gondor, a Watchful Peace held for four centuries and the Shadow then returned.\n\nT.A. 2050: Mardil Voronwë becomes the first Ruling Steward of Gondor.\nT.A. 2060: The power of Dol Guldur grows, and the Wise fear that it is Sauron taking shape again.\nT.A. 2063: Gandalf goes to Dol Guldur, and its master retreats to the East. The Watchful Peace begins.\nT.A. 2210: Thorin I leaves the Lonely Mountain and takes many of Durin's folk to the Grey Mountains.\nT.A. 2460: Sauron returns to Dol Guldur in secret, and the Watchful Peace ends.\nT.A. 2463: The White Council is formed. About this time Déagol finds the One Ring, and Sméagol murders him for it.\nAbout T.A. 2470: Gollum, as Sméagol is now called, hides in the Misty Mountains.\nT.A. 2475: Uruks from Mordor attack Gondor, Osgiliath is finally ruined, and its stone bridge is broken.\nT.A. 2485: Eorl the Young is born in the Éothéod.\nT.A. 2489: Cirion becomes Steward of Gondor.\nT.A. 2509: Orcs ambush Celebrían in the Redhorn Pass. She receives a poisoned wound. Her sons rescue her.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Lord of the Rings, Appendix B",
+   "Period": "T.A. 2050 to 2510"
+  },
+  "places": [
+   {
+    "id": "FT008",
+    "role": "other",
+    "note": "Gandalf enters Dol Guldur in T.A. 2063, and Sauron returns there in T.A. 2460."
+   },
+   {
+    "id": "SW006",
+    "role": "other",
+    "note": "Déagol finds the Ring near the Gladden Fields."
+   },
+   {
+    "id": "MT034",
+    "role": "lived",
+    "note": "Gollum hides under the Misty Mountains."
+   },
+   {
+    "id": "TO078",
+    "role": "other",
+    "note": "Osgiliath is ruined by the Uruk-hai in T.A. 2475."
+   },
+   {
+    "id": "NP009",
+    "role": "other",
+    "note": "Celebrían is ambushed at the Redhorn Gate."
+   },
+   {
+    "id": "NP039",
+    "role": "born",
+    "note": "Eorl is born among the Éothéod."
+   }
+  ],
+  "related": [
+   "person:mardil-voronwe",
+   "person:gandalf",
+   "person:sauron",
+   "person:gollum",
+   "person:deagol",
+   "person:celebrian",
+   "person:eorl-the-young",
+   "thing:one-ring",
+   "person:cirion"
+  ],
+  "sources": [
+   "The Return of the King, Appendix B, The Tale of Years",
+   "The Return of the King, Appendix A, I"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:time-b-05-ta-2510-2799",
+  "title": "Timeline: T.A. 2510 to 2799",
+  "group": "Timeline",
+  "kind": "Dated list of events",
+  "aka": [],
+  "blurb": "Dated events from the Oath of Eorl to the Battle of Azanulbizar.",
+  "book": "This period saw the founding of Rohan, the Long Winter, the coming of Smaug and the War of the Dwarves and Orcs.\n\nT.A. 2510: Orcs and Easterlings overrun Calenardhon. Eorl leads the Éothéod to the aid of Gondor, and they win the Battle of the Field of Celebrant. Cirion gives them Calenardhon, and it becomes Rohan.\nT.A. 2510: Celebrían sails into the West.\nT.A. 2545: Eorl falls in battle against the Easterlings in the Wold, and his son Brego becomes king.\nT.A. 2569: Meduseld, the golden hall of Edoras, is finished.\nT.A. 2570: Baldor, the son of Brego, enters the Paths of the Dead and never returns. Brego dies, and Aldor becomes king.\nT.A. 2589: Dáin I and his son Frór are killed by a great cold-drake at the door of his hall in the Grey Mountains.\nT.A. 2670: Tobold Hornblower grows the first pipe-weed in the Shire, at Longbottom.\nT.A. 2747: Orcs invade the Northfarthing, and Bandobras Took defeats them at the Battle of Greenfields.\nT.A. 2758: Rohan is attacked from west and east and overrun. Wulf seizes Edoras, Helm Hammerhand takes refuge in Helm's Deep, and the Long Winter begins.\nT.A. 2759: Helm dies in the Long Winter. Fréaláf drives out Wulf and begins the second line of kings, and Saruman takes up his home in Isengard.\nT.A. 2770: The dragon Smaug attacks Erebor and Dale, and Thrór flees with his people.\nT.A. 2790: Azog, an Orc of Moria, kills Thrór at the gate of Moria, and the Dwarves gather for a war of vengeance.\nT.A. 2793: The War of the Dwarves and Orcs begins.\nT.A. 2799: The war ends with the Battle of Azanulbizar, also called Nanduhirion, before the East-gate of Moria. Dáin Ironfoot kills Azog, and Thorin earns the name Oakenshield.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Lord of the Rings, Appendix B",
+   "Period": "T.A. 2510 to 2799"
+  },
+  "places": [
+   {
+    "id": "battle:field-of-celebrant",
+    "role": "fought",
+    "note": "Eorl and the Éothéod rescue Gondor in T.A. 2510."
+   },
+   {
+    "id": "realm:rohan",
+    "role": "ruled",
+    "note": "Rohan is founded and grows under the line of Eorl."
+   },
+   {
+    "id": "TO029",
+    "role": "lived",
+    "note": "Meduseld stands in Edoras, the seat of the kings."
+   },
+   {
+    "id": "battle:hornburg-long-winter",
+    "role": "fought",
+    "note": "Helm holds the Hornburg in the Long Winter."
+   },
+   {
+    "id": "battle:greenfields",
+    "role": "fought",
+    "note": "Bandobras Took defeats the Orcs at Greenfields."
+   },
+   {
+    "id": "battle:sack-of-erebor",
+    "role": "fought",
+    "note": "Smaug destroys the Dwarf kingdom and Dale in T.A. 2770."
+   },
+   {
+    "id": "battle:azanulbizar",
+    "role": "fought",
+    "note": "The Dwarves win the last battle of their war at Azanulbizar."
+   },
+   {
+    "id": "TO066",
+    "role": "died",
+    "note": "Thrór is killed at the gate of Moria in T.A. 2790."
+   }
+  ],
+  "related": [
+   "person:eorl-the-young",
+   "person:cirion",
+   "person:helm-hammerhand",
+   "person:smaug",
+   "person:thror",
+   "person:azog",
+   "person:thorin-oakenshield",
+   "person:bandobras-took",
+   "person:saruman",
+   "person:brego"
+  ],
+  "sources": [
+   "The Return of the King, Appendix B, The Tale of Years",
+   "The Return of the King, Appendix A, II and III"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:time-b-06-ta-2800-2940",
+  "title": "Timeline: T.A. 2800 to 2940",
+  "group": "Timeline",
+  "kind": "Dated list of events",
+  "aka": [],
+  "blurb": "Dated events from the years after Azanulbizar to the eve of the Quest of Erebor.",
+  "book": "The century and a half before the Quest of Erebor brought the fate of Thráin, the first meetings of the White Council and the births of future heroes.\n\nT.A. 2841: Thráin II, father of Thorin, sets out to see Erebor again, and servants of Sauron pursue him.\nT.A. 2845: Thráin is imprisoned in Dol Guldur, and the last of the Seven Rings is taken from him.\nT.A. 2850: Gandalf enters Dol Guldur again and learns that its master is Sauron. He finds Thráin and receives from him a map and a key. Thráin dies there.\nT.A. 2851: The White Council meets. Gandalf urges an attack on Dol Guldur, but Saruman overrules him.\nT.A. 2890: Bilbo Baggins is born in the Shire.\nT.A. 2911: The Fell Winter begins. The Brandywine and other rivers freeze, and white wolves invade Eriador from the North.\nT.A. 2912: Great floods ravage Enedwaith and Minhiriath, and Tharbad is ruined.\nT.A. 2930: Denethor II, later Steward of Gondor, is born.\nT.A. 2931: Aragorn, son of Arathorn and Gilraen, is born on 1 March.\nT.A. 2933: Arathorn II is killed by Orcs. Gilraen takes Aragorn to Rivendell. Elrond raises him as a foster-son and names him Estel.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Lord of the Rings, Appendix B",
+   "Period": "T.A. 2800 to 2940"
+  },
+  "places": [
+   {
+    "id": "FT008",
+    "role": "died",
+    "note": "Thráin dies as a prisoner in Dol Guldur."
+   },
+   {
+    "id": "TO084",
+    "role": "lived",
+    "note": "Elrond takes the young Aragorn into his house."
+   },
+   {
+    "id": "TO093",
+    "role": "other",
+    "note": "Floods ruin Tharbad in T.A. 2912."
+   },
+   {
+    "id": "realm:the-shire",
+    "role": "other",
+    "note": "Bilbo is born in the Shire, and the Fell Winter strikes it."
+   },
+   {
+    "id": "RI038",
+    "role": "other",
+    "note": "The great floods of T.A. 2912 swell the Gwathló."
+   },
+   {
+    "id": "realm:enedwaith",
+    "role": "other",
+    "note": "Enedwaith is ravaged by the floods of T.A. 2912."
+   }
+  ],
+  "related": [
+   "person:thrain-ii",
+   "person:gandalf",
+   "person:saruman",
+   "person:bilbo-baggins",
+   "person:aragorn",
+   "person:gilraen",
+   "person:denethor-ii",
+   "person:elrond",
+   "thing:thrors-map"
+  ],
+  "sources": [
+   "The Return of the King, Appendix B, The Tale of Years",
+   "The Return of the King, Appendix A, I and III",
+   "The Hobbit, chapter 1"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:time-b-07-ta-2941-2942",
+  "title": "Timeline: T.A. 2941 to 2942",
+  "group": "Timeline",
+  "kind": "Dated list of events",
+  "aka": [],
+  "blurb": "The year of The Hobbit, from the meeting in Bree to Bilbo's return home.",
+  "book": "In T.A. 2941 Thorin and his company set out to reclaim Erebor, and the quest brought Bilbo the Ring and ended the dragon Smaug.\n\n15 March 2941: Gandalf and Thorin Oakenshield meet by chance in Bree (the day is given in Unfinished Tales), and they speak of the Lonely Mountain.\nSpring 2941: Gandalf brings Thorin and twelve other Dwarves to Bag End, and Bilbo joins the company as its burglar.\nSummer 2941: The company meets three trolls, rests in Rivendell and loses its way in the Misty Mountains.\nSummer 2941: Goblins capture the company. In the dark Bilbo finds the One Ring and escapes from Gollum.\nLate summer 2941: Great Eagles carry the travellers from the Wargs, and Beorn gives them shelter.\nAutumn 2941: The company crosses Mirkwood. The Elvenking holds the Dwarves, but Bilbo frees them in barrels, and they reach Lake-town.\nAutumn 2941: They reach the Lonely Mountain, and Bilbo finds the hidden door on Durin's Day.\nAutumn 2941: Smaug flies to Lake-town, and Bard slays him with the Black Arrow.\nT.A. 2941: The White Council attacks Dol Guldur. Sauron had foreseen it and abandons the fortress.\nT.A. 2941: The Battle of Five Armies is fought. Thorin dies of his wounds, and his kinsman Dáin Ironfoot of the Iron Hills becomes King under the Mountain.\n22 June 2942: Bilbo returns to Bag End and finds his goods being sold at auction.\nT.A. 2942: Sauron returns in secret to Mordor.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Hobbit; The Lord of the Rings, Appendix B",
+   "Period": "T.A. 2941 to 2942"
+  },
+  "places": [
+   {
+    "id": "TO011",
+    "role": "other",
+    "note": "Gandalf and Thorin meet in Bree."
+   },
+   {
+    "id": "TO084",
+    "role": "travelled",
+    "note": "The company rests in Rivendell."
+   },
+   {
+    "id": "TO039",
+    "role": "other",
+    "note": "Bilbo meets Gollum under the Misty Mountains."
+   },
+   {
+    "id": "BU031",
+    "role": "other",
+    "note": "Beorn shelters the company."
+   },
+   {
+    "id": "TO053",
+    "role": "other",
+    "note": "Smaug dies at Lake-town."
+   },
+   {
+    "id": "MT029",
+    "role": "other",
+    "note": "The company opens the secret door of Erebor."
+   },
+   {
+    "id": "battle:five-armies",
+    "role": "fought",
+    "note": "Thorin dies in the Battle of Five Armies."
+   },
+   {
+    "id": "BU030",
+    "role": "lived",
+    "note": "Bilbo comes home to Bag End."
+   }
+  ],
+  "related": [
+   "person:bilbo-baggins",
+   "person:gandalf",
+   "person:thorin-oakenshield",
+   "person:smaug",
+   "person:bard",
+   "person:beorn",
+   "person:gollum",
+   "thing:one-ring",
+   "person:dain-ii-ironfoot",
+   "thing:arkenstone"
+  ],
+  "sources": [
+   "The Hobbit",
+   "The Return of the King, Appendix B, The Tale of Years",
+   "Unfinished Tales, Part Three, The Quest of Erebor"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:time-b-08-ta-2942-3017",
+  "title": "Timeline: T.A. 2942 to 3017",
+  "group": "Timeline",
+  "kind": "Dated list of events",
+  "aka": [],
+  "blurb": "Dated events from the years after The Hobbit to the eve of the War of the Ring.",
+  "book": "Between the Quest of Erebor and the War of the Ring, Sauron rose again while Aragorn grew into his heritage and Gollum wandered.\n\nT.A. 2944: Bard rebuilds Dale and becomes king. Gollum leaves the Misty Mountains to hunt for the thief of the Ring.\nT.A. 2951: Sauron declares himself openly and begins to rebuild Barad-dûr.\nT.A. 2953: The White Council meets for the last time. Saruman claims that the Ring has passed down the Anduin to the Sea, and he takes Isengard as his own. Ecthelion II becomes Steward of Gondor.\nT.A. 2954: Mount Doom bursts into fire again, and the last people leave Ithilien.\nT.A. 2956: Aragorn meets Gandalf, and the two become friends.\nT.A. 2978: Boromir, son of Denethor, is born.\nT.A. 2980: Aragorn comes to Lothlórien and meets Arwen again. They plight their troth on Cerin Amroth. Théoden becomes King of Rohan.\nT.A. 2983: Faramir, son of Denethor, is born.\nT.A. 2984: Ecthelion II dies, and Denethor II becomes Steward of Gondor.\nT.A. 2989: Balin leaves Erebor and goes to Moria.\nT.A. 2994: The Dwarves of Moria are slain, and Balin's colony ends.\n22 September 3001: Bilbo gives his farewell party, leaves the Shire and passes the Ring to Frodo.\nT.A. 3007: Gilraen, mother of Aragorn, dies.\nT.A. 3017: Gollum is released from Mordor. Aragorn captures him in the Dead Marshes and brings him to Thranduil in Mirkwood. Gandalf reads the scroll of Isildur in Minas Tirith.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Lord of the Rings, Appendix B",
+   "Period": "T.A. 2942 to 3017"
+  },
+  "places": [
+   {
+    "id": "TO066",
+    "role": "other",
+    "note": "Balin enters Moria in T.A. 2989, and his colony fails in T.A. 2994."
+   },
+   {
+    "id": "MT036",
+    "role": "other",
+    "note": "Mount Doom and Mordor stir again in T.A. 2954."
+   },
+   {
+    "id": "HI014",
+    "role": "other",
+    "note": "Aragorn and Arwen meet on Cerin Amroth in T.A. 2980."
+   },
+   {
+    "id": "BU030",
+    "role": "lived",
+    "note": "Bilbo leaves Bag End and the Ring to Frodo."
+   },
+   {
+    "id": "SW002",
+    "role": "other",
+    "note": "Aragorn catches Gollum in the Dead Marshes."
+   },
+   {
+    "id": "TO065",
+    "role": "ruled",
+    "note": "The Stewards Ecthelion II and Denethor II rule from Minas Tirith."
+   }
+  ],
+  "related": [
+   "person:gollum",
+   "person:sauron",
+   "person:aragorn",
+   "person:arwen",
+   "person:boromir",
+   "person:faramir",
+   "person:denethor-ii",
+   "person:ecthelion-ii",
+   "person:balin",
+   "person:bilbo-baggins"
+  ],
+  "sources": [
+   "The Return of the King, Appendix B, The Tale of Years",
+   "The Return of the King, Appendix A, I",
+   "The Fellowship of the Ring, Book I, chapters 1 and 2"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:time-b-09-3018",
+  "title": "Timeline: The year 3018",
+  "group": "Timeline",
+  "kind": "Dated list of events",
+  "aka": [],
+  "blurb": "Dated events from Gandalf's return to the Shire to the departure of the Fellowship.",
+  "book": "In 3018 Gandalf learned the truth about the Ring, the Nazgûl came north, and Frodo set out from the Shire to Rivendell, where the Fellowship was formed.\n\n12 April 3018: Gandalf reaches Hobbiton and tells Frodo the history of the Ring at Bag End.\n20 June 3018: Sauron attacks Osgiliath. About the same time Thranduil is attacked, and Gollum escapes.\n4 July 3018: Boromir sets out from Minas Tirith on a long road to Rivendell.\n10 July 3018: Saruman takes Gandalf prisoner and holds him on the pinnacle of Orthanc.\n18 September 3018: The Eagle Gwaihir carries Gandalf away from Orthanc in the early hours.\n22 September 3018: Frodo turns fifty at Bag End. That evening the Black Riders reach Sarn Ford.\n23 September 3018: Four Riders enter the Shire before dawn. That night Frodo leaves Bag End with Sam and Pippin.\n26 to 28 September 3018: The hobbits pass the Old Forest and the Barrow-downs, and Tom Bombadil helps them twice.\n29 September 3018: They reach Bree, where Aragorn meets them and offers to guide them.\n6 October 3018: The Nazgûl attack Frodo on Weathertop, and the Witch-king wounds him with a Morgul-knife.\n18 October 3018: Glorfindel finds the travellers on the Great East Road at dusk. Gandalf reaches Rivendell.\n20 October 3018: Frodo crosses the Ford of Bruinen, and the flood sweeps away the Nazgûl.\n24 October 3018: Frodo wakes in Rivendell and meets Gandalf.\n25 October 3018: Boromir, who arrived that morning, joins the Council of Elrond. Frodo offers to take the Ring, and the Council accepts him as Ring-bearer.\n25 December 3018: The Nine Walkers of the Fellowship leave Rivendell at dusk.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Lord of the Rings, Appendix B",
+   "Period": "April to December 3018"
+  },
+  "places": [
+   {
+    "id": "BU030",
+    "role": "lived",
+    "note": "Frodo leaves Bag End on 23 September."
+   },
+   {
+    "id": "BU021",
+    "role": "other",
+    "note": "Gandalf is held on the top of Orthanc."
+   },
+   {
+    "id": "TO011",
+    "role": "other",
+    "note": "The hobbits meet Aragorn at the Prancing Pony in Bree."
+   },
+   {
+    "id": "HI052",
+    "role": "fought",
+    "note": "Frodo is wounded on Weathertop."
+   },
+   {
+    "id": "battle:ford-of-bruinen",
+    "role": "fought",
+    "note": "The flood of the Bruinen drives off the Nazgûl."
+   },
+   {
+    "id": "TO084",
+    "role": "other",
+    "note": "The Council of Elrond meets in Rivendell."
+   }
+  ],
+  "related": [
+   "person:gandalf",
+   "person:frodo-baggins",
+   "person:aragorn",
+   "person:boromir",
+   "person:saruman",
+   "person:gwaihir",
+   "person:glorfindel",
+   "person:elrond",
+   "thing:one-ring",
+   "people:nazgul"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I and Book II, chapters 1 to 3",
+   "The Return of the King, Appendix B, The Tale of Years"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:time-b-10-jan-feb-3019",
+  "title": "Timeline: January and February 3019",
+  "group": "Timeline",
+  "kind": "Dated list of events",
+  "aka": [],
+  "blurb": "Dated events from the journey of the Fellowship to its breaking.",
+  "book": "The Fellowship crossed the mountains and the Mines, lost Gandalf, rested in Lothlórien and broke at Parth Galen. Appendix B uses the Shire Calendar, in which every month has thirty days.\n\n8 January 3019: The Fellowship reaches Hollin, where crows of Saruman watch them.\n11 to 12 January 3019: Snow on Caradhras defeats them, and they decide to try the Mines of Moria.\n13 January 3019: Wolves attack before dawn. At nightfall the Fellowship reaches the West-gate, and the Watcher in the Water shuts the doors behind them. Gollum begins to follow them.\n15 January 3019: On the Bridge of Khazad-dûm Gandalf holds off a Balrog and falls into the abyss. The Fellowship reaches the Nimrodel late at night.\n17 January 3019: The Fellowship comes to Caras Galadhon in the evening.\n23 January 3019: Gandalf pursues the Balrog to the peak of Zirak-zigil.\n25 January 3019: Gandalf casts down the Balrog and dies, and his body lies on the peak.\n14 February 3019: Frodo and Sam look in the Mirror of Galadriel. Gandalf returns to life and lies in a trance.\n16 February 3019: The Fellowship leaves Lothlórien in boats, with gifts from Galadriel.\n17 February 3019: Gwaihir bears Gandalf to Lothlórien.\n23 February 3019: Orcs attack the boats at night near Sarn Gebir.\n25 February 3019: The Fellowship passes the Argonath and camps at Parth Galen. Théodred is slain at the Fords of Isen.\n26 February 3019: Boromir tries to take the Ring from Frodo and later dies defending Merry and Pippin against Uruk-hai.\n26 February 3019: The Fellowship breaks. Frodo and Sam cross the river alone, and Orcs take Merry and Pippin westward. Aragorn sets out after the Orcs at evening.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Lord of the Rings, Appendix B",
+   "Period": "January and February 3019"
+  },
+  "places": [
+   {
+    "id": "HI036",
+    "role": "travelled",
+    "note": "The Fellowship rests in Hollin before the mountains."
+   },
+   {
+    "id": "MT006",
+    "role": "travelled",
+    "note": "Snow and storm drive the Fellowship back from Caradhras."
+   },
+   {
+    "id": "battle:mazarbul-khazad-dum",
+    "role": "fought",
+    "note": "Gandalf falls at the Bridge of Khazad-dûm."
+   },
+   {
+    "id": "FO017",
+    "role": "lived",
+    "note": "The Fellowship rests in Lothlórien."
+   },
+   {
+    "id": "MT007",
+    "role": "fought",
+    "note": "Gandalf and the Balrog fight on the peak of Zirak-zigil."
+   },
+   {
+    "id": "battle:parth-galen",
+    "role": "fought",
+    "note": "Boromir dies and the Fellowship breaks at Parth Galen."
+   }
+  ],
+  "related": [
+   "person:gandalf",
+   "person:durins-bane",
+   "person:galadriel",
+   "person:boromir",
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:aragorn",
+   "person:gwaihir",
+   "thing:one-ring"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II, chapters 3 to 10",
+   "The Return of the King, Appendix B, The Tale of Years"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:time-b-11-1-15-mar-3019",
+  "title": "Timeline: 1 to 15 March 3019",
+  "group": "Timeline",
+  "kind": "Dated list of events",
+  "aka": [],
+  "blurb": "Dated events from the Ents' march on Isengard to the eve of the Pelennor Fields.",
+  "book": "The first half of March 3019 saw Saruman fall, the Dawnless Day, the ride of the Rohirrim and the siege of Minas Tirith. Appendix B uses the Shire Calendar, so February has thirty days.\n\n29 February 3019: Merry and Pippin escape the Orcs and meet Treebeard.\n1 March 3019: Gandalf, now clothed in white, meets Aragorn, Legolas and Gimli in Fangorn. Frodo begins to cross the Dead Marshes.\n2 March 3019: Gandalf heals King Théoden at Edoras, and the Rohirrim ride west. The Entmoot ends, and the Ents march on Isengard.\n3 March 3019: Théoden retreats to Helm's Deep, and the Battle of the Hornburg begins. The Ents complete the destruction of Isengard.\n4 March 3019: The battle ends at dawn when Gandalf and Erkenbrand arrive and the Huorns destroy the Orcs. Théoden and Gandalf set out for Isengard.\n5 March 3019: Gandalf and Théoden speak with Saruman at Orthanc. Gríma throws down a palantír, and Pippin looks into it that night. Gandalf rides with Pippin for Minas Tirith.\n7 March 3019: Faramir takes Frodo to Henneth Annûn. Aragorn comes to Dunharrow at nightfall.\n8 March 3019: Aragorn takes the Paths of the Dead at daybreak and calls the oathbreakers at Erech at midnight.\n9 March 3019: Gandalf reaches Minas Tirith, and darkness begins to flow out of Mordor.\n10 March 3019: The Dawnless Day. The Rohirrim ride from Harrowdale to the aid of Gondor.\n12 March 3019: Gollum leads Frodo into Shelob's lair. Faramir retreats from Osgiliath to the Causeway Forts.\n13 March 3019: The Pelennor is overrun, and Faramir is wounded. Aragorn takes the ships of the Corsairs at Pelargir. Orcs capture Frodo.\n14 March 3019: Minas Tirith is besieged. Sam finds Frodo in the Tower of Cirith Ungol.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Lord of the Rings, Appendix B",
+   "Period": "1 to 15 March 3019"
+  },
+  "places": [
+   {
+    "id": "battle:ents-of-isengard",
+    "role": "fought",
+    "note": "The Ents destroy the defenses of Isengard."
+   },
+   {
+    "id": "battle:hornburg",
+    "role": "fought",
+    "note": "The Rohirrim hold Helm's Deep against Saruman's host."
+   },
+   {
+    "id": "BU021",
+    "role": "other",
+    "note": "Saruman is trapped in Orthanc."
+   },
+   {
+    "id": "VA040",
+    "role": "travelled",
+    "note": "Aragorn rides through the Paths of the Dead."
+   },
+   {
+    "id": "FT009",
+    "role": "other",
+    "note": "Aragorn passes through Dunharrow before he takes the Paths of the Dead."
+   },
+   {
+    "id": "battle:fall-of-osgiliath",
+    "role": "fought",
+    "note": "Faramir is driven out of Osgiliath and retreats to Minas Tirith."
+   },
+   {
+    "id": "battle:pelargir",
+    "role": "fought",
+    "note": "Aragorn takes the Corsair fleet at Pelargir."
+   }
+  ],
+  "related": [
+   "person:gandalf",
+   "person:treebeard",
+   "person:saruman",
+   "person:theoden",
+   "person:aragorn",
+   "person:faramir",
+   "person:peregrin-took",
+   "person:meriadoc-brandybuck",
+   "person:frodo-baggins",
+   "person:gollum"
+  ],
+  "sources": [
+   "The Two Towers, Book III",
+   "The Return of the King, Book V, chapters 1 to 3",
+   "The Return of the King, Appendix B, The Tale of Years"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:time-b-12-15-25-mar-3019",
+  "title": "Timeline: 15 to 25 March 3019",
+  "group": "Timeline",
+  "kind": "Dated list of events",
+  "aka": [],
+  "blurb": "Dated events from the Battle of the Pelennor Fields to the Battle of the Morannon.",
+  "book": "In ten days the Witch-king broke the Gate of Minas Tirith, the West won the Pelennor Fields and the Captains marched to the Black Gate.\n\n15 March 3019: In the small hours the Witch-king breaks the Great Gate of Minas Tirith with the ram Grond.\n15 March 3019: The horns of the Rohirrim sound at cock-crow, and they charge. Théoden dies when the Witch-king strikes down his horse.\n15 March 3019: Éowyn and Merry slay the Witch-king of Angmar.\n15 March 3019: Denethor burns himself on a pyre in the Tombs, and Gandalf and Pippin save Faramir.\n15 March 3019: Aragorn's fleet reaches the Harlond, and the Battle of the Pelennor Fields ends in victory for the West.\nNight of 15 March 3019: Aragorn heals Faramir, Éowyn and Merry in the Houses of Healing.\n16 March 3019: The Captains of the West decide to march on the Black Gate to draw Sauron's eye.\n17 March 3019: The Battle of Dale is fought. King Brand and Dáin Ironfoot fall, and the Dwarves are besieged in Erebor.\n18 March 3019: The Army of the West leaves Minas Tirith. Frodo and Sam, dressed as Orcs, are driven along with an Orc troop.\n19 March 3019: Frodo and Sam escape from the Orcs.\n22 March 3019: Frodo and Sam leave the road and turn south toward Mount Doom.\n24 March 3019: Frodo and Sam reach the foot of Mount Doom.\n25 March 3019: The Army of the West stands before the Black Gate. The Mouth of Sauron demands surrender, and the Battle of the Morannon begins.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Lord of the Rings, Appendix B",
+   "Period": "15 to 25 March 3019"
+  },
+  "places": [
+   {
+    "id": "battle:pelennor",
+    "role": "fought",
+    "note": "The Pelennor Fields see the great battle of Gondor."
+   },
+   {
+    "id": "DO030",
+    "role": "fought",
+    "note": "The Witch-king breaks the Great Gate of Minas Tirith."
+   },
+   {
+    "id": "BU063",
+    "role": "other",
+    "note": "Aragorn heals the wounded in the Houses of Healing."
+   },
+   {
+    "id": "battle:battle-of-dale",
+    "role": "fought",
+    "note": "King Brand and Dáin fall at Dale."
+   },
+   {
+    "id": "FI025",
+    "role": "travelled",
+    "note": "Frodo and Sam cross the plain of Gorgoroth."
+   },
+   {
+    "id": "MT036",
+    "role": "other",
+    "note": "Frodo and Sam reach the foot of Mount Doom on 24 March."
+   },
+   {
+    "id": "battle:morannon",
+    "role": "fought",
+    "note": "The Army of the West faces the Black Gate."
+   }
+  ],
+  "related": [
+   "person:witch-king",
+   "person:theoden",
+   "person:eowyn",
+   "person:meriadoc-brandybuck",
+   "person:denethor-ii",
+   "person:faramir",
+   "person:aragorn",
+   "person:gandalf",
+   "person:mouth-of-sauron",
+   "person:dain-ii-ironfoot"
+  ],
+  "sources": [
+   "The Return of the King, Book V, chapters 1 to 10",
+   "The Return of the King, Book VI, chapters 1 to 3",
+   "The Return of the King, Appendix B, The Tale of Years"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:time-b-13-25-mar-end-3019",
+  "title": "Timeline: 25 March to the end of 3019",
+  "group": "Timeline",
+  "kind": "Dated list of events",
+  "aka": [],
+  "blurb": "Dated events from the fall of Sauron to the end of the year 3019.",
+  "book": "On 25 March 3019 the Ring was destroyed and Sauron fell, and the rest of the year brought the crowning of Aragorn and the Scouring of the Shire.\n\n25 March 3019: At the Cracks of Doom Frodo claims the Ring. Gollum bites it from his hand and falls with it into the fire. Sauron is overthrown and Barad-dûr falls.\n25 March 3019: The Nazgûl perish, and the armies of Mordor flee or die at the Morannon.\n25 March 3019: Gwaihir and the Eagles rescue Frodo and Sam from the slopes of Mount Doom.\n28 March 3019: Celeborn leads the Elves of Lothlórien across the Anduin, and Dol Guldur is overthrown.\n8 April 3019: Frodo and Sam are honoured on the Field of Cormallen.\n1 May 3019: Aragorn is crowned King Elessar in Minas Tirith.\nMid-year's Day 3019: Elessar weds Arwen in Minas Tirith.\n10 August 3019: Théoden is laid to rest at Edoras. Éomer has been King of the Mark since Théoden's death.\n28 August 3019: Treebeard has let Saruman go, and the travellers overtake him and Gríma on the road north.\n22 September 3019: Bilbo turns 129 in Rivendell, and Saruman comes to the Shire.\n5 October 3019: Gandalf and the hobbits leave Rivendell and ride home by the East Road.\n30 October 3019: The hobbits reach the Brandywine Bridge at dark and find the Shire under the rule of ruffians.\n3 November 3019: The Battle of Bywater ends the Scouring of the Shire. That day at Bag End Gríma kills Saruman, and hobbit archers kill Gríma.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Lord of the Rings, Appendix B",
+   "Period": "25 March to December 3019"
+  },
+  "places": [
+   {
+    "id": "BU036",
+    "role": "destroyed",
+    "note": "The Ring is cast into the Cracks of Doom."
+   },
+   {
+    "id": "FT004",
+    "role": "destroyed",
+    "note": "Barad-dûr falls when the Ring is destroyed."
+   },
+   {
+    "id": "FI010",
+    "role": "other",
+    "note": "Frodo and Sam are honoured on the Field of Cormallen."
+   },
+   {
+    "id": "battle:fall-of-dol-guldur",
+    "role": "fought",
+    "note": "The Elves of Lórien under Celeborn overthrow Dol Guldur."
+   },
+   {
+    "id": "TO065",
+    "role": "other",
+    "note": "Aragorn is crowned and weds Arwen in Minas Tirith."
+   },
+   {
+    "id": "TO016",
+    "role": "fought",
+    "note": "The hobbits defeat the ruffians at Bywater."
+   },
+   {
+    "id": "battle:bywater",
+    "role": "fought",
+    "note": "The Battle of Bywater ends the Scouring of the Shire."
+   }
+  ],
+  "related": [
+   "person:frodo-baggins",
+   "person:gollum",
+   "person:samwise-gamgee",
+   "person:sauron",
+   "person:aragorn",
+   "person:arwen",
+   "person:celeborn",
+   "person:gwaihir",
+   "person:saruman",
+   "person:grima",
+   "thing:one-ring"
+  ],
+  "sources": [
+   "The Return of the King, Book VI, chapters 3 to 9",
+   "The Return of the King, Appendix B, The Tale of Years"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:time-b-14-3020-3021",
+  "title": "Timeline: T.A. 3020 to 3021 and the end of the Third Age",
+  "group": "Timeline",
+  "kind": "Dated list of events",
+  "aka": [],
+  "blurb": "Dated events from the healing of the Shire to the passing of the Third Age.",
+  "book": "The Shire healed and flourished after the war, and in 3021 the Ring-bearers sailed West and the Third Age came to its end.\n\nT.A. 3020: The Shire has its best harvest and finest wine in memory, and the land is quickly healed.\n1 May 3020: Samwise Gamgee weds Rose Cotton, and they live at Bag End with Frodo.\nT.A. 3020: Sam uses the earth from Galadriel's gift, and a mallorn tree grows in the Party Field.\n13 March 3020 and 13 March 3021: Frodo falls ill on the anniversary of Shelob's poison.\n25 March 3021: Elanor, first child of Sam and Rose, is born. In Gondor the Fourth Age is counted from this day.\nBefore 21 September 3021: Frodo gives Sam the Red Book at Bag End.\n21 September 3021: Frodo and Sam set out from Hobbiton. On 22 September they meet the Elves of the last riding in the Woody End.\n29 September 3021: Frodo and Bilbo sail from the Grey Havens with Gandalf, Elrond and Galadriel. The Third Age ends.\n6 October 3021: Sam returns to Bag End, and Rose greets him.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Lord of the Rings, Appendix B",
+   "Period": "T.A. 3020 to 3021"
+  },
+  "places": [
+   {
+    "id": "realm:the-shire",
+    "role": "lived",
+    "note": "The Shire heals after the Scouring."
+   },
+   {
+    "id": "BU030",
+    "role": "lived",
+    "note": "Sam and Rose make their home at Bag End."
+   },
+   {
+    "id": "HI035",
+    "role": "other",
+    "note": "The mallorn grows in the Party Field in Hobbiton."
+   },
+   {
+    "id": "TO043",
+    "role": "other",
+    "note": "The Ring-bearers sail from the Grey Havens."
+   },
+   {
+    "id": "realm:lindon",
+    "role": "other",
+    "note": "The Grey Havens lie in Lindon."
+   }
+  ],
+  "related": [
+   "person:samwise-gamgee",
+   "person:frodo-baggins",
+   "person:bilbo-baggins",
+   "person:gandalf",
+   "person:elrond",
+   "person:galadriel",
+   "person:rose-cotton",
+   "person:elanor-gamgee",
+   "thing:red-book"
+  ],
+  "sources": [
+   "The Return of the King, Book VI, chapter 9",
+   "The Return of the King, Appendix B, The Tale of Years"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:time-b-15-fourth-age",
+  "title": "Timeline: The Fourth Age",
+  "group": "Timeline",
+  "kind": "Dated list of events",
+  "aka": [],
+  "blurb": "The later lives of the Fellowship, in Fourth Age and Shire Reckoning years.",
+  "book": "Appendix B lists later events for members of the Fellowship. It gives the years in Shire Reckoning (S.R.). In the Shire the Fourth Age (F.A.) began with S.R. 1422; in Gondor it was counted from 25 March 3021.\n\nS.R. 1421: The last year of the Third Age in the Shire.\nS.R. 1427 (F.A. 6): Samwise Gamgee is elected Mayor of the Shire for the first time. Peregrin Took marries Diamond of Long Cleeve.\nS.R. 1432 (F.A. 11): Meriadoc Brandybuck becomes Master of Buckland.\nS.R. 1434 (F.A. 13): Peregrin Took becomes the Took and Thain. Sam is elected Mayor for the second time.\nS.R. 1436 (F.A. 15): King Elessar meets his friends at the Brandywine Bridge and gives Sam the Star of the Dúnedain.\nS.R. 1451 (F.A. 30): Elanor Gamgee weds Fastred of Greenholm.\nS.R. 1452 (F.A. 31): King Elessar adds the Westmarch to the Shire.\nS.R. 1455 (F.A. 34): Fastred becomes Warden of Westmarch, and he and Elanor settle at Undertowers.\nS.R. 1482 (F.A. 61): Rose Gamgee dies on Mid-year's Day. On 22 September Sam rides from Bag End and gives the Red Book to Elanor. Her family's tradition says that he sailed West from the Grey Havens.\nS.R. 1484 (F.A. 63): Merry and Pippin leave the Shire for Rohan and then Gondor, where they later die.\nS.R. 1541 (F.A. 120): King Elessar dies on 1 March. Arwen later dies on Cerin Amroth.\nAfter Elessar's death: Legolas builds a grey ship in Ithilien and sails West. It is said that Gimli goes with him.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Lord of the Rings, Appendix B",
+   "Period": "Fourth Age"
+  },
+  "places": [
+   {
+    "id": "realm:the-shire",
+    "role": "lived",
+    "note": "Sam, Merry and Pippin hold high office in the Shire."
+   },
+   {
+    "id": "NP049",
+    "role": "lived",
+    "note": "The Westmarch is added to the Shire in S.R. 1452."
+   },
+   {
+    "id": "TO043",
+    "role": "other",
+    "note": "Sam sails from the Grey Havens in S.R. 1482."
+   },
+   {
+    "id": "TO065",
+    "role": "other",
+    "note": "Merry and Pippin end their lives in Gondor."
+   },
+   {
+    "id": "HI014",
+    "role": "died",
+    "note": "Arwen dies on Cerin Amroth."
+   },
+   {
+    "id": "realm:ithilien",
+    "role": "lived",
+    "note": "Legolas builds a ship in Ithilien."
+   }
+  ],
+  "related": [
+   "person:samwise-gamgee",
+   "person:meriadoc-brandybuck",
+   "person:peregrin-took",
+   "person:aragorn",
+   "person:arwen",
+   "person:legolas",
+   "person:gimli",
+   "person:elanor-gamgee",
+   "person:rose-cotton"
+  ],
+  "sources": [
+   "The Return of the King, Appendix B, Later Events concerning the Members of the Fellowship",
+   "The Return of the King, Appendix A, I and VI"
+  ],
+  "confidence": "medium"
+ }
+]

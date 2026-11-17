@@ -1,0 +1,1374 @@
+[
+ {
+  "id": "lore:rotk-5-01",
+  "title": "Minas Tirith (chapter)",
+  "group": "The Return of the King",
+  "kind": "Book V, chapter 1",
+  "aka": [],
+  "blurb": "Gandalf brings Pippin to Minas Tirith, where Pippin enters the service of Denethor as war gathers over Gondor.",
+  "book": "Gandalf and Pippin ride Shadowfax through the nights across Rohan and into Gondor. Gandalf speaks of the palantír and of the danger ahead. Pippin sees the beacons of Gondor burning on the hills. Gandalf tells him that they are a call for aid.\n\nThey reach the Rammas Echor at dawn, where Ingold and his men are repairing the wall. Then Pippin sees Minas Tirith for the first time. The white city climbs the hill in seven levels, with the Citadel at its top. A shadow lies over the east.\n\nGandalf warns Pippin to say little to Denethor, Steward of Gondor. Denethor grieves for his son Boromir and questions Pippin closely about his death. Pippin offers his service in payment of his debt to Boromir, and Denethor accepts it. Gandalf and the Steward distrust each other, and Gandalf speaks sharply of the Steward's pride.\n\nPippin becomes a man of the Guard of the Citadel. He meets Beregond of the Guard and Beregond's son Bergil. Beregond shows him the city and tells him of the dangers at the borders. In the evening Pippin watches the men of the outlands march in, among them Prince Imrahil of Dol Amroth. That night a great darkness begins to flow out of Mordor.",
+  "film": "The film has Pippin light the signal fire that calls Rohan to war. The Steward questions Pippin about Boromir, and Pippin offers his service.",
+  "series": "",
+  "facts": {
+   "Book": "The Return of the King",
+   "Setting": "Minas Tirith, Gondor",
+   "Date": "9 March T.A. 3019 (arrival)"
+  },
+  "places": [
+   {
+    "id": "TO065",
+    "role": "other",
+    "note": "Pippin enters the city and swears service to Denethor."
+   },
+   {
+    "id": "WA006",
+    "role": "travelled",
+    "note": "Gandalf and Pippin cross the great outer wall at dawn."
+   },
+   {
+    "id": "realm:gondor",
+    "role": "travelled",
+    "note": "They ride through Gondor as the beacons burn."
+   }
+  ],
+  "related": [
+   "person:gandalf",
+   "person:peregrin-took",
+   "person:denethor-ii",
+   "person:beregond",
+   "person:bergil",
+   "person:imrahil",
+   "person:shadowfax",
+   "thing:palantir-of-orthanc"
+  ],
+  "sources": [
+   "The Return of the King, Book V, chapter 1"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:rotk-5-02",
+  "title": "The Passing of the Grey Company",
+  "group": "The Return of the King",
+  "kind": "Book V, chapter 2",
+  "aka": [
+   "The Grey Company",
+   "Paths of the Dead chapter"
+  ],
+  "blurb": "The Rangers join Aragorn, he looks into the palantír, and he leads the Grey Company through the Paths of the Dead to Erech.",
+  "book": "After Gandalf leaves with Pippin, Théoden's company rides by night from Dol Baran. Riders overtake them at the Fords of Isen. They are thirty Rangers of the North, the Grey Company, led by Halbarad. With them ride Elladan and Elrohir, the sons of Elrond. On the way Merry offers his sword to Théoden and becomes his esquire.\n\nAt the Hornburg, Aragorn looks into the palantír of Orthanc. He bends it to his own will and shows himself to Sauron as the heir of Isildur. He also sees a danger coming from the south that Gondor has not foreseen. Halbarad brings him a dark banner made by Arwen. Elrohir brings a message from Elrond: if Aragorn is in haste, he should remember the Paths of the Dead.\n\nAragorn chooses that road. He means to summon the Dead Men of Dunharrow, who broke their oath to Isildur and cannot rest until they fulfil it. He rides with the Grey Company, Legolas and Gimli by way of Edoras to Dunharrow. There Éowyn begs him not to go, and then asks to ride with him. He refuses her.\n\nAt dawn the company passes the Dimholt and enters the Dark Door. Gimli is afraid, but he follows. The Dead come after them through the mountain. On the far side the company rides hard and reaches the Stone of Erech at midnight. There Aragorn calls upon the Oathbreakers, and they answer him.",
+  "film": "The film changes this chapter. Aragorn takes the Paths of the Dead with Legolas and Gimli only, and Elrond brings Andúril to him in the camp of Rohan.",
+  "series": "",
+  "facts": {
+   "Book": "The Return of the King",
+   "Setting": "Helm's Deep, Dunharrow and the Paths of the Dead",
+   "Dates": "6 to 8 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "FJ008",
+    "role": "other",
+    "note": "The Grey Company overtakes Théoden's company at the fords."
+   },
+   {
+    "id": "FT016",
+    "role": "other",
+    "note": "Aragorn looks into the palantír of Orthanc in the Hornburg."
+   },
+   {
+    "id": "FT009",
+    "role": "other",
+    "note": "Éowyn begs Aragorn at Dunharrow not to take the Paths of the Dead."
+   },
+   {
+    "id": "FO006",
+    "role": "travelled",
+    "note": "The Grey Company passes the Dimholt to reach the Dark Door."
+   },
+   {
+    "id": "VA040",
+    "role": "travelled",
+    "note": "Aragorn leads his company and the Dead through the mountain."
+   },
+   {
+    "id": "HI023",
+    "role": "other",
+    "note": "Aragorn summons the Oathbreakers at the Stone of Erech."
+   }
+  ],
+  "related": [
+   "person:aragorn",
+   "person:halbarad",
+   "person:elladan",
+   "person:elrohir",
+   "person:meriadoc-brandybuck",
+   "person:theoden",
+   "person:eowyn",
+   "person:arwen",
+   "thing:palantir-of-orthanc",
+   "people:dunedain-of-the-north"
+  ],
+  "sources": [
+   "The Return of the King, Book V, chapter 2"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:rotk-5-03",
+  "title": "The Muster of Rohan",
+  "group": "The Return of the King",
+  "kind": "Book V, chapter 3",
+  "aka": [],
+  "blurb": "Théoden comes to Dunharrow, the Red Arrow arrives from Gondor, and the Riders set out with Merry hidden before Dernhelm.",
+  "book": "Théoden leaves Helm's Deep with Merry at his side. They ride by mountain paths and come up Harrowdale at evening. At Dunharrow, Éowyn greets the king. She tells him that Aragorn has taken the Paths of the Dead. Théoden fears that Aragorn is lost.\n\nThat night the darkness from Mordor spreads over the sky, and the next morning brings no dawn. A messenger from Gondor named Hirgon arrives with the Red Arrow. It is the sign that Gondor needs the help of Rohan at once. Théoden promises to come, though he must gather his men.\n\nThe Riders of Rohan muster below Dunharrow. Merry wishes to ride to war, but the king will not take him. He tells Merry to stay behind. Merry feels ashamed. Éowyn is to rule the people while the king is away.\n\nA young rider named Dernhelm speaks quietly to Merry. He offers to carry Merry before him on his horse, hidden under his cloak, and Merry accepts. The host of about six thousand Riders sets out toward Gondor. Elfhelm leads the company in which Dernhelm rides.",
+  "film": "The film shows Éowyn and Merry riding to war together with the host of Rohan. There is no messenger with a Red Arrow; Rohan answers the lit beacons.",
+  "series": "",
+  "facts": {
+   "Book": "The Return of the King",
+   "Setting": "Dunharrow, Rohan",
+   "Dates": "9 to 10 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "FT009",
+    "role": "other",
+    "note": "Théoden comes to this mountain refuge, and the Red Arrow arrives."
+   },
+   {
+    "id": "VA008",
+    "role": "travelled",
+    "note": "The king rides up Harrowdale, and the Riders muster in the valley."
+   },
+   {
+    "id": "realm:rohan",
+    "role": "other",
+    "note": "Riders gather from across Rohan."
+   }
+  ],
+  "related": [
+   "person:theoden",
+   "person:eowyn",
+   "person:meriadoc-brandybuck",
+   "person:elfhelm",
+   "person:eomer",
+   "people:rohirrim"
+  ],
+  "sources": [
+   "The Return of the King, Book V, chapter 3"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:rotk-5-04",
+  "title": "The Siege of Gondor",
+  "group": "The Return of the King",
+  "kind": "Book V, chapter 4",
+  "aka": [],
+  "blurb": "Faramir returns with news of Frodo and is wounded, Denethor despairs, and the host of Mordor besieges Minas Tirith and breaks its gate.",
+  "book": "On the dawnless day, Faramir rides back from Ithilien with a few men. Winged Nazgûl hunt them across the Pelennor. Gandalf rides out on Shadowfax, and a white light drives the Nazgûl away. Faramir tells Denethor and Gandalf that he met Frodo and Sam in Ithilien and let them go toward Cirith Ungol. Denethor is bitter and says that Boromir would have brought the Ring to him.\n\nDenethor sends Faramir to hold Osgiliath. The Enemy crosses the river, and Faramir falls back. In the retreat across the Pelennor he is wounded and falls under the Black Breath. Gandalf and Prince Imrahil ride out to save the rearguard, and Imrahil carries Faramir to the city. Denethor sits beside his son in silent grief.\n\nThe host of Mordor fills the Pelennor and surrounds Minas Tirith. It throws fire into the city and hurls the heads of fallen men over the walls. Denethor gives up hope and leaves the defence to Gandalf. He orders a pyre for himself and Faramir in the House of the Stewards. He releases Pippin from his service. Pippin runs to Beregond for help and then goes to find Gandalf.\n\nBefore dawn the Enemy brings the great ram Grond to the Great Gate. The Lord of the Nazgûl speaks words of power, and the gate breaks. He rides in, and Gandalf alone sits on Shadowfax before him. At that moment a cock crows in the city. Far away, great horns sound: the Riders of Rohan have come.",
+  "film": "In the film, Denethor sends Faramir on a hopeless charge at Osgiliath and later falls into despair. Grond and the Witch-king break the gate, and Gandalf faces him.",
+  "series": "",
+  "facts": {
+   "Book": "The Return of the King",
+   "Setting": "Minas Tirith and the Pelennor",
+   "Dates": "10 to 15 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "TO065",
+    "role": "fought",
+    "note": "The city is besieged and its Great Gate is broken."
+   },
+   {
+    "id": "FI024",
+    "role": "fought",
+    "note": "The enemy host gathers on the fields below the city."
+   },
+   {
+    "id": "TO078",
+    "role": "lost",
+    "note": "The ruined city on the Anduin falls to the enemy."
+   }
+  ],
+  "related": [
+   "person:faramir",
+   "person:denethor-ii",
+   "person:gandalf",
+   "person:peregrin-took",
+   "person:imrahil",
+   "person:beregond",
+   "person:witch-king",
+   "person:shadowfax",
+   "thing:grond-ram"
+  ],
+  "sources": [
+   "The Return of the King, Book V, chapter 4"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:rotk-5-05",
+  "title": "The Ride of the Rohirrim (chapter)",
+  "group": "The Return of the King",
+  "kind": "Book V, chapter 5",
+  "aka": [],
+  "blurb": "The Rohirrim reach the Drúadan Forest, the Wild Men show them a hidden road, and they come to the edge of the Pelennor at dawn.",
+  "book": "The host of Rohan rides on beneath the cloud of the Enemy. Merry, hidden before Dernhelm, sees little and fears much.\n\nScouts learn that Orcs hold the road ahead. At the Drúadan Forest the Riders meet the Wild Men, led by Ghân-buri-Ghân. He offers to guide them by a forgotten road through the Stonewain Valley, unknown to the Enemy. In return he asks that the Rohirrim no longer hunt his people like beasts.\n\nThe king agrees. The Wild Men lead the riders through the forest and down toward the fields. They say that the outer wall of Gondor is broken and that the city is besieged and burning.\n\nThe Rohirrim pass the broken Rammas before dawn. They learn that Hirgon, the messenger of Gondor, was killed before he could bring word of their coming. Théoden sets his riders in companies. As the first light grows, the wind changes. Théoden sounds his horn, and the host charges.",
+  "film": "The film leaves out Ghân-buri-Ghân and the Wild Men. It shows Théoden giving a speech to the riders before they charge.",
+  "series": "",
+  "facts": {
+   "Book": "The Return of the King",
+   "Setting": "Drúadan Forest, Rohan and Gondor",
+   "Time": "March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "FO007",
+    "role": "travelled",
+    "note": "Ghân-buri-Ghân meets the Rohirrim in this forest."
+   },
+   {
+    "id": "FO016",
+    "role": "travelled",
+    "note": "The Wild Men guide the host through the Grey Wood by a hidden road."
+   },
+   {
+    "id": "WA006",
+    "role": "travelled",
+    "note": "The Riders pass the broken outer wall before dawn."
+   },
+   {
+    "id": "FI024",
+    "role": "travelled",
+    "note": "The host reaches the edge of the Pelennor at dawn."
+   },
+   {
+    "id": "realm:anorien",
+    "role": "travelled",
+    "note": "The riders cross Anórien toward the city."
+   }
+  ],
+  "related": [
+   "person:theoden",
+   "person:ghan-buri-ghan",
+   "person:meriadoc-brandybuck",
+   "person:eowyn",
+   "person:eomer",
+   "person:elfhelm",
+   "people:druedain",
+   "people:rohirrim"
+  ],
+  "sources": [
+   "The Return of the King, Book V, chapter 5"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:rotk-5-06",
+  "title": "The Battle of the Pelennor Fields",
+  "group": "The Return of the King",
+  "kind": "Book V, chapter 6",
+  "aka": [],
+  "blurb": "The Rohirrim charge, Théoden dies, Éowyn and Merry slay the Witch-king, and Aragorn arrives by ship.",
+  "book": "The Rohirrim charge from the north as morning comes. They scatter the enemy. Théoden slays the chieftain of the Haradrim and throws down his standard.\n\nThen a black dart strikes the king's horse Snowmane. The horse falls on Théoden and crushes him. The Witch-king descends on his winged beast. Dernhelm stands between the Witch-king and the king. Dernhelm is Éowyn in disguise. Merry crawls toward them, ashamed of his fear.\n\nÉowyn cuts off the head of the winged beast. The Witch-king shatters her shield and breaks her arm. Then Merry stabs him behind the knee with his sword from the Barrow-downs. Éowyn drives her sword between his crown and mantle, and he is destroyed. Both she and Merry are struck down by his deadly touch. Théoden wakes, speaks to Merry, and dies. Éomer finds his uncle dead and his sister seemingly dead, and he charges in grief and rage. Later Imrahil finds that Éowyn still lives.\n\nThe battle turns against the Rohirrim as fresh forces arrive from the south. Black ships come up the river, and the defenders fear the Corsairs. Then the banner that Arwen made unfurls on the lead ship. Aragorn and his men land at the Harlond. Aragorn, Éomer and Imrahil meet on the field. By sunset the enemy is destroyed.",
+  "film": "In the film, Éowyn and Merry kill the Witch-king. Aragorn arrives on the black ships, and the Army of the Dead then wins the battle.",
+  "series": "",
+  "facts": {
+   "Book": "The Return of the King",
+   "Setting": "The Pelennor Fields, outside Minas Tirith",
+   "Date": "15 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "FI024",
+    "role": "fought",
+    "note": "The great battle for Minas Tirith is fought on this plain."
+   },
+   {
+    "id": "battle:pelennor",
+    "role": "fought",
+    "note": "The battle itself has its own card."
+   },
+   {
+    "id": "TO045",
+    "role": "other",
+    "note": "Aragorn's ships land at the Harlond during the battle."
+   },
+   {
+    "id": "TO081",
+    "role": "other",
+    "note": "The captured ships sail upriver from this port."
+   }
+  ],
+  "related": [
+   "person:theoden",
+   "person:eowyn",
+   "person:meriadoc-brandybuck",
+   "person:witch-king",
+   "person:eomer",
+   "person:aragorn",
+   "person:snowmane",
+   "person:imrahil"
+  ],
+  "sources": [
+   "The Return of the King, Book V, chapter 6"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:rotk-5-07",
+  "title": "The Pyre of Denethor",
+  "group": "The Return of the King",
+  "kind": "Book V, chapter 7",
+  "aka": [],
+  "blurb": "Pippin brings Gandalf to save Faramir from Denethor's pyre, and Denethor burns himself with the palantír in his hands.",
+  "book": "The chapter goes back to the moment when the Witch-king leaves the broken gate. Pippin finds Gandalf there and begs him to save Faramir. Gandalf leaves the gate and rides with Pippin up to the Silent Street.\n\nAt the House of the Stewards, Beregond has left his post. He stands in the doorway with drawn sword and holds back Denethor's servants. He has killed two of them. Gandalf enters and lifts Faramir from the pyre. Faramir is still alive, burning with fever.\n\nDenethor speaks with pride and despair. He shows that he has a palantír. He says that it has shown him a great fleet coming up the river, and he believes that all hope is gone. He refuses to live as a lesser lord under Aragorn. He breaks his white rod, lies down on the pyre, and sets it alight. He dies there holding the stone.\n\nGandalf, Beregond and Pippin bring Faramir to the Houses of Healing. Gandalf explains how the palantír wore Denethor down. He grieves that his absence from the battle may have cost lives. Gandalf and Pippin then go down toward the field.",
+  "film": "The film also shows Denethor's attempt to burn Faramir. Gandalf and Pippin save Faramir, and Denethor runs burning from the Citadel and falls.",
+  "series": "",
+  "facts": {
+   "Book": "The Return of the King",
+   "Setting": "The Citadel and the Hallows of Minas Tirith",
+   "Date": "15 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "GR013",
+    "role": "died",
+    "note": "Denethor burns himself on the pyre in the House of the Stewards."
+   },
+   {
+    "id": "RD031",
+    "role": "travelled",
+    "note": "Gandalf and Pippin hurry down the Silent Street to the tombs."
+   },
+   {
+    "id": "BU063",
+    "role": "other",
+    "note": "Faramir is carried to the Houses of Healing."
+   }
+  ],
+  "related": [
+   "person:denethor-ii",
+   "person:faramir",
+   "person:gandalf",
+   "person:peregrin-took",
+   "person:beregond",
+   "person:aragorn",
+   "thing:palantir-of-orthanc"
+  ],
+  "sources": [
+   "The Return of the King, Book V, chapter 7"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:rotk-5-08",
+  "title": "The Houses of Healing",
+  "group": "The Return of the King",
+  "kind": "Book V, chapter 8",
+  "aka": [],
+  "blurb": "Aragorn enters Minas Tirith as a healer and calls back Faramir, Éowyn and Merry from the Black Breath.",
+  "book": "After the battle, Merry wanders dazed through the city with a numb arm. Pippin finds him and brings him to the Houses of Healing. There Faramir, Éowyn and Merry lie sick with the Black Breath. The healers cannot help them. Ioreth, an old woman who serves in the Houses, recalls a saying that the hands of the king are the hands of a healer.\n\nAragorn will not enter the city as king while the war goes on, and he camps outside. But Gandalf asks for his help. Aragorn comes in at evening, wearing his grey Ranger cloak, with Imrahil and Éomer. He asks for athelas, which some call kingsfoil. After a search, a few leaves are found.\n\nAragorn heals Faramir first. Faramir wakes, knows him, and calls him king. Then Aragorn calls Éowyn back. He speaks with Éomer and Gandalf of her long despair. Last he heals Merry, who wakes and asks for supper and his pipe.\n\nAll night Aragorn tends the sick. Word goes through the city that the king has returned. The people call him Elfstone, for the green stone that he wears. Before dawn he goes back to his tent outside the walls.",
+  "film": "The extended edition of The Return of the King (2003) shows Éowyn in the Houses of Healing and a brief first meeting with Faramir. The healing by Aragorn is much shorter than in the book.",
+  "series": "",
+  "facts": {
+   "Book": "The Return of the King",
+   "Setting": "The Houses of Healing, Minas Tirith",
+   "Date": "15 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "BU063",
+    "role": "other",
+    "note": "Aragorn heals the wounded here."
+   },
+   {
+    "id": "TO065",
+    "role": "other",
+    "note": "The healing takes place in the sixth circle of the city."
+   }
+  ],
+  "related": [
+   "person:aragorn",
+   "person:faramir",
+   "person:eowyn",
+   "person:meriadoc-brandybuck",
+   "person:peregrin-took",
+   "person:ioreth",
+   "person:gandalf",
+   "person:eomer",
+   "thing:athelas"
+  ],
+  "sources": [
+   "The Return of the King, Book V, chapter 8"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:rotk-5-09",
+  "title": "The Last Debate",
+  "group": "The Return of the King",
+  "kind": "Book V, chapter 9",
+  "aka": [],
+  "blurb": "Legolas and Gimli tell of the Paths of the Dead, and the Captains decide to march on the Black Gate to draw Sauron's eye.",
+  "book": "The next morning Legolas and Gimli walk through Minas Tirith with Merry and Pippin. They tell of the ride south after the Paths of the Dead. At Pelargir the Shadow Host drove the Corsairs from their ships in terror. Aragorn then released the Dead from their oath. He filled the ships with men of southern Gondor and sailed up the Anduin to the battle.\n\nMeanwhile the captains meet in council. Gandalf, Aragorn, Éomer, Imrahil and the sons of Elrond take part. Gandalf says that they cannot win by force of arms. Their only hope is the Ring-bearer. Sauron must be kept from looking into his own land.\n\nAragorn reveals that he looked into the palantír at the Hornburg and showed himself to Sauron. Gandalf thinks that Sauron may now believe that the heir of Isildur has the Ring. He proposes that they march to the Black Gate and offer battle, as bait for the Eye. They will risk their lives so that Frodo may have a chance.\n\nImrahil and Éomer agree, though they think the venture hopeless. They decide to lead a host of about seven thousand. A force must stay behind to guard the city.",
+  "film": "The film shows a council before the march. Aragorn leads the army to the Black Gate to draw the eye of Sauron.",
+  "series": "",
+  "facts": {
+   "Book": "The Return of the King",
+   "Setting": "Minas Tirith",
+   "Date": "16 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "TO065",
+    "role": "other",
+    "note": "Legolas and Gimli walk in the city, and the captains hold council outside it."
+   },
+   {
+    "id": "TO081",
+    "role": "other",
+    "note": "Legolas and Gimli tell how the Dead took the Corsairs' ships at Pelargir."
+   }
+  ],
+  "related": [
+   "person:gandalf",
+   "person:aragorn",
+   "person:eomer",
+   "person:imrahil",
+   "person:elladan",
+   "person:elrohir",
+   "person:legolas",
+   "person:gimli",
+   "person:angbor",
+   "thing:palantir-of-orthanc"
+  ],
+  "sources": [
+   "The Return of the King, Book V, chapter 9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:rotk-5-10",
+  "title": "The Black Gate Opens",
+  "group": "The Return of the King",
+  "kind": "Book V, chapter 10",
+  "aka": [],
+  "blurb": "The Army of the West marches to the Black Gate, rejects the Mouth of Sauron, and is surrounded in a desperate battle.",
+  "book": "Two days after the council the Army of the West sets out. It crosses the river at Osgiliath and marches north through Ithilien. At the Cross-roads the soldiers set the head of the old king back on its statue. They leave a guard at the entrance to the Morgul Vale and burn the foul meadows there. Heralds proclaim the coming of the king, but no answer comes.\n\nNear the Desolation of the Morannon, some of the young men are overcome with dread. Aragorn pities them and sends them to retake Cair Andros. The rest go on and camp before the Black Gate.\n\nThe Mouth of Sauron rides out with an embassy. He shows Sam's sword, an Elven cloak and Frodo's mithril coat. He claims that the spy is a prisoner and demands harsh terms. Gandalf refuses and takes the tokens from him. The Gate opens, and the armies of Mordor pour out. The host of the West is surrounded on two hills of slag.\n\nIn the battle Pippin kills a great troll, and it falls on him. As he loses his senses, he hears voices cry that the Eagles are coming.",
+  "film": "The film shows the Black Gate battle in similar form. The Mouth of Sauron appears in the extended edition, and Aragorn speaks to the army before the fight.",
+  "series": "",
+  "facts": {
+   "Book": "The Return of the King",
+   "Setting": "Ithilien and the Black Gate",
+   "Dates": "18 to 25 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "NP027",
+    "role": "other",
+    "note": "The army restores the head of the old king's statue at the Cross-roads."
+   },
+   {
+    "id": "IS002",
+    "role": "other",
+    "note": "Aragorn sends the faint-hearted to retake this island."
+   },
+   {
+    "id": "FT005",
+    "role": "fought",
+    "note": "The army stands before the Gate of Mordor."
+   },
+   {
+    "id": "FI006",
+    "role": "fought",
+    "note": "The host is surrounded on slag-hills in this desolate plain."
+   },
+   {
+    "id": "battle:morannon",
+    "role": "fought",
+    "note": "The battle has its own card."
+   }
+  ],
+  "related": [
+   "person:gandalf",
+   "person:aragorn",
+   "person:mouth-of-sauron",
+   "person:peregrin-took",
+   "person:gwaihir",
+   "person:sauron",
+   "thing:mithril-coat",
+   "people:nazgul"
+  ],
+  "sources": [
+   "The Return of the King, Book V, chapter 10"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:rotk-6-01",
+  "title": "The Tower of Cirith Ungol",
+  "group": "The Return of the King",
+  "kind": "Book VI, chapter 1",
+  "aka": [],
+  "blurb": "Sam enters the Tower of Cirith Ungol, finds Frodo after the Orcs have slain each other, and the two escape in Orc gear.",
+  "book": "Sam wakes before the closed under-gate. He climbs back to the pass and sees the tower above him. Wearing the Ring, he feels its pull. He imagines himself a mighty hero who turns Gorgoroth into a garden. His plain hobbit sense saves him, and he resists.\n\nSam comes to the main gate. Two Watchers, carved figures with three faces, guard it with an unseen will. Sam raises the Phial of Galadriel, the will of the Watchers breaks, and he passes in. He finds many dead Orcs. The companies of Shagrat and Gorbag have fought each other over Frodo's mithril coat. Shagrat kills Gorbag and escapes with the coat to carry it to Barad-dûr.\n\nSam climbs the tower. At last he sings a song of the Shire, and a faint voice answers. An Orc named Snaga climbs a ladder to beat the prisoner. Sam follows him up, and Snaga falls through the trapdoor and dies.\n\nSam finds Frodo naked and bruised. He gives back the Ring. For a moment Frodo sees him as a thief and speaks cruelly, then he weeps. The two put on Orc gear as a disguise. When they pass the Watchers again, the Watchers cry out. A Nazgûl comes to the gate as the hobbits run down into Mordor.",
+  "film": "In the film, Sam rescues Frodo from the tower while the orcs fight among themselves.",
+  "series": "",
+  "facts": {
+   "Book": "The Return of the King",
+   "Setting": "Tower of Cirith Ungol, Mordor",
+   "Date": "14 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "FT025",
+    "role": "other",
+    "note": "Sam rescues Frodo here."
+   },
+   {
+    "id": "VA034",
+    "role": "travelled",
+    "note": "The pass above Shelob's lair leads to the tower."
+   },
+   {
+    "id": "realm:mordor",
+    "role": "travelled",
+    "note": "Frodo and Sam enter the Black Land."
+   }
+  ],
+  "related": [
+   "person:samwise-gamgee",
+   "person:frodo-baggins",
+   "person:shagrat",
+   "person:gorbag",
+   "thing:one-ring",
+   "thing:mithril-coat",
+   "thing:phial-of-galadriel",
+   "thing:sting"
+  ],
+  "sources": [
+   "The Return of the King, Book VI, chapter 1"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:rotk-6-02",
+  "title": "The Land of Shadow",
+  "group": "The Return of the King",
+  "kind": "Book VI, chapter 2",
+  "aka": [],
+  "blurb": "Frodo and Sam creep north along the Morgai, Sam sees a star, and Orcs force them into a marching column.",
+  "book": "Frodo and Sam flee down from the tower into the valley between the Ephel Dúath and the inner ridge of the Morgai. Water is scarce, and Frodo is weak. They find a small stream of bitter water and drink.\n\nSam looks up through a gap in the clouds and sees a white star. He feels that the Shadow is small and will pass, and that light and beauty lie beyond its reach. Then he sleeps in peace.\n\nThey creep north along the Morgai. They overhear two Orcs, a tracker and a soldier, quarrel about the escaped prisoner. From their talk the hobbits learn that Gollum is nearby. The great darkness lifts as a wind blows from the west.\n\nAt last they come down to the road near the Isenmouthe. A band of Orcs marching from Durthang overtakes them. The driver takes them for deserters and forces them into the column. They must run in the ranks for many miles. At the Isenmouthe the column meets other companies, and in the confusion Frodo and Sam slip away. They hide by the road, worn out.",
+  "film": "The film shows Frodo and Sam forced to march with Orcs while in disguise. They escape from the column, and the march across Mordor follows.",
+  "series": "",
+  "facts": {
+   "Book": "The Return of the King",
+   "Setting": "Mordor",
+   "Dates": "15 to 19 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "MT035",
+    "role": "travelled",
+    "note": "Frodo and Sam creep north along this inner ridge of Mordor."
+   },
+   {
+    "id": "MT014",
+    "role": "other",
+    "note": "The hobbits travel in the valley below these mountains."
+   },
+   {
+    "id": "FT010",
+    "role": "other",
+    "note": "The Orc column that catches the hobbits marches from this fort."
+   },
+   {
+    "id": "VA021",
+    "role": "travelled",
+    "note": "The hobbits escape from the column near the Isenmouthe."
+   },
+   {
+    "id": "realm:mordor",
+    "role": "travelled",
+    "note": "Frodo and Sam cross the Black Land in disguise."
+   }
+  ],
+  "related": [
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:gollum",
+   "thing:one-ring",
+   "people:orcs",
+   "journey:frodo"
+  ],
+  "sources": [
+   "The Return of the King, Book VI, chapter 2"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:rotk-6-03",
+  "title": "Mount Doom (chapter)",
+  "group": "The Return of the King",
+  "kind": "Book VI, chapter 3",
+  "aka": [],
+  "blurb": "Sam carries Frodo up Mount Doom, Frodo claims the Ring, and Gollum seizes it and falls into the fire.",
+  "book": "Frodo and Sam turn south from the road toward Mount Doom across the plain of Gorgoroth. They have little water. They throw away their Orc gear, and Sam sadly throws away his cooking pans. Frodo feels the Ring as a great weight, and he sees a wheel of fire in his mind.\n\nOn the last day Frodo cannot go on. Sam takes him on his back and carries him up the side of the Mountain. They reach the road that climbs to the Sammath Naur. There Gollum attacks them. Frodo throws him off and warns him that if he touches Frodo again, Gollum himself will be cast into the Fire. Sam faces Gollum, but he pities him and lets him go.\n\nFrodo goes into the Chamber of Fire. At the brink of the Crack of Doom he does not throw in the Ring. He says aloud that he will not do it, claims the Ring and puts it on. Gollum fights the unseen Frodo and bites off his finger with the Ring. He dances with joy, steps over the edge and falls into the fire.\n\nThe Ring is unmade. Barad-dûr falls, and the Nazgûl perish in fire. The Mountain erupts. Sam leads Frodo out to a small hill of ash. Frodo is himself again, and the two wait for the end. Gandalf comes with the Eagles and carries them away.",
+  "film": "The film follows the main events. Frodo claims the Ring, Gollum bites off his finger and falls, and the Eagles come for Frodo and Sam.",
+  "series": "",
+  "facts": {
+   "Book": "The Return of the King",
+   "Setting": "Gorgoroth and Mount Doom, Mordor",
+   "Dates": "22 to 25 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "MT036",
+    "role": "destroyed",
+    "note": "The One Ring is destroyed in the fire of the Mountain."
+   },
+   {
+    "id": "BU036",
+    "role": "destroyed",
+    "note": "The Ring falls into the Cracks of Doom."
+   },
+   {
+    "id": "FT004",
+    "role": "destroyed",
+    "note": "The Dark Tower falls when the Ring is destroyed."
+   }
+  ],
+  "related": [
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:gollum",
+   "person:sauron",
+   "person:gandalf",
+   "person:gwaihir",
+   "thing:one-ring",
+   "people:nazgul",
+   "journey:frodo"
+  ],
+  "sources": [
+   "The Return of the King, Book VI, chapter 3"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:rotk-6-04",
+  "title": "The Field of Cormallen",
+  "group": "The Return of the King",
+  "kind": "Book VI, chapter 4",
+  "aka": [],
+  "blurb": "Frodo and Sam wake in Ithilien and are honored by the Captains of the West after the fall of Sauron.",
+  "book": "Sam wakes in a soft bed in Ithilien. Gandalf, robed in white, sits beside him and laughs. Sam asks whether all the sad things have come undone. Gandalf tells him that Sauron has fallen and that they have slept for many days. Frodo lies nearby and is healing too.\n\nThe two hobbits are dressed in fine clothes and led to the Field of Cormallen. The host greets them with praise in many tongues. The king on the throne is Aragorn, and Frodo and Sam know him at once as Strider. He honours them and leads them to sit upon his throne.\n\nA minstrel of Gondor asks leave to sing. He sings the lay of Frodo of the Nine Fingers and the Ring of Doom. Sam weeps with joy. At the feast they meet Merry and Pippin again, and Legolas and Gimli. Sam marvels that Merry and Pippin have grown taller.\n\nThe company stays in Ithilien for some time. Then they go by ship down the river toward Minas Tirith, where the king will soon enter the city.",
+  "film": "In the film, Frodo wakes in Minas Tirith, not in Ithilien, and finds his friends there. The scene at Cormallen does not appear.",
+  "series": "",
+  "facts": {
+   "Book": "The Return of the King",
+   "Setting": "Field of Cormallen, Ithilien",
+   "Date": "8 April T.A. 3019 (the honouring)"
+  },
+  "places": [
+   {
+    "id": "FI010",
+    "role": "other",
+    "note": "The Captains honor Frodo and Sam on this field."
+   },
+   {
+    "id": "realm:ithilien",
+    "role": "other",
+    "note": "The field lies in Ithilien."
+   }
+  ],
+  "related": [
+   "person:samwise-gamgee",
+   "person:frodo-baggins",
+   "person:gandalf",
+   "person:aragorn",
+   "person:gimli",
+   "person:legolas",
+   "person:gwaihir",
+   "person:peregrin-took",
+   "person:meriadoc-brandybuck"
+  ],
+  "sources": [
+   "The Return of the King, Book VI, chapter 4"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:rotk-6-05",
+  "title": "The Steward and the King",
+  "group": "The Return of the King",
+  "kind": "Book VI, chapter 5",
+  "aka": [],
+  "blurb": "Faramir and Éowyn find love, Aragorn is crowned King Elessar, he finds a sapling of the White Tree, and he weds Arwen.",
+  "book": "Faramir and Éowyn stay in the Houses of Healing while the army marches. They meet in the garden and walk together on the walls. Éowyn is restless and grieves that she cannot ride to war. On 25 March they stand together as a great wind blows and the Shadow passes. News of victory follows. Éowyn's heart changes, and she gives up her wish to be a shieldmaiden. She and Faramir become betrothed.\n\nOn 1 May Aragorn comes to the gate of Minas Tirith. Faramir, the Steward, offers him the white rod of his office, and Aragorn gives it back. Frodo brings the crown of Gondor to Aragorn, and Gandalf sets it on his head. The people rejoice as the king enters his city.\n\nAs king, Elessar gives judgments and rewards. He pardons Beregond for leaving his post but sends him to be captain of Faramir's guard. He names Faramir Prince of Ithilien. He makes peace with the Easterlings and the Haradrim. He frees the slaves of Mordor and gives them the lands around Lake Núrnen.\n\nGandalf leads Aragorn high up on Mount Mindolluin. There they find a sapling of the White Tree, and Aragorn plants it in the Court of the Fountain. On Midsummer Eve, Arwen arrives with Elrond, Galadriel, Celeborn and her brothers. Aragorn and Arwen are wedded on Mid-year's Day.",
+  "film": "In the film, the coronation is the high point. Aragorn tells the hobbits that they need bow to no one.",
+  "series": "",
+  "facts": {
+   "Book": "The Return of the King",
+   "Setting": "Minas Tirith, Gondor",
+   "Dates": "25 March to Mid-year's Day T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "BU063",
+    "role": "other",
+    "note": "Faramir and Éowyn meet while they heal in the Houses."
+   },
+   {
+    "id": "TO065",
+    "role": "other",
+    "note": "Aragorn is crowned here and later weds Arwen."
+   },
+   {
+    "id": "MT033",
+    "role": "found",
+    "note": "Aragorn finds a sapling of the White Tree on the mountain."
+   },
+   {
+    "id": "realm:gondor",
+    "role": "ruled",
+    "note": "Aragorn takes up the kingship of Gondor."
+   }
+  ],
+  "related": [
+   "person:aragorn",
+   "person:arwen",
+   "person:faramir",
+   "person:eowyn",
+   "person:gandalf",
+   "person:frodo-baggins",
+   "person:beregond",
+   "person:elrond",
+   "thing:crown-of-gondor",
+   "thing:white-tree"
+  ],
+  "sources": [
+   "The Return of the King, Book VI, chapter 5"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:rotk-6-06",
+  "title": "Many Partings",
+  "group": "The Return of the King",
+  "kind": "Book VI, chapter 6",
+  "aka": [],
+  "blurb": "Théoden is buried at Edoras, the company travels north through Rohan and Isengard, meets Saruman, and comes to Rivendell.",
+  "book": "After the wedding, Frodo wishes to go home. Arwen gives him a white gem on a chain to help him when dark memories trouble him. She tells him that he may go into the West in her place if his hurts still grieve him.\n\nA great escort carries Théoden's body from Minas Tirith to Edoras. There the king is laid in a mound, and his Riders sing of him. At the funeral feast Éomer, now king, announces that Éowyn will wed Faramir. Éomer and Éowyn give Merry an ancient horn.\n\nThe company rides on. At Helm's Deep, Legolas goes with Gimli into the Glittering Caves. At Isengard the Ents have made the ring into a garden. Treebeard says that he let Saruman go, and Wormtongue went with him. Aragorn takes leave of the hobbits there. Legolas and Gimli part from them to visit Fangorn. Later the travellers overtake Saruman and Gríma, now beggars, on the road. Saruman speaks bitterly, and Merry gives him some pipe-weed.\n\nGaladriel and Celeborn turn aside near the mountains of Moria. The rest come to Rivendell, where Bilbo keeps his birthday. Bilbo gives Frodo his books of lore and gives Sam a little bag of gold. In October the hobbits and Gandalf set out for home.",
+  "film": "The film does not show most of these partings. It moves from the coronation to the Shire and the Grey Havens.",
+  "series": "",
+  "facts": {
+   "Book": "The Return of the King",
+   "Setting": "Minas Tirith, Rohan, Isengard and Rivendell",
+   "Dates": "19 July to 5 October T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "TO029",
+    "role": "buried",
+    "note": "Théoden is laid in a mound at Edoras."
+   },
+   {
+    "id": "CA007",
+    "role": "other",
+    "note": "Legolas visits these caves with Gimli."
+   },
+   {
+    "id": "FT017",
+    "role": "other",
+    "note": "Treebeard tells the company that he let Saruman go."
+   },
+   {
+    "id": "TO084",
+    "role": "other",
+    "note": "The hobbits stay with Bilbo at Rivendell before the last stage home."
+   }
+  ],
+  "related": [
+   "person:frodo-baggins",
+   "person:arwen",
+   "person:theoden",
+   "person:eomer",
+   "person:treebeard",
+   "person:saruman",
+   "person:grima",
+   "person:bilbo-baggins",
+   "person:gandalf",
+   "person:galadriel"
+  ],
+  "sources": [
+   "The Return of the King, Book VI, chapter 6"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:rotk-6-07",
+  "title": "Homeward Bound",
+  "group": "The Return of the King",
+  "kind": "Book VI, chapter 7",
+  "aka": [],
+  "blurb": "The hobbits ride from Rivendell to Bree, hear of the troubles from Butterbur, part from Gandalf, and find the Shire's border barred.",
+  "book": "The hobbits and Gandalf leave Rivendell and cross the Ford of Bruinen. On the anniversary of his wound on Weathertop, Frodo feels the old pain return. He says that some wounds cannot be wholly cured.\n\nThey reach Bree on a wet evening and find the gate shut and guarded. At the Prancing Pony, Barliman Butterbur tells them of trouble. Ruffians from the south have come to Bree, and in a fight several Bree-folk were killed. Bill Ferny and his friends fled. Butterbur has heard grim rumours of the Shire. He is glad to hear that Strider is now King.\n\nSam finds that his pony Bill has come back to Bree. Gandalf rides with the hobbits out of Bree. Some way east of the Shire, he turns aside. He says that he will go for a long talk with Tom Bombadil. He tells the hobbits that they need no help to set the Shire in order.\n\nThe four ride on. At night they reach the Brandywine Bridge and find it barred with a gate. Hobbit guards refuse to let them in, citing the orders of the Chief. The travellers climb over, and the guards give way. They spend the night in the gatehouse and see how much the Shire has changed.",
+  "film": "The film does not include this chapter.",
+  "series": "",
+  "facts": {
+   "Book": "The Return of the King",
+   "Setting": "Rivendell, Bree and the Shire border",
+   "Dates": "5 to 30 October T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "FJ006",
+    "role": "travelled",
+    "note": "The travellers cross the Ford of Bruinen on their way west."
+   },
+   {
+    "id": "TO011",
+    "role": "other",
+    "note": "They hear grim news from Butterbur at Bree."
+   },
+   {
+    "id": "BU009",
+    "role": "other",
+    "note": "Butterbur tells them of the ruffians at the Prancing Pony."
+   },
+   {
+    "id": "BR001",
+    "role": "other",
+    "note": "The bridge at the Shire's border is barred with a gate."
+   }
+  ],
+  "related": [
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:meriadoc-brandybuck",
+   "person:peregrin-took",
+   "person:gandalf",
+   "person:barliman-butterbur",
+   "person:bill-ferny",
+   "person:bill-the-pony",
+   "person:tom-bombadil"
+  ],
+  "sources": [
+   "The Return of the King, Book VI, chapter 7"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:rotk-6-08",
+  "title": "The Scouring of the Shire",
+  "group": "The Return of the King",
+  "kind": "Book VI, chapter 8",
+  "aka": [],
+  "blurb": "The hobbits find the Shire under ruffians and Sharkey, rouse its people, win the Battle of Bywater, and see Saruman die.",
+  "book": "On their first day in the Shire, the travellers ride west. At Frogmorton, shirriffs arrest them under the Chief's rules. The hobbits laugh at them and lead the march themselves. They learn that Lotho Sackville-Baggins, called the Chief, has taken control with the help of ruffians from outside. Many trees have been cut down, goods are taken away, and the old mill has been replaced by a noisy new one.\n\nAt Bywater, ruffians try to stop them, and Merry blows the horn of the Mark. The Shire-folk rise. Farmer Cotton and his sons join them, and Pippin rides to fetch the Tooks. The next day the hobbits trap the ruffians in a lane and defeat them in the Battle of Bywater. Nineteen hobbits and about seventy ruffians die. Frodo does not draw his sword and urges mercy.\n\nThe four go up to Bag End. There they find the true master of the ruffians, Sharkey, who is Saruman. He has done harm out of spite. Lotho is dead, and Saruman hints that Wormtongue killed him. Frodo lets Saruman go. Saruman tries to stab Frodo, but the knife breaks on Frodo's hidden mail. Frodo spares him again.\n\nAs Saruman leaves, he kicks Wormtongue. Wormtongue cuts his master's throat, and hobbit archers shoot Wormtongue dead. A grey mist rises from Saruman's body and is blown away by a wind from the West.",
+  "film": "The film omits the Scouring of the Shire. The extended edition shows Saruman and Gríma dying at Orthanc.",
+  "series": "",
+  "facts": {
+   "Book": "The Return of the King",
+   "Setting": "The Shire",
+   "Dates": "1 to 3 November T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "TO037",
+    "role": "other",
+    "note": "Shirriffs arrest the travellers at Frogmorton."
+   },
+   {
+    "id": "TO016",
+    "role": "fought",
+    "note": "The Battle of Bywater is fought at this village."
+   },
+   {
+    "id": "battle:bywater",
+    "role": "fought",
+    "note": "The battle has its own card."
+   },
+   {
+    "id": "BU030",
+    "role": "died",
+    "note": "Saruman meets his end at the door of Bag End."
+   },
+   {
+    "id": "realm:the-shire",
+    "role": "other",
+    "note": "The Shire is freed from the rule of the ruffians."
+   }
+  ],
+  "related": [
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:meriadoc-brandybuck",
+   "person:peregrin-took",
+   "person:saruman",
+   "person:grima",
+   "person:lotho-sackville-baggins",
+   "thing:horn-of-the-mark",
+   "battle:bywater",
+   "people:hobbits"
+  ],
+  "sources": [
+   "The Return of the King, Book VI, chapter 8"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:rotk-6-09",
+  "title": "The Grey Havens",
+  "group": "The Return of the King",
+  "kind": "Book VI, chapter 9",
+  "aka": [],
+  "blurb": "Sam marries Rose, Frodo completes the Red Book, and Frodo sails west with Bilbo, Gandalf and the Elves.",
+  "book": "The hobbits set the Shire in order. Lobelia is freed from prison and gives Bag End back to Frodo. Frodo serves as deputy Mayor for a time. Sam plants saplings across the Shire, each with a grain of soil from Galadriel's box. He plants the silver nut in the Party Field, and a mallorn grows there. The year 1420 of the Shire is a year of great plenty.\n\nIn the spring of 1420 Sam marries Rose Cotton, and they come to live at Bag End with Frodo. Their daughter Elanor is born on 25 March 1421. Frodo falls ill on the dates of his old wounds, in October and March. He finishes his part of the Red Book and later gives it to Sam.\n\nIn September 1421 Frodo and Sam ride east together. In the Woody End they meet Elrond and Galadriel with many Elves, and Bilbo rides with them. Frodo tells Sam that he is going over the Sea. Sam must stay, for he has much to do and to enjoy in the Shire.\n\nAt the Grey Havens, Círdan greets them, and Gandalf waits there. Merry and Pippin arrive in haste to say farewell. On 29 September Frodo boards the white ship with Bilbo, Gandalf, Elrond and Galadriel, and it sails into the West. Sam, Merry and Pippin ride home. Sam returns to Bag End, where Rose and Elanor wait for him.",
+  "film": "In the film, Sam goes home to Rose after the farewell. Bilbo also sails with Frodo, Gandalf and the Elves.",
+  "series": "",
+  "facts": {
+   "Book": "The Return of the King",
+   "Setting": "The Shire and the Grey Havens",
+   "Date": "29 September T.A. 3021 (S.R. 1421)"
+  },
+  "places": [
+   {
+    "id": "TO043",
+    "role": "other",
+    "note": "Frodo sails west from the Grey Havens."
+   },
+   {
+    "id": "FO037",
+    "role": "travelled",
+    "note": "Frodo and Sam meet Elrond, Galadriel and Bilbo in the Woody End."
+   },
+   {
+    "id": "BU030",
+    "role": "lived",
+    "note": "Sam and Rose live at Bag End with Frodo."
+   },
+   {
+    "id": "realm:lindon",
+    "role": "other",
+    "note": "The Havens lie in Lindon on the Gulf of Lune."
+   }
+  ],
+  "related": [
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:bilbo-baggins",
+   "person:gandalf",
+   "person:elrond",
+   "person:galadriel",
+   "person:elanor-gamgee",
+   "person:rose-cotton",
+   "person:cirdan",
+   "thing:red-book"
+  ],
+  "sources": [
+   "The Return of the King, Book VI, chapter 9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:rotk-app-a1",
+  "title": "Appendix A: The Númenórean Kings",
+  "group": "The Return of the King",
+  "kind": "Appendix A, part I",
+  "aka": [
+   "Annals of the Kings and Rulers",
+   "Númenórean Kings"
+  ],
+  "blurb": "The first part of Appendix A sketches the history of Númenor, the Realms in Exile, Arnor, Gondor and the Stewards.",
+  "book": "Appendix A is called the Annals of the Kings and Rulers. Its first part, on the Númenórean Kings, is the longest. It has five sections.\n\nThe first section tells of Númenor. It lists the Kings and Queens of the island, from Elros Tar-Minyatur to Ar-Pharazôn, and tells how the island fell. The Faithful, led by Elendil, escaped in ships.\n\nThe second section covers the Realms in Exile. Elendil and his sons, Isildur and Anárion, founded Arnor in the north and Gondor in the south. Elendil ruled both as High King.\n\nThe third section follows Arnor and the heirs of Isildur. Arnor broke into three kingdoms, Arthedain, Cardolan and Rhudaur. The northern kingdom ended with Arvedui, and his heirs became Chieftains of the Dúnedain.\n\nThe fourth section follows Gondor and the heirs of Anárion. It tells of the Ship-kings, the Kin-strife, the Wainriders and the end of the royal line. The Stewards then ruled in the name of the King. Denethor II was the last Ruling Steward.\n\nThe fifth section gives part of the Tale of Aragorn and Arwen.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Return of the King",
+   "Part": "Appendix A, part I",
+   "Subject": "Númenor, Arnor, Gondor and the Stewards"
+  },
+  "places": [
+   {
+    "id": "realm:arnor",
+    "role": "ruled",
+    "note": "The northern realm of Elendil and his heirs."
+   },
+   {
+    "id": "realm:gondor",
+    "role": "ruled",
+    "note": "The southern realm of Anárion, later ruled by Stewards."
+   },
+   {
+    "id": "TO065",
+    "role": "ruled",
+    "note": "The royal city of Gondor in the later ages."
+   }
+  ],
+  "related": [
+   "person:elros",
+   "person:elendil",
+   "person:isildur",
+   "person:anarion",
+   "person:ar-pharazon",
+   "person:arvedui",
+   "person:meneldil",
+   "person:mardil-voronwe",
+   "person:aragorn"
+  ],
+  "sources": [
+   "The Return of the King, Appendix A, part I"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:rotk-app-aragorn-arwen",
+  "title": "Appendix A: The Tale of Aragorn and Arwen",
+  "group": "The Return of the King",
+  "kind": "Appendix A, part I (v)",
+  "aka": [
+   "Tale of Aragorn and Arwen"
+  ],
+  "blurb": "This tale in Appendix A tells how Aragorn won the love of Arwen, and how they later parted in death.",
+  "book": "This tale is the last section of Appendix A, part I. Tolkien gives only part of it.\n\nAragorn is born on 1 March T.A. 2931. His father Arathorn is killed by Orcs when Aragorn is two years old. His mother Gilraen takes him to Rivendell. Elrond fosters him and names him Estel, which means hope. His true name and lineage are kept secret.\n\nWhen Aragorn is twenty, Elrond tells him who he is. He gives him the shards of Narsil and the ring of Barahir. The next day Aragorn meets Arwen in the woods of Rivendell and loves her. Elrond warns him that a doom lies between them.\n\nAragorn then spends many years in the wild. He serves Rohan and Gondor in disguise and travels far into the East and South. In T.A. 2980 he comes to Lothlórien, and Arwen meets him there. On Cerin Amroth they plight their troth, and Arwen chooses the mortal fate. Elrond then says that she will wed no Man less than the King of both Gondor and Arnor.\n\nAfter the fall of Sauron, Aragorn is crowned, and he weds Arwen on Mid-year's Day 3019. They rule together for many years. In Fo.A. 120 Aragorn chooses the time of his death and lies down in the House of the Kings. Arwen, in grief, goes to the empty land of Lórien. She dies there on Cerin Amroth.",
+  "film": "Peter Jackson's films give Arwen a larger part in the main story. They show her choice to stay in Middle-earth and her father's doubts.",
+  "series": "",
+  "facts": {
+   "Book": "The Return of the King",
+   "Part": "Appendix A, part I (v)",
+   "Aragorn's birth": "1 March T.A. 2931",
+   "Betrothal": "Midsummer Eve T.A. 2980, on Cerin Amroth",
+   "Wedding": "Mid-year's Day T.A. 3019",
+   "Death of Aragorn": "Fo.A. 120"
+  },
+  "places": [
+   {
+    "id": "TO084",
+    "role": "lived",
+    "note": "Aragorn is raised at Rivendell, where he first meets Arwen."
+   },
+   {
+    "id": "HI014",
+    "role": "other",
+    "note": "The two plight their troth here, and Arwen later dies here."
+   },
+   {
+    "id": "FO017",
+    "role": "died",
+    "note": "Arwen goes to the empty land of Lórien after Aragorn's death."
+   },
+   {
+    "id": "TO065",
+    "role": "ruled",
+    "note": "They rule from this city after the victory."
+   }
+  ],
+  "related": [
+   "person:aragorn",
+   "person:arwen",
+   "person:elrond",
+   "person:gilraen",
+   "person:arathorn-ii",
+   "thing:ring-of-barahir",
+   "person:elladan",
+   "person:elrohir"
+  ],
+  "sources": [
+   "The Return of the King, Appendix A, part I (v)"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:rotk-app-a2",
+  "title": "Appendix A: The House of Eorl",
+  "group": "The Return of the King",
+  "kind": "Appendix A, part II",
+  "aka": [
+   "Rohan appendix",
+   "Kings of the Mark"
+  ],
+  "blurb": "The second part of Appendix A recounts the founding of Rohan and the line of its kings, from Eorl to Éomer.",
+  "book": "The second part of Appendix A is the history of the House of Eorl and the Kings of the Mark.\n\nThe Rohirrim came from the Éothéod, a people who lived in the north. In T.A. 2510 Gondor was attacked, and Eorl the Young led his riders south. He helped Gondor win the Battle of the Field of Celebrant. Cirion, the Steward, gave them the land that became Rohan. The two peoples swore the Oath of Eorl and Cirion.\n\nThe appendix lists the Kings of the Mark. It tells of Helm Hammerhand and the Long Winter. Wulf of Dunland took Edoras, while Helm was besieged in the Hornburg. Helm died in that winter, and in the spring Fréaláf drove the Dunlendings out and killed Wulf.\n\nThe tale then moves on to Thengel and his son Théoden. Théoden was the seventeenth King of the Mark. His reign met the War of the Ring, and his nephew Éomer followed him.\n\nThe appendix closes with Éomer's long reign. His son Elfwine the Fair ruled after him.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Return of the King",
+   "Part": "Appendix A, part II",
+   "Subject": "The House of Eorl and the Kings of the Mark"
+  },
+  "places": [
+   {
+    "id": "realm:rohan",
+    "role": "ruled",
+    "note": "Rohan is the realm of Eorl and his heirs."
+   },
+   {
+    "id": "TO029",
+    "role": "ruled",
+    "note": "Edoras is the seat of the Kings of the Mark."
+   },
+   {
+    "id": "FT016",
+    "role": "fought",
+    "note": "Helm is besieged in the Hornburg during the Long Winter."
+   }
+  ],
+  "related": [
+   "person:eorl-the-young",
+   "person:cirion",
+   "person:helm-hammerhand",
+   "person:theoden",
+   "person:eomer",
+   "person:thengel",
+   "person:wulf",
+   "person:freca",
+   "people:rohirrim"
+  ],
+  "sources": [
+   "The Return of the King, Appendix A, part II"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:rotk-app-a3",
+  "title": "Appendix A: Durin's Folk",
+  "group": "The Return of the King",
+  "kind": "Appendix A, part III",
+  "aka": [
+   "The Dwarves appendix"
+  ],
+  "blurb": "The third part of Appendix A tells the story of Durin's Folk, the Dwarves of Erebor and Moria.",
+  "book": "The third part of Appendix A is about Durin's Folk, the Dwarves of the line of Durin the Deathless. It tells how they dwelt in Khazad-dûm, how they were driven out, and how the line survived.\n\nDurin lived in the Elder Days and founded Khazad-dûm. His folk grew rich on the mithril of the mines. In the Third Age they woke a Balrog in the deep, which became known as Durin's Bane. The Dwarves fled and went into exile.\n\nThe account follows the Kings under the Mountain at Erebor. In T.A. 2770 the dragon Smaug took the Mountain, and Thrór and his folk fled. Later Thrór went to Moria and was killed by the Orc Azog. This began the War of the Dwarves and Orcs, which ended in the Battle of Azanulbizar.\n\nThráin and his son Thorin Oakenshield then lived in exile, and Thráin was lost. The appendix recounts the quest of Thorin with Gandalf and Bilbo, the death of Smaug and the Battle of Five Armies. Dáin Ironfoot then became King under the Mountain.\n\nThe appendix also records the fate of Balin's colony in Moria. Dáin fell in the War of the Ring, and his son Thorin Stonehelm followed him. After the war Gimli led a company of Dwarves to the Glittering Caves.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Return of the King",
+   "Part": "Appendix A, part III",
+   "Subject": "Durin's Folk"
+  },
+  "places": [
+   {
+    "id": "realm:khazad-dum",
+    "role": "lived",
+    "note": "Durin's Folk first held the great Dwarf-city."
+   },
+   {
+    "id": "realm:erebor",
+    "role": "ruled",
+    "note": "The Kings under the Mountain ruled from Erebor."
+   },
+   {
+    "id": "battle:azanulbizar",
+    "role": "fought",
+    "note": "The war of the Dwarves and Orcs ended at this battle."
+   }
+  ],
+  "related": [
+   "person:durin-the-deathless",
+   "person:thror",
+   "person:thrain-ii",
+   "person:thorin-oakenshield",
+   "person:dain-ii-ironfoot",
+   "person:gimli",
+   "person:balin",
+   "thing:ring-of-thror",
+   "people:durins-folk"
+  ],
+  "sources": [
+   "The Return of the King, Appendix A, part III"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:rotk-app-b",
+  "title": "Appendix B: The Tale of Years",
+  "group": "The Return of the King",
+  "kind": "Appendix B",
+  "aka": [
+   "Tale of Years",
+   "Chronology"
+  ],
+  "blurb": "Appendix B is a dated chronology of the Second Age, the Third Age and the first years of the Fourth Age.",
+  "book": "Appendix B is a chronology. It lists the main events of Middle-earth by year, in order, for the Second and Third Ages. It then adds a short account of the Fourth Age.\n\nThe Tale of Years begins with a short note on how the Ages were counted. The Second Age begins after the fall of Morgoth, and the Third Age begins with the defeat of Sauron by the Last Alliance. The Third Age ends when the Three Rings go west.\n\nEach entry gives a year and one or two lines on what happened. Many entries record the Númenórean kings, the rise of Sauron and the Kings of Gondor. Others record the fate of Arnor and the wars of Dwarves, Elves and Men.\n\nThe last section, The Great Years, covers the final years of the Third Age. For the years T.A. 3018 and 3019, the Tale gives month and day, and follows the Quest of the Ring and the War of the Ring day by day.\n\nThe Tale ends with brief notes on the years after the War. It records the later lives and deaths of the members of the Fellowship and of the King.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Return of the King",
+   "Part": "Appendix B",
+   "Subject": "Chronology of the Second, Third and Fourth Ages"
+  },
+  "places": [],
+  "related": [
+   "person:sauron",
+   "person:gandalf",
+   "person:frodo-baggins",
+   "person:aragorn",
+   "person:elrond",
+   "thing:one-ring"
+  ],
+  "sources": [
+   "The Return of the King, Appendix B"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:rotk-app-c",
+  "title": "Appendix C: Family Trees",
+  "group": "The Return of the King",
+  "kind": "Appendix C",
+  "aka": [
+   "Hobbit family trees",
+   "Genealogies of the Hobbits"
+  ],
+  "blurb": "Appendix C holds the family trees of the hobbits who appear in the story, with dates in Shire Reckoning.",
+  "book": "Appendix C gives family trees of the hobbits who matter in the story. Tolkien notes that the names are only a selection from many. The dates are years of Shire Reckoning.\n\nThere are four trees. The first is the Baggins family of Hobbiton. It shows that Bilbo's parents were Bungo Baggins and Belladonna Took. Frodo's parents were Drogo Baggins and Primula Brandybuck. The tree also shows the Sackville-Bagginses: Otho, Lobelia and their son Lotho.\n\nThe second tree is the Took family of Great Smials. It shows the Old Took and his many children and leads down to Peregrin. The third tree is the Brandybuck family of Buckland, the Masters of the Hall, down to Meriadoc.\n\nThe fourth tree is the Longfather-tree of Master Samwise. It follows the Gamgees and the Cottons and shows the thirteen children of Sam and Rose.\n\nTogether the trees show how Frodo is related to Bilbo, Merry and Pippin.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Return of the King",
+   "Part": "Appendix C",
+   "Subject": "Hobbit genealogies"
+  },
+  "places": [
+   {
+    "id": "realm:the-shire",
+    "role": "lived",
+    "note": "The families in the trees are the hobbits of the Shire."
+   },
+   {
+    "id": "TO050",
+    "role": "lived",
+    "note": "The Baggins family tree centres on Hobbiton."
+   },
+   {
+    "id": "BU052",
+    "role": "lived",
+    "note": "The Took tree is the family of Great Smials."
+   },
+   {
+    "id": "NP046",
+    "role": "lived",
+    "note": "The Brandybuck tree is the family of Buckland."
+   }
+  ],
+  "related": [
+   "person:bilbo-baggins",
+   "person:frodo-baggins",
+   "person:drogo-baggins",
+   "person:samwise-gamgee",
+   "person:rose-cotton",
+   "person:peregrin-took",
+   "person:meriadoc-brandybuck",
+   "person:lobelia-sackville-baggins",
+   "person:lotho-sackville-baggins",
+   "people:hobbits"
+  ],
+  "sources": [
+   "The Return of the King, Appendix C"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:rotk-app-d",
+  "title": "Appendix D: The Calendars",
+  "group": "The Return of the King",
+  "kind": "Appendix D",
+  "aka": [
+   "Shire Reckoning",
+   "Calendars of Middle-earth"
+  ],
+  "blurb": "Appendix D explains how the peoples of Middle-earth counted years, months and days, and how the Shire calendar worked.",
+  "book": "Appendix D describes the calendars. It explains the Shire calendar in the most detail.\n\nThe Shire Reckoning counts years from the crossing of the Brandywine by Marcho and Blanco, in T.A. 1601. The year has twelve months of thirty days. Two Yule days mark the turn of the year, and three Lithe days mark midsummer. In leap years one more day, the Overlithe, is added after Mid-year's Day.\n\nThe Shire names of the months and of the seven days of the week come from older forms. The appendix explains how these names changed over time.\n\nThe appendix also gives other reckonings. The Elves counted a long year and divided it into six seasons. The Dúnedain used the Kings' Reckoning, and Gondor later used the Stewards' Reckoning. After the War of the Ring, Gondor adopted the New Reckoning, in which the year begins on 25 March, the day of Sauron's fall.\n\nThe appendix also compares the Shire calendar with our own.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Return of the King",
+   "Part": "Appendix D",
+   "Subject": "Calendars"
+  },
+  "places": [
+   {
+    "id": "realm:the-shire",
+    "role": "other",
+    "note": "The Shire Reckoning is the calendar of the hobbits."
+   },
+   {
+    "id": "TO084",
+    "role": "other",
+    "note": "The Elvish calendar is described as it was kept at Rivendell."
+   }
+  ],
+  "related": [
+   "person:elrond",
+   "person:aragorn",
+   "person:frodo-baggins",
+   "people:hobbits"
+  ],
+  "sources": [
+   "The Return of the King, Appendix D"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:rotk-app-e",
+  "title": "Appendix E: Writing and Spelling",
+  "group": "The Return of the King",
+  "kind": "Appendix E",
+  "aka": [
+   "Writing and Spelling",
+   "Tengwar and Cirth"
+  ],
+  "blurb": "Appendix E explains how the names in the book are pronounced and spelled, and describes the Tengwar and the Cirth.",
+  "book": "Appendix E has two parts. The first part is about the pronunciation of words and names. The second part is about writing.\n\nThe first part gives rules for reading the names in the books. It explains how to say the consonants and vowels and how stress falls in a word. In Elvish names, C always stands for the sound of k, and CH sounds like the ch in Scottish loch. Long vowels are marked with an accent.\n\nThe second part describes the scripts of Middle-earth. The Tengwar, or Fëanorian letters, were made by Fëanor in Valinor, building on the older letters of Rúmil. The Cirth were runes first devised by the Sindar in Beleriand. Daeron of Doriath later enlarged them, and the Dwarves of Moria used a form of them. The appendix explains how each script was fitted to different languages, including the Common Speech.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Return of the King",
+   "Part": "Appendix E",
+   "Subject": "Pronunciation and scripts"
+  },
+  "places": [],
+  "related": [
+   "person:feanor",
+   "person:daeron",
+   "people:durins-folk"
+  ],
+  "sources": [
+   "The Return of the King, Appendix E"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:rotk-app-f",
+  "title": "Appendix F: The Languages and Peoples of the Third Age",
+  "group": "The Return of the King",
+  "kind": "Appendix F",
+  "aka": [
+   "Languages and Peoples",
+   "On Translation"
+  ],
+  "blurb": "Appendix F surveys the languages and peoples of the Third Age and explains how Tolkien presents the Common Speech in English.",
+  "book": "Appendix F has two parts. The first is on the languages and peoples of the Third Age. The second is a note on translation.\n\nThe first part describes the main tongues. The Common Speech, called Westron, was the language of most peoples in the west of Middle-earth. The Elves spoke Quenya and Sindarin. The Dwarves kept their own tongue private. Orcs spoke crude and varied speech.\n\nThe first part also tells about the peoples. It speaks of the Elves, the Dwarves, the Ents, the Hobbits, the Men of different lands, and the Orcs. It gives some history of the Hobbits and how they came to speak Westron.\n\nThe note on translation explains the author's pose. He says that the book is a translation of the Red Book, which was written in the Common Speech. He tells how he turned its names and words into English. The language of Rohan appears as an older kind of English, and Dwarf names are drawn from the northern tongues.\n\nThe note also explains why some names in the book differ from the Westron originals.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Return of the King",
+   "Part": "Appendix F",
+   "Subject": "Languages and peoples; translation"
+  },
+  "places": [],
+  "related": [
+   "people:hobbits",
+   "people:durins-folk",
+   "people:rohirrim",
+   "thing:red-book",
+   "person:gandalf"
+  ],
+  "sources": [
+   "The Return of the King, Appendix F"
+  ],
+  "confidence": "medium"
+ }
+]

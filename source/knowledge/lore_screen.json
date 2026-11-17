@@ -1,0 +1,1024 @@
+[
+ {
+  "id": "lore:screen-jackson-lotr",
+  "title": "Peter Jackson's The Lord of the Rings (film trilogy)",
+  "group": "Films and series",
+  "kind": "Film trilogy, 2001 to 2003",
+  "aka": [],
+  "blurb": "Overview of Peter Jackson's three live-action films of The Lord of the Rings, made in New Zealand and released from 2001 to 2003.",
+  "book": "Tolkien wrote The Lord of the Rings as one long story. The publisher issued it in three volumes in 1954 and 1955.",
+  "film": "Peter Jackson directed three films: The Fellowship of the Ring (2001), The Two Towers (2002) and The Return of the King (2003). New Line Cinema released them.\n\nJackson wrote the screenplays with Fran Walsh and Philippa Boyens. The crew filmed all three films together in New Zealand, mainly in 1999 and 2000. Howard Shore composed the music. The studio Weta Workshop built many props, weapons and creatures.\n\nThe films follow the main plot of the book: the Fellowship, the war in Rohan and Gondor, and the destruction of the Ring. They change the order of some events, cut some episodes and invent some scenes. Gollum was created by motion capture from the actor Andy Serkis.\n\nThe trilogy was very successful, and the third film won eleven Academy Awards. Later entries in this group cover each film, the extended editions and the main changes from the book.",
+  "series": "",
+  "facts": {
+   "Director": "Peter Jackson",
+   "Films": "2001, 2002 and 2003",
+   "Filming location": "New Zealand",
+   "Composer": "Howard Shore"
+  },
+  "places": [],
+  "related": [
+   "person:gandalf",
+   "person:frodo-baggins",
+   "person:aragorn",
+   "thing:one-ring"
+  ],
+  "sources": [
+   "The Lord of the Rings (the book), for comparison"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:screen-fellowship-film",
+  "title": "The Fellowship of the Ring (2001 film)",
+  "group": "Films and series",
+  "kind": "Film, released December 2001",
+  "aka": [],
+  "blurb": "The first film of Jackson's trilogy, covering the book's Book I and Book II up to the breaking of the Fellowship.",
+  "book": "The book, Volume One, runs from Bilbo's party in Hobbiton to the parting of Frodo and Sam from the others. Boromir tries to take the Ring at its end, but his death opens the next volume.",
+  "film": "The Fellowship of the Ring came out in December 2001. It opens with a prologue that tells of the Rings and of the Last Alliance, spoken by Galadriel.\n\nThe story then moves from Bag End and the road to Bree, through Rivendell and the Council of Elrond, over the mountains, and into Moria. Gandalf falls fighting the Balrog on the Bridge of Khazad-dûm. The Fellowship rests in Lothlórien and travels down the Anduin. Boromir tries to take the Ring and dies defending Merry and Pippin. Frodo and Sam leave alone.\n\nThe film shortens the book's long delay before Frodo leaves the Shire. It also drops the Old Forest, the Barrow-downs and Tom Bombadil. Arwen takes the place of Glorfindel at the Ford. The final scenes at Amon Hen differ from the book in several details. The film also shows Boromir's death, which the book tells at the start of The Two Towers.\n\nElijah Wood plays Frodo, Ian McKellen plays Gandalf and Viggo Mortensen plays Aragorn.",
+  "series": "",
+  "facts": {
+   "Released": "December 2001",
+   "Director": "Peter Jackson",
+   "Book covered": "The Fellowship of the Ring"
+  },
+  "places": [
+   {
+    "id": "TO050",
+    "role": "other",
+    "note": "The film begins in and around Hobbiton and Bag End."
+   },
+   {
+    "id": "TO084",
+    "role": "other",
+    "note": "Rivendell is the setting of the Council of Elrond."
+   },
+   {
+    "id": "TO066",
+    "role": "travelled",
+    "note": "The Fellowship crosses Moria, where Gandalf falls."
+   },
+   {
+    "id": "HI004",
+    "role": "other",
+    "note": "In the film, Boromir dies near Amon Hen and the Fellowship breaks."
+   }
+  ],
+  "related": [
+   "person:frodo-baggins",
+   "person:gandalf",
+   "person:aragorn",
+   "person:boromir",
+   "thing:one-ring"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Books I and II"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:screen-two-towers-film",
+  "title": "The Two Towers (2002 film)",
+  "group": "Films and series",
+  "kind": "Film, released December 2002",
+  "aka": [],
+  "blurb": "The second film of Jackson's trilogy, which weaves Frodo's journey with the war in Rohan and the fall of Isengard.",
+  "book": "The book's Volume Two has two parts. Book III follows the Fellowship's other members, and Book IV follows Frodo and Sam.",
+  "film": "The Two Towers came out in December 2002. It tells three stories side by side.\n\nFrodo and Sam travel to Mordor with Gollum as their guide. They meet Faramir in Ithilien. Aragorn, Legolas and Gimli find Gandalf returned as the White Rider and ride to Rohan. They help Théoden at Helm's Deep, which is the centre of the film. Merry and Pippin escape the Orcs, meet Treebeard in Fangorn and persuade the Ents to attack Isengard.\n\nThe film makes several large changes. It sends Elves to Helm's Deep. It brings Faramir into a conflict over the Ring. It also leaves Shelob for the next film, although in the book she appears at the end of this volume.\n\nGollum, played by Andy Serkis, was a major technical achievement of the film. Bernard Hill plays Théoden and Miranda Otto plays Éowyn.",
+  "series": "",
+  "facts": {
+   "Released": "December 2002",
+   "Director": "Peter Jackson",
+   "Book covered": "The Two Towers"
+  },
+  "places": [
+   {
+    "id": "FT014",
+    "role": "fought",
+    "note": "The defence of Helm's Deep is the central battle of the film."
+   },
+   {
+    "id": "FT017",
+    "role": "other",
+    "note": "The Ents attack Isengard and Saruman is trapped in Orthanc."
+   },
+   {
+    "id": "FO012",
+    "role": "other",
+    "note": "Merry and Pippin meet Treebeard in Fangorn."
+   }
+  ],
+  "related": [
+   "person:theoden",
+   "person:eowyn",
+   "person:treebeard",
+   "person:gollum",
+   "person:faramir",
+   "person:saruman"
+  ],
+  "sources": [
+   "The Two Towers, Books III and IV"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:screen-return-of-the-king-film",
+  "title": "The Return of the King (2003 film)",
+  "group": "Films and series",
+  "kind": "Film, released December 2003",
+  "aka": [],
+  "blurb": "The third film of Jackson's trilogy, and the winner of eleven Academy Awards, including Best Picture.",
+  "book": "The book's Volume Three covers the war at Minas Tirith, the Black Gate, the destruction of the Ring, and the return to the Shire.",
+  "film": "The Return of the King came out in December 2003. It tells of the siege of Minas Tirith, the ride of the Rohirrim and the Battle of the Pelennor Fields. Aragorn leads an army to the Black Gate. Frodo and Sam climb to Mount Doom, where Gollum takes the Ring and falls with it. Aragorn is crowned, and Frodo, Bilbo and Gandalf sail from the Grey Havens.\n\nThe film leaves out the Scouring of the Shire. The theatrical version also left out Saruman's end, which the extended edition restores.\n\nAt the 2004 ceremony, the film won all eleven Academy Awards for which it was nominated. These were Best Picture, Best Director, Best Adapted Screenplay, Art Direction, Costume Design, Film Editing, Makeup, Original Score, Original Song, Sound Mixing and Visual Effects. The song was Into the West. The total equalled the record held by Ben-Hur and Titanic.",
+  "series": "",
+  "facts": {
+   "Released": "December 2003",
+   "Academy Awards": "11 wins from 11 nominations (2004)",
+   "Book covered": "The Return of the King"
+  },
+  "places": [
+   {
+    "id": "TO065",
+    "role": "fought",
+    "note": "Minas Tirith is besieged in the film's main battle."
+   },
+   {
+    "id": "FI024",
+    "role": "fought",
+    "note": "The Pelennor Fields are the site of the great battle."
+   },
+   {
+    "id": "MT036",
+    "role": "destroyed",
+    "note": "The Ring is destroyed in Mount Doom."
+   },
+   {
+    "id": "TO043",
+    "role": "other",
+    "note": "Frodo, Bilbo and Gandalf sail from the Grey Havens."
+   }
+  ],
+  "related": [
+   "person:aragorn",
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:gollum",
+   "person:denethor-ii",
+   "thing:one-ring"
+  ],
+  "sources": [
+   "The Return of the King, Books V and VI"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:screen-extended-editions",
+  "title": "The extended editions of the films",
+  "group": "Films and series",
+  "kind": "Home-video versions with added scenes",
+  "aka": [],
+  "blurb": "The extended editions are longer cuts of the films that restore and add scenes, issued on home video after each cinema release.",
+  "book": "",
+  "film": "Jackson released extended editions of all three Lord of the Rings films on home video. They add scenes and some new material that the cinema versions did not contain. The Hobbit films were later also released in extended form.\n\nIn The Fellowship of the Ring, the added scenes include more of the Shire and the gift-giving in Lothlórien, where Galadriel gives presents to members of the Fellowship. In The Two Towers, the extended cut adds scenes with Faramir and more of his history with Boromir. It also adds more of the Rohan story.\n\nThe Return of the King extended edition adds the death of Saruman at Orthanc, which many readers had hoped to see. It also adds the Mouth of Sauron at the Black Gate and scenes in the Houses of Healing.\n\nFor many fans, the extended versions are closer to the book, because they restore some episodes that the cinema cuts removed. They are also much longer.",
+  "series": "",
+  "facts": {
+   "Format": "Home video",
+   "Covers": "All three Lord of the Rings films"
+  },
+  "places": [],
+  "related": [
+   "person:saruman",
+   "person:galadriel",
+   "person:faramir",
+   "person:mouth-of-sauron"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendices (for comparison)"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:screen-lotr-film-cast",
+  "title": "Main cast of The Lord of the Rings films",
+  "group": "Films and series",
+  "kind": "List of roles and actors",
+  "aka": [],
+  "blurb": "A list of the main roles in Jackson's Lord of the Rings films and the actors who played them.",
+  "book": "",
+  "film": "Roles and actors in the three films of 2001, 2002 and 2003.\nFrodo Baggins: Elijah Wood\nSamwise Gamgee: Sean Astin\nMerry Brandybuck: Dominic Monaghan\nPippin Took: Billy Boyd\nBilbo Baggins: Ian Holm\nGandalf: Ian McKellen\nAragorn: Viggo Mortensen\nLegolas: Orlando Bloom\nGimli: John Rhys-Davies (also the voice of Treebeard)\nBoromir: Sean Bean\nGollum: Andy Serkis\nElrond: Hugo Weaving\nArwen: Liv Tyler\nGaladriel: Cate Blanchett\nCeleborn: Marton Csokas\nHaldir: Craig Parker\nSaruman: Christopher Lee\nGríma Wormtongue: Brad Dourif\nThéoden: Bernard Hill\nÉowyn: Miranda Otto\nÉomer: Karl Urban\nFaramir: David Wenham\nDenethor: John Noble\nSauron (physical performance): Sala Baker",
+  "series": "",
+  "facts": {
+   "Films": "2001, 2002 and 2003",
+   "Director": "Peter Jackson"
+  },
+  "places": [],
+  "related": [
+   "person:frodo-baggins",
+   "person:gandalf",
+   "person:aragorn",
+   "person:legolas",
+   "person:gimli",
+   "person:gollum",
+   "person:galadriel"
+  ],
+  "sources": [
+   "The Lord of the Rings (the book), for comparison"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:screen-hobbit-trilogy",
+  "title": "Peter Jackson's The Hobbit (film trilogy)",
+  "group": "Films and series",
+  "kind": "Film trilogy, 2012 to 2014",
+  "aka": [],
+  "blurb": "Overview of the three Hobbit films that Peter Jackson made as a prequel to his Lord of the Rings trilogy.",
+  "book": "The Hobbit is a single short book, written for children, about Bilbo's journey with the Dwarves to Erebor. Tolkien published it in 1937.",
+  "film": "Peter Jackson directed three films from the one book: An Unexpected Journey (2012), The Desolation of Smaug (2013) and The Battle of the Five Armies (2014). New Line Cinema and Metro-Goldwyn-Mayer produced them, and Warner Bros. released them. They were again filmed in New Zealand.\n\nThe plan first called for two films, with Guillermo del Toro as director. Del Toro left the project, and Jackson took over. The work was later widened to three films.\n\nThe screenplay was written by Jackson, Fran Walsh, Philippa Boyens and Guillermo del Toro. To fill three films, it adds material from The Lord of the Rings and its Appendices and also invents new scenes and characters. Examples are the White Council at Dol Guldur, Radagast, Tauriel and a larger role for Azog.\n\nMartin Freeman plays Bilbo. Several actors from the earlier trilogy return, including Ian McKellen, Cate Blanchett, Hugo Weaving, Christopher Lee, Andy Serkis and Orlando Bloom.",
+  "series": "",
+  "facts": {
+   "Films": "2012, 2013 and 2014",
+   "Director": "Peter Jackson",
+   "Book": "The Hobbit (1937)"
+  },
+  "places": [],
+  "related": [
+   "person:bilbo-baggins",
+   "person:thorin-oakenshield",
+   "person:gandalf",
+   "person:smaug"
+  ],
+  "sources": [
+   "The Hobbit"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:screen-unexpected-journey",
+  "title": "An Unexpected Journey (2012 film)",
+  "group": "Films and series",
+  "kind": "Film, released December 2012",
+  "aka": [],
+  "blurb": "The first Hobbit film, which follows Bilbo from Bag End through the Misty Mountains and ends with the Eagles.",
+  "book": "In the book, the matching chapters are An Unexpected Party to Out of the Frying-Pan into the Fire. Gandalf sends Bilbo with thirteen Dwarves.",
+  "film": "An Unexpected Journey came out in December 2012. It begins with an old Bilbo, played by Ian Holm, who writes down his tale for Frodo. A prologue tells of the fall of Erebor to Smaug.\n\nThe young Bilbo, played by Martin Freeman, joins Thorin Oakenshield's company. They meet three trolls, visit Rivendell and cross the Misty Mountains, where they are caught by Goblins. Bilbo finds the Ring in Gollum's cave, and the riddle contest follows. The Eagles rescue the company, and Erebor appears in the distance.\n\nThe film adds a good deal that the book does not contain. Azog the Orc hunts Thorin. Radagast the Brown appears. The White Council meets in Rivendell to discuss the Necromancer. Thorin's grudge against Thranduil and his history at Moria are told in flashback.",
+  "series": "",
+  "facts": {
+   "Released": "December 2012",
+   "Director": "Peter Jackson",
+   "Book covered": "The Hobbit, chapters 1 to 6"
+  },
+  "places": [
+   {
+    "id": "TO084",
+    "role": "other",
+    "note": "Rivendell is the company's stop before the mountains."
+   },
+   {
+    "id": "NP037",
+    "role": "other",
+    "note": "Bilbo meets Gollum and finds the Ring."
+   },
+   {
+    "id": "MT029",
+    "role": "other",
+    "note": "The Lonely Mountain is the company's goal."
+   }
+  ],
+  "related": [
+   "person:bilbo-baggins",
+   "person:thorin-oakenshield",
+   "person:gandalf",
+   "person:gollum",
+   "person:azog",
+   "person:radagast"
+  ],
+  "sources": [
+   "The Hobbit, chapters 1 to 6"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:screen-desolation-of-smaug",
+  "title": "The Desolation of Smaug (2013 film)",
+  "group": "Films and series",
+  "kind": "Film, released December 2013",
+  "aka": [],
+  "blurb": "The second Hobbit film, which takes the company through Mirkwood and Lake-town to Smaug in Erebor.",
+  "book": "In the book, the matching chapters run from Queer Lodgings to Inside Information. They cover Beorn, Mirkwood, the Wood-elves, Lake-town and the dragon.",
+  "film": "The Desolation of Smaug came out in December 2013. The company stays with Beorn and enters Mirkwood, where the spiders attack them. Wood-elves capture the Dwarves, and Bilbo frees them in barrels. They reach Lake-town, where Bard helps them.\n\nBilbo enters Erebor and meets Smaug, whom Benedict Cumberbatch voices and plays by motion capture. The film ends as the dragon flies out to attack the town.\n\nThe film adds a long chase by Orcs, the elf Tauriel and her bond with the Dwarf Kíli, and a role for Legolas. Gandalf leaves the company to investigate Dol Guldur, where he meets the Necromancer. The film also adds a scene in which the Dwarves fight Smaug in the halls of Erebor.",
+  "series": "",
+  "facts": {
+   "Released": "December 2013",
+   "Director": "Peter Jackson",
+   "Book covered": "The Hobbit, chapters 7 to 12"
+  },
+  "places": [
+   {
+    "id": "FO018",
+    "role": "travelled",
+    "note": "The company passes through Mirkwood."
+   },
+   {
+    "id": "TO053",
+    "role": "other",
+    "note": "Lake-town is the Dwarves' last stop before Erebor."
+   },
+   {
+    "id": "MT029",
+    "role": "other",
+    "note": "Smaug lives in Erebor under the Lonely Mountain."
+   }
+  ],
+  "related": [
+   "person:smaug",
+   "person:bilbo-baggins",
+   "person:thorin-oakenshield",
+   "person:bard",
+   "person:beorn",
+   "person:thranduil"
+  ],
+  "sources": [
+   "The Hobbit, chapters 7 to 12"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:screen-battle-five-armies-film",
+  "title": "The Battle of the Five Armies (2014 film)",
+  "group": "Films and series",
+  "kind": "Film, released December 2014",
+  "aka": [],
+  "blurb": "The third Hobbit film, which shows the death of Smaug, the battle at Erebor and the death of Thorin.",
+  "book": "In the book, the matching chapters run from Not at Home to The Last Stage. Bard kills Smaug in Fire and Water, and the Battle of Five Armies follows.",
+  "film": "The Battle of the Five Armies came out in December 2014. It begins with Smaug attacking Lake-town. Bard kills the dragon with the Black Arrow.\n\nThorin falls under a sickness of mind in the treasure hall. Dwarves, Elves and Men gather at the gates of Erebor. Orcs arrive, led by Azog and Bolg, and the five armies fight. Thorin, Fíli and Kíli die. Bilbo returns to the Shire.\n\nThe film adds the White Council's fight with Sauron at Dol Guldur, in which Galadriel plays a leading part. It also adds Tauriel and Kíli's romance and Alfrid, the Master's helper, as a comic villain. In the film, Azog the Orc is the chief enemy, although in the book he was already dead.",
+  "series": "",
+  "facts": {
+   "Released": "December 2014",
+   "Director": "Peter Jackson",
+   "Book covered": "The Hobbit, chapters 13 to 19"
+  },
+  "places": [
+   {
+    "id": "TO053",
+    "role": "other",
+    "note": "Smaug attacks Lake-town."
+   },
+   {
+    "id": "MT029",
+    "role": "fought",
+    "note": "The armies meet below the Lonely Mountain."
+   },
+   {
+    "id": "FT008",
+    "role": "fought",
+    "note": "The White Council fights at Dol Guldur."
+   }
+  ],
+  "related": [
+   "person:smaug",
+   "person:bard",
+   "person:thorin-oakenshield",
+   "person:azog",
+   "person:bolg",
+   "thing:black-arrow",
+   "battle:five-armies"
+  ],
+  "sources": [
+   "The Hobbit, chapters 13 to 19"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:screen-hobbit-film-cast",
+  "title": "Main cast of The Hobbit films",
+  "group": "Films and series",
+  "kind": "List of roles and actors",
+  "aka": [],
+  "blurb": "A list of the main roles in Jackson's Hobbit films and the actors who played them.",
+  "book": "",
+  "film": "Roles and actors in the three Hobbit films of 2012, 2013 and 2014.\nBilbo Baggins: Martin Freeman\nOld Bilbo: Ian Holm\nGandalf: Ian McKellen\nThorin Oakenshield: Richard Armitage\nBalin: Ken Stott\nDwalin: Graham McTavish\nÓin: John Callen\nGlóin: Peter Hambleton\nDori: Mark Hadlow\nNori: Jed Brophy\nOri: Adam Brown\nBifur: William Kircher\nBombur: Stephen Hunter\nFíli: Dean O'Gorman\nKíli: Aidan Turner\nBofur: James Nesbitt\nSmaug and the Necromancer: Benedict Cumberbatch\nBard: Luke Evans\nThranduil: Lee Pace\nLegolas: Orlando Bloom\nTauriel: Evangeline Lilly\nAzog: Manu Bennett\nRadagast: Sylvester McCoy\nGollum: Andy Serkis\nGaladriel: Cate Blanchett\nElrond: Hugo Weaving\nSaruman: Christopher Lee\nBeorn: Mikael Persbrandt\nMaster of Lake-town: Stephen Fry\nDáin Ironfoot: Billy Connolly\nAlfrid: Ryan Gage\nThe Great Goblin: Barry Humphries",
+  "series": "",
+  "facts": {
+   "Films": "2012, 2013 and 2014",
+   "Director": "Peter Jackson"
+  },
+  "places": [],
+  "related": [
+   "person:bilbo-baggins",
+   "person:thorin-oakenshield",
+   "person:smaug",
+   "person:bard",
+   "person:thranduil",
+   "person:legolas"
+  ],
+  "sources": [
+   "The Hobbit (the book), for comparison"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:screen-bombadil-cut",
+  "title": "Tom Bombadil and the Barrow-downs left out of the films",
+  "group": "Films and series",
+  "kind": "Film change from the book",
+  "aka": [],
+  "blurb": "Jackson's films skip the Old Forest, Tom Bombadil and the Barrow-downs. This entry says what the book contains and why the change matters.",
+  "book": "In the book, the hobbits enter the Old Forest and Old Man Willow traps them. Tom Bombadil rescues them and shelters them in his house.\n\nOn the Barrow-downs, a barrow-wight captures the hobbits. Tom frees them. He gives each hobbit a blade taken from the barrow, and these later matter for Merry and Pippin. Tom also stays unaffected when he handles the Ring.",
+  "film": "The films leave out Tom Bombadil, the Old Forest and the Barrow-downs altogether. After the Buckleberry Ferry, the hobbits go straight on to Bree, followed by the Black Riders.\n\nThe filmmakers said that these chapters slow the story and do not move the main plot forward. Tom is also hard to explain to those who have not read the book.\n\nTwo effects follow. The hobbits do not receive the Barrow-blades. In the film, Aragorn gives them swords at Weathertop. In the book, the blade from the barrow lets Merry wound the Witch-king, so that Éowyn can slay him. The Bombadil episode remains a well-known omission among book readers.",
+  "series": "",
+  "facts": {
+   "Omitted episodes": "Old Forest, Tom Bombadil, Barrow-downs"
+  },
+  "places": [
+   {
+    "id": "FO023",
+    "role": "other",
+    "note": "Old Man Willow traps the hobbits in the Old Forest."
+   },
+   {
+    "id": "HI011",
+    "role": "other",
+    "note": "A barrow-wight takes the hobbits on the Barrow-downs."
+   },
+   {
+    "id": "NP041",
+    "role": "other",
+    "note": "Tom Bombadil's house shelters the hobbits."
+   }
+  ],
+  "related": [
+   "person:tom-bombadil",
+   "thing:barrow-blades",
+   "person:witch-king",
+   "person:meriadoc-brandybuck"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book I, chapters 6 to 8"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:screen-arwen-glorfindel",
+  "title": "Arwen's larger part and Glorfindel left out",
+  "group": "Films and series",
+  "kind": "Film change from the book",
+  "aka": [],
+  "blurb": "In the films Arwen takes over scenes that belong to Glorfindel in the book, and she has a much larger role in the story.",
+  "book": "In the book, Glorfindel finds the hobbits on the road and lends Frodo his horse. He leads them to the Ford of Bruinen and helps to hold it, as Elrond causes the river to rise.\n\nArwen appears only briefly in the main story. Frodo first sees her at the feast in Rivendell, and she weds Aragorn at the end. Her story is told in Appendix A. She and Aragorn became betrothed on Cerin Amroth in T.A. 2980. Elrond would give his consent only if Aragorn became king of Gondor and Arnor.",
+  "film": "The films remove Glorfindel and give his part at the Ford to Arwen. She carries the wounded Frodo and defies the Black Riders. Arwen calls up the flood that sweeps the Riders away.\n\nShe also appears in the later films. She has visions of a son and is shown giving up her place on the ships. Later, Elrond tells Aragorn that her life is now bound to the fate of the Ring.\n\nThe filmmakers wished the love story to be shown on screen and to give a female character a larger place. Liv Tyler plays Arwen.",
+  "series": "",
+  "facts": {
+   "Betrothal in the book": "Cerin Amroth, T.A. 2980"
+  },
+  "places": [
+   {
+    "id": "TO084",
+    "role": "other",
+    "note": "Arwen lives in Rivendell with her father Elrond."
+   },
+   {
+    "id": "HI014",
+    "role": "other",
+    "note": "Aragorn and Arwen plight their troth on Cerin Amroth in the book."
+   }
+  ],
+  "related": [
+   "person:arwen",
+   "person:glorfindel",
+   "person:elrond",
+   "person:aragorn",
+   "person:frodo-baggins"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II, chapter 1",
+   "The Lord of the Rings, Appendix A (The Tale of Aragorn and Arwen)"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:screen-aragorn-doubt",
+  "title": "Aragorn's doubt and the reforging of the sword",
+  "group": "Films and series",
+  "kind": "Film change from the book",
+  "aka": [],
+  "blurb": "In the films Aragorn doubts that he can be a king, and the sword Andúril is reforged late. In the book he is sure and the sword is reforged early.",
+  "book": "In the book, Aragorn knows who he is. He has lived as a Ranger and has long worked to prepare for his task. At Rivendell, the shards of Narsil are reforged as Andúril before the Fellowship leaves.\n\nHe does not doubt his right as heir of Isildur, though he has moments of grief and doubt about his choices. At the Hornburg he shows himself to Sauron in the palantír. He then chooses the Paths of the Dead as part of his claim.",
+  "film": "In the films, Aragorn is reluctant to claim his heritage. He fears that he will fail as Isildur did. The shards of Narsil stay unreforged until the third film.\n\nIn The Return of the King, Elrond brings the reforged sword, now called Andúril, to Dunharrow. He tells Aragorn to put aside his fear. Aragorn then takes the Paths of the Dead. Only after the Battle of the Pelennor Fields does he show himself to Sauron through the palantír.\n\nThe filmmakers made this change to give Aragorn a clearer arc of growth. In the book, the sword is not a late gift to a doubting man. It is part of a plan that Aragorn has known for years.\n\nViggo Mortensen plays Aragorn.",
+  "series": "",
+  "facts": {
+   "Sword": "Narsil, reforged as Andúril"
+  },
+  "places": [
+   {
+    "id": "TO084",
+    "role": "made",
+    "note": "The shards of Narsil are reforged in Rivendell in the book."
+   },
+   {
+    "id": "FT009",
+    "role": "other",
+    "note": "In the film Elrond brings the sword to Dunharrow."
+   }
+  ],
+  "related": [
+   "person:aragorn",
+   "thing:anduril",
+   "person:isildur",
+   "person:elrond"
+  ],
+  "sources": [
+   "The Fellowship of the Ring, Book II, chapter 3"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:screen-elves-helms-deep",
+  "title": "The Elves at Helm's Deep",
+  "group": "Films and series",
+  "kind": "Film change from the book",
+  "aka": [],
+  "blurb": "In The Two Towers film, a company of Elves from Lothlórien comes to Helm's Deep. In the book, no Elves fight there.",
+  "book": "In the book, the defenders at Helm's Deep are the Rohirrim and refugees. Théoden, Aragorn, Legolas and Gimli are among them. Erkenbrand's men arrive with Gandalf at dawn.\n\nThe Huorns of Fangorn appear at the end and destroy the Orcs. The Elves of Lothlórien take no part in the fight.",
+  "film": "In the film, Haldir leads a force of Elves from Lothlórien to help Théoden. They arrive at the Deeping Wall and fight beside the Men. Haldir dies in the battle.\n\nThe filmmakers added the Elves to show an old alliance between Elves and Men and to recall the Last Alliance. The scene also gives Legolas a link to a group of his own people and raises the cost of the battle.\n\nSome readers see a conflict with the film's earlier claim that the Elves are leaving Middle-earth. Others praise the visual power of the arrival.\n\nIn the film, Gandalf returns with Éomer's riders at dawn, not with Erkenbrand. The Huorns get only a brief moment, and the film gives more weight to the Ents' attack on Isengard. In the book, Haldir is a guard of Lothlórien who meets the Fellowship, and the book does not describe his fate.",
+  "series": "",
+  "facts": {
+   "Film actor of Haldir": "Craig Parker"
+  },
+  "places": [
+   {
+    "id": "FT014",
+    "role": "fought",
+    "note": "Helm's Deep is the site of the battle."
+   },
+   {
+    "id": "FO017",
+    "role": "other",
+    "note": "The Elves come from Lothlórien in the film."
+   }
+  ],
+  "related": [
+   "person:haldir",
+   "person:legolas",
+   "person:theoden",
+   "person:aragorn",
+   "person:galadriel"
+  ],
+  "sources": [
+   "The Two Towers, Book III, chapter 7 (Helm's Deep)"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:screen-faramir-ring",
+  "title": "Faramir and the Ring on screen",
+  "group": "Films and series",
+  "kind": "Film change from the book",
+  "aka": [],
+  "blurb": "In the film Faramir takes the hobbits captive and wants to bring the Ring to Gondor. In the book he refuses to take it.",
+  "book": "In the book, Faramir meets Frodo and Sam in Ithilien. He questions them but does not wish to take the Ring. He shelters them at Henneth Annûn, then lets them go on their way with supplies. His restraint shows that he is of different mind from his brother Boromir.\n\nFaramir's character is noble and wise. His father Denethor does not value him as much as he values Boromir.",
+  "film": "The film makes Faramir take the hobbits captive and bring them to Osgiliath. He wants to carry the Ring to Gondor to please his father. The change adds tension but alters his character.\n\nA Nazgûl on a winged beast attacks Osgiliath, and Frodo nearly yields the Ring. After Sam's speech about the old stories, Faramir lets the hobbits go. The film also shows Faramir's longing for his father's praise.\n\nThe filmmakers said they wanted to show that the Ring's pull was strong on even good men. Many readers feel that this lessens Faramir. The book makes clear that he is not tempted.\n\nDavid Wenham plays Faramir. Some of the added scenes are in the extended edition, which shows his history with Boromir.",
+  "series": "",
+  "facts": {
+   "Film actor": "David Wenham"
+  },
+  "places": [
+   {
+    "id": "CA008",
+    "role": "other",
+    "note": "In the book, Faramir shelters Frodo and Sam at Henneth Annûn."
+   },
+   {
+    "id": "TO078",
+    "role": "other",
+    "note": "In the film, Faramir takes the hobbits to Osgiliath."
+   }
+  ],
+  "related": [
+   "person:faramir",
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:boromir",
+   "person:denethor-ii",
+   "thing:one-ring"
+  ],
+  "sources": [
+   "The Two Towers, Book IV, chapters 4 to 6"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:screen-army-of-the-dead-film",
+  "title": "The Army of the Dead at the Pelennor",
+  "group": "Films and series",
+  "kind": "Film change from the book",
+  "aka": [],
+  "blurb": "In the film the Dead fight at the Pelennor Fields. In the book they are used at Pelargir and do not fight at the Pelennor.",
+  "book": "In the book, Aragorn takes the Paths of the Dead with the Dúnedain and Legolas and Gimli. At the Stone of Erech the Dead swear to keep their oath.\n\nThe Dead drive away the Corsairs of Umbar at Pelargir. Aragorn then releases them. He sails up the river in the captured ships. He arrives at the Pelennor Fields while the main battle is under way, and the black ships carry men of southern Gondor.",
+  "film": "In the film, Aragorn goes to the Paths of the Dead and the Dead king refuses to swear at first. Later, Aragorn sails up the river in the captured ships with the Dead behind him.\n\nThe Dead sweep the Orcs from the Pelennor Fields. This makes Aragorn's arrival the turning point of the battle. Aragorn then releases the Dead, who are at last at peace.\n\nThe change creates a very clear moment on screen. Some readers feel the Dead win the battle too easily.",
+  "series": "",
+  "facts": {
+   "Book route": "Erech, Pelargir, then the Pelennor Fields"
+  },
+  "places": [
+   {
+    "id": "VA040",
+    "role": "travelled",
+    "note": "Aragorn goes through the Paths of the Dead."
+   },
+   {
+    "id": "HI023",
+    "role": "other",
+    "note": "The Dead swear an oath at the Stone of Erech in the book."
+   },
+   {
+    "id": "TO081",
+    "role": "fought",
+    "note": "In the book, the Dead drive the Corsairs from Pelargir."
+   },
+   {
+    "id": "FI024",
+    "role": "fought",
+    "note": "The film shows the Dead fighting here."
+   }
+  ],
+  "related": [
+   "person:aragorn",
+   "person:halbarad",
+   "person:legolas",
+   "person:gimli",
+   "battle:pelennor",
+   "battle:pelargir"
+  ],
+  "sources": [
+   "The Return of the King, Book V, chapters 2, 6 and 9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:screen-scouring-saruman-film",
+  "title": "The Scouring of the Shire left out and Saruman's end",
+  "group": "Films and series",
+  "kind": "Film change from the book",
+  "aka": [],
+  "blurb": "The films omit the Scouring of the Shire. Saruman instead dies at Orthanc in the extended edition, while in the book he dies in the Shire.",
+  "book": "In the book, the hobbits return home and find the Shire under the rule of Saruman, whom his men call Sharkey, and his men. Lotho Sackville-Baggins is also involved.\n\nMerry and Pippin lead a rising, and the battle of Bywater drives out the ruffians. Saruman is killed by Wormtongue, whom the hobbit archers then shoot. Sam later uses Galadriel's gift to restore the Shire.",
+  "film": "The films leave out the Scouring of the Shire. After the war, the hobbits return to a quiet Shire. They have changed, but nothing worse waits at home. The filmmakers said that another battle after the destruction of the Ring would weaken the ending.\n\nSaruman's end is handled in a separate scene. In the theatrical Return of the King he does not appear. In the extended edition, Gandalf and the others visit Orthanc. Wormtongue stabs Saruman, and Legolas shoots Wormtongue. Saruman falls from the tower onto a wheel in the water below.\n\nThe palantír falls into the water, and Pippin picks it up.\n\nChristopher Lee played Saruman.",
+  "series": "",
+  "facts": {
+   "Book events": "Battle of Bywater, 3 November T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "FT017",
+    "role": "died",
+    "note": "Saruman dies at Orthanc in the extended edition."
+   },
+   {
+    "id": "TO016",
+    "role": "fought",
+    "note": "In the book, the hobbits defeat the ruffians at the Battle of Bywater."
+   }
+  ],
+  "related": [
+   "person:saruman",
+   "person:grima",
+   "person:meriadoc-brandybuck",
+   "person:peregrin-took",
+   "person:samwise-gamgee",
+   "battle:bywater"
+  ],
+  "sources": [
+   "The Return of the King, Book VI, chapters 7 and 8"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:screen-denethor-film",
+  "title": "Denethor on screen",
+  "group": "Films and series",
+  "kind": "Film change from the book",
+  "aka": [],
+  "blurb": "The films show Denethor as a bitter and weak steward. The book shows a proud and clever ruler who is broken by despair.",
+  "book": "In the book, Denethor is a strong and learned ruler. He looks into a palantír and sees Sauron's lies. He is grieved by Boromir's death and does not value Faramir as he should.\n\nHe sends the Red Arrow to Rohan to ask for aid. He sinks into despair when Faramir is wounded. He tries to burn himself with his son on a pyre and dies in the burning. Pippin, Beregond and Gandalf save Faramir.",
+  "film": "In the film, Denethor, played by John Noble, appears weaker and more selfish. He is shown eating while Faramir rides to a hopeless attack. He sends Faramir to retake Osgiliath, and the film makes his lack of love plain.\n\nHe refuses to ask for help. Pippin lights the beacon of Amon Dîn at Gandalf's urging.\n\nAt the end he sets himself on fire and runs from the tower. The film shows him falling from the edge of the city while he burns.\n\nThe book is more subtle about his motives and shows the pull of the palantír. The film makes him a clearer obstacle for Gandalf and the heroes.",
+  "series": "",
+  "facts": {
+   "Film actor": "John Noble"
+  },
+  "places": [
+   {
+    "id": "TO065",
+    "role": "died",
+    "note": "Denethor rules and dies in Minas Tirith."
+   }
+  ],
+  "related": [
+   "person:denethor-ii",
+   "person:faramir",
+   "person:boromir",
+   "person:gandalf",
+   "person:peregrin-took",
+   "thing:palantir-of-orthanc",
+   "person:beregond"
+  ],
+  "sources": [
+   "The Return of the King, Book V, chapters 1, 3, 4 and 7"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:screen-hobbit-additions",
+  "title": "What the Hobbit films add to the book",
+  "group": "Films and series",
+  "kind": "Film changes from the book",
+  "aka": [],
+  "blurb": "The Hobbit films add Tauriel, a living Azog, Legolas, the White Council and Dol Guldur, and Radagast to the story of the book.",
+  "book": "The book is a simple adventure. Azog died long before, killed by Dáin in the battle at Moria. Bolg, his son, leads the Goblins at the Battle of Five Armies.\n\nLegolas and Tauriel do not appear. Radagast is named only once, when Gandalf calls him his cousin while speaking to Beorn. Gandalf leaves the company at the edge of Mirkwood on business of his own. At the end, the book says only that he went to a council that drove the Necromancer from Mirkwood.",
+  "film": "Tauriel is an Elf of Mirkwood invented for the films, with a romance with Kíli. Legolas, Thranduil's son in the Lord of the Rings, is added to the story in Mirkwood and at the Battle.\n\nAzog is alive and hunts Thorin. This gives the Dwarves a clear enemy throughout the trilogy. Radagast the Brown appears in the first film and finds the sign of the Necromancer.\n\nThe films show the White Council meeting at Rivendell and Gandalf's visit to Dol Guldur. The council later fights the Necromancer, who is revealed as Sauron. These scenes use material from the Appendices.\n\nThe films also add Alfrid, a helper of the Master, and an Orc attack during the barrel escape.",
+  "series": "",
+  "facts": {
+   "Added characters": "Tauriel, Alfrid; living Azog; Radagast; Legolas"
+  },
+  "places": [
+   {
+    "id": "FT008",
+    "role": "fought",
+    "note": "The White Council attacks Dol Guldur in the film."
+   },
+   {
+    "id": "FO018",
+    "role": "other",
+    "note": "Tauriel and Legolas live in Mirkwood in the films."
+   }
+  ],
+  "related": [
+   "person:azog",
+   "person:legolas",
+   "person:radagast",
+   "person:gandalf",
+   "person:thranduil",
+   "person:bolg"
+  ],
+  "sources": [
+   "The Hobbit, chapters 7, 17 and 19",
+   "The Lord of the Rings, Appendix A and Appendix B"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:screen-rop-overview",
+  "title": "The Rings of Power (series)",
+  "group": "Films and series",
+  "kind": "Television series, 2022 onward",
+  "aka": [],
+  "blurb": "Amazon's television series The Rings of Power is set in the Second Age and draws on the appendices of The Lord of the Rings.",
+  "book": "The Second Age lasts 3441 years. Tolkien tells it only in summary in The Lord of the Rings, Appendix B, and in The Silmarillion.",
+  "film": "",
+  "series": "The Rings of Power is a series made for Amazon Prime Video. It is set in the Second Age, thousands of years before the story of The Lord of the Rings. Season one came out in September 2022 and season two in August 2024. Season three began on 11 November 2026. J. D. Payne and Patrick McKay created the series.\n\nThe story follows the Elves, Dwarves, Men and Harfoots across Middle-earth, in Númenor and in Khazad-dûm. It tells how the Rings of Power are forged and how Sauron rises in a new form. Galadriel, Elrond and Celebrimbor take a large part.\n\nThe rights that Amazon holds do not include The Silmarillion. The writers therefore draw mainly on the appendices and The Lord of the Rings. They invent many characters and change the timeline. The series is not a faithful adaptation of any single text, and it differs from Jackson's films in look and tone.",
+  "facts": {
+   "Platform": "Amazon Prime Video",
+   "Season one": "September 2022",
+   "Season two": "August 2024",
+   "Setting": "Second Age",
+   "Season three": "November 2026"
+  },
+  "places": [],
+  "related": [
+   "person:galadriel",
+   "person:elrond",
+   "person:celebrimbor",
+   "person:sauron",
+   "person:gil-galad"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix B (The Second Age)"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:screen-rop-cast",
+  "title": "Main characters and cast of The Rings of Power",
+  "group": "Films and series",
+  "kind": "List of roles and actors",
+  "aka": [],
+  "blurb": "A list of the main characters of the series The Rings of Power and the actors who play them.",
+  "book": "",
+  "film": "",
+  "series": "Roles and actors in the series, seasons one and two.\nGaladriel: Morfydd Clark\nElrond: Robert Aramayo\nGil-galad: Benjamin Walker\nCelebrimbor: Charles Edwards\nHalbrand (Sauron): Charlie Vickers\nDurin IV: Owain Arthur\nPrincess Disa: Sophia Nomvete\nDurin III: Peter Mullan\nElendil: Lloyd Owen\nIsildur: Maxim Baldry\nMíriel: Cynthia Addai-Robinson\nPharazôn: Trystan Gravelle\nArondir: Ismael Cruz Córdova\nBronwyn: Nazanin Boniadi\nNori Brandyfoot: Markella Kavenagh\nPoppy Proudfellow: Megan Richards\nSadoc Burrows: Lenny Henry\nTheo: Tyroe Muhafidin\nEärien: Ema Horvath\nThe Stranger: Daniel Weyman\nAdar: Joseph Mawle (season one), Sam Hazeldine (season two)\nTom Bombadil: Rory Kinnear",
+  "facts": {
+   "Series": "The Rings of Power",
+   "Platform": "Amazon Prime Video"
+  },
+  "places": [],
+  "related": [
+   "person:galadriel",
+   "person:elrond",
+   "person:gil-galad",
+   "person:celebrimbor",
+   "person:sauron",
+   "person:elendil",
+   "person:isildur",
+   "person:tar-miriel"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix B (for comparison)"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:screen-rop-invented",
+  "title": "Characters invented for The Rings of Power",
+  "group": "Films and series",
+  "kind": "Series characters not in the books",
+  "aka": [],
+  "blurb": "The series adds many characters who do not appear in Tolkien's books, including Arondir, Bronwyn, Adar and the Harfoot Nori.",
+  "book": "Tolkien names few people of the Second Age. He writes of Celebrimbor, Gil-galad, Elendil and Isildur in the Appendices and The Silmarillion. Many characters of the series are not found in any book.",
+  "film": "",
+  "series": "Arondir is a Silvan Elf who guards the Southlands. Bronwyn is a human healer there, and Theo is her teenage son. Their story links the Elves with Men in the Southlands.\n\nAdar is an Elf who has become the leader of the Orcs and a father to them. The series says he rebels against Sauron. Nori Brandyfoot and Poppy Proudfellow are Harfoots, who are ancestors of the Hobbits, and Sadoc Burrows is their elder. The Prologue names the Harfoots as one of three kinds of Hobbits, but the books never show Hobbits in the Second Age.\n\nThe Stranger is a being who falls from the sky in a meteor. The series later names him as Gandalf. Halbrand is a man whom Galadriel takes for the lost king of the Southlands. His true self is Sauron in disguise. Eärien, a daughter of Elendil, is another invented figure. In the books, Elendil's named sons are Isildur and Anárion, and no daughter is named.",
+  "facts": {
+   "Examples": "Arondir, Bronwyn, Theo, Adar, Nori, Poppy, Eärien"
+  },
+  "places": [],
+  "related": [
+   "person:sauron",
+   "person:gandalf",
+   "person:elendil",
+   "person:galadriel"
+  ],
+  "sources": [
+   "The Lord of the Rings, Prologue (on Harfoots)",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:screen-rop-changes",
+  "title": "How The Rings of Power changes the books' history",
+  "group": "Films and series",
+  "kind": "Series changes from the books",
+  "aka": [],
+  "blurb": "The series compresses the Second Age, makes mithril the key to the Rings and has Sauron help to forge them in disguise.",
+  "book": "In the book, the Second Age lasts 3441 years. Celebrimbor and the Elves of Eregion make the Rings in about S.A. 1500 to 1590, taught by Sauron in a fair guise. Celebrimbor makes the Three on his own, without Sauron.\n\nMithril is found only in Khazad-dûm, and the trade in it helps the friendship of Moria and Eregion. Númenor falls in S.A. 3319. The Last Alliance follows in S.A. 3430 to 3441.",
+  "film": "",
+  "series": "The series puts many events close together. This lets people who lived centuries apart in the books meet as contemporaries. Galadriel, Elrond, Gil-galad, Celebrimbor, Elendil and Míriel are shown within one span of years.\n\nThe series says that mithril is a newly found ore in Khazad-dûm and that the Elves need it. Celebrimbor uses it in the making of the Rings. The books do not link mithril to the Rings in this way.\n\nSauron appears as Halbrand and later as Annatar. He helps to forge the Rings, and the Three are made with his advice. In the book, the Three are free of his touch. The series also shows the creation of Mordor through an eruption.\n\nThese changes are the writers' own and do not come from Tolkien.",
+  "facts": {
+   "Book dates": "Rings made c. S.A. 1500 to 1590; Númenor falls S.A. 3319"
+  },
+  "places": [
+   {
+    "id": "realm:eregion",
+    "role": "made",
+    "note": "The Rings are made in Eregion in the book."
+   },
+   {
+    "id": "realm:khazad-dum",
+    "role": "other",
+    "note": "Mithril is mined in Khazad-dûm."
+   },
+   {
+    "id": "realm:mordor",
+    "role": "other",
+    "note": "The series shows Mordor formed by an eruption."
+   }
+  ],
+  "related": [
+   "person:celebrimbor",
+   "person:sauron",
+   "thing:mithril",
+   "thing:seven-rings",
+   "person:gil-galad"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix B",
+   "The Silmarillion, Of the Rings of Power and the Third Age"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:screen-bakshi-film",
+  "title": "Ralph Bakshi's The Lord of the Rings (1978 film)",
+  "group": "Films and series",
+  "kind": "Animated film, 1978",
+  "aka": [],
+  "blurb": "Ralph Bakshi made an animated film of The Lord of the Rings in 1978. It covers only the first part of the story.",
+  "book": "The Lord of the Rings was published in 1954 and 1955 in three volumes. It was widely known by the 1960s and 1970s.",
+  "film": "Ralph Bakshi directed this animated film, released in 1978. United Artists distributed it. Much of the film was made by filming live actors and then drawing over the film, a method called rotoscoping.\n\nThe film covers The Fellowship of the Ring and part of The Two Towers. It ends after the battle at Helm's Deep and the defeat of the Orcs. It does not finish the tale, and no sequel was made.\n\nThe voice cast includes Christopher Guard as Frodo, William Squire as Gandalf, John Hurt as Aragorn, Michael Scholes as Sam, Anthony Daniels as Legolas and Peter Woodthorpe as Gollum. It was the first feature film of the book.\n\nThe film split the opinion of critics and fans. Some praised its ambition, and some disliked its style and ending. It remains a notable early attempt.",
+  "series": "",
+  "facts": {
+   "Director": "Ralph Bakshi",
+   "Released": "1978",
+   "Covers": "Fellowship and part of The Two Towers"
+  },
+  "places": [
+   {
+    "id": "FT014",
+    "role": "other",
+    "note": "The film ends after the battle at Helm's Deep."
+   }
+  ],
+  "related": [
+   "person:frodo-baggins",
+   "person:gandalf",
+   "person:aragorn",
+   "person:gollum"
+  ],
+  "sources": [
+   "The Fellowship of the Ring and The Two Towers (for comparison)"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:screen-rankin-bass",
+  "title": "Rankin/Bass animated The Hobbit (1977) and The Return of the King (1980)",
+  "group": "Films and series",
+  "kind": "Animated television films",
+  "aka": [],
+  "blurb": "Rankin/Bass made two animated television films: The Hobbit in 1977 and The Return of the King in 1980.",
+  "book": "The Hobbit is the earlier book and tells of Bilbo and the Dwarves. The Return of the King is the third volume of The Lord of the Rings.",
+  "film": "Rankin/Bass was a United States studio known for its television specials. It made The Hobbit in 1977 for television. Orson Bean voiced Bilbo, John Huston voiced Gandalf and Richard Boone voiced Smaug. Hans Conried voiced Thorin. The film includes songs.\n\nIn 1980 the studio made The Return of the King as a television film. It came after the Bakshi film, which had stopped before the end, but it was not made as its sequel. Orson Bean voiced Frodo and also Bilbo, and John Huston again voiced Gandalf. Roddy McDowall voiced Sam, and Theodore Bikel voiced Aragorn.\n\nThe animation for both films was done in Japan. The 1980 film starts with a summary of earlier events through songs and narration. It then tells part of the ending of the book. Its style is gentle and simple. The two films are often remembered fondly.",
+  "series": "",
+  "facts": {
+   "The Hobbit": "1977",
+   "The Return of the King": "1980",
+   "Studio": "Rankin/Bass"
+  },
+  "places": [],
+  "related": [
+   "person:bilbo-baggins",
+   "person:gandalf",
+   "person:smaug",
+   "person:thorin-oakenshield"
+  ],
+  "sources": [
+   "The Hobbit and The Return of the King (for comparison)"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:screen-bbc-radio",
+  "title": "The BBC radio version (1981)",
+  "group": "Films and series",
+  "kind": "Radio dramatisation, 1981",
+  "aka": [],
+  "blurb": "The BBC dramatised The Lord of the Rings for radio in 1981, in twenty-six half-hour episodes.",
+  "book": "Tolkien's book has many long speeches, songs and scenes of travel. A radio version must carry these by voice, music and sound.",
+  "film": "The BBC broadcast this version on Radio 4 in 1981. It has twenty-six half-hour episodes. Brian Sibley and Michael Bakewell wrote the script.\n\nIan Holm played Frodo, and Michael Hordern played Gandalf. Robert Stephens played Aragorn, Bill Nighy played Sam and Peter Woodthorpe played Gollum. Ian Holm later played Bilbo in Jackson's films.\n\nThe production used music by Stephen Oliver and included songs from the book. Many listeners feel it is faithful to the book, since it has time for the long story. It includes the Scouring of the Shire, but it leaves out Tom Bombadil and the Old Forest.\n\nIt has been rebroadcast and released on recordings.",
+  "series": "",
+  "facts": {
+   "Broadcaster": "BBC Radio 4",
+   "Year": "1981",
+   "Episodes": "26 half-hour episodes"
+  },
+  "places": [],
+  "related": [
+   "person:frodo-baggins",
+   "person:gandalf",
+   "person:aragorn",
+   "person:samwise-gamgee",
+   "person:gollum"
+  ],
+  "sources": [
+   "The Lord of the Rings (for comparison)"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:screen-war-of-the-rohirrim",
+  "title": "The War of the Rohirrim (2024 film)",
+  "group": "Films and series",
+  "kind": "Animated film, 2024",
+  "aka": [],
+  "blurb": "The War of the Rohirrim is a 2024 animated film about Helm Hammerhand and the siege of Helm's Deep.",
+  "book": "Appendix A tells of Helm Hammerhand, ninth king of Rohan. Freca asked for Helm's daughter for his son Wulf, and Helm killed Freca with a blow. Wulf then took Edoras in T.A. 2758. The Long Winter followed, and Helm died in the winter.\n\nThe book does not name Helm's daughter.",
+  "film": "The War of the Rohirrim came out in December 2024. Kenji Kamiyama directed it, in an anime style. New Line Cinema and Warner Bros. Animation made it, and Miranda Otto returns as the voice of Éowyn, who narrates.\n\nThe film is set long before the main story, in the reign of Helm. It follows his daughter Héra, a character named in the film but not in the book. Brian Cox voices Helm, and Gaia Wise voices Héra. Wulf is played by Luke Pasqualino.\n\nThe film tells of the feud between Helm and Freca, the war with the Dunlendings and the siege of the stronghold that later bears Helm's name. It brings the history of Helm's Deep to the screen for the first time.\n\nThe film uses the setting of Peter Jackson's films, with music and designs that echo them.",
+  "series": "",
+  "facts": {
+   "Released": "December 2024",
+   "Director": "Kenji Kamiyama",
+   "Setting": "T.A. 2758 and 2759"
+  },
+  "places": [
+   {
+    "id": "FT014",
+    "role": "fought",
+    "note": "The siege of Helm's Deep is the film's climax."
+   },
+   {
+    "id": "TO029",
+    "role": "other",
+    "note": "Wulf seizes Edoras in the book."
+   }
+  ],
+  "related": [
+   "person:helm-hammerhand",
+   "person:eowyn",
+   "realm:rohan",
+   "realm:dunland"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A (The House of Eorl)"
+  ],
+  "confidence": "medium"
+ }
+]

@@ -1,0 +1,982 @@
+[
+ {
+  "id": "lore:tt-3-01",
+  "title": "The Departure of Boromir",
+  "group": "The Two Towers",
+  "kind": "Book III, chapter 1",
+  "aka": [],
+  "blurb": "Aragorn finds Boromir dying, the three hunters send his body over Rauros, and they choose to chase the Orcs that took Merry and Pippin.",
+  "book": "Aragorn climbs Amon Hen in search of Frodo. He sits on the Seat of Seeing but sees only far lands. Then he hears the horn of Boromir and runs down toward the sound.\n\nHe finds Boromir sitting against a tree, pierced by many arrows. Many dead Orcs lie around him. Boromir confesses that he tried to take the Ring from Frodo and says that he is sorry. He says that the Orcs have taken the halflings. Then he dies.\n\nLegolas and Gimli arrive. They too have fought Orcs in the woods. The three lay Boromir in one of the Elven boats. They put his sword, his cloven horn and the weapons of his slain foes beside him. They push the boat out into the river, and the current carries it toward the Falls of Rauros. Aragorn and Legolas sing a lament for him.\n\nBack on the shore, Aragorn sees that one boat is missing and that Sam's pack is gone. He judges that Frodo and Sam have crossed the river together. Aragorn decides not to follow them. He chooses to hunt the Orcs and to free Merry and Pippin, and the three set out at once.",
+  "film": "The film The Fellowship of the Ring (2001) shows Boromir's last stand, his death in Aragorn's arms and his funeral boat. The Two Towers film does not include these events.",
+  "series": "",
+  "facts": {
+   "Book": "The Two Towers",
+   "Dates": "26 February T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "HI004",
+    "role": "other",
+    "note": "Aragorn sits on the Seat of Seeing while he searches for Frodo."
+   },
+   {
+    "id": "FI021",
+    "role": "fought",
+    "note": "Boromir falls near this shore while he defends Merry and Pippin."
+   },
+   {
+    "id": "FA007",
+    "role": "other",
+    "note": "Boromir's funeral boat is carried toward the Falls of Rauros."
+   }
+  ],
+  "related": [
+   "person:boromir",
+   "person:aragorn",
+   "person:legolas",
+   "person:gimli",
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "thing:one-ring",
+   "thing:horn-of-gondor",
+   "battle:parth-galen"
+  ],
+  "sources": [
+   "The Two Towers, Book III, chapter 1"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:tt-3-02",
+  "title": "The Riders of Rohan",
+  "group": "The Two Towers",
+  "kind": "Book III, chapter 2",
+  "aka": [],
+  "blurb": "Aragorn, Legolas and Gimli follow the Orc trail across Rohan, meet Éomer and his Riders, and borrow two horses.",
+  "book": "Aragorn, Legolas and Gimli follow the trail of the Orcs. They find five dead Orcs from the North, killed in a quarrel. They climb down from the Emyn Muil onto the plains of Rohan. Aragorn finds the brooch of a Lórien cloak and the footprints of a hobbit. He judges that Pippin broke away from the Orcs for a moment to leave a sign.\n\nThe three run on for days with little rest. At last a company of Riders of Rohan approaches and surrounds them. Their leader is Éomer, Third Marshal of the Mark.\n\nÉomer is suspicious at first. Aragorn tells him his true name and shows him the sword Andúril. Éomer says that his Riders destroyed the Orc band near Fangorn and burned the bodies. They saw no hobbits. He also speaks of Gandalf, who took the horse Shadowfax from the king's stables. Éomer has ridden out against the wishes of his king, and helping strangers puts him at further risk.\n\nHe lends them two horses, Hasufel for Aragorn and Arod for Legolas and Gimli. He asks them to bring the horses back to Meduseld when their errand is done. The three ride to the field of the battle and camp near the eaves of Fangorn. In the night an old man in a cloak appears beside their fire and then vanishes. Soon after, they find that the horses are gone.",
+  "film": "The film keeps the meeting with Éomer, but there Éomer has been banished by a king under Saruman's spell. The book has no such banishment.",
+  "series": "",
+  "facts": {
+   "Book": "The Two Towers",
+   "Dates": "26 to 30 February T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "HI022",
+    "role": "travelled",
+    "note": "The three hunters climb down from the Emyn Muil onto the plains."
+   },
+   {
+    "id": "NP014",
+    "role": "travelled",
+    "note": "They meet Éomer on the plains of the Eastemnet."
+   },
+   {
+    "id": "FO012",
+    "role": "other",
+    "note": "They camp at the edge of Fangorn, and their horses vanish in the night."
+   }
+  ],
+  "related": [
+   "person:aragorn",
+   "person:legolas",
+   "person:gimli",
+   "person:eomer",
+   "person:hasufel",
+   "person:arod",
+   "person:shadowfax",
+   "thing:anduril",
+   "people:rohirrim",
+   "journey:hunters"
+  ],
+  "sources": [
+   "The Two Towers, Book III, chapter 2"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:tt-3-03",
+  "title": "The Uruk-hai",
+  "group": "The Two Towers",
+  "kind": "Book III, chapter 3",
+  "aka": [
+   "Merry and Pippin captured"
+  ],
+  "blurb": "Merry and Pippin are carried off by quarrelling Orcs, escape when the Riders of Rohan attack, and flee into Fangorn.",
+  "book": "Pippin wakes from a dark dream, bound among Orcs. He remembers the fight in the woods and Boromir's horn. The Orcs come from three places. Uglúk leads the Uruk-hai of Isengard. Grishnákh leads Orcs from Mordor. A third band comes from the North and Moria. They quarrel over where to take the prisoners, and Uglúk wins.\n\nIn the fight a dead Orc falls near Pippin, and he cuts the cord on his wrists with its knife. The Orcs drive the hobbits west across the plains. Pippin breaks away for a moment and drops the brooch of his Elven cloak as a sign. Riders of Rohan pursue the Orcs and surround them near the edge of Fangorn Forest.\n\nAt night Grishnákh creeps up and seizes the hobbits. He searches them for the Ring, which he guesses they know about. The hobbits play on his greed. He carries them out of the ring of guards, but a Rider kills him. Merry and Pippin cut the rest of their bonds, eat some lembas and crawl away unseen.\n\nAt sunrise the Riders attack and destroy the Orcs. Éomer kills Uglúk. The hobbits have already fled into the forest, so they do not see the end of the fight.",
+  "film": "The film shows the hobbits carried by Uruk-hai, the night attack of the Riders and the escape into Fangorn. It changes many details of the book.",
+  "series": "",
+  "facts": {
+   "Book": "The Two Towers",
+   "Dates": "26 to 29 February T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "NP014",
+    "role": "travelled",
+    "note": "The Orcs march with their captives across the plains of Rohan."
+   },
+   {
+    "id": "FO012",
+    "role": "other",
+    "note": "The hobbits escape into Fangorn Forest as the Riders attack."
+   },
+   {
+    "id": "HI022",
+    "role": "travelled",
+    "note": "The Orcs carry their captives through these hills toward the plain."
+   }
+  ],
+  "related": [
+   "person:peregrin-took",
+   "person:meriadoc-brandybuck",
+   "person:ugluk",
+   "person:grishnakh",
+   "person:eomer",
+   "people:uruk-hai",
+   "people:orcs",
+   "people:rohirrim",
+   "journey:merry-pippin"
+  ],
+  "sources": [
+   "The Two Towers, Book III, chapter 3"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:tt-3-04",
+  "title": "Treebeard (chapter)",
+  "group": "The Two Towers",
+  "kind": "Book III, chapter 4",
+  "aka": [
+   "Treebeard",
+   "The Entmoot"
+  ],
+  "blurb": "Merry and Pippin meet Treebeard, the Ents hold a moot at Derndingle, and the Ents march on Isengard.",
+  "book": "Merry and Pippin wander into Fangorn Forest. They drink from the Entwash and climb to a sunny shelf of rock on a hillside. There they meet Treebeard, an Ent and the oldest of his kind. He speaks slowly and does not like to be hasty. He learns their names and hears their story.\n\nTreebeard carries them to his home at Wellinghall. He gives them Ent-draughts, which refresh them. He tells them about Fangorn, the Ents and the old days. He also tells of the Entwives, who loved gardens and parted from the Ents long ago. The Ents searched for them but never found them.\n\nTreebeard grows angry when he learns more of Saruman. Saruman's Orcs have felled many trees of Fangorn. Treebeard calls an Entmoot at Derndingle. The Ents talk for a long time. While they talk, the hobbits stay with a young and hasty Ent named Quickbeam.\n\nOn the third day the Ents decide to go to war against Isengard. They march out of the forest, and Treebeard carries the hobbits. Many trees seem to follow them. At nightfall they come in sight of Isengard.",
+  "film": "The film shows the Ents deciding not to fight, until Pippin brings Treebeard to see the cut forest near Isengard. The Ents then march and flood Isengard.",
+  "series": "",
+  "facts": {
+   "Book": "The Two Towers",
+   "Dates": "29 February to 2 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "NP023",
+    "role": "other",
+    "note": "The hobbits meet Treebeard on this hill near the eaves of the forest."
+   },
+   {
+    "id": "FO012",
+    "role": "other",
+    "note": "Treebeard shelters the hobbits in his forest."
+   },
+   {
+    "id": "BU086",
+    "role": "other",
+    "note": "Treebeard lives at Wellinghall and shares Ent-draughts with the hobbits."
+   },
+   {
+    "id": "FI005",
+    "role": "other",
+    "note": "The Ents hold their long Entmoot in this hidden dell."
+   },
+   {
+    "id": "FT017",
+    "role": "other",
+    "note": "The Ents march toward Isengard at the end of the chapter."
+   }
+  ],
+  "related": [
+   "person:treebeard",
+   "person:quickbeam",
+   "person:peregrin-took",
+   "person:meriadoc-brandybuck",
+   "person:saruman",
+   "people:ents",
+   "journey:merry-pippin",
+   "battle:ents-of-isengard"
+  ],
+  "sources": [
+   "The Two Towers, Book III, chapter 4"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:tt-3-05",
+  "title": "The White Rider",
+  "group": "The Two Towers",
+  "kind": "Book III, chapter 5",
+  "aka": [],
+  "blurb": "Aragorn, Legolas and Gimli follow the hobbits into Fangorn and meet Gandalf, who has returned from death as the White Rider.",
+  "book": "In the morning Aragorn searches the field of the battle. He finds cut cords, a knife and crumbs of lembas. From these signs he judges that the hobbits escaped. The three hunters follow the tracks into Fangorn Forest and climb a hill inside it.\n\nThere they see an old man in a grey cloak. They fear that he is Saruman. Legolas and Gimli make ready to strike, but their weapons fail them. The old man throws off his cloak and shines in white. He is Gandalf, come back from death.\n\nGandalf tells his story. He fell with the Balrog into deep water under Moria and fought it in the dark. He chased it up the Endless Stair to the peak of Zirakzigil, also called Celebdil. There they fought, and he threw the Balrog down. Then darkness took him, and he lost all count of time. He was sent back, for his task was not done. Gwaihir the eagle carried him to Lothlórien, where he was healed and clothed in white.\n\nGandalf brings messages from Galadriel for each of the three. He says that Merry and Pippin are safe with Treebeard. He calls his horse Shadowfax, and Hasufel and Arod return as well. The four ride for Edoras, where Théoden needs help.",
+  "film": "The film opens The Two Towers with Gandalf's fall and fight with the Balrog. It then shows his return as Gandalf the White in Fangorn.",
+  "series": "",
+  "facts": {
+   "Book": "The Two Towers",
+   "Date": "1 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "FO012",
+    "role": "other",
+    "note": "Aragorn, Legolas and Gimli meet the returned Gandalf in this forest."
+   },
+   {
+    "id": "MT007",
+    "role": "other",
+    "note": "Gandalf tells of his last battle with the Balrog on this peak."
+   },
+   {
+    "id": "TO066",
+    "role": "other",
+    "note": "Gandalf tells of his fall and long fight deep under Moria."
+   },
+   {
+    "id": "TO029",
+    "role": "travelled",
+    "note": "The four ride toward Edoras at the end of the chapter."
+   }
+  ],
+  "related": [
+   "person:gandalf",
+   "person:aragorn",
+   "person:legolas",
+   "person:gimli",
+   "person:shadowfax",
+   "person:gwaihir",
+   "person:durins-bane",
+   "person:saruman",
+   "person:galadriel",
+   "people:istari"
+  ],
+  "sources": [
+   "The Two Towers, Book III, chapter 5"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:tt-3-06",
+  "title": "The King of the Golden Hall",
+  "group": "The Two Towers",
+  "kind": "Book III, chapter 6",
+  "aka": [
+   "Théoden freed from Wormtongue"
+  ],
+  "blurb": "Gandalf frees Théoden from Gríma's counsel and the king rides to war.",
+  "book": "The four riders come to Edoras, the town on its green hill. At the doors of Meduseld, Háma the doorward asks them to give up their weapons. Gandalf gives up his sword but keeps his staff. Inside the hall, Théoden sits bent and old. Gríma Wormtongue sits at his feet and speaks against the strangers.\n\nGandalf speaks to Théoden and raises his staff. Thunder rolls, the hall grows dark, and Gríma falls on his face. Théoden rises and walks out with Gandalf onto the terrace before the hall. In the open air his strength returns. Gandalf counsels him and tells him of the danger from Isengard.\n\nÉomer, whom Gríma had kept in prison, is freed and gives his sword to the king. Théoden sees the truth about Gríma. He offers Gríma a choice: ride with him to war or leave. Gríma spits and flees toward Isengard. Théoden gives Shadowfax to Gandalf as a gift. The king gathers his Riders and rides west the same day, with Gandalf, Aragorn, Legolas and Gimli. Éowyn, his niece, stays to rule the people in his place.",
+  "film": "The film shows Théoden possessed by Saruman, whom Gandalf drives out. Gríma is thrown out of the hall.",
+  "series": "",
+  "facts": {
+   "Book": "The Two Towers",
+   "Date": "2 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "TO029",
+    "role": "other",
+    "note": "Gandalf and his friends come to the city of the Rohirrim."
+   },
+   {
+    "id": "BU070",
+    "role": "other",
+    "note": "In Meduseld, Gandalf frees Théoden from Gríma's influence."
+   }
+  ],
+  "related": [
+   "person:theoden",
+   "person:gandalf",
+   "person:grima",
+   "person:eowyn",
+   "person:eomer",
+   "person:hama",
+   "person:theodred",
+   "person:aragorn",
+   "people:rohirrim",
+   "person:saruman"
+  ],
+  "sources": [
+   "The Two Towers, Book III, chapter 6"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:tt-3-07",
+  "title": "Helm's Deep (chapter)",
+  "group": "The Two Towers",
+  "kind": "Book III, chapter 7",
+  "aka": [
+   "Battle of the Hornburg"
+  ],
+  "blurb": "The Rohirrim shelter in Helm's Deep, where Saruman's host attacks overnight until help comes at dawn.",
+  "book": "Théoden leads his Riders west toward the Fords of Isen. On the way a Rider brings news that the Riders at the fords have been defeated and that Erkenbrand is cut off. Gandalf tells the king to go to Helm's Deep, not to the fords. Then he rides away alone on Shadowfax and does not say where he goes.\n\nThe king's men reach the Deeping-coomb, where many people of the Westfold shelter in the caves behind the fortress. At night Orcs, wild Dunlending men and Saruman's Uruk-hai assault the Deeping Wall and the Hornburg. Aragorn, Legolas and Gimli fight on the wall, and Gimli and Legolas keep a count of their kills. Orcs creep through a culvert under the wall and blow a breach in it with the fire of Saruman. The defenders lose the wall. Aragorn and Legolas fall back to the Hornburg, and Gimli is cut off in the caves.\n\nAt dawn Théoden and Aragorn ride out from the Hornburg with their men and cut through the enemy. Then Gandalf appears on a ridge with Erkenbrand and many men. A forest that was not there before stands in the valley below. The Orcs flee into the trees and are never seen again. The Dunlendings surrender.",
+  "film": "The film adds an army of Elves from Lothlórien, led by Haldir, who fight at Helm's Deep. Éomer and the Riders come at dawn with Gandalf, and the women and children shelter in the caves.",
+  "series": "",
+  "facts": {
+   "Book": "The Two Towers",
+   "Dates": "Night of 3 to 4 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "FT014",
+    "role": "fought",
+    "note": "The Rohirrim shelter here and hold out against Saruman's army."
+   },
+   {
+    "id": "FT016",
+    "role": "fought",
+    "note": "The Hornburg is the last place the defenders hold."
+   },
+   {
+    "id": "WA002",
+    "role": "fought",
+    "note": "The Orcs blow a breach in the Deeping Wall."
+   },
+   {
+    "id": "VA003",
+    "role": "other",
+    "note": "A strange forest swallows the fleeing Orcs here."
+   }
+  ],
+  "related": [
+   "person:theoden",
+   "person:aragorn",
+   "person:legolas",
+   "person:gimli",
+   "person:gamling",
+   "person:erkenbrand",
+   "person:eomer",
+   "person:gandalf",
+   "battle:hornburg",
+   "people:uruk-hai"
+  ],
+  "sources": [
+   "The Two Towers, Book III, chapter 7"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:tt-3-08",
+  "title": "The Road to Isengard",
+  "group": "The Two Towers",
+  "kind": "Book III, chapter 8",
+  "aka": [],
+  "blurb": "After the victory at Helm's Deep, a small company rides to Isengard and finds it ruined and flooded, with Merry and Pippin at the gate.",
+  "book": "After the battle, Gandalf and the king take counsel. The Riders bury their dead in two mounds. The Dunlending prisoners swear never again to make war on Rohan and are set to repair the damage. Gimli tells Legolas of the beauty of the Glittering Caves behind Helm's Deep, and they agree to visit them together one day.\n\nIn the afternoon Gandalf leads a small company toward Isengard. With him ride Théoden, Éomer, Aragorn, Legolas, Gimli and twenty Riders. They pass through the strange forest. Legolas sees eyes among the trees, and Gandalf later calls the trees Huorns. At the Fords of Isen they find a mound raised over the Riders who fell there. The river is nearly dry.\n\nThey camp near the fords. At night they hear a great mass of trees pass by in the dark. The next morning they ride up Nan Curunír, where water covers the ground. At noon they reach the broken gate of Isengard. The ring wall is torn down, the plain inside is flooded, and steam rises from it. Orthanc alone stands unharmed.\n\nTwo small figures lounge on a heap of rubble by the gate. They are Merry and Pippin, eating and smoking. Merry greets the king as a host would. Théoden speaks with the hobbits about pipe-weed. Then Gandalf and the king go to find Treebeard.",
+  "film": "The film shows Merry and Pippin on the flooded ruin of Isengard when Gandalf and the others arrive, after the Ents destroy it. This scene appears in The Return of the King.",
+  "series": "",
+  "facts": {
+   "Book": "The Two Towers",
+   "Dates": "4 to 5 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "FJ008",
+    "role": "travelled",
+    "note": "The company crosses the fords and finds a mound over fallen Riders."
+   },
+   {
+    "id": "VA014",
+    "role": "travelled",
+    "note": "The riders go up the flooded Wizard's Vale."
+   },
+   {
+    "id": "DO017",
+    "role": "other",
+    "note": "The company finds Merry and Pippin at the ruined gate."
+   },
+   {
+    "id": "WA007",
+    "role": "other",
+    "note": "The broken Ring of Isengard stands around a flooded plain."
+   },
+   {
+    "id": "FT017",
+    "role": "other",
+    "note": "The company reaches Isengard and finds it ruined and flooded."
+   }
+  ],
+  "related": [
+   "person:theoden",
+   "person:gandalf",
+   "person:eomer",
+   "person:aragorn",
+   "person:legolas",
+   "person:gimli",
+   "person:meriadoc-brandybuck",
+   "person:peregrin-took",
+   "person:treebeard",
+   "battle:ents-of-isengard"
+  ],
+  "sources": [
+   "The Two Towers, Book III, chapter 8"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:tt-3-09",
+  "title": "Flotsam and Jetsam",
+  "group": "The Two Towers",
+  "kind": "Book III, chapter 9",
+  "aka": [],
+  "blurb": "At the gate of Isengard, Merry and Pippin feast with Aragorn, Legolas and Gimli and tell how the Ents destroyed Isengard.",
+  "book": "Aragorn, Legolas and Gimli stay with Merry and Pippin at the gate of Isengard while Gandalf and the king go to meet Treebeard. The hobbits bring food from Saruman's stores, and the five friends eat in a guard-room. The hobbits have found pipe-weed from Longbottom in the Southfarthing of the Shire, in barrels with the Hornblower mark. Aragorn finds it strange that the leaf came to Isengard.\n\nPippin tells how he and Merry met Treebeard and how the Ents held their moot and marched. Merry tells of the night the Ents came to Isengard. Saruman had sent his army out toward Helm's Deep, and many Huorns went after it. The Ents broke the gates and tore at the walls. Saruman fled into Orthanc and sent out fire, and one Ent was burned. Then the Ents dammed the Isen and turned the river into the ring, and the water flooded the pits and caves.\n\nMerry says that Gandalf came to Isengard briefly during that time to speak with Treebeard. Later Gríma Wormtongue came to the gate. Treebeard let him go up into Orthanc to join his master.\n\nThe hunters tell their own tale in turn. Then Gandalf comes back. He says that they will now go to Orthanc to speak with Saruman.",
+  "film": "The Return of the King film (2003) shows Merry and Pippin among the ruins of Isengard with the pipe-weed. Gandalf and the others find them there.",
+  "series": "",
+  "facts": {
+   "Book": "The Two Towers"
+  },
+  "places": [
+   {
+    "id": "DO017",
+    "role": "other",
+    "note": "The hobbits and the hunters eat in a guard-room by the ruined gate."
+   },
+   {
+    "id": "FT017",
+    "role": "other",
+    "note": "The hobbits tell how the Ents broke and flooded Isengard."
+   },
+   {
+    "id": "BU021",
+    "role": "other",
+    "note": "Saruman flees into Orthanc when the Ents attack."
+   }
+  ],
+  "related": [
+   "person:meriadoc-brandybuck",
+   "person:peregrin-took",
+   "person:aragorn",
+   "person:legolas",
+   "person:gimli",
+   "person:treebeard",
+   "person:saruman",
+   "person:grima",
+   "thing:pipe-weed",
+   "battle:ents-of-isengard"
+  ],
+  "sources": [
+   "The Two Towers, Book III, chapter 9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:tt-3-10",
+  "title": "The Voice of Saruman",
+  "group": "The Two Towers",
+  "kind": "Book III, chapter 10",
+  "aka": [],
+  "blurb": "Saruman tries to persuade and divide his enemies, fails, and loses his staff and his place among the wizards.",
+  "book": "Gandalf, Théoden, Éomer, Aragorn, Legolas, Gimli and some Riders go to the foot of Orthanc, and Merry and Pippin come too. Gandalf warns them of the power of Saruman's voice. Saruman comes out on a high balcony and speaks in a soft and pleasing voice.\n\nHe speaks first to Théoden and offers peace and friendship. Gimli says that the wizard twists the meaning of words. The Riders begin to waver, but Éomer warns the king. Théoden refuses Saruman and calls him a liar. Saruman loses his temper and scorns the House of Eorl, then regains his calm.\n\nHe turns to Gandalf and invites him to come up and talk as two old friends. Gandalf laughs. He offers Saruman freedom if he will come down and give up the key of Orthanc and his staff. Saruman refuses and turns to go. Gandalf calls him back. He declares that Saruman is cast from the order and from the Council. He says that Saruman's staff is broken, and the staff splits apart in Saruman's hand. Saruman crawls away.\n\nAt that moment a heavy ball of dark crystal falls from a higher window. It strikes the iron rail and cracks the step. Gríma threw it. Pippin picks it up, and Gandalf quickly takes it from him. Gandalf then asks Treebeard and the Ents to guard the tower.",
+  "film": "Neither theatrical film shows this parley. The extended edition of The Return of the King (2003) includes it. There Gríma stabs Saruman, Legolas shoots Gríma, and Saruman falls from the tower.",
+  "series": "",
+  "facts": {
+   "Book": "The Two Towers",
+   "Date": "5 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "BU021",
+    "role": "other",
+    "note": "Saruman speaks from a high window of Orthanc."
+   },
+   {
+    "id": "FT017",
+    "role": "other",
+    "note": "Gandalf and the king confront Saruman in the ruined stronghold."
+   }
+  ],
+  "related": [
+   "person:saruman",
+   "person:gandalf",
+   "person:theoden",
+   "person:eomer",
+   "person:gimli",
+   "person:grima",
+   "person:peregrin-took",
+   "person:treebeard",
+   "thing:palantir-of-orthanc",
+   "people:istari"
+  ],
+  "sources": [
+   "The Two Towers, Book III, chapter 10"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:tt-3-11",
+  "title": "The Palantír",
+  "group": "The Two Towers",
+  "kind": "Book III, chapter 11",
+  "aka": [
+   "The stone of Orthanc"
+  ],
+  "blurb": "At Dol Baran Pippin looks into the palantír and meets Sauron, and Gandalf rides with him toward Minas Tirith.",
+  "book": "The company leaves Isengard at sunset and rides south. They camp at Dol Baran, a hill at the southern end of the Misty Mountains. Pippin cannot forget the dark crystal. In the night he takes it from the sleeping Gandalf and leaves a rock in its place.\n\nPippin looks into the stone. He sees a dark tower and then falls under a terrible will. Sauron questions him, and Pippin cries out and falls. The others wake. Gandalf revives Pippin and asks what he told. Pippin says that he gave nothing away about the Ring. Sauron took him for a captive of Saruman and gave him a message for Saruman.\n\nGandalf explains that the stone is a palantír, one of the seeing-stones of old. He judges that Saruman fell under Sauron's power through it. He gives the stone to Aragorn, who claims it by right as the heir of Isildur.\n\nSoon a winged Nazgûl passes over the camp. Gandalf knows that the Enemy will now seek the hobbit who was at Isengard. He takes Pippin up on Shadowfax and rides at once for Minas Tirith. On the way he tells Pippin about the seven palantíri. Théoden and the others set out for Helm's Deep by night.",
+  "film": "In The Return of the King (2003), Pippin looks into the stone at Edoras, not at Dol Baran. He sees a white tree burning, and Gandalf then rides with him to Minas Tirith.",
+  "series": "",
+  "facts": {
+   "Book": "The Two Towers",
+   "Date": "5 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "HI017",
+    "role": "other",
+    "note": "Pippin looks into the palantír while the company camps at this hill."
+   },
+   {
+    "id": "FT017",
+    "role": "travelled",
+    "note": "The company leaves Isengard at sunset with the stone."
+   },
+   {
+    "id": "TO065",
+    "role": "travelled",
+    "note": "Gandalf rides with Pippin toward Minas Tirith."
+   }
+  ],
+  "related": [
+   "person:peregrin-took",
+   "person:gandalf",
+   "person:sauron",
+   "person:saruman",
+   "person:shadowfax",
+   "person:aragorn",
+   "thing:palantir-of-orthanc",
+   "people:nazgul"
+  ],
+  "sources": [
+   "The Two Towers, Book III, chapter 11"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:tt-4-01",
+  "title": "The Taming of Sméagol",
+  "group": "The Two Towers",
+  "kind": "Book IV, chapter 1",
+  "aka": [],
+  "blurb": "Frodo and Sam, lost in the Emyn Muil, capture Gollum and Frodo takes him as a guide.",
+  "book": "Book IV turns back to Frodo and Sam. For days they wander in the Emyn Muil, a maze of bare ridges and cliffs east of the Anduin. They cannot find a way down, and they sense that something follows them. At last they climb down a high cliff with the Elven rope from Lórien. Afterward the rope comes loose by itself, to Sam's delight.\n\nThat night they see Gollum climbing down the cliff head first, like an insect. He slips and falls near them. The hobbits seize him, and Gollum bites Sam. Frodo holds Sting to his throat. He recalls Gandalf's words about pity and decides not to kill him.\n\nThey tie the Elven rope to Gollum's ankle, and he cries that it hurts him. Gollum swears by the Precious to serve its master. Frodo accepts the oath and takes off the rope. Sam does not trust him. Gollum then leads them down out of the hills by a gully toward the marshes.",
+  "film": "The film includes the capture of Gollum with the Elven rope and shows Frodo sparing him. Gollum then guides the hobbits toward Mordor.",
+  "series": "",
+  "facts": {
+   "Book": "The Two Towers",
+   "Date": "29 February T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "HI022",
+    "role": "travelled",
+    "note": "Frodo and Sam struggle through these hills and capture Gollum."
+   },
+   {
+    "id": "SW002",
+    "role": "travelled",
+    "note": "Gollum leads the hobbits down toward these marshes."
+   }
+  ],
+  "related": [
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:gollum",
+   "thing:one-ring",
+   "thing:sting",
+   "thing:elven-cloaks",
+   "journey:frodo"
+  ],
+  "sources": [
+   "The Two Towers, Book IV, chapter 1"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:tt-4-02",
+  "title": "The Passage of the Marshes",
+  "group": "The Two Towers",
+  "kind": "Book IV, chapter 2",
+  "aka": [],
+  "blurb": "Gollum guides the hobbits across the Dead Marshes, and Sam overhears Gollum arguing with himself.",
+  "book": "Gollum leads Frodo and Sam out of the Emyn Muil. He likes to travel by night and to hide by day, for he hates the sun. He goes off alone to find food and refuses the Elven waybread.\n\nThey come to the Dead Marshes. Gollum finds a path through the pools by memory. Pale lights flicker over the water, and Gollum calls them candles of corpses. Sam stumbles and sees dead faces in the pools. Gollum says that they are the faces of Elves, Men and Orcs who died long ago in a great battle on the plain. Frodo stares at the lights as if in a dream.\n\nA winged Nazgûl passes overhead more than once, and the hobbits throw themselves down in terror. Frodo feels the Ring grow heavier as they go east.\n\nOne night Sam, half asleep, hears Gollum argue with himself in two voices. One voice wants to keep the promise to the master. The other wants to take the Precious. The second voice hints at someone, a she, who might help. The travellers come out of the marshes onto the dead land before the Morannon.",
+  "film": "The film shows the Dead Marshes with the floating faces of the dead. Frodo is drawn toward them, and Gollum guides the hobbits through.",
+  "series": "",
+  "facts": {
+   "Book": "The Two Towers",
+   "Dates": "1 to 2 March T.A. 3019 (the Dead Marshes)"
+  },
+  "places": [
+   {
+    "id": "SW002",
+    "role": "travelled",
+    "note": "Gollum guides the hobbits through the old battlefield, now a marsh."
+   },
+   {
+    "id": "FI004",
+    "role": "other",
+    "note": "The marshes lie beside the plain where the Last Alliance fought."
+   }
+  ],
+  "related": [
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:gollum",
+   "people:nazgul",
+   "battle:dagorlad",
+   "journey:frodo"
+  ],
+  "sources": [
+   "The Two Towers, Book IV, chapter 2"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:tt-4-03",
+  "title": "The Black Gate Is Closed",
+  "group": "The Two Towers",
+  "kind": "Book IV, chapter 3",
+  "aka": [],
+  "blurb": "The hobbits reach the Black Gate, find it impassable, and agree to follow Gollum to another way into Mordor.",
+  "book": "After the marshes, the hobbits and Gollum creep across the barren land before the Morannon, the Black Gate of Mordor. They hide on a slope near the gate. The gate is strongly built, and the Towers of the Teeth watch over it. Frodo sees a company of Men march in through the gate to join Sauron's forces.\n\nFrodo is ready to try the gate anyway. Gollum begs him not to go. He says that he knows another way into Mordor, to the south, by stairs and a tunnel. He names the pass of Cirith Ungol with fear. Gollum also tells of the Men of the South and their great beasts, and Sam asks eagerly about oliphaunts.\n\nFrodo weighs the choice for a long time. Winged Nazgûl fly high overhead. At last he decides to trust Gollum and to follow him south. At dusk the three leave the gate and turn south toward Ithilien.",
+  "film": "The film shows the hobbits and Gollum at the Black Gate, where Gollum proposes the other way. The scene comes before Faramir captures them in Ithilien.",
+  "series": "",
+  "facts": {
+   "Book": "The Two Towers",
+   "Date": "5 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "FT005",
+    "role": "other",
+    "note": "The hobbits watch the closed gate of Mordor and see armies pass inside."
+   },
+   {
+    "id": "FI006",
+    "role": "other",
+    "note": "They creep across the wasteland before the gate."
+   },
+   {
+    "id": "VA031",
+    "role": "other",
+    "note": "The pass of Cirith Gorgor lies beyond the gate."
+   }
+  ],
+  "related": [
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:gollum",
+   "person:sauron",
+   "people:haradrim",
+   "journey:frodo"
+  ],
+  "sources": [
+   "The Two Towers, Book IV, chapter 3"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:tt-4-04",
+  "title": "Of Herbs and Stewed Rabbit",
+  "group": "The Two Towers",
+  "kind": "Book IV, chapter 4",
+  "aka": [],
+  "blurb": "In Ithilien Sam stews rabbits for Frodo, Faramir's Rangers find the hobbits, and Sam sees an oliphaunt in battle.",
+  "book": "Gollum leads the hobbits south for several days into Ithilien, the old garden of Gondor. The land is wild but green and sweet with herbs and flowering trees. Frodo and Sam grow stronger in the spring air.\n\nSam asks Gollum to catch some rabbits. Gollum brings back two and wants to eat them raw. Sam makes a small fire and stews them with herbs. Gollum hates the fire and goes off. The smoke of the fire draws attention.\n\nMen of Gondor appear and find the hobbits. Their captain is Faramir. He questions the hobbits briefly. Then he leaves two men, Mablung and Damrod, to guard them. His Rangers are lying in wait for a company of Southrons marching north to join Sauron.\n\nThe guards tell the hobbits about the war in Ithilien. Then the ambush begins nearby. A Southron warrior falls dead close to Sam, and Sam wonders about the man's name and home. Then a huge mûmak, an oliphaunt, crashes out of the trees and runs off. Sam is amazed. The fight ends, and Faramir returns to deal with the hobbits.",
+  "film": "The film shows Faramir's men capturing the hobbits and shows Sam seeing the Haradrim ambush with an oliphaunt. Faramir takes them to Osgiliath, which does not happen in the book.",
+  "series": "",
+  "facts": {
+   "Book": "The Two Towers",
+   "Date": "7 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "NP032",
+    "role": "travelled",
+    "note": "Frodo and Sam enter the green land of Ithilien and meet Faramir's Rangers here."
+   }
+  ],
+  "related": [
+   "person:faramir",
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:gollum",
+   "person:damrod",
+   "person:mablung-of-ithilien",
+   "people:haradrim",
+   "people:men-of-gondor",
+   "journey:frodo"
+  ],
+  "sources": [
+   "The Two Towers, Book IV, chapter 4"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:tt-4-05",
+  "title": "The Window on the West",
+  "group": "The Two Towers",
+  "kind": "Book IV, chapter 5",
+  "aka": [],
+  "blurb": "Faramir takes Frodo and Sam to Henneth Annûn and learns about the Ring, but he refuses to take it.",
+  "book": "After the battle Faramir questions Frodo. He asks about Isildur's Bane and about Boromir. Frodo answers with care and hides the truth about the Ring. Faramir says that he saw Boromir's body pass down the Anduin in a grey boat. He had also heard his brother's horn far away. He grieves for him.\n\nThe Rangers then lead the hobbits blindfolded to Henneth Annûn, a cave behind a waterfall. Its window looks west into the sunset. Before the evening meal the men stand in silence and face west, toward Númenor and the lands beyond. Frodo and Sam eat well.\n\nAfterward Faramir speaks of Gondor, of Rohan and of the slow decline of his people. Then Sam blurts out that Boromir wanted the Ring. Faramir now knows that the One Ring is near and in his power. But he keeps his earlier word that he would not take it, even if he found it by the road. He sees the strain on Frodo and lets him rest, and he promises to help them.",
+  "film": "The film has Faramir try to bring the Ring to Gondor and take the hobbits to Osgiliath. In the book he refuses the Ring from the start.",
+  "series": "",
+  "facts": {
+   "Book": "The Two Towers",
+   "Date": "7 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "CA008",
+    "role": "other",
+    "note": "Henneth Annûn is the secret refuge of Faramir's Rangers."
+   },
+   {
+    "id": "NP032",
+    "role": "other",
+    "note": "The hideout lies in North Ithilien."
+   }
+  ],
+  "related": [
+   "person:faramir",
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:boromir",
+   "person:damrod",
+   "person:mablung-of-ithilien",
+   "person:isildur",
+   "thing:one-ring"
+  ],
+  "sources": [
+   "The Two Towers, Book IV, chapter 5"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:tt-4-06",
+  "title": "The Forbidden Pool",
+  "group": "The Two Towers",
+  "kind": "Book IV, chapter 6",
+  "aka": [],
+  "blurb": "Faramir finds Gollum fishing in the Forbidden Pool, spares him at Frodo's plea, and warns Frodo about Cirith Ungol.",
+  "book": "In the night Faramir wakes Frodo and leads him to the edge of the falls. In the moonlight Gollum is fishing in the pool below. Death is the penalty for any stranger found at this pool. Archers wait for Faramir's command to shoot.\n\nFrodo begs Faramir to spare Gollum, who is his guide. Faramir agrees, if Frodo can bring the creature in. Frodo goes down to the pool and calls Gollum softly. Gollum comes to him, and the Rangers seize him. Gollum feels that his master has tricked him, and he does not forget it.\n\nFaramir questions Gollum. Gollum swears never to come back to the pool. Faramir spares his life and lets him go on with the hobbits, under Frodo's care.\n\nFaramir asks where Gollum is leading them. When he hears the name Cirith Ungol, he is alarmed. He warns Frodo that the pass has a dark name and that Gollum may lead him to harm. Frodo answers that he has no other road. Faramir gives Frodo and his companions leave to walk freely in Gondor for a time.",
+  "film": "The film has Faramir's men catch Gollum at the pool beside Henneth Annûn.",
+  "series": "",
+  "facts": {
+   "Book": "The Two Towers",
+   "Date": "Night of 7 to 8 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "CA008",
+    "role": "other",
+    "note": "Faramir and Frodo watch Gollum from the hidden refuge."
+   },
+   {
+    "id": "NP028",
+    "role": "other",
+    "note": "Gollum is caught fishing in this pool below the falls."
+   }
+  ],
+  "related": [
+   "person:faramir",
+   "person:frodo-baggins",
+   "person:gollum",
+   "person:mablung-of-ithilien",
+   "journey:frodo"
+  ],
+  "sources": [
+   "The Two Towers, Book IV, chapter 6"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:tt-4-07",
+  "title": "Journey to the Cross-roads",
+  "group": "The Two Towers",
+  "kind": "Book IV, chapter 7",
+  "aka": [],
+  "blurb": "Frodo, Sam, and Gollum travel through Ithilien to the Cross-roads, where Sam sees a sign of hope.",
+  "book": "In the morning Faramir gives the hobbits food and staves of wood. His men lead them, blindfolded, back toward the road, and Faramir bids them farewell. Gollum leads them south through the woods of Ithilien, off the road. A strange darkness begins to grow in the sky, and the land falls silent.\n\nAt dusk on the second day they reach the Cross-roads, where four roads meet inside a ring of great trees. The road west goes to Osgiliath. The road north runs back to the Morannon. The road south leads toward Harad. The road east climbs to Minas Morgul. Beside the crossing sits the great stone statue of an ancient king. Orcs have knocked off its head and put a crude carved stone in its place, painted with a red eye.\n\nFrodo sees the old head lying by the roadside. It wears a crown of small white and yellow flowers, and a ray of the setting sun shines upon it. The hobbits take it as a sign that evil does not rule forever. Then darkness falls, and the three turn east along the road to the Morgul Vale.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Book": "The Two Towers",
+   "Dates": "8 to 9 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "NP027",
+    "role": "other",
+    "note": "The hobbits rest at the Cross-roads and see the broken statue of the king."
+   },
+   {
+    "id": "NP032",
+    "role": "travelled",
+    "note": "They travel at night through the woods of Ithilien."
+   },
+   {
+    "id": "TO064",
+    "role": "other",
+    "note": "The eastern road runs toward Minas Morgul."
+   }
+  ],
+  "related": [
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:gollum",
+   "person:faramir",
+   "realm:ithilien",
+   "journey:frodo"
+  ],
+  "sources": [
+   "The Two Towers, Book IV, chapter 7"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:tt-4-08",
+  "title": "The Stairs of Cirith Ungol",
+  "group": "The Two Towers",
+  "kind": "Book IV, chapter 8",
+  "aka": [],
+  "blurb": "The hobbits see Minas Morgul and the Witch-king's army, climb the stairs toward Cirith Ungol, and Gollum almost repents.",
+  "book": "Gollum leads the hobbits into the Morgul Vale. Minas Morgul stands there under the mountains and glows with a pale, sickly light. A white bridge crosses a foul stream to its gate, and the pale flowers by the stream smell of decay. Frodo feels a pull toward the bridge and starts toward it. Gollum and Sam drag him back.\n\nThen a red flash lights the sky over Mordor, and the gate of the city opens. The Witch-king rides out at the head of a great army. He halts on the bridge as if he senses something. Frodo feels a will that urges him to put on the Ring, but his hand finds the Phial of Galadriel instead. The Witch-king rides on, and the army marches west toward Gondor. Frodo despairs for Faramir and Gondor, but he goes on.\n\nGollum leads them up the Straight Stair and then the Winding Stair. At the top they rest in a cleft. Sam talks about old tales and how the people in them did not choose their roads. He wonders whether their own tale will be told one day, and Frodo laughs.\n\nFrodo falls asleep with his head in Sam's lap, and Sam dozes. Gollum returns from a secret errand. He looks at the sleeping Frodo and almost repents, and he gently touches Frodo's knee. Sam wakes and speaks to him harshly. The moment passes, and Gollum turns cold again.",
+  "film": "The Return of the King film shows the hobbits at Minas Morgul and on the stairs of Cirith Ungol. The Witch-king's army marches from the city, and the hobbits then climb the stair with Gollum.",
+  "series": "",
+  "facts": {
+   "Book": "The Two Towers",
+   "Dates": "10 to 11 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "VA013",
+    "role": "travelled",
+    "note": "The hobbits cross this valley under the shadow of Minas Morgul."
+   },
+   {
+    "id": "TO064",
+    "role": "other",
+    "note": "Frodo feels drawn toward the dead city with its pale tower."
+   },
+   {
+    "id": "RD040",
+    "role": "travelled",
+    "note": "The hobbits begin their climb on the Straight Stair."
+   },
+   {
+    "id": "RD043",
+    "role": "travelled",
+    "note": "Above lies the Winding Stair, which leads to the high pass."
+   },
+   {
+    "id": "VA034",
+    "role": "other",
+    "note": "The stairs lead to the high pass of Cirith Ungol."
+   }
+  ],
+  "related": [
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:gollum",
+   "person:witch-king",
+   "thing:one-ring",
+   "thing:phial-of-galadriel",
+   "people:nazgul",
+   "journey:frodo"
+  ],
+  "sources": [
+   "The Two Towers, Book IV, chapter 8"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:tt-4-09",
+  "title": "Shelob's Lair (chapter)",
+  "group": "The Two Towers",
+  "kind": "Book IV, chapter 9",
+  "aka": [
+   "Shelob's Lair"
+  ],
+  "blurb": "Gollum leads the hobbits into Shelob's tunnel, then attacks Sam while Shelob stings Frodo, and Sam drives Shelob off.",
+  "book": "Gollum leads Frodo and Sam to a dark opening above the stairs. It is the entrance to Torech Ungol, Shelob's Lair. The air inside is foul, and the darkness is thick. Gollum slips away. Frodo and Sam go on alone and feel their way. They hear something move in a side passage.\n\nSam remembers the Phial of Galadriel. Frodo lifts it, and it blazes with light. Many clustered eyes appear before them and then draw back. Frodo cries out in Elvish, and the hobbits press forward. They find the way out blocked by a great web. Frodo cuts it with Sting and runs out toward the pass, wild with joy.\n\nSam follows more slowly. He sees Shelob come out of another hole and creep after Frodo. Before he can warn him, Gollum seizes Sam from behind. Sam fights him off and strikes him with his staff, and Gollum flees back into the tunnel.\n\nSam runs on and finds Frodo stung and bound in cords by Shelob. He snatches up Sting and attacks her. He stabs one of her eyes. She tries to crush him, and Sting pierces deep into her body. He raises the Phial, and its light drives her back. Wounded, she crawls away into her hole.",
+  "film": "In The Return of the King (2003), Frodo enters the lair without Sam, because Gollum has tricked Frodo into sending Sam away. Sam returns later and fights Shelob.",
+  "series": "",
+  "facts": {
+   "Book": "The Two Towers",
+   "Dates": "12 to 13 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "CA013",
+    "role": "other",
+    "note": "The hobbits are trapped in Shelob's tunnel."
+   },
+   {
+    "id": "VA034",
+    "role": "travelled",
+    "note": "Frodo runs out toward this pass after he cuts the web."
+   }
+  ],
+  "related": [
+   "person:shelob",
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:gollum",
+   "thing:phial-of-galadriel",
+   "thing:sting",
+   "thing:one-ring",
+   "journey:frodo"
+  ],
+  "sources": [
+   "The Two Towers, Book IV, chapter 9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:tt-4-10",
+  "title": "The Choices of Master Samwise",
+  "group": "The Two Towers",
+  "kind": "Book IV, chapter 10",
+  "aka": [],
+  "blurb": "Sam takes the Ring, overhears Orcs say that Frodo lives, and runs after them as the tower's under-gate slams shut.",
+  "book": "Sam finds Frodo cold and still, and he believes that his master is dead. He weeps. Then he thinks hard about what he must do. He decides that the quest must not fail. He takes the Ring from Frodo's neck. He also takes Sting and the Phial, and he leaves his own sword beside Frodo. Then he walks toward the pass alone.\n\nSoon he hears Orcs coming from both sides. He puts on the Ring to hide. It sharpens his hearing, and he can understand the speech of the Orcs. The Orcs find Frodo's body. Sam overhears two captains, Shagrat of the Tower and Gorbag of Minas Morgul, as they carry Frodo away. He learns that Shelob's sting does not kill. Her victims only lie senseless for a time. Frodo is alive.\n\nSam curses himself for leaving his master and runs after them. The Orcs carry Frodo through a passage to the under-gate of the Tower of Cirith Ungol. Sam reaches it just as the great doors slam shut. He throws himself against them and falls senseless. The Orcs now hold Frodo in their tower.",
+  "film": "The Return of the King film has Sam follow the Orcs to the tower. The order and details differ from the book.",
+  "series": "",
+  "facts": {
+   "Book": "The Two Towers",
+   "Date": "13 March T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "FT025",
+    "role": "other",
+    "note": "The Orcs carry Frodo into this tower, and the under-gate shuts on Sam."
+   },
+   {
+    "id": "VA034",
+    "role": "other",
+    "note": "Sam makes his choice near this high pass."
+   },
+   {
+    "id": "CA013",
+    "role": "other",
+    "note": "The Orcs carry Frodo through the tunnels from Shelob's Lair."
+   }
+  ],
+  "related": [
+   "person:samwise-gamgee",
+   "person:frodo-baggins",
+   "person:shagrat",
+   "person:gorbag",
+   "person:shelob",
+   "thing:one-ring",
+   "thing:phial-of-galadriel",
+   "journey:frodo"
+  ],
+  "sources": [
+   "The Two Towers, Book IV, chapter 10"
+  ],
+  "confidence": "medium"
+ }
+]

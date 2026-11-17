@@ -162,6 +162,39 @@ ol.stages li:hover{background:rgba(255,250,232,.6)}
 #about p,#about li{font-size:14px;margin:5px 0}#about ul{padding-left:18px;margin:4px 0}
 #about a{color:var(--red)}
 kbd{font:12px -apple-system,sans-serif;border:1px solid var(--edge);border-radius:3px;padding:0 5px;background:#fbf3d8}
+.lorelist a{display:block;padding:2px 0 2px 8px;font-size:13.5px;line-height:1.3;cursor:pointer;border-left:2px solid rgba(123,96,56,.3);margin:1px 0}.lorelist a:hover{color:var(--red);border-color:var(--red)}
+.pn{display:flex;justify-content:space-between;gap:12px;margin:14px 0 0;font-size:13px}.pn a{color:#7a2a1a;cursor:pointer;border-bottom:1px dotted #7a2a1a;max-width:48%}
+#results a .ty-lore{color:var(--gold)}
+#btn-ask{display:block;width:100%;margin-top:8px;padding:6px 10px;background:var(--ink);color:var(--paper);border:1px solid var(--ink);border-radius:2px;font:14.5px var(--serif);letter-spacing:.03em;cursor:pointer}
+#btn-ask:hover{background:var(--red);border-color:var(--red)}
+#chat{position:fixed;left:18px;top:18px;bottom:18px;width:min(406px,calc(100vw - 36px));display:flex;flex-direction:column;z-index:6;transform:translateX(-470px);transition:transform .35s;visibility:hidden}
+body.chat #chat{transform:none;visibility:visible}
+#chat>header{display:flex;align-items:baseline;gap:8px;padding:14px 16px 10px;border-bottom:1px solid rgba(123,96,56,.5)}
+#chat h2{font:400 23px/1 "Luminari","Hoefler Text",var(--serif);margin:0;flex:1;color:#2a1c12}#chat h2 small{display:block;font:italic 12.5px var(--serif);color:var(--ink2);margin-top:5px}
+#chat header button{font:13px var(--serif);padding:3px 9px;background:rgba(255,250,232,.6);border:1px solid var(--edge);border-radius:2px;color:var(--ink);cursor:pointer}#chat header button:hover{background:#fffaea}
+#chat-x{font-size:20px!important;line-height:1;padding:0 8px 2px!important}
+#chat-setup{display:none;padding:10px 16px 12px;border-bottom:1px solid rgba(123,96,56,.5);background:rgba(255,250,232,.35);font-size:13.5px;overflow-y:auto;max-height:62%}
+#chat-setup.open{display:block}#chat-setup p{margin:6px 0}
+#chat-setup .fld{display:block;margin:8px 0 4px;font-variant:small-caps;letter-spacing:.08em;color:var(--ink2)}
+#chat-setup input[type=password],#chat-setup select{display:block;width:100%;margin-top:3px;padding:6px 8px;border:1px solid var(--edge);border-radius:2px;background:#fffaea;font:14px var(--serif);color:var(--ink);letter-spacing:0;font-variant:normal}
+#chat-setup button{font:13.5px var(--serif);padding:4px 12px;border:1px solid var(--edge);border-radius:2px;background:rgba(255,250,232,.7);color:var(--ink);cursor:pointer}
+#chat-save{background:var(--red)!important;color:#fbf0d2!important;border-color:#5e1c10!important}.row2{display:flex;gap:8px}
+.fine{font-size:12px;color:var(--ink2);line-height:1.35}.fine a{color:var(--red)}#chat-setmsg{color:var(--red)}#chat-setmsg:empty{display:none}
+#chat-log{flex:1;overflow-y:auto;padding:12px 16px 6px}
+.msg{margin:0 0 12px}.msg p{margin:5px 0}.msg ul,.msg ol{margin:5px 0;padding-left:20px}.msg li{margin:2px 0}
+.msg.you{margin-left:34px;padding:6px 10px;background:rgba(51,37,26,.09);border-radius:8px 8px 2px 8px;font-style:italic}
+.msg.bot .part{padding-left:11px;border-left:3px solid var(--ink2);margin:0 0 8px}
+.msg.bot .part.beyond{border-left:3px dashed var(--gold);background:rgba(160,124,52,.09);padding:6px 8px 4px 11px}
+.msg.bot .part.beyond>.tag{background:var(--gold)}.msg.bot .part.beyond>small{display:block;margin:3px 0 2px;font-size:11.5px;font-style:italic;color:var(--ink2)}
+.msg .chip.cite{font-size:11.5px;padding:0 6px;margin:0 1px;vertical-align:1px;background:rgba(255,250,232,.75)}.msg .chip.cite.named{font-size:inherit;padding:0 5px;border-radius:3px;vertical-align:0;border-style:dotted;border-color:#7a2a1a;color:#6a2114}.msg .chip.cite:hover{color:#fbf0d2}
+.msg .wait{font-style:italic;color:var(--ink2)}.msg .meta{font-size:11px;color:#8a7a5e;margin-top:6px}
+.msg.err{padding:6px 10px;border:1px solid var(--red);border-radius:3px;color:#6a1a0e;background:rgba(142,47,31,.07)}
+.mapbtn,.ideas button{font:13px var(--serif);padding:4px 11px;border:1px solid var(--edge);border-radius:2px;background:rgba(255,250,232,.7);color:var(--ink);cursor:pointer}.mapbtn{background:var(--ink);color:var(--paper);border-color:var(--ink)}.mapbtn:hover{background:var(--red);border-color:var(--red)}
+.ideas{display:flex;flex-direction:column;gap:5px;align-items:flex-start;margin-top:8px}.ideas button:hover{background:#fffaea}
+#chat-form{display:flex;gap:8px;padding:8px 16px 4px;border-top:1px solid rgba(123,96,56,.5)}#chat-form.off{opacity:.45;pointer-events:none}
+#chat-in{flex:1;resize:none;padding:7px 9px;border:1px solid var(--edge);border-radius:2px;background:rgba(255,250,232,.7);font:15px/1.35 var(--serif);color:var(--ink);outline:none}#chat-in:focus{background:#fffaea;box-shadow:0 0 0 2px rgba(142,47,31,.25)}
+#chat-send{align-self:stretch;min-width:58px;font:14px var(--serif);background:var(--red);color:#fbf0d2;border:1px solid #5e1c10;border-radius:2px;cursor:pointer}
+#chat .foot{margin:0;padding:2px 16px 10px;font-size:11.5px;color:var(--ink2);font-style:italic}
 #loading{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;color:#d9c9a0;font:italic 20px var(--serif);background:#1a120b;z-index:30;transition:opacity .6s}
 body.ready #loading{opacity:0;pointer-events:none}
 .hide{display:none}
@@ -176,6 +209,7 @@ body.ready #loading{opacity:0;pointer-events:none}
     <h1><span id="land-name">Middle-earth</span><small id="land-sub">An explorer's map of the Third Age</small></h1>
     <nav id="lands"></nav>
     <input id="q" type="search" placeholder="Search people, places, things…  ( / )" autocomplete="off" spellcheck="false">
+    <button id="btn-ask" data-chat title="Ask the AI assistant a question">Ask the loremaster</button>
     <p id="land-note" class="hide">Modelled terrain: made for this map from the book descriptions. Positions are approximate.</p>
     <div id="results"></div>
   </header>
@@ -200,6 +234,7 @@ body.ready #loading{opacity:0;pointer-events:none}
     </details>
     <details><summary>Persons and creatures</summary><div id="personlist" class="groups"></div></details>
     <details><summary>Things</summary><div id="thinglist" class="groups"></div></details>
+    <details><summary>Lore and history</summary><div id="lorelist" class="groups"></div></details>
     <details><summary>Peoples</summary><div id="peoples" class="chips"></div></details>
     <details><summary>Battles</summary>
       <label class="ck"><input type="checkbox" data-layer="battles" checked>Show on the map</label>
@@ -215,6 +250,14 @@ body.ready #loading{opacity:0;pointer-events:none}
 </aside>
 <button id="btn-panel">Show panel</button>
 
+<aside id="chat" class="sheet" aria-label="The loremaster, an AI assistant">
+  <header><h2>The loremaster<small>An AI assistant for this map</small></h2><button id="chat-new" title="Start a new conversation">New</button><button id="chat-set" title="API key and model">Key</button><button id="chat-x" title="Close">&times;</button></header>
+  <div id="chat-setup"></div>
+  <div id="chat-log"></div>
+  <form id="chat-form"><textarea id="chat-in" rows="2" placeholder="Ask about a person, a place, a thing, or an event…"></textarea><button id="chat-send" type="submit">Ask</button></form>
+  <p class="foot">An AI model writes the answers. It can make errors. The cards are the reviewed source.</p>
+</aside>
+
 <article id="card" class="sheet"></article>
 
 <div id="jbar" class="sheet">
@@ -222,7 +265,7 @@ body.ready #loading{opacity:0;pointer-events:none}
   <div id="jstage"></div><div id="jnote"></div>
 </div>
 
-<div class="tools"><button id="btn-home" title="Show the whole map">Whole map</button><button id="btn-north" title="Turn north to the top">North up</button><button id="btn-panel2" title="Hide or show the left panel">Panel</button></div>
+<div class="tools"><button data-chat title="Ask the AI assistant a question">Ask</button><button id="btn-home" title="Show the whole map">Whole map</button><button id="btn-north" title="Turn north to the top">North up</button><button id="btn-panel2" title="Hide or show the left panel">Panel</button></div>
 
 <div id="about"><div class="sheet">
   <h2>About this map</h2>
@@ -232,12 +275,18 @@ body.ready #loading{opacity:0;pointer-events:none}
   <li><b>Click</b> a name to open its card. <b>Double-click</b> a name or the land to fly there.</li>
   <li><b>Search</b> finds persons, creatures, things, places, realms, battles, and journeys on both sheets.</li>
   <li>When you open a <b>person</b> or a <b>thing</b>, the map marks each linked place in red. A small tag shows the link, for example <em>born</em>, <em>ruled</em>, or <em>died</em>. The buttons on the card move the map to each place.</li>
+  <li><b>Lore and history</b> in the left panel holds chapter summaries, dated timelines, family lines, lands that are not on these sheets, notes on the films and the series, and answers to questions that readers often ask.</li>
   <li><kbd>/</kbd> search &nbsp; <kbd>Esc</kbd> close &nbsp; <kbd>space</kbd> play a journey &nbsp; <kbd>←</kbd> <kbd>→</kbd> journey stages</li></ul>
   <h3>How to read the cards</h3>
   <ul><li><span class="tag">Book</span> text gives only what Tolkien's published books say.</li>
   <li><span class="tag f">Film</span> text gives what the Peter Jackson films show or change. <span class="tag" style="background:var(--gold)">Series</span> text gives the same for <em>The Rings of Power</em>.</li>
   <li>Places added in the last update have no survey data. Their positions come from the books and are approximate.</li>
   <li>An AI model (Claude) wrote the card text in its own words and a second pass reviewed it. Errors are possible. Each card shows a confidence level and where to read more.</li></ul>
+  <h3>The loremaster (AI assistant)</h3>
+  <ul><li>Select <b>Ask the loremaster</b> to ask a question in your own words. The assistant is an AI model (Claude, made by Anthropic). It needs an internet connection and your own Anthropic API key. Anthropic bills each question to your account.</li>
+  <li>The key stays in this browser. The page sends it only to api.anthropic.com, with your question and the text of the cards that fit it. Select <b>Key</b>, then <b>Forget key</b>, to remove it.</li>
+  <li>Text below <span class="tag">From the cards</span> comes from the cards of this map; each small button opens its source card. Text below <span class="tag" style="background:var(--gold)">Beyond the cards</span> comes from the model's own knowledge. No one reviewed it. Check it against the books.</li>
+  <li><b>Show these places on the map</b> marks the places of an answer in red.</li></ul>
   <h3>Map data and credit</h3>
   <p>Terrain and map layers: Rose, Robert A. (2020), <em>GIS &amp; Middle Earth Presentation &amp; Data Set</em>, William &amp; Mary, <a href="https://doi.org/10.21220/RKEZ-X707">doi.org/10.21220/RKEZ-X707</a>, built on the work of the ME-DEM project. License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0. The reduced terrain and the vector layers in this file are an adaptation of that data set and keep the same license.</p>
   <p>Beleriand: no survey data exists for this land. The terrain is an original model made for this map from the descriptions in <em>The Silmarillion</em>, <em>Unfinished Tales</em> and <em>The Children of Húrin</em>. It follows the distances that the books give, but positions are approximate.</p>

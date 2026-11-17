@@ -191,6 +191,34 @@ for it in lore:
     for p in it.get('places', []):
         L = items[p['id']].setdefault('linked', [])
         if it['id'] not in L: L.append(it['id'])
+# ---- knowledge entries (new/know): chapters, timelines, ideas, lands off the map, lists, screen versions, questions ----
+KNOW = ['hob', 'fotr', 'tt', 'rotk', 'silm', 'ut', 'time_a', 'time_b', 'idea_a', 'idea_b', 'land', 'line', 'screen', 'faq']
+ORDERED = {'The Hobbit', 'The Fellowship of the Ring', 'The Two Towers', 'The Return of the King', 'The Silmarillion', 'Timeline'}
+know = []
+for n in KNOW:
+    f = R + '/new/know/lore_' + n + '.json'
+    if not os.path.exists(f): warn.append('no knowledge file ' + f); continue
+    for c in json.load(open(f)):
+        if c['id'] in items: warn.append(f"knowledge id clash {c['id']}"); continue
+        it = {k: c[k] for k in LORE_KEYS if c.get(k) not in (None, '', [], {})}; it['type'] = 'lore'; it['land'] = None; it['ord'] = len(know)
+        pl = []
+        for p in c.get('places') or []:
+            t = items.get(p.get('id'))
+            if not t or t['type'] not in ('place', 'realm', 'battle'): warn.append(f"{c['id']}: unknown place ref {p.get('id')!r}"); continue
+            if any(q['id'] == p['id'] for q in pl): continue
+            pl.append({k: p[k] for k in ('id', 'role', 'note') if p.get(k)})
+        if pl: it['places'] = pl
+        it['_rel'] = c.get('related') or []
+        items[c['id']] = it; know.append(it)
+for a, b in zip(know, know[1:]):
+    if a['group'] == b['group'] and a['group'] in ORDERED: a['next'] = b['id']; b['prev'] = a['id']
+for it in know:
+    rel = [r for r in dict.fromkeys(it.pop('_rel')) if r in items and r != it['id']]
+    if rel: it['related'] = rel
+    for p in it.get('places', []):
+        L = items[p['id']].setdefault('lorelinks', [])
+        if it['id'] not in L: L.append(it['id'])
+print('knowledge entries', len(know), dict(Counter(i['group'] for i in know)), '| places with lore links', sum(1 for i in items.values() if i.get('lorelinks')))
 for it in items.values():   # place and battle cards may point to persons and things; drop refs that do not exist
     if it.get('related'): it['related'] = [r for r in it['related'] if r in items]
 print('expansion: new places', nplaces, '| persons', sum(1 for i in lore if i['type'] == 'person'), '| things', sum(1 for i in lore if i['type'] == 'thing'), '| places with links', sum(1 for i in items.values() if i.get('linked')))

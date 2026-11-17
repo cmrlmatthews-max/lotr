@@ -1,0 +1,1424 @@
+[
+ {
+  "id": "lore:idea-a-eru",
+  "title": "Eru Ilúvatar",
+  "group": "Powers, peoples and ideas",
+  "kind": "The one God of Arda",
+  "aka": [
+   "Ilúvatar",
+   "The One",
+   "Allfather"
+  ],
+  "blurb": "Eru is the single creator of Eä in Tolkien's world, who made the Ainur, the Elves and Men.",
+  "book": "Eru, also called Ilúvatar, is the one creator in Tolkien's legendarium. The Silmarillion begins with him. He first made the Ainur from his own thought and gave them themes of music to sing.\n\nHe then showed them a vision of the world made from their music. When they wished to see it real, he gave it being. That world is Eä. The Elves and Men, the Children of Ilúvatar, came from his own design and not from the Ainur.\n\nEru does not rule openly. The Valar act as stewards of Arda. They may guide the Children, but they must not dominate them. Eru acts directly only at times of great need. The chief case is the Downfall of Númenor. The Valar laid down their guardianship and asked him to act. He changed the shape of the world.\n\nThe main story of The Lord of the Rings never names him. Appendix A speaks only of the One. Several scenes imply a hidden providence, such as Gandalf's remark that Bilbo was meant to find the Ring. The books never state plainly that Eru caused these events.\n\nThe Silmarillion also says that Eru can turn the evil of Melkor to good ends that Melkor did not intend.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Name meaning": "Eru means The One; Ilúvatar means Father of All",
+   "Main source": "The Silmarillion, Ainulindalë"
+  },
+  "places": [],
+  "related": [
+   "person:manwe",
+   "person:morgoth",
+   "person:sauron",
+   "person:ar-pharazon",
+   "person:gandalf"
+  ],
+  "sources": [
+   "The Silmarillion, Ainulindalë",
+   "The Silmarillion, Akallabêth",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:idea-a-ainur-valar-maiar",
+  "title": "The Ainur: Valar and Maiar",
+  "group": "Powers, peoples and ideas",
+  "kind": "The first spirits and their two orders",
+  "aka": [
+   "Holy Ones",
+   "Powers of Arda",
+   "Valar",
+   "Maiar"
+  ],
+  "blurb": "The Ainur are the spirits made before the world. The greater ones are the Valar and the lesser ones are the Maiar.",
+  "book": "The Ainur are spirits that Eru made before the world began. Many of them entered Eä to shape it. The greater of these are the Valar, the Powers. The lesser are the Maiar, who serve them.\n\nThe Silmarillion names fourteen Valar, seven lords and seven queens, with Melkor counted apart as the fallen one. The lords are Manwë, Ulmo, Aulë, Oromë, Mandos, Lórien and Tulkas. The queens are Varda, Yavanna, Nienna, Estë, Vairë, Vána and Nessa. Eight of them, the Aratar, are called the highest. Some texts differ in small points of this list.\n\nThe Maiar include Eönwë, Melian, Ossë, Uinen, Arien and Tilion. Sauron, the Balrogs and the Istari are also Maiar, though Sauron and the Balrogs were corrupted by Melkor.\n\nThe Ainur may take bodily shapes in Arda. They can wear forms like Elves and Men, but these forms are not the same as the bodies of the Children. After the Downfall of Númenor, the Valar do not act openly in Middle-earth. The Maiar act in smaller ways.\n\nThe books do not give a full list of the Maiar. Many are named only once.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Valar": "Fourteen named, plus Melkor",
+   "Highest": "The Aratar, eight in number",
+   "Source": "The Silmarillion, Valaquenta"
+  },
+  "places": [],
+  "related": [
+   "person:manwe",
+   "person:varda",
+   "person:aule",
+   "person:ulmo",
+   "person:melian",
+   "person:eonwe",
+   "person:sauron",
+   "person:gandalf"
+  ],
+  "sources": [
+   "The Silmarillion, Ainulindalë and Valaquenta"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-arda-and-ea",
+  "title": "Arda and Eä: the Shape of the World",
+  "group": "Powers, peoples and ideas",
+  "kind": "The world, its universe, and its change",
+  "aka": [
+   "Arda",
+   "Eä",
+   "The Straight Road",
+   "Round World"
+  ],
+  "blurb": "Eä is the whole created universe. Arda is the world within it, which changed shape when Númenor fell.",
+  "book": "Eä is the name for the whole universe that Eru called into being. Arda is the world, the realm of Elves and Men, set within Eä. The name Arda means the Realm.\n\nIn the Silmarillion account, Arda was at first a flat world, lit by the two Lamps of the Valar. Melkor threw down the Lamps. The Valar then moved to Aman in the west, and the Two Trees lit Valinor. Middle-earth lay in the dark to the east, beyond the great Sea. Later Melkor and Ungoliant killed the Trees.\n\nAt the Downfall of Númenor in S.A. 3319, Eru changed the world. Aman and Tol Eressëa were taken from the circles of the world. Arda became round. A single Straight Road remained, and only Elves or those the Valar permitted could take it.\n\nMortal sailors who went west afterward went round the curved earth and found nothing.\n\nTolkien later wrote essays that doubt this older picture, and he tried other ideas about the sun and the stars. These essays were published after his death in his collected papers. The published Silmarillion keeps the older picture.\n\nThe Silmarillion says that Arda is marred. It also speaks of a greater Music after the end of days. Later writings speak of a Last Battle and of Arda remade, but the published books give only hints.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Eä": "The whole universe",
+   "Arda": "The world of Elves and Men",
+   "Date of change": "S.A. 3319"
+  },
+  "places": [],
+  "related": [
+   "person:manwe",
+   "person:ar-pharazon",
+   "thing:two-trees",
+   "thing:lamps-of-the-valar",
+   "person:ulmo"
+  ],
+  "sources": [
+   "The Silmarillion, Ainulindalë",
+   "The Silmarillion, Akallabêth",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-undying-lands",
+  "title": "The Undying Lands",
+  "group": "Powers, peoples and ideas",
+  "kind": "Aman, Eressëa and the Straight Road",
+  "aka": [
+   "Aman",
+   "Valinor",
+   "Blessed Realm",
+   "Tol Eressëa",
+   "The West"
+  ],
+  "blurb": "The Undying Lands are the western lands of Aman where the Valar live and where Elves and certain mortals may sail.",
+  "book": "The Undying Lands is the name for the western continent Aman and the island of Tol Eressëa nearby. The Valar live in Valinor, a realm in Aman. In the Years of the Trees the Vanyar, the Noldor and many Teleri lived there, and later many Elves of Middle-earth sailed there.\n\nThe name does not mean that the land makes mortals deathless. The Akallabêth says that a mortal who goes there does not gain immortality. The Elves who live there stay deathless, as they do everywhere in Arda.\n\nAfter S.A. 3319, only Elven ships on the Straight Road could reach Aman. All others who sailed west went round the world. The Valar let a few mortals take that road. Frodo and Bilbo left in T.A. 3021, as Ring-bearers. Frodo had wounds that would not heal. Sam, also a Ring-bearer for a time, followed in S.R. 1482. Appendix A records a report that Gimli sailed with Legolas, out of his wish to see Galadriel again.\n\nThe Grey Havens is the port of departure in the Third Age. The Elves sail from it as their time in Middle-earth fades.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Parts": "Aman, with Valinor and Eressëa",
+   "Mortals who sailed": "Frodo, Bilbo, Sam (late), Gimli",
+   "Port": "The Grey Havens"
+  },
+  "places": [
+   {
+    "id": "TO043",
+    "role": "other",
+    "note": "Ships sail from the Grey Havens on the Straight Road to the West."
+   }
+  ],
+  "related": [
+   "person:frodo-baggins",
+   "person:bilbo-baggins",
+   "person:gimli",
+   "person:manwe",
+   "person:varda",
+   "thing:two-trees",
+   "person:legolas"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book VI, chapter 9",
+   "The Lord of the Rings, Appendix A and Appendix B",
+   "The Silmarillion, Akallabêth"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-mandos-and-elves",
+  "title": "The Halls of Mandos and the Fate of Elves",
+  "group": "Powers, peoples and ideas",
+  "kind": "What happens when an Elf dies",
+  "aka": [
+   "Halls of Waiting",
+   "Mandos",
+   "Re-embodiment"
+  ],
+  "blurb": "The Elves cannot die of age but may be slain, and their spirits then wait in the Halls of Mandos.",
+  "book": "Elves are bound to the world and live as long as Arda lasts. They do not die of age. They can be slain, or they can fade from grief and weariness.\n\nWhen an Elf is slain, the spirit leaves the body and goes to the Halls of Mandos in the West. There the Elf waits. Mandos, the Vala of doom and the dead, judges each spirit. Some spirits wait a long time before they may be given a new body.\n\nThe Silmarillion tells of a special case. Lúthien died of grief and came before Mandos. Her song moved him, and she and Beren were both allowed to live again.\n\nTolkien's later writings give more. They say that a few Elves, such as Glorfindel of Gondolin, were sent back to Middle-earth in new bodies. The Lord of the Rings itself does not say this. The Silmarillion says that the spirit of Fëanor has never left the Halls.\n\nThe books never describe the Halls in detail. They say only that Mandos holds the dead of the Elves until the end.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Keeper": "Mandos (Námo)",
+   "Place": "Halls of Mandos, in Aman",
+   "Main source": "The Silmarillion, Valaquenta and Quenta Silmarillion"
+  },
+  "places": [],
+  "related": [
+   "person:mandos",
+   "person:glorfindel",
+   "person:feanor",
+   "person:beren",
+   "person:luthien"
+  ],
+  "sources": [
+   "The Silmarillion, Valaquenta",
+   "The Silmarillion, Of Beren and Lúthien",
+   "The Silmarillion, Of the Return of the Noldor"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-gift-of-men",
+  "title": "The Gift of Men",
+  "group": "Powers, peoples and ideas",
+  "kind": "Death as the fate of mortals",
+  "aka": [
+   "Doom of Men",
+   "Gift of Ilúvatar",
+   "Death of Men"
+  ],
+  "blurb": "Men die and leave the world, and the Elves are told that this is a gift from Ilúvatar.",
+  "book": "The Silmarillion says that Men are mortal by design. Ilúvatar gave them a different fate from the Elves. Their spirits leave the world after death and go where even the Valar do not know.\n\nThe Elves call this a gift. The Valar say that Men are free of the circles of the world, while the Elves are tied to it. Many Men do not see it as a gift. They fear death, and the fear is greatest among the Númenóreans, who lived longer than other Men.\n\nMorgoth is said to have set a shadow on the minds of Men so that they hold death in dread. Sauron used the same fear in Númenor to turn the kings against the Valar. This led to the Downfall of Númenor.\n\nThe Lord of the Rings shows the gift in a different way. Aragorn lays down his life at the age of 210 years, by his own choice. He tells Arwen to hope. Arwen dies later in Lothlórien.\n\nThe books do not say what happens to the dead of Men. Some of Tolkien's later essays, published after his death, give more detail, but the books never settle it.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Aragorn's age at death": "210 years (Fo.A. 120)",
+   "Main source": "The Silmarillion, Ainulindalë and Akallabêth"
+  },
+  "places": [],
+  "related": [
+   "person:aragorn",
+   "person:arwen",
+   "person:ar-pharazon",
+   "person:morgoth",
+   "person:sauron",
+   "person:elros"
+  ],
+  "sources": [
+   "The Silmarillion, Ainulindalë and Akallabêth",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-half-elven-choice",
+  "title": "The Half-elven and their Choice",
+  "group": "Powers, peoples and ideas",
+  "kind": "The Elven or mortal fate for half-Elves",
+  "aka": [
+   "Peredhil",
+   "Choice of Elrond and Elros",
+   "Choice of Lúthien"
+  ],
+  "blurb": "Half-elven persons must choose between the fate of Elves and the fate of Men.",
+  "book": "Some people in Tolkien's world have both Elvish and mortal ancestors. The Elves call such people Peredhil, the Half-elven. Manwë let Eärendil, Elwing and their sons choose one fate, either the fate of the Elves or the fate of Men.\n\nThe first great choice belongs to Elrond and his brother Elros, the sons of Eärendil and Elwing. Elrond chose to be counted among the Elves. Elros chose the fate of Men and became the first king of Númenor, where he lived a very long life.\n\nEärendil and Elwing also had to choose. Elwing chose the Elvish fate for the sake of Lúthien, her ancestor, and Eärendil agreed to be judged among the Elves.\n\nLúthien was not half-elven, but Mandos gave her a choice, and she chose to become mortal for the sake of Beren. Arwen chose the same for the sake of Aragorn. Her choice cost her the company of her father, who sailed West.\n\nThe Appendix tells that Elrond's sons Elladan and Elrohir stayed behind for a time. It does not tell clearly which fate they chose in the end.\n\nThe books do not explain how the Valar enforce the choice.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Elrond": "Chose the Elves",
+   "Elros": "Chose Men",
+   "Arwen": "Chose mortality",
+   "Lúthien": "Chose mortality"
+  },
+  "places": [],
+  "related": [
+   "person:elrond",
+   "person:elros",
+   "person:earendil",
+   "person:elwing",
+   "person:arwen",
+   "person:luthien",
+   "person:elladan",
+   "person:elrohir"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion and Akallabêth",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-sundering-of-elves",
+  "title": "The Sundering of the Elves",
+  "group": "Powers, peoples and ideas",
+  "kind": "The kindreds and how they divided",
+  "aka": [
+   "Vanyar",
+   "Noldor",
+   "Teleri",
+   "Sindar",
+   "Nandor",
+   "Avari"
+  ],
+  "blurb": "The Elves woke at Cuiviénen and split into many kindreds during the Great Journey and afterward.",
+  "book": "The Elves woke by the water Cuiviénen in the far East. Oromë, a Vala, found them and invited them to live in Aman. Many agreed to go, but some refused.\n\nThose who refused are the Avari, the Unwilling. The Eldar, the willing, split into three hosts. The Vanyar followed Ingwë, the Noldor followed Finwë, and the Teleri followed Elwë and Olwë. The Teleri were slow and went last.\n\nThe Vanyar and the Noldor reached Aman first. The Teleri came after, and some of them stayed behind in Middle-earth. Some of them, the Nandor, would not cross the Misty Mountains and settled in the vales of the Anduin. Long after, some Nandor came over the mountains to Ossiriand. The Sindar are those Teleri who stayed in Beleriand. Their lord Thingol, who was Elwë, had met Melian and did not go.\n\nLater the Noldor came back to Middle-earth from Aman. The Avari stayed in the East and the books say little about them.\n\nThe Silvan Elves of the Third Age are mostly of Nandor origin, with some Sindar mingled in. Tolkien changed some details of this history in later writings, so some points differ between texts.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Eldar": "Vanyar, Noldor, Teleri (with Sindar and Nandor)",
+   "Avari": "Those who did not leave",
+   "Place of waking": "Cuiviénen"
+  },
+  "places": [],
+  "related": [
+   "person:orome",
+   "person:finwe",
+   "person:thingol",
+   "person:melian",
+   "person:celeborn",
+   "people:silvan-elves",
+   "people:sindar",
+   "people:noldor"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion chapters 3 to 5",
+   "The Lord of the Rings, Appendix F"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-oath-of-feanor",
+  "title": "The Oath of Fëanor",
+  "group": "Powers, peoples and ideas",
+  "kind": "The vow that began the war on Morgoth",
+  "aka": [
+   "Fëanorian Oath",
+   "Oath of the Sons of Fëanor"
+  ],
+  "blurb": "Fëanor and his seven sons swore to pursue anyone who held a Silmaril, and the oath brought grief to the Noldor.",
+  "book": "After Morgoth stole the Silmarils and killed Finwë, Fëanor called the Noldor to Tirion. He spoke against the Valar and urged them to leave Aman. Then he and his seven sons swore an oath.\n\nThey swore to pursue with hatred anyone who held or kept a Silmaril. That could be a Vala, a demon, an Elf, or a Man not yet born. They swore by the name of Ilúvatar. They named Manwë, Varda and the holy mountain Taniquetil as witnesses. They called the Everlasting Dark on themselves if they failed.\n\nThe oath could not be undone. It drove the sons of Fëanor toward the first Kinslaying at Alqualondë. Later it drove them to attack Dior in Doriath and Elwing at the Havens of Sirion.\n\nAt the end of the First Age only Maedhros and Maglor were left. They sent to Eönwë and demanded the two Silmarils that he held. He refused, and they stole the jewels from his camp. The jewels burned their hands. Maedhros cast himself into a fiery chasm. Maglor threw his jewel into the sea and wandered along the shores.\n\nThe books do not say what became of Maglor.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Sworn by": "Fëanor and his seven sons",
+   "Place": "Tirion, in Aman",
+   "Result": "Kinslayings and ruin"
+  },
+  "places": [],
+  "related": [
+   "person:feanor",
+   "person:maedhros",
+   "person:maglor",
+   "person:curufin",
+   "person:celegorm",
+   "person:caranthir",
+   "thing:silmarils",
+   "person:eonwe"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion chapters 7 and 9",
+   "The Silmarillion, Of the Voyage of Eärendil"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-doom-of-mandos",
+  "title": "The Doom of Mandos",
+  "group": "Powers, peoples and ideas",
+  "kind": "The curse spoken on the Noldor",
+  "aka": [
+   "Prophecy of the North",
+   "Curse of the Noldor"
+  ],
+  "blurb": "A voice spoke the doom of Mandos on the Noldor as they left Aman. It foretold their long sorrow.",
+  "book": "When the Noldor reached the northern shore of Aman, a great voice spoke a doom against them. The Silmarillion links it to Mandos. It is called the Prophecy of the North. It is a prediction and a curse.\n\nThe voice said that the Valar would close Aman against the rebels. It spoke of tears without number. It said that the Noldor would kill their own kin, and that the Oath would drive them on. It said that the Noldor would be slain by weapon, torment and grief. Their spirits would go to Mandos and wait there long, and find little pity. Those who lived on would grow weary of the world and fade.\n\nFinarfin and many of his people turned back after hearing it. Fëanor and Fingolfin went on.\n\nThe doom was not the last word. In the end the Valar did send help. Eärendil sailed to Aman and begged them to pardon the exiles.\n\nMuch of the doom foretells what the Noldor's own deeds will bring. The text calls it both a prophecy and a doom.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Spoken by": "A voice linked to Mandos",
+   "Place": "The north shore of Aman (Araman)",
+   "Listener": "Fëanor, Fingolfin and the Noldor host"
+  },
+  "places": [],
+  "related": [
+   "person:mandos",
+   "person:feanor",
+   "person:fingolfin",
+   "person:finarfin",
+   "person:earendil"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion chapter 9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-three-kinslayings",
+  "title": "The Three Kinslayings",
+  "group": "Powers, peoples and ideas",
+  "kind": "Elves killing Elves",
+  "aka": [
+   "Kinslaying at Alqualondë",
+   "Kinslaying in Doriath",
+   "Kinslaying at Sirion"
+  ],
+  "blurb": "The three Kinslayings were the three times Elves killed other Elves in the First Age, all because of the Silmarils.",
+  "book": "The First Kinslaying happened at Alqualondë, the harbor of the Teleri in Aman. Fëanor asked the Teleri for ships, and they refused. His host then took the ships by force and killed many Teleri. The swan-ships were seized. The Doom of Mandos refers to this deed.\n\nThe Second Kinslaying happened in Doriath. Thingol was dead, and his heir Dior, son of Beren and Lúthien, now held the Silmaril. The sons of Fëanor demanded it, and Dior gave no answer. They attacked Menegroth. Dior slew Celegorm, and Curufin and Caranthir also fell. Dior and his wife were killed, and his young sons were left to die in the forest.\n\nThe Third Kinslaying took place at the Havens of Sirion. Maedhros, Maglor, Amrod and Amras attacked the refugees, who held the Silmaril. Amrod and Amras were slain. Elwing cast herself into the sea with the jewel, and Ulmo bore her up in the shape of a bird. Her two sons, Elrond and Elros, were taken by Maglor and spared.\n\nIn all three, Elves fought and killed Elves. The Silmarillion treats this as the great stain of the Noldor and the cause of their long sorrow.\n\nThe books do not describe the Second and Third events in great detail.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "First": "Alqualondë, in Aman",
+   "Second": "Menegroth in Doriath",
+   "Third": "The Havens of Sirion"
+  },
+  "places": [
+   {
+    "id": "b:RG07",
+    "role": "fought",
+    "note": "The Second Kinslaying fell on Menegroth in Doriath."
+   },
+   {
+    "id": "b:battle:second-kinslaying",
+    "role": "fought",
+    "note": "The Fëanorians killed Dior's household for the Silmaril."
+   },
+   {
+    "id": "b:battle:third-kinslaying",
+    "role": "fought",
+    "note": "The Third Kinslaying fell on the Havens of Sirion."
+   }
+  ],
+  "related": [
+   "person:feanor",
+   "person:maedhros",
+   "person:maglor",
+   "person:dior",
+   "person:elwing",
+   "person:thingol",
+   "thing:silmarils",
+   "thing:swan-ships",
+   "thing:nauglamir",
+   "person:elrond"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion chapters 9, 22 and 24"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-ban-of-the-valar",
+  "title": "The Bans of the Valar",
+  "group": "Powers, peoples and ideas",
+  "kind": "Forbidden roads to the West",
+  "aka": [
+   "Ban of the Valar",
+   "Ban of Manwë",
+   "Ban upon Númenor"
+  ],
+  "blurb": "The Valar placed bans that kept the Noldor and then Men from returning to Aman.",
+  "book": "Two bans of the Valar mark the history of the West. The first was laid on the Noldor who rebelled against the Valar. After the Doom of Mandos, the Valar shut Aman to them. Eärendil's mission later led to the end of this ban for the Elves.\n\nThe second ban was laid on the Númenóreans. The Valar forbade them to sail west out of sight of the island, so that they should not seek the Undying Lands. The Númenóreans were free in all else, and many sailed east. The ban was a test of trust.\n\nIn time the kings came to resent the ban. Sauron, who had come to Númenor as a prisoner, worked on the fear of death. He told Ar-Pharazôn that the ban was a lie and that the Valar wished to keep the land for themselves.\n\nAr-Pharazôn then sailed against Aman, and in S.A. 3319 he set foot there. The Valar laid down their rule, and Eru changed the world. The fleet was swallowed, and Númenor sank. This was the Downfall of Númenor.\n\nThe Akallabêth says the Valar meant the ban to keep the Númenóreans from longing for the Blessed Realm. That land could not give them deathless life.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Ban on the Noldor": "After the Doom of Mandos",
+   "Ban on Númenor": "Forbade sailing west",
+   "Consequence": "Downfall of Númenor, S.A. 3319"
+  },
+  "places": [],
+  "related": [
+   "person:ar-pharazon",
+   "person:sauron",
+   "person:manwe",
+   "person:mandos",
+   "person:tar-miriel",
+   "person:earendil"
+  ],
+  "sources": [
+   "The Silmarillion, Akallabêth",
+   "The Silmarillion, Of the Voyage of Eärendil"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-ages-of-the-world",
+  "title": "The Ages of the World",
+  "group": "Powers, peoples and ideas",
+  "kind": "How time is counted in Arda",
+  "aka": [
+   "First Age",
+   "Second Age",
+   "Third Age",
+   "Years of the Trees",
+   "Shire Reckoning"
+  ],
+  "blurb": "The Ages divide history in Arda. Each has its own count of years, and the Shire has its own calendar.",
+  "book": "Time in Arda runs through several ages. First the world was lit by the two Lamps of the Valar. After the Lamps fell, the Years of the Trees began, under the light of Telperion and Laurelin. Sun and Moon arose after the Trees died. The Elves count from this time as the Years of the Sun.\n\nThe First Age ended with the War of Wrath, and Beleriand was broken at its end. The published books give no exact length. Later annals, published after Tolkien's death, give about 590 years of the Sun.\n\nThe Second Age lasted 3441 years. It saw the rise of Númenor and Sauron and ended with the Last Alliance, when Sauron was overthrown in S.A. 3441.\n\nThe Third Age lasted 3021 years. It ended with the departure of the Three Rings. The Fourth Age began after that, in T.A. 3021. It is called the Age of Men.\n\nThe Shire Reckoning begins in T.A. 1601, so that T.A. 3019 is S.R. 1419.\n\nOther peoples count differently. The Dúnedain continued a Númenórean calendar. The Elves reckoned by long spans of 144 years. The Appendix on calendars explains these systems.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "First Age": "About 590 years of the Sun (later annals)",
+   "Second Age": "3441 years",
+   "Third Age": "3021 years",
+   "Shire Reckoning": "S.R. 1 is T.A. 1601"
+  },
+  "places": [],
+  "related": [
+   "person:sauron",
+   "person:elendil",
+   "person:isildur",
+   "person:gil-galad",
+   "person:elrond"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix B and Appendix D",
+   "The Silmarillion, Quenta Silmarillion and Akallabêth"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-making-of-rings",
+  "title": "The Making of the Rings of Power",
+  "group": "Powers, peoples and ideas",
+  "kind": "Who made them, when, and how many",
+  "aka": [
+   "Rings of Power",
+   "Gwaith-i-Mírdain",
+   "Annatar"
+  ],
+  "blurb": "Celebrimbor and the Elven-smiths of Eregion made the Rings of Power with Sauron's help, and Sauron then forged the One.",
+  "book": "The Rings of Power were made in Eregion in the Second Age. The smiths of the Gwaith-i-Mírdain, led by Celebrimbor, learned the craft from a stranger who named himself Annatar, the Lord of Gifts. He was Sauron in disguise.\n\nThe smiths made many lesser rings first. With Sauron's teaching they then made the Seven and the Nine. Celebrimbor himself made the Three, Narya, Nenya and Vilya, alone and without Sauron's help. Sauron never touched them.\n\nAround S.A. 1600 Sauron forged the One Ring in Mount Doom to rule the others. When he put it on, the Elves knew him, and took off their rings. Sauron then made war on them.\n\nHe seized the Nine and most of the Seven. He gave the Nine to Men, who became the Nazgûl. He gave the Seven to the Dwarf-lords, but the Dwarves were not made his slaves. Appendix A records a Dwarvish tradition that the Ring of Durin's line came from the Elven-smiths, not from Sauron. The Three were saved. Eregion fell in S.A. 1697, and Celebrimbor was killed.\n\nThe books give these dates and names in the main text and the Appendix. They do not describe the lesser rings in detail.",
+  "film": "",
+  "series": "The series The Rings of Power changes the order of events. Celebrimbor forges the Three first, and the Seven and the Nine come later. It also gives a disguised Sauron different allies and motives, and it compresses the timeline.",
+  "facts": {
+   "Total": "Three, Seven, Nine and One",
+   "Place": "Eregion",
+   "Fall of Eregion": "S.A. 1697"
+  },
+  "places": [
+   {
+    "id": "realm:eregion",
+    "role": "made",
+    "note": "The Elven-smiths of Eregion made the Rings."
+   },
+   {
+    "id": "BU036",
+    "role": "made",
+    "note": "Sauron forged the One in the fire of Mount Doom."
+   },
+   {
+    "id": "battle:sack-of-eregion",
+    "role": "fought",
+    "note": "Sauron's host sacked Eregion for the Rings."
+   }
+  ],
+  "related": [
+   "person:celebrimbor",
+   "person:sauron",
+   "thing:one-ring",
+   "thing:nine-rings",
+   "thing:seven-rings",
+   "thing:narya",
+   "thing:nenya",
+   "thing:vilya"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Rings of Power and the Third Age",
+   "The Lord of the Rings, Book II, chapter 2",
+   "The Lord of the Rings, Appendix A and Appendix B"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-fates-of-rings",
+  "title": "The Fates of the Rings of Power",
+  "group": "Powers, peoples and ideas",
+  "kind": "What became of each set of Rings",
+  "aka": [
+   "Three Rings",
+   "Seven Rings",
+   "Nine Rings"
+  ],
+  "blurb": "The Three stayed with the Elves, the Seven were lost or taken, and the Nine became the Nazgûl.",
+  "book": "The fates of the Rings differ. The Nine were given to Men, who became the Nazgûl. Sauron held the Nine again in the Third Age. They were lost when the One was destroyed in T.A. 3019.\n\nThe Seven went to the Dwarf-lords. Gandalf says that Sauron recovered three, and that dragons consumed the rest. The Ring of Thrór is the best known. It passed to Thráin, and Sauron took it from him in Dol Guldur.\n\nThe Three remained with Elves. Círdan held Narya, then gave it to Gandalf. Galadriel held Nenya, and Elrond held Vilya. The Elves did not use them for war. They used them to slow time and to heal.\n\nWhen the One was destroyed in T.A. 3019, the power of all Rings failed. The Three lost their force, and the Elves' time in Middle-earth began to end. Elrond, Galadriel and Gandalf later left for the West.\n\nThe books say the Seven were consumed or lost. They do not say what became of the Three after the voyage.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Nine": "Became the Nazgûl; lost with the One",
+   "Seven": "Three recovered by Sauron; the others consumed by dragons",
+   "Three": "Narya, Nenya and Vilya, which left with the Elves"
+  },
+  "places": [
+   {
+    "id": "MT036",
+    "role": "destroyed",
+    "note": "The One was destroyed here and the Rings lost their power."
+   },
+   {
+    "id": "TO043",
+    "role": "other",
+    "note": "The keepers of the Three left from the Grey Havens."
+   }
+  ],
+  "related": [
+   "thing:nine-rings",
+   "thing:seven-rings",
+   "thing:narya",
+   "thing:nenya",
+   "thing:vilya",
+   "thing:ring-of-thror",
+   "person:cirdan",
+   "person:galadriel",
+   "person:elrond",
+   "person:gandalf"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I, chapter 2",
+   "The Lord of the Rings, Appendix A and Appendix B",
+   "The Silmarillion, Of the Rings of Power and the Third Age"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-power-of-one-ring",
+  "title": "The Power of the One Ring",
+  "group": "Powers, peoples and ideas",
+  "kind": "What the Ring does and why the Wise refuse it",
+  "aka": [
+   "Isildur's Bane",
+   "Ruling Ring",
+   "Ring of Doom"
+  ],
+  "blurb": "The One Ring gives great power, but it corrupts every bearer and serves only Sauron.",
+  "book": "The One Ring gives power to its bearer according to that person's own strength. It makes a mortal invisible. It prolongs life without giving health, and it wears the bearer thin.\n\nIt also corrupts. The bearer feels a growing desire to keep the Ring and to use it. Gollum and Bilbo carried it for long years. Frodo bore it to Mordor and in the end could not give it up.\n\nThe Wise refuse to use the Ring for good reasons. Gandalf tells Frodo he dare not take it, because the Ring would bend his will toward domination. Galadriel tells him that she would become a queen whom all would fear and adore, if she took it. Elrond and the Council reject it for the same reason.\n\nThe Ring also seeks its maker. It betrays its bearers. It can also be used by the strong, but only to build another dark lordship.\n\nTom Bombadil is not affected in the same way. The books do not explain why.\n\nHobbits resist the Ring better than the greater peoples. Their lives are small, and they love simple things.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Effects": "Invisibility, long life, corruption",
+   "Maker": "Sauron",
+   "Refused by": "Gandalf, Galadriel, Elrond"
+  },
+  "places": [],
+  "related": [
+   "thing:one-ring",
+   "person:sauron",
+   "person:gandalf",
+   "person:galadriel",
+   "person:frodo-baggins",
+   "person:gollum",
+   "person:bilbo-baggins",
+   "person:boromir",
+   "person:saruman"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I, chapters 2 and 3; Book II, chapters 1, 2 and 7"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:idea-a-istari-order",
+  "title": "The Order of Wizards",
+  "group": "Powers, peoples and ideas",
+  "kind": "The five Istari and their mission",
+  "aka": [
+   "Istari",
+   "Wise Ones",
+   "Order of Wizards"
+  ],
+  "blurb": "The Istari were Maiar sent in old men's bodies to help Elves and Men resist Sauron, without dominating them.",
+  "book": "The Istari, or Wizards, came to Middle-earth in the Third Age, about T.A. 1000. The Valar sent them after Sauron began to stir again. They were Maiar in the bodies of old men.\n\nSaruman, Gandalf and Radagast are named in The Lord of the Rings. Unfinished Tales says the order had five chief members. The other two were the Blue Wizards, who went into the East. Saruman came first and held the highest rank. Gandalf came last. Círdan met him at the Grey Havens and gave him Narya, the Ring of Fire.\n\nThe mission was to help and to counsel Elves, Men and others against Sauron. Their orders forbade them to match his power with their own or to rule through force. They were to persuade and teach.\n\nThey were also bound by their bodies. They could be hurt, grow tired and be killed. Gandalf's return after Moria is a special gift beyond the usual rule. Gandalf says he was sent back until his task was done, and he returns as the White.\n\nSaruman broke the rule. He sought power for himself, and this brought him to ruin.\n\nThe full details of the order appear in Unfinished Tales and in letters, which are less settled than the main books.",
+  "film": "The Hobbit films give Radagast a larger part in the plot than the books do.",
+  "series": "",
+  "facts": {
+   "Number": "Five (Unfinished Tales)",
+   "Arrival": "About T.A. 1000",
+   "Named in the main books": "Saruman, Gandalf, Radagast"
+  },
+  "places": [],
+  "related": [
+   "person:gandalf",
+   "person:saruman",
+   "person:radagast",
+   "person:cirdan",
+   "person:sauron"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix B and Book III, chapter 5",
+   "The Silmarillion, Of the Rings of Power and the Third Age",
+   "Unfinished Tales, The Istari"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-blue-wizards",
+  "title": "The Blue Wizards",
+  "group": "Powers, peoples and ideas",
+  "kind": "The two Istari who went into the East",
+  "aka": [
+   "Alatar",
+   "Pallando",
+   "Ithryn Luin",
+   "Morinehtar",
+   "Rómestámo"
+  ],
+  "blurb": "Two of the five Istari went into the East. They appear only in later texts, and Tolkien never settled what became of them.",
+  "book": "The Lord of the Rings and The Silmarillion do not mention the Blue Wizards. Unfinished Tales, published after Tolkien's death, is the main source. It says that five Istari came, and that two of them were clad in sea-blue. The Elves called them the Ithryn Luin, the Blue Wizards.\n\nA note in Unfinished Tales names them Alatar and Pallando. Oromë chose Alatar, and Pallando came as his friend. Both were Maiar. They went into the East with Saruman, and they never came back to the West.\n\nTheir fate is unsettled. In a letter of 1958 Tolkien said he did not know. He feared that they had failed, as Saruman did. He thought they might have founded secret cults and magic traditions that outlasted Sauron.\n\nA later note, published in The Peoples of Middle-earth, gives other names, Morinehtar and Rómestámo. It says they came in the Second Age and went to the East and the South. In this note they help to weaken Sauron's hold on the peoples there.\n\nThese texts do not agree, and Tolkien never fixed the answer. A reader should treat all of it as unsettled.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Names": "Alatar and Pallando (Unfinished Tales)",
+   "Later names": "Morinehtar and Rómestámo (late note)",
+   "Went to": "The East of Middle-earth",
+   "Fate": "Unknown; Tolkien gave differing ideas"
+  },
+  "places": [],
+  "related": [
+   "person:gandalf",
+   "person:saruman",
+   "person:radagast",
+   "person:sauron",
+   "people:istari"
+  ],
+  "sources": [
+   "Unfinished Tales, The Istari",
+   "The Letters of J.R.R. Tolkien, letter 211",
+   "The Peoples of Middle-earth, Last Writings"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-white-council",
+  "title": "The White Council",
+  "group": "Powers, peoples and ideas",
+  "kind": "The league of the Wise against Sauron",
+  "aka": [
+   "Council of the Wise",
+   "The Wise"
+  ],
+  "blurb": "The White Council was formed in T.A. 2463 by Elves and Wizards to oppose the shadow in Dol Guldur.",
+  "book": "The White Council, also called the Council of the Wise, was formed in T.A. 2463. Its members were the chief Elves and Wizards of the West. Saruman was the head, because he had studied the arts of the Enemy.\n\nThe books name Saruman, Gandalf, Elrond, Galadriel and Círdan among its members. They do not give a full list. Radagast is not clearly named as a member in the main books.\n\nThe Council watched the Shadow that grew in Mirkwood. When Gandalf learned in T.A. 2850 that the necromancer of Dol Guldur was Sauron, he asked the Council to attack. In T.A. 2851 they met, and Saruman advised to wait. The Council did not attack at that time.\n\nIn T.A. 2941 the Council finally attacked Dol Guldur, and Sauron left for Mordor. This was just after Thorin's company passed through Mirkwood.\n\nThe last meeting was held in T.A. 2953. Saruman told the Council that the One Ring had been swept down the Anduin to the Sea. He wished to find it himself.\n\nAfter that, Saruman withdrew to Isengard, which he had held since T.A. 2759, and fortified it. The books tell of no later meeting of the Council.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Founded": "T.A. 2463",
+   "Attack on Dol Guldur": "T.A. 2941",
+   "Last meeting": "T.A. 2953",
+   "Head": "Saruman"
+  },
+  "places": [
+   {
+    "id": "FT008",
+    "role": "fought",
+    "note": "The Council drove Sauron from Dol Guldur."
+   },
+   {
+    "id": "battle:dol-guldur-white-council",
+    "role": "fought",
+    "note": "The Council attacked Dol Guldur in T.A. 2941."
+   }
+  ],
+  "related": [
+   "person:saruman",
+   "person:gandalf",
+   "person:elrond",
+   "person:galadriel",
+   "person:cirdan",
+   "person:sauron",
+   "person:radagast"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix B and Book II, chapter 2",
+   "The Silmarillion, Of the Rings of Power and the Third Age"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-nazgul-nine",
+  "title": "The Nine Riders as a Company",
+  "group": "Powers, peoples and ideas",
+  "kind": "The Nazgûl as a body of servants",
+  "aka": [
+   "Ringwraiths",
+   "Black Riders",
+   "Nine Riders"
+  ],
+  "blurb": "The Nazgûl were nine mortal kings enslaved by the Nine Rings. They were the chief servants of Sauron.",
+  "book": "The Nazgûl, or Ringwraiths, were nine Men who took the Nine Rings from Sauron. They were kings and lords. The Silmarillion says that three were great lords of Númenórean race. Over many years the rings bound them. They faded into wraiths. Their black robes gave them a shape, and a wearer of the One Ring could see them.\n\nAppendix B says they first appeared in S.A. 2251. They had no will of their own and served Sauron wholly. They were also drawn to the One Ring.\n\nTheir leader was the Witch-king of Angmar. The Lord of the Rings names no other. Unfinished Tales names one more, Khamûl the Easterling, who was second to the Witch-king. The rest are never named.\n\nThey wear black robes and hoods. Their presence causes terror. Their presence can bring the Black Breath, a deadly sickness of despair. Their power is weaker in daylight. They hunt by smell and by the pull of the Ring.\n\nThe Witch-king died on the Pelennor Fields at the hands of Éowyn and Merry. The others perished in the fire of Mount Doom when the One Ring was destroyed in T.A. 3019. The Nazgûl also led armies of Orcs and Men.",
+  "film": "In the films the Nazgûl wear black cloaks and ride horses, and later fell beasts.",
+  "series": "",
+  "facts": {
+   "Number": "Nine",
+   "Leader": "Witch-king of Angmar",
+   "Second": "Khamûl (Unfinished Tales)",
+   "Destroyed": "T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "TO064",
+    "role": "lived",
+    "note": "The Witch-king and the Nine ruled Minas Morgul."
+   },
+   {
+    "id": "realm:mordor",
+    "role": "other",
+    "note": "The Nine served Sauron in Mordor in the Third Age."
+   }
+  ],
+  "related": [
+   "person:witch-king",
+   "person:khamul",
+   "person:sauron",
+   "thing:nine-rings",
+   "person:eowyn",
+   "person:meriadoc-brandybuck",
+   "thing:morgul-knife",
+   "journey:nazgul"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I, chapters 3 to 12, and Appendix B",
+   "The Silmarillion, Of the Rings of Power and the Third Age",
+   "Unfinished Tales, The Hunt for the Ring"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-balrogs-kind",
+  "title": "Balrogs: Demons of Flame",
+  "group": "Powers, peoples and ideas",
+  "kind": "The Balrogs as a kind of spirit",
+  "aka": [
+   "Valaraukar",
+   "Demons of Might",
+   "Balrog"
+  ],
+  "blurb": "Balrogs are Maiar corrupted by Morgoth. They are spirits of fire and shadow who served him in war.",
+  "book": "The Balrogs, or Valaraukar, were Maiar who fell into the service of Melkor in the earliest days. The Silmarillion calls them demons of terror. They had bodies of shadow and flame and fought with whips of fire and with swords or axes.\n\nGothmog was their lord in the First Age. The Balrogs fought in the Battle of Sudden Flame and in the Nirnaeth Arnoediad. They also took part in the fall of Gondolin. In the War of Wrath most were destroyed, and a few fled.\n\nThe Silmarillion speaks of many Balrogs. A later note, published after Tolkien's death, says they were few, perhaps seven at most. These accounts differ, and Tolkien did not make them agree.\n\nOne Balrog hid under the Misty Mountains and slept until the Dwarves of Moria woke it in T.A. 1980. The Dwarves call it Durin's Bane. It killed Durin VI and, a year later, his son Náin I. Gandalf fought it on the bridge of Khazad-dûm in T.A. 3019. They fell together and fought on the peak of Zirakzigil, and the Balrog was cast down.\n\nThe books give an uncertain image of the Balrog's shape. The Fellowship text first compares its shadow to wings, and later speaks of its wings spreading across the hall. Readers dispute whether the Balrog had real wings.",
+  "film": "In the films, the Balrog is a huge winged creature of flame. This makes the wings in the Moria scene clearer than in the book.",
+  "series": "",
+  "facts": {
+   "Kind": "Maiar corrupted by Morgoth",
+   "First Age lord": "Gothmog",
+   "Third Age Balrog": "Durin's Bane, woken T.A. 1980"
+  },
+  "places": [
+   {
+    "id": "BR003",
+    "role": "fought",
+    "note": "Gandalf fought Durin's Bane on the bridge of Khazad-dûm."
+   },
+   {
+    "id": "battle:mazarbul-khazad-dum",
+    "role": "fought",
+    "note": "The Balrog came upon the Fellowship in Moria and fell with Gandalf."
+   },
+   {
+    "id": "realm:khazad-dum",
+    "role": "other",
+    "note": "The Dwarves woke a Balrog in their deep halls."
+   }
+  ],
+  "related": [
+   "person:durins-bane",
+   "person:gothmog-lord-of-balrogs",
+   "person:gandalf",
+   "person:morgoth",
+   "person:ecthelion-of-the-fountain",
+   "b:people:balrogs"
+  ],
+  "sources": [
+   "The Silmarillion, Valaquenta and Quenta Silmarillion",
+   "The Lord of the Rings, Book II, chapter 5, and Appendix A",
+   "Morgoth's Ring (later note on the number of Balrogs)"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-orcs-origin-kinds",
+  "title": "The Origin and Kinds of Orcs",
+  "group": "Powers, peoples and ideas",
+  "kind": "Where the Orcs came from and what kinds exist",
+  "aka": [
+   "Goblins",
+   "Uruk-hai",
+   "Snaga",
+   "Half-orcs"
+  ],
+  "blurb": "Orcs are the soldiers of the Dark Lords. Tolkien gave several ideas for their origin and never settled one.",
+  "book": "The Silmarillion gives the belief of the Wise of Eressëa. Morgoth bred the Orcs from Elves he had captured and slowly corrupted. The same text says that Morgoth could make nothing with life of its own. Treebeard says the Orcs were made in mockery of Elves. Tolkien later considered other origins in his notes, including corrupted Men or beasts with spirits put into them. He did not settle the matter.\n\nThe Orcs dislike the sun, though some kinds fear it less. In The Hobbit they are called goblins. The two words name the same creatures.\n\nThe Lord of the Rings names several kinds. The Uruk-hai, the great Orcs, first came out of Mordor in T.A. 2475, when they attacked Osgiliath. They are tall and strong and can walk in daylight. Saruman bred his own Uruk-hai at Isengard. They carry the white hand as a badge, and the Mordor Uruks bear the red eye.\n\nSnaga is a word in the Black Speech for slave. The Uruk-hai use it as a name for the lesser Orcs.\n\nSaruman also bred half-orcs, or goblin-men, by mixing Orcs and Men. Treebeard speaks of them. Bill Ferny's squint-eyed friend in Bree seems to be of a similar kind.",
+  "film": "In the films the Uruk-hai are shown as born from pits at Isengard. The book gives no such scene.",
+  "series": "",
+  "facts": {
+   "Uruk-hai": "First seen T.A. 2475",
+   "Saruman's badge": "White hand",
+   "Mordor badge": "Red eye"
+  },
+  "places": [
+   {
+    "id": "FT017",
+    "role": "made",
+    "note": "Saruman bred his own Uruk-hai at Isengard."
+   },
+   {
+    "id": "TO078",
+    "role": "fought",
+    "note": "The Uruks of Mordor sacked Osgiliath in T.A. 2475."
+   }
+  ],
+  "related": [
+   "person:ugluk",
+   "person:shagrat",
+   "person:gorbag",
+   "person:grishnakh",
+   "person:azog",
+   "person:great-goblin",
+   "person:morgoth",
+   "person:saruman",
+   "people:orcs"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion chapter 3",
+   "The Lord of the Rings, Book III, chapters 3 and 4; Appendix A; Appendix F"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-trolls-kinds",
+  "title": "Trolls and their Kinds",
+  "group": "Powers, peoples and ideas",
+  "kind": "Stone-trolls, cave-trolls and Olog-hai",
+  "aka": [
+   "Olog-hai",
+   "Stone-trolls",
+   "Hill-trolls",
+   "Cave-trolls"
+  ],
+  "blurb": "Trolls are large, strong creatures made by Morgoth. The books name several kinds, and Sauron later bred stronger ones.",
+  "book": "Trolls are huge and strong. Treebeard says the Enemy made them in the Great Darkness, as counterfeits of the Ents. The Silmarillion names trolls among Morgoth's forces in the First Age. Stone-trolls must hide from the Sun, for daylight turns them to stone.\n\nThe stone-trolls of The Hobbit, Bert, Tom and William, quarrel over their meat and are caught by Gandalf's trick in the Trollshaws. They turn to stone at dawn, and their statues remain on the road.\n\nThe Lord of the Rings tells of cave-trolls and hill-trolls. A cave-troll attacks the Fellowship in Moria. Hill-trolls out of Gorgoroth fight at the Black Gate, and Pippin kills one.\n\nNear the end of the Third Age, Sauron bred the Olog-hai. Appendix F says they were strong, agile, fierce and cunning, and could endure the Sun.\n\nAppendix F says it was not known how Sauron made the Olog-hai. The books also give no reason why stone-trolls turn to stone in sunlight.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Stone-trolls": "Turn to stone in sunlight",
+   "Olog-hai": "Bred by Sauron, endure the sun",
+   "Named trolls": "Bert, Tom and William"
+  },
+  "places": [
+   {
+    "id": "NP006",
+    "role": "other",
+    "note": "The three stone-trolls were turned to stone in this clearing."
+   },
+   {
+    "id": "FO033",
+    "role": "other",
+    "note": "The Trollshaws were the country of the stone-trolls."
+   }
+  ],
+  "related": [
+   "person:bert",
+   "person:tom-the-troll",
+   "person:william",
+   "person:gandalf",
+   "person:morgoth",
+   "person:sauron",
+   "people:trolls",
+   "person:peregrin-took"
+  ],
+  "sources": [
+   "The Hobbit, chapter 2",
+   "The Lord of the Rings, Book I, chapter 12; Book II, chapter 5; Book III, chapter 4; Book V, chapter 10",
+   "The Lord of the Rings, Appendix F",
+   "The Silmarillion, Quenta Silmarillion chapter 20"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-wargs-werewolves",
+  "title": "Wargs and Werewolves",
+  "group": "Powers, peoples and ideas",
+  "kind": "Evil wolves of the old and new worlds",
+  "aka": [
+   "Wargs",
+   "Werewolves",
+   "Wolves of Angband"
+  ],
+  "blurb": "Wargs are evil wolves in league with Orcs. Werewolves in the First Age were wolves with fell spirits.",
+  "book": "Wargs are great evil wolves that talk and plot. In The Hobbit they live in Wilderland and hunt with the goblins. They attack Thorin's company near the Misty Mountains. They are allies of the goblins, and they fight in the Battle of Five Armies.\n\nIn The Lord of the Rings the Wargs appear again. They attack the Fellowship by night in Hollin, before Moria. Their bodies are gone in the morning, and Gandalf says they are no ordinary wolves. Wolf-riders of Isengard also fight in Rohan.\n\nThe Silmarillion calls the wolves of Angband werewolves. It says that Sauron put dreadful spirits into the bodies of wolves. Draugluin was their first sire. Carcharoth, the greatest wolf, was bred by Morgoth and bit off Beren's hand with the Silmaril.\n\nSauron took the shape of a werewolf himself. He fought Huan at the Isle of Werewolves and was defeated. He later chose other shapes.\n\nThe books do not say whether Wargs and werewolves are the same creatures. Tolkien used both names at different times. Readers often treat Wargs as the Third Age kin of the older werewolves.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Wargs": "Wolves of Wilderland, allies of Orcs",
+   "First werewolf": "Draugluin",
+   "Greatest wolf": "Carcharoth"
+  },
+  "places": [],
+  "related": [
+   "person:draugluin",
+   "person:carcharoth",
+   "person:huan",
+   "person:sauron",
+   "person:morgoth",
+   "person:beorn",
+   "person:gandalf"
+  ],
+  "sources": [
+   "The Hobbit, chapters 6 and 17",
+   "The Lord of the Rings, Book II, chapter 4",
+   "The Silmarillion, Of Beren and Lúthien"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-barrow-wights",
+  "title": "Barrow-wights",
+  "group": "Powers, peoples and ideas",
+  "kind": "The haunted dead of the Barrow-downs",
+  "aka": [
+   "Wights",
+   "Barrow-downs spirits"
+  ],
+  "blurb": "Barrow-wights are evil spirits in the tombs of the Barrow-downs. One of them captures the hobbits.",
+  "book": "The Barrow-downs lie east of the Old Forest and hold the burial mounds of old kings and lords of Cardolan and Arnor. Appendix A says that after the Great Plague of T.A. 1636 ended Cardolan, the Witch-king sent evil spirits from Angmar and Rhudaur into the empty mounds. Some of the dead lay there with their gold and jewels.\n\nThe books call these spirits wights. A wight holds its victims in the mound under a spell of sleep and cold.\n\nIn The Fellowship of the Ring a wight takes Frodo, Sam, Merry and Pippin in a fog on the Downs. It lays them out on the floor of the barrow with a sword and treasure. Frodo wakes, strikes the wight's hand with a sword, and then calls on Tom Bombadil. Tom sings the wight away with a spell and wakes the hobbits.\n\nTom gives each hobbit a dagger from the wight's hoard. These are the Barrow-blades. Men of Westernesse made them long ago in the wars against Angmar. They are bright after many years in the dark.\n\nThe books do not say how many wights there are. They describe only a dark shape, cold eyes and a cold hand.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Place": "Barrow-downs",
+   "Origin": "Evil spirits sent from Angmar and Rhudaur, after T.A. 1636",
+   "Event": "Frodo's party trapped in the barrow, T.A. 3018"
+  },
+  "places": [
+   {
+    "id": "HI011",
+    "role": "other",
+    "note": "The wight trapped the hobbits in a mound on the Barrow-downs."
+   }
+  ],
+  "related": [
+   "person:tom-bombadil",
+   "thing:barrow-blades",
+   "person:frodo-baggins",
+   "person:samwise-gamgee",
+   "person:meriadoc-brandybuck",
+   "person:peregrin-took",
+   "person:witch-king"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I, chapters 7 and 8; Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-dead-men-of-dunharrow",
+  "title": "The Dead Men of Dunharrow",
+  "group": "Powers, peoples and ideas",
+  "kind": "The oath-breakers of the White Mountains",
+  "aka": [
+   "Oathbreakers",
+   "Dead Men of Dunharrow",
+   "Army of the Dead"
+  ],
+  "blurb": "The Dead Men of Dunharrow broke an oath to Isildur and were cursed to stay until they kept it.",
+  "book": "The Dead Men of Dunharrow were Men of the White Mountains. They swore to help Isildur in the war against Sauron at the end of the Second Age. When Isildur called them, they would not come. They had worshipped Sauron in the Dark Years.\n\nIsildur cursed them. They could not rest until they had kept their oath. They hid in the mountains and in the Paths of the Dead beneath Dunharrow. They had sworn the oath at Erech, on a black stone that Isildur brought from Númenor.\n\nIn T.A. 3019 Aragorn, Isildur's heir, took the Paths of the Dead with the Grey Company. At the Stone of Erech he summoned them. They followed him to the south and helped him take the ships at Pelargir. Aragorn then released them, saying that the oath was fulfilled, and the host faded.\n\nThe Dead did not fight at the Pelennor Fields in the books. They fought at Pelargir. Their terror alone broke the Corsairs.\n\nTolkien does not describe the Dead in detail beyond shadows and cold. The books do not say what happened to their spirits after they left.",
+  "film": "In the film Aragorn calls the Dead in the halls under the mountain, and their King leads them. The army of the Dead then sweeps across the Pelennor Fields and decides the battle there.",
+  "series": "",
+  "facts": {
+   "Oath broken": "To Isildur, in the Second Age",
+   "Released": "At Pelargir, T.A. 3019",
+   "Place": "Paths of the Dead, beneath Dunharrow"
+  },
+  "places": [
+   {
+    "id": "FT009",
+    "role": "other",
+    "note": "Dunharrow lay above the Paths of the Dead."
+   },
+   {
+    "id": "VA040",
+    "role": "travelled",
+    "note": "Aragorn led the Grey Company through the Paths of the Dead."
+   },
+   {
+    "id": "HI023",
+    "role": "other",
+    "note": "Aragorn summoned the Dead at the Stone of Erech."
+   },
+   {
+    "id": "battle:pelargir",
+    "role": "fought",
+    "note": "The Dead drove the Corsairs from their ships at Pelargir."
+   }
+  ],
+  "related": [
+   "person:aragorn",
+   "person:isildur",
+   "thing:anduril",
+   "person:legolas",
+   "person:gimli",
+   "person:halbarad",
+   "person:elrond"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book V, chapters 2, 3 and 9; Appendix A"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-ents-entwives-huorns",
+  "title": "Ents, Entwives and Huorns",
+  "group": "Powers, peoples and ideas",
+  "kind": "Tree-herders, their lost wives and tree-like trees",
+  "aka": [
+   "Shepherds of the Trees",
+   "Entwives",
+   "Huorns",
+   "Onodrim"
+  ],
+  "blurb": "Ents guard the trees. The Entwives vanished long ago, and the Huorns are trees that grew wild and strange.",
+  "book": "The Ents are the tree-herders. The Silmarillion says that Yavanna feared for the trees when she learned of the Dwarves. Manwë then told her that Shepherds of the Trees would come. Treebeard says they woke in the first ages and they walked the old woods.\n\nThe Entwives loved gardens and small plants. They kept orchards and fields. The Ents loved wild trees. The two went their own ways. The Entwives crossed the Anduin and made gardens in the lands there. These gardens were destroyed in the wars of Sauron, and the Entwives were lost.\n\nTreebeard has searched for them for years. He does not know whether they live. The story does not tell their fate. In a letter Tolkien said he thought the Entwives were gone for good. The Ents are dying slowly, because they have no Entings.\n\nThe Huorns are trees that have grown wild and strange, perhaps Ents who became tree-like. They are dark and fierce and move silently, speaking little. The Ents are said to have some care of them. They destroyed the Orcs who fled from Helm's Deep.\n\nThe books do not explain how a tree becomes a Huorn. Treebeard himself is unsure of their nature.",
+  "film": "In the films Treebeard resists joining the war at first. The Ents then march after Pippin leads Treebeard to the burned woods near Isengard.",
+  "series": "",
+  "facts": {
+   "Ents": "Shepherds of the Trees",
+   "Entwives": "Lost; fate unknown",
+   "Huorns": "Trees grown watchful and fierce, herded by the Ents"
+  },
+  "places": [
+   {
+    "id": "FO012",
+    "role": "lived",
+    "note": "The Ents live in Fangorn Forest."
+   },
+   {
+    "id": "battle:ents-of-isengard",
+    "role": "fought",
+    "note": "The Ents and Huorns broke Isengard."
+   },
+   {
+    "id": "FT014",
+    "role": "fought",
+    "note": "Huorns destroyed the Orcs at Helm's Deep."
+   }
+  ],
+  "related": [
+   "person:treebeard",
+   "person:quickbeam",
+   "person:skinbark",
+   "person:yavanna",
+   "person:old-man-willow",
+   "person:saruman",
+   "person:meriadoc-brandybuck",
+   "person:peregrin-took"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book III, chapters 4, 8 and 9",
+   "The Silmarillion, Quenta Silmarillion chapter 2",
+   "The Letters of J.R.R. Tolkien"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-great-spiders",
+  "title": "The Great Spiders",
+  "group": "Powers, peoples and ideas",
+  "kind": "Ungoliant's brood and the spiders of Mirkwood",
+  "aka": [
+   "Ungoliant's children",
+   "Spiders of Mirkwood"
+  ],
+  "blurb": "The great spiders of Middle-earth are the offspring of Ungoliant. Shelob and the Mirkwood spiders belong to this line.",
+  "book": "The great spiders trace their descent to Ungoliant, an ancient evil spirit in spider form. She helped Melkor destroy the Two Trees. Then she quarrelled with him and fled to Nan Dungortheb, north of Doriath. Her brood lived there long after.\n\nThe Lord of the Rings tells that Shelob is the last child of Ungoliant. She lives in the pass of Cirith Ungol, where she feeds on any creature that enters. Sauron tolerates her, because she guards the road into Mordor. Frodo is stung by her and left for dead. Sam fights her with Sting and the light of the Phial.\n\nThe Hobbit tells of the spiders of Mirkwood. They are large and cunning, and they talk. They catch Bilbo's dwarf companions, and Bilbo frees them. Bilbo kills many and names his sword Sting.\n\nThe Lord of the Rings says that Shelob's own lesser offspring spread through the mountains and to Mirkwood. It does not say when they came to the forest.\n\nThe Silmarillion says that Ungoliant later went into the south. It says only as a rumour that she ended by devouring herself in her hunger.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Ungoliant": "Ancestor of the spiders",
+   "Shelob": "Last child of Ungoliant, at Cirith Ungol",
+   "Spiders of Mirkwood": "Seen in The Hobbit"
+  },
+  "places": [
+   {
+    "id": "CA013",
+    "role": "lived",
+    "note": "Shelob lived in her lair in Cirith Ungol."
+   },
+   {
+    "id": "VA034",
+    "role": "other",
+    "note": "The pass of Cirith Ungol was guarded by Shelob."
+   },
+   {
+    "id": "FO018",
+    "role": "other",
+    "note": "Great spiders infested Mirkwood."
+   },
+   {
+    "id": "b:RG10",
+    "role": "lived",
+    "note": "Ungoliant's brood dwelt in Nan Dungortheb in the First Age."
+   }
+  ],
+  "related": [
+   "person:ungoliant",
+   "person:shelob",
+   "thing:sting",
+   "thing:phial-of-galadriel",
+   "person:samwise-gamgee",
+   "person:frodo-baggins",
+   "person:bilbo-baggins",
+   "person:gollum"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Darkening of Valinor and Of the Flight of the Noldor",
+   "The Lord of the Rings, Book IV, chapters 9 and 10",
+   "The Hobbit, chapter 8"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-fell-beasts",
+  "title": "The Winged Steeds of the Nazgûl",
+  "group": "Powers, peoples and ideas",
+  "kind": "The fell beasts that carried the Ringwraiths",
+  "aka": [
+   "Fell beasts",
+   "Winged Nazgûl"
+  ],
+  "blurb": "The Nazgûl rode winged beasts in the War of the Ring. The book gives only a short, uncertain account of where they came from.",
+  "book": "In the last part of the War of the Ring, the Nazgûl rode winged beasts. Gandalf says they had lost their horses at the Ford of Bruinen, and that they now rode new steeds.\n\nThe first is seen over the Anduin near Sarn Gebir. Legolas shoots it down with the bow of Lórien. Later, Frodo and Sam see winged Nazgûl over the Dead Marshes. One also passes over Rohan after Pippin looks into the palantír.\n\nAt the Pelennor Fields the Witch-king comes upon Théoden on such a beast. It has no feathers, and its wings are of hide. Éowyn cuts off its head before she faces the Witch-king.\n\nThe Return of the King gives a short account of its origin. It was perhaps a creature of an older world that lingered in forgotten mountains. Sauron took such creatures and fed them on fell meat. In a letter Tolkien said that it was not meant to be a pterodactyl, though it looked somewhat like one.\n\nThe books do not say how many there were. When the One Ring was destroyed, the Nazgûl flew to Mount Doom and perished in the fire. The text does not mention their steeds there.",
+  "film": "In the films the fell beasts appear more often. They carry the Nazgûl over Osgiliath and in the battle of Minas Tirith.",
+  "series": "",
+  "facts": {
+   "First seen": "Near Sarn Gebir on the Anduin, T.A. 3019",
+   "Riders": "The Nazgûl",
+   "Killed": "The Witch-king's steed, by Éowyn at the Pelennor"
+  },
+  "places": [
+   {
+    "id": "NP012",
+    "role": "other",
+    "note": "Legolas shot down a winged Nazgûl near Sarn Gebir."
+   },
+   {
+    "id": "SW002",
+    "role": "travelled",
+    "note": "Frodo and Sam saw winged Nazgûl over the Dead Marshes."
+   },
+   {
+    "id": "FI024",
+    "role": "died",
+    "note": "Éowyn killed the Witch-king's steed on the Pelennor Fields."
+   }
+  ],
+  "related": [
+   "person:witch-king",
+   "person:eowyn",
+   "person:legolas",
+   "person:theoden",
+   "person:sauron",
+   "person:gandalf"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II, chapter 9; Book III, chapter 11; Book IV, chapter 2; Book V, chapter 6",
+   "The Letters of J.R.R. Tolkien, letter 211"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-mearas",
+  "title": "The Mearas",
+  "group": "Powers, peoples and ideas",
+  "kind": "The great horses of Rohan",
+  "aka": [
+   "Horses of Rohan",
+   "Meara",
+   "Children of Felaróf"
+  ],
+  "blurb": "The Mearas are the noble horses of Rohan. They are descended from Felaróf and serve only the king's house.",
+  "book": "The Mearas are the greatest horses of Rohan. They are descended from Felaróf, the horse of Eorl the Young. Felaróf killed Eorl's father Léod when Léod tried to ride him. Eorl, still a young man, then tamed the horse.\n\nThe Mearas are swift and strong and live very long. They understand the speech of Men. Appendix A says they would bear no rider but the King of the Mark or his sons, until the time of Shadowfax.\n\nShadowfax, Lord of the Mearas, is the best known. He permits Gandalf to ride him. He is the greatest of his kind in the Third Age.\n\nThe details of the Mearas are given in Appendix A and in Unfinished Tales. The books do not explain the source of their longer life. Appendix A says that Men believed Béma, whom the Elves call Oromë, brought the sire of Felaróf from the West. The books give it only as a belief.\n\nThe Mearas do not appear as a herd in the main story. Only Shadowfax is shown acting in his full strength.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Founder": "Felaróf",
+   "Greatest": "Shadowfax",
+   "Rule": "Only the king and his sons may ride them"
+  },
+  "places": [],
+  "related": [
+   "person:shadowfax",
+   "person:felarof",
+   "person:eorl-the-young",
+   "person:theoden",
+   "person:gandalf"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book III, chapters 5 and 6; Appendix A",
+   "Unfinished Tales, Cirion and Eorl"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-magic-in-middle-earth",
+  "title": "Magic in Middle-earth",
+  "group": "Powers, peoples and ideas",
+  "kind": "Art, craft and the Unseen",
+  "aka": [
+   "Elvish art",
+   "Unseen World",
+   "Wraith-world"
+  ],
+  "blurb": "Tolkien avoids calling most power magic. The books separate making and shaping from domination and deceit.",
+  "book": "The word magic appears in the books, but the Elves and Wizards do not use it as most readers would. In Lothlórien, Sam uses it for Elvish things. Galadriel says she does not clearly understand the word. She notes that hobbits seem to use it also for the deceits of the Enemy. The text shows that the two differ in purpose.\n\nElvish art is making. The Elven-cloaks, the rope of Lórien, lembas and the Phial all belong to this craft. The Elves make things that are beautiful and useful. They do not make them to rule others.\n\nThe deceits of Sauron and Saruman are different. They seek to dominate other minds and to bend the world. Sauron's power rests on the One Ring. Saruman uses his voice to sway people.\n\nThe Wizards also have power. Gandalf kindles fire and lights the dark, and he heals and counsels. He uses these gifts sparingly.\n\nThe Unseen World is another idea. It lies beside the visible one. A mortal who wears the One Ring begins to see into it. Gandalf says that Elves who have lived in the Blessed Realm, such as Glorfindel, live in both worlds at once. The Nazgûl live in it. The books do not explain how it works.\n\nTolkien says in letters that he meant the Elvish art to be like skill carried to its highest form.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Elvish art": "Making, not domination",
+   "Unseen": "The wraith-world, seen by the Ring-bearer"
+  },
+  "places": [],
+  "related": [
+   "person:galadriel",
+   "person:gandalf",
+   "person:sauron",
+   "person:saruman",
+   "thing:elven-cloaks",
+   "thing:lembas",
+   "thing:phial-of-galadriel",
+   "thing:mirror-of-galadriel",
+   "person:celebrimbor",
+   "person:glorfindel"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book II, chapters 1 and 7",
+   "The Lord of the Rings, Book I, chapters 11 and 12",
+   "The Letters of J.R.R. Tolkien, letter 131"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-prophecy-foresight",
+  "title": "Prophecy and Foresight",
+  "group": "Powers, peoples and ideas",
+  "kind": "Seers, sayings and doom in Middle-earth",
+  "aka": [
+   "Foresight",
+   "Glorfindel's words",
+   "Malbeth the Seer",
+   "Prophecy"
+  ],
+  "blurb": "Prophecy in Tolkien's books gives hints rather than fate. Glorfindel and Malbeth each speak words that later fulfil in unexpected ways.",
+  "book": "Prophecy in Middle-earth is usually partial. It points to what may come, but its words can be read in more than one way.\n\nAppendix A records that Glorfindel spoke at the war of Fornost in T.A. 1975. He said that the Witch-king would not return to the North. He said that his doom was far off, and that no man would kill him. Éowyn and Merry, a woman and a hobbit, later killed the Witch-king on the Pelennor Fields. Readers see this as the fulfilment. The Pelennor chapter does not name Glorfindel's words, though the Witch-king boasts that no living man can stop him.\n\nMalbeth the Seer lived in Arthedain in the days of the last kings. Appendix A says he foretold that Arvedui would be the last king of Arthedain. Aragorn recalls his words when he takes the Paths of the Dead. Malbeth said the Dead would be called when the heir of Isildur came to the Stone of Erech.\n\nThe Elves have foresight too. Galadriel's Mirror shows things that have been, that are and that may be. She tells Frodo that not all of it will come to pass.\n\nAnother example is the Doom of Mandos. It tells the fate of the Noldor.\n\nThe books do not say that these words force events. They suggest that choice remains, and that the Valar and Eru see more than Elves and Men.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Glorfindel's words": "T.A. 1975, recorded in Appendix A",
+   "Malbeth": "Seer of Arthedain",
+   "Fulfilment": "The Witch-king falls, T.A. 3019"
+  },
+  "places": [
+   {
+    "id": "VA040",
+    "role": "other",
+    "note": "Malbeth's words foretold the call on the Dead in the Paths."
+   },
+   {
+    "id": "battle:fornost",
+    "role": "other",
+    "note": "Glorfindel spoke of the Witch-king's fate after the Battle of Fornost."
+   }
+  ],
+  "related": [
+   "person:glorfindel",
+   "person:witch-king",
+   "person:eowyn",
+   "person:meriadoc-brandybuck",
+   "person:aragorn",
+   "person:galadriel",
+   "person:arvedui",
+   "thing:mirror-of-galadriel"
+  ],
+  "sources": [
+   "The Lord of the Rings, Appendix A (Arnor and Gondor)",
+   "The Lord of the Rings, Book II, chapter 7; Book V, chapter 2",
+   "The Silmarillion, chapter 9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:idea-a-pity-and-providence",
+  "title": "Pity and Providence",
+  "group": "Powers, peoples and ideas",
+  "kind": "The mercy shown to Gollum and its result",
+  "aka": [
+   "Mercy to Gollum",
+   "Fate of the Ring"
+  ],
+  "blurb": "Bilbo and Frodo spare Gollum, and in the end this mercy lets the Ring be destroyed.",
+  "book": "Mercy to Gollum is one of the central ideas of The Lord of the Rings. Gandalf teaches it. When Frodo says that Gollum deserves death, Gandalf asks who can give life. He says that those who judge others do not always see the end.\n\nBilbo spared Gollum in the dark under the Misty Mountains. This pity kept Bilbo free of the worst effects of the Ring, and it set a course that would matter later. Gandalf says that Bilbo's pity may rule the fate of many.\n\nFrodo learns the lesson. He spares Gollum at Emyn Muil and uses him as a guide. Sam doubts Gollum and shows less pity. In the end, Gollum betrays them to Shelob.\n\nAt the Cracks of Doom, Frodo cannot give up the Ring. Gollum seizes it and bites off Frodo's finger. In his joy he slips and falls into the fire with the Ring. The Ring is destroyed by him.\n\nThe books suggest a hidden providence behind these events, though they never name it. Gandalf speaks of something other than chance at work in Bilbo's finding. Tolkien says in his letters that the pity of Bilbo and Frodo was a real moral force, and that Frodo's failure was not blamed.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Mercy by": "Bilbo, then Frodo",
+   "Result": "Gollum destroys the Ring, T.A. 3019 (25 March)"
+  },
+  "places": [
+   {
+    "id": "BU036",
+    "role": "other",
+    "note": "Gollum fell into the Cracks of Doom with the Ring."
+   },
+   {
+    "id": "MT036",
+    "role": "other",
+    "note": "The Ring was destroyed in the fire of Mount Doom."
+   }
+  ],
+  "related": [
+   "person:gollum",
+   "person:frodo-baggins",
+   "person:bilbo-baggins",
+   "person:gandalf",
+   "person:samwise-gamgee",
+   "thing:one-ring",
+   "person:faramir"
+  ],
+  "sources": [
+   "The Lord of the Rings, Book I, chapter 2; Book IV, chapters 1 and 3; Book VI, chapter 3"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:idea-a-marring-of-arda",
+  "title": "The Marring of Arda",
+  "group": "Powers, peoples and ideas",
+  "kind": "How Morgoth's power spread through the world",
+  "aka": [
+   "Arda Marred",
+   "Morgoth's Ring",
+   "Melkor's discord"
+  ],
+  "blurb": "Melkor's discord marred the world from the start, and the later writings say that Morgoth poured his power into it.",
+  "book": "The Silmarillion says that Arda was marred from its making. In the Music of the Ainur, Melkor brought his own themes against the theme of Ilúvatar. His discord entered into the world's shape. As a result, the world has cold, fire, ruin and death.\n\nThe Valar fought to repair the harm, but they could not undo it. Fëanor later named him Morgoth. He corrupted many creatures. He wrecked the Lamps, and with Ungoliant he destroyed the Trees.\n\nTolkien wrote in later essays that Morgoth did more than this. He spent his own strength by putting it into the matter of Arda. Thus his power remained in the world even after he was cast out. These essays appear in Morgoth's Ring, a late volume of Tolkien's notes. They are not part of the published Silmarillion text.\n\nOn this view, the evil in the world does not depend wholly on Sauron or the Rings. It lies in the earth, the air and the creatures. Sauron could use it.\n\nThe Silmarillion speaks of a greater Music after the end of days, in which Men will join. Later writings speak of a Last Battle and of Arda Healed. The published books give only hints, and they do not say how the marring will be undone.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Cause": "The discord of Melkor in the Music",
+   "Later idea": "Morgoth's power spread through the matter of Arda",
+   "Healing": "Hinted in the Silmarillion; fuller in later writings"
+  },
+  "places": [],
+  "related": [
+   "person:morgoth",
+   "person:sauron",
+   "person:ungoliant",
+   "person:manwe",
+   "person:ulmo",
+   "thing:one-ring"
+  ],
+  "sources": [
+   "The Silmarillion, Ainulindalë and Valaquenta",
+   "Morgoth's Ring (later writings)"
+  ],
+  "confidence": "medium"
+ }
+]

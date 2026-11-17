@@ -1,0 +1,1346 @@
+[
+ {
+  "id": "lore:silm-00",
+  "title": "The Silmarillion (the book)",
+  "group": "The Silmarillion",
+  "kind": "Published work, 1977",
+  "aka": [
+   "Silmarillion",
+   "The Silmarillion 1977"
+  ],
+  "blurb": "The Silmarillion is the 1977 collection of Tolkien's legends of the First Age and after, edited by his son Christopher.",
+  "book": "The Silmarillion was published in 1977, four years after J.R.R. Tolkien died. His son Christopher Tolkien edited it from his father's many drafts, with help from Guy Gavriel Kay. Tolkien had worked on these tales for most of his adult life, and he never finished them in a single final form.\n\nThe book has five parts. The Ainulindalë tells how the world was sung into being. The Valaquenta describes the Valar, the Maiar and their enemies. The Quenta Silmarillion, the longest part, tells the history of the Elves and Men from the Awakening of the Elves to the end of the First Age. The Akallabêth tells of Númenor and its downfall. The last part, Of the Rings of Power and the Third Age, links these old events to The Lord of the Rings.\n\nIn brief, the book tells how Melkor, later called Morgoth, brought discord into the world. It tells how Fëanor made the Silmarils and how Morgoth stole them. It follows the Noldor into exile and their long war in Beleriand, and the stories of Beren and Lúthien, Túrin and Tuor. The Quenta ends with the fall of Morgoth. The book then tells of the sinking of Númenor and of the Rings of Power down to the end of the Third Age.\n\nChristopher Tolkien later published the earlier drafts in The History of Middle-earth, and some editing choices of 1977 are discussed there.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Published": "1977",
+   "Editor": "Christopher Tolkien",
+   "Parts": "Five"
+  },
+  "places": [],
+  "related": [
+   "thing:silmarils",
+   "person:morgoth",
+   "person:feanor",
+   "thing:one-ring",
+   "person:sauron",
+   "person:thingol"
+  ],
+  "sources": [
+   "The Silmarillion (1977), whole book"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:silm-ainulindale",
+  "title": "Ainulindalë",
+  "group": "The Silmarillion",
+  "kind": "First part of The Silmarillion",
+  "aka": [
+   "Music of the Ainur"
+  ],
+  "blurb": "The Ainulindalë is the creation myth of Middle-earth: the Music of the Ainur, the discord of Melkor and the making of the world.",
+  "book": "The Ainulindalë, the Music of the Ainur, opens The Silmarillion. Eru Ilúvatar, the One, first made the Ainur, holy spirits born of his thought. He taught them to sing, and he gave them themes to sing together.\n\nThe Ainur then made a great music before Ilúvatar. Melkor, the mightiest of them, wove thoughts of his own into the song. His discord spread, and a strife of music arose. Ilúvatar answered with new themes, and he stilled the music at last.\n\nIlúvatar then showed the Ainur a vision of a world that would answer the music. In it they saw the coming of the Children of Ilúvatar, the Elves and Men, whom the Ainur had not imagined. Then Ilúvatar gave the vision real being, and it was called Eä, the World that Is.\n\nMany of the Ainur entered Eä to help to shape it. The greatest of them became the Valar. Melkor also entered, and he began at once to trouble the work.\n\nThe account says the Valar did not know every detail of what they had foreseen. Much would come from the Children, and from Ilúvatar himself, as time went on.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Part": "First of five parts",
+   "Maker": "Eru Ilúvatar",
+   "Dissenter": "Melkor"
+  },
+  "places": [],
+  "related": [
+   "person:morgoth",
+   "person:manwe",
+   "person:ulmo",
+   "person:aule",
+   "person:varda",
+   "person:mandos"
+  ],
+  "sources": [
+   "The Silmarillion, Ainulindalë"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:silm-valaquenta",
+  "title": "Valaquenta",
+  "group": "The Silmarillion",
+  "kind": "Second part of The Silmarillion",
+  "aka": [
+   "Account of the Valar"
+  ],
+  "blurb": "The Valaquenta is a short account of the Valar, the Maiar and the enemies of the Valar.",
+  "book": "The Valaquenta, meaning account of the Valar, follows the Ainulindalë. It describes the Powers who entered the world, and it also names some of the lesser spirits who served them.\n\nThere are fourteen Valar, seven lords and seven queens. The lords are Manwë, Ulmo, Aulë, Oromë, Mandos, Lórien and Tulkas. Manwë is the king of the Valar, and his spouse is Varda, who made the stars. Ulmo rules the waters. Aulë is the smith and craftsman, and his spouse is Yavanna, who loves growing things. Mandos keeps the houses of the dead, and his spouse is Vairë the weaver. Lórien, also named Irmo, rules dreams, and his spouse is Estë. Nienna mourns, Oromë hunts, and Tulkas is the strongest in battle. Oromë's spouse is Vána, and Tulkas has Nessa.\n\nThe Maiar are lesser spirits of the same order. The account names Eönwë, the herald of Manwë, and Ossë, who serves Ulmo. It also names Ilmarë, the handmaid of Varda, Uinen, the spouse of Ossë, and Melian and Olórin.\n\nThe last part tells of the enemies. Melkor fell into pride and became Morgoth, the great Enemy. Sauron was his servant, and the Balrogs were his spirits of fire.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Part": "Second of five parts",
+   "Valar": "Fourteen",
+   "Enemy": "Melkor, later Morgoth"
+  },
+  "places": [],
+  "related": [
+   "person:manwe",
+   "person:varda",
+   "person:ulmo",
+   "person:aule",
+   "person:yavanna",
+   "person:mandos",
+   "person:orome",
+   "person:tulkas",
+   "person:melian",
+   "person:morgoth"
+  ],
+  "sources": [
+   "The Silmarillion, Valaquenta"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:silm-qs-01",
+  "title": "Of the Beginning of Days",
+  "group": "The Silmarillion",
+  "kind": "Quenta Silmarillion, chapter 1",
+  "aka": [],
+  "blurb": "The chapter tells how the Valar shaped Arda, how Melkor ruined their first lands and how they made Valinor and the Two Trees.",
+  "book": "The Valar came into Eä and found the world unformed. They began to shape Arda, and Melkor contested their work. Tulkas came to their aid, and for a time Melkor withdrew to the dark.\n\nThe Valar then made two great lamps, Illuin in the north and Ormal in the south, set on tall pillars. They dwelt on the island of Almaren in a lake, and Arda had a time of spring.\n\nMelkor returned in secret and built a fortress, Utumno, in the far north. He overthrew the lamps, and their fall broke the shape of the world and destroyed Almaren. The Valar did not fight him then, for they feared to wreck the world further.\n\nThey withdrew to the western land of Aman and made their home there. They raised the great mountains called the Pelóri, and Manwë's hall stood on the peak of Taniquetil. They built the city of Valmar.\n\nYavanna then made the Two Trees, Telperion and Laurelin, with the help of Nienna's tears. Their light filled Valinor, and the Valar began the Count of Time from their flowering. Middle-earth lay in the dark under the stars, and only Oromë and Yavanna went there at times.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Chapter": "1 of 24",
+   "Lamps": "Illuin and Ormal",
+   "Trees": "Telperion and Laurelin"
+  },
+  "places": [],
+  "related": [
+   "person:manwe",
+   "person:morgoth",
+   "person:tulkas",
+   "person:yavanna",
+   "person:nienna",
+   "person:orome",
+   "thing:lamps-of-the-valar",
+   "thing:two-trees"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapter 1"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:silm-qs-02",
+  "title": "Of Aulë and Yavanna",
+  "group": "The Silmarillion",
+  "kind": "Quenta Silmarillion, chapter 2",
+  "aka": [],
+  "blurb": "The chapter tells how Aulë made the Dwarves in secret, and how Yavanna asked for protectors of the trees.",
+  "book": "The chapter begins with Aulë, who longed for beings to teach his crafts. He grew impatient waiting for the Children of Ilúvatar, and he made the Dwarves in secret, deep in Middle-earth.\n\nIlúvatar knew what Aulë had done and spoke to him. Aulë admitted his fault and raised a hammer to destroy his creations. The Dwarves cowered, and Ilúvatar stopped him. He adopted the Dwarves as his own, though they could not live until the Elves had awoken. Aulë laid the Seven Fathers of the Dwarves to sleep in different places.\n\nThe chapter also tells of Yavanna. She feared that the Dwarves would cut down the trees without mercy, and she asked Manwë for help. Manwë recalled a vision in which the trees spoke, and he said that Ilúvatar would send guardians for them. These were the Ents, the Shepherds of the Trees, who would come later in the world.\n\nYavanna also learned that the Eagles would be sent to serve Manwë. The chapter ends before the Elves awake, with the Valar still waiting.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Chapter": "2 of 24",
+   "Makers": "Aulë and Yavanna"
+  },
+  "places": [],
+  "related": [
+   "person:aule",
+   "person:yavanna",
+   "person:manwe",
+   "person:durin-the-deathless",
+   "b:people:ents",
+   "b:people:eagles"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapter 2"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:silm-qs-03",
+  "title": "Of the Coming of the Elves and the Captivity of Melkor",
+  "group": "The Silmarillion",
+  "kind": "Quenta Silmarillion, chapter 3",
+  "aka": [],
+  "blurb": "The chapter tells how the Elves awoke, how Oromë found them and how the Valar bound Melkor.",
+  "book": "Varda saw the darkness of Middle-earth and made new and brighter stars. As she finished that work, the Elves awoke by the waters of Cuiviénen in the far east of Middle-earth, under the stars, in the Years of the Trees. Melkor learned of their coming. He stole some Elves and, according to the tale, twisted them into the first Orcs.\n\nOromë found the Elves while he hunted, and he told the Valar. The Valar chose to make war on Melkor to protect the Elves. They broke the fortress of Utumno and cast Melkor down. They bound him and took him to Valinor, where he was held in prison for three ages.\n\nThe Valar then invited the Elves to live in Valinor. Three Elves were chosen as ambassadors: Ingwë, Finwë and Elwë. They saw Valinor and came back to persuade their people. Three hosts then set out westward. The Vanyar, led by Ingwë, were the first. The Noldor, led by Finwë, came second. The Teleri, led by Elwë and his brother Olwë, came last.\n\nSome Elves refused the call and remained in the east, and they were called the Avari. The Teleri lagged, and their story continues in the chapter on Thingol and Melian.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Chapter": "3 of 24",
+   "Awakening": "Cuiviénen",
+   "Melkor bound": "Three ages in Valinor"
+  },
+  "places": [],
+  "related": [
+   "person:varda",
+   "person:orome",
+   "person:manwe",
+   "person:morgoth",
+   "person:finwe",
+   "person:thingol",
+   "b:people:noldor",
+   "b:people:orcs"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapter 3"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "lore:silm-qs-04",
+  "title": "Of Thingol and Melian",
+  "group": "The Silmarillion",
+  "kind": "Quenta Silmarillion, chapter 4",
+  "aka": [],
+  "blurb": "The chapter tells how Elwë met the Maia Melian in Nan Elmoth, how the Teleri went on without him, and how he became King Thingol.",
+  "book": "The chapter begins with Melian, a Maia of the same order as the Valar. She dwelt in the gardens of Lórien in Valinor, and she was famed for her songs. In the time before the Elves awoke, she went to Middle-earth and filled its woods with the song of nightingales.\n\nWhen the Teleri halted in Beleriand on the Great Journey, Elwë often went through the woods to visit his friend Finwë. One day he walked alone into the wood of Nan Elmoth. There he heard Melian singing, and he saw her in the starlight. A spell of love fell on him, and the two stood together while long years passed.\n\nHis people searched for him in vain. At last his brother Olwë took the kingship of the Teleri and led most of them on toward the sea. Some of Elwë's people would not leave while their lord was lost, and they stayed in Beleriand.\n\nElwë never went on to Valinor while he lived, and Melian stayed with him. Through her, a strain of the Ainur came into the lines of Elves and Men.\n\nIn later days Elwë became a great king. His people, the Elves of Beleriand, were called the Sindar, the Grey-elves, and he was named Elu Thingol, King Greymantle, in their tongue. Melian was his queen, and their hidden halls were at Menegroth, the Thousand Caves, in Doriath.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Chapter": "4 of 24",
+   "Meeting place": "Nan Elmoth",
+   "Later realm": "Doriath"
+  },
+  "places": [
+   {
+    "id": "b:TO01",
+    "role": "ruled",
+    "note": "The chapter names Menegroth as the later hall of Thingol and Melian."
+   },
+   {
+    "id": "b:RG07",
+    "role": "ruled",
+    "note": "The chapter names Doriath as their later realm."
+   },
+   {
+    "id": "b:FO05",
+    "role": "other",
+    "note": "Elwë met Melian in Nan Elmoth."
+   }
+  ],
+  "related": [
+   "person:thingol",
+   "person:melian",
+   "person:finwe",
+   "b:people:sindar"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapter 4"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:silm-qs-05",
+  "title": "Of Eldamar and the Princes of the Eldalië",
+  "group": "The Silmarillion",
+  "kind": "Quenta Silmarillion, chapter 5",
+  "aka": [],
+  "blurb": "The chapter describes the Elves in Valinor, the city of Tirion, the Teleri at Alqualondë and the house of Finwë.",
+  "book": "The Vanyar and the Noldor reached Valinor first and settled near the Valar. The Noldor built the city of Tirion on the hill of Túna. The Vanyar lived close to Manwë and Varda. Ulmo carried the Teleri over the sea on an island. At the urging of Ossë, he rooted the island in the Bay of Eldamar, and it became Tol Eressëa. The Teleri dwelt there long. Later they sailed to the coast of Aman and built the haven of Alqualondë.\n\nThe chapter names the kings of the three kindreds. Ingwë ruled the Vanyar and was held the High King of all the Elves, Finwë ruled the Noldor, and Olwë ruled the Teleri after Elwë was lost. It also tells of the Teleri learning ship-building from Ossë and of the Swan-ships.\n\nThe Noldor were beloved of Aulë, and he taught them much. They loved words and crafts, and they were the first to make gems.\n\nThe chapter ends with the house of Finwë, King of the Noldor. His eldest son Fëanor was the son of Míriel. His younger sons, Fingolfin and Finarfin, were the sons of Indis of the Vanyar.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Chapter": "5 of 24",
+   "Cities": "Tirion, Alqualondë"
+  },
+  "places": [],
+  "related": [
+   "person:finwe",
+   "person:feanor",
+   "person:fingolfin",
+   "person:finarfin",
+   "person:aule",
+   "person:ulmo",
+   "thing:swan-ships",
+   "b:people:noldor"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapter 5"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:silm-qs-06",
+  "title": "Of Fëanor and the Unchaining of Melkor",
+  "group": "The Silmarillion",
+  "kind": "Quenta Silmarillion, chapter 6",
+  "aka": [],
+  "blurb": "The chapter tells of the birth and skill of Fëanor, the loss of his mother Míriel, and the release of Melkor after his three ages of captivity.",
+  "book": "Fëanor was born in Eldamar, the eldest son of Finwë. His mother Míriel gave him the name Fëanor, Spirit of Fire. Bearing him spent her strength. She went to rest in the gardens of Lórien, and her spirit left her body and passed to the halls of Mandos. Finwë later married Indis, and Fëanor had little love for Indis or her sons.\n\nFëanor grew to be the greatest of the Noldor in skill and lore. He improved the letters of Rúmil into the script that the Eldar used ever after. He also made gems and crystals of his own. He married Nerdanel, the daughter of a great smith, and they had seven sons: Maedhros, Maglor, Celegorm, Caranthir, Curufin, Amrod and Amras.\n\nWhen his three ages in the halls of Mandos were over, Melkor was brought before the Valar. He humbled himself and asked for pardon, and Nienna spoke for him. Manwë did not see the depth of his malice, and he set Melkor free. Melkor had to dwell within Valinor under watch.\n\nMelkor seemed to help all who asked, and many of the Noldor learned from his knowledge. The Vanyar distrusted him, and he scorned the Teleri. Ulmo and Tulkas also doubted him. Melkor later claimed that Fëanor had learned his arts in secret from him, but this was a lie. Fëanor hated Melkor, and the chapter ends with Melkor free among the Elves.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Chapter": "6 of 24",
+   "Sons of Fëanor": "Seven"
+  },
+  "places": [],
+  "related": [
+   "person:feanor",
+   "person:finwe",
+   "person:morgoth",
+   "person:manwe",
+   "person:nienna",
+   "person:tulkas",
+   "person:maedhros",
+   "person:maglor",
+   "person:celegorm",
+   "person:curufin"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapter 6"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:silm-qs-07",
+  "title": "Of the Silmarils and the Unrest of the Noldor",
+  "group": "The Silmarillion",
+  "kind": "Quenta Silmarillion, chapter 7",
+  "aka": [],
+  "blurb": "The chapter tells how Fëanor made the Silmarils, how Melkor coveted them and how Fëanor was banished.",
+  "book": "Fëanor set out to capture the light of the Two Trees in a work greater than any he had made. He made three jewels, the Silmarils, from a substance of his own devising. They shone with the mingled light of Telperion and Laurelin. Varda hallowed them, so that no evil thing or mortal flesh could touch them without being burned.\n\nThe Elves marvelled at the Silmarils, and Fëanor loved them beyond all things. Melkor lusted for them, and his envy turned to hate. He spread lies among the Noldor. He said that the Valar had brought the Elves to Aman out of jealousy, and that Men would take the lands of Middle-earth. He also whispered that Fingolfin planned to take Fëanor's place. The Noldor began to forge weapons, and Fëanor made a secret forge.\n\nFëanor spoke openly against the Valar. At last he drew his sword on Fingolfin in the house of Finwë. The Valar summoned Fëanor to the Ring of Doom, and there the lies of Melkor came to light. Fëanor was banished from Tirion for twelve years for drawing his sword. He went to Formenos in the north with his sons, and Finwë went with him. Fingolfin ruled the Noldor in Tirion.\n\nTulkas went to seize Melkor, but he had hidden himself. Later Melkor came to Formenos and spoke to Fëanor of the jewels. Fëanor saw his purpose, cursed him and shut the door on him. Melkor then vanished from sight.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Chapter": "7 of 24",
+   "Silmarils": "Three jewels",
+   "Banishment": "Twelve years, to Formenos"
+  },
+  "places": [],
+  "related": [
+   "person:feanor",
+   "thing:silmarils",
+   "person:fingolfin",
+   "person:morgoth",
+   "person:varda",
+   "person:finwe",
+   "thing:two-trees"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapter 7"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:silm-qs-08",
+  "title": "Of the Darkening of Valinor",
+  "group": "The Silmarillion",
+  "kind": "Quenta Silmarillion, chapter 8",
+  "aka": [],
+  "blurb": "The chapter tells how Melkor and Ungoliant killed the Two Trees, how Melkor slew Finwë and stole the Silmarils, and how Fëanor named him Morgoth.",
+  "book": "Melkor joined with Ungoliant, a monstrous spider spirit who lived in the south of Aman. She agreed to help him in return for a promised reward. Together they went to Valmar while the Valar were feasting on Taniquetil.\n\nMelkor struck each of the Two Trees with a spear, and Ungoliant drank their sap and the water of the Wells of Varda. The Trees died, and darkness fell on Valinor. Ungoliant wove a cloud of Unlight about them, and Oromë and Tulkas hunted for Melkor in vain.\n\nYavanna asked Fëanor to give up the Silmarils, so that she might heal the Trees with their light. Fëanor hesitated and then refused. At that moment messengers came with news. Melkor had gone to Formenos, killed Finwë and stolen the Silmarils, along with many other jewels.\n\nFëanor cursed Melkor and named him Morgoth, the Black Foe of the World. He also cursed the summons of Manwë and fled from the Ring of Doom.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Chapter": "8 of 24",
+   "Victim": "Finwë, first King of the Noldor"
+  },
+  "places": [],
+  "related": [
+   "person:ungoliant",
+   "person:morgoth",
+   "person:finwe",
+   "person:feanor",
+   "thing:two-trees",
+   "thing:silmarils",
+   "person:yavanna"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapter 8"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:silm-qs-09",
+  "title": "Of the Flight of the Noldor",
+  "group": "The Silmarillion",
+  "kind": "Quenta Silmarillion, chapter 9",
+  "aka": [],
+  "blurb": "The chapter tells of Ungoliant at Lammoth, Fëanor's Oath, the Kinslaying at Alqualondë, the Doom of Mandos and the burning of the ships.",
+  "book": "Morgoth and Ungoliant fled north and crossed the Helcaraxë into Middle-earth. In Lammoth, Ungoliant demanded the Silmarils, and Morgoth refused her. She wrapped him in her webs, and his great cry brought his Balrogs, who drove her away. She fled south to Nan Dungortheb. Morgoth rebuilt Angband and raised the towers of Thangorodrim.\n\nFëanor stood before the Noldor in Tirion and urged them to leave Valinor and pursue Morgoth. He and his seven sons swore a terrible oath. They vowed to hunt with vengeance anyone who held or kept a Silmaril, whether Vala, Elf or Man.\n\nMost of the Noldor followed. Fingolfin and Finarfin went with doubt, because their people wished to go. The host marched north along the coast to Alqualondë.\n\nFëanor asked the Teleri for their ships, but they refused. A fight began, and the Noldor slew many Teleri and took their Swan-ships. This was the first Kinslaying, the first spilling of Elvish blood by Elves.\n\nThen a dark figure, perhaps Mandos himself, spoke the Doom of Mandos, a prophecy of sorrow for the Noldor. Finarfin turned back and was pardoned. Fëanor and Fingolfin went on, and both hosts reached the northern shores. There were not enough ships for all. Fëanor sailed with his own people to Losgar in Middle-earth, and he burned the ships behind him. Fingolfin's people, left behind, crossed the grinding ice of the far north on foot.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Chapter": "9 of 24",
+   "Event": "First Kinslaying at Alqualondë"
+  },
+  "places": [
+   {
+    "id": "b:battle:battle-of-the-lammoth",
+    "role": "other",
+    "note": "Morgoth's Balrogs drove Ungoliant away from him in Lammoth."
+   },
+   {
+    "id": "b:RG10",
+    "role": "other",
+    "note": "Ungoliant fled to the region later called Nan Dungortheb."
+   },
+   {
+    "id": "b:HA01",
+    "role": "other",
+    "note": "Fëanor landed at Losgar and burned the ships."
+   }
+  ],
+  "related": [
+   "person:ungoliant",
+   "person:morgoth",
+   "person:feanor",
+   "person:fingolfin",
+   "person:finarfin",
+   "person:mandos",
+   "thing:swan-ships",
+   "person:fingon"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapter 9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:silm-qs-10",
+  "title": "Of the Sindar",
+  "group": "The Silmarillion",
+  "kind": "Quenta Silmarillion, chapter 10",
+  "aka": [],
+  "blurb": "The chapter tells of Thingol's realm, the building of Menegroth by the Dwarves, the Cirth, the First Battle of Beleriand and the Girdle of Melian.",
+  "book": "While the Sindar dwelt in Beleriand under the stars, Lúthien was born to Thingol and Melian. Thingol ruled in peace for long years.\n\nThe Dwarves of the Blue Mountains came into Beleriand. They were of Nogrod and Belegost, and they traded with the Elves. On Melian's counsel, Thingol had them delve the halls of Menegroth for him in a hill by the river Esgalduin. The Dwarves also made weapons and mail for his people.\n\nIn this time the Nandor under Denethor crossed the Blue Mountains and settled in Ossiriand. They were later called the Green-elves. Daeron, the minstrel of Thingol, devised the runes called the Cirth.\n\nBefore the Sun rose, Orcs and wolves came down from the north and attacked Beleriand. Thingol and the Green-elves fought them in the First Battle of Beleriand. The Elves won, but Denethor fell on Amon Ereb. The havens of Círdan on the coast were also besieged.\n\nThingol then gathered his people into the central woods. Melian set her power about them as an unseen fence, the Girdle of Melian, and no one could pass it against her will. The land within it was called Doriath. The chapter ends as the Noldor return to Middle-earth.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Chapter": "10 of 24",
+   "Event": "First Battle of Beleriand",
+   "Hall": "Menegroth"
+  },
+  "places": [
+   {
+    "id": "b:TO01",
+    "role": "made",
+    "note": "Dwarves delved the halls of Menegroth for Thingol."
+   },
+   {
+    "id": "b:RG16",
+    "role": "lived",
+    "note": "The Nandor under Denethor settled in Ossiriand."
+   },
+   {
+    "id": "b:battle:first-battle-of-beleriand",
+    "role": "fought",
+    "note": "The Sindar and Green-elves met the first Orc raids."
+   },
+   {
+    "id": "b:HI04",
+    "role": "died",
+    "note": "Denethor fell on the hill of Amon Ereb."
+   },
+   {
+    "id": "b:NP012",
+    "role": "made",
+    "note": "Melian laid the Girdle around Doriath after the battle."
+   },
+   {
+    "id": "b:RG07",
+    "role": "ruled",
+    "note": "The guarded land took the name Doriath."
+   }
+  ],
+  "related": [
+   "person:thingol",
+   "person:melian",
+   "person:luthien",
+   "person:daeron",
+   "b:people:sindar",
+   "b:people:laiquendi",
+   "b:people:dwarves-of-belegost-and-nogrod",
+   "b:people:orcs",
+   "b:battle:first-battle-of-beleriand"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapter 10"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:silm-qs-11",
+  "title": "Of the Sun and Moon and the Hiding of Valinor",
+  "group": "The Silmarillion",
+  "kind": "Quenta Silmarillion, chapter 11",
+  "aka": [],
+  "blurb": "The chapter tells how the last flower and fruit of the Trees became the Moon and Sun and how the Valar hid Valinor.",
+  "book": "After the Trees died, Yavanna and Nienna tried to heal them, but they could not. Yet Telperion bore a last flower and Laurelin a last fruit. The Valar made from them a vessel for the Moon and one for the Sun. Varda hallowed them, and the Valar chose Maiar to guide them.\n\nTilion, a hunter of the company of Oromë, guided the Moon. Arien, a spirit of fire, guided the Sun. The Moon rose first, and later the Sun rose in the West. The servants of Morgoth hated the new light.\n\nThe Valar then hid Valinor. They raised the Pelóri higher, set the Enchanted Isles in the sea and laid the Shadowy Seas about the coast. The aim was to keep out Morgoth and to turn aside mariners who sought Aman.\n\nThe chapter is short, but it marks a new age. With the Sun, the Years of the Sun began, and Men awoke in the far east at its first rising.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Chapter": "11 of 24",
+   "Sun guide": "Arien",
+   "Moon guide": "Tilion"
+  },
+  "places": [],
+  "related": [
+   "person:arien",
+   "person:tilion",
+   "person:varda",
+   "person:yavanna",
+   "person:nienna",
+   "thing:two-trees"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapter 11"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:silm-qs-12",
+  "title": "Of Men",
+  "group": "The Silmarillion",
+  "kind": "Quenta Silmarillion, chapter 12",
+  "aka": [],
+  "blurb": "The chapter tells of the awakening of Men at the first Sun, the names the Elves gave them, and the Gift of Men.",
+  "book": "The Valar sat at peace behind their mountains, and they did not come to guide Men. Men, the Second Children of Ilúvatar, awoke in the land of Hildórien in the east of Middle-earth at the first rising of the Sun.\n\nThe Elves gave Men many names. They called them the Atani, the Second People, and the Hildor, the Followers. They also called them the Mortals, the Sickly, the Usurpers and the Strangers.\n\nIn their early wanderings Men met Dark Elves, who befriended them and taught them speech and crafts. Ulmo also cared for Men, and they loved the waters, though they did not understand his messages.\n\nThe chapter then compares the fates of the two kindreds. The Elves are bound to the world while it lasts. They die only if they are slain or waste away in grief, and even then their spirits go to the halls of Mandos and may return. Men die, and their spirits leave the world, and none but Ilúvatar knows where they go. This is the Gift of Ilúvatar to Men. Morgoth cast a shadow on it, so that Men came to fear death.\n\nThe chapter adds that in later ages the Elves faded as Men grew. The coming of Men into Beleriand is told in chapter 17.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Chapter": "12 of 24",
+   "Awakening": "Hildórien, at the first Sun"
+  },
+  "places": [],
+  "related": [
+   "person:morgoth",
+   "person:ulmo",
+   "person:mandos"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapter 12"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:silm-qs-13",
+  "title": "Of the Return of the Noldor",
+  "group": "The Silmarillion",
+  "kind": "Quenta Silmarillion, chapter 13",
+  "aka": [],
+  "blurb": "The chapter tells of the Battle under Stars, the death of Fëanor, the rescue of Maedhros, the founding of the Noldorin realms and the Siege of Angband.",
+  "book": "Fëanor's host camped by Lake Mithrim. Before they could fortify the camp, Morgoth's host attacked in the Dagor-nuin-Giliath, the Battle under Stars. The Noldor won, and Fëanor pursued the Orcs toward Angband, far ahead of his people. Balrogs surrounded him, and Gothmog struck him down. His sons carried him away. As he died, he cursed Morgoth and bade them keep their oath. His body burned to ash.\n\nMaedhros became the head of the house of Fëanor. Morgoth offered a parley, and both sides came with more force than agreed. Maedhros was taken and hung by the right wrist from a cliff of Thangorodrim.\n\nFingolfin's host came into Middle-earth at the first rising of the Moon, and the Sun rose as they marched into Mithrim. Fingon later went alone to Thangorodrim. Thorondor bore him up to Maedhros, and Fingon cut off his hand to free him. Maedhros gave up his claim to the kingship, and Fingolfin became High King of the Noldor.\n\nThingol allowed the Noldor to dwell in the north and east, but he kept Doriath closed. Elves of many kindreds met at Eithel Ivrin in the Mereth Aderthad, the Feast of Reuniting. Ulmo sent dreams to Turgon and Finrod. Finrod founded Nargothrond in caves by the river Narog, and Galadriel stayed in Doriath with Melian. Turgon found a hidden vale among the mountains.\n\nIn F.A. 60 Morgoth attacked again, and the Noldor destroyed his host in the Dagor Aglareb, the Glorious Battle. They then began the Siege of Angband, which lasted almost four hundred years. Later the young dragon Glaurung came out, and Fingon drove him back.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Chapter": "13 of 24",
+   "Battle": "Dagor-nuin-Giliath",
+   "Death": "Fëanor",
+   "Later battle": "Dagor Aglareb, F.A. 60"
+  },
+  "places": [
+   {
+    "id": "b:LA01",
+    "role": "lived",
+    "note": "The Noldor camped about Lake Mithrim."
+   },
+   {
+    "id": "b:battle:dagor-nuin-giliath",
+    "role": "fought",
+    "note": "The Noldor defeated the Orcs here in the Battle under Stars."
+   },
+   {
+    "id": "b:MT02",
+    "role": "other",
+    "note": "Maedhros hung on a cliff of Thangorodrim, and Fingon rescued him."
+   },
+   {
+    "id": "b:LA04",
+    "role": "other",
+    "note": "The Feast of Reuniting was held at Eithel Ivrin."
+   },
+   {
+    "id": "b:TO02",
+    "role": "made",
+    "note": "Finrod founded Nargothrond in caves by the Narog."
+   },
+   {
+    "id": "b:battle:dagor-aglareb",
+    "role": "fought",
+    "note": "The Noldor destroyed Morgoth's host and began the Siege of Angband."
+   },
+   {
+    "id": "b:battle:first-coming-of-glaurung",
+    "role": "fought",
+    "note": "Fingon drove back the young Glaurung."
+   }
+  ],
+  "related": [
+   "person:feanor",
+   "person:maedhros",
+   "person:fingon",
+   "person:fingolfin",
+   "person:thorondor",
+   "person:gothmog-lord-of-balrogs",
+   "person:finrod-felagund",
+   "person:galadriel",
+   "person:glaurung",
+   "b:battle:dagor-aglareb"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapter 13"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:silm-qs-14",
+  "title": "Of Beleriand and its Realms",
+  "group": "The Silmarillion",
+  "kind": "Quenta Silmarillion, chapter 14",
+  "aka": [],
+  "blurb": "The chapter describes the geography of Beleriand and the realms that the Elves founded there.",
+  "book": "The chapter is a survey of Beleriand, the land in the north-west of Middle-earth. It describes the great rivers, the forests and the mountains, and then the realms of the Elves.\n\nIn the north stood Thangorodrim, Morgoth's mountains above Angband. Before them lay Ard-galen, the grassy plain, and the Noldor watched this northern border. Fingolfin held Hithlum behind the mountains Ered Wethrin, and his son Fingon held Dor-lómin within it. Maedhros held the hill of Himring, and his brothers held the eastern marches. Angrod and Aegnor, sons of Finarfin, held the slopes of Dorthonion.\n\nIn the centre lay the forest realm of Doriath. Thingol and Melian ruled there, and the Girdle protected them. To the south-west lay Nargothrond, a realm that Finrod Felagund founded in caves by the river Narog. The Elves of the coast, led by Círdan, lived in the Havens of Brithombar and Eglarest. In the east, beyond the river Gelion, lay Ossiriand, the land of the Green-elves.\n\nThe great river Sirion ran through the middle of Beleriand to the sea, and its valley divided the west from the east. The chapter thus gives the reader the map of the whole First Age.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Chapter": "14 of 24",
+   "Setting": "Beleriand, First Age"
+  },
+  "places": [
+   {
+    "id": "b:RG18",
+    "role": "other",
+    "note": "East Beleriand lay between Doriath and the river Gelion."
+   },
+   {
+    "id": "b:RG19",
+    "role": "other",
+    "note": "West Beleriand held Nargothrond and the Falas."
+   },
+   {
+    "id": "b:RG07",
+    "role": "other",
+    "note": "Doriath was the realm of Thingol and Melian."
+   },
+   {
+    "id": "b:RG11",
+    "role": "other",
+    "note": "Dorthonion was a highland in the north."
+   },
+   {
+    "id": "b:RG16",
+    "role": "other",
+    "note": "Ossiriand lay beyond the Gelion in the east."
+   },
+   {
+    "id": "b:RG01",
+    "role": "other",
+    "note": "Hithlum lay behind the Ered Wethrin."
+   },
+   {
+    "id": "b:TO02",
+    "role": "other",
+    "note": "Nargothrond was Finrod's hidden stronghold."
+   },
+   {
+    "id": "b:MT02",
+    "role": "other",
+    "note": "Thangorodrim rose above Angband."
+   }
+  ],
+  "related": [
+   "person:thingol",
+   "person:melian",
+   "person:finrod-felagund",
+   "person:fingolfin",
+   "person:fingon",
+   "person:maedhros",
+   "person:cirdan",
+   "b:people:sindar"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapter 14"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:silm-qs-15",
+  "title": "Of the Noldor in Beleriand",
+  "group": "The Silmarillion",
+  "kind": "Quenta Silmarillion, chapter 15",
+  "aka": [],
+  "blurb": "The chapter tells how Turgon built Gondolin in secret and how Thingol learned of the Kinslaying and banned the tongue of the Noldor.",
+  "book": "Turgon had found the hidden vale of Tumladen by the guidance of Ulmo. His people built the city of Gondolin there in secret, and the work took fifty-two years. When it was done, Turgon led his people out of Nevrast. Ulmo warned him not to love the work of his hands too much. He also told him to leave arms in Vinyamar for a messenger who would come one day.\n\nGaladriel lived in Doriath with Melian. Melian asked her why the Noldor had left Aman. Galadriel told much, but she kept silent about the Kinslaying and the Oath. Melian guessed that there was more, and she warned Thingol.\n\nLater rumours of the Kinslaying at Alqualondë reached Círdan, and he told Thingol. Thingol confronted the sons of Finarfin when they came to Menegroth. Angrod then told the whole tale, and he laid the blame on the sons of Fëanor.\n\nThingol forgave the house of Finarfin, for they were his kin through their mother, a daughter of Olwë. But he forbade his people to speak the tongue of the Noldor or to answer it. From then on, the Noldor in Beleriand used the Sindarin tongue in daily speech, and the High-elven tongue was kept only among their lords as a language of lore.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Chapter": "15 of 24",
+   "City": "Gondolin, built in secret over fifty-two years",
+   "Ban": "Thingol forbids the Noldorin tongue"
+  },
+  "places": [
+   {
+    "id": "b:TO03",
+    "role": "made",
+    "note": "Turgon built the hidden city of Gondolin."
+   },
+   {
+    "id": "b:RG04",
+    "role": "lived",
+    "note": "Turgon led his people out of Nevrast to Gondolin."
+   },
+   {
+    "id": "b:TO04",
+    "role": "other",
+    "note": "Ulmo told Turgon to leave arms in Vinyamar for a messenger."
+   },
+   {
+    "id": "b:TO01",
+    "role": "other",
+    "note": "Thingol confronted the sons of Finarfin in Menegroth."
+   }
+  ],
+  "related": [
+   "person:turgon",
+   "person:ulmo",
+   "person:galadriel",
+   "person:melian",
+   "person:thingol",
+   "person:cirdan",
+   "person:finrod-felagund"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapter 15"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:silm-qs-16",
+  "title": "Of Maeglin",
+  "group": "The Silmarillion",
+  "kind": "Quenta Silmarillion, chapter 16",
+  "aka": [],
+  "blurb": "The chapter tells of Aredhel, Eöl the Dark Elf, their son Maeglin and his life in Gondolin.",
+  "book": "Aredhel was the sister of Turgon. She grew restless in Gondolin, and Turgon let her ride out, though he feared for her. Near Nan Dungortheb she was parted from her escort. She rode on alone and came at last into the dark forest of Nan Elmoth.\n\nEöl, a Dark Elf, lived in Nan Elmoth. He was a great smith, and he had befriended the Dwarves. He disliked the Noldor, and he trapped Aredhel by his arts. She became his wife. The book says that she was not wholly unwilling, and for many years her life there was not hateful to her. They had a son, Maeglin.\n\nMaeglin grew up with Eöl, but he loved his mother's people. He asked to visit Gondolin, and Eöl refused. At last Aredhel and Maeglin fled. Eöl tracked them, and he found the hidden road into Gondolin.\n\nTurgon welcomed Aredhel and Maeglin. He ruled that Eöl must stay in Gondolin for ever or die, and Eöl refused. He threw a poisoned dart at Maeglin, and Aredhel was struck. She died of the wound. Eöl was cast from the cliff.\n\nMaeglin grew great in Turgon's favour, and he became a lord of the city. He loved Idril, Turgon's daughter, but she did not return his love. The chapter closes on this shadow.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Chapter": "16 of 24",
+   "Set in": "Nan Elmoth and Gondolin"
+  },
+  "places": [
+   {
+    "id": "b:FO05",
+    "role": "lived",
+    "note": "Eöl lived in the dark wood of Nan Elmoth."
+   },
+   {
+    "id": "b:TO03",
+    "role": "lived",
+    "note": "Maeglin rose to power in Gondolin."
+   },
+   {
+    "id": "b:RG10",
+    "role": "travelled",
+    "note": "Aredhel rode through Nan Dungortheb."
+   }
+  ],
+  "related": [
+   "person:aredhel",
+   "person:eol",
+   "person:maeglin",
+   "person:turgon",
+   "person:idril",
+   "thing:anguirel",
+   "b:journey:aredhel"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapter 16"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:silm-qs-17",
+  "title": "Of the Coming of Men into the West",
+  "group": "The Silmarillion",
+  "kind": "Quenta Silmarillion, chapter 17",
+  "aka": [],
+  "blurb": "The chapter tells how the first Men reached Beleriand and how the three Houses of the Edain settled there.",
+  "book": "Long after the Sun first rose, the first Men crossed the Blue Mountains into Beleriand. They were the people of Bëor, a wandering folk. Finrod Felagund met them and became their friend.\n\nBëor became Finrod's vassal, and the House of Bëor later settled in Dorthonion. Bëor was the first Man to die of old age in Beleriand, and the Elves grieved at it.\n\nThe people of Haleth came next. Orcs attacked them in Thargelion, and their lord was slain. His daughter Haleth led them, and Caranthir came to their rescue. They later asked Thingol for leave to live in the forest of Brethil, and he granted it.\n\nThe third host was the people of Marach. Hador, a lord of this folk, was given lordship in Dor-lómin by Fingolfin. The House of Hador became the most renowned of Men, and they were tall and golden-haired.\n\nThe three Houses are called the Edain. They served the Noldor in the war against Morgoth, and the Elves gave them much of their wisdom. Morgoth meanwhile sought to win other Men to his side.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Chapter": "17 of 24",
+   "Houses": "Bëor, Haleth, Hador"
+  },
+  "places": [
+   {
+    "id": "b:RG11",
+    "role": "lived",
+    "note": "The House of Bëor settled in the highlands of Dorthonion."
+   },
+   {
+    "id": "b:FO04",
+    "role": "lived",
+    "note": "The Haladin settled in Brethil."
+   },
+   {
+    "id": "b:RG02",
+    "role": "lived",
+    "note": "Hador held Dor-lómin under Fingolfin."
+   },
+   {
+    "id": "b:RG17",
+    "role": "travelled",
+    "note": "Many Men passed through Estolad on their way west."
+   }
+  ],
+  "related": [
+   "person:beor",
+   "person:hador",
+   "person:haleth",
+   "person:finrod-felagund",
+   "person:fingolfin",
+   "b:people:house-of-beor",
+   "b:people:house-of-hador",
+   "b:people:house-of-haleth"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapter 17"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:silm-qs-18",
+  "title": "Of the Ruin of Beleriand and the Fall of Fingolfin",
+  "group": "The Silmarillion",
+  "kind": "Quenta Silmarillion, chapter 18",
+  "aka": [],
+  "blurb": "The chapter tells how Morgoth broke the Siege of Angband in the Battle of Sudden Flame and how Fingolfin died.",
+  "book": "For nearly four hundred years the Noldor kept the Siege of Angband, and Morgoth stayed behind his mountains. In that time he prepared a great force in secret. In F.A. 455 he struck in the Dagor Bragollach, the Battle of Sudden Flame.\n\nRivers of fire ran down from Thangorodrim, and the grassy plain of Ard-galen burned. It became the desert called Anfauglith, the Gasping Dust. Orcs, wolves and dragons followed, and Glaurung, the first of the dragons, came out. The siege was broken, and Morgoth's armies fell on the Noldor and their allies.\n\nDorthonion was overrun, and the Sons of Finarfin suffered heavily. Hador, Lord of Dor-lómin, was killed. Barahir, a lord of the House of Bëor, saved Finrod Felagund, and Finrod swore an oath of friendship to him and gave him a ring.\n\nFingolfin saw the ruin of his people. In grief and anger he rode alone to Angband and challenged Morgoth to single combat. Morgoth came out, and Fingolfin wounded him seven times. Morgoth finally struck him down. Fingolfin died, and Thorondor, king of the Eagles, carried his body to a high place in the mountains. Fingon became High King of the Noldor.\n\nIn the years after, Sauron took Finrod's tower on Tol Sirion. Barahir held out in Dorthonion as an outlaw until Gorlim betrayed his band, and only Beren escaped. Eagles brought Húrin and Huor to Gondolin for a time. Easterlings first came into Beleriand.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Chapter": "18 of 24",
+   "Battle": "Dagor Bragollach, F.A. 455",
+   "Death": "Fingolfin"
+  },
+  "places": [
+   {
+    "id": "b:battle:dagor-bragollach",
+    "role": "fought",
+    "note": "Morgoth broke the Siege of Angband here."
+   },
+   {
+    "id": "b:RG20",
+    "role": "other",
+    "note": "Anfauglith was the plain of Ard-galen, burned in the battle."
+   },
+   {
+    "id": "b:battle:duel-fingolfin-morgoth",
+    "role": "fought",
+    "note": "Fingolfin challenged Morgoth at the gate of Angband."
+   },
+   {
+    "id": "b:NP006",
+    "role": "buried",
+    "note": "Fingolfin's body was laid in a high cairn in the mountains."
+   },
+   {
+    "id": "b:battle:fall-of-minas-tirith",
+    "role": "fought",
+    "note": "Sauron took Finrod's tower on Tol Sirion."
+   },
+   {
+    "id": "b:battle:end-of-barahirs-outlaws",
+    "role": "fought",
+    "note": "Barahir's band was slain after Gorlim betrayed it."
+   },
+   {
+    "id": "b:TO03",
+    "role": "other",
+    "note": "Eagles brought young Húrin and Huor to Gondolin."
+   }
+  ],
+  "related": [
+   "person:fingolfin",
+   "person:fingon",
+   "person:morgoth",
+   "person:glaurung",
+   "person:thorondor",
+   "person:barahir",
+   "person:finrod-felagund",
+   "person:beren",
+   "person:gorlim",
+   "thing:ring-of-barahir"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapter 18"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:silm-qs-19",
+  "title": "Of Beren and Lúthien",
+  "group": "The Silmarillion",
+  "kind": "Quenta Silmarillion, chapter 19",
+  "aka": [],
+  "blurb": "The chapter tells how Beren, a mortal, won Lúthien and took a Silmaril from the crown of Morgoth.",
+  "book": "Beren, a son of Barahir, escaped alone from Dorthonion after Morgoth's servants slew his father's band. He wandered south into Doriath, where he saw Lúthien dancing in the woods of Neldoreth. They fell in love.\n\nThingol would not give his daughter to a mortal. He set Beren a price, a Silmaril from the crown of Morgoth. Beren set out for Nargothrond. Finrod Felagund honoured his oath to Barahir and went with him. They were captured by Sauron and held in his island fortress of Tol-in-Gaurhoth. Finrod died there, defending Beren from a werewolf.\n\nLúthien fled from Doriath. Celegorm and Curufin held her in Nargothrond, but Huan, the hound of Celegorm, helped her escape. She and Huan came to Sauron's isle. Huan fought Sauron, who had taken the form of a great wolf, and overcame him. Sauron yielded the tower to Lúthien, and she freed Beren. The two then went to Angband, and Lúthien put Morgoth and his court to sleep. Beren cut a Silmaril from the crown with the knife Angrist. When he tried to take a second, the knife snapped.\n\nThe wolf Carcharoth guarded the gate and bit off Beren's hand, with the jewel in it. Thorondor and his Eagles carried the two to safety. Carcharoth, maddened by the fire of the Silmaril, ran wild into Doriath. Beren and Huan joined the hunt that killed him. Huan died, and Beren was mortally wounded. The Silmaril was recovered and given to Thingol, so the quest was fulfilled.\n\nBeren died, and Lúthien died of grief. She pleaded with Mandos, and the two were given back their lives as mortals. Lúthien thereby gave up her immortality.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Chapter": "19 of 24",
+   "Prize": "A Silmaril",
+   "Couple": "Beren and Lúthien"
+  },
+  "places": [
+   {
+    "id": "b:FO01",
+    "role": "other",
+    "note": "Beren first saw Lúthien in Neldoreth."
+   },
+   {
+    "id": "b:TO02",
+    "role": "other",
+    "note": "Finrod left Nargothrond to help Beren."
+   },
+   {
+    "id": "b:battle:duel-at-tol-in-gaurhoth",
+    "role": "fought",
+    "note": "Lúthien and Huan overcame Sauron here."
+   },
+   {
+    "id": "b:FT01",
+    "role": "other",
+    "note": "Beren and Lúthien came to the throne of Morgoth."
+   },
+   {
+    "id": "b:battle:hunting-of-carcharoth",
+    "role": "fought",
+    "note": "Carcharoth later ravaged Doriath."
+   }
+  ],
+  "related": [
+   "person:beren",
+   "person:luthien",
+   "person:thingol",
+   "person:finrod-felagund",
+   "person:huan",
+   "person:sauron",
+   "person:carcharoth",
+   "thing:silmarils",
+   "thing:angrist",
+   "b:journey:beren-luthien"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapter 19"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:silm-qs-20",
+  "title": "Of the Fifth Battle: Nírnaeth Arnoediad",
+  "group": "The Silmarillion",
+  "kind": "Quenta Silmarillion, chapter 20",
+  "aka": [],
+  "blurb": "The chapter tells of the great alliance against Morgoth and the disaster of the Battle of Unnumbered Tears.",
+  "book": "After the Bragollach, Maedhros formed the Union of Maedhros, an alliance of Elves, Edain, Dwarves and Easterlings. Fingon would march from Hithlum, and Maedhros from the east. Only a small company came from Nargothrond under Gwindor, and from Doriath only Mablung and Beleg came. Turgon came out of Gondolin with ten thousand warriors.\n\nThe battle took place in F.A. 472 on the plain of Anfauglith. Morgoth knew much of the plan. His servants slew Gelmir, the brother of Gwindor, before the eyes of the host. Gwindor charged in rage, and the battle began too soon. Uldor delayed the march of Maedhros with false warnings, so the two hosts did not join in time.\n\nIn the east, Uldor and the sons of Ulfang turned against the Elves, and their treason broke the host of Maedhros. Gwindor fought his way to the gates of Angband and was taken captive. Fingon fell fighting Gothmog, Lord of Balrogs. Azaghâl, lord of Belegost, wounded Glaurung before he died.\n\nHúrin and Huor held the line so that Turgon could escape. Huor was killed. Húrin stood to the last, and he was taken alive by order of Morgoth. Hithlum was given to Easterlings, and the power of the Elves in Beleriand was broken.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Chapter": "20 of 24",
+   "Date": "F.A. 472",
+   "Place": "Anfauglith"
+  },
+  "places": [
+   {
+    "id": "b:battle:nirnaeth-arnoediad",
+    "role": "fought",
+    "note": "The great alliance was broken here."
+   },
+   {
+    "id": "b:RG20",
+    "role": "fought",
+    "note": "The battle was fought on the plain before Thangorodrim."
+   },
+   {
+    "id": "b:GR01",
+    "role": "buried",
+    "note": "The dead of the battle lay in the Mound of Slain."
+   }
+  ],
+  "related": [
+   "person:hurin",
+   "person:huor",
+   "person:fingon",
+   "person:turgon",
+   "person:maedhros",
+   "person:gothmog-lord-of-balrogs",
+   "person:azaghal",
+   "person:uldor",
+   "person:gwindor",
+   "person:glaurung"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapter 20"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:silm-qs-21",
+  "title": "Of Túrin Turambar",
+  "group": "The Silmarillion",
+  "kind": "Quenta Silmarillion, chapter 21",
+  "aka": [],
+  "blurb": "The chapter tells the tragedy of Túrin, son of Húrin, who slew the dragon Glaurung and died by his own sword.",
+  "book": "Húrin was taken by Morgoth, who set him on a chair on Thangorodrim and made him watch the fate of his kin. Morgoth laid a curse on Húrin's family. His son Túrin was sent to Doriath by his mother Morwen. In Doriath, Túrin grew up, and he befriended Beleg.\n\nTúrin caused the death of an Elf, Saeros, in a quarrel, and he fled. He became the leader of outlaws. Beleg followed and later was slain by Túrin by mistake. Túrin then went to Nargothrond with the help of Gwindor, and he became a great captain. His advice changed the style of war there. Morgoth sent Glaurung against the city, which fell after the Battle of Tumhalad.\n\nMorwen and Nienor went to Nargothrond to seek news of him. Glaurung cast a spell on Nienor that took away her memory. Túrin found her in Brethil, named her Níniel and wed her, not knowing who she was. When Glaurung came against Brethil, Túrin slew him at Cabed-en-Aras, but the dragon's venom struck him senseless. Níniel found him there. The dying dragon told her the truth, and she leapt into the river Teiglin. When Túrin learned who she had been, he fell on his sword Gurthang.\n\nThe people of Brethil raised a stone over Túrin and wrote Nienor's name on it too, though her body was never found.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Chapter": "21 of 24",
+   "Fate": "Died by his own sword"
+  },
+  "places": [
+   {
+    "id": "b:RG07",
+    "role": "lived",
+    "note": "Túrin grew up at the court of Thingol."
+   },
+   {
+    "id": "b:TO02",
+    "role": "lived",
+    "note": "Túrin led the defence of Nargothrond."
+   },
+   {
+    "id": "b:FO04",
+    "role": "lived",
+    "note": "Túrin lived among the Haladin in Brethil."
+   },
+   {
+    "id": "b:HI03",
+    "role": "lived",
+    "note": "The outlaw band came to Amon Rûdh."
+   },
+   {
+    "id": "b:battle:slaying-of-glaurung",
+    "role": "fought",
+    "note": "Túrin killed Glaurung at Cabed-en-Aras."
+   },
+   {
+    "id": "b:battle:battle-of-tumhalad",
+    "role": "fought",
+    "note": "Nargothrond fell after the Battle of Tumhalad."
+   }
+  ],
+  "related": [
+   "person:turin",
+   "person:nienor",
+   "person:hurin",
+   "person:morwen",
+   "person:beleg",
+   "person:glaurung",
+   "person:gwindor",
+   "thing:gurthang",
+   "b:journey:turin"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapter 21"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:silm-qs-22",
+  "title": "Of the Ruin of Doriath",
+  "group": "The Silmarillion",
+  "kind": "Quenta Silmarillion, chapter 22",
+  "aka": [],
+  "blurb": "The chapter tells how the Nauglamír brought about the death of Thingol, the fall of Doriath and the Second Kinslaying.",
+  "book": "Morgoth released Húrin after twenty-eight years. Húrin found Morwen at the grave of their children in Brethil, and she died there. He then went to the ruins of Nargothrond, slew Mîm and took the Nauglamír, the necklace that the Dwarves had made for Finrod. He cast it at Thingol's feet in Menegroth and then left in grief.\n\nThingol wished to set his Silmaril in the Nauglamír, and he asked the Dwarves of Nogrod to do the work. When they saw the jewel, they lusted for it, and they slew Thingol in his own halls. Most of the slayers were hunted down. Melian left Middle-earth in grief, and her Girdle was gone. Then a host from Nogrod came into Doriath, sacked Menegroth and took the necklace.\n\nAs the Dwarves crossed the river Gelion at Sarn Athrad, Beren with the Green-elves and the Ents fell on them and took back the Nauglamír. Lúthien wore it with the Silmaril. After Beren and Lúthien died, the jewel passed to their son Dior, who had become king in Doriath.\n\nThe sons of Fëanor demanded the Silmaril, and Dior refused. They attacked Doriath in the Second Kinslaying. Dior and his wife Nimloth died, and Celegorm, Curufin and Caranthir also fell. Dior's daughter Elwing escaped with the Silmaril to the Havens of Sirion.\n\nChristopher Tolkien later explained in The History of Middle-earth that he built much of this chapter himself from scattered notes.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Chapter": "22 of 24",
+   "Event": "Second Kinslaying"
+  },
+  "places": [
+   {
+    "id": "b:NP008",
+    "role": "died",
+    "note": "Morwen died at the grave of her children in Brethil."
+   },
+   {
+    "id": "b:TO02",
+    "role": "found",
+    "note": "Húrin took the Nauglamír from the ruins of Nargothrond."
+   },
+   {
+    "id": "b:battle:sack-of-menegroth",
+    "role": "fought",
+    "note": "The Dwarves of Nogrod killed Thingol and sacked Menegroth."
+   },
+   {
+    "id": "b:battle:battle-of-sarn-athrad",
+    "role": "fought",
+    "note": "Beren and the Green-elves ambushed the Dwarves at Sarn Athrad."
+   },
+   {
+    "id": "b:battle:second-kinslaying",
+    "role": "fought",
+    "note": "The sons of Fëanor attacked Doriath."
+   },
+   {
+    "id": "b:TO07",
+    "role": "other",
+    "note": "Elwing fled to the Havens of Sirion."
+   }
+  ],
+  "related": [
+   "person:hurin",
+   "person:morwen",
+   "person:mim",
+   "person:thingol",
+   "person:melian",
+   "person:beren",
+   "person:dior",
+   "person:elwing",
+   "thing:nauglamir",
+   "b:journey:nauglamir"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapter 22"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:silm-qs-23",
+  "title": "Of Tuor and the Fall of Gondolin",
+  "group": "The Silmarillion",
+  "kind": "Quenta Silmarillion, chapter 23",
+  "aka": [],
+  "blurb": "The chapter tells how Tuor reached Gondolin, wed Idril and survived the betrayal and fall of the hidden city.",
+  "book": "Tuor, son of Huor, grew up among the Grey-elves of Hithlum. He was later a thrall of the Easterlings, and after his escape he lived as an outlaw. Ulmo, Lord of Waters, sent him a message and led him to Gondolin. Tuor passed through the hidden gate with Voronwë. He gave Turgon a warning from Ulmo, but Turgon did not heed it.\n\nTuor stayed in Gondolin and married Idril, Turgon's daughter. They had a son, Eärendil. Maeglin, who loved Idril himself, hated Tuor.\n\nMorgoth captured Maeglin outside the city, and Maeglin revealed where Gondolin lay in return for Idril and lordship. In F.A. 510 Morgoth's host came over the mountains with Balrogs and dragons. Ecthelion of the Fountain slew Gothmog, and both died. Turgon died when his tower fell. In the sack, Maeglin seized Idril and Eärendil, but Tuor fought him and cast him from the walls.\n\nIdril had prepared a secret way out of the city. She and Tuor led the survivors through it and north into the mountains. In the pass of Cirith Thoronath a Balrog attacked them, and Glorfindel fell fighting it. The survivors went south to Nan-tathren and later came to the mouths of Sirion, where they joined Elwing's people.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Chapter": "23 of 24",
+   "Date": "F.A. 510"
+  },
+  "places": [
+   {
+    "id": "b:TO03",
+    "role": "lived",
+    "note": "Gondolin was the hidden city of Turgon."
+   },
+   {
+    "id": "b:NP003",
+    "role": "travelled",
+    "note": "Tuor passed this gate on his way to Gondolin."
+   },
+   {
+    "id": "b:battle:fall-of-gondolin",
+    "role": "fought",
+    "note": "Morgoth's host destroyed Gondolin."
+   },
+   {
+    "id": "b:VA07",
+    "role": "fought",
+    "note": "Glorfindel fell in the pass called Cirith Thoronath."
+   },
+   {
+    "id": "b:TO07",
+    "role": "other",
+    "note": "The survivors settled at the Havens of Sirion."
+   },
+   {
+    "id": "b:FO09",
+    "role": "travelled",
+    "note": "The survivors of Gondolin rested in Nan-tathren."
+   }
+  ],
+  "related": [
+   "person:tuor",
+   "person:idril",
+   "person:turgon",
+   "person:maeglin",
+   "person:ulmo",
+   "person:earendil",
+   "person:ecthelion-of-the-fountain",
+   "person:glorfindel",
+   "person:voronwe",
+   "b:journey:tuor"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapter 23"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:silm-qs-24",
+  "title": "Of the Voyage of Eärendil and the War of Wrath",
+  "group": "The Silmarillion",
+  "kind": "Quenta Silmarillion, chapter 24",
+  "aka": [],
+  "blurb": "The chapter tells how Eärendil reached Valinor, how the Valar overthrew Morgoth and how Beleriand was lost.",
+  "book": "Tuor and Idril sailed into the West, and their son Eärendil became lord of the people at the Havens of Sirion. He married Elwing. With the help of Círdan he built the ship Vingilot and sailed far, seeking Valinor, but he could not find the way.\n\nWhile he was away, the sons of Fëanor attacked the Havens in the Third Kinslaying to take the Silmaril. Elwing cast herself into the sea with the jewel. Ulmo bore her up in the form of a white bird, and she flew to Eärendil. With the Silmaril on his brow, Eärendil passed the Enchanted Isles and came to Aman. He spoke before the Valar for Elves and Men, and they granted pardon and help.\n\nVingilot was hallowed and set to sail the sky, and the Silmaril shone as a star.\n\nThe host of the Valar came under Eönwë, with the Vanyar and those Noldor who had stayed in Valinor. This was the War of Wrath, which ended the First Age. Morgoth's armies were routed. He loosed winged dragons, but Eärendil came with the Eagles and slew Ancalagon the Black, whose fall broke the towers of Thangorodrim. Morgoth was thrust through the Door of Night, and much of Beleriand sank beneath the sea.\n\nMaedhros and Maglor stole the last two Silmarils from the camp of Eönwë, but the jewels burned their hands. Maedhros cast himself into a fiery chasm, and Maglor threw his jewel into the sea. Elrond chose to be counted among the Elves. Elros chose the fate of Men and became the first king of Númenor.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Chapter": "24 of 24",
+   "War": "War of Wrath, end of the First Age"
+  },
+  "places": [
+   {
+    "id": "b:TO07",
+    "role": "other",
+    "note": "Elwing fled the Third Kinslaying here, and Eärendil sailed from the Havens."
+   },
+   {
+    "id": "b:battle:third-kinslaying",
+    "role": "fought",
+    "note": "The sons of Fëanor attacked the Havens of Sirion."
+   },
+   {
+    "id": "b:battle:war-of-wrath",
+    "role": "fought",
+    "note": "The host of Valinor overthrew Morgoth."
+   },
+   {
+    "id": "b:MT02",
+    "role": "destroyed",
+    "note": "Thangorodrim was broken in the war."
+   }
+  ],
+  "related": [
+   "person:earendil",
+   "person:elwing",
+   "person:morgoth",
+   "person:eonwe",
+   "person:ancalagon",
+   "person:maedhros",
+   "person:maglor",
+   "person:elrond",
+   "person:elros",
+   "thing:vingilot"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapter 24"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:silm-akallabeth",
+  "title": "Akallabêth",
+  "group": "The Silmarillion",
+  "kind": "Fourth part of The Silmarillion",
+  "aka": [
+   "Downfall of Númenor",
+   "Fall of Númenor"
+  ],
+  "blurb": "The Akallabêth tells of Númenor, the island kingdom given to the Edain, and of its downfall.",
+  "book": "The Akallabêth, meaning the Downfallen, tells the history of Númenor. After the War of Wrath, the Valar rewarded the Edain who had fought Morgoth. They raised an island in the great sea, between Middle-earth and Valinor. The Edain sailed there guided by the star of Eärendil. Elros, son of Eärendil, became their first king.\n\nThe Númenóreans grew wise and strong and were granted long lives. The Valar gave them one law, the Ban. They were not to sail west out of sight of their land, or to seek Valinor. In time they became great mariners and built havens in Middle-earth. Later kings, however, grew proud and began to fear death.\n\nThe kings grew bitter against the Ban and turned from the Elves. They oppressed the Faithful, the Elendili, who stayed loyal to the Valar and the Elves. Tar-Palantir repented and tried to restore the old ways. After his death, Ar-Pharazôn forced his daughter Tar-Míriel to wed him and seized the sceptre.\n\nAr-Pharazôn, the last king, brought Sauron to Númenor as a prisoner. Sauron deceived the king and turned him to the worship of Morgoth. Isildur saved a fruit of the White Tree before Sauron had it burned. Ar-Pharazôn then sailed to Aman with a vast fleet. The Valar called on Ilúvatar, who changed the world. Númenor was drowned, and Aman was taken out of the circles of the world. The faithful, led by Elendil and his sons Isildur and Anárion, escaped in nine ships to Middle-earth. Sauron's body was destroyed, but his spirit escaped.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Part": "Fourth of five parts",
+   "Foundation": "S.A. 32",
+   "Fall": "S.A. 3319"
+  },
+  "places": [
+   {
+    "id": "realm:lindon",
+    "role": "other",
+    "note": "The Númenóreans first met the Elves of Lindon in Middle-earth."
+   },
+   {
+    "id": "realm:gondor",
+    "role": "other",
+    "note": "Elendil's sons founded Gondor after the fall."
+   },
+   {
+    "id": "realm:arnor",
+    "role": "other",
+    "note": "Elendil founded Arnor in the north of Middle-earth."
+   }
+  ],
+  "related": [
+   "person:elros",
+   "person:tar-palantir",
+   "person:ar-pharazon",
+   "person:tar-miriel",
+   "person:amandil",
+   "person:elendil",
+   "person:isildur",
+   "person:anarion",
+   "person:sauron"
+  ],
+  "sources": [
+   "The Silmarillion, Akallabêth"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "lore:silm-rings",
+  "title": "Of the Rings of Power and the Third Age",
+  "group": "The Silmarillion",
+  "kind": "Fifth part of The Silmarillion",
+  "aka": [
+   "Rings of Power",
+   "Third Age summary"
+  ],
+  "blurb": "The last part of The Silmarillion tells how the Rings were made, how Sauron lost the One Ring and how the Third Age ended.",
+  "book": "The last part of The Silmarillion links the old tales to The Lord of the Rings. It tells how Sauron returned after the First Age and sought power again in the Second Age. He took a fair shape, named Annatar, and he taught the Elves of Eregion. With Celebrimbor, they made many rings.\n\nSauron then forged the One Ring in secret in the fire of Mount Doom to rule the others. The Elves became aware of his purpose and hid their Three Rings. Sauron made war on the Elves, and Eregion was ruined. Númenórean help later drove him back.\n\nSauron later became the enemy of the Númenóreans. After Númenor was drowned, Elendil and his sons founded Gondor and Arnor. Sauron attacked again, and the Last Alliance of Elves and Men overthrew him in the Battle of Dagorlad and the Siege of Barad-dûr. Isildur took the Ring and kept it. Isildur was slain at the Gladden Fields, and the Ring was lost.\n\nIn the Third Age, Sauron rose again in Dol Guldur. Gondor and Arnor declined, and the Witch-king ruled Angmar. The Istari came to Middle-earth to oppose Sauron. The Ring was found by a hobbit. The text ends with the War of the Ring, the fall of Sauron and the passing of the Elves.",
+  "film": "",
+  "series": "",
+  "facts": {
+   "Part": "Fifth of five parts",
+   "Ring forged": "About S.A. 1600",
+   "Last Alliance": "S.A. 3430 to 3441"
+  },
+  "places": [
+   {
+    "id": "TO079",
+    "role": "made",
+    "note": "Ost-in-Edhil in Eregion was the city of the Elven smiths."
+   },
+   {
+    "id": "MT036",
+    "role": "made",
+    "note": "Sauron forged the One Ring in the fire of Orodruin."
+   },
+   {
+    "id": "battle:sack-of-eregion",
+    "role": "fought",
+    "note": "Sauron's forces ruined Eregion."
+   },
+   {
+    "id": "battle:dagorlad",
+    "role": "fought",
+    "note": "The Last Alliance broke Sauron's host here."
+   },
+   {
+    "id": "battle:gladden-fields",
+    "role": "fought",
+    "note": "Isildur died here and the Ring was lost."
+   },
+   {
+    "id": "FT008",
+    "role": "other",
+    "note": "Sauron rose again in Dol Guldur."
+   },
+   {
+    "id": "FT004",
+    "role": "other",
+    "note": "Barad-dûr was Sauron's fortress in Mordor."
+   }
+  ],
+  "related": [
+   "person:sauron",
+   "person:celebrimbor",
+   "person:elrond",
+   "person:gil-galad",
+   "person:isildur",
+   "person:witch-king",
+   "thing:one-ring",
+   "thing:nine-rings",
+   "thing:seven-rings",
+   "person:gandalf"
+  ],
+  "sources": [
+   "The Silmarillion, Of the Rings of Power and the Third Age"
+  ],
+  "confidence": "medium"
+ }
+]
