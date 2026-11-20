@@ -97,13 +97,13 @@ Select **Ask the loremaster** to ask a question in your own words, for example "
 
 ## Art and setting
 
-- **Card pictures.** 99 cards have a picture at the top. 21 are on the Númenor and Aman sheets (13 places and regions, 4 peoples, 4 events and battles); 3 more are planned. 24 are things, for example the One Ring, the Arkenstone, Sting, and the Silmarils. Of the other 54: 30 are places (22 in Middle-earth, 8 in Beleriand). 12 are peoples, for example Hobbits, Rohirrim, Dwarves, Ents, Noldor, and Sindar. 12 are battles, for example the Hornburg, the Pelennor Fields, the Battle of Five Armies, and the Fall of Gondolin.
+- **Card pictures.** 102 cards have a picture at the top. 24 are on the Númenor and Aman sheets (13 places and regions, 4 peoples, 7 events). 24 are things, for example the One Ring, the Arkenstone, Sting, and the Silmarils. Of the other 54: 30 are places (22 in Middle-earth, 8 in Beleriand). 12 are peoples, for example Hobbits, Rohirrim, Dwarves, Ents, Noldor, and Sindar. 12 are battles, for example the Hornburg, the Pelennor Fields, the Battle of Five Armies, and the Fall of Gondolin.
 - **Landmark drawings.** The 30 places with a picture also show a small sepia drawing on the map. 16 show at all distances. The other 14 show only when the view is near. The checkbox **Landmark drawings** hides them.
 - **Map ornaments.** Each sheet has a drawn border, corner ornaments, a compass rose, a title scroll, ships, and a sea serpent.
 - **Woodlands.** Forests have a low raised canopy. Small ink tree crowns fill each forest from edge to edge.
 - **Colors.** The sheet uses one sepia paper tone and one grey-brown ink tone. The sea has a faint grey tint and the forests have a faint olive tint. Red marks only battles, journeys, and the selected place. `scripts/regrade.py` makes `base_sepia.jpg` from `base.jpg`.
 - **Setting.** The sheet lies on a wooden table in warm light. The panels look like parchment. The app draws the table and the parchment with code.
-- **Source of the art.** Google Gemini made the 99 pictures and the 6 ornaments from text prompts written for this map. The prompts describe each place, people, or battle in plain words. They do not name a film, an actor, or an artist. `art/process.py` removes the paper background and makes the card pictures, the sepia map drawings, and the ornaments. The original Gemini images (63 MB) are not in this repo.
+- **Source of the art.** Google Gemini made the 102 pictures and the 6 ornaments from text prompts written for this map. The prompts describe each place, people, or battle in plain words. They do not name a film, an actor, or an artist. `art/process.py` removes the paper background and makes the card pictures, the sepia map drawings, and the ornaments. The original Gemini images (63 MB) are not in this repo.
 - **Accuracy.** The pictures are an impression. They do not show each place as the books describe it in every detail.
 
 ## How to read a card
@@ -146,7 +146,7 @@ An AI model wrote the card text in its own words. A second model then examined e
 - The data set stops at straight lines in the east, the north, and the south-east. The map shows plain paper there.
 - The data set has borders for Gondor, Rohan, and Mordor only. Other realms show a name at their centre.
 - Some names in the data set do not come from the books. Their cards say this.
-- Card pictures exist for 99 of the 1533 cards. Named persons have no picture.
+- Card pictures exist for 102 of the 1533 cards. Named persons have no picture.
 - 167 of the 321 person and thing cards have medium confidence, and 6 have low confidence. Check these against the books before you rely on them.
 - Film and series text is empty on many person and thing cards. The writers left it empty when they were not sure.
 - 268 of the 353 knowledge entries have medium confidence. The writers and the reviewers worked from their knowledge of the books, not from the book text. Check dates and chapter details against the books before you rely on them.
