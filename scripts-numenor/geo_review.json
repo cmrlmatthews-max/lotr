@@ -1,0 +1,11 @@
+[
+ {"id": "BA03", "name": "Northern bays of the Andustar", "severity": "high",
+  "problem": "The Description (Unfinished Tales) gives the Andustar three small bays facing WEST, cut into the high land of its western end, and the northernmost of them is the Bay of Andúnië. geo.py cuts three bays into the NORTH coast (AN dents at u 286/346/406, v<0) and labels them as northern bays. The fir-woods and high land of the northern Andustar (FO02, HI07) are correct and stay.",
+  "fix": "In geo.py remove the three north-coast dents: AN = prom(A_AN, 512, 86, 70, side_bulge=(0, 6), capbay=(-14, 40, 16)). Keep the Bay of Andúnië (capbay v=-14) as the northernmost of the three, and cut two more small bays into the western end south of it, at v=+14 and v=+42 (depth about 25 km, half-width about 9 km; prom() takes one capbay, so add them as extra notches of the end cap). Rename BA03 to 'Western bays of the Andustar' and move its label to L(A_AN, 518, 28) = (153.6, 775.9); hint: 'three small bays facing west in the high western end of the Andustar; the northernmost is the Bay of Andúnië'."},
+ {"id": "journey:three-prayers", "name": "The road of the Three Prayers, stage 2 (Westward on the road)", "severity": "high",
+  "problem": "Stage 2 uses near RD01 with dx 0, dy 0. The anchor of RD01 is its label point (505, 752) in the Andustar, about 230 km north-west of the stretch the procession uses. The stage must lie on the road between Armenelos and Noirinan.",
+  "fix": "{\"near\": \"TO01\", \"dx\": -32, \"dy\": 2}  (gives (690, 604), a point of RD01 between Armenelos and the Valley of the Tombs)"},
+ {"id": "journey:three-prayers", "name": "The road of the Three Prayers, stage 5 (The winding ascent)", "severity": "low",
+  "problem": "Stage 5 uses near RD02 with dx 0, dy 0. The anchor of RD02 is its label point (668, 627), about 18 km east of the farthest point of the spiral path, so the stage sits off the mountain.",
+  "fix": "{\"near\": \"RD02\", \"dx\": -18, \"dy\": 4}  (gives (650, 631), on the spiral path on the side of the Meneltarma)"}
+]

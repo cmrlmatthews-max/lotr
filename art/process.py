@@ -29,7 +29,7 @@ def vignette(path, key):
     # fade the picture to white at the edge of the crop so no rectangle shows on the card
     crop = ff[y0:y1, x0:x1]; h, w = crop.shape[:2]; yy, xx = np.mgrid[0:h, 0:w]; e = np.minimum(np.minimum(xx, w - 1 - xx) / w, np.minimum(yy, h - 1 - yy) / h); f = np.clip(e / 0.05, 0, 1)[..., None]
     Image.fromarray(((crop * f + (1 - f)) * 255).astype(np.uint8)).resize((600, round(600 * h / w)), Image.LANCZOS).save(f'out/{key}_card.jpg', quality=80, optimize=True)
-    if key[:2] in ('p-', 'b-', 't-'): return   # peoples, battles and things: card picture only
+    if key[:2] in ('p-', 'b-', 't-', 'r-'): return   # peoples, battles and things: card picture only
     # map drawing: tonal sepia ink on a soft cream ground, so that it stays readable on dark relief
     L = crop @ np.array([0.299, 0.587, 0.114], np.float32); ia = np.clip((1 - L - 0.04) * 1.6, 0, 1) ** 0.9 * f[..., 0]
     m = ndi.gaussian_filter(ndi.binary_closing(al[y0:y1, x0:x1] > 0.12, iterations=6).astype(np.float32), 14); ha = np.clip(m * 1.5 - 0.15, 0, 1) * 0.8 * f[..., 0]

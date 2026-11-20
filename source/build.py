@@ -6,6 +6,7 @@ R = '/home/claude/me'; B = R + '/build'
 LANG = ['English', 'Westron', 'Sindarin', 'Quenya', 'Khuzdul', 'Rohirric', 'Other']
 KIND = {'Towns': 'Settlement', 'Harbors': 'Haven', 'Fortresses': 'Stronghold', 'Doors_Gates': 'Gate', 'Buildings': 'Building', 'Bridges': 'Bridge', 'Fords': 'Ford', 'Cave_entrances': 'Cave', 'Falls': 'Waterfall', 'Graves_Tombs': 'Tomb', 'Mountains': 'Mountains', 'Mountains_of_Moria': 'Mountain', 'Hills': 'Hills', 'Forests': 'Forest', 'Swamps': 'Marsh', 'Lakes': 'Lake', 'Islands': 'Island', 'Bays': 'Bay', 'Fields': 'Field', 'Valleys': 'Valley', 'Rivers': 'River', 'Roads': 'Road', 'Walls': 'Wall'}
 warn = []
+PREFIX = {'me': '', 'bel': 'b:', 'num': 'n:', 'ama': 'a:'}   # id prefix of each sheet
 def load(p, default):
     try: return json.load(open(p))
     except Exception as e: warn.append(f'{p[len(R):]}: {e}'); return default
@@ -14,7 +15,7 @@ def nk(t):
     t = unicodedata.normalize('NFD', t); t = ''.join(c for c in t if not unicodedata.combining(c)); return re.sub(r'\s*\(.*?\)', '', t).strip().lower()
 
 def make_land(tag, datadir, cardsdir, meta, regions=None):
-    ns = (lambda i: i) if tag == 'me' else (lambda i: 'b:' + i)
+    ns = lambda i: PREFIX[tag] + i
     vec = load(datadir + '/vectors.json', {}); W, H = vec['wkm'], vec['hkm']; FE = vec['features']
     feat = {f['id']: f for f in FE}; regions = regions or {}
     def at(a):
@@ -68,7 +69,9 @@ def make_land(tag, datadir, cardsdir, meta, regions=None):
         xy = at(b.get('at'))
         if not xy: warn.append(f'{tag}: battle without site: ' + str(b.get('id'))); continue
         it = {'id': b['id'], 'type': 'battle', 'x': xy[0], 'y': xy[1], 'tier': b.get('tier', 2), 'confidence': b.get('confidence', 'medium')}
-        it.update(clean(b, ['title', 'date', 'year_sort', 'war', 'sides', 'outcome', 'blurb', 'book', 'film', 'series', 'sources', 'related'])); it['kind'] = 'Battle'; items[b['id']] = it
+        it.update(clean(b, ['title', 'date', 'year_sort', 'war', 'sides', 'outcome', 'blurb', 'book', 'film', 'series', 'sources', 'related'])); it['kind'] = b.get('kind') if tag in ('num', 'ama') and b.get('kind') else 'Battle'
+        if tag in ('num', 'ama'): it['neutral'] = 1   # these events list the two parties without a victor-first order
+        items[b['id']] = it
     def frodo_path():
         f = feat.get('FRX00')
         if not f: return None
@@ -97,7 +100,8 @@ def make_land(tag, datadir, cardsdir, meta, regions=None):
     for it in items.values():
         for k in ('related', 'peoples', 'realms'):
             if k in it:
-                it[k] = [ns(i) for i in dict.fromkeys(redirect.get(j, j) for j in it[k]) if i in items and i != it['id']][:6]
+                lore_ref = lambda i: k == 'related' and tag in ('num', 'ama') and i.startswith(('person:', 'thing:'))
+                it[k] = [(i if lore_ref(i) else ns(i)) for i in dict.fromkeys(redirect.get(j, j) for j in it[k]) if (i in items or lore_ref(i)) and i != it['id']][:6]
                 if not it[k]: del it[k]
         it['land'] = tag; it['id'] = ns(it['id']); out[it['id']] = it
     feats = [{k: (ns(f[k]) if k in ('id', 'card') else f[k]) for k in ('id', 'layer', 'name', 'kind', 'geom', 'card') if f.get(k) is not None} | ({'attrs': {'Type': f['attrs']['Type']}} if f['layer'] == 'Roads' and 'Type' in f.get('attrs', {}) else {}) for f in FE if f.get('geom')]
@@ -125,6 +129,14 @@ if os.path.exists(R + '/bel/data/height.png'):
     rg = {r['id']: r for r in load(R + '/bel/slices/regions.json', [])}
     LANDS.append(('bel', R + '/bel/data', R + '/bel/cards', {'name': 'Beleriand', 'age': 'The First Age', 'sub': 'The lost lands of the Elder Days', 'modelled': True, 'compass': [182, 225, 56], 'sea': [['BELEGAER', 62, 820, 32, 20, -1.5708]],
         'orn': {'border': 11, 'corner': 100, 'items': [['ship', 150, 640, 70], ['swanship', 470, 105, 70], ['serpent', 128, 1060, 105]], 'cartouche': [128, 400, 205]}}, rg))
+# sheets made with landgen/ (Númenor, Aman): the map maker's plan.json holds the sheet settings, the art list and the link maps
+PLANS = {}
+for tag in ('num', 'ama'):
+    d = R + '/' + tag
+    if not (os.path.exists(d + '/data/height.png') and os.path.exists(d + '/plan.json')): continue
+    P = json.load(open(d + '/plan.json')); PLANS[tag] = P
+    rg = {r['id']: r for r in load(d + '/slices/regions.json', [])}
+    LANDS.append((tag, d + '/data', d + '/cards', dict(P['meta'], modelled=True), rg))
 art = {}
 mime = {'jpg': 'image/jpeg', 'png': 'image/png'}
 for f in sorted(glob.glob(R + '/art/out/*')):
@@ -150,6 +162,10 @@ for tag, dd, cd, meta, rg in LANDS:
         hit = [i for i in it.values() if i['type'] == typ and i['title'] == title]
         if not hit: warn.append(f'{tag}: no {typ} titled {title!r} for art'); continue
         if key in art: hit[0]['art'] = key
+    for a in PLANS.get(tag, {}).get('art', []):
+        t = it.get(PREFIX[tag] + a['for']); key = a.get('artkey')
+        if not t: warn.append(f"{tag}: art target {a['for']!r} does not exist"); continue
+        if key in art: t['art'] = key; t.update({'artNear': 1} if a.get('near') else {})
     images += f'<img id="img-height-{tag}" class="hide" alt="" src="data:image/png;base64,{b64(dd + "/height.png")}">\n<img id="img-base-{tag}" class="hide" alt="" src="data:image/jpeg;base64,{b64(dd + "/base_sepia.jpg")}">\n'
 # ---- expansion: new places, persons, things (cards in new/cards) ----
 NEW = R + '/new/cards'
@@ -168,6 +184,15 @@ for c in _load('newplaces_*.json'):
     items[c['id']] = it; nplaces += 1
 for it in items.values():
     if it.get('related'): it['related'] = [r for r in it['related'] if r in items or r.startswith(('person:', 'thing:'))]
+OFFMAP = {}; XLINKS = {}; LORELINKS = {}
+for tag, P in PLANS.items():
+    for name, i in (P.get('offmap_map') or {}).items():
+        if PREFIX[tag] + i in items: OFFMAP.setdefault(name, PREFIX[tag] + i)
+        else: warn.append(f'{tag}: offmap_map target {i!r} does not exist')
+    for k, v in (P.get('lore_links') or {}).items(): LORELINKS.setdefault(k, []).extend(PREFIX[tag] + i for i in v)
+    lf = R + '/' + tag + '/cards/links.json'
+    if os.path.exists(lf):
+        for k, v in json.load(open(lf)).items(): XLINKS.setdefault(k, []).extend(dict(p, id=PREFIX[tag] + p['id']) for p in v)
 LORE_KEYS = ('id', 'title', 'kind', 'group', 'aka', 'blurb', 'book', 'film', 'series', 'facts', 'sources', 'confidence')
 lore = []
 for typ, pat in (('person', 'people_*.json'), ('thing', 'things_*.json')):
@@ -179,8 +204,15 @@ for typ, pat in (('person', 'people_*.json'), ('thing', 'things_*.json')):
             t = items.get(p.get('id'))
             if not t or t['type'] not in ('place', 'realm', 'battle'): warn.append(f"{c['id']}: unknown place ref {p.get('id')!r}"); continue
             pl.append({k: p[k] for k in ('id', 'role', 'note') if p.get(k)})
+        off = []
+        for p in XLINKS.get(c['id'], []):          # links to exact places on the new sheets
+            if p['id'] in items and not any(q['id'] == p['id'] for q in pl): pl.append({k: p[k] for k in ('id', 'role', 'note') if p.get(k)})
+        for p in c.get('offmap') or []:            # a place that was off the map and now has a sheet becomes a map link
+            if not p.get('name'): continue
+            t = OFFMAP.get(p['name'])
+            if not t: off.append({k: p[k] for k in ('name', 'role', 'note') if p.get(k)})
+            elif not any(q['id'] == t for q in pl): pl.append({'id': t, 'role': p.get('role', 'other'), **({'note': p['note']} if p.get('note') else {})})
         if pl: it['places'] = pl
-        off = [{k: p[k] for k in ('name', 'role', 'note') if p.get(k)} for p in (c.get('offmap') or []) if p.get('name')]
         if off: it['offmap'] = off
         it['_rel'] = c.get('related') or []
         if typ == 'thing' and 't-' + c['id'].split(':', 1)[1] in art: it['art'] = 't-' + c['id'].split(':', 1)[1]
@@ -207,6 +239,8 @@ for n in KNOW:
             if not t or t['type'] not in ('place', 'realm', 'battle'): warn.append(f"{c['id']}: unknown place ref {p.get('id')!r}"); continue
             if any(q['id'] == p['id'] for q in pl): continue
             pl.append({k: p[k] for k in ('id', 'role', 'note') if p.get(k)})
+        for i in LORELINKS.get(c['id'], []):
+            if i in items and not any(q['id'] == i for q in pl): pl.append({'id': i, 'role': 'other'})
         if pl: it['places'] = pl
         it['_rel'] = c.get('related') or []
         items[c['id']] = it; know.append(it)

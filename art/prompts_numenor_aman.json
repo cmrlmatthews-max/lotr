@@ -1,0 +1,122 @@
+[
+ {
+  "key": "num-meneltarma",
+  "for": "MT01",
+  "prompt": "Create a square image. A small hand-drawn vignette in the style of an antique map illustration: fine brown pen-and-ink line work with a light watercolor wash in soft, muted colors. Subject: A tall lone mountain rising from green rolling uplands, five long low ridges running out from its foot, a thin path winding up to a flat grassy summit under a clear morning sky. The drawing sits in the middle of a plain, pale cream sheet of aged paper and fades softly into the paper at its edges, with wide empty margins. No text, no letters, no labels, no border, no frame."
+ },
+ {
+  "key": "num-armenelos",
+  "for": "TO01",
+  "prompt": "Create a square image. A small hand-drawn vignette in the style of an antique map illustration: fine brown pen-and-ink line work with a light watercolor wash in soft, muted colors. Subject: A white city of towers and courts on a hill in open pasture-land, a slender white tree in a walled court, seen in the gold light of late afternoon. The drawing sits in the middle of a plain, pale cream sheet of aged paper and fades softly into the paper at its edges, with wide empty margins. No text, no letters, no labels, no border, no frame."
+ },
+ {
+  "key": "num-romenna",
+  "for": "HA01",
+  "prompt": "Create a square image. A small hand-drawn vignette in the style of an antique map illustration: fine brown pen-and-ink line work with a light watercolor wash in soft, muted colors. Subject: A busy harbour town at the head of a long narrow sea-inlet, tall-masted ships at stone quays and green hills behind, at sunrise. The drawing sits in the middle of a plain, pale cream sheet of aged paper and fades softly into the paper at its edges, with wide empty margins. No text, no letters, no labels, no border, no frame."
+ },
+ {
+  "key": "num-andunie",
+  "for": "HA02",
+  "prompt": "Create a square image. A small hand-drawn vignette in the style of an antique map illustration: fine brown pen-and-ink line work with a light watercolor wash in soft, muted colors. Subject: A haven town climbing the steep slopes above a western bay, a tower on a nearby hill, the sea glowing at sunset. The drawing sits in the middle of a plain, pale cream sheet of aged paper and fades softly into the paper at its edges, with wide empty margins. No text, no letters, no labels, no border, no frame."
+ },
+ {
+  "key": "num-eldalonde",
+  "for": "HA03",
+  "prompt": "Create a square image. A small hand-drawn vignette in the style of an antique map illustration: fine brown pen-and-ink line work with a light watercolor wash in soft, muted colors. Subject: A green haven where a quiet river meets a wide bay, framed by evergreen fragrant trees in flower, a white ship with a swan prow at anchor, in soft morning light. The drawing sits in the middle of a plain, pale cream sheet of aged paper and fades softly into the paper at its edges, with wide empty margins. No text, no letters, no labels, no border, no frame."
+ },
+ {
+  "key": "num-noirinan",
+  "for": "VA01",
+  "prompt": "Create a square image. A small hand-drawn vignette in the style of an antique map illustration: fine brown pen-and-ink line work with a light watercolor wash in soft, muted colors. Subject: A narrow valley between two long ridges at the foot of a great mountain, with tombs cut into the rock at its head, in still grey dawn light. The drawing sits in the middle of a plain, pale cream sheet of aged paper and fades softly into the paper at its edges, with wide empty margins. No text, no letters, no labels, no border, no frame."
+ },
+ {
+  "key": "num-calmindon",
+  "for": "BU03",
+  "prompt": "Create a square image. A small hand-drawn vignette in the style of an antique map illustration: fine brown pen-and-ink line work with a light watercolor wash in soft, muted colors. Subject: A small rocky isle in a bay with a tall slender light-tower, its beacon lit against the evening sky over calm water. The drawing sits in the middle of a plain, pale cream sheet of aged paper and fades softly into the paper at its edges, with wide empty margins. No text, no letters, no labels, no border, no frame."
+ },
+ {
+  "key": "p-num-numenoreans",
+  "for": "people:numenoreans",
+  "prompt": "Create a square image. A small hand-drawn vignette in the style of an antique map illustration: fine brown pen-and-ink line work with a light watercolor wash in soft, muted colors. Subject: Tall mariners and shepherds in plain cloaks on a grassy shore beside a great ship, the mountain far off behind them, on a bright windy day. The drawing sits in the middle of a plain, pale cream sheet of aged paper and fades softly into the paper at its edges, with wide empty margins. No text, no letters, no labels, no border, no frame."
+ },
+ {
+  "key": "p-num-faithful",
+  "for": "people:faithful-of-numenor",
+  "prompt": "Create a square image. A small hand-drawn vignette in the style of an antique map illustration: fine brown pen-and-ink line work with a light watercolor wash in soft, muted colors. Subject: A small company of cloaked people loading a white sapling and covered chests onto ships at night in a quiet harbour, lanterns shaded. The drawing sits in the middle of a plain, pale cream sheet of aged paper and fades softly into the paper at its edges, with wide empty margins. No text, no letters, no labels, no border, no frame."
+ },
+ {
+  "key": "b-num-downfall",
+  "for": "battle:downfall-of-numenor",
+  "prompt": "Create a square image. A small hand-drawn vignette in the style of an antique map illustration: fine brown pen-and-ink line work with a light watercolor wash in soft, muted colors. Subject: A mountain breaking out in fire as a vast green wave rises over a white city and the land tilts into the sea, under a black storm sky. The drawing sits in the middle of a plain, pale cream sheet of aged paper and fades softly into the paper at its edges, with wide empty margins. No text, no letters, no labels, no border, no frame."
+ },
+ {
+  "key": "b-num-burning-nimloth",
+  "for": "battle:burning-of-nimloth",
+  "prompt": "Create a square image. A small hand-drawn vignette in the style of an antique map illustration: fine brown pen-and-ink line work with a light watercolor wash in soft, muted colors. Subject: A huge domed temple on a hill in a city at dusk, dark smoke pouring from the opening in its silver roof. The drawing sits in the middle of a plain, pale cream sheet of aged paper and fades softly into the paper at its edges, with wide empty margins. No text, no letters, no labels, no border, no frame."
+ },
+ {
+  "key": "b-num-fruit-of-nimloth",
+  "for": "battle:isildur-and-the-fruit-of-nimloth",
+  "prompt": "Create a square image. A small hand-drawn vignette in the style of an antique map illustration: fine brown pen-and-ink line work with a light watercolor wash in soft, muted colors. Subject: A walled moonlit court with a single white tree bearing pale fruit, guards with torches running across the flagstones at night. The drawing sits in the middle of a plain, pale cream sheet of aged paper and fades softly into the paper at its edges, with wide empty margins. No text, no letters, no labels, no border, no frame."
+ },
+ {
+  "key": "ama-taniquetil",
+  "for": "MT02",
+  "prompt": "Create a square image. A small hand-drawn vignette in the style of an antique map illustration: fine brown pen-and-ink line work with a light watercolor wash in soft, muted colors. Subject: A vast snow-white peak rising above a wall of sheer mountains near a calm sea, with pale halls on its summit lit by silver and golden light, seen from the shore at dusk. The drawing sits in the middle of a plain, pale cream sheet of aged paper and fades softly into the paper at its edges, with wide empty margins. No text, no letters, no labels, no border, no frame."
+ },
+ {
+  "key": "ama-tirion",
+  "for": "TO02",
+  "prompt": "Create a square image. A small hand-drawn vignette in the style of an antique map illustration: fine brown pen-and-ink line work with a light watercolor wash in soft, muted colors. Subject: A white walled city with a tall slender tower on a green hill inside a deep mountain cleft, golden light pouring through the pass behind it toward the sea, in the evening. The drawing sits in the middle of a plain, pale cream sheet of aged paper and fades softly into the paper at its edges, with wide empty margins. No text, no letters, no labels, no border, no frame."
+ },
+ {
+  "key": "ama-alqualonde",
+  "for": "HA01",
+  "prompt": "Create a square image. A small hand-drawn vignette in the style of an antique map illustration: fine brown pen-and-ink line work with a light watercolor wash in soft, muted colors. Subject: A haven of white quays and pearl-strewn beaches behind a great arch of sea-carved rock, swan-prowed ships at anchor, under bright stars. The drawing sits in the middle of a plain, pale cream sheet of aged paper and fades softly into the paper at its edges, with wide empty margins. No text, no letters, no labels, no border, no frame."
+ },
+ {
+  "key": "ama-ezellohar",
+  "for": "HI02",
+  "prompt": "Create a square image. A small hand-drawn vignette in the style of an antique map illustration: fine brown pen-and-ink line work with a light watercolor wash in soft, muted colors. Subject: A green mound on a wide level plain where a silver tree and a golden tree shed mingled light, beside the bell-towers of a domed city, at the hour when their lights blend. The drawing sits in the middle of a plain, pale cream sheet of aged paper and fades softly into the paper at its edges, with wide empty margins. No text, no letters, no labels, no border, no frame."
+ },
+ {
+  "key": "ama-toleressea",
+  "for": "IS01",
+  "prompt": "Create a square image. A small hand-drawn vignette in the style of an antique map illustration: fine brown pen-and-ink line work with a light watercolor wash in soft, muted colors. Subject: A long green island in a wide bay, white haven towers on its eastern shore facing the open sea, high mountains on the far mainland behind, in morning light. The drawing sits in the middle of a plain, pale cream sheet of aged paper and fades softly into the paper at its edges, with wide empty margins. No text, no letters, no labels, no border, no frame."
+ },
+ {
+  "key": "ama-lorien",
+  "for": "FO02",
+  "prompt": "Create a square image. A small hand-drawn vignette in the style of an antique map illustration: fine brown pen-and-ink line work with a light watercolor wash in soft, muted colors. Subject: Quiet gardens of willows and fountains around a still lake with a small tree-grown isle, soft silver light and mist, at twilight. The drawing sits in the middle of a plain, pale cream sheet of aged paper and fades softly into the paper at its edges, with wide empty margins. No text, no letters, no labels, no border, no frame."
+ },
+ {
+  "key": "r-ama-araman",
+  "for": "RG04",
+  "prompt": "Create a square image. A small hand-drawn vignette in the style of an antique map illustration: fine brown pen-and-ink line work with a light watercolor wash in soft, muted colors. Subject: A cold, barren coastal waste under a dark sky, black mountains on one side and grey sea with floating ice and drifting mist on the other. The drawing sits in the middle of a plain, pale cream sheet of aged paper and fades softly into the paper at its edges, with wide empty margins. No text, no letters, no labels, no border, no frame."
+ },
+ {
+  "key": "p-ama-noldor",
+  "for": "people:noldor-of-tirion",
+  "prompt": "Create a square image. A small hand-drawn vignette in the style of an antique map illustration: fine brown pen-and-ink line work with a light watercolor wash in soft, muted colors. Subject: Elven smiths and craftsmen at work in a lamp-lit stone workshop in a white city, gems and metal tools on the benches, golden light at the windows. The drawing sits in the middle of a plain, pale cream sheet of aged paper and fades softly into the paper at its edges, with wide empty margins. No text, no letters, no labels, no border, no frame."
+ },
+ {
+  "key": "p-ama-teleri",
+  "for": "people:teleri-of-alqualonde",
+  "prompt": "Create a square image. A small hand-drawn vignette in the style of an antique map illustration: fine brown pen-and-ink line work with a light watercolor wash in soft, muted colors. Subject: Sea-elves on a starlit beach launching white ships shaped like swans, with gulls overhead and gentle waves. The drawing sits in the middle of a plain, pale cream sheet of aged paper and fades softly into the paper at its edges, with wide empty margins. No text, no letters, no labels, no border, no frame."
+ },
+ {
+  "key": "b-ama-darkening",
+  "for": "battle:darkening-of-valinor",
+  "prompt": "Create a square image. A small hand-drawn vignette in the style of an antique map illustration: fine brown pen-and-ink line work with a light watercolor wash in soft, muted colors. Subject: A spreading cloud of black darkness swallowing the light of two great trees on a mound in a plain, the land beyond falling into shadow, seen from far off. The drawing sits in the middle of a plain, pale cream sheet of aged paper and fades softly into the paper at its edges, with wide empty margins. No text, no letters, no labels, no border, no frame."
+ },
+ {
+  "key": "b-ama-kinslaying",
+  "for": "battle:kinslaying-at-alqualonde",
+  "prompt": "Create a square image. A small hand-drawn vignette in the style of an antique map illustration: fine brown pen-and-ink line work with a light watercolor wash in soft, muted colors. Subject: Torchlit fighting on white stone quays under a sea-arch, ships pulling away from the harbour, smoke over the water, at night. The drawing sits in the middle of a plain, pale cream sheet of aged paper and fades softly into the paper at its edges, with wide empty margins. No text, no letters, no labels, no border, no frame."
+ },
+ {
+  "key": "b-ama-downfall",
+  "for": "battle:downfall-of-ar-pharazon",
+  "prompt": "Create a square image. A small hand-drawn vignette in the style of an antique map illustration: fine brown pen-and-ink line work with a light watercolor wash in soft, muted colors. Subject: A great armoured host camped around a green hill below towering mountains, as the cliffs above begin to collapse onto them, under a stormy sky. The drawing sits in the middle of a plain, pale cream sheet of aged paper and fades softly into the paper at its edges, with wide empty margins. No text, no letters, no labels, no border, no frame."
+ }
+]

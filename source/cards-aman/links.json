@@ -1,0 +1,351 @@
+{
+ "person:gandalf": [
+  {
+   "id": "FO02",
+   "role": "lived",
+   "note": "As Olórin he dwelt in the gardens of Irmo, long before he was sent east."
+  },
+  {
+   "id": "BU04",
+   "role": "other",
+   "note": "As Olórin he often went to Nienna and learned pity and patience from her."
+  }
+ ],
+ "person:finwe": [
+  {
+   "id": "TO02",
+   "role": "ruled",
+   "note": "Ruled the Noldor as their first king from the white city of Tirion."
+  },
+  {
+   "id": "FT01",
+   "role": "died",
+   "note": "Slain by Melkor at the doors of Formenos while his son Fëanor was away."
+  }
+ ],
+ "person:feanor": [
+  {
+   "id": "TO02",
+   "role": "lived",
+   "note": "Lived in Tirion before his exile and led the Noldor out of it after the Oath."
+  },
+  {
+   "id": "BU06",
+   "role": "other",
+   "note": "Summoned before the Valar at the Ring of Doom and sentenced to exile for drawing his sword."
+  },
+  {
+   "id": "FT01",
+   "role": "lived",
+   "note": "Lived here in exile with his sons and kept the Silmarils in its treasury."
+  },
+  {
+   "id": "HA01",
+   "role": "fought",
+   "note": "Led the Noldor in the Kinslaying and seized the Teleri ships."
+  }
+ ],
+ "person:fingolfin": [
+  {
+   "id": "TO02",
+   "role": "lived",
+   "note": "Lived in Tirion until he led his host out after Fëanor."
+  },
+  {
+   "id": "RG07",
+   "role": "travelled",
+   "note": "Led his people across the Grinding Ice to reach Middle-earth."
+  }
+ ],
+ "person:finarfin": [
+  {
+   "id": "RG04",
+   "role": "travelled",
+   "note": "Turned back with his people after the Doom of Mandos was spoken."
+  },
+  {
+   "id": "TO02",
+   "role": "ruled",
+   "note": "Ruled the Noldor who remained in Aman after the host left."
+  }
+ ],
+ "person:ungoliant": [
+  {
+   "id": "RG05",
+   "role": "lived",
+   "note": "Lived in a dark ravine here before Melkor found her."
+  },
+  {
+   "id": "MT03",
+   "role": "travelled",
+   "note": "Climbed Hyarmentir with Melkor to look upon Valinor."
+  },
+  {
+   "id": "HI02",
+   "role": "destroyed",
+   "note": "Poisoned the Two Trees at Ezellohar with Melkor, who struck them with his spear."
+  },
+  {
+   "id": "LA02",
+   "role": "other",
+   "note": "Drank the wells of Varda dry after the Trees were slain."
+  },
+  {
+   "id": "RG07",
+   "role": "travelled",
+   "note": "Crossed the Grinding Ice with Melkor into Middle-earth."
+  }
+ ],
+ "person:morgoth": [
+  {
+   "id": "BU03",
+   "role": "kept",
+   "note": "Held prisoner in the Halls of Mandos for three ages after his capture."
+  },
+  {
+   "id": "RG05",
+   "role": "travelled",
+   "note": "Came to Avathar and made his bargain with Ungoliant."
+  },
+  {
+   "id": "MT03",
+   "role": "travelled",
+   "note": "Climbed Hyarmentir with Ungoliant to look on Valinor."
+  },
+  {
+   "id": "HI02",
+   "role": "destroyed",
+   "note": "Slew the Two Trees at Ezellohar with Ungoliant."
+  },
+  {
+   "id": "FT01",
+   "role": "other",
+   "note": "Slew Finwë at Formenos and stole the Silmarils from its treasury."
+  },
+  {
+   "id": "RG07",
+   "role": "travelled",
+   "note": "Crossed the Grinding Ice with Ungoliant when he fled from Valinor."
+  }
+ ],
+ "person:luthien": [
+  {
+   "id": "BU03",
+   "role": "other",
+   "note": "Sang before Mandos in his halls after Beren died, and won his pity."
+  }
+ ],
+ "person:beren": [
+  {
+   "id": "BU03",
+   "role": "other",
+   "note": "Waited in the Halls of Mandos after death until Lúthien won his release."
+  }
+ ],
+ "person:earendil": [
+  {
+   "id": "IS02",
+   "role": "travelled",
+   "note": "Passed the Enchanted Isles and the Shadowy Seas on his voyage to Valinor."
+  },
+  {
+   "id": "TO02",
+   "role": "travelled",
+   "note": "Climbed Túna and found Tirion empty, for the Elves were away at a festival."
+  },
+  {
+   "id": "TO01",
+   "role": "other",
+   "note": "Came before the Valar in Valmar and pleaded for the Elves and Men."
+  }
+ ],
+ "person:melian": [
+  {
+   "id": "FO02",
+   "role": "lived",
+   "note": "Dwelt in the gardens of Irmo before she went to Middle-earth."
+  }
+ ],
+ "person:manwe": [
+  {
+   "id": "BU01",
+   "role": "ruled",
+   "note": "Sits with Varda in Ilmarin on the summit of Taniquetil as King of the Valar."
+  },
+  {
+   "id": "BU06",
+   "role": "other",
+   "note": "Sat in council with the Valar at the Ring of Doom."
+  }
+ ],
+ "person:varda": [
+  {
+   "id": "BU01",
+   "role": "lived",
+   "note": "Dwells with Manwë in the halls of Ilmarin on Taniquetil."
+  },
+  {
+   "id": "LA02",
+   "role": "kept",
+   "note": "Kept the dew of Telperion and the light of Laurelin in great vats."
+  }
+ ],
+ "person:ulmo": [
+  {
+   "id": "BA02",
+   "role": "lived",
+   "note": "Dwells in the Outer Sea, outside the lands of Valinor."
+  },
+  {
+   "id": "IS01",
+   "role": "other",
+   "note": "Ferried the Eldar over the sea on the island; at his bidding Ossë rooted it in the Bay of Eldamar."
+  }
+ ],
+ "person:aule": [
+  {
+   "id": "BU05",
+   "role": "lived",
+   "note": "Dwells and works in his mansions in Valinor; the books give no exact place."
+  }
+ ],
+ "person:yavanna": [
+  {
+   "id": "HI02",
+   "role": "made",
+   "note": "Sang the Two Trees into life on the green mound of Ezellohar."
+  },
+  {
+   "id": "RG09",
+   "role": "lived",
+   "note": "Her pastures lie in the south of Valinor."
+  }
+ ],
+ "person:orome": [
+  {
+   "id": "FO01",
+   "role": "lived",
+   "note": "Keeps his great forests in Valinor, where he hunts before riding out to Middle-earth."
+  }
+ ],
+ "person:mandos": [
+  {
+   "id": "BU03",
+   "role": "lived",
+   "note": "Keeps the Halls of Awaiting where the Elves slain in the world wait."
+  },
+  {
+   "id": "RG04",
+   "role": "other",
+   "note": "His Doom was spoken to the Noldor on the shores of Araman."
+  }
+ ],
+ "person:nienna": [
+  {
+   "id": "BU04",
+   "role": "lived",
+   "note": "Her halls lie in the far west of Valinor, near the Halls of Mandos."
+  }
+ ],
+ "person:lorien": [
+  {
+   "id": "FO02",
+   "role": "lived",
+   "note": "Lives in his gardens, the fairest place in the world, with his wife Estë."
+  }
+ ],
+ "person:este": [
+  {
+   "id": "FO02",
+   "role": "lived",
+   "note": "Lives in the gardens of Lórien with her husband Irmo."
+  },
+  {
+   "id": "LA01",
+   "role": "other",
+   "note": "Sleeps by day on a tree-grown island in the lake Lórellin."
+  }
+ ],
+ "person:vaire": [
+  {
+   "id": "BU03",
+   "role": "lived",
+   "note": "Weaves her tapestries of time in the Halls of Mandos."
+  }
+ ],
+ "person:osse": [
+  {
+   "id": "IS01",
+   "role": "other",
+   "note": "Taught the Teleri the arts of the sea while they lived on the island."
+  }
+ ],
+ "person:ar-pharazon": [
+  {
+   "id": "CA01",
+   "role": "buried",
+   "note": "After his landing in Aman, hills fell on him and his warriors; they lie there (later time)."
+  }
+ ],
+ "thing:silmarils": [
+  {
+   "id": "FT01",
+   "role": "lost",
+   "note": "Stolen by Melkor from the treasury of Formenos when he slew Finwë."
+  }
+ ],
+ "thing:swan-ships": [
+  {
+   "id": "HA01",
+   "role": "lost",
+   "note": "Built by the Teleri; Fëanor's host seized them here in the Kinslaying."
+  }
+ ],
+ "thing:two-trees": [
+  {
+   "id": "HI02",
+   "role": "destroyed",
+   "note": "Grew on Ezellohar for ages and gave Valinor its light; Melkor and Ungoliant poisoned them there."
+  }
+ ],
+ "thing:elostirion-stone": [
+  {
+   "id": "HA02",
+   "role": "other",
+   "note": "It looked west to the tower of Avallónë on Tol Eressëa, where the Master-stone stood (Unfinished Tales)."
+  }
+ ],
+ "person:fingon": [
+  {
+   "id": "HA01",
+   "role": "fought",
+   "note": "Led the vanguard of Fingolfin's host into the fight at Alqualondë without knowing its cause."
+  },
+  {
+   "id": "RG07",
+   "role": "travelled",
+   "note": "Crossed the Grinding Ice with his father's host."
+  }
+ ],
+ "person:turgon": [
+  {
+   "id": "RG07",
+   "role": "travelled",
+   "note": "Crossed the Grinding Ice with Fingolfin; his wife Elenwë was lost there."
+  }
+ ],
+ "person:galadriel": [
+  {
+   "id": "RG07",
+   "role": "travelled",
+   "note": "Crossed the Grinding Ice with the host of Fingolfin."
+  }
+ ],
+ "thing:vingilot": [
+  {
+   "id": "BA01",
+   "role": "other",
+   "note": "Eärendil anchored the ship in the Bay of Eldamar before he went ashore."
+  }
+ ]
+}

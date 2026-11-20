@@ -58,7 +58,7 @@ body.nopanel #panel{transform:translateX(-330px)}
 #panel header{position:relative;padding:16px 18px 10px;border-bottom:1px solid rgba(123,96,56,.5)}
 h1{font:400 30px/1 "Luminari","Hoefler Text",var(--serif);margin:0;letter-spacing:.02em;color:#2a1c12}
 h1 small{display:block;font:italic 13px var(--serif);color:var(--ink2);margin-top:6px;letter-spacing:.04em}
-#lands{display:flex;gap:6px;margin-top:10px}
+#lands{display:grid;grid-template-columns:1fr 1fr;gap:6px;margin-top:10px}
 #lands:empty{display:none}
 #lands button{flex:1;padding:5px 6px 4px;background:rgba(255,250,232,.45);border:1px solid rgba(123,96,56,.6);border-radius:2px;font:14px var(--serif);color:var(--ink);cursor:pointer;line-height:1.15}
 #lands button b{display:block;font:400 10.5px var(--serif);font-variant:small-caps;letter-spacing:.14em;color:var(--red)}
@@ -269,11 +269,11 @@ body.ready #loading{opacity:0;pointer-events:none}
 
 <div id="about"><div class="sheet">
   <h2>About this map</h2>
-  <p>A personal, non-commercial explorer for Tolkien's world. It has two sheets: the north-west of Middle-earth at the end of the Third Age, and Beleriand in the First Age. Use the buttons below the title to change the sheet.</p>
+  <p>A personal, non-commercial explorer for Tolkien's world. It has four sheets: the north-west of Middle-earth at the end of the Third Age, Beleriand in the First Age, Númenor in the Second Age, and Aman in the Years of the Trees. Use the buttons below the title to change the sheet.</p>
   <h3>How to move</h3>
   <ul><li><b>Drag</b> to move. <b>Scroll</b> or pinch to zoom. <b>Shift-drag</b> or right-drag to turn and tilt.</li>
   <li><b>Click</b> a name to open its card. <b>Double-click</b> a name or the land to fly there.</li>
-  <li><b>Search</b> finds persons, creatures, things, places, realms, battles, and journeys on both sheets.</li>
+  <li><b>Search</b> finds persons, creatures, things, places, realms, battles, and journeys on all sheets.</li>
   <li>When you open a <b>person</b> or a <b>thing</b>, the map marks each linked place in red. A small tag shows the link, for example <em>born</em>, <em>ruled</em>, or <em>died</em>. The buttons on the card move the map to each place.</li>
   <li><b>Lore and history</b> in the left panel holds chapter summaries, dated timelines, family lines, lands that are not on these sheets, notes on the films and the series, and answers to questions that readers often ask.</li>
   <li><kbd>/</kbd> search &nbsp; <kbd>Esc</kbd> close &nbsp; <kbd>space</kbd> play a journey &nbsp; <kbd>←</kbd> <kbd>→</kbd> journey stages</li></ul>
@@ -290,6 +290,8 @@ body.ready #loading{opacity:0;pointer-events:none}
   <h3>Map data and credit</h3>
   <p>Terrain and map layers: Rose, Robert A. (2020), <em>GIS &amp; Middle Earth Presentation &amp; Data Set</em>, William &amp; Mary, <a href="https://doi.org/10.21220/RKEZ-X707">doi.org/10.21220/RKEZ-X707</a>, built on the work of the ME-DEM project. License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0. The reduced terrain and the vector layers in this file are an adaptation of that data set and keep the same license.</p>
   <p>Beleriand: no survey data exists for this land. The terrain is an original model made for this map from the descriptions in <em>The Silmarillion</em>, <em>Unfinished Tales</em> and <em>The Children of Húrin</em>. It follows the distances that the books give, but positions are approximate.</p>
+  <p>Númenor: the terrain is an original model from <em>A Description of the Island of Númenor</em> in <em>Unfinished Tales</em>. The shape and the sizes follow that text. Some features have a descriptive name, because the text describes them and does not name them; their cards say so.</p>
+  <p>Aman: the books give no detailed map of this land. The terrain is a model from the text of <em>The Silmarillion</em>, with <em>The History of Middle-earth</em> where the published book is silent. Many positions are approximate, and the cards say which. Some places on the sheet are of a later time than the Trees, for example Avallónë and the Enchanted Isles.</p>
   <p>3D engine: three.js (MIT license). Middle-earth and its names are the creation of J.R.R. Tolkien. This file has no connection with the Tolkien Estate, the publishers, or the film and series makers.</p>
   <p style="text-align:right"><button data-close style="font:14px var(--serif);padding:5px 14px;cursor:pointer">Close</button></p>
 </div></div>

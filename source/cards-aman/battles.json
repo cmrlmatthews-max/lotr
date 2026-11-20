@@ -1,0 +1,163 @@
+[
+ {
+  "id": "battle:darkening-of-valinor",
+  "title": "The Darkening of Valinor",
+  "date": "Years of the Trees (Valian Year 1495 in the Annals of Aman)",
+  "year_sort": -1495,
+  "war": "",
+  "at": {
+   "near": "HI02",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 1,
+  "sides": {
+   "a": [
+    "Melkor",
+    "Ungoliant"
+   ],
+   "b": [
+    "The Valar",
+    "The Elves of Valinor"
+   ]
+  },
+  "outcome": "The Two Trees were killed and Valinor fell into darkness, while Melkor escaped with Ungoliant.",
+  "blurb": "Melkor and Ungoliant destroyed the Two Trees on Ezellohar and plunged Valinor into the Unlight.",
+  "book": "The Darkening of Valinor was the death of the Two Trees, Telperion and Laurelin, on the green mound of Ezellohar. It happened during a great festival, when many of the Elves had gone up to Taniquetil. Melkor came in secret to Avathar, in the south of Aman, and found Ungoliant there. Hidden in the Unlight that she spun, they climbed Hyarmentir and looked down on Valinor. They crossed the plain to Ezellohar. Melkor stabbed each Tree with his spear. Ungoliant then drank their sap, and her venom ran into the wounds. She went on to the wells of Varda and drained them. Darkness lay over Valinor, and the Valar came too late. Yavanna and Nienna could not heal the Trees, but a last flower and a last fruit remained. Melkor and Ungoliant escaped to the north under the cloud, and Melkor went on to Formenos. The year comes from the Annals of Aman in The History of Middle-earth. The published Silmarillion gives no year.",
+  "film": "",
+  "series": "",
+  "related": [
+   "HI02",
+   "TO01",
+   "LA02",
+   "MT03",
+   "person:morgoth",
+   "person:ungoliant",
+   "thing:two-trees"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapters 8 and 9",
+   "The History of Middle-earth X, Annals of Aman"
+  ],
+  "confidence": "high",
+  "kind": "Death of the Two Trees"
+ },
+ {
+  "id": "battle:slaying-of-finwe",
+  "title": "The slaying of Finwë at Formenos",
+  "date": "Years of the Trees (Valian Year 1495 in the Annals of Aman)",
+  "year_sort": -1495,
+  "war": "",
+  "at": {
+   "near": "FT01",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Melkor"
+   ],
+   "b": [
+    "Finwë, High King of the Noldor"
+   ]
+  },
+  "outcome": "Finwë was killed, the Silmarils were stolen, and Melkor fled north.",
+  "blurb": "Melkor killed Finwë at the doors of Formenos and stole the Silmarils.",
+  "book": "Formenos was the stronghold and treasury that Fëanor built in the north of Valinor after his exile from Tirion. His father Finwë chose to live there with him. After the Trees died, Melkor came to Formenos in the darkness. Finwë was at the doors, and Melkor killed him there. He was the first of the Elves to be slain in Aman. Melkor broke into the treasury and took the Silmarils and many other jewels. Then he fled north, and Tulkas and Oromë could not catch him. Messengers brought the news to Fëanor, and he cursed Melkor and gave him the name Morgoth, the Black Foe. The murder and the theft turned the Noldor toward the Oath and the Flight from Valinor. The books do not say that a fight took place. Finwë stood alone against a Vala, and the tale tells of a killing, not a battle.",
+  "film": "",
+  "series": "",
+  "related": [
+   "FT01",
+   "person:finwe",
+   "person:feanor",
+   "person:morgoth",
+   "thing:silmarils",
+   "person:tulkas"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapters 8 and 9"
+  ],
+  "confidence": "high",
+  "kind": "Murder of a king"
+ },
+ {
+  "id": "battle:kinslaying-at-alqualonde",
+  "title": "The Kinslaying at Alqualondë",
+  "date": "Years of the Trees (Valian Year 1495-96 in the Annals of Aman)",
+  "year_sort": -1494,
+  "war": "Flight of the Noldor",
+  "at": {
+   "near": "HA01",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 1,
+  "sides": {
+   "a": [
+    "Noldor of Fëanor"
+   ],
+   "b": [
+    "Teleri of Olwë"
+   ]
+  },
+  "outcome": "Fëanor's host won, killed many Teleri, and took the white ships.",
+  "blurb": "The Noldor of Fëanor attacked the Teleri of Alqualondë and seized their ships, the first Kinslaying.",
+  "book": "The Kinslaying was the first slaughter of Elves by Elves. Fëanor led the Noldor away from Tirion, and he needed ships to cross the sea to Middle-earth. He came to Alqualondë, the haven of the Teleri, and asked for their ships. The Teleri loved their ships and refused. Fëanor's host then tried to seize them, and the Teleri cast many of the Noldor into the sea. Swords were drawn, and fighting broke out on the quays and by the great arch of the haven. The Teleri were lightly armed and were overcome, and many of them were slain. Later companies of the Noldor reached the haven, and some joined the fight without knowing its cause. Fëanor's host took the white ships and sailed north. The Doom of Mandos later fell on the Noldor for this deed. Some accounts in The History of Middle-earth describe the events differently, and this card follows the published Silmarillion.",
+  "film": "",
+  "series": "",
+  "related": [
+   "HA01",
+   "person:feanor",
+   "person:fingolfin",
+   "person:fingon",
+   "RG03",
+   "people:teleri-of-alqualonde"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapter 9",
+   "The History of Middle-earth X, Annals of Aman"
+  ],
+  "confidence": "high",
+  "kind": "First Kinslaying"
+ },
+ {
+  "id": "battle:downfall-of-ar-pharazon",
+  "title": "The landing and downfall of Ar-Pharazôn",
+  "date": "Second Age 3319",
+  "year_sort": 3319,
+  "war": "",
+  "at": {
+   "near": "HI01",
+   "dx": 45,
+   "dy": -15
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Ar-Pharazôn and the Númenórean host"
+   ],
+   "b": [
+    "The Valar, through the will of Ilúvatar"
+   ]
+  },
+  "outcome": "Númenor sank, the fleet was drowned, and the host on Aman was buried under fallen hills.",
+  "blurb": "Ar-Pharazôn landed on the shore of Aman with a great host and was buried beneath the hills.",
+  "book": "This event belongs to the Second Age, long after the Years of the Trees. Ar-Pharazôn, the last king of Númenor, wished to take the Undying Lands by force. He sailed west with a great fleet and passed Avallónë on Tol Eressëa. The fleet then came to the shore of Aman. The king almost turned back, but pride drove him on. He landed and claimed the land as his own. His host camped about Túna, which all the Eldar had fled. The Valar laid down their guard and called on Ilúvatar. The world was changed. The chasm in the sea swallowed the Númenórean fleet, and Númenor itself sank. The Akallabêth says that the hills fell on the host at Túna. The king and his warriors are said to lie in the Caves of the Forgotten until the Last Battle. Aman was taken out of the circles of the world.",
+  "film": "",
+  "series": "",
+  "related": [
+   "HI01",
+   "CA01",
+   "HA02",
+   "TO02",
+   "person:ar-pharazon",
+   "RG02"
+  ],
+  "sources": [
+   "The Silmarillion, Akallabêth"
+  ],
+  "confidence": "high",
+  "kind": "Númenórean landing in Aman"
+ }
+]

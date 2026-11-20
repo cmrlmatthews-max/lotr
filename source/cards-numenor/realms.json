@@ -1,0 +1,584 @@
+{
+ "realms": [
+  {
+   "id": "RG01",
+   "title": "Forostar",
+   "type": "region",
+   "kind": "Northern land of Númenor",
+   "tier": 1,
+   "status": "Drowned S.A. 3319",
+   "blurb": "The Forostar is the rocky Northlands of Númenor, the least fertile of the five promontories.",
+   "book": "The Forostar is the northern promontory of Númenor, one of the five arms that stretch out from the central Mittalmar. Its name means the Northlands. The books describe it as the least fertile part of the island. Its uplands are rocky and stony, and few farms thrive there.\n\nThe great height of Sorontil stands in the far north. It rises steeply from the sea in tall cliffs, and eagles are said to have nested on it. Farther south, the town of Ondosto lies near the stone-quarries, on the paved road that ran from Armenelos westward to Andúnië. The books place the Tower of Tar-Meneldur in the north, where that king watched the stars. Its exact site is not given.\n\nThe Forostar was a land of stone and wind more than of crops. Like every other part of Númenor, it was lost when the island sank in S.A. 3319.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Quenya for the Northlands",
+    "Other names": "Northlands"
+   },
+   "facts": {
+    "Region": "North of the Mittalmar",
+    "Chief place": "Ondosto",
+    "Landmark": "Sorontil",
+    "Fate": "Drowned S.A. 3319"
+   },
+   "peoples": [
+    "people:numenoreans",
+    "people:eagles-of-manwe"
+   ],
+   "related": [
+    "MT02",
+    "MT03",
+    "TO02",
+    "BU06",
+    "RD01"
+   ],
+   "sources": [
+    "Unfinished Tales, 'A Description of the Island of Númenor'",
+    "The Silmarillion, Akallabêth"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "RG02",
+   "title": "Andustar",
+   "type": "region",
+   "kind": "Western land of Númenor",
+   "tier": 1,
+   "status": "Drowned S.A. 3319",
+   "blurb": "The Andustar is the western promontory of Númenor, home of the haven of Andúnië and the Lords of Andúnië.",
+   "book": "The Andustar is the western promontory of Númenor, and its name means the Westlands. It points toward Eressëa and the Undying Lands. For this reason it was the land of the Elf-friends.\n\nIn the far west lies the haven of Andúnië, on a bay of the western coast. Nearby rises the hill of Oromet. Tar-Minastir built a tall tower there, from which he could look out across the sea. The northern part of the Andustar is high and rocky. Fir-woods grow there, and steep cliffs fall to the sea. Small bays cut into that coast.\n\nThe Lords of Andúnië held the western lands for many generations. They kept faith with the Valar and were friends of the Eldar. Their line began with Valandil and ended with Amandil, whose son was Elendil. When the kings turned against the Valar, the west became the heart of the Faithful. The Andustar was drowned with the whole island in S.A. 3319.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Quenya for the Westlands"
+   },
+   "facts": {
+    "Region": "West of the Mittalmar",
+    "Chief place": "Andúnië",
+    "Landmark": "Hill of Oromet",
+    "Fate": "Drowned S.A. 3319"
+   },
+   "peoples": [
+    "people:lords-of-andunie",
+    "people:faithful-of-numenor",
+    "people:numenoreans"
+   ],
+   "related": [
+    "HA02",
+    "BA02",
+    "HI06",
+    "BU05",
+    "HI07",
+    "FO02",
+    "BA03",
+    "BU04",
+    "RD01"
+   ],
+   "sources": [
+    "Unfinished Tales, 'A Description of the Island of Númenor'",
+    "The Silmarillion, Akallabêth"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "RG03",
+   "title": "Hyarnustar",
+   "type": "region",
+   "kind": "South-western land of Númenor",
+   "tier": 1,
+   "status": "Drowned S.A. 3319",
+   "blurb": "The Hyarnustar is the south-western promontory of Númenor, known for its vineyards and its great sea cliffs.",
+   "book": "The Hyarnustar is the south-western promontory of Númenor. Its name means the South-west. It lies south of the Bay of Eldanna, which separates it from the Andustar.\n\nThe books describe two very different sides of this land. In the east and south, vines grow. In the west, the land is mountainous. High ground ends in great cliffs that fall straight to the sea. The map of this sheet places those cliffs on the western coast.\n\nThe Hyarnustar has no named city in the books. Its fame lies in its wine and in its wild coast, which faced the open Western Sea. It shared the fate of all Númenor. The land sank beneath the waves in S.A. 3319, when the island was destroyed.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Quenya for the South-west"
+   },
+   "facts": {
+    "Region": "South-west of the Mittalmar",
+    "Known for": "Vineyards and sea cliffs",
+    "Fate": "Drowned S.A. 3319"
+   },
+   "peoples": [
+    "people:numenoreans"
+   ],
+   "related": [
+    "FI01",
+    "MT04",
+    "BA04",
+    "RG09"
+   ],
+   "sources": [
+    "Unfinished Tales, 'A Description of the Island of Númenor'"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "RG04",
+   "title": "Hyarrostar",
+   "type": "region",
+   "kind": "South-eastern land of Númenor",
+   "tier": 1,
+   "status": "Drowned S.A. 3319",
+   "blurb": "The Hyarrostar is the south-eastern promontory of Númenor, a land of great forests used for shipbuilding.",
+   "book": "The Hyarrostar is the south-eastern promontory of Númenor. Its name means the South-east. It lies south of the Bay of Rómenna and runs out toward the south.\n\nThe land is known for its forests. The books tell that King Tar-Aldarion, called Aldarion before he took the sceptre, planted many trees here. He needed timber for the ships of his Guild of Venturers. The great woods of the Hyarrostar thus fed the shipyards of the east. This was an effort to meet the needs of a seafaring people with their own wood.\n\nThe books do not name a large town in the Hyarrostar. The Siril, the chief river of the island, runs south to the sea between this land and the Hyarnustar. The Hyarrostar was drowned in S.A. 3319, with the rest of Númenor.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Quenya for the South-east"
+   },
+   "facts": {
+    "Region": "South-east of the Mittalmar",
+    "Known for": "Forests and ship-timber",
+    "Fate": "Drowned S.A. 3319"
+   },
+   "peoples": [
+    "people:numenoreans",
+    "people:guild-of-venturers"
+   ],
+   "related": [
+    "FO01",
+    "BA01",
+    "RI01",
+    "SW01",
+    "TO03"
+   ],
+   "sources": [
+    "Unfinished Tales, 'A Description of the Island of Númenor'",
+    "Unfinished Tales, 'Aldarion and Erendis'"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "RG05",
+   "title": "Orrostar",
+   "type": "region",
+   "kind": "Eastern land of Númenor",
+   "tier": 1,
+   "status": "Drowned S.A. 3319",
+   "blurb": "The Orrostar is the eastern promontory of Númenor, with cool grain-lands and hills in the north.",
+   "book": "The Orrostar is the eastern promontory of Númenor, and its name means the Eastlands. It faces toward Middle-earth. The Bay of Rómenna lies between the Orrostar and the Hyarrostar, and the haven of Rómenna sits at the head of that bay.\n\nThe inner Orrostar is cooler than the other lands, but the soil is good for grain. The north of the Orrostar rises into hills. The books name no hills there, so the map gives a descriptive name, and the exact place is only approximate.\n\nThe Orrostar lay near the Kingsland of Arandor. In the last days the Faithful gathered about Rómenna, close to this land. The Orrostar sank beneath the sea, together with all Númenor, in S.A. 3319.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Quenya for the Eastlands"
+   },
+   "facts": {
+    "Region": "East of the Mittalmar",
+    "Known for": "Grain-lands and hills",
+    "Fate": "Drowned S.A. 3319"
+   },
+   "peoples": [
+    "people:numenoreans"
+   ],
+   "related": [
+    "FI02",
+    "HI08",
+    "BA01",
+    "HA01",
+    "RG07"
+   ],
+   "sources": [
+    "Unfinished Tales, 'A Description of the Island of Númenor'"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "RG06",
+   "title": "Mittalmar",
+   "type": "region",
+   "kind": "Central plain of Númenor",
+   "tier": 1,
+   "status": "Drowned S.A. 3319",
+   "blurb": "The Mittalmar is the high central plain of Númenor, the Inlands, with the Meneltarma rising from its midst.",
+   "book": "The Mittalmar is the central part of Númenor, and its name means the Inlands. The five promontories run out from it like the points of a star. It is a raised land of grass, used chiefly for sheep and cattle.\n\nThe Meneltarma, the Pillar of Heaven, rises near its middle. On the flat summit stood the Hallow of Eru, a holy place without a roof. Long low ridges, the Tarmasundar, run out from the mountain toward the five promontories. The Siril rises beneath the mountain in the valley of Noirinan, where the tombs of the kings lay.\n\nThe Kingsland of Arandor lies in the east of the Mittalmar. The sheep-pastures of Emerië also lie in the Mittalmar. Armenelos, the City of the Kings, stands in Arandor. The Mittalmar was the heart of the island, and it sank with the rest in S.A. 3319.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Quenya for the Inlands"
+   },
+   "facts": {
+    "Region": "Centre of Númenor",
+    "Chief place": "Armenelos (in Arandor)",
+    "Landmark": "Meneltarma",
+    "Fate": "Drowned S.A. 3319"
+   },
+   "peoples": [
+    "people:numenoreans",
+    "people:shepherds-of-the-mittalmar",
+    "people:kings-men",
+    "people:eagles-of-manwe"
+   ],
+   "related": [
+    "MT01",
+    "HI01",
+    "FI03",
+    "VA01",
+    "GR01",
+    "RI01",
+    "TO01",
+    "RG07",
+    "RG08"
+   ],
+   "sources": [
+    "Unfinished Tales, 'A Description of the Island of Númenor'",
+    "The Silmarillion, Akallabêth"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "RG07",
+   "title": "Arandor",
+   "type": "realm",
+   "kind": "The Kingsland of Númenor",
+   "tier": 2,
+   "status": "Drowned S.A. 3319",
+   "blurb": "Arandor is the Kingsland in the east of the Mittalmar, where Armenelos and Rómenna stood.",
+   "book": "Arandor is the Kingsland of Númenor. It occupies the eastern part of the Mittalmar. Elros, the first King, chose it as the seat of his rule, and he founded Armenelos there. Armenelos was the City of the Kings, with the King's House and the White Tree Nimloth.\n\nRómenna, the great eastern haven, lay at the head of its firth in the same land. The Guild of Venturers sailed from there. In the last days the Faithful lived about Rómenna.\n\nIn the time of Ar-Pharazôn, Sauron was brought to Númenor. Under his influence, a great Temple was raised on the hill in the midst of Armenelos. Men were sacrificed there to Melkor. Arandor was drowned in S.A. 3319.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Quenya for the Kingsland"
+   },
+   "facts": {
+    "Region": "East of the Mittalmar",
+    "Chief place": "Armenelos",
+    "Haven": "Rómenna",
+    "Fate": "Drowned S.A. 3319"
+   },
+   "peoples": [
+    "people:kings-men",
+    "people:faithful-of-numenor",
+    "people:guild-of-venturers"
+   ],
+   "related": [
+    "TO01",
+    "BU01",
+    "BU02",
+    "HA01",
+    "IS01",
+    "BU03",
+    "BA01"
+   ],
+   "sources": [
+    "Unfinished Tales, 'A Description of the Island of Númenor'",
+    "The Silmarillion, Akallabêth"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "RG08",
+   "title": "Emerië",
+   "type": "region",
+   "kind": "Pasture land of Númenor",
+   "tier": 2,
+   "status": "Drowned S.A. 3319",
+   "blurb": "Emerië is a sheep-land of the Mittalmar, where Erendis lived apart from Aldarion.",
+   "book": "Emerië is a region of the Mittalmar, the Inlands of Númenor. It is a land of rolling pastures, and its people kept sheep.\n\nEmerië is best known from the tale of Erendis. She was the wife of the Prince Aldarion, who later became King Tar-Aldarion. Their marriage was unhappy, because he often left for the sea. Aldarion had built a white house for her in Emerië. When he stayed away too long, she left Armenelos and lived there with their daughter Ancalimë. The books do not give the exact place of the house.\n\nThe sheep-land of Hyarastorni also appears in the same tale. Emerië sank with Númenor in S.A. 3319.",
+   "film": "",
+   "series": "",
+   "names": {},
+   "facts": {
+    "Region": "Mittalmar",
+    "Known for": "Sheep and Erendis",
+    "Fate": "Drowned S.A. 3319"
+   },
+   "peoples": [
+    "people:shepherds-of-the-mittalmar"
+   ],
+   "related": [
+    "BU08",
+    "RG10",
+    "FI03"
+   ],
+   "sources": [
+    "Unfinished Tales, 'A Description of the Island of Númenor'",
+    "Unfinished Tales, 'Aldarion and Erendis'"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "RG09",
+   "title": "Nísimaldar",
+   "type": "region",
+   "kind": "Land of fragrant trees",
+   "tier": 2,
+   "status": "Drowned S.A. 3319",
+   "blurb": "The Nísimaldar is the land of sweet-scented evergreen trees around Eldalondë and the Bay of Eldanna.",
+   "book": "The Nísimaldar lies in the west of Númenor, around the Bay of Eldanna. Its name means the land of fragrant trees. Evergreen trees with a sweet scent grow in it. The lake Nísinen is in the land, and the books say it was famed for its flowers.\n\nThe Nunduinë flows through the land and reaches the sea at Eldalondë, a green haven in the bay. The Eldar of Eressëa brought their ships there. They came as friends to the Númenóreans. The bay itself faces toward Eressëa.\n\nThe Nísimaldar was a gentle and beautiful land, close to the home of the Elves. It sank in S.A. 3319.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Quenya for fragrant trees"
+   },
+   "facts": {
+    "Region": "West coast, Bay of Eldanna",
+    "Chief place": "Eldalondë",
+    "People": "Númenóreans, visiting Eldar",
+    "Fate": "Drowned S.A. 3319"
+   },
+   "peoples": [
+    "people:numenoreans",
+    "people:faithful-of-numenor"
+   ],
+   "related": [
+    "HA03",
+    "BA04",
+    "LA01",
+    "RI02",
+    "RG08"
+   ],
+   "sources": [
+    "Unfinished Tales, 'A Description of the Island of Númenor'",
+    "The Silmarillion, Akallabêth"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "RG10",
+   "title": "Hyarastorni",
+   "type": "region",
+   "kind": "Sheep-land of Hallatan",
+   "tier": 3,
+   "status": "Drowned S.A. 3319",
+   "blurb": "Hyarastorni is a sheep-land of Númenor, held by Hallatan, a kinsman of Aldarion; its place is approximate.",
+   "book": "Hyarastorni is a sheep-land of Númenor. The books name Hallatan, a kinsman of Aldarion, as its lord. It is known only from the tale of Aldarion and Erendis.\n\nAncalimë, the daughter of Aldarion and Erendis, went for a time to the household of Hallatan there. She later married Hallacar, the son of Hallatan.\n\nThe books do not give its exact place, and the map shows it only approximately. It was drowned with the rest of Númenor in S.A. 3319.",
+   "film": "",
+   "series": "",
+   "names": {},
+   "facts": {
+    "Lord": "Hallatan",
+    "Fate": "Drowned S.A. 3319"
+   },
+   "peoples": [
+    "people:shepherds-of-the-mittalmar"
+   ],
+   "related": [
+    "RG08",
+    "BU08"
+   ],
+   "sources": [
+    "Unfinished Tales, 'Aldarion and Erendis'"
+   ],
+   "confidence": "low"
+  }
+ ],
+ "peoples": [
+  {
+   "id": "people:numenoreans",
+   "title": "Númenóreans",
+   "kind": "Dúnedain of the isle of Númenor",
+   "blurb": "The Númenóreans are the Edain who received the island of Númenor as a gift from the Valar.",
+   "book": "The Númenóreans are the Men of the Three Houses of the Edain, who fought beside the Elves against Morgoth in the First Age. As a reward, the Valar raised the island of Númenor from the sea. The Edain sailed there in S.A. 32, guided by the star of Eärendil. Elros, the brother of Elrond, became the first King.\n\nThe Númenóreans became great sailors, shipwrights and builders. They kept sheep, grew grain and vines, and planted woods for timber. They were also called the Dúnedain. They lived much longer than other Men, though they could not escape death. The Valar forbade them to sail west out of sight of the island.\n\nIn time, many grew proud and afraid of death. They turned away from the Valar. Others, the Faithful, stayed true. The island was drowned in S.A. 3319, and survivors reached Middle-earth.",
+   "film": "",
+   "series": "The series shows Númenor and its people, including Queen Míriel and Elendil, but it changes some dates and events.",
+   "facts": {
+    "Homeland": "Númenor, from S.A. 32",
+    "Language": "Adûnaic, with Elvish for lore",
+    "Notable figures": "Elros, Aldarion, Ar-Pharazôn, Elendil"
+   },
+   "realms": [
+    "RG06",
+    "RG01",
+    "RG02",
+    "RG03",
+    "RG04",
+    "RG05"
+   ],
+   "related": [
+    "person:elros",
+    "person:tar-aldarion",
+    "person:ar-pharazon",
+    "person:elendil",
+    "TO01",
+    "HA01"
+   ],
+   "sources": [
+    "The Silmarillion, Akallabêth",
+    "Unfinished Tales, 'The Line of Elros'"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "people:faithful-of-numenor",
+   "title": "The Faithful (Elendili)",
+   "kind": "Númenórean Elf-friends",
+   "blurb": "The Faithful are the Númenóreans who kept faith with the Valar and stayed friends of the Eldar.",
+   "book": "The Faithful, called Elendili in Quenya, were the Númenóreans who stayed loyal to the Valar and to the Elves. When the kings turned away from the Valar, the Faithful were a small and often hated party. They were strongest in the west, under the Lords of Andúnië.\n\nThe kings who followed the path of pride tried to end the old friendship. Ar-Gimilzôr was bitter against them. The books say that the use of the Elvish tongues was forbidden, and that the Faithful were treated harshly. In time they were forced to live in secret, and many gathered about the haven of Rómenna.\n\nUnder Ar-Pharazôn, they were persecuted, and some were burned in the Temple. Elendil led the Faithful in nine ships when the island sank. They reached Middle-earth in S.A. 3319, where they founded Arnor and Gondor.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Homeland": "Andustar; later Rómenna",
+    "Language": "Adûnaic; Elvish tongues",
+    "Notable figures": "Amandil, Elendil, Isildur"
+   },
+   "realms": [
+    "RG02",
+    "RG07"
+   ],
+   "related": [
+    "person:amandil",
+    "person:elendil",
+    "person:isildur",
+    "HA02",
+    "HA01",
+    "thing:nimloth"
+   ],
+   "sources": [
+    "The Silmarillion, Akallabêth",
+    "Unfinished Tales, 'The Line of Elros'"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "people:kings-men",
+   "title": "The King's Men",
+   "kind": "Party of the later kings",
+   "blurb": "The King's Men are the Númenóreans who followed the later kings against the Valar and the Eldar.",
+   "book": "The King's Men were the party of the later kings of Númenor. As the kings grew proud, this party grew with them. They envied the Valar and the Elves, and they feared death. They looked down on the Faithful.\n\nThe party was strongest in the east, around Armenelos, the City of the Kings. They turned the kings against the old friendship with the West. Their influence grew when Ar-Pharazôn took the sceptre. When Sauron came to Númenor, many of them became his servants.\n\nSauron made them worship Melkor. A great Temple was raised on the hill of Armenelos, and the people made sacrifices there. Many victims were Faithful. In the great armament, the King's Men sailed west under Ar-Pharazôn. The island was destroyed in S.A. 3319, and the party ended with it.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Homeland": "Armenelos and the Kingsland",
+    "Faith": "Worship of Melkor, late in the Age",
+    "Notable figures": "Ar-Pharazôn; Sauron, their master"
+   },
+   "realms": [
+    "RG07",
+    "RG06"
+   ],
+   "related": [
+    "person:ar-pharazon",
+    "person:sauron",
+    "TO01",
+    "BU02",
+    "BU01"
+   ],
+   "sources": [
+    "The Silmarillion, Akallabêth"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "people:guild-of-venturers",
+   "title": "Guild of Venturers",
+   "kind": "Sea-farers' guild of Númenor",
+   "blurb": "The Guild of Venturers is the guild of mariners that Aldarion founded to sail from Númenor to Middle-earth.",
+   "book": "The Guild of Venturers was a company of mariners founded by Aldarion, a prince who later became King Tar-Aldarion. He loved the sea and wished to sail to Middle-earth. His father, King Meneldur, did not wish it at first.\n\nThe Guild sailed from the haven of Rómenna in the east. Aldarion built the tower of Calmindon on the isle of Tol Uinen in the bay, as a light for returning ships. The Guild's ships crossed to Middle-earth and met the Elves of Lindon. The Númenóreans also sought timber, and Aldarion planted woods in the Hyarrostar for ship-building.\n\nThe Guild is told in Unfinished Tales, 'Aldarion and Erendis'. Aldarion's long absences strained his marriage to Erendis.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Founder": "Aldarion",
+    "Home port": "Rómenna",
+    "Purpose": "Voyages to Middle-earth",
+    "Notable figures": "Aldarion"
+   },
+   "realms": [
+    "RG07",
+    "RG04"
+   ],
+   "related": [
+    "person:tar-aldarion",
+    "person:erendis",
+    "HA01",
+    "IS01",
+    "BU03",
+    "FO01"
+   ],
+   "sources": [
+    "Unfinished Tales, 'Aldarion and Erendis'"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "people:lords-of-andunie",
+   "title": "Lords of Andúnië",
+   "kind": "Chief house of the Faithful",
+   "blurb": "The Lords of Andúnië are the line of Valandil, chiefs of the Faithful, who ruled the west of Númenor.",
+   "book": "The Lords of Andúnië were the descendants of Valandil, the son of Silmariën. Silmariën was the daughter of King Tar-Elendil, and her line was close to the royal house. Valandil was the first Lord of Andúnië. His line ruled the Andustar from the haven of Andúnië in the far west.\n\nThe Lords were chiefs of the Faithful and friends of the Eldar. Their line was long, and in the later days of Númenor they were among the few who still honoured the Valar. In the reign of Ar-Gimilzôr, they moved to Rómenna.\n\nAmandil was the last Lord, and his son Elendil is the best known. When Ar-Pharazôn grew proud, Amandil sailed west to ask for the pardon of the Valar. He never returned. Elendil escaped the Downfall and founded the Realms in Exile.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Seat": "Andúnië, later Rómenna",
+    "Founder": "Valandil",
+    "Notable figures": "Valandil, Amandil, Elendil"
+   },
+   "realms": [
+    "RG02",
+    "RG07"
+   ],
+   "related": [
+    "person:valandil",
+    "person:amandil",
+    "person:elendil",
+    "HA02",
+    "BU04",
+    "HA01"
+   ],
+   "sources": [
+    "The Silmarillion, Akallabêth",
+    "Unfinished Tales, 'The Line of Elros'"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "people:eagles-of-manwe",
+   "title": "Eagles of Manwë",
+   "kind": "Great birds of the Lord of the Air",
+   "blurb": "The Eagles of Manwë are the great birds of the Lord of the Air; their likeness warned Númenor of his anger.",
+   "book": "The Eagles of Manwë are great birds that serve Manwë, the Lord of the Breath of Arda. They act as his messengers and watchers. In Númenor, the books tell that eagles nested on the great height of Sorontil, in the north of the Forostar. The name Sorontil is linked to the word for an eagle.\n\nIn the late days of Númenor, the Eagles of Manwë appeared in the sky above the island. Great clouds came out of the West in the shape of eagles. Men called them the Eagles of the Lords of the West. These signs warned the people that the Valar were angry with the pride of the king.\n\nIn the days of the Three Prayers, eagles came to the summit of the Meneltarma. The people called them the Witnesses of Manwë.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Master": "Manwë",
+    "Nesting place": "Sorontil",
+    "Role": "Messengers and watchers"
+   },
+   "realms": [
+    "RG01",
+    "RG06"
+   ],
+   "related": [
+    "MT02",
+    "MT01",
+    "person:gwaihir"
+   ],
+   "sources": [
+    "The Silmarillion, Akallabêth",
+    "Unfinished Tales, 'A Description of the Island of Númenor'"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "people:shepherds-of-the-mittalmar",
+   "title": "Shepherds of the Mittalmar",
+   "kind": "Sheep-farming folk of the Inlands",
+   "blurb": "The Shepherds of the Mittalmar are the Númenóreans who kept flocks in the raised pastures of the Inlands.",
+   "book": "The Shepherds of the Mittalmar kept flocks on the grassy plain at the middle of Númenor. Their country was the raised land that surrounds the Meneltarma. The books do not name them as a separate people; the map uses this name for the folk of the pastures.\n\nThe tale of Aldarion and Erendis shows their land best. Emerië was the chief sheep-country of the Inlands. Erendis came to love it and lived there apart from Aldarion. Hallatan, a kinsman of Aldarion, held the sheep-land of Hyarastorni, and Ancalimë lived for a time among his shepherds.\n\nIn the tale, Erendis came to hate the sea, which took her husband away from her. The pastures of the Mittalmar sank in S.A. 3319, with the rest of Númenor.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Homeland": "Mittalmar, Emerië",
+    "Livelihood": "Sheep",
+    "Notable figures": "Erendis, Hallatan"
+   },
+   "realms": [
+    "RG06",
+    "RG08",
+    "RG10"
+   ],
+   "related": [
+    "person:erendis",
+    "FI03",
+    "BU08",
+    "RG08",
+    "RG10"
+   ],
+   "sources": [
+    "Unfinished Tales, 'Aldarion and Erendis'",
+    "Unfinished Tales, 'A Description of the Island of Númenor'"
+   ],
+   "confidence": "medium"
+  }
+ ]
+}

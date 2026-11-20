@@ -1,0 +1,430 @@
+[
+ {
+  "id": "BA01",
+  "title": "Bay of Eldamar",
+  "kind": "Great bay of Elvenhome",
+  "tier": 2,
+  "blurb": "The wide bay on the eastern coast of Aman, where Tol Eressëa lies and the Eldar made their homes.",
+  "book": "The Bay of Eldamar lies on the eastern coast of Aman, beneath the Pelóri. The books give it no scale.\n\nThe Calacirya opens onto its shores, so the light of the Two Trees reached the Elves who lived beside it. Alqualondë, the haven of the Teleri, stands on its coast, and Tirion stands inland in the pass.\n\nTol Eressëa lies in the bay. Ulmo brought the Teleri toward Aman on a great island. Ossë, who loved them, urged them to stay. At their prayer Ulmo halted the island, and Ossë rooted it in the bay. The Teleri lived on it for long ages before they sailed to the mainland.\n\nIn the later tales Eärendil brought his ship into this bay and went ashore alone. The Teleri saw the ship come from the east.",
+  "names": {
+   "Meaning": "Eldamar means Elvenhome; the bay is named for that coast"
+  },
+  "facts": {
+   "Region": "Eldamar, east coast of Aman",
+   "Holds": "Tol Eressëa",
+   "Coast": "Alqualondë and the Calacirya"
+  },
+  "related": [
+   "RG03",
+   "IS01",
+   "HA01",
+   "VA01",
+   "BA03",
+   "person:ulmo",
+   "person:osse",
+   "person:earendil"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion chapters 3 and 5",
+   "The Silmarillion, chapter 24"
+  ],
+  "confidence": "high",
+  "film": "",
+  "series": ""
+ },
+ {
+  "id": "BA02",
+  "title": "Ekkaia",
+  "kind": "The Outer Sea",
+  "tier": 2,
+  "blurb": "The sea that encircles the world and washes the western shore of Valinor.",
+  "book": "Ekkaia is the Encircling Sea, also called the Outer Sea. It surrounds the world of Arda. The Silmarillion places it beyond Valinor, so it forms the far western edge of Aman.\n\nThe Halls of Mandos and the halls of Nienna stand near its shore in the west of Valinor. The books do not say exactly where. This map places them only by judgment.\n\nBeyond Ekkaia lie the Walls of Night and the Void outside the world. At the end of the First Age the Valar thrust Morgoth through the Door of Night into that Void.\n\nThe books give no detailed account of the sea itself. Its position on this map, and the scale of Valinor, are a model.",
+  "names": {
+   "Meaning": "The Encircling Sea; the Outer Sea",
+   "Other names": "Outer Sea"
+  },
+  "facts": {
+   "Region": "West of Valinor",
+   "Role": "Encircling sea at the world's edge",
+   "Beyond": "The Walls of Night and the Void"
+  },
+  "related": [
+   "RG02",
+   "BU03",
+   "BU04",
+   "BA03",
+   "person:morgoth"
+  ],
+  "sources": [
+   "The Silmarillion, Ainulindalë and Valaquenta",
+   "The Silmarillion, chapter 24"
+  ],
+  "confidence": "medium",
+  "film": "",
+  "series": ""
+ },
+ {
+  "id": "BA03",
+  "title": "Belegaer",
+  "kind": "The Great Sea",
+  "tier": 2,
+  "blurb": "The great sea between Middle-earth and Aman, also called the Sundering Seas.",
+  "book": "Belegaer is the Great Sea of the West. It lies between Middle-earth and Aman and parts the two. The Silmarillion also speaks of the Sundering Seas, which names the same wide waters.\n\nUlmo, Lord of Waters, is its chief power. Ossë and Uinen of the Maiar rule the waves near the shores. Ulmo drew the Vanyar and Noldor across it on an island, and then the Teleri.\n\nAfter the Flight of the Noldor the Valar hid Valinor. The Enchanted Isles and the Shadowy Seas were set in these waters, so that ships lost their way. These are of a later time than the Trees.\n\nIn the Second Age Ar-Pharazôn crossed the sea to Aman with a great fleet. Its fate is told in the Akallabêth.",
+  "names": {
+   "Meaning": "Great Sea (Sindarin)",
+   "Other names": "The Sundering Seas; the Western Sea"
+  },
+  "facts": {
+   "Region": "Between Middle-earth and Aman",
+   "Powers": "Ulmo, Ossë, Uinen",
+   "Later": "Enchanted Isles and Shadowy Seas"
+  },
+  "related": [
+   "BA01",
+   "IS01",
+   "IS02",
+   "RG08",
+   "person:ulmo",
+   "person:osse",
+   "person:earendil",
+   "person:ar-pharazon"
+  ],
+  "sources": [
+   "The Silmarillion, Valaquenta and Quenta Silmarillion chapters 5 and 11",
+   "The Silmarillion, Akallabêth"
+  ],
+  "confidence": "high",
+  "film": "",
+  "series": ""
+ },
+ {
+  "id": "CA01",
+  "title": "Caves of the Forgotten",
+  "kind": "Prison of Ar-Pharazôn's host",
+  "tier": 2,
+  "blurb": "The place under fallen hills where Ar-Pharazôn and his warriors lie buried, of the Second Age.",
+  "book": "The Caves of the Forgotten belong to the Second Age, not the Years of the Trees. They are named in the Akallabêth.\n\nAr-Pharazôn the Golden led a great Númenórean fleet over the sea in S.A. 3319. He landed in Aman and made camp about Túna. The Eldar had left that hill empty.\n\nThe Valar then laid down their rule and called on Ilúvatar. The world was changed, and the hills fell upon the host. The Akallabêth says the king and the warriors who stood with him are buried in these caves.\n\nIt is said that they lie there until the Last Battle and the Day of Doom. The books do not give the place of the caves, and the position on this map, near Túna, is approximate.",
+  "names": {
+   "Meaning": "A name in the Akallabêth for the king's burial place"
+  },
+  "facts": {
+   "Region": "Near Túna, Eldamar (approximate)",
+   "Age": "Second Age, S.A. 3319",
+   "People": "Ar-Pharazôn and his warriors",
+   "Fate": "Held until the Last Battle, it is said"
+  },
+  "related": [
+   "HI01",
+   "TO02",
+   "person:ar-pharazon",
+   "battle:downfall-of-ar-pharazon"
+  ],
+  "sources": [
+   "The Silmarillion, Akallabêth"
+  ],
+  "confidence": "medium",
+  "film": "",
+  "series": ""
+ },
+ {
+  "id": "MT01",
+  "title": "Pelóri",
+  "kind": "Mountain wall of Aman",
+  "tier": 1,
+  "blurb": "The Mountains of Aman, highest in the world, which fence Valinor from the eastern sea.",
+  "book": "The Pelóri are the Mountains of Aman. The Valar raised them, the highest mountains in the world, to guard Valinor against Melkor. They run near the eastern coast from north to south.\n\nThe books give no map of them. On this map they form a curved wall, and the sheet shows only part of their length.\n\nIn the Years of the Trees the wall had one gap, the Calacirya. The Valar made it for the Elves, so that the light of the Trees fell on the shores of Eldamar. On the western side lay Valinor, and on the eastern side lay the narrow coastal lands and the sea.\n\nTaniquetil, the greatest of the peaks, rises in this range. Hyarmentir stands high in the south. Melkor and Ungoliant came over the mountains in the south when they came to destroy the Trees.",
+  "names": {
+   "Meaning": "The fencing or defensive heights (Quenya)",
+   "Other names": "Mountains of Aman"
+  },
+  "facts": {
+   "Region": "East of Valinor, along the coast",
+   "Makers": "The Valar",
+   "Gap": "The Calacirya",
+   "Peaks": "Taniquetil, Hyarmentir"
+  },
+  "related": [
+   "MT02",
+   "MT03",
+   "VA01",
+   "RG01",
+   "RG02",
+   "RG05"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion chapters 1 and 8",
+   "The Silmarillion, Valaquenta"
+  ],
+  "confidence": "high",
+  "film": "",
+  "series": ""
+ },
+ {
+  "id": "MT02",
+  "title": "Taniquetil",
+  "kind": "Highest mountain of the world",
+  "tier": 1,
+  "blurb": "The tallest mountain in the world, with Ilmarin, the halls of Manwë and Varda, on its summit.",
+  "book": "Taniquetil is the highest mountain in the world. It rises in the Pelóri and stands on the borders of the sea, in the east of Aman. Its peak is white with snow that never melts.\n\nOn its summit stand the halls of Manwë and Varda, called Ilmarin. Manwë sits there on his throne, the king of the Valar, and Varda is beside him. From that height they can see far across the world, and Varda hears the voices that cry to her.\n\nThe books say only that it stands on the sea. This map places it south of the Calacirya, following maps in The History of Middle-earth, so the position is approximate.\n\nThe Vanyar came to live on its slopes after Tirion. A great festival was held there when the Trees were killed. Melkor and Ungoliant struck then, and the Valar mourned.\n\nThe mountain still stands in Aman.",
+  "names": {
+   "Meaning": "High white peak (Quenya)",
+   "Other names": "Oiolossë; Elerrína; Mount Everwhite"
+  },
+  "facts": {
+   "Region": "Pelóri, east of Valinor",
+   "Dwellers": "Manwë and Varda, in Ilmarin",
+   "Dwellers below": "The Vanyar, on its slopes",
+   "Place": "Approximate, south of the Calacirya"
+  },
+  "related": [
+   "BU01",
+   "MT01",
+   "VA01",
+   "person:manwe",
+   "person:varda",
+   "HI02"
+  ],
+  "sources": [
+   "The Silmarillion, Valaquenta",
+   "The Silmarillion, Quenta Silmarillion chapters 1 and 8"
+  ],
+  "confidence": "high",
+  "film": "",
+  "series": ""
+ },
+ {
+  "id": "MT03",
+  "title": "Hyarmentir",
+  "kind": "Peak of the southern Pelóri",
+  "tier": 2,
+  "blurb": "The highest mountain of the southern Pelóri, climbed by Melkor and Ungoliant before the Darkening.",
+  "book": "Hyarmentir is the highest mountain in the south of the Pelóri. It stands above Avathar, the dark land between the mountains and the sea.\n\nMelkor came to Avathar in secret. There he met Ungoliant, who dwelt in a ravine. Together they climbed Hyarmentir and crossed the mountain wall. The Valar were at the festival and did not watch the mountains.\n\nFrom the heights they looked down on Valinor. Then they went down to the Two Trees, and the Darkening of Valinor began.\n\nThe books name the mountain only in this tale. The route that they took down the western slopes is not told in detail.",
+  "facts": {
+   "Region": "South Pelóri, above Avathar",
+   "Height": "Highest in the south",
+   "Tale": "Climbed by Melkor and Ungoliant"
+  },
+  "related": [
+   "MT01",
+   "RG05",
+   "FO01",
+   "HI02",
+   "person:morgoth",
+   "person:ungoliant"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion chapter 8"
+  ],
+  "confidence": "high",
+  "film": "",
+  "series": ""
+ },
+ {
+  "id": "HI01",
+  "title": "Túna",
+  "kind": "Green hill of the Eldar",
+  "tier": 1,
+  "blurb": "The green hill the Valar raised in the Calacirya, on which Tirion stands.",
+  "book": "Túna is a green hill in the Calacirya, the Pass of Light. The Valar raised it for the Elves who came to Aman. It lay in a gap in the Pelóri, so the light of the Trees fell on it and out to the bay.\n\nTirion stands on its crown, and the tower Mindon Eldaliéva rises there. The Vanyar and Noldor first made their home here. Later the Vanyar left Tirion to live in Valinor, nearer the Valar, while the Noldor stayed.\n\nTúna looks toward the Bay of Eldamar and Tol Eressëa. The Teleri did not live on it. They stayed by the sea.\n\nIn the later tale Eärendil found Tirion empty.\n\nIn S.A. 3319 the host of Ar-Pharazôn camped about Túna, which the Eldar had left. The hills fell on that host, as the Akallabêth tells.",
+  "names": {
+   "Meaning": "Hill (Quenya)"
+  },
+  "facts": {
+   "Region": "In the Calacirya, Eldamar",
+   "Crowned by": "Tirion and Mindon Eldaliéva",
+   "Made by": "The Valar",
+   "People": "Vanyar and Noldor"
+  },
+  "related": [
+   "TO02",
+   "BU02",
+   "VA01",
+   "CA01",
+   "RG03",
+   "battle:downfall-of-ar-pharazon"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion chapters 5 and 24",
+   "The Silmarillion, Akallabêth"
+  ],
+  "confidence": "high",
+  "film": "",
+  "series": ""
+ },
+ {
+  "id": "HI02",
+  "title": "Ezellohar",
+  "kind": "Green mound of the Two Trees",
+  "tier": 1,
+  "blurb": "The green mound before the western gate of Valmar where Telperion and Laurelin grew.",
+  "book": "Ezellohar is a green mound on the plain of Valinor. It lies before the western gate of Valmar. It is also called Corollairë.\n\nYavanna made the Two Trees here: Telperion, with silver light, and Laurelin, with golden light. Their lights waxed and waned in turn and gave the hours of Valinor. Near the mound stood the Máhanaxar, the Ring of Doom, where the Valar sat in council.\n\nIn the time of the festival Melkor and Ungoliant came to the mound. Melkor wounded both Trees with a black spear. Ungoliant drank their sap and the Wells of Varda, and Valinor fell into darkness.\n\nYavanna could not heal the Trees. Telperion bore one last silver flower, and Laurelin one last golden fruit. The Valar made these into the Moon and the Sun.\n\nThe mound is in the Undying Lands.",
+  "names": {
+   "Meaning": "The Green Mound",
+   "Other names": "Corollairë"
+  },
+  "facts": {
+   "Region": "Valinor, west of Valmar",
+   "Grew here": "Telperion and Laurelin",
+   "Council": "Máhanaxar, the Ring of Doom",
+   "Fate": "Trees killed by Melkor"
+  },
+  "related": [
+   "TO01",
+   "DO01",
+   "BU06",
+   "LA02",
+   "thing:two-trees",
+   "person:yavanna",
+   "person:morgoth",
+   "person:ungoliant",
+   "battle:darkening-of-valinor"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion chapters 1 and 8"
+  ],
+  "confidence": "high",
+  "film": "",
+  "series": ""
+ },
+ {
+  "id": "LA01",
+  "title": "Lórellin",
+  "kind": "Lake in the gardens of Lórien",
+  "tier": 3,
+  "blurb": "A lake in the gardens of Lórien, with an island where Estë sleeps by day.",
+  "book": "Lórellin is a lake in the gardens of Lórien, in Valinor. Estë, the healer, sleeps by day on an island in it, among trees that shade the water.\n\nThe books say nothing of the place in Aman beyond the gardens, so the position on this map is approximate.",
+  "facts": {
+   "Region": "Gardens of Lórien, Valinor",
+   "Place": "Approximate",
+   "Dweller": "Estë, by day"
+  },
+  "related": [
+   "FO02",
+   "person:este",
+   "person:lorien"
+  ],
+  "sources": [
+   "The Silmarillion, Valaquenta"
+  ],
+  "confidence": "medium",
+  "film": "",
+  "series": ""
+ },
+ {
+  "id": "LA02",
+  "title": "Wells of Varda",
+  "kind": "Great wells of dew",
+  "tier": 2,
+  "blurb": "Varda's great wells of Valinor, filled with the dew of the Trees, drunk dry by Ungoliant.",
+  "book": "The Wells of Varda were great vats in Valinor. They held the shining dew of Telperion and the rain of Laurelin. The books do not give their exact place, so the position here is approximate.\n\nWhen Melkor killed the Trees, Ungoliant drank their sap. Then she went to the Wells and drank them dry. She swelled in size, and black vapours came from her.\n\nSo the light of Valinor was gone. Only the last flower and the last fruit of the Trees remained.\n\nThe Wells are known only from this tale. The books do not describe them further.",
+  "names": {
+   "Meaning": "Vats of dew kept by Varda"
+  },
+  "facts": {
+   "Region": "Valinor",
+   "Place": "Approximate",
+   "Keeper": "Varda",
+   "Fate": "Drunk dry by Ungoliant"
+  },
+  "related": [
+   "HI02",
+   "thing:two-trees",
+   "person:varda",
+   "person:ungoliant",
+   "battle:darkening-of-valinor"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion chapter 8"
+  ],
+  "confidence": "medium",
+  "film": "",
+  "series": ""
+ },
+ {
+  "id": "FO01",
+  "title": "Woods of Oromë",
+  "kind": "Forests of the Huntsman",
+  "tier": 2,
+  "blurb": "The forests in the south of Valinor where Oromë the Huntsman rides.",
+  "book": "The Woods of Oromë are the great forests of Oromë, the Huntsman of the Valar. They lie in the south of Valinor, at the feet of Hyarmentir.\n\nOromë loves trees, horses and the chase. His great horn is Valaróma, and his horse is Nahar. Yavanna had her pastures nearby, in the same part of Valinor.\n\nMelkor and Ungoliant came down from the southern mountains on their way to the Two Trees. The books do not trace their path in detail, and the map shows only that they pass near these woods.\n\nThe woods are named in the books, but little else is told of them.",
+  "names": {
+   "Meaning": "The forests of Oromë"
+  },
+  "facts": {
+   "Region": "South Valinor, below Hyarmentir",
+   "Lord": "Oromë",
+   "Neighbours": "Pastures of Yavanna"
+  },
+  "related": [
+   "MT03",
+   "RG09",
+   "RG02",
+   "person:orome",
+   "person:yavanna"
+  ],
+  "sources": [
+   "The Silmarillion, Valaquenta",
+   "The Silmarillion, Quenta Silmarillion chapter 8"
+  ],
+  "confidence": "medium",
+  "film": "",
+  "series": ""
+ },
+ {
+  "id": "FO02",
+  "title": "Gardens of Lórien",
+  "kind": "Gardens of Irmo and Estë",
+  "tier": 2,
+  "blurb": "The gardens of Irmo, the fairest place in the world, with the lake Lórellin.",
+  "book": "The Gardens of Lórien are the home of Irmo, lord of visions and dreams, who is also called Lórien after them. The Silmarillion calls the gardens the fairest place in the world. Many spirits dwell there.\n\nEstë, the healer, lives here. She sleeps by day on the island in the lake Lórellin. Those who dwell in Valinor come here for rest and refreshment.\n\nMíriel, mother of Fëanor, was laid in the gardens after she gave up her life.\n\nThe books say only that the gardens lie in Valinor. This map places them south of Valmar, and that position is approximate.",
+  "names": {
+   "Meaning": "Also the name Irmo bears: Lórien"
+  },
+  "facts": {
+   "Region": "Valinor, south of Valmar (approximate)",
+   "Lord": "Irmo (Lórien)",
+   "Lady": "Estë",
+   "Water": "Lake Lórellin"
+  },
+  "related": [
+   "LA01",
+   "TO01",
+   "person:lorien",
+   "person:este",
+   "RG02"
+  ],
+  "sources": [
+   "The Silmarillion, Valaquenta",
+   "The Silmarillion, Quenta Silmarillion chapter 6"
+  ],
+  "confidence": "medium",
+  "film": "",
+  "series": ""
+ },
+ {
+  "id": "DO02",
+  "title": "Door of Night",
+  "kind": "Door in the Walls of the World",
+  "tier": 3,
+  "blurb": "The Door of Night is the door in the Walls of the World, through which Morgoth was cast out.",
+  "book": "The Door of Night is the door in the Walls of the World. After the War of Wrath the Valar thrust Morgoth through it into the Timeless Void, and they set a guard on the walls.\n\nThe published books do not say where the Door stands. The Ambarkanta, in The History of Middle-earth, puts it in the far west, beyond the Outer Sea. This map follows that text. The place is approximate.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "Ando Lómen (in The History of Middle-earth)"
+  },
+  "facts": {
+   "Leads to": "The Timeless Void",
+   "Position": "Approximate; far west, beyond Ekkaia"
+  },
+  "related": [
+   "BA02",
+   "person:morgoth"
+  ],
+  "sources": [
+   "The Silmarillion, ch. 24",
+   "The History of Middle-earth IV, the Ambarkanta"
+  ],
+  "confidence": "medium"
+ }
+]

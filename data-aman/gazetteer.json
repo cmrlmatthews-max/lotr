@@ -1,0 +1,292 @@
+[
+{
+"id": "MT01",
+"layer": "Mountains",
+"name": "Pelóri",
+"x": 1500,
+"y": 820,
+"attrs": {
+"Hint": "the Mountains of Aman, highest of the world: a curved wall near the east coast from north to south, pierced only by the Calacirya"
+}
+},
+{
+"id": "MT02",
+"layer": "Mountains",
+"name": "Taniquetil",
+"x": 1587,
+"y": 1191,
+"attrs": {
+"Hint": "Oiolossë, Mount Everwhite: highest mountain of the world, on the borders of the sea; Ilmarin on its summit. South of the pass after the HoME maps"
+}
+},
+{
+"id": "MT03",
+"layer": "Mountains",
+"name": "Hyarmentir",
+"x": 1604,
+"y": 331,
+"attrs": {
+"Hint": "highest mountain of the southern Pelóri, above Avathar; Melkor and Ungoliant climbed it to look on Valinor"
+}
+},
+{
+"id": "HI01",
+"layer": "Hills",
+"name": "Túna",
+"x": 1554,
+"y": 1310,
+"attrs": {
+"Hint": "the green hill raised in the Calacirya; Tirion stands on its crown"
+}
+},
+{
+"id": "HI02",
+"layer": "Hills",
+"name": "Ezellohar",
+"x": 850,
+"y": 1302,
+"attrs": {
+"Hint": "Corollairë, the green mound before the western gate of Valmar where the Two Trees grew"
+}
+},
+{
+"id": "LA01",
+"layer": "Lakes",
+"name": "Lórellin",
+"x": 800.0,
+"y": 820.0,
+"attrs": {
+"Hint": "approx: the lake in the gardens of Lórien; Estë sleeps by day on the tree-grown isle in it"
+}
+},
+{
+"id": "LA02",
+"layer": "Lakes",
+"name": "Wells of Varda",
+"x": 832.0,
+"y": 1250.0,
+"attrs": {
+"Hint": "approx: Varda's great vats of the dew of Telperion and the light of Laurelin, near the Trees; Ungoliant drank them"
+}
+},
+{
+"id": "FO01",
+"layer": "Forests",
+"name": "Woods of Oromë",
+"x": 1379.4,
+"y": 475.0,
+"attrs": {
+"Hint": "the forests of the Huntsman in the south of Valinor, at the feet of Hyarmentir"
+}
+},
+{
+"id": "FO02",
+"layer": "Forests",
+"name": "Gardens of Lórien",
+"x": 784.4,
+"y": 816.9,
+"attrs": {
+"Hint": "approx: the gardens of Irmo, fairest place in the world, with the lake Lórellin; placed south of Valmar"
+}
+},
+{
+"id": "TO01",
+"layer": "Towns",
+"name": "Valmar",
+"x": 935,
+"y": 1314,
+"attrs": {
+"Hint": "Valimar of many bells, city of the Valar in the midst of the plain of Valinor"
+}
+},
+{
+"id": "TO02",
+"layer": "Towns",
+"name": "Tirion",
+"x": 1553,
+"y": 1306,
+"attrs": {
+"Hint": "white city of the Vanyar and Noldor on the crown of Túna in the Calacirya"
+}
+},
+{
+"id": "BU02",
+"layer": "Buildings",
+"name": "Mindon Eldaliéva",
+"x": 1546,
+"y": 1282,
+"attrs": {
+"Hint": "the tower of Ingwë in Tirion, whose lamp shone far out to sea"
+}
+},
+{
+"id": "HA01",
+"layer": "Harbors",
+"name": "Alqualondë",
+"x": 1675,
+"y": 1452,
+"attrs": {
+"Hint": "the Haven of the Swans, city of the Teleri on the coast of Eldamar north of the Calacirya"
+}
+},
+{
+"id": "HA02",
+"layer": "Harbors",
+"name": "Avallónë",
+"x": 1900,
+"y": 1300,
+"attrs": {
+"Hint": "haven of the Eldar on the east side of Tol Eressëa, facing the sea; of the Second Age (Akallabêth)"
+}
+},
+{
+"id": "FT01",
+"layer": "Fortresses",
+"name": "Formenos",
+"x": 1255,
+"y": 2235,
+"attrs": {
+"Hint": "Fëanor's stronghold and treasury in the hills in the north of Valinor; Finwë was slain at its doors"
+}
+},
+{
+"id": "BU01",
+"layer": "Buildings",
+"name": "Ilmarin",
+"x": 1588,
+"y": 1194,
+"attrs": {
+"Hint": "the halls of Manwë and Varda on the summit of Taniquetil"
+}
+},
+{
+"id": "BU03",
+"layer": "Buildings",
+"name": "Halls of Mandos",
+"x": 305,
+"y": 1480,
+"attrs": {
+"Hint": "approx: the Halls of Awaiting in the west of Valinor by the shore of the Outer Sea"
+}
+},
+{
+"id": "BU04",
+"layer": "Buildings",
+"name": "Halls of Nienna",
+"x": 272,
+"y": 1805,
+"attrs": {
+"Hint": "approx: halls west of West upon the borders of the world, near the Halls of Mandos"
+}
+},
+{
+"id": "BU05",
+"layer": "Buildings",
+"name": "Mansions of Aulë",
+"x": 1020,
+"y": 1560,
+"attrs": {
+"Hint": "approx: the halls of the Smith of the Valar in Valinor; the text gives no place"
+}
+},
+{
+"id": "DO02",
+"layer": "Doors_Gates",
+"name": "Door of Night",
+"x": 30,
+"y": 1320,
+"attrs": {
+"Hint": "approx: the door in the Walls of the Night beyond Ekkaia; the Ambarkanta (HoME IV) puts it in the far west, beyond the edge of this sheet; Morgoth was thrust through it into the Void after the War of Wrath (Silmarillion ch. 24)"
+}
+},
+{
+"id": "DO01",
+"layer": "Doors_Gates",
+"name": "Gates of Valmar",
+"x": 905,
+"y": 1278,
+"attrs": {
+"Hint": "the golden gates of Valmar on its west side, facing Ezellohar and the Ring of Doom"
+}
+},
+{
+"id": "BU06",
+"layer": "Buildings",
+"name": "Máhanaxar",
+"x": 900,
+"y": 1350,
+"attrs": {
+"Hint": "the Ring of Doom, where the Valar sat in council, near the golden gates of Valmar"
+}
+},
+{
+"id": "VA01",
+"layer": "Valleys",
+"name": "Calacirya",
+"x": 1582,
+"y": 1320,
+"attrs": {
+"Hint": "the Pass of Light, the one cleft through the Pelóri, made for the Eldar; the light of the Trees flowed out through it"
+}
+},
+{
+"id": "IS01",
+"layer": "Islands",
+"name": "Tol Eressëa",
+"x": 1872,
+"y": 1340,
+"attrs": {
+"Hint": "the Lonely Isle, ferry of the Eldar, rooted by Ulmo in the Bay of Eldamar"
+}
+},
+{
+"id": "IS02",
+"layer": "Islands",
+"name": "Enchanted Isles",
+"x": 2140,
+"y": 1320,
+"attrs": {
+"Hint": "chain of isles set from north to south in the Shadowy Seas at the Hiding of Valinor (after the Flight of the Noldor)"
+}
+},
+{
+"id": "BA01",
+"layer": "Bays",
+"name": "Bay of Eldamar",
+"x": 1760,
+"y": 1200,
+"attrs": {
+"Hint": "the great bay of Elvenhome east of the Calacirya, with Tol Eressëa in it"
+}
+},
+{
+"id": "BA02",
+"layer": "Bays",
+"name": "Ekkaia",
+"x": 120,
+"y": 650,
+"attrs": {
+"Hint": "the Outer Sea that surrounds the world, west of Valinor"
+}
+},
+{
+"id": "BA03",
+"layer": "Bays",
+"name": "Belegaer",
+"x": 2000,
+"y": 950,
+"attrs": {
+"Hint": "the Great Sea between Aman and Middle-earth; the Sundering Seas"
+}
+},
+{
+"id": "CA01",
+"layer": "Cave_entrances",
+"name": "Caves of the Forgotten",
+"x": 1592,
+"y": 1270,
+"attrs": {
+"Hint": "approx: where Ar-Pharazôn and his warriors lie under the hills that fell on them about Túna (Second Age, Akallabêth)"
+}
+}
+]

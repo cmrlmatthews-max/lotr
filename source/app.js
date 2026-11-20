@@ -281,7 +281,9 @@ function buildLabels() {
   for (const L of labels) { const sp = L.el.lastElementChild; L.w = sp.offsetWidth; L.h = sp.offsetHeight; }
   labels.sort((a, b) => a.prio - b.prio || a.item.title.localeCompare(b.item.title));
 }
+let LS = 1;   // label distances were tuned for the Middle-earth sheet; a larger sheet scales them up
 function rankVisible(L, dl) {
+  dl /= LS;
   if (L.group === 'realms') return L.rank === 1 ? dl > 520 : L.rank === 2 ? dl > 200 && dl < 1700 : dl > 110 && dl < 800;
   if (L.group === 'battles') return L.rank === 1 ? dl < 3200 : L.rank === 2 ? dl < 1300 : dl < 600;
   return L.rank === 1 ? dl < 3400 : L.rank === 2 ? dl < 950 : dl < 340;
@@ -437,7 +439,7 @@ function renderCard(it) {
   if (it.aka && it.aka.length) h += `<div class="date">Also: ${it.aka.map(esc).join(' &middot; ')}</div>`;
   if (it.blurb) h += `<p class="blurb">${esc(it.blurb)}</p>`;
   if (it.names && Object.keys(it.names).length) h += `<div class="names">${Object.entries(it.names).map(([k, v]) => `<span><b>${esc(k)}</b> ${esc(v)}</span>`).join('')}</div>`;
-  if (it.sides) h += `<div class="sides"><div><b>Victor / defender</b>${it.sides.a.map(esc).join('<br>')}</div><div><b>Opponent</b>${it.sides.b.map(esc).join('<br>')}</div></div>${it.outcome ? `<p class="outcome"><b>Outcome.</b> ${esc(it.outcome)}</p>` : ''}`;
+  if (it.sides) h += `<div class="sides"><div><b>${it.neutral ? 'One side' : 'Victor / defender'}</b>${it.sides.a.map(esc).join('<br>')}</div><div><b>${it.neutral ? 'Other side' : 'Opponent'}</b>${it.sides.b.map(esc).join('<br>')}</div></div>${it.outcome ? `<p class="outcome"><b>Outcome.</b> ${esc(it.outcome)}</p>` : ''}`;
   const sec = (key, name, txt) => txt && S.src[key] ? `<section class="src ${key}"><h3><span class="tag">${name}</span></h3>${paras(txt)}</section>` : '';
   const body = sec('book', 'Book', it.book) + sec('film', 'Film', it.film) + sec('series', 'Series', it.series);
   h += body || (it.hidden ? '' : `<p class="muted">No text for the selected sources.</p>`);
@@ -654,7 +656,7 @@ let landBusy = null;
 function setLand(id) {
   const L = D.lands.find(l => l.id === id); if (!L) return Promise.resolve();
   if (LAND && LAND.id === id) return landBusy || Promise.resolve();
-  clearLand(); LAND = L; W = L.wkm; H = L.hkm; FE = L.features;
+  clearLand(); LAND = L; W = L.wkm; H = L.hkm; FE = L.features; LS = Math.max(1, Math.max(W, H * 1.13) / 2352);
   hImg = $('#img-height-' + id); bImg = $('#img-base-' + id);
   document.querySelectorAll('#lands button').forEach(b => b.classList.toggle('act', b.dataset.land === id));
   $('#land-name').textContent = L.name; $('#land-sub').textContent = L.sub; $('#land-note').classList.toggle('hide', !L.modelled);

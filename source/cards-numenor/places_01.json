@@ -1,0 +1,592 @@
+[
+ {
+  "id": "TO01",
+  "title": "Armenelos",
+  "kind": "Royal city of Númenor",
+  "tier": 1,
+  "blurb": "The City of the Kings in the Kingsland of Arandor, seat of the royal court of Númenor.",
+  "book": "Armenelos is the royal city of Númenor. It stands in Arandor, the Kingsland, in the east of the island's central lands. The Edain came to the isle in S.A. 32, and Elros Tar-Minyatur became the first King. The Kings held their court in Armenelos, and their tombs lie in the Valley of the Tombs under the holy mountain.\n\nThe King's House has courts where the White Tree Nimloth grew. In the last age of the island the city also holds the great Temple that Sauron raised. The Faithful were taken there to die.\n\nArmenelos is the seat of power throughout the Second Age. Ar-Pharazôn ruled from it in his pride. He brought Sauron there in S.A. 3262 as a hostage, and Sauron soon became his chief counsellor. From here the King prepared the Great Armament against the Valar. In S.A. 3319 Númenor sank, and Armenelos was lost beneath the waves with the rest of the isle.",
+  "film": "",
+  "series": "The series shows Armenelos as the royal capital of Númenor and the seat of the court.",
+  "names": {
+   "Other names": "City of the Kings"
+  },
+  "facts": {
+   "Region": "Arandor, the Kingsland",
+   "People": "The Kings and their court",
+   "Fate": "Sank with Númenor, S.A. 3319"
+  },
+  "related": [
+   "RG07",
+   "BU01",
+   "BU02",
+   "GR01",
+   "person:elros",
+   "person:ar-pharazon"
+  ],
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'",
+   "The Silmarillion, Akallabêth",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "BU01",
+  "title": "King's Court and Nimloth",
+  "kind": "Royal court with the White Tree",
+  "tier": 2,
+  "blurb": "The courts of the King's House in Armenelos, home of the White Tree Nimloth.",
+  "book": "The name of this feature is a label from this map. The tree itself has a name in the books: Nimloth.\n\nNimloth was the White Tree of Númenor. It grew in the courts of the King's House in Armenelos. It came from the Eldar of Eressëa, and it was of the line of the White Trees of the Elves. A saying linked the fate of the royal house with the life of the Tree.\n\nIn the reign of Ar-Pharazôn, Sauron urged the King to destroy the Tree. Isildur, son of Elendil, went secretly into the guarded court and took a fruit from it. Guards wounded him as he escaped. Soon after, the King cut the Tree down. Its wood fed the first fire on the altar of the Temple. Isildur's fruit grew into a new tree.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "White blossom (Sindarin)"
+  },
+  "facts": {
+   "Region": "Armenelos, in Arandor",
+   "Planted": "Brought from Eressëa by the Eldar",
+   "Fate": "Felled by Ar-Pharazôn; a fruit was saved"
+  },
+  "related": [
+   "TO01",
+   "BU02",
+   "person:ar-pharazon",
+   "person:isildur",
+   "person:sauron",
+   "thing:nimloth"
+  ],
+  "sources": [
+   "The Silmarillion, Akallabêth",
+   "Unfinished Tales, 'The Line of Elros'"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "BU02",
+  "title": "Temple of Armenelos",
+  "kind": "Temple of Melkor",
+  "tier": 1,
+  "blurb": "The great domed temple that Sauron raised in Armenelos, where men were burned in sacrifice to Melkor.",
+  "book": "The Temple of Armenelos was the greatest building of the later Númenor. It stood on a hill in the midst of the city and was crowned with a vast dome. Sauron planned it, and the King's labourers raised it after he came to the isle in S.A. 3262.\n\nThe Temple served the worship of Melkor, whom the Valar had cast out of the world. Sauron taught the King that Melkor, and not Eru, was lord of all. The first fire on its altar came from the wood of Nimloth, the White Tree, which Ar-Pharazôn had felled at Sauron's urging.\n\nMen were burned there in sacrifice. Most of the victims came from the Faithful, who held to the Valar and refused the new faith. Smoke from the fires darkened the city.\n\nThe Temple is the centre of the corruption of Númenor. The books do not date its building exactly. It was lost when the whole isle sank in S.A. 3319.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "The Temple of Melkor"
+  },
+  "facts": {
+   "Region": "Armenelos, in Arandor",
+   "Built by": "Sauron, for Ar-Pharazôn",
+   "Founded": "After S.A. 3262",
+   "Fate": "Sank with Númenor, S.A. 3319"
+  },
+  "related": [
+   "TO01",
+   "BU01",
+   "person:sauron",
+   "person:ar-pharazon",
+   "person:morgoth",
+   "RG07"
+  ],
+  "sources": [
+   "The Silmarillion, Akallabêth",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "HA01",
+  "title": "Rómenna",
+  "kind": "Eastern haven of Númenor",
+  "tier": 1,
+  "blurb": "The great eastern haven at the head of its firth, home of the sea-venturers and the Faithful.",
+  "book": "Rómenna is the chief haven on the east coast of Númenor. It lies at the head of a long firth that opens into the Bay of Rómenna, in the Kingsland of Arandor. The name is related to the Elvish word for east.\n\nIn the days of Tar-Aldarion, Rómenna was the base of his sea-venturing. His ships sailed from here to the coasts of Middle-earth, and the Guild of Venturers had its home here. Aldarion also raised the Light-tower of Calmindon on an island in the bay.\n\nIn the later reigns the Faithful gathered about Rómenna. Elendil dwelt there with his sons, Isildur and Anárion. When Ar-Pharazôn turned against the Valar, the Faithful were watched and accused of treason, and many were taken to the Temple.\n\nAmandil bade Elendil to make ships ready. Before the Downfall in S.A. 3319, Elendil, his sons and their people went aboard and waited off the east coast. They bore the seedling of Nimloth and the seeing-stones that the Eldar had given to Amandil. A great wind carried them to Middle-earth, and Rómenna was lost.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Eastward (Quenya)"
+  },
+  "facts": {
+   "Region": "Arandor, on the east coast",
+   "People": "Sea-venturers and the Faithful",
+   "Linked to": "Tar-Aldarion and the Venturers",
+   "Fate": "Sank with Númenor, S.A. 3319"
+  },
+  "related": [
+   "BA01",
+   "IS01",
+   "BU03",
+   "RG07",
+   "person:tar-aldarion",
+   "person:elendil"
+  ],
+  "sources": [
+   "Unfinished Tales, 'Aldarion and Erendis'",
+   "The Silmarillion, Akallabêth",
+   "Unfinished Tales, 'A Description of the Island of Númenor'"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "IS01",
+  "title": "Tol Uinen",
+  "kind": "Island in the Bay of Rómenna",
+  "tier": 2,
+  "blurb": "A small isle in the Bay of Rómenna, hallowed to Uinen, Lady of the Seas.",
+  "book": "Tol Uinen is a small island in the Bay of Rómenna, off the east coast of Númenor. Its name means the Isle of Uinen. Uinen is the Lady of the Seas, a Maia and the spouse of Ossë. The Númenóreans held her in great reverence.\n\nOn this isle Tar-Aldarion built the Light-tower called Calmindon. The tower served the ships that came to Rómenna. The great ships of the Guild of Venturers set out from that haven.\n\nThe books name the isle only in passing. Its exact size and form are not given. It sank with the rest of Númenor in S.A. 3319.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Isle of Uinen"
+  },
+  "facts": {
+   "Region": "Bay of Rómenna",
+   "Hallowed to": "Uinen, Lady of the Seas",
+   "Built there": "Calmindon, by Aldarion",
+   "Fate": "Sank, S.A. 3319"
+  },
+  "related": [
+   "BU03",
+   "BA01",
+   "HA01",
+   "person:tar-aldarion"
+  ],
+  "sources": [
+   "Unfinished Tales, 'Aldarion and Erendis'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU03",
+  "title": "Calmindon",
+  "kind": "Light-tower of Númenor",
+  "tier": 2,
+  "blurb": "The Light-tower that Tar-Aldarion built on Tol Uinen to guide ships into Rómenna.",
+  "book": "Calmindon is a Light-tower on the isle of Tol Uinen in the Bay of Rómenna. Its name means light-tower. Aldarion built it while he was still the King's Heir, in the years of his voyages to Middle-earth.\n\nIts light served the ships that came home to Rómenna. It belongs to the works that show Aldarion's care for seafaring.\n\nThe books say little more of it. They do not give its height or its date. Like the haven that it served, it was lost under the waves in S.A. 3319.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Light-tower"
+  },
+  "facts": {
+   "Region": "Tol Uinen, Bay of Rómenna",
+   "Built by": "Tar-Aldarion",
+   "Purpose": "To guide ships to Rómenna",
+   "Fate": "Sank, S.A. 3319"
+  },
+  "related": [
+   "IS01",
+   "BA01",
+   "HA01",
+   "person:tar-aldarion"
+  ],
+  "sources": [
+   "Unfinished Tales, 'Aldarion and Erendis'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BA01",
+  "title": "Bay of Rómenna",
+  "kind": "Eastern bay of Númenor",
+  "tier": 2,
+  "blurb": "The eastern bay between Orrostar and Hyarrostar, with the firth of Rómenna at its head.",
+  "book": "The Bay of Rómenna opens on the east coast of Númenor. It lies between the two eastern lands, the Orrostar in the north and the Hyarrostar in the south. At its head runs the long firth that leads to Rómenna, the great eastern haven.\n\nShips of the Guild of Venturers passed through the bay on their way to Middle-earth. The isle of Tol Uinen lies in it, with the Light-tower of Calmindon that Aldarion built to guide them home.\n\nThe bay faces the Great Sea and Middle-earth. For that reason it was the natural door for ships that went out to the east.\n\nThe bay sank with the rest of Númenor in S.A. 3319.",
+  "film": "",
+  "series": "",
+  "names": {},
+  "facts": {
+   "Region": "East coast, between Orrostar and Hyarrostar",
+   "Chief haven": "Rómenna",
+   "Isle": "Tol Uinen",
+   "Fate": "Sank, S.A. 3319"
+  },
+  "related": [
+   "HA01",
+   "IS01",
+   "BU03",
+   "RG04",
+   "RG05",
+   "person:tar-aldarion"
+  ],
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'",
+   "Unfinished Tales, 'Aldarion and Erendis'"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "HA02",
+  "title": "Andúnië",
+  "kind": "Western haven of Númenor",
+  "tier": 1,
+  "blurb": "The western haven facing Eressëa, seat of the Lords of Andúnië and chief home of the Faithful.",
+  "book": "Andúnië is a haven on a bay of the west coast of Númenor, in the far west of the Andustar. Its name means sunset. It faces the way to Tol Eressëa and the Undying Lands.\n\nThe Lords of Andúnië ruled here. Their line began with Valandil, son of Silmariën, who was the eldest child of Tar-Elendil. Because Silmariën was a daughter, the sceptre passed to her brother Meneldur. Her heirs held Andúnië instead. They were friends of the Eldar and remained loyal to the Valar when the kings turned away.\n\nNear the haven rises the hill of Oromet. There Tar-Minastir built a tall tower to look toward the West.\n\nThe last Lord was Amandil, father of Elendil. When Ar-Pharazôn made war, Amandil sailed west to plead with the Valar, and no word came back. Before that, Ar-Gimilzôr had forced the Lords and the Faithful to move east to Rómenna. Andúnië sank in S.A. 3319.\n\nThe books say that the great fleet gathered on the west of the isle. They do not name its haven.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Sunset, from the Elvish for west"
+  },
+  "facts": {
+   "Region": "Andustar, far west of the isle",
+   "People": "Lords of Andúnië and the Faithful",
+   "Seat of": "Lords from Valandil to Amandil",
+   "Fate": "Sank with Númenor, S.A. 3319"
+  },
+  "related": [
+   "BA02",
+   "BU04",
+   "BU05",
+   "HI06",
+   "RG02",
+   "person:amandil"
+  ],
+  "sources": [
+   "Unfinished Tales, 'The Line of Elros'",
+   "The Silmarillion, Akallabêth",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "BU04",
+  "title": "House of the Lords of Andúnië",
+  "kind": "Hall of the Lords of Andúnië",
+  "tier": 3,
+  "blurb": "The hall of the line of Valandil, Lords of Andúnië.",
+  "book": "This is the seat of the Lords of Andúnië, the line that began with Valandil, a grandson of Tar-Elendil. The books do not describe the house itself, and they do not give its exact place. Ar-Gimilzôr later made the Lords move to Rómenna. The last Lord, Amandil, was the father of Elendil. The house was lost with the haven when Númenor sank in S.A. 3319.",
+  "film": "",
+  "series": "",
+  "names": {},
+  "facts": {
+   "Region": "Andúnië, in the Andustar",
+   "People": "Lords of Andúnië",
+   "Position": "Approximate"
+  },
+  "related": [
+   "HA02",
+   "RG02",
+   "person:amandil"
+  ],
+  "sources": [
+   "Unfinished Tales, 'The Line of Elros'"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "BA02",
+  "title": "Bay of Andúnië",
+  "kind": "Bay of the west coast",
+  "tier": 3,
+  "blurb": "The bay in the far west of the Andustar on which Andúnië stands.",
+  "book": "The Bay of Andúnië lies on the west coast of Númenor, at the far end of the Andustar. The haven of Andúnië stands on its shore. The bay faces west toward Tol Eressëa. The hill of Oromet rises near it. The bay sank with the isle in S.A. 3319.",
+  "film": "",
+  "series": "",
+  "names": {},
+  "facts": {
+   "Region": "Andustar, west coast",
+   "Haven": "Andúnië",
+   "Fate": "Sank, S.A. 3319"
+  },
+  "related": [
+   "HA02",
+   "HI06",
+   "RG02",
+   "BA04"
+  ],
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "BU05",
+  "title": "Tower of Tar-Minastir",
+  "kind": "Tower on the hill of Oromet",
+  "tier": 2,
+  "blurb": "A tall tower that Tar-Minastir built on Oromet to gaze toward the West.",
+  "book": "Tar-Minastir was the eleventh King of Númenor. He loved the Eldar, but he also envied them. Near the haven of Andúnië he built a tall tower on the hill of Oromet.\n\nThe tower rose high above the western coast. From it the King would gaze out over the sea toward the West. It shows his longing for the lands of the Eldar and the Valar.\n\nIn S.A. 1700 Tar-Minastir sent a great fleet to Middle-earth to help Gil-galad, High King of the Noldor, against Sauron. Sauron was defeated and driven out of Eriador.\n\nThe books name the tower only briefly. They do not give its form or its fate. It was lost when the island sank in S.A. 3319.",
+  "film": "",
+  "series": "",
+  "names": {},
+  "facts": {
+   "Region": "Oromet, near Andúnië",
+   "Built by": "Tar-Minastir",
+   "Purpose": "To look toward the West",
+   "Fate": "Sank, S.A. 3319"
+  },
+  "related": [
+   "HI06",
+   "HA02",
+   "BA02",
+   "RG02",
+   "person:gil-galad",
+   "person:sauron"
+  ],
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'",
+   "Unfinished Tales, 'The Line of Elros'",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "BA03",
+  "title": "Western bays of the Andustar",
+  "kind": "Small bays on a rocky coast",
+  "tier": 2,
+  "blurb": "Three small bays face west in the high western end of the Andustar.",
+  "book": "This name is a description from this map and not a name from the books. The Description of the island says that the Andustar has three small bays that face west. They cut back into the highlands. In many places the cliffs do not stand at the edge of the sea, and sloping land lies at their feet. The northernmost of the three is the Bay of Andúnië, with the haven of Andúnië. The books do not name the other two bays. They sank with the island in S.A. 3319.",
+  "film": "",
+  "series": "",
+  "names": {},
+  "facts": {
+   "Region": "West end of the Andustar",
+   "Northernmost bay": "Bay of Andúnië",
+   "Name": "A description, not from the books"
+  },
+  "related": [
+   "RG02",
+   "BA02",
+   "HA02"
+  ],
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "HA03",
+  "title": "Eldalondë",
+  "kind": "Haven of the Eldar",
+  "tier": 2,
+  "blurb": "Eldalondë the Green, the haven at the mouth of the Nunduinë where the Eldar came.",
+  "book": "Eldalondë is a haven on the west coast of Númenor. It stands at the mouth of the river Nunduinë, on the Bay of Eldanna. The land about it is called Nísimaldar, the land of fragrant trees. The books call the haven the Green.\n\nThe Eldar of Eressëa came here in their ships. They visited the Edain of Númenor in the early ages and brought gifts, such as trees, flowers, and birds. The friendship between Elves and Men was strongest in these times.\n\nLater kings grew proud and cold toward the Eldar. They forbade the Elvish tongue and ended the open visits. Eldalondë then lost its old glory.\n\nThe haven sank with all of Númenor in S.A. 3319.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Elf-haven",
+   "Other names": "Eldalondë the Green"
+  },
+  "facts": {
+   "Region": "Nísimaldar, west coast",
+   "River": "Nunduinë",
+   "Bay": "Bay of Eldanna",
+   "Fate": "Sank, S.A. 3319"
+  },
+  "related": [
+   "BA04",
+   "RI02",
+   "LA01",
+   "RG09",
+   "HA02"
+  ],
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'",
+   "The Silmarillion, Akallabêth"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BA04",
+  "title": "Bay of Eldanna",
+  "kind": "Great bay of the west",
+  "tier": 3,
+  "blurb": "The great western bay between the Andustar and the Hyarnustar, facing Eressëa.",
+  "book": "The Bay of Eldanna is the great bay in the west of Númenor. It lies between the Andustar to the north and the Hyarnustar to the south, and it faces toward Tol Eressëa. The haven of Eldalondë stands on its shore, at the mouth of the Nunduinë. Ships of the Eldar crossed it to reach the isle.",
+  "film": "",
+  "series": "",
+  "names": {},
+  "facts": {
+   "Region": "West coast of Númenor",
+   "Haven": "Eldalondë",
+   "Faces": "Tol Eressëa"
+  },
+  "related": [
+   "HA03",
+   "RI02",
+   "RG02",
+   "RG03",
+   "RG09"
+  ],
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "TO02",
+  "title": "Ondosto",
+  "kind": "Town of the Forostar",
+  "tier": 3,
+  "blurb": "A town in the south of the Forostar, near the stone-quarries, on the royal road west.",
+  "book": "Ondosto is a town in the south of the Forostar. It stands near the stone-quarries of the isle, and its name is linked to the Elvish word for stone. It lies on the paved road that runs from Armenelos past the Valley of the Tombs and west to Andúnië. It sank in S.A. 3319.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Linked to the Elvish word for stone"
+  },
+  "facts": {
+   "Region": "South of the Forostar",
+   "Known for": "Stone-quarries",
+   "Road": "Armenelos to Andúnië"
+  },
+  "related": [
+   "RD01",
+   "RG01",
+   "VA01",
+   "TO01",
+   "HA02"
+  ],
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU06",
+  "title": "Tower of Tar-Meneldur",
+  "kind": "Star-watcher's tower",
+  "tier": 3,
+  "blurb": "The tower in the north from which King Tar-Meneldur watched the stars.",
+  "book": "Tar-Meneldur was the fifth King of Númenor. He loved the stars, and his name means lover of the heavens. The tales place his star-watching tower in the north of the Forostar. This name is a label from this map. The books do not give the tower's exact place, so its position here is approximate.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Meneldur means lover of the heavens"
+  },
+  "facts": {
+   "Region": "North of the Forostar",
+   "Built for": "Tar-Meneldur, the star-watcher",
+   "Position": "Approximate"
+  },
+  "related": [
+   "MT02",
+   "RG01",
+   "MT03",
+   "person:tar-aldarion"
+  ],
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'",
+   "Unfinished Tales, 'Aldarion and Erendis'"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "TO03",
+  "title": "Nindamos",
+  "kind": "Fishing village of the south coast",
+  "tier": 3,
+  "blurb": "The chief fishing village of the south coast, east of the mouths of the Siril.",
+  "book": "Nindamos is the chief fishing village on the south coast of Númenor. It stands on the east side of the mouths of the river Siril, where the river reaches the sea through marshes. Its people live from the sea. The books say little more about it. It sank in S.A. 3319.",
+  "film": "",
+  "series": "",
+  "names": {},
+  "facts": {
+   "Region": "South coast",
+   "Setting": "East of the mouths of the Siril",
+   "People": "Fishermen"
+  },
+  "related": [
+   "RI01",
+   "SW01",
+   "RG06"
+  ],
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "VA01",
+  "title": "Noirinan",
+  "kind": "Valley of the Tombs",
+  "tier": 2,
+  "blurb": "The Valley of the Tombs, between two roots of the Meneltarma, where the Kings lie.",
+  "book": "Noirinan is the Valley of the Tombs. It lies between the south-western and south-eastern roots of the Meneltarma, the holy mountain of Númenor. The river Siril rises under the mountain here.\n\nThe Kings of Númenor were laid to rest in tombs cut into the rock at the head of the valley. The valley is the last place on the road that the people followed on their way to the mountain.\n\nFrom Noirinan the path climbs the mountain to the Hallow of Eru on its summit. The King went up that path three times each year, with the people following, to pray to Eru Ilúvatar.\n\nThe valley sank when the Meneltarma burst into fire and Númenor fell in S.A. 3319.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "Valley of the Tombs"
+  },
+  "facts": {
+   "Region": "Roots of the Meneltarma",
+   "Holds": "Tombs of the Kings",
+   "River": "Siril rises here",
+   "Fate": "Sank, S.A. 3319"
+  },
+  "related": [
+   "GR01",
+   "MT01",
+   "RD02",
+   "BU07",
+   "RI01",
+   "HI01"
+  ],
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'",
+   "The Silmarillion, Akallabêth"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "GR01",
+  "title": "Tombs of the Kings",
+  "kind": "Royal tombs in the rock",
+  "tier": 2,
+  "blurb": "The tombs of the Kings of Númenor, hewn in the rock at the head of Noirinan.",
+  "book": "The Tombs of the Kings lie at the head of Noirinan, the Valley of the Tombs, under the Meneltarma. The Kings of Númenor were laid there. The tombs were cut into the rock of the mountain's roots.\n\nThe Kings of the Second Age lived long, but they were mortal, as Elros had chosen. At the end of each long life the King gave up the sceptre and died by his own choice. The people brought him to the valley.\n\nIn the later days the kings feared death and grew bitter. They built ever greater tombs, and they became obsessed with the fear of dying. This fear drew them away from the Valar and toward Sauron.\n\nThe tombs sank with the valley in S.A. 3319.",
+  "film": "",
+  "series": "",
+  "names": {},
+  "facts": {
+   "Region": "Head of Noirinan",
+   "Holds": "The Kings of Númenor",
+   "Fate": "Sank, S.A. 3319"
+  },
+  "related": [
+   "VA01",
+   "MT01",
+   "BU07",
+   "TO01",
+   "person:elros"
+  ],
+  "sources": [
+   "The Silmarillion, Akallabêth",
+   "Unfinished Tales, 'A Description of the Island of Númenor'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "BU07",
+  "title": "Hallow of Eru",
+  "kind": "Holy place of Númenor",
+  "tier": 1,
+  "blurb": "The unroofed high place on the summit of the Meneltarma, hallowed to Eru Ilúvatar.",
+  "book": "The Hallow of Eru is the holy place on the flat summit of the Meneltarma, the Pillar of Heaven. It has no roof and no temple. It is open to the sky, and it is dedicated to Eru Ilúvatar, the One. The Valar had given the land to the Edain, and on the Hallow the King gave thanks to Eru.\n\nThree times each year the King went up the mountain to pray. These were the Erukyermë in spring, the Erulaitalë at midsummer, and the Eruhantalë in autumn. The people climbed after him in silence. Only the King spoke there.\n\nIn the later reigns the Kings turned from the Valar. The Three Prayers were neglected, and in time the people were forbidden to go up. Ar-Pharazôn forbade anyone to climb the mountain. Later Sauron raised the Temple of Melkor in Armenelos.\n\nIn S.A. 3319 the King set foot on Aman. Eru then changed the world. The Meneltarma burst out in fire, and the whole isle sank beneath a great wave.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "A high place hallowed to Eru"
+  },
+  "facts": {
+   "Region": "Summit of the Meneltarma",
+   "Dedicated to": "Eru Ilúvatar",
+   "Rites": "The Three Prayers, each year",
+   "Fate": "Sank, S.A. 3319"
+  },
+  "related": [
+   "MT01",
+   "RD02",
+   "VA01",
+   "GR01",
+   "BU02",
+   "person:ar-pharazon"
+  ],
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'",
+   "The Silmarillion, Akallabêth"
+  ],
+  "confidence": "high"
+ }
+]

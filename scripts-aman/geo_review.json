@@ -1,0 +1,65 @@
+[
+ {
+  "id": "BU07",
+  "name": "Tower of Elwing",
+  "severity": "high",
+  "problem": "The name is not from Tolkien's texts. The Silmarillion (ch. 24) says only that a white tower was built for Elwing northward upon the borders of the Sundering Seas, with no name. The plan notes also call the name descriptive. A named map point would make the app present an invented name as canon. It is also of the late First Age, not the Years of the Trees.",
+  "fix": "remove"
+ },
+ {
+  "id": "RI01",
+  "name": null,
+  "severity": "medium",
+  "problem": "Invented river. The texts name and describe no river in Valinor. This stream runs from the Pelóri across the south of the plain into the Lórellin, and the published books do not support it.",
+  "fix": "remove"
+ },
+ {
+  "id": "RI02",
+  "name": null,
+  "severity": "medium",
+  "problem": "Invented river. It runs out of the Lórellin, through the Gardens of Lórien, to Ekkaia. No text gives Lórien an outflowing river or gives any river in Valinor.",
+  "fix": "remove"
+ },
+ {
+  "id": "RI03",
+  "name": null,
+  "severity": "medium",
+  "problem": "Invented river. It runs from the Formenos hills west to the Outer Sea. The texts name and describe no river in Valinor.",
+  "fix": "remove"
+ },
+ {
+  "id": "RG08",
+  "name": "Shadowy Seas",
+  "severity": "medium",
+  "problem": "The region is centred at (2040, 1820), north of all but the last of the Enchanted Isles and far north of Tol Eressëa. The Silmarillion (ch. 11) sets the isles like a net from north to south in the Shadowy Seas, before a ship sailing west reaches Tol Eressëa. So the shadowed waters should lie around the isle chain, between it and Tol Eressëa. With this centre, Eärendil stage 1 (RG08 +150, -350) falls at (2225, 970), east of the isles, which is still correct.",
+  "fix": "('RG08', 'Shadowy Seas', 'region', 2, 2075, 1320, 260)"
+ },
+ {
+  "id": "journey:voyage-of-earendil stage 3",
+  "name": "The Shadowy Seas",
+  "severity": "medium",
+  "problem": "Stage 3 (near RG08, 0, 0) is at (2040, 1820). That is 500 km north of the Enchanted Isles (stage 2, at 2140, 1320) and of Tol Eressëa, and before stage 4, the Bay of Eldamar at y 1200. Vingilot sailed west past the isles, through the dark waters, and past the Lonely Isle into the bay. It did not go far north first. The stage belongs between the isle chain and Tol Eressëa.",
+  "fix": "{\"near\": \"IS01\", \"dx\": 150, \"dy\": 0}"
+ },
+ {
+  "id": "DO02",
+  "name": "Door of Night",
+  "severity": "medium",
+  "problem": "An important named place is missing. Silmarillion ch. 24 says the Valar thrust Morgoth through the Door of Night beyond the Walls of the World. The plan's lore_links (lore:land-void-doors-night) point only at Ekkaia. The published book does not say where the Door is. The Ambarkanta (HoME IV) puts it in the far west, beyond the Outer Sea. Mark it at the west edge as approx.",
+  "fix": "('DO02', 'Door of Night', 'Doors_Gates', 30, 1320, 'approx: the door in the Walls of the Night beyond Ekkaia; the Ambarkanta (HoME IV) puts it in the far west, beyond the edge of this sheet; Morgoth was thrust through it into the Void after the War of Wrath (Silmarillion ch. 24)')"
+ },
+ {
+  "id": "HI04",
+  "name": null,
+  "severity": "low",
+  "problem": "An unnamed hill ridge down the spine of Tol Eressëa. The published texts describe no hills on the isle; only The Book of Lost Tales does, and it is not a source for this sheet. The ridge is small but it is an invention.",
+  "fix": "remove"
+ },
+ {
+  "id": "journey:flight-of-the-noldor stage 5",
+  "name": "The Doom of Mandos",
+  "severity": "low",
+  "problem": "The stage (RG04, 0, -100) is at (1735, 1880), about 80 km inland in the middle of the Araman strip. The Silmarillion (ch. 9) puts the dark figure on a high rock above the shore of Araman. Moving it toward the coast (coast at about x 1820 there) fits the text.",
+  "fix": "{\"near\": \"RG04\", \"dx\": 60, \"dy\": -100}"
+ }
+]

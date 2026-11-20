@@ -1,0 +1,24 @@
+# Review of place cards (places_01.json, places_02.json)
+
+- TO01 | serious | said the festival at which the Trees died was held around Valmar (it was on Taniquetil) and that each Vala has a dwelling elsewhere (doubtful) -> rewrote book; western gate faces Ezellohar, golden gates by Máhanaxar; mourning in the Ring of Doom; Eärendil in the halls of Valmar
+- TO02 | serious | said the Noldor swore the Oath (Fëanor and his sons swore it); "fleet" camped about Túna; Fate implied all Noldor left; Tirion glossed "great watch-tower" -> corrected to Fëanor and his sons, "host", added Finarfin ruling those who stayed, Fate "Most Noldor left it", Meaning "watch-tower"
+- HA01 | serious | "Ulmo gave pearls" not in the books; "north of the Calacirya" is not stated in the published text -> pearls won from the sea and halls of pearl; removed the direction
+- HA02 | serious | said Númenórean mariners came to Avallónë (they were forbidden to sail west out of sight of their shores); said it "does not exist" in the Years of the Trees (not stated) -> rewrote book; Eldar sail from it with gifts, Númenóreans did not come; fleet surrounded Avallónë and Tol Eressëa; Names and Event entries reworded
+- BU01 | serious | said Varda sees and hears more than anyone (the Valaquenta gives the sight to Manwë and hearing to Varda when together); feasts "at its foot" and Ingwë "at the feet of Manwë" unconfirmed; direction "in the east" not given -> rewrote book with hawks and eagles and the festival in Manwë's halls; removed doubtful lines
+- BU03 | serious | claim that Fëanor's spirit came to the Halls is not in the published Silmarillion -> removed; replaced related person:feanor with person:morgoth (held in Mandos three ages)
+- BU06 | serious | placed the Ring of Doom by the western gate (the books say near the golden gates; Ezellohar is before the western gate) -> corrected book and Region
+- IS01 | serious | said only some Teleri were left on the isle and that Ossë alone stayed it; said Númenórean ships came to Avallónë; "First people: Teleri" (Vanyar and Noldor rode it first) -> Teleri prayed, Ulmo halted the isle, Ossë rooted it; removed the Númenórean voyages; fleet surrounded the isle; fact now "Dwellers: Teleri"
+- BA01 | serious | said the isle was rooted "at the prayer of Ossë" -> the Teleri prayed at Ossë's urging, Ulmo halted it, Ossë rooted it; shortened scale sentence to fit length
+- HI02 | serious | said each Tree gave a last flower and a last fruit (Telperion gave a flower, Laurelin a fruit); implied Ezellohar is not Quenya -> corrected; names now Meaning "The Green Mound", Other names "Corollairë"
+- LA02 | serious | placed the Wells "near the Two Trees" as a book fact (not stated; approx placement) -> "in Valinor"; Region "Valinor"
+- FO01 | serious | said Oromë hunts in these woods and his horn is heard there (not stated) -> replaced with his horn Valaróma and horse Nahar
+- VA01 | minor | Calacirya glossed only as "Pass of Light" -> Meaning "Cleft of Light"; book says it is also called the Pass of Light
+- MT01 | minor | unsupported "stand in the Undying Lands to this day" -> removed; Meaning "fencing or defensive heights"
+- MT02 | minor | "as in the later drafts" (the source maps are the HoME Ambarkanta maps) -> "following maps in The History of Middle-earth"
+- MT03 | minor | direction "west" to the Trees not given in the books -> "down to the Two Trees"
+- HI01 | minor | Vanyar said to go "near Valmar" -> "to live in Valinor, nearer the Valar"
+- CA01 | minor | stated the host remains until the Last Battle as plain fact -> "It is said ... until the Last Battle and the Day of Doom"; Fate reworded
+- BU07 | minor | sentence close to the book wording -> reworded; added sea-birds and Elwing learning their speech; trimmed to length
+- BU04 | minor | phrases close to the Valaquenta wording ("west of the West", windows over the Walls) -> reworded; added that she seldom comes to Valmar
+- BU05 | minor | did not say that the position is approximate -> rewritten with "approximate"; removed vague line
+- places_02.json style | minor | FO02 near-quote "full of many spirits" and "weary folk" reworded

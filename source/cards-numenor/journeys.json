@@ -1,0 +1,355 @@
+[
+ {
+  "id": "journey:coming-of-the-edain",
+  "title": "The coming of the Edain to Elenna",
+  "travellers": "Elros and the Edain of the Three Houses",
+  "source": "The Silmarillion, Akallabêth; The Lord of the Rings, Appendix B",
+  "dates": "S.A. 32",
+  "blurb": "The Edain crossed the sea by the light of Eärendil's star to the island raised for them, where Elros became king.",
+  "book": "After the War of Wrath, the Valar gave the Edain of the Three Houses a land of their own, raised from the sea. The Edain sailed west out of Middle-earth in many ships, guided by the star of Eärendil. They found the island of Elenna, with the Meneltarma standing in its midst. In S.A. 32 they came to land, and Elros, son of Eärendil, became the first King, Tar-Minyatur. He founded Armenelos in the east and ruled for many years. The books do not name the place of landing. The map brings the fleet into the Bay of Rómenna as a guess, and this card marks those stages as approximate. The Meneltarma was hallowed to Eru, and the people of the island honored it.",
+  "film": "",
+  "sources": [
+   "The Silmarillion, Akallabêth",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "medium",
+  "stages": [
+   {
+    "at": {
+     "near": "BA01",
+     "dx": 330,
+     "dy": 60
+    },
+    "title": "Out of the east",
+    "date": "",
+    "note": "The Edain sail west over the Great Sea from Middle-earth in many ships. The star of Eärendil guides them toward the land that the Valar raised for them.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "BA01",
+     "dx": 140,
+     "dy": 30
+    },
+    "title": "The Meneltarma rises from the sea",
+    "date": "",
+    "note": "The mariners first see the new land and its tall mountain far off. The books do not say from where. This stage is a guess of the map maker.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "BA01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Into the bay",
+    "date": "",
+    "note": "The fleet comes in among the eastern promontories of the island. The books do not name the landing place, so this stage is approximate.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "HA01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Landing in the east",
+    "date": "",
+    "note": "The Edain come ashore in the east of the island. The map places the landing at the head of the firth where Rómenna later stood. This is not stated in the books.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Armenelos founded",
+    "date": "",
+    "note": "Elros Tar-Minyatur, the first King, builds the City of the Kings in the eastern land of Arandor. He rules from it for more than four centuries.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "MT01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The holy mountain",
+    "date": "",
+    "note": "In the midst of the land stands the Meneltarma, whose flat summit is hallowed to Eru Ilúvatar. The people keep it holy, and no building stands on it.",
+    "film": ""
+   }
+  ]
+ },
+ {
+  "id": "journey:three-prayers",
+  "title": "The road of the Three Prayers",
+  "travellers": "the King of Númenor and a great multitude of the people",
+  "source": "Unfinished Tales, 'A Description of the Island of Númenor'; The Silmarillion, Akallabêth",
+  "dates": "each year in spring, midsummer and autumn, until the prayers were neglected and at last forbidden",
+  "blurb": "Three times a year the King climbed the Meneltarma to pray to Eru in the open air.",
+  "book": "On three days each year, in spring, at midsummer and in autumn, the people of Númenor kept a rite of prayer to Eru Ilúvatar. The King went up the Meneltarma to its high summit, called the Hallow of Eru. There was no roof, altar or building on it, and the rest of the people kept silence. Only the King spoke the prayer aloud. The route in this card follows the royal city, the road to the Valley of the Tombs, the tombs of the kings and the winding path up the mountain. The exact course between the named places is a guess of the map maker. In time the kings neglected the prayers. Later they were forbidden, and the Hallow was left empty until the Downfall.",
+  "film": "",
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'",
+   "The Silmarillion, Akallabêth"
+  ],
+  "confidence": "medium",
+  "stages": [
+   {
+    "at": {
+     "near": "TO01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "From the City of the Kings",
+    "date": "",
+    "note": "The King sets out from Armenelos in Arandor, the city founded by Elros, on one of the three holy days of the year.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO01",
+     "dx": -32,
+     "dy": 2
+    },
+    "title": "Westward on the road",
+    "date": "",
+    "note": "The procession travels along the paved royal road toward the mountain. The course of the road between named places is not fixed in the books.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "VA01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Noirinan",
+    "date": "",
+    "note": "The procession enters the Valley of the Tombs between the southern roots of the Meneltarma. The valley lies at the foot of the great mountain.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "GR01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Past the Tombs of the Kings",
+    "date": "",
+    "note": "At the head of the valley are the tombs of the kings and queens, cut into the rock under the mountain. The royal house honors its dead here.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RD02",
+     "dx": -18,
+     "dy": 4
+    },
+    "title": "The winding ascent",
+    "date": "",
+    "note": "The path climbs the mountain in a long slope that winds around it. The height is great, and the way takes a long time.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "BU07",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The Hallow of Eru",
+    "date": "",
+    "note": "On the open summit, with no roof and no altar, the King speaks the prayer to Eru. The people keep silence, and no other voice is heard.",
+    "film": ""
+   }
+  ]
+ },
+ {
+  "id": "journey:aldarion-and-erendis",
+  "title": "Aldarion and Erendis",
+  "travellers": "Tar-Aldarion the Mariner, Erendis, and their daughter Ancalimë",
+  "source": "Unfinished Tales, 'Aldarion and Erendis'",
+  "dates": "S.A. ninth and tenth centuries",
+  "blurb": "The tale of the mariner prince, his proud wife and their daughter, divided between the sea and the sheep-lands.",
+  "book": "Tar-Aldarion, son of King Tar-Meneldur, loved the sea. He founded the Guild of Venturers, sailed from Rómenna to Middle-earth and raised the Calmindon on Tol Uinen. Erendis, a lady of the west of the island, loved trees and the land. She was betrothed to Aldarion, and after long delays they married in Armenelos. Their daughter was Ancalimë. Aldarion built a white house for Erendis in Emerië. When his voyages kept him away too long, she left Armenelos and withdrew there with Ancalimë. Aldarion came home, found her gone and rode to Emerië, but she turned him away. Their quarrel was never healed. Ancalimë later stayed for a time in the household of Hallatan of Hyarastorni. She became the first Ruling Queen of Númenor, as Tar-Ancalimë. The map places several stages by judgment.",
+  "film": "",
+  "sources": [
+   "Unfinished Tales, 'Aldarion and Erendis'"
+  ],
+  "confidence": "medium",
+  "stages": [
+   {
+    "at": {
+     "near": "HA01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Rómenna, haven of the Venturers",
+    "date": "",
+    "note": "Aldarion, who becomes Lord of the Ships and Havens, sails from Rómenna to Middle-earth. He is a friend of Gil-galad of the Eldar.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "BU03",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The Calmindon",
+    "date": "",
+    "note": "Aldarion raises a tall light-tower on Tol Uinen, the isle in the Bay of Rómenna. It helps ships find the harbor at the end of their voyages.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Betrothal and wedding in Armenelos",
+    "date": "",
+    "note": "Erendis comes to the court of Tar-Meneldur. She is betrothed to Aldarion, and after much delay they are wed in the royal city.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "BU08",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The white house in Emerië",
+    "date": "",
+    "note": "Aldarion builds a white house for Erendis among the sheep-lands. After his long absences she withdraws there with their daughter Ancalimë.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "HA01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The mariner returns",
+    "date": "",
+    "note": "Aldarion comes home across the sea and finds that his wife has left Armenelos. He learns that she has gone to Emerië with Ancalimë.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "BU08",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The shut door",
+    "date": "",
+    "note": "He rides to Emerië, but is turned away from the house. Their estrangement is never healed, and Erendis keeps Ancalimë in her care.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG10",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Ancalimë at Hyarastorni",
+    "date": "",
+    "note": "Grown weary of her mother's house, Ancalimë goes to the household of Hallatan at Hyarastorni. The map places this site by judgment, near Emerië.",
+    "film": ""
+   }
+  ]
+ },
+ {
+  "id": "journey:last-days-of-numenor",
+  "title": "The last days of Númenor",
+  "travellers": "Ar-Pharazôn's Great Armament; Elendil, Isildur and Anárion with the Faithful",
+  "source": "The Silmarillion, Akallabêth; The Lord of the Rings, Appendix A",
+  "dates": "S.A. 3310 to 3319",
+  "blurb": "Ar-Pharazôn's fleet sails west to war with the Valar while Elendil's nine ships wait in the east.",
+  "book": "In the last years of Númenor, Ar-Pharazôn, counselled by Sauron, built the greatest fleet the island had ever seen. The Great Armament was prepared over several years. The fleet darkened the sea on the west of the island, though no haven is named. In S.A. 3319 it sailed west against the Ban of the Valar, and the King set foot on the shore of Aman. The Faithful took no part in the war. Elendil and his sons gathered at Rómenna with a seedling of Nimloth and the Seeing-stones. Elendil's nine ships lay off the east coast. The Downfall followed, and the island sank. A great wind drove the ships east to Middle-earth. The map marks several stages as approximate.",
+  "film": "",
+  "sources": [
+   "The Silmarillion, Akallabêth",
+   "The Lord of the Rings, Appendix A"
+  ],
+  "confidence": "medium",
+  "stages": [
+   {
+    "at": {
+     "near": "TO01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The Armament is prepared",
+    "date": "",
+    "note": "In Armenelos, Ar-Pharazôn, advised by Sauron, plans the greatest fleet ever seen. The work takes many years.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "HA02",
+     "dx": -20,
+     "dy": 0
+    },
+    "title": "The fleets gather in the west",
+    "date": "",
+    "note": "The ships of the King darken the sea along the west of the land. No haven is named, and the map shows this stage near Andúnië as a guess.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "BA02",
+     "dx": -140,
+     "dy": -30
+    },
+    "title": "Into the West",
+    "date": "",
+    "note": "The Armament sails west toward Aman against the Ban of the Valar. The King sets foot on the shore of the Blessed Realm. This stage is only a guess.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "HA01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The Faithful at Rómenna",
+    "date": "",
+    "note": "Elendil and his sons gather the Faithful at Rómenna with the seedling of Nimloth and the Seeing-stones. Amandil has already sailed west alone.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "BA01",
+     "dx": 70,
+     "dy": 10
+    },
+    "title": "Nine ships off the east coast",
+    "date": "",
+    "note": "The ships of Elendil lie off the east coast and take no part in the King's war. They wait at sea while the King's fleet is away.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "MT01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The Downfall",
+    "date": "",
+    "note": "The Meneltarma breaks out in fire and the land is swallowed by the sea. The island, its cities and its people are lost.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "BA01",
+     "dx": 330,
+     "dy": 40
+    },
+    "title": "Driven east",
+    "date": "",
+    "note": "A great wind drives Elendil's nine ships east across the sea toward Middle-earth. The Faithful survive, and they later found the Realms in Exile.",
+    "film": ""
+   }
+  ]
+ }
+]

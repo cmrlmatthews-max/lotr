@@ -1,0 +1,402 @@
+[
+{
+"id": "MT01",
+"layer": "Mountains",
+"name": "Meneltarma",
+"x": 646.0,
+"y": 643.0,
+"attrs": {
+"Hint": "the Pillar of Heaven, tall mountain near the middle of the Mittalmar; the Hallow of Eru on its flat summit"
+}
+},
+{
+"id": "HI01",
+"layer": "Hills",
+"name": "Tarmasundar",
+"x": 598.0,
+"y": 599.0,
+"attrs": {
+"Hint": "the Roots of the Pillar: five long low ridges running out from the Meneltarma toward the five promontories"
+}
+},
+{
+"id": "MT02",
+"layer": "Mountains",
+"name": "Sorontil",
+"x": 654.0,
+"y": 1095.0,
+"attrs": {
+"Hint": "great height in the north of the Forostar rising sheer from the sea in tall cliffs; eagles nested here"
+}
+},
+{
+"id": "MT03",
+"layer": "Hills",
+"name": "Highlands of the Forostar",
+"x": 638.0,
+"y": 1005.0,
+"attrs": {
+"Hint": "descriptive name: the rocky, stony uplands of the Forostar, the least fertile part of the isle"
+}
+},
+{
+"id": "HI06",
+"layer": "Hills",
+"name": "Oromet",
+"x": 205.6,
+"y": 754.8,
+"attrs": {
+"Hint": "hill near the haven of Andúnië in the far west; Tar-Minastir built a tower on it to gaze west"
+}
+},
+{
+"id": "HI07",
+"layer": "Hills",
+"name": "Highlands of the Andustar",
+"x": 324.7,
+"y": 783.8,
+"attrs": {
+"Hint": "descriptive name: the rocky northern Andustar, high land with fir-woods above the northern cliffs"
+}
+},
+{
+"id": "HI08",
+"layer": "Hills",
+"name": "Hills of Orrostar",
+"x": 1015.6,
+"y": 790.0,
+"attrs": {
+"Hint": "approx: descriptive name; the highlands toward the northern end of the Orrostar"
+}
+},
+{
+"id": "MT04",
+"layer": "Mountains",
+"name": "Cliffs of Hyarnustar",
+"x": 353.6,
+"y": 323.6,
+"attrs": {
+"Hint": "descriptive name: the mountainous west of the Hyarnustar, ending in great cliffs on the sea"
+}
+},
+{
+"id": "RI01",
+"layer": "Rivers",
+"name": "Siril",
+"x": 650.0,
+"y": 520,
+"attrs": {
+"Hint": "chief river of Númenor: rises under the Meneltarma in Noirinan and runs south to the sea through marshes and reedy flats"
+}
+},
+{
+"id": "RI02",
+"layer": "Rivers",
+"name": "Nunduinë",
+"x": 540,
+"y": 588,
+"attrs": {
+"Hint": "river of the west that spreads into the lake Nísinen and reaches the sea at Eldalondë in the Bay of Eldanna"
+}
+},
+{
+"id": "LA01",
+"layer": "Lakes",
+"name": "Nísinen",
+"x": 503.0,
+"y": 578.0,
+"attrs": {
+"Hint": "small lake on the Nunduinë above Eldalondë, in the land of Nísimaldar, famed for its sweet-scented flowers"
+}
+},
+{
+"id": "FO01",
+"layer": "Forests",
+"name": "Forests of Hyarrostar",
+"x": 826.0,
+"y": 305.2,
+"attrs": {
+"Hint": "descriptive name: the great timber woods of the south-east, where Aldarion planted many trees for ship-building"
+}
+},
+{
+"id": "FO02",
+"layer": "Forests",
+"name": "Fir-woods of the Andustar",
+"x": 345.8,
+"y": 785.2,
+"attrs": {
+"Hint": "descriptive name: fir forests on the high northern Andustar facing the sea"
+}
+},
+{
+"id": "SW01",
+"layer": "Swamps",
+"name": "Marshes of the Siril",
+"x": 637.0,
+"y": 445.0,
+"attrs": {
+"Hint": "descriptive name: the delta of the Siril, marshes and reedy flats at the sea"
+}
+},
+{
+"id": "RD01",
+"layer": "Roads",
+"name": "Road from Rómenna to Andúnië",
+"x": 505,
+"y": 752,
+"attrs": {
+"Hint": "the paved highway of the kings: Rómenna, Armenelos, the Valley of the Tombs, Ondosto in the Forostar, then west to Andúnië"
+}
+},
+{
+"id": "RD02",
+"layer": "Roads",
+"name": "Ascent of the Meneltarma",
+"x": 668.0,
+"y": 627.0,
+"attrs": {
+"Hint": "the path that wound up the mountain from the Valley of the Tombs to the Hallow on the summit"
+}
+},
+{
+"id": "TO01",
+"layer": "Towns",
+"name": "Armenelos",
+"x": 722,
+"y": 602,
+"attrs": {
+"Hint": "City of the Kings in Arandor, founded by Elros; the King's House and later the Temple of Sauron"
+}
+},
+{
+"id": "BU01",
+"layer": "Buildings",
+"name": "King's Court and Nimloth",
+"x": 713,
+"y": 611,
+"attrs": {
+"Hint": "courts of the King's House in Armenelos where the White Tree Nimloth grew until Ar-Pharazôn had it burned"
+}
+},
+{
+"id": "BU02",
+"layer": "Buildings",
+"name": "Temple of Armenelos",
+"x": 732,
+"y": 593,
+"attrs": {
+"Hint": "the great domed temple that Sauron raised on the hill in the midst of the city; human sacrifices to Melkor"
+}
+},
+{
+"id": "HA01",
+"layer": "Harbors",
+"name": "Rómenna",
+"x": 759.9,
+"y": 585.0,
+"attrs": {
+"Hint": "the great eastern haven at the head of its firth; home of the Faithful in the last days"
+}
+},
+{
+"id": "IS01",
+"layer": "Islands",
+"name": "Tol Uinen",
+"x": 875.0,
+"y": 547.4,
+"attrs": {
+"Hint": "small isle in the Bay of Rómenna, hallowed to Uinen"
+}
+},
+{
+"id": "BU03",
+"layer": "Buildings",
+"name": "Calmindon",
+"x": 878.0,
+"y": 549.4,
+"attrs": {
+"Hint": "the Light-tower that Aldarion built on Tol Uinen"
+}
+},
+{
+"id": "BA01",
+"layer": "Bays",
+"name": "Bay of Rómenna",
+"x": 882.9,
+"y": 533.9,
+"attrs": {
+"Hint": "the eastern bay between Orrostar and Hyarrostar, with the long firth of Rómenna at its head"
+}
+},
+{
+"id": "HA02",
+"layer": "Harbors",
+"name": "Andúnië",
+"x": 216.9,
+"y": 797.5,
+"attrs": {
+"Hint": "haven in the far west of the Andustar, facing toward Eressëa; seat of the Lords of Andúnië"
+}
+},
+{
+"id": "BU04",
+"layer": "Buildings",
+"name": "House of the Lords of Andúnië",
+"x": 228.9,
+"y": 789.5,
+"attrs": {
+"Hint": "approx: the hall of Valandil's line, Lords of Andúnië, until Ar-Gimilzôr moved them to Rómenna"
+}
+},
+{
+"id": "BA02",
+"layer": "Bays",
+"name": "Bay of Andúnië",
+"x": 179.3,
+"y": 811.2,
+"attrs": {
+"Hint": "bay in the far west of the Andustar on which Andúnië stands"
+}
+},
+{
+"id": "BU05",
+"layer": "Buildings",
+"name": "Tower of Tar-Minastir",
+"x": 200.5,
+"y": 752.4,
+"attrs": {
+"Hint": "tall tower that Tar-Minastir built on the hill of Oromet to look toward the West"
+}
+},
+{
+"id": "BA03",
+"layer": "Bays",
+"name": "Western bays of the Andustar",
+"x": 151.1,
+"y": 774.7,
+"attrs": {
+"Hint": "three small bays facing west in the high western end of the Andustar; the northernmost is the Bay of Andúnië"
+}
+},
+{
+"id": "HA03",
+"layer": "Harbors",
+"name": "Eldalondë",
+"x": 463.5,
+"y": 571.5,
+"attrs": {
+"Hint": "Eldalondë the Green, haven at the mouth of the Nunduinë where the ships of the Eldar of Eressëa came"
+}
+},
+{
+"id": "BA04",
+"layer": "Bays",
+"name": "Bay of Eldanna",
+"x": 361.6,
+"y": 542.3,
+"attrs": {
+"Hint": "the great bay between the Andustar and the Hyarnustar, facing toward Eressëa"
+}
+},
+{
+"id": "TO02",
+"layer": "Towns",
+"name": "Ondosto",
+"x": 646.0,
+"y": 830.0,
+"attrs": {
+"Hint": "town in the south of the Forostar on the road from Armenelos west to Andúnië; near the stone-quarries"
+}
+},
+{
+"id": "BU06",
+"layer": "Buildings",
+"name": "Tower of Tar-Meneldur",
+"x": 632.0,
+"y": 1073.0,
+"attrs": {
+"Hint": "approx: the tall tower in the north of the Forostar near Sorontil, from which King Meneldur watched the stars"
+}
+},
+{
+"id": "TO03",
+"layer": "Towns",
+"name": "Nindamos",
+"x": 656,
+"y": 428,
+"attrs": {
+"Hint": "chief fishing village of the south coast, on the east side of the mouths of the Siril"
+}
+},
+{
+"id": "VA01",
+"layer": "Valleys",
+"name": "Noirinan",
+"x": 644.0,
+"y": 605.0,
+"attrs": {
+"Hint": "the Valley of the Tombs, between the south-west and south-east roots of the Meneltarma"
+}
+},
+{
+"id": "GR01",
+"layer": "Graves_Tombs",
+"name": "Tombs of the Kings",
+"x": 638.0,
+"y": 616.0,
+"attrs": {
+"Hint": "the tombs hewn in the rock at the head of Noirinan, under the mountain"
+}
+},
+{
+"id": "BU07",
+"layer": "Buildings",
+"name": "Hallow of Eru",
+"x": 638.0,
+"y": 634.0,
+"attrs": {
+"Hint": "the unroofed high place on the summit of the Meneltarma, hallowed to Eru Ilúvatar; the Three Prayers"
+}
+},
+{
+"id": "BU08",
+"layer": "Buildings",
+"name": "White House of Erendis",
+"x": 532,
+"y": 518,
+"attrs": {
+"Hint": "approx: the house that Aldarion built for Erendis in Emerië, where she later lived apart"
+}
+},
+{
+"id": "FI01",
+"layer": "Fields",
+"name": "Vineyards of Hyarnustar",
+"x": 465.9,
+"y": 337.4,
+"attrs": {
+"Hint": "descriptive name: the vine-lands in the east and south of the Hyarnustar"
+}
+},
+{
+"id": "FI03",
+"layer": "Fields",
+"name": "Pastures of the Mittalmar",
+"x": 690,
+"y": 700,
+"attrs": {
+"Hint": "descriptive name: the raised grass-lands of the Inlands, chiefly sheep and cattle country"
+}
+},
+{
+"id": "FI02",
+"layer": "Fields",
+"name": "Grain-lands of Orrostar",
+"x": 942.2,
+"y": 699.4,
+"attrs": {
+"Hint": "descriptive name: the inner Orrostar, cool but good for grain"
+}
+}
+]

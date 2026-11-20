@@ -1,0 +1,397 @@
+[
+ {
+  "id": "journey:coming-of-the-eldar",
+  "title": "The Coming of the Eldar to Aman",
+  "travellers": "Vanyar of Ingwë, Noldor of Finwë, Teleri of Olwë",
+  "source": "The Silmarillion",
+  "dates": "Years of the Trees",
+  "blurb": "The three hosts of the Eldar crossed the Great Sea to Aman and settled in Eldamar.",
+  "book": "The Valar called the Elves of Middle-earth to Aman. Three hosts answered: the Vanyar under Ingwë, the Noldor under Finwë, and the Teleri under Olwë. Ulmo carried the Vanyar and the Noldor over Belegaer on an island that he loosened from the sea floor. They landed in the Bay of Eldamar. The Valar then opened the Calacirya, a single pass through the Pelóri, so that the light of the Trees could reach the shore. On the hill of Túna in that pass, the Elves built Tirion. The Vanyar later went to live on the plain of Valinor. The Teleri came last, because many of them had lingered on the way. Ulmo brought them on the same island, and it was rooted in the bay as Tol Eressëa. They lived there for a long age. Then they built Alqualondë on the coast. The books give no exact years for these events.",
+  "film": "",
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapters 3 and 5"
+  ],
+  "confidence": "high",
+  "stages": [
+   {
+    "at": {
+     "near": "BA03",
+     "dx": 250,
+     "dy": 250
+    },
+    "title": "Over the Great Sea",
+    "date": "",
+    "note": "The Vanyar and the Noldor are carried over Belegaer on an island that Ulmo uprooted. They leave Middle-earth behind. The exact course of the island is not given by the books.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "BA01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Landing in the Bay of Eldamar",
+    "date": "",
+    "note": "The Vanyar and the Noldor come to the long shores beneath the Pelóri and enter Aman. The Valar welcome them, and the Elves begin to dwell on the coast.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "VA01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The Pass of Light opened",
+    "date": "",
+    "note": "The Valar make the Calacirya, one cleft in the mountain wall. The light of the Two Trees now flows through the pass and falls on the shore near the Elves.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO02",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Tirion upon Túna",
+    "date": "",
+    "note": "On the green hill in the pass, the Elves build the white city of Tirion. Ingwë's tower, Mindon Eldaliéva, rises there. Its lamp shines far over the sea.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Valmar and the Trees",
+    "date": "",
+    "note": "The Vanyar come to love the light of the Trees. They go to live on the plain of Valinor near the Valar, and the Noldor stay in Tirion.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "IS01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The Teleri on the Lonely Isle",
+    "date": "",
+    "note": "Ulmo brings the Teleri on the island. Urged by Ossë, they ask to stay, and at Ulmo's bidding Ossë roots the isle far out in the Bay of Eldamar. As Tol Eressëa it is their home for a long age.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "HA01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The Haven of the Swans",
+    "date": "",
+    "note": "Ossë teaches the Teleri to build ships and gives them many great swans. The swans draw the white ships to the coast of Eldamar. There the Teleri build Alqualondë, the Haven of the Swans.",
+    "film": ""
+   }
+  ]
+ },
+ {
+  "id": "journey:darkening-of-valinor",
+  "title": "Melkor and Ungoliant: the Darkening of Valinor",
+  "travellers": "Melkor and Ungoliant",
+  "source": "The Silmarillion",
+  "dates": "Years of the Trees (Valian Year 1495 in the Annals of Aman)",
+  "blurb": "Melkor and Ungoliant went from Avathar to Valmar, killed the Trees and fled north out of Aman.",
+  "book": "Melkor secretly left the north of Valinor, where he had lived under the eyes of the Valar, and went to Avathar in the south. He found Ungoliant there and asked her help against the Valar. She agreed, in return for a price. They climbed Hyarmentir under a cloak of Unlight and came down by the woods of Oromë and the fields of Yavanna. On Ezellohar Melkor killed the Two Trees, and Ungoliant drank their sap. Next they went north to Formenos, where Melkor killed Finwë and took the Silmarils. Tulkas and Oromë pursued them, but the darkness hid their path. They fled north through Araman and crossed the Grinding Ice into Middle-earth. The books do not give the exact route through Araman. This card follows the published Silmarillion and the Annals of Aman in The History of Middle-earth.",
+  "film": "",
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapters 7 to 9",
+   "The History of Middle-earth X, Annals of Aman"
+  ],
+  "confidence": "medium",
+  "stages": [
+   {
+    "at": {
+     "near": "RG04",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Seen in the north",
+    "date": "",
+    "note": "Fëanor shuts the doors of Formenos against Melkor, and Melkor vanishes. The Valar think he has gone north toward his old lands and watch there in vain. The map position here is only a model.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG05",
+     "dx": 0,
+     "dy": -150
+    },
+    "title": "Avathar",
+    "date": "",
+    "note": "He comes to the dark land between the mountains and the sea in the south. There he finds Ungoliant in a ravine and persuades her to help him.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "MT03",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The climb of Hyarmentir",
+    "date": "",
+    "note": "Under a cloak of Unlight they climb the highest mountain of the southern Pelóri. From its summit they look down on Valinor during the festival.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FO01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Down the western slopes",
+    "date": "",
+    "note": "They come down past the woods of Oromë and the fields of Yavanna and cross the plain toward Valmar. The books do not name the exact path.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "HI02",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The death of the Trees",
+    "date": "",
+    "note": "On Ezellohar, Melkor stabs each Tree with his spear. Ungoliant drinks their sap and then drains the wells of Varda. Darkness falls on Valinor.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "FT01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Formenos robbed",
+    "date": "",
+    "note": "Melkor comes to Formenos, kills Finwë at the doors, and breaks into the treasury. He takes the Silmarils and many other jewels.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG04",
+     "dx": 30,
+     "dy": 250
+    },
+    "title": "North through Araman",
+    "date": "",
+    "note": "Tulkas and Oromë pursue in vain, because the darkness covers the flight. Melkor and Ungoliant go north by the mists of Oiomúrë toward the ice.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG07",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Over the Grinding Ice",
+    "date": "",
+    "note": "Melkor and Ungoliant cross the Helcaraxë into Middle-earth. Later, in the north of Middle-earth, Ungoliant demands the Silmarils, and the Balrogs of Melkor drive her away.",
+    "film": ""
+   }
+  ]
+ },
+ {
+  "id": "journey:flight-of-the-noldor",
+  "title": "The Flight of the Noldor",
+  "travellers": "Fëanor and his sons; Fingolfin, Finarfin and their hosts",
+  "source": "The Silmarillion",
+  "dates": "Years of the Trees (Valian Year 1495-97 in the Annals of Aman)",
+  "blurb": "The Noldor left Valinor to hunt Morgoth, killed Teleri at Alqualondë and crossed the sea or the Ice to Middle-earth.",
+  "book": "After Finwë died and the Silmarils were stolen, Fëanor stirred the Noldor to leave Aman. In Tirion he and his sons swore an Oath of vengeance. Fingolfin and Finarfin were reluctant, but they followed in a second host. They came down the Calacirya to the coast. At Alqualondë, Fëanor's followers killed many Teleri and took their ships. This was the first Kinslaying. The host went north along the coast. In Araman a dark figure, perhaps Mandos himself, spoke the Doom of the Noldor, which doomed them to sorrow. Finarfin and many of his people turned back, but the others went on. Fëanor sailed with the ships to Middle-earth and left Fingolfin behind. Fingolfin then led his host over the Helcaraxë, the Grinding Ice, and many perished. The books do not give the exact route along the coast.",
+  "film": "",
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapter 9"
+  ],
+  "confidence": "medium",
+  "stages": [
+   {
+    "at": {
+     "near": "TO02",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The Oath in Tirion",
+    "date": "",
+    "note": "By torchlight on Túna, Fëanor and his sons swear the Oath. They vow to pursue Morgoth and anyone who holds a Silmaril. The Noldor then go out of Tirion.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "VA01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Down the Calacirya",
+    "date": "",
+    "note": "The host goes down through the Pass of Light to the coast of Eldamar. Fëanor leads the van, and the followers of Fingolfin and Finarfin come behind.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "HA01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Kinslaying and the ships taken",
+    "date": "",
+    "note": "At Alqualondë, the Teleri refuse to give up their ships. Fëanor's host kills many of them and takes the white ships. This is the first Kinslaying.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG03",
+     "dx": 80,
+     "dy": 220
+    },
+    "title": "North along the coast",
+    "date": "",
+    "note": "Some of the host sail the stolen ships, and the rest go by land along the shore. Uinen grieves for the slain, and a storm wrecks many ships. The books do not give their exact path.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG04",
+     "dx": 60,
+     "dy": -100
+    },
+    "title": "The Doom of Mandos",
+    "date": "",
+    "note": "On the shore of Araman a dark figure speaks the Doom of Mandos to the host. Finarfin turns back to Valinor, but Fëanor and Fingolfin go on.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG06",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Fëanor sails away",
+    "date": "",
+    "note": "From the north of Araman, Fëanor takes the ships over the strait to Losgar in Middle-earth. He leaves Fingolfin behind and burns the ships at Losgar.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "RG07",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "The Helcaraxë",
+    "date": "",
+    "note": "Fingolfin leads his host over the Grinding Ice to Middle-earth. Many are lost on the way, among them Elenwë, the wife of Turgon.",
+    "film": ""
+   }
+  ]
+ },
+ {
+  "id": "journey:voyage-of-earendil",
+  "title": "The Voyage of Eärendil",
+  "travellers": "Eärendil and Elwing with Falathar, Erellont and Aerandir",
+  "source": "The Silmarillion",
+  "dates": "Late First Age, before the War of Wrath",
+  "blurb": "Eärendil sailed Vingilot to Aman and asked the Valar to help Elves and Men.",
+  "book": "Eärendil had long tried to reach Valinor, but he could not. In the end he sailed Vingilot west with Elwing and three companions. Elwing had brought him the Silmaril, and he bound it on his brow. They passed the Enchanted Isles and crossed the Shadowy Seas, which were set about Aman after the Flight of the Noldor. They saw Tol Eressëa but did not stop, and they anchored in the Bay of Eldamar. Eärendil went ashore alone and up the Calacirya. He found Tirion empty, because the Elves were away at a festival. He turned back toward the shore, and Eönwë hailed him and summoned him to Valmar. Before the Valar he spoke for Elves and Men, and they heard him. Elwing meanwhile came among the Teleri. In the end Vingilot was raised into the sky, and Eärendil sailed it with the Silmaril as a star.",
+  "film": "",
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion, chapter 24"
+  ],
+  "confidence": "medium",
+  "stages": [
+   {
+    "at": {
+     "near": "RG08",
+     "dx": 150,
+     "dy": -350
+    },
+    "title": "Out of the east",
+    "date": "",
+    "note": "Eärendil and Elwing sail Vingilot west from the coast of Middle-earth with three mariners. Eärendil wears on his brow the Silmaril that Elwing brought him.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "IS02",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Past the Enchanted Isles",
+    "date": "",
+    "note": "They pass the Enchanted Isles and escape the spell that holds other mariners. The isles were set in the sea after the Flight of the Noldor.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "IS01",
+     "dx": 150,
+     "dy": 0
+    },
+    "title": "The Shadowy Seas",
+    "date": "",
+    "note": "They cross the dark seas that surround Aman. They see the Lonely Isle but do not stop. The light of the Silmaril grows ever brighter as they draw west.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "BA01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Anchor in the Bay of Eldamar",
+    "date": "",
+    "note": "The Teleri watch the ship arrive from the east. Eärendil bids the others stay, but Elwing follows him through the foam. He asks her to wait by the shore and goes on alone.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "VA01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Up the Calacirya",
+    "date": "",
+    "note": "Eärendil walks up the Pass of Light, the single cleft in the Pelóri. He walks alone, and the way is quiet.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO02",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Empty Tirion",
+    "date": "",
+    "note": "The streets of Tirion are empty, because the Elves are away at the festival in Valmar. He finds almost no one, and he turns back toward the shore.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "HA01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Elwing at Alqualondë",
+    "date": "",
+    "note": "While Eärendil is away, Elwing comes among the Teleri. The books say little about her stay, and placing it at the Haven of the Swans is a model of this map.",
+    "film": ""
+   },
+   {
+    "at": {
+     "near": "TO01",
+     "dx": 0,
+     "dy": 0
+    },
+    "title": "Before the Valar",
+    "date": "",
+    "note": "Eönwë summons Eärendil to Valmar. He speaks for Elves and Men, and the Valar grant his plea. Later Vingilot is hallowed and set in the sky, and the Silmaril shines on it as a star.",
+    "film": ""
+   }
+  ]
+ }
+]

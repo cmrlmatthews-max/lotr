@@ -1,0 +1,102 @@
+[
+ {
+  "id": "RG01",
+  "title": "Forostar",
+  "type": "region",
+  "tier": 1,
+  "x": 650.0,
+  "y": 975.0,
+  "radius_km": 170,
+  "hint": "the Northlands, rocky and least fertile; Sorontil and Ondosto"
+ },
+ {
+  "id": "RG02",
+  "title": "Andustar",
+  "type": "region",
+  "tier": 1,
+  "x": 321.1,
+  "y": 744.7,
+  "radius_km": 170,
+  "hint": "the Westlands; Andúnië, Oromet, fir-woods in the north"
+ },
+ {
+  "id": "RG03",
+  "title": "Hyarnustar",
+  "type": "region",
+  "tier": 1,
+  "x": 434.5,
+  "y": 349.2,
+  "radius_km": 170,
+  "hint": "the South-west lands; vineyards and great cliffs"
+ },
+ {
+  "id": "RG04",
+  "title": "Hyarrostar",
+  "type": "region",
+  "tier": 1,
+  "x": 825.0,
+  "y": 321.9,
+  "radius_km": 170,
+  "hint": "the South-east lands; great forests"
+ },
+ {
+  "id": "RG05",
+  "title": "Orrostar",
+  "type": "region",
+  "tier": 1,
+  "x": 978.9,
+  "y": 744.7,
+  "radius_km": 170,
+  "hint": "the Eastlands; grain and northern hills"
+ },
+ {
+  "id": "RG06",
+  "title": "Mittalmar",
+  "type": "region",
+  "tier": 1,
+  "x": 630.0,
+  "y": 685.0,
+  "radius_km": 190,
+  "hint": "the Inlands, raised pasture-land around the Meneltarma"
+ },
+ {
+  "id": "RG07",
+  "title": "Arandor",
+  "type": "realm",
+  "tier": 2,
+  "x": 748,
+  "y": 615,
+  "radius_km": 60,
+  "hint": "the Kingsland, the eastern Mittalmar with Armenelos and Rómenna"
+ },
+ {
+  "id": "RG08",
+  "title": "Emerië",
+  "type": "region",
+  "tier": 2,
+  "x": 545,
+  "y": 528,
+  "radius_km": 40,
+  "hint": "the sheep-pastures of the south-west Mittalmar; home of Erendis"
+ },
+ {
+  "id": "RG09",
+  "title": "Nísimaldar",
+  "type": "region",
+  "tier": 2,
+  "x": 490,
+  "y": 560,
+  "radius_km": 40,
+  "hint": "the land of fragrant evergreen trees around Eldalondë and the Bay of Eldanna"
+ },
+ {
+  "id": "RG10",
+  "title": "Hyarastorni",
+  "type": "region",
+  "tier": 3,
+  "x": 575,
+  "y": 478,
+  "radius_km": 25,
+  "hint": "approx: the sheep-lands of Hallatan, kinsman of Aldarion, near Emerië"
+ }
+]

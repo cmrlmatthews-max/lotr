@@ -1,0 +1,481 @@
+{
+ "realms": [
+  {
+   "id": "RG01",
+   "title": "Aman",
+   "type": "realm",
+   "kind": "The Blessed Realm",
+   "tier": 1,
+   "status": "Removed from the world S.A. 3319",
+   "blurb": "Aman is the Blessed Realm in the far west of Arda, home of the Valar and, later, of many Elves.",
+   "book": "Aman is the western continent of Arda, far across the Great Sea Belegaer. The Valar made it their dwelling after Melkor wrecked the first lights of the world. The name means blessed or free from evil.\n\nOn its eastern side the Valar raised the Pelóri, the highest mountains in the world, as a wall against Melkor. The one gap is the pass of the Calacirya. Within lie Valinor, the land of the Valar, and Eldamar, the shore of the Elves. Cold and shadowed wastes lie to the north and south.\n\nIn the Years of the Trees, light from Telperion and Laurelin filled the land. After the Flight of the Noldor, the Valar hid Aman behind the Shadowy Seas and the Enchanted Isles. After the fall of Númenor in S.A. 3319, Aman was taken out of the circles of the world. Only the Elves, and a few others by grace, could still sail to it on the Straight Road.\n\nTolkien drew no detailed map of Aman. This sheet is a model made from the text, and most positions are approximate.",
+   "film": "The Return of the King ends with the ship sailing west; the film does not explore the land itself.",
+   "series": "",
+   "names": {
+    "Meaning": "Blessed, free from evil (Quenya)",
+    "Other names": "Undying Lands, Blessed Realm, the West"
+   },
+   "facts": {
+    "Ruler": "Manwë, King of the Valar",
+    "Chief place": "Valmar",
+    "People": "Valar, Maiar, Vanyar, Noldor, Teleri"
+   },
+   "peoples": [
+    "people:valar",
+    "people:maiar-of-aman",
+    "people:vanyar",
+    "people:noldor-of-tirion",
+    "people:teleri-of-alqualonde"
+   ],
+   "related": [
+    "RG02",
+    "RG03",
+    "RG04",
+    "RG05",
+    "MT01",
+    "VA01",
+    "IS01",
+    "BA03"
+   ],
+   "sources": [
+    "The Silmarillion, Valaquenta and Quenta Silmarillion",
+    "The Silmarillion, Akallabêth"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "RG02",
+   "title": "Valinor",
+   "type": "realm",
+   "kind": "Land of the Valar",
+   "tier": 1,
+   "status": "Hidden after the Flight of the Noldor",
+   "blurb": "Valinor is the land of the Valar in Aman, between the Pelóri and the western sea.",
+   "book": "Valinor is the part of Aman where the Valar and Maiar dwell. It lies west of the Pelóri and stretches to the Outer Sea. The name means land of the Valar.\n\nIts chief city is Valmar of the many bells. Before its western gate rises the green mound Ezellohar, where the Two Trees once grew. Nearby is the Máhanaxar, the Ring of Doom, where the Valar sit in council.\n\nManwë and Varda hold Ilmarin on the summit of Taniquetil. Mandos and Nienna dwell in the west, and Lórien keeps his gardens. Oromë hunts in the southern woods, Yavanna tends her pastures, and Aulë works in his mansions. The books do not fix several of these places exactly.\n\nIn the Years of the Trees, Valinor was the fairest land in the world. Melkor and Ungoliant killed the Trees, and the Noldor left soon after. The Valar then hid Valinor. Sources differ on small details of its geography.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Land of the Valar (Quenya)",
+    "Other names": "Valinor is sometimes used for all of Aman"
+   },
+   "facts": {
+    "Ruler": "Manwë, King of the Valar",
+    "Chief place": "Valmar",
+    "People": "Valar and Maiar"
+   },
+   "peoples": [
+    "people:valar",
+    "people:maiar-of-aman",
+    "people:vanyar"
+   ],
+   "related": [
+    "TO01",
+    "MT02",
+    "BU01",
+    "BU06",
+    "HI02",
+    "DO01",
+    "BU03",
+    "BU05",
+    "FO01"
+   ],
+   "sources": [
+    "The Silmarillion, Valaquenta",
+    "The Silmarillion, Quenta Silmarillion chapters 1 and 3"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "RG03",
+   "title": "Eldamar",
+   "type": "region",
+   "kind": "Elvenhome by the sea",
+   "tier": 1,
+   "status": "Elves left in stages after the Flight of the Noldor",
+   "blurb": "Eldamar is the coast and bay of Aman where the Eldar lived beside the sea.",
+   "book": "Eldamar, or Elvenhome, is the eastern shore of Aman, on the sea side of the Pelóri. It is where the Eldar settled after the Valar called them west. The name means Elvenhome.\n\nThe pass of the Calacirya cuts through the mountains here. Through it the light of the Two Trees fell on the shore. On the green hill of Túna, in the pass, the Vanyar and Noldor built white Tirion. Its tower, Mindon Eldaliéva, held a lamp that shone far over the sea.\n\nNorth of the pass lies Alqualondë, the Haven of the Swans, a harbour of the Teleri. Far out in the Bay of Eldamar lies Tol Eressëa, the Lonely Isle, where the Teleri dwelt for a long age.\n\nMost of the Noldor left Eldamar in the Flight, and Fëanor's host slew Teleri at Alqualondë. Finarfin's people later returned. In the Second Age, Elves sailed to Númenor from Avallónë, the haven of Tol Eressëa.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Elvenhome (Quenya)"
+   },
+   "facts": {
+    "Ruler": "Finwë in Tirion; Olwë in Alqualondë",
+    "Chief place": "Tirion upon Túna",
+    "People": "Vanyar, Noldor, Teleri"
+   },
+   "peoples": [
+    "people:vanyar",
+    "people:noldor-of-tirion",
+    "people:teleri-of-alqualonde"
+   ],
+   "related": [
+    "TO02",
+    "HA01",
+    "HI01",
+    "VA01",
+    "IS01",
+    "BA01",
+    "BU02",
+    "HA02"
+   ],
+   "sources": [
+    "The Silmarillion, Quenta Silmarillion chapters 5, 6 and 9",
+    "The Silmarillion, Akallabêth"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "RG04",
+   "title": "Araman",
+   "type": "region",
+   "kind": "Cold waste of northern Aman",
+   "tier": 1,
+   "status": "Untouched waste; place of the Doom of Mandos",
+   "blurb": "Araman is the cold, empty land between the Pelóri and the sea in the far north of Aman.",
+   "book": "Araman is a wide waste in the north of Aman, between the Pelóri and the sea. It is cold, barren and nearly empty. The books give its extent only roughly, so its place on this map is approximate.\n\nIt matters in the tale of the Noldor. After the slaying at Alqualondë, the Noldor went north along the shore. In Araman a dark figure on a high rock spoke the Doom of the Noldor to them. Some say it was Mandos himself. The Doom foretold their sorrow and shut them out of Valinor.\n\nWhen Melkor and Ungoliant fled from Valinor after the death of the Trees, they passed north through these wastes. They went on toward the ice at the narrow strait between Aman and Middle-earth.\n\nFingolfin's host later came to this northern shore on its way to the Grinding Ice. Near the Helcaraxë lies Oiomúrë, a region of mists.",
+   "film": "",
+   "series": "",
+   "names": {},
+   "facts": {
+    "Ruler": "None",
+    "Terrain": "Cold waste between Pelóri and sea",
+    "Neighbours": "Oiomúrë and the Helcaraxë"
+   },
+   "peoples": [
+    "people:noldor-of-tirion"
+   ],
+   "related": [
+    "RG06",
+    "RG07",
+    "MT01",
+    "RG01"
+   ],
+   "sources": [
+    "The Silmarillion, Quenta Silmarillion chapters 7, 9 and 24"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "RG05",
+   "title": "Avathar",
+   "type": "region",
+   "kind": "Dark shore of southern Aman",
+   "tier": 1,
+   "status": "Remains a waste of shadow",
+   "blurb": "Avathar is the narrow dark land in the south of Aman, where Ungoliant dwelt.",
+   "book": "Avathar is a narrow, dark shore in the south of Aman, between the Pelóri and the sea. The name means the Shadows. The great peak Hyarmentir stands above it.\n\nThe Eldar and the Valar did not settle it. It lay far from the light of the Two Trees. Ungoliant, a spider-shaped spirit of darkness that hated light, lived in a ravine there.\n\nMelkor came to her after his false submission to the Valar and offered her payment. With her help he climbed Hyarmentir and looked down on Valinor. He then passed into the land and, with her, destroyed the Two Trees.\n\nAvathar had no cities or kings. The books place it only in the south, so its extent on this map is approximate.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "The Shadows"
+   },
+   "facts": {
+    "Ruler": "None",
+    "Known dweller": "Ungoliant",
+    "Neighbours": "Pelóri and Hyarmentir"
+   },
+   "peoples": [],
+   "related": [
+    "MT03",
+    "MT01",
+    "RG02",
+    "FO01",
+    "RG01",
+    "person:ungoliant"
+   ],
+   "sources": [
+    "The Silmarillion, Quenta Silmarillion chapter 8"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "RG06",
+   "title": "Oiomúrë",
+   "type": "region",
+   "kind": "Misty coast of Araman",
+   "tier": 2,
+   "status": "Unchanged waste",
+   "blurb": "Oiomúrë is the misty coast of Araman near the Helcaraxë.",
+   "book": "Oiomúrë is a region of mists in the far north of Aman, close to the Helcaraxë, the Grinding Ice. This map puts it on the coast of Araman.\n\nThe Silmarillion names it only once, in the tale of the Darkening of Valinor, when Melkor fled north. It says nothing more of the place. The text gives no towns or people for it. Its extent on this map is a guess.\n\nThis map also places it on the road of the Noldor to the ice. The books do not say that they passed through it.",
+   "film": "",
+   "series": "",
+   "names": {},
+   "facts": {
+    "Place": "Coast of Araman",
+    "Neighbour": "Helcaraxë",
+    "Terrain": "Mist and cold shore"
+   },
+   "peoples": [],
+   "related": [
+    "RG04",
+    "RG07",
+    "RG01"
+   ],
+   "sources": [
+    "The Silmarillion, Quenta Silmarillion chapter 8"
+   ],
+   "confidence": "low"
+  },
+  {
+   "id": "RG07",
+   "title": "Helcaraxë",
+   "type": "region",
+   "kind": "The Grinding Ice",
+   "tier": 2,
+   "status": "Passable by ice, a lasting hazard",
+   "blurb": "The Helcaraxë is the ice-choked strait in the far north between Aman and Middle-earth.",
+   "book": "The Helcaraxë, the Grinding Ice, is the narrow strait at the far north of the world. There Aman and Middle-earth lie closest. The sea is full of grinding ice, and the cold is terrible. Its extent on this map is approximate.\n\nMelkor and Ungoliant crossed it when they fled from Valinor. Later Fëanor took the stolen ships over the strait, left Fingolfin's people behind, and burned the ships at Losgar.\n\nFingolfin then led his folk across the ice. Among them were his children Fingon and Turgon and Finarfin's children, including Galadriel. Many died, and Elenwë, the wife of Turgon, was among the lost.\n\nThey came to Middle-earth at the first rising of the Moon. Their crossing was later honoured as a deed of great hardship.",
+   "film": "",
+   "series": "",
+   "names": {
+    "Meaning": "Grinding Ice"
+   },
+   "facts": {
+    "Crossed by": "Fingolfin's host",
+    "Location": "Far north of Aman",
+    "Danger": "Ice, cold, drowning"
+   },
+   "peoples": [
+    "people:noldor-of-tirion"
+   ],
+   "related": [
+    "RG04",
+    "RG06",
+    "person:fingolfin",
+    "person:fingon",
+    "person:galadriel",
+    "person:morgoth",
+    "person:ungoliant"
+   ],
+   "sources": [
+    "The Silmarillion, Quenta Silmarillion chapters 9 and 13"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "RG08",
+   "title": "Shadowy Seas",
+   "type": "region",
+   "kind": "Dark seas east of Tol Eressëa",
+   "tier": 2,
+   "status": "Set at the Hiding of Valinor",
+   "blurb": "The Shadowy Seas are the dark waters between Middle-earth and Aman, set by the Valar to hide Valinor.",
+   "book": "The Shadowy Seas lie in the Belegaer between Middle-earth and Aman, east of Tol Eressëa. They belong to a later time than the Years of the Trees.\n\nAfter the Flight of the Noldor, the Valar hid Valinor. They raised the Pelóri higher and set the Enchanted Isles in the seas. Shadows and enchantment filled the waters, so that sailors were lost or turned back.\n\nThe seas are shown here because later tales cross them. Many mariners, among them messengers sent by Turgon, strayed there and never found Aman. Eärendil passed through them in his ship Vingilot late in the First Age. He was the first to win through.\n\nThe books do not give an exact extent for the Shadowy Seas.",
+   "film": "",
+   "series": "",
+   "names": {},
+   "facts": {
+    "Time": "After the Hiding of Valinor",
+    "Contains": "Enchanted Isles",
+    "Crossed by": "Eärendil in Vingilot"
+   },
+   "peoples": [],
+   "related": [
+    "IS02",
+    "IS01",
+    "BA03",
+    "person:earendil",
+    "thing:vingilot"
+   ],
+   "sources": [
+    "The Silmarillion, Quenta Silmarillion chapter 11",
+    "The Silmarillion, Quenta Silmarillion chapter 24"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "RG09",
+   "title": "Pastures of Yavanna",
+   "type": "region",
+   "kind": "Fields of Yavanna",
+   "tier": 2,
+   "status": "Hidden with Valinor",
+   "blurb": "The Pastures of Yavanna are the fields of the Vala of growing things in southern Valinor.",
+   "book": "The Pastures of Yavanna lie in the south of Valinor. They are the fields of Yavanna, the Vala who loves growing things and the beasts of the earth. The books describe the place only in general terms, so its position on this map is approximate.\n\nThe woods of Oromë, the Huntsman, also lie in the south, below Hyarmentir. Yavanna sang the Two Trees into life on Ezellohar, and her fields are one source of the richness of Valinor.\n\nThe Silmarillion tells of no battles here. The fields are part of the fair land that was hidden from the world after the Flight of the Noldor.",
+   "film": "",
+   "series": "",
+   "names": {},
+   "facts": {
+    "Keeper": "Yavanna",
+    "Neighbour": "Woods of Oromë",
+    "Place": "South of Valinor"
+   },
+   "peoples": [
+    "people:valar"
+   ],
+   "related": [
+    "FO01",
+    "MT03",
+    "HI02",
+    "RG02",
+    "person:yavanna",
+    "person:orome"
+   ],
+   "sources": [
+    "The Silmarillion, Valaquenta",
+    "The Silmarillion, Quenta Silmarillion chapter 8"
+   ],
+   "confidence": "low"
+  }
+ ],
+ "peoples": [
+  {
+   "id": "people:valar",
+   "title": "The Valar",
+   "kind": "Powers of Arda",
+   "blurb": "The Valar are the great Powers who shaped Arda and who rule it from Aman.",
+   "book": "The Valar are great spirits of the Ainur who entered the world to shape it. They number seven lords and seven queens: Manwë, Ulmo, Aulë, Oromë, Mandos, Lórien and Tulkas, with Varda, Yavanna, Nienna, Estë, Vairë, Vána and Nessa. Melkor was once among them but fell into evil.\n\nAfter Melkor wrecked the first lights, the Valar made their home in Aman. Manwë is their king, and he and Varda dwell in Ilmarin on Taniquetil. Mandos keeps the Halls of Awaiting, and Nienna dwells in her halls in the west. Lórien tends his gardens, Oromë hunts in his woods, and Aulë works in his mansions. Ulmo dwells in the waters of the world and rarely comes to Valinor. The Valar meet in council in the Máhanaxar.\n\nThey invited the Elves to Aman and fought Melkor in the War of Wrath. After the fall of Númenor, Aman was removed from the world.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Homeland": "Aman, in Valinor",
+    "Language": "Their own tongue; Quenya names",
+    "Notable figures": "Manwë, Varda, Aulë, Mandos, Ulmo"
+   },
+   "realms": [
+    "RG02",
+    "RG01"
+   ],
+   "related": [
+    "person:manwe",
+    "person:varda",
+    "person:aule",
+    "person:mandos",
+    "person:ulmo",
+    "TO01",
+    "MT02",
+    "BU01",
+    "BU06"
+   ],
+   "sources": [
+    "The Silmarillion, Ainulindalë and Valaquenta"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "people:maiar-of-aman",
+   "title": "Maiar of Aman",
+   "kind": "Lesser Ainur",
+   "blurb": "The Maiar are lesser Ainur who serve the Valar and sometimes walk in Middle-earth.",
+   "book": "The Maiar are Ainur of lesser rank than the Valar. They help the Valar in their works and often serve one particular Vala. Many dwelt in Aman.\n\nEönwë is the herald and banner-bearer of Manwë, and he played a great part in the War of Wrath. Ilmarë is the handmaid of Varda. Ossë and Uinen serve Ulmo and rule the waves near the shores. Arien guides the vessel of the Sun, and Tilion, a hunter of Oromë, guides the vessel of the Moon.\n\nMelian served Vána and Estë before she went to Middle-earth, where she became the queen of Thingol. Olórin was wise, learned much from Nienna, and later went east as a messenger. The wizards of the Third Age are also counted among the Maiar.\n\nIn the Years of the Trees, the Maiar lived and worked among the Valar in Valinor.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Homeland": "Aman, in Valinor",
+    "Language": "Not given in the books",
+    "Notable figures": "Eönwë, Melian, Olórin, Ossë, Arien"
+   },
+   "realms": [
+    "RG02",
+    "RG01"
+   ],
+   "related": [
+    "person:eonwe",
+    "person:osse",
+    "person:arien",
+    "person:tilion",
+    "person:melian",
+    "person:gandalf"
+   ],
+   "sources": [
+    "The Silmarillion, Valaquenta",
+    "The Silmarillion, Quenta Silmarillion chapters 1 and 24"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "people:vanyar",
+   "title": "Vanyar",
+   "kind": "The Fair Elves",
+   "blurb": "The Vanyar are the Fair Elves of Ingwë, first of the Eldar to reach Aman.",
+   "book": "The Vanyar are one of the three kindreds of the Eldar. They are the Fair Elves, usually golden haired, and they are close to Manwë and Varda. Their lord is Ingwë, who is called the High King of all the Elves.\n\nThey came with the Noldor on the great journey from Middle-earth and were the first to arrive in Aman. The Vanyar and Noldor first dwelt together in Tirion on Túna. Later the Vanyar left the city for Valinor and for the slopes of Taniquetil, where Ingwë lived close to the feet of Manwë.\n\nThe Vanyar did not join the Noldor in their Flight. They stayed in Aman, loving the Valar and the light of the Trees. In the War of Wrath many of them came with the host of Valinor.\n\nThey speak Quenya, the High-elven tongue.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Homeland": "Cuiviénen, then Aman",
+    "Language": "Quenya",
+    "Notable figures": "Ingwë, Indis"
+   },
+   "realms": [
+    "RG02",
+    "RG03"
+   ],
+   "related": [
+    "TO02",
+    "MT02",
+    "HI01",
+    "BU01",
+    "person:manwe",
+    "person:varda",
+    "person:finwe"
+   ],
+   "sources": [
+    "The Silmarillion, Quenta Silmarillion chapters 3 and 5"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "people:noldor-of-tirion",
+   "title": "Noldor of Tirion",
+   "kind": "The Deep Elves",
+   "blurb": "The Noldor of Tirion were the Deep Elves of Finwë, great craftsmen and scholars of Aman.",
+   "book": "The Noldor are the Deep Elves, the second kindred of the Eldar to reach Aman. Their king was Finwë. They settled in Tirion on Túna, in the Calacirya, and loved knowledge and fine craft. Aulë taught them much about metals and gems.\n\nFinwë's eldest son Fëanor, born to Míriel, was the greatest craftsman among them. He made the Silmarils, three jewels that held the light of the Two Trees. His half-brothers Fingolfin and Finarfin were of Indis. The sons of Finwë quarrelled, and Melkor spread lies among the Noldor.\n\nAfter Melkor slew Finwë and stole the Silmarils, Fëanor led most of the Noldor out of Aman in the Flight of the Noldor. They slew Teleri at Alqualondë and were cursed by the Doom of Mandos. Finarfin turned back and ruled the remnant in Tirion.\n\nThe Noldor spoke Quenya in Aman, and in Middle-earth they learned Sindarin.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Homeland": "Cuiviénen, then Tirion",
+    "Language": "Quenya",
+    "Notable figures": "Finwë, Fëanor, Fingolfin, Finarfin"
+   },
+   "realms": [
+    "RG03"
+   ],
+   "related": [
+    "TO02",
+    "HI01",
+    "BU02",
+    "FT01",
+    "person:finwe",
+    "person:feanor",
+    "person:fingolfin",
+    "person:finarfin",
+    "thing:silmarils"
+   ],
+   "sources": [
+    "The Silmarillion, Quenta Silmarillion chapters 5 to 9"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "people:teleri-of-alqualonde",
+   "title": "Teleri of Alqualondë",
+   "kind": "The Sea-elves",
+   "blurb": "The Teleri of Alqualondë are the Sea-elves of Olwë, builders of the swan-ships.",
+   "book": "The Teleri are the third and largest kindred of the Eldar. They are called Sea-elves, or Falmari, because they love the water and its music. Olwë led those who came to Aman. His brother Elwë, who is also known as Thingol, stayed in Middle-earth.\n\nThe Teleri were the last to cross the sea. Ulmo drew them on an island that became Tol Eressëa. They lingered there, and Ossë taught them the craft of ships. At their wish the Valar then let them live on the shore, and they built Alqualondë. The haven is called the Haven of the Swans, for its swan-shaped ships.\n\nWhen Fëanor asked for the ships, the Teleri refused. In response, his host attacked and killed many of them and seized the ships. That crime is the first Kinslaying. In the War of Wrath few Teleri went to battle, but they sailed the ships that carried the host of the Valar.\n\nThey spoke their own dialect, Telerin.",
+   "film": "",
+   "series": "",
+   "facts": {
+    "Homeland": "Cuiviénen, then Tol Eressëa and Alqualondë",
+    "Language": "Telerin",
+    "Notable figures": "Olwë"
+   },
+   "realms": [
+    "RG03"
+   ],
+   "related": [
+    "HA01",
+    "IS01",
+    "BA01",
+    "person:osse",
+    "person:ulmo",
+    "person:thingol",
+    "person:feanor"
+   ],
+   "sources": [
+    "The Silmarillion, Quenta Silmarillion chapters 3, 5 and 9"
+   ],
+   "confidence": "high"
+  }
+ ]
+}

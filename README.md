@@ -1,11 +1,13 @@
 # Middle-earth Explorer
 
-A 3D map of Tolkien's world in one HTML file, for personal, non-commercial use. It has two sheets:
+A 3D map of Tolkien's world in one HTML file, for personal, non-commercial use. It has four sheets:
 
 - **Middle-earth, Third Age.** The north-west of Middle-earth at the time of *The Hobbit* and *The Lord of the Rings*.
 - **Beleriand, First Age.** The lost lands of *The Silmarillion*.
+- **Númenor, Second Age.** The island of the Dúnedain before the Downfall.
+- **Aman, Years of the Trees.** Valinor, Eldamar, Tol Eressëa, and the Pelóri while the Two Trees gave light.
 
-The buttons below the title change the sheet. Search finds cards on both sheets. An AI assistant, the loremaster, answers questions from the cards.
+The buttons below the title change the sheet. Search finds cards on all sheets. An AI assistant, the loremaster, answers questions from the cards.
 
 ## Open the map
 
@@ -40,13 +42,28 @@ The buttons below the title change the sheet. Search finds cards on both sheets.
 - **Accuracy.** The layout follows the distances that the books give (for example Dorthonion 60 leagues wide, Sirion 130 leagues long, Angband 150 leagues from Menegroth). A review agent compared the layout with the books, and I applied its corrections. Positions are still approximate.
 - **Cards.** 97 places, 27 realms and regions, 18 peoples, 22 battles, and 8 journeys (for example Beren and Lúthien, Túrin, Tuor, and the return of the Noldor). All eight routes are curves through the stage points.
 
+## Contents: Númenor
+
+- **Terrain.** The terrain is an original model from "A Description of the Island of Númenor" in *Unfinished Tales*. The land is a five-pointed star. The Mittalmar in the middle is about 250 miles across. Five promontories, each about 100 miles wide and more than 200 miles long, reach out from it. `scripts-numenor/geo.py` holds the geometry.
+- **Accuracy.** A review agent compared each position with the books. It found 3 errors and I corrected them. The largest: the three small bays of the Andustar face west, not north. The exact bearing of each promontory, and the distances between the Meneltarma, Armenelos, and Rómenna, are a judgment.
+- **Descriptive names.** 11 features have a descriptive name (for example "Forests of Hyarrostar"), because the text describes them and does not name them. Their cards say so.
+- **Cards.** 40 places, 10 regions, 7 peoples, 4 events (for example the Downfall of Númenor), and 4 journeys (for example Aldarion and Erendis, and the last days of Númenor).
+
+## Contents: Aman
+
+- **Terrain.** The books give no detailed map of Aman. The terrain is a model from the text of *The Silmarillion*, with *The History of Middle-earth* where the published book is silent. `scripts-aman/geo.py` holds the geometry. The relief is coarse in close views: one pixel for each 1 km.
+- **Accuracy.** A review agent compared each position with the books. I applied its 9 corrections. For example, I removed three invented rivers and one invented name, and I added the Door of Night. Many positions are approximate: the Gardens of Lórien, the Halls of Mandos, the Halls of Nienna, the Mansions of Aulë, the Wells of Varda, the Caves of the Forgotten, and the Door of Night. Their cards say so.
+- **Time.** The sheet shows the Years of the Trees. Some places are of a later time, for example Avallónë, the Enchanted Isles, and the landing of Ar-Pharazôn. Their cards say so.
+- **Cards.** 29 places, 9 regions, 5 peoples, 4 events (for example the Darkening of Valinor and the Kinslaying at Alqualondë), and 4 journeys (for example the Flight of the Noldor and the voyage of Eärendil).
+- **Links.** 45 person and thing cards link to exact places on the two new sheets (for example Fëanor to Tirion and Formenos, and Elendil to Rómenna). Links that said "Valinor" or "Númenor" as text now point to the map.
+
 ## Persons, things, and links
 
 - **Persons and creatures.** 259 cards: Hobbits, Men, Elves, Dwarves, Wizards, Valar, enemies, and named creatures of all ages.
 - **Things.** 62 cards: rings, jewels, weapons, seeing-stones, ships, books, heirlooms, and plants.
 - **Links.** Each person or thing card lists its places with the type of link, for example born, lived, ruled, fought, made, or died. When you open the card, the map marks these places in red and moves to show them. The map changes sheet if most of the places are on the other sheet. Places that are not on the two sheets (for example Valinor and Númenor) show as text.
 - **Reverse links.** Each place card lists the persons and things that link to it.
-- **Search.** The search box finds persons, things, places, realms, battles, and journeys on both sheets. It also finds other names, for example Strider or Mithrandir.
+- **Search.** The search box finds persons, things, places, realms, battles, and journeys on all sheets. It also finds other names, for example Strider or Mithrandir.
 - **New places.** 68 places that are not in the map data set have a label and a card (52 in Middle-earth, 16 in Beleriand), for example Buckland, the Westfold, the Gap of Rohan, and the Dry River. A plan agent set each position from the books and a review agent examined it. These positions are approximate.
 - **Files.** The cards are in `source/cards-lore/`. `master_people.json`, `master_things.json`, and `master_places.json` are the lists. `review_*.md` are the change logs of the review.
 
@@ -58,7 +75,7 @@ The left panel has a section **Lore and history** with 353 knowledge entries. Se
 - **Unfinished Tales and other books.** The parts of *Unfinished Tales*, the other books, and short entries on J.R.R. Tolkien and Christopher Tolkien.
 - **Timeline.** 28 dated lists, from the making of the world to the Fourth Age. The years 3018 and 3019 of the Third Age go day by day.
 - **Powers, peoples and ideas.** The Valar and Maiar, the fate of Elves and Men, the Rings of Power, the Wizards, kinds of creatures, languages, writing, calendars, customs, and government.
-- **Lands beyond the map.** Aman, Númenor, Harad, Rhûn, and other lands that are not on the two sheets.
+- **Lands beyond the map.** Harad, Rhûn, and other lands that are not on the sheets. The entries for Aman and Númenor link to the two new sheets.
 - **Lines and lists.** Family lines and lists of kings, stewards, ring-bearers, and more.
 - **Films and series.** The Peter Jackson films, the main changes from book to film, *The Rings of Power*, and older screen and radio versions.
 - **Questions readers ask.** Answers from the books to common questions. Each answer says when the books leave the question open.
@@ -80,13 +97,13 @@ Select **Ask the loremaster** to ask a question in your own words, for example "
 
 ## Art and setting
 
-- **Card pictures.** 78 cards have a picture at the top. 24 are things, for example the One Ring, the Arkenstone, Sting, and the Silmarils. Of the other 54: 30 are places (22 in Middle-earth, 8 in Beleriand). 12 are peoples, for example Hobbits, Rohirrim, Dwarves, Ents, Noldor, and Sindar. 12 are battles, for example the Hornburg, the Pelennor Fields, the Battle of Five Armies, and the Fall of Gondolin.
+- **Card pictures.** 99 cards have a picture at the top. 21 are on the Númenor and Aman sheets (13 places and regions, 4 peoples, 4 events and battles); 3 more are planned. 24 are things, for example the One Ring, the Arkenstone, Sting, and the Silmarils. Of the other 54: 30 are places (22 in Middle-earth, 8 in Beleriand). 12 are peoples, for example Hobbits, Rohirrim, Dwarves, Ents, Noldor, and Sindar. 12 are battles, for example the Hornburg, the Pelennor Fields, the Battle of Five Armies, and the Fall of Gondolin.
 - **Landmark drawings.** The 30 places with a picture also show a small sepia drawing on the map. 16 show at all distances. The other 14 show only when the view is near. The checkbox **Landmark drawings** hides them.
 - **Map ornaments.** Each sheet has a drawn border, corner ornaments, a compass rose, a title scroll, ships, and a sea serpent.
 - **Woodlands.** Forests have a low raised canopy. Small ink tree crowns fill each forest from edge to edge.
 - **Colors.** The sheet uses one sepia paper tone and one grey-brown ink tone. The sea has a faint grey tint and the forests have a faint olive tint. Red marks only battles, journeys, and the selected place. `scripts/regrade.py` makes `base_sepia.jpg` from `base.jpg`.
 - **Setting.** The sheet lies on a wooden table in warm light. The panels look like parchment. The app draws the table and the parchment with code.
-- **Source of the art.** Google Gemini made the 78 pictures and the 6 ornaments from text prompts written for this map. The prompts describe each place, people, or battle in plain words. They do not name a film, an actor, or an artist. `art/process.py` removes the paper background and makes the card pictures, the sepia map drawings, and the ornaments. The original Gemini images (63 MB) are not in this repo.
+- **Source of the art.** Google Gemini made the 99 pictures and the 6 ornaments from text prompts written for this map. The prompts describe each place, people, or battle in plain words. They do not name a film, an actor, or an artist. `art/process.py` removes the paper background and makes the card pictures, the sepia map drawings, and the ornaments. The original Gemini images (63 MB) are not in this repo.
 - **Accuracy.** The pictures are an impression. They do not show each place as the books describe it in every detail.
 
 ## How to read a card
@@ -96,7 +113,7 @@ Select **Ask the loremaster** to ask a question in your own words, for example "
 - **Series** text gives the same for *The Rings of Power*.
 - Each card shows a confidence level and where to read more.
 
-An AI model wrote the card text in its own words. A second model then examined each card and corrected errors. For the 389 person, thing, and new-place cards, the review changed 324 cards and corrected 229 serious errors (a wrong fact, a wrong place link, or a film invention in the book text). The change logs are in `source/cards/review_A.md` to `review_D.md` (Middle-earth) and `source/cards-beleriand/review_X.md` to `review_Z.md` (Beleriand). For the 353 knowledge entries, the review changed 308 entries and corrected 238 serious errors (most often an event told in the wrong chapter, a wrong date, or a wrong name). The change logs are in `source/knowledge/review_know_1.md` to `review_know_8.md`. Errors are still possible. Cards with low confidence need a check against the books.
+An AI model wrote the card text in its own words. A second model then examined each card and corrected errors. For the 389 person, thing, and new-place cards, the review changed 324 cards and corrected 229 serious errors (a wrong fact, a wrong place link, or a film invention in the book text). The change logs are in `source/cards/review_A.md` to `review_D.md` (Middle-earth) and `source/cards-beleriand/review_X.md` to `review_Z.md` (Beleriand). For the 353 knowledge entries, the review changed 308 entries and corrected 238 serious errors (most often an event told in the wrong chapter, a wrong date, or a wrong name). The change logs are in `source/knowledge/review_know_1.md` to `review_know_8.md`. For the 116 cards and 46 link sets of the Númenor and Aman sheets, the review changed 74 and corrected 34 serious errors. The change logs are in `source/cards-numenor/` and `source/cards-aman/` (`review_places.md`, `review_realms_events.md`, and `geo_review.json` for positions). Errors are still possible. Cards with low confidence need a check against the books.
 
 ## Map data and license
 
@@ -115,7 +132,10 @@ An AI model wrote the card text in its own words. A second model then examined e
 | `data/` | Reduced Middle-earth data: `height.png`, `base.jpg`, `base_sepia.jpg`, `vectors.json`, `gazetteer.json` |
 | `scripts/` | `terrain.py`, `vectors.py`, and `regrade.py`. They make `data/` from the William & Mary downloads (4.9 GB, not in this repo; see the link above). |
 | `data-beleriand/`, `scripts-beleriand/` | The modelled Beleriand data and the scripts that make it |
-| `source/` | `app.js`, `chat.js`, `template.html`, `build.py`, `package.json`, and the card files in `source/cards/` and `source/cards-beleriand/` |
+| `data-numenor/`, `data-aman/` | The modelled data of the two new sheets |
+| `scripts-numenor/`, `scripts-aman/` | `geo.py` (the control geometry) for each new sheet |
+| `scripts-landgen/` | The sheet generator: `terrain.py`, `make_vectors.py`, `preview.py`, `run.sh`, the briefs for the agents, and `check_cards.py` |
+| `source/` | `app.js`, `chat.js`, `template.html`, `build.py`, `package.json`, and the card files in `source/cards/`, `source/cards-beleriand/`, `source/cards-numenor/`, and `source/cards-aman/` |
 | `art/` | `out/` (processed images that `build.py` puts in the HTML file) and `process.py` |
 
 `build.py` joins the data, the cards, and the script into the HTML file. It has paths from the build computer. Change the paths at the top before you run it.
@@ -126,12 +146,13 @@ An AI model wrote the card text in its own words. A second model then examined e
 - The data set stops at straight lines in the east, the north, and the south-east. The map shows plain paper there.
 - The data set has borders for Gondor, Rohan, and Mordor only. Other realms show a name at their centre.
 - Some names in the data set do not come from the books. Their cards say this.
-- Card pictures exist for 78 of the 1417 cards. Named persons have no picture.
+- Card pictures exist for 99 of the 1533 cards. Named persons have no picture.
 - 167 of the 321 person and thing cards have medium confidence, and 6 have low confidence. Check these against the books before you rely on them.
 - Film and series text is empty on many person and thing cards. The writers left it empty when they were not sure.
 - 268 of the 353 knowledge entries have medium confidence. The writers and the reviewers worked from their knowledge of the books, not from the book text. Check dates and chapter details against the books before you rely on them.
 - The loremaster test used a simulated API. No test called the real Anthropic API, because the builder had no key. If the first real question shows an error, the error text says what to do.
 - The loremaster can make errors, also in text that it gives a card for. The card is the source: open it to check.
-- The file is about 20 MB. The first load can take some seconds.
+- The Aman sheet is a model with little support from the books. Do not use it as a source for where a place is.
+- 63 of the 116 map cards on the two new sheets have medium confidence, and 7 have low confidence.
+- The file is about 24 MB. The first load can take some seconds.
 - Beleriand terrain is modelled, not measured. It is smoother than the Middle-earth terrain.
-- Not in this file yet: map sheets for Númenor and Valinor. Persons and things from those lands have cards.

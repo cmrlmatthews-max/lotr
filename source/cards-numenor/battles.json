@@ -1,0 +1,174 @@
+[
+ {
+  "id": "battle:downfall-of-numenor",
+  "title": "The Downfall of Númenor",
+  "date": "S.A. 3319",
+  "year_sort": 3319,
+  "war": "The Great Armament against the Ban of the Valar",
+  "at": {
+   "near": "MT01",
+   "dx": 0,
+   "dy": 0
+  },
+  "tier": 1,
+  "sides": {
+   "a": [
+    "Ar-Pharazôn and the Great Armament of Númenor",
+    "Sauron, his counsellor and high priest"
+   ],
+   "b": [
+    "The Valar, and Eru Ilúvatar who answered their call"
+   ]
+  },
+  "outcome": "The Valar laid down their government, Eru changed the shape of the world, and Númenor sank beneath the sea with the King's fleet.",
+  "blurb": "Eru drowned the island of Númenor after Ar-Pharazôn landed on the shore of Aman.",
+  "book": "Ar-Pharazôn, urged on by Sauron, led the greatest fleet that Númenor had ever built against the Ban of the Valar. In S.A. 3319 he sailed into the West and set foot on the shore of Aman. Then the Valar gave up their guard of the Blessed Realm and called on Eru. Eru changed the fashion of the world. The seas opened in a great chasm, and the Armament was lost in it. Aman was removed beyond the reach of mortal ships. Númenor itself fell. A tall wave rose and the island sank, with all its cities and its people. The Meneltarma burst into fire as it went down. Tar-Míriel is said to have died while seeking the Hallow on its summit. Sauron's fair shape was destroyed, but his spirit fled back to Middle-earth. The Akallabêth says that Ar-Pharazôn and his men lie under hills in the Caves of the Forgotten until the Last Battle. Elendil, Isildur and Anárion, with the Faithful, were already at sea. A great wind drove their nine ships east to Middle-earth, where they founded the Realms in Exile.",
+  "film": "",
+  "series": "",
+  "related": [
+   "MT01",
+   "TO01",
+   "BU02",
+   "BU07",
+   "HA01",
+   "BA01",
+   "person:ar-pharazon",
+   "person:sauron",
+   "person:tar-miriel",
+   "person:elendil",
+   "person:isildur",
+   "person:anarion"
+  ],
+  "sources": [
+   "The Silmarillion, Akallabêth",
+   "The Lord of the Rings, Appendix A (Númenor)",
+   "The Lord of the Rings, Appendix B"
+  ],
+  "confidence": "high",
+  "kind": "Downfall of an island kingdom"
+ },
+ {
+  "id": "battle:burning-of-nimloth",
+  "title": "Burning of Nimloth and the fires of the Temple",
+  "date": "after S.A. 3262 (not dated exactly)",
+  "year_sort": 3270,
+  "war": "The persecution of the Faithful",
+  "at": {
+   "near": "BU02",
+   "dx": 8,
+   "dy": -6
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Ar-Pharazôn the Golden",
+    "Sauron and his priests"
+   ],
+   "b": [
+    "The Faithful of Númenor",
+    "The house of Elendil, who saved a fruit of the tree"
+   ]
+  },
+  "outcome": "Nimloth was cut down and burned, and the fire on the new altar began the sacrifices to Melkor.",
+  "blurb": "At Sauron's urging, Ar-Pharazôn felled the White Tree and burned it on the altar of the new Temple.",
+  "book": "After Sauron came to Númenor in S.A. 3262, he turned the King against the Faithful. He taught that the White Tree Nimloth, which stood in the court of the King at Armenelos, was a bond with the Eldar and the Valar. Ar-Pharazôn hesitated, for he had been warned that his fortunes were tied to the tree. Sauron persuaded him in the end, and the King had the tree cut down. Sauron then raised a great temple to Melkor on the hill in the midst of the city. The wood of Nimloth was the first fuel burned on its altar. Smoke rose from the Temple, and the kingdom grew darker. After the tree died, the Faithful and others who opposed the King were taken there and burned in sacrifice. No fixed date is given for the burning in the Akallabêth. It followed the arrival of Sauron and came soon after the deed of Isildur. A fruit of Nimloth had been saved, and from it grew the line of the White Trees.",
+  "film": "",
+  "series": "",
+  "related": [
+   "BU01",
+   "BU02",
+   "TO01",
+   "person:ar-pharazon",
+   "person:sauron",
+   "thing:nimloth",
+   "person:isildur"
+  ],
+  "sources": [
+   "The Silmarillion, Akallabêth"
+  ],
+  "confidence": "medium",
+  "kind": "Burning and sacrifice"
+ },
+ {
+  "id": "battle:isildur-and-the-fruit-of-nimloth",
+  "title": "Isildur takes the fruit of Nimloth",
+  "date": "shortly before the felling of Nimloth",
+  "year_sort": 3267,
+  "war": "The persecution of the Faithful",
+  "at": {
+   "near": "BU01",
+   "dx": -8,
+   "dy": 6
+  },
+  "tier": 2,
+  "sides": {
+   "a": [
+    "Isildur, son of Elendil"
+   ],
+   "b": [
+    "The guards of the King's court"
+   ]
+  },
+  "outcome": "Isildur escaped, badly wounded, with a fruit of Nimloth, which was later planted and grew.",
+  "blurb": "Isildur slipped into the guarded court at Armenelos and saved a fruit of the White Tree.",
+  "book": "When Sauron urged Ar-Pharazôn to destroy Nimloth, the Faithful feared that the line of the White Tree would end. Amandil, the Lord of Andúnië, told Elendil the old tale of the tree. Isildur heard it and acted on his own. He went in disguise to Armenelos and crossed the court of the King. The tree was under guard. Isildur took a fruit from the tree and escaped, but he was wounded in the fight and barely reached safety. He was long in healing. He gave the fruit to Amandil. It was planted in secret, and a sapling grew from it. Soon after, the King cut down the old Nimloth and burned it in the Temple. The new tree survived and was kept by the line of Elendil. The books do not give the year of the deed. They place it shortly before the felling of the tree.",
+  "film": "",
+  "series": "",
+  "related": [
+   "BU01",
+   "TO01",
+   "person:isildur",
+   "person:amandil",
+   "thing:nimloth",
+   "person:ar-pharazon"
+  ],
+  "sources": [
+   "The Silmarillion, Akallabêth"
+  ],
+  "confidence": "medium",
+  "kind": "Daring raid for the White Tree"
+ },
+ {
+  "id": "battle:persecution-of-the-faithful",
+  "title": "Persecution of the Faithful",
+  "date": "reign of Ar-Pharazôn, after S.A. 3262",
+  "year_sort": 3272,
+  "war": "",
+  "at": {
+   "near": "HA01",
+   "dx": -6,
+   "dy": 10
+  },
+  "tier": 3,
+  "sides": {
+   "a": [
+    "Ar-Pharazôn",
+    "Sauron and his priests",
+    "Númenóreans who turned to Melkor"
+   ],
+   "b": [
+    "The Faithful of Númenor",
+    "Elendil and his house"
+   ]
+  },
+  "outcome": "Many of the Faithful were seized and sacrificed, and the rest prepared secretly to leave the island.",
+  "blurb": "Under Sauron's influence, Ar-Pharazôn treated the Faithful as traitors and sacrificed many of them.",
+  "book": "The Faithful were the Númenóreans who kept the old friendship with the Eldar and honored the Valar and Eru. Many of them dwelt in the east, about Rómenna. In the reign of Ar-Pharazôn, after Sauron gained the King's ear, they were watched and accused of treason. Their enemies said that they plotted rebellion against the King and the people. Many were taken from their homes. Some were put to death, and others were burned on the altar of the Temple at Armenelos in the worship of Melkor. The Faithful grew fewer and more secret in this time. Later, on the counsel of Amandil, Elendil secretly readied ships at Rómenna. The books name no exact year for the persecution.",
+  "film": "",
+  "series": "",
+  "related": [
+   "HA01",
+   "TO01",
+   "BU02",
+   "person:elendil",
+   "person:ar-pharazon",
+   "person:sauron"
+  ],
+  "sources": [
+   "The Silmarillion, Akallabêth",
+   "Unfinished Tales, The Line of Elros"
+  ],
+  "confidence": "medium",
+  "kind": "Persecution of the Faithful"
+ }
+]

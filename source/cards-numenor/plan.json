@@ -1,0 +1,518 @@
+{
+ "meta": {
+  "name": "Númenor",
+  "age": "The Second Age",
+  "sub": "The Land of Gift before the Downfall",
+  "compass": [
+   1110,
+   1070,
+   56
+  ],
+  "sea": [
+   [
+    "BELEGAER",
+    72,
+    500,
+    30,
+    19,
+    -1.5708
+   ],
+   [
+    "THE GREAT SEA",
+    650,
+    70,
+    24,
+    12,
+    0
+   ]
+  ],
+  "orn": {
+   "border": 11,
+   "corner": 96,
+   "items": [
+    [
+     "ship",
+     1175,
+     470,
+     70
+    ],
+    [
+     "serpent",
+     150,
+     160,
+     105
+    ],
+    [
+     "swanship",
+     1010,
+     300,
+     64
+    ]
+   ],
+   "cartouche": [
+    250,
+    1060,
+    220
+   ]
+  }
+ },
+ "peoples": [
+  {
+   "id": "people:numenoreans",
+   "title": "Númenóreans",
+   "hint": "the Dúnedain, the Edain of the Three Houses given the Land of Gift; mariners, shepherds, foresters and builders on every part of the isle",
+   "realms": [
+    "RG06",
+    "RG01",
+    "RG02",
+    "RG03",
+    "RG04",
+    "RG05"
+   ]
+  },
+  {
+   "id": "people:faithful-of-numenor",
+   "title": "The Faithful (Elendili)",
+   "hint": "the Elf-friends who kept faith with the Valar; strongest in the west under the Lords of Andúnië, later gathered about Rómenna in the east",
+   "realms": [
+    "RG02",
+    "RG07"
+   ]
+  },
+  {
+   "id": "people:kings-men",
+   "title": "The King's Men",
+   "hint": "the party of the later kings who turned against the Valar and the Eldar; they ruled from Armenelos and in the end served Sauron's Temple",
+   "realms": [
+    "RG07",
+    "RG06"
+   ]
+  },
+  {
+   "id": "people:guild-of-venturers",
+   "title": "Guild of Venturers",
+   "hint": "the sea-farers' guild that Aldarion founded; its ships sailed from Rómenna to Middle-earth (Unfinished Tales, Aldarion and Erendis)",
+   "realms": [
+    "RG07"
+   ]
+  },
+  {
+   "id": "people:lords-of-andunie",
+   "title": "Lords of Andúnië",
+   "hint": "descendants of Silmariën through Valandil, chief of the Faithful; seated at Andúnië in the Andustar until Ar-Gimilzôr moved them to Rómenna; Amandil and Elendil",
+   "realms": [
+    "RG02",
+    "RG07"
+   ]
+  },
+  {
+   "id": "people:eagles-of-manwe",
+   "title": "Eagles of Manwë",
+   "hint": "the Witnesses of Manwë, who came to the summit of the Meneltarma in the days of the Three Prayers; eagles also nested about the Forostar and Sorontil",
+   "realms": [
+    "RG06",
+    "RG01"
+   ]
+  },
+  {
+   "id": "people:shepherds-of-the-mittalmar",
+   "title": "Shepherds of the Mittalmar",
+   "hint": "the sheep-farming folk of the Inlands, as at Emerië and the lands of Hallatan of Hyarastorni (Aldarion and Erendis)",
+   "realms": [
+    "RG06",
+    "RG08",
+    "RG10"
+   ]
+  }
+ ],
+ "battles": [
+  {
+   "id": "battle:downfall-of-numenor",
+   "title": "The Downfall of Númenor",
+   "date": "S.A. 3319",
+   "near": "MT01",
+   "dx": 0,
+   "dy": 0,
+   "tier": 1,
+   "hint": "when Ar-Pharazôn set foot on Aman, Eru changed the world; the Meneltarma broke out in fire and the whole land sank under a great wave; Tar-Míriel perished seeking the Hallow. Akallabêth; Appendix A"
+  },
+  {
+   "id": "battle:burning-of-nimloth",
+   "title": "Burning of Nimloth and the fires of the Temple",
+   "date": "after S.A. 3262 (not dated exactly)",
+   "near": "BU02",
+   "dx": 8,
+   "dy": -6,
+   "tier": 2,
+   "hint": "on Sauron's counsel Ar-Pharazôn cut down the White Tree; its wood was the first fire on the altar of the great Temple, and men were burned there in sacrifice to Melkor. Akallabêth"
+  },
+  {
+   "id": "battle:isildur-and-the-fruit-of-nimloth",
+   "title": "Isildur takes the fruit of Nimloth",
+   "date": "shortly before the felling of Nimloth",
+   "near": "BU01",
+   "dx": -8,
+   "dy": 6,
+   "tier": 2,
+   "hint": "Isildur went in disguise into the guarded court of the King, took a fruit of the White Tree and fought his way out, sorely wounded. Akallabêth"
+  },
+  {
+   "id": "battle:persecution-of-the-faithful",
+   "title": "Persecution of the Faithful",
+   "date": "reign of Ar-Pharazôn, after S.A. 3262",
+   "near": "HA01",
+   "dx": -6,
+   "dy": 10,
+   "tier": 3,
+   "hint": "the Faithful, who dwelt mostly about Rómenna, were accused of treason against the King, spied on and taken to be slain or burned in the Temple at Armenelos. Akallabêth"
+  }
+ ],
+ "journeys": [
+  {
+   "id": "journey:coming-of-the-edain",
+   "title": "The coming of the Edain to Elenna",
+   "travellers": "Elros and the Edain of the Three Houses",
+   "dates": "S.A. 32",
+   "hint": "the Edain sailed out of the east over the sea, guided by the Star of Eärendil, to the land the Valar raised for them; the landing place is not named in the books",
+   "stages": [
+    {
+     "near": "BA01",
+     "dx": 330,
+     "dy": 60,
+     "title": "Out of the east",
+     "hint": "many ships of the Edain sail west over the Great Sea following the Star of Eärendil"
+    },
+    {
+     "near": "BA01",
+     "dx": 140,
+     "dy": 30,
+     "title": "The Meneltarma rises from the sea",
+     "hint": "approx: the mariners see the land of Elenna and its tall mountain far off"
+    },
+    {
+     "near": "BA01",
+     "dx": 0,
+     "dy": 0,
+     "title": "Into the bay",
+     "hint": "approx: the fleet comes in among the eastern promontories; the books do not name the landing"
+    },
+    {
+     "near": "HA01",
+     "dx": 0,
+     "dy": 0,
+     "title": "Landing in the east",
+     "hint": "approx: landing at the head of the firth where Rómenna later stood"
+    },
+    {
+     "near": "TO01",
+     "dx": 0,
+     "dy": 0,
+     "title": "Armenelos founded",
+     "hint": "Elros Tar-Minyatur, first King, builds the City of the Kings in Arandor"
+    },
+    {
+     "near": "MT01",
+     "dx": 0,
+     "dy": 0,
+     "title": "The holy mountain",
+     "hint": "the Meneltarma in the midst of the land, whose summit was hallowed to Eru"
+    }
+   ]
+  },
+  {
+   "id": "journey:three-prayers",
+   "title": "The road of the Three Prayers",
+   "travellers": "the King of Númenor and a great multitude of the people",
+   "dates": "each year in spring, midsummer and autumn, from the early kings until the prayers were neglected and at last forbidden",
+   "hint": "at the Erukyermë, the Erulaitalë and the Eruhantalë the King went up the Meneltarma to the Hallow of Eru, and the people followed in silence (Unfinished Tales; Akallabêth)",
+   "stages": [
+    {
+     "near": "TO01",
+     "dx": 0,
+     "dy": 0,
+     "title": "From the City of the Kings",
+     "hint": "the King sets out from Armenelos"
+    },
+    {
+     "near": "TO01",
+     "dx": -32,
+     "dy": 2,
+     "title": "Westward on the road",
+     "hint": "approx: along the paved highway toward the mountain"
+    },
+    {
+     "near": "VA01",
+     "dx": 0,
+     "dy": 0,
+     "title": "Noirinan",
+     "hint": "the procession enters the Valley of the Tombs between the southern roots of the Pillar"
+    },
+    {
+     "near": "GR01",
+     "dx": 0,
+     "dy": 0,
+     "title": "Past the Tombs of the Kings",
+     "hint": "the tombs of the kings and queens at the head of the valley"
+    },
+    {
+     "near": "RD02",
+     "dx": -18,
+     "dy": 4,
+     "title": "The winding ascent",
+     "hint": "the path climbs spirally up the mountain"
+    },
+    {
+     "near": "BU07",
+     "dx": 0,
+     "dy": 0,
+     "title": "The Hallow of Eru",
+     "hint": "on the open summit, without roof or altar, the King speaks the prayer; no other voice is heard there"
+    }
+   ]
+  },
+  {
+   "id": "journey:aldarion-and-erendis",
+   "title": "Aldarion and Erendis",
+   "travellers": "Tar-Aldarion the Mariner, Erendis, and their daughter Ancalimë",
+   "dates": "S.A. ninth century (about 850 to 890)",
+   "hint": "the tale of the mariner prince, the haven of Rómenna, the court at Armenelos and the white house in Emerië (Unfinished Tales, Aldarion and Erendis)",
+   "stages": [
+    {
+     "near": "HA01",
+     "dx": 0,
+     "dy": 0,
+     "title": "Rómenna, haven of the Venturers",
+     "hint": "Aldarion, Lord of the Ships and Havens, sails from Rómenna to Middle-earth"
+    },
+    {
+     "near": "BU03",
+     "dx": 0,
+     "dy": 0,
+     "title": "The Calmindon",
+     "hint": "Aldarion raises the light-tower on Tol Uinen in the bay"
+    },
+    {
+     "near": "TO01",
+     "dx": 0,
+     "dy": 0,
+     "title": "Betrothal and wedding in Armenelos",
+     "hint": "Erendis comes to the court of Tar-Meneldur; she is betrothed to Aldarion and at last they are wed"
+    },
+    {
+     "near": "BU08",
+     "dx": 0,
+     "dy": 0,
+     "title": "The white house in Emerië",
+     "hint": "Aldarion builds a white house for Erendis among the sheep-lands; after his long absences she withdraws there with Ancalimë"
+    },
+    {
+     "near": "HA01",
+     "dx": 0,
+     "dy": 0,
+     "title": "The mariner returns",
+     "hint": "Aldarion comes home over the sea and finds his wife gone from Armenelos"
+    },
+    {
+     "near": "BU08",
+     "dx": 0,
+     "dy": 0,
+     "title": "The shut door",
+     "hint": "he rides to Emerië and is turned away from the house; their estrangement is never healed"
+    },
+    {
+     "near": "RG10",
+     "dx": 0,
+     "dy": 0,
+     "title": "Ancalimë at Hyarastorni",
+     "hint": "approx: grown weary of her mother's house, Ancalimë goes to the household of Hallatan of Hyarastorni"
+    }
+   ]
+  },
+  {
+   "id": "journey:last-days-of-numenor",
+   "title": "The last days of Númenor",
+   "travellers": "Ar-Pharazôn's Great Armament; Elendil, Isildur and Anárion with the Faithful",
+   "dates": "S.A. 3310 to 3319",
+   "hint": "the King's fleet sails into the West against the Ban of the Valar while the Faithful wait in their ships off the east coast and escape the Downfall (Akallabêth; Appendix A)",
+   "stages": [
+    {
+     "near": "TO01",
+     "dx": 0,
+     "dy": 0,
+     "title": "The Armament is prepared",
+     "hint": "Ar-Pharazôn, counselled by Sauron, builds the greatest fleet ever seen"
+    },
+    {
+     "near": "HA02",
+     "dx": -20,
+     "dy": 0,
+     "title": "The fleets gather in the west",
+     "hint": "approx: the fleets darken the sea upon the west of the land; no haven is named"
+    },
+    {
+     "near": "BA02",
+     "dx": -140,
+     "dy": -30,
+     "title": "Into the West",
+     "hint": "the Armament sails west toward Aman; the King sets foot on the shore of Aman"
+    },
+    {
+     "near": "HA01",
+     "dx": 0,
+     "dy": 0,
+     "title": "The Faithful at Rómenna",
+     "hint": "Elendil and his sons gather the Faithful, the seedling of Nimloth and the seven Seeing-stones, as Amandil bade before he sailed west alone"
+    },
+    {
+     "near": "BA01",
+     "dx": 70,
+     "dy": 10,
+     "title": "Nine ships off the east coast",
+     "hint": "the ships of Elendil lie off the coast and take no part in the King's war"
+    },
+    {
+     "near": "MT01",
+     "dx": 0,
+     "dy": 0,
+     "title": "The Downfall",
+     "hint": "the Meneltarma breaks out in fire and the land is swallowed by the sea"
+    },
+    {
+     "near": "BA01",
+     "dx": 330,
+     "dy": 40,
+     "title": "Driven east",
+     "hint": "a great wind drives Elendil's nine ships east toward Middle-earth"
+    }
+   ]
+  }
+ ],
+ "offmap_map": {
+  "Númenor": "RG06",
+  "Andúnië": "HA02"
+ },
+ "lore_links": {
+  "lore:land-numenor": [
+   "RG06",
+   "MT01"
+  ],
+  "lore:land-armenelos": [
+   "TO01",
+   "BU01",
+   "BU02"
+  ],
+  "lore:land-romenna": [
+   "HA01",
+   "BA01"
+  ],
+  "lore:land-andunie": [
+   "HA02",
+   "HI06"
+  ],
+  "lore:land-meneltarma": [
+   "MT01",
+   "BU07",
+   "VA01"
+  ]
+ },
+ "art": [
+  {
+   "key": "meneltarma",
+   "for": "MT01",
+   "subject": "A tall lone mountain rising from green rolling uplands, five long low ridges running out from its foot, a thin path winding up to a flat grassy summit under a clear morning sky.",
+   "artkey": "num-meneltarma",
+   "near": 0
+  },
+  {
+   "key": "armenelos",
+   "for": "TO01",
+   "subject": "A white city of towers and courts on a hill in open pasture-land, a slender white tree in a walled court, seen in the gold light of late afternoon.",
+   "artkey": "num-armenelos",
+   "near": 0
+  },
+  {
+   "key": "romenna",
+   "for": "HA01",
+   "subject": "A busy harbour town at the head of a long narrow sea-inlet, tall-masted ships at stone quays and green hills behind, at sunrise.",
+   "artkey": "num-romenna",
+   "near": 0
+  },
+  {
+   "key": "andunie",
+   "for": "HA02",
+   "subject": "A haven town climbing the steep slopes above a western bay, a tower on a nearby hill, the sea glowing at sunset.",
+   "artkey": "num-andunie",
+   "near": 0
+  },
+  {
+   "key": "eldalonde",
+   "for": "HA03",
+   "subject": "A green haven where a quiet river meets a wide bay, framed by evergreen fragrant trees in flower, a white ship with a swan prow at anchor, in soft morning light.",
+   "artkey": "num-eldalonde",
+   "near": 1
+  },
+  {
+   "key": "noirinan",
+   "for": "VA01",
+   "subject": "A narrow valley between two long ridges at the foot of a great mountain, with tombs cut into the rock at its head, in still grey dawn light.",
+   "artkey": "num-noirinan",
+   "near": 1
+  },
+  {
+   "key": "calmindon",
+   "for": "BU03",
+   "subject": "A small rocky isle in a bay with a tall slender light-tower, its beacon lit against the evening sky over calm water.",
+   "artkey": "num-calmindon",
+   "near": 1
+  },
+  {
+   "key": "numenoreans",
+   "for": "people:numenoreans",
+   "subject": "Tall mariners and shepherds in plain cloaks on a grassy shore beside a great ship, the mountain far off behind them, on a bright windy day.",
+   "artkey": "p-num-numenoreans",
+   "near": 1
+  },
+  {
+   "key": "faithful",
+   "for": "people:faithful-of-numenor",
+   "subject": "A small company of cloaked people loading a white sapling and covered chests onto ships at night in a quiet harbour, lanterns shaded.",
+   "artkey": "p-num-faithful",
+   "near": 1
+  },
+  {
+   "key": "downfall",
+   "for": "battle:downfall-of-numenor",
+   "subject": "A mountain breaking out in fire as a vast green wave rises over a white city and the land tilts into the sea, under a black storm sky.",
+   "artkey": "b-num-downfall",
+   "near": 1
+  },
+  {
+   "key": "burning-nimloth",
+   "for": "battle:burning-of-nimloth",
+   "subject": "A huge domed temple on a hill in a city at dusk, dark smoke pouring from the opening in its silver roof.",
+   "artkey": "b-num-burning-nimloth",
+   "near": 1
+  },
+  {
+   "key": "fruit-of-nimloth",
+   "for": "battle:isildur-and-the-fruit-of-nimloth",
+   "subject": "A walled moonlit court with a single white tree bearing pale fruit, guards with torches running across the flagstones at night.",
+   "artkey": "b-num-fruit-of-nimloth",
+   "near": 1
+  }
+ ],
+ "notes": [
+  "Promontory bearings are set 72 degrees apart (Forostar due north); the text gives only their names and the five-pointed shape, so exact bearings are judgment.",
+  "Sizes follow the Description: Mittalmar about 250 miles (about 380 to 400 km here) across; promontories 160 km wide and about 340 km long from the edge of the Mittalmar.",
+  "Meneltarma placed a little west of the exact middle of the Mittalmar ('near its centre'); Armenelos about 85 km east of it and Rómenna about 40 km beyond: the distances are not given.",
+  "Andúnië set in a bay cut into the western end of the Andustar; the texts say only that it lay on a bay of the west coast, with Oromet nearby. Its bay is drawn on the northern part of the end.",
+  "Ondosto placed in the south of the Forostar on the road between the Valley of the Tombs and Andúnië; the course of the road between named points is a guess.",
+  "Tower of Tar-Meneldur, House of the Lords of Andúnië, White House of Erendis and Hyarastorni are placed by judgment near the places the texts tie them to.",
+  "Several features carry descriptive names (Highlands of the Forostar, Highlands of the Andustar, Hills of Orrostar, Cliffs of Hyarnustar, Fir-woods of the Andustar, Forests of Hyarrostar, Vineyards, Grain-lands, Pastures, Marshes of the Siril, Northern bays of the Andustar): the texts describe them but give no proper name.",
+  "The first landing of the Edain is not located in the books; the journey brings them in from the east (they followed the Star from Middle-earth) to the Bay of Rómenna as a guess.",
+  "The fleets of the Great Armament are said to have darkened the sea 'upon the west of the land'; no haven is named, and the stage near Andúnië is a guess.",
+  "Persecution of the Faithful is anchored at Rómenna, where the Faithful dwelt; the burnings themselves were in the Temple at Armenelos.",
+  "Moriondë (an eastern haven) appears only in The Lost Road (History of Middle-earth) and is left off the map.",
+  "The Siril is given its source in Noirinan and its mouth in the southern bay between Hyarnustar and Hyarrostar, as the Description says it ran south; Nindamos is on the east side of its mouth."
+ ]
+}

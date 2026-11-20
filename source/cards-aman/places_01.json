@@ -1,0 +1,452 @@
+[
+ {
+  "id": "TO01",
+  "title": "Valmar",
+  "kind": "City of the Valar",
+  "tier": 1,
+  "blurb": "Valmar is the golden-gated city of the Valar, standing on the plain of Valinor.",
+  "book": "Valmar, also called Valimar, is the city of the Valar. It stands in the midst of the plain of Valinor, west of the Pelóri. It is a city of many bells, and their sound was famed through the land. The green mound Ezellohar, where the Two Trees grew, lies before its western gate. Near its golden gates is the Máhanaxar, the Ring of Doom, where the Valar sit in council.\n\nThe light of the Two Trees mingled over the city and the plain. When the Eldar came to Aman, the Vanyar loved this light most. In time they left Tirion and dwelt in Valinor, near the Valar.\n\nAfter the Trees died, the land lay in darkness, and the Valar sat long in mourning in the Ring of Doom. In the late First Age, Eärendil came to the halls of Valmar and spoke before the Valar for Elves and Men. The books do not give exact distances for Aman, so the position on this map is a model from the text.",
+  "names": {
+   "Other names": "Valimar",
+   "Meaning": "Quenya, roughly 'home of the Valar'"
+  },
+  "facts": {
+   "Region": "Valinor, on the central plain",
+   "Rulers": "The Valar, in council",
+   "Gate": "Western gate faces Ezellohar",
+   "Fate": "Remains in Valinor after the Trees die"
+  },
+  "related": [
+   "DO01",
+   "BU06",
+   "HI02",
+   "RG02",
+   "thing:two-trees",
+   "person:manwe",
+   "person:varda"
+  ],
+  "sources": [
+   "The Silmarillion, Valaquenta",
+   "The Silmarillion, Quenta Silmarillion chapters 1 and 8"
+  ],
+  "confidence": "medium",
+  "film": "",
+  "series": ""
+ },
+ {
+  "id": "TO02",
+  "title": "Tirion",
+  "kind": "Elven city on Túna",
+  "tier": 1,
+  "blurb": "Tirion is the white city of the Noldor and Vanyar, built on the green hill of Túna.",
+  "book": "Tirion upon Túna is the white city of the Elves in Aman. It stands on the crown of the green hill Túna, which the Valar raised inside the Calacirya, the one pass through the Pelóri. The light of the Two Trees flowed through the pass and lit the city. The Vanyar and the Noldor built it together. On the hill stood the tower Mindon Eldaliéva, whose lamp shone far out to sea.\n\nAfter the Vanyar moved to live near the Valar, the Noldor remained. Finwë ruled them there. Their craft grew great, and Fëanor made the Silmarils in Aman. In Tirion the quarrel between Fëanor and his half-brother Fingolfin became open. On the summit of Túna, Fëanor and his sons swore their Oath. Most of the Noldor then left the city to follow him. Finarfin, who turned back, later ruled the Noldor who stayed in Aman.\n\nWhen Eärendil came to Aman, the streets of Tirion were empty and silent. In the Second Age, the host of Ar-Pharazôn camped about Túna, which the Elves had left. The books name the city and the hill, but this map places them by judgment.",
+  "names": {
+   "Meaning": "Quenya, 'watch-tower'",
+   "Other names": "Tirion upon Túna"
+  },
+  "facts": {
+   "Region": "Eldamar, in the Calacirya",
+   "Built by": "Vanyar and Noldor",
+   "Lord": "Finwë of the Noldor",
+   "Fate": "Most Noldor left it in the Flight"
+  },
+  "related": [
+   "HI01",
+   "BU02",
+   "VA01",
+   "RG03",
+   "person:finwe",
+   "person:feanor",
+   "person:fingolfin",
+   "thing:silmarils"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion chapters 5, 6, 7 and 9",
+   "The Silmarillion, Akallabêth"
+  ],
+  "confidence": "high",
+  "film": "",
+  "series": ""
+ },
+ {
+  "id": "BU02",
+  "title": "Mindon Eldaliéva",
+  "kind": "Tower of Tirion",
+  "tier": 2,
+  "blurb": "Mindon Eldaliéva is the tall tower on the hill of Túna, with a lamp seen far over the sea.",
+  "book": "Mindon Eldaliéva is the great tower of Tirion. The Elves built it on the hill of Túna, and it overlooked the city, the pass, and the Bay of Eldamar. A lamp burned at its top. Its light was seen far out over the sea. The books call it the tower of Ingwë, the high king of the Vanyar, though the Vanyar later left Tirion.\n\nThe tower appears at the height of Tirion's glory, when the Elves of Túna lived in the light of the Trees. It stood beside the Galathilion, the White Tree of Tirion that Yavanna made in the likeness of Telperion. The books do not say what became of the tower after the Noldor left.",
+  "names": {
+   "Meaning": "Roughly 'Tower of the Elven-folk'"
+  },
+  "facts": {
+   "Region": "Tirion, on Túna",
+   "Feature": "A lamp seen far over the sea",
+   "Time": "Years of the Trees"
+  },
+  "related": [
+   "TO02",
+   "HI01",
+   "VA01",
+   "BA01",
+   "person:yavanna"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion chapter 5"
+  ],
+  "confidence": "medium",
+  "film": "",
+  "series": ""
+ },
+ {
+  "id": "HA01",
+  "title": "Alqualondë",
+  "kind": "Haven of the Teleri",
+  "tier": 1,
+  "blurb": "Alqualondë is the Haven of the Swans, the harbour city of the Teleri on the coast of Eldamar.",
+  "book": "Alqualondë, the Haven of the Swans, is the city of the Teleri on the shore of Eldamar. The Teleri built it after they left Tol Eressëa, with help from Ossë, who taught them the arts of the sea. Their ships were shaped like swans, and the harbour lay behind a great arch of rock carved by the waves. Its quays were lit by many lamps. The Teleri won many pearls from the sea, and their halls were made of pearl. Olwë was their king.\n\nIn Alqualondë the first Kinslaying took place. Fëanor asked the Teleri for their ships, and they refused. His host then attacked, killed many Teleri on the quays and took the white ships. Part of Fingolfin's host, coming behind, joined the fight without knowing its cause. The Doom of Mandos later fell on the Noldor for this deed. In the late First Age, Elwing came to the Teleri at the haven.\n\nThe books give no distances for the coast of Aman, so the position on this map is approximate.",
+  "names": {
+   "Meaning": "Quenya, 'Haven of the Swans'",
+   "Other names": "The Haven of the Swans"
+  },
+  "facts": {
+   "Region": "Eldamar, on the coast",
+   "People": "Teleri (Falmari)",
+   "King": "Olwë",
+   "Event": "The Kinslaying at Alqualondë"
+  },
+  "related": [
+   "RG03",
+   "IS01",
+   "thing:swan-ships",
+   "person:osse",
+   "person:feanor",
+   "person:elwing"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion chapters 5, 9 and 24"
+  ],
+  "confidence": "high",
+  "film": "",
+  "series": ""
+ },
+ {
+  "id": "HA02",
+  "title": "Avallónë",
+  "kind": "Haven of Tol Eressëa",
+  "tier": 2,
+  "blurb": "Avallónë is the Elven haven on the east shore of Tol Eressëa, known in the Second Age.",
+  "book": "Avallónë is the haven and city of the Eldar on the eastern shore of Tol Eressëa. The books name it only in tales of the Second Age, long after the Years of the Trees. It is shown on this map for those later tales.\n\nIn the Akallabêth, the Eldar of Tol Eressëa sail from Avallónë to Númenor. They bring gifts of birds, flowers and herbs to the Númenóreans. The Númenóreans were forbidden to sail west out of sight of their own shores, so they did not come there. The Akallabêth calls it the city nearest of all to Valinor. When Ar-Pharazôn sailed west in S.A. 3319, his fleet surrounded Avallónë and Tol Eressëa before it reached Aman.",
+  "names": {
+   "Note": "Called the city nearest to Valinor"
+  },
+  "facts": {
+   "Region": "East coast of Tol Eressëa",
+   "Time": "Second Age",
+   "People": "Eldar of Tol Eressëa",
+   "Event": "Surrounded by Ar-Pharazôn's fleet, S.A. 3319"
+  },
+  "related": [
+   "IS01",
+   "BA01",
+   "BA03",
+   "person:ar-pharazon",
+   "HI01"
+  ],
+  "sources": [
+   "The Silmarillion, Akallabêth"
+  ],
+  "confidence": "medium",
+  "film": "",
+  "series": ""
+ },
+ {
+  "id": "FT01",
+  "title": "Formenos",
+  "kind": "Fortress of Fëanor",
+  "tier": 2,
+  "blurb": "Formenos is the northern stronghold and treasury of Fëanor, where Finwë was slain.",
+  "book": "Formenos is the fortress that Fëanor built in the north of Valinor after the Valar sent him away from Tirion. The quarrel with Fingolfin had ended with his sword drawn in Tirion. He kept the Silmarils and many other gems in a strong treasury there. Finwë left Tirion to live with him, and Fëanor's sons lived there too.\n\nIn the Darkening of Valinor, Melkor came to Formenos with Ungoliant. He killed Finwë before the doors, took the Silmarils and the other treasure, and fled north. Finwë was the first of the Eldar to be slain in Aman. Fëanor then called the enemy Morgoth, the Black Foe of the World.\n\nThe books say only that Formenos lies in the north of Valinor, in the hills. This map places it by judgment.",
+  "names": {
+   "Meaning": "Quenya, 'northern fortress'"
+  },
+  "facts": {
+   "Region": "North of Valinor",
+   "Founder": "Fëanor",
+   "Lord's death": "Finwë, at the doors",
+   "Time": "Years of the Trees"
+  },
+  "related": [
+   "person:feanor",
+   "person:finwe",
+   "person:morgoth",
+   "person:ungoliant",
+   "thing:silmarils",
+   "battle:slaying-of-finwe",
+   "RG02"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion chapters 7 and 9"
+  ],
+  "confidence": "high",
+  "film": "",
+  "series": ""
+ },
+ {
+  "id": "BU01",
+  "title": "Ilmarin",
+  "kind": "Halls of Manwë and Varda",
+  "tier": 2,
+  "blurb": "Ilmarin is the high hall of Manwë and Varda on the summit of Taniquetil.",
+  "book": "Ilmarin is the dwelling of Manwë and Varda on the summit of Taniquetil, the highest mountain of the world. Manwë sits there on his throne and looks out over the world. When Varda is with him, his sight reaches farther than any other eyes. She then hears more clearly than any other ears. The books do not describe the halls in detail.\n\nSpirits in the shape of hawks and eagles fly to and from Manwë's halls and bring him news of the world. At the time of the great festival, the Valar and many of the Elves gathered in the halls of Manwë on Taniquetil. In that hour Melkor and Ungoliant struck the Trees.",
+  "names": {
+   "Meaning": "Roughly 'mansion of the high airs'",
+   "Other names": "Halls of Manwë and Varda"
+  },
+  "facts": {
+   "Region": "Summit of Taniquetil",
+   "Lord": "Manwë, with Varda",
+   "Mountain": "Taniquetil (Oiolossë)"
+  },
+  "related": [
+   "MT02",
+   "person:manwe",
+   "person:varda",
+   "RG02"
+  ],
+  "sources": [
+   "The Silmarillion, Valaquenta",
+   "The Silmarillion, Quenta Silmarillion chapters 1 and 8"
+  ],
+  "confidence": "medium",
+  "film": "",
+  "series": ""
+ },
+ {
+  "id": "BU03",
+  "title": "Halls of Mandos",
+  "kind": "Halls of Awaiting",
+  "tier": 2,
+  "blurb": "The Halls of Mandos hold the spirits of slain Elves in the far west of Valinor.",
+  "book": "The Halls of Mandos lie in the far west of Valinor, near the shore of the Outer Sea. They are the place of the Halls of Awaiting, where the spirits of slain Elves wait for a time. Mandos is their keeper and judge. His spouse is Vairë the Weaver, who weaves the tale of the world on her webs. Finwë went to the Halls after he was slain at Formenos.\n\nWhen Melkor was captured, the Valar held him in Mandos for three ages. Then they set him free. The books place the halls in the west but give no distances, so their place on this map is approximate.",
+  "names": {
+   "Other names": "Halls of Awaiting; Mandos is also called Námo"
+  },
+  "facts": {
+   "Region": "West Valinor, by the Outer Sea",
+   "Keeper": "Mandos (Námo)",
+   "Use": "Elves slain in the world wait here"
+  },
+  "related": [
+   "person:mandos",
+   "person:vaire",
+   "person:finwe",
+   "person:morgoth",
+   "person:nienna",
+   "RG02"
+  ],
+  "sources": [
+   "The Silmarillion, Valaquenta",
+   "The Silmarillion, Quenta Silmarillion chapter 3"
+  ],
+  "confidence": "medium",
+  "film": "",
+  "series": ""
+ },
+ {
+  "id": "BU04",
+  "title": "Halls of Nienna",
+  "kind": "Dwelling of Nienna",
+  "tier": 3,
+  "blurb": "The Halls of Nienna are the dwelling of the Vala of sorrow, in the far west of Aman.",
+  "book": "The Halls of Nienna lie in the far west of Valinor, at the very edge of the world. Her windows face outward, past the Walls of the World. Nienna mourns the griefs of Arda. She seldom comes to Valmar and goes more often to the Halls of Mandos, which are near her own. The books give no exact position, so the place on this map is approximate.",
+  "facts": {
+   "Region": "Far west of Valinor",
+   "Lady": "Nienna",
+   "Nearby": "Halls of Mandos"
+  },
+  "related": [
+   "person:nienna",
+   "person:mandos",
+   "BU03",
+   "RG02"
+  ],
+  "sources": [
+   "The Silmarillion, Valaquenta"
+  ],
+  "confidence": "medium",
+  "film": "",
+  "series": ""
+ },
+ {
+  "id": "BU05",
+  "title": "Mansions of Aulë",
+  "kind": "Dwelling of Aulë",
+  "tier": 3,
+  "blurb": "The Mansions of Aulë are the halls of the Smith of the Valar in Valinor.",
+  "book": "The Mansions of Aulë are the dwelling of Aulë the Smith in Valinor. His spouse is Yavanna. Aulë was a friend of the Noldor and taught them many crafts. The books do not give the place of his halls, so the position on this map is approximate.",
+  "facts": {
+   "Region": "Valinor",
+   "Lord": "Aulë",
+   "Spouse": "Yavanna"
+  },
+  "related": [
+   "person:aule",
+   "person:yavanna",
+   "RG02"
+  ],
+  "sources": [
+   "The Silmarillion, Valaquenta"
+  ],
+  "confidence": "low",
+  "film": "",
+  "series": ""
+ },
+ {
+  "id": "DO01",
+  "title": "Gates of Valmar",
+  "kind": "City gates",
+  "tier": 3,
+  "blurb": "The Gates of Valmar are the golden western gates of the city, facing the mound Ezellohar.",
+  "book": "The Gates of Valmar are the golden gates on the west side of the city. They face the green mound Ezellohar, where the Two Trees grew, and the Máhanaxar, the Ring of Doom, lies near. The Valar sat at council outside the gates, close to the light of the Trees.",
+  "facts": {
+   "Region": "West side of Valmar",
+   "Faces": "Ezellohar and the Two Trees",
+   "Nearby": "Máhanaxar"
+  },
+  "related": [
+   "TO01",
+   "HI02",
+   "BU06",
+   "thing:two-trees"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion chapter 1"
+  ],
+  "confidence": "medium",
+  "film": "",
+  "series": ""
+ },
+ {
+  "id": "BU06",
+  "title": "Máhanaxar",
+  "kind": "Ring of Doom",
+  "tier": 2,
+  "blurb": "The Máhanaxar is the Ring of Doom, where the Valar sit in council near Valmar.",
+  "book": "The Máhanaxar, or Ring of Doom, is the holy circle near the gates of Valmar where the Valar hold their councils. The thrones of the Valar stand there in a ring. It lies close to the mound Ezellohar and the light of the Two Trees.\n\nMelkor was tried here after he was taken to Aman as a prisoner. Fëanor also came here when the Valar summoned him after he drew his sword on Fingolfin. The books place the Ring of Doom near the golden gates of Valmar, but do not give its size.",
+  "names": {
+   "Meaning": "Quenya, 'Ring of Doom'"
+  },
+  "facts": {
+   "Region": "Valinor, near the gates of Valmar",
+   "Use": "Council and judgment of the Valar",
+   "Nearby": "Ezellohar and the Gates of Valmar"
+  },
+  "related": [
+   "DO01",
+   "TO01",
+   "HI02",
+   "person:feanor",
+   "person:manwe"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion chapters 1, 3 and 7"
+  ],
+  "confidence": "medium",
+  "film": "",
+  "series": ""
+ },
+ {
+  "id": "VA01",
+  "title": "Calacirya",
+  "kind": "Pass of Light",
+  "tier": 1,
+  "blurb": "The Calacirya is the one pass through the Pelóri, through which the Trees' light fell on Eldamar.",
+  "book": "The Calacirya is the great cleft in the Pelóri, the mountain wall of Aman. The Valar made it for the Eldar who had come over the sea, so that the light of the Two Trees could reach the shore. The pass opens on the Bay of Eldamar, and it is also called the Pass of Light.\n\nIn the middle of the pass the Valar raised the green hill Túna. The Vanyar and Noldor built Tirion on its crown.\n\nAfter the Flight of the Noldor, the Valar raised the Pelóri higher and made them sheer, and the Calacirya remained the one way through. The Noldor went down the pass to the shore on their way to exile. When Eärendil came, he walked up the pass alone to Tirion, found it empty, and then turned back. The books say nothing more about its exact width or length.",
+  "names": {
+   "Meaning": "Quenya, 'Cleft of Light'",
+   "Other names": "The Pass of Light"
+  },
+  "facts": {
+   "Region": "Pelóri, between Valinor and Eldamar",
+   "Feature": "The only cleft in the mountain wall",
+   "Hill": "Túna, with Tirion on its crown"
+  },
+  "related": [
+   "MT01",
+   "HI01",
+   "TO02",
+   "BA01",
+   "RG03",
+   "MT02"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion chapters 1, 5 and 24"
+  ],
+  "confidence": "high",
+  "film": "",
+  "series": ""
+ },
+ {
+  "id": "IS01",
+  "title": "Tol Eressëa",
+  "kind": "The Lonely Isle",
+  "tier": 1,
+  "blurb": "Tol Eressëa is the Lonely Isle in the Bay of Eldamar, where the Teleri long dwelt.",
+  "book": "Tol Eressëa, the Lonely Isle, lies in the Bay of Eldamar, off the coast of Aman. It was not always there. Ulmo uprooted a great island and drew it across the sea, carrying the Vanyar and the Noldor to Aman. Later he returned with the island for the Teleri. As they neared Aman, Ossë urged them to stay. At their prayer Ulmo halted the island, and Ossë rooted it in the bay.\n\nThe Teleri dwelt on Tol Eressëa for a long time. Ossë taught them the arts of the sea, and the light of the Trees reached them across the bay. Eventually they went to the coast and built Alqualondë.\n\nIn the Second Age, the haven Avallónë stood on its east shore. The Eldar of Tol Eressëa sailed from there to Númenor. In S.A. 3319 the fleet of Ar-Pharazôn surrounded the isle on its way to Aman. The books give no distances, so the position of the isle on this map is a model from the text.",
+  "names": {
+   "Meaning": "Quenya, 'the Lonely Isle'",
+   "Other names": "Eressëa; the Lonely Isle"
+  },
+  "facts": {
+   "Region": "Bay of Eldamar",
+   "Origin": "Island moved by Ulmo",
+   "Dwellers": "Teleri, in the Years of the Trees",
+   "Later haven": "Avallónë (Second Age)"
+  },
+  "related": [
+   "BA01",
+   "HA01",
+   "HA02",
+   "RG03",
+   "person:ulmo",
+   "person:osse",
+   "IS02"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion chapters 5 and 11",
+   "The Silmarillion, Akallabêth"
+  ],
+  "confidence": "high",
+  "film": "",
+  "series": ""
+ },
+ {
+  "id": "IS02",
+  "title": "Enchanted Isles",
+  "kind": "Chain of isles",
+  "tier": 2,
+  "blurb": "The Enchanted Isles are a chain of isles set in the Shadowy Seas after the Flight of the Noldor.",
+  "book": "The Enchanted Isles are a chain of isles in the Shadowy Seas, east of Tol Eressëa. The Valar made them after the Flight of the Noldor, when they hid Valinor from the world. The isles lie from north to south and bar the way to Aman. Mariners who came among them were caught in enchantment and sleep, and they could not go on.\n\nThey belong to a later time than the Years of the Trees: they did not exist when the Trees gave light. The name is English and comes from the books, and this map shows the isles for the later journeys. Eärendil passed through the Shadowy Seas and the isles on his voyage in Vingilot and escaped their power.",
+  "names": {
+   "Meaning": "English name from the books, not Quenya"
+  },
+  "facts": {
+   "Region": "Shadowy Seas, east of Tol Eressëa",
+   "Made by": "The Valar",
+   "Time": "After the Flight of the Noldor"
+  },
+  "related": [
+   "RG08",
+   "IS01",
+   "BA03",
+   "thing:vingilot",
+   "person:earendil"
+  ],
+  "sources": [
+   "The Silmarillion, Quenta Silmarillion chapters 11 and 24"
+  ],
+  "confidence": "medium",
+  "film": "",
+  "series": ""
+ }
+]

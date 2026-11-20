@@ -1,0 +1,39 @@
+id	name	layer	x_km_east	y_km_north	hint
+MT01	Pelóri	Mountains	1500	820	the Mountains of Aman, highest of the world: a curved wall near the east coast from north to south, pierced only by the Calacirya
+MT02	Taniquetil	Mountains	1587	1191	Oiolossë, Mount Everwhite: highest mountain of the world, on the borders of the sea; Ilmarin on its summit. South of the pass after the HoME maps
+MT03	Hyarmentir	Mountains	1604	331	highest mountain of the southern Pelóri, above Avathar; Melkor and Ungoliant climbed it to look on Valinor
+HI01	Túna	Hills	1554	1310	the green hill raised in the Calacirya; Tirion stands on its crown
+HI02	Ezellohar	Hills	850	1302	Corollairë, the green mound before the western gate of Valmar where the Two Trees grew
+LA01	Lórellin	Lakes	800.0	820.0	approx: the lake in the gardens of Lórien; Estë sleeps by day on the tree-grown isle in it
+LA02	Wells of Varda	Lakes	832.0	1250.0	approx: Varda's great vats of the dew of Telperion and the light of Laurelin, near the Trees; Ungoliant drank them
+FO01	Woods of Oromë	Forests	1379.4	475.0	the forests of the Huntsman in the south of Valinor, at the feet of Hyarmentir
+FO02	Gardens of Lórien	Forests	784.4	816.9	approx: the gardens of Irmo, fairest place in the world, with the lake Lórellin; placed south of Valmar
+TO01	Valmar	Towns	935	1314	Valimar of many bells, city of the Valar in the midst of the plain of Valinor
+TO02	Tirion	Towns	1553	1306	white city of the Vanyar and Noldor on the crown of Túna in the Calacirya
+BU02	Mindon Eldaliéva	Buildings	1546	1282	the tower of Ingwë in Tirion, whose lamp shone far out to sea
+HA01	Alqualondë	Harbors	1675	1452	the Haven of the Swans, city of the Teleri on the coast of Eldamar north of the Calacirya
+HA02	Avallónë	Harbors	1900	1300	haven of the Eldar on the east side of Tol Eressëa, facing the sea; of the Second Age (Akallabêth)
+FT01	Formenos	Fortresses	1255	2235	Fëanor's stronghold and treasury in the hills in the north of Valinor; Finwë was slain at its doors
+BU01	Ilmarin	Buildings	1588	1194	the halls of Manwë and Varda on the summit of Taniquetil
+BU03	Halls of Mandos	Buildings	305	1480	approx: the Halls of Awaiting in the west of Valinor by the shore of the Outer Sea
+BU04	Halls of Nienna	Buildings	272	1805	approx: halls west of West upon the borders of the world, near the Halls of Mandos
+BU05	Mansions of Aulë	Buildings	1020	1560	approx: the halls of the Smith of the Valar in Valinor; the text gives no place
+DO02	Door of Night	Doors_Gates	30	1320	approx: the door in the Walls of the Night beyond Ekkaia; the Ambarkanta (HoME IV) puts it in the far west, beyond the edge of this sheet; Morgoth was thrust through it into the Void after the War of Wrath (Silmarillion ch. 24)
+DO01	Gates of Valmar	Doors_Gates	905	1278	the golden gates of Valmar on its west side, facing Ezellohar and the Ring of Doom
+BU06	Máhanaxar	Buildings	900	1350	the Ring of Doom, where the Valar sat in council, near the golden gates of Valmar
+VA01	Calacirya	Valleys	1582	1320	the Pass of Light, the one cleft through the Pelóri, made for the Eldar; the light of the Trees flowed out through it
+IS01	Tol Eressëa	Islands	1872	1340	the Lonely Isle, ferry of the Eldar, rooted by Ulmo in the Bay of Eldamar
+IS02	Enchanted Isles	Islands	2140	1320	chain of isles set from north to south in the Shadowy Seas at the Hiding of Valinor (after the Flight of the Noldor)
+BA01	Bay of Eldamar	Bays	1760	1200	the great bay of Elvenhome east of the Calacirya, with Tol Eressëa in it
+BA02	Ekkaia	Bays	120	650	the Outer Sea that surrounds the world, west of Valinor
+BA03	Belegaer	Bays	2000	950	the Great Sea between Aman and Middle-earth; the Sundering Seas
+CA01	Caves of the Forgotten	Cave_entrances	1592	1270	approx: where Ar-Pharazôn and his warriors lie under the hills that fell on them about Túna (Second Age, Akallabêth)
+RG01	Aman	Region (realm)	640	2380	radius about 1100 km. the Blessed Realm, the Undying Lands in the West
+RG02	Valinor	Region (realm)	950	1700	radius about 620 km. land of the Valar west of the Pelóri, from the mountains to the Outer Sea
+RG03	Eldamar	Region (region)	1625	1395	radius about 110 km. Elvenhome: the coast and bay east of the Calacirya, with Tirion and Alqualondë
+RG04	Araman	Region (region)	1735	1980	radius about 200 km. cold waste between the Pelóri and the sea in the north; the Doom of Mandos was spoken here
+RG05	Avathar	Region (region)	1660	620	radius about 260 km. narrow dark land between the Pelóri and the sea in the south; Ungoliant dwelt in a ravine here
+RG06	Oiomúrë	Region (region)	1830	2400	radius about 80 km. region of mists on the coast of Araman near the Helcaraxë
+RG07	Helcaraxë	Region (region)	2140	2470	radius about 170 km. the Grinding Ice between Araman and Middle-earth; Fingolfin crossed it
+RG08	Shadowy Seas	Region (region)	2075	1320	radius about 260 km. dark seas east of Tol Eressëa, shadowed after the Hiding of Valinor (after the Flight of the Noldor)
+RG09	Pastures of Yavanna	Region (region)	1020	470	radius about 170 km. the fields of Yavanna in the south of Valinor, west of the woods of Oromë

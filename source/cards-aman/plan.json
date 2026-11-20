@@ -1,0 +1,558 @@
+{
+ "meta": {
+  "name": "Aman",
+  "age": "The Years of the Trees",
+  "sub": "The Blessed Realm while the Trees gave light",
+  "compass": [
+   125,
+   2250,
+   80
+  ],
+  "sea": [
+   [
+    "EKKAIA",
+    110,
+    1350,
+    40,
+    25,
+    -1.5708
+   ],
+   [
+    "BELEGAER",
+    2015,
+    200,
+    36,
+    22,
+    0.0
+   ]
+  ],
+  "orn": {
+   "border": 18,
+   "corner": 170,
+   "items": [
+    [
+     "swanship",
+     2010,
+     1200,
+     90
+    ],
+    [
+     "ship",
+     2100,
+     2120,
+     110
+    ],
+    [
+     "serpent",
+     120,
+     300,
+     150
+    ]
+   ],
+   "cartouche": [
+    2015,
+    620,
+    330
+   ]
+  }
+ },
+ "peoples": [
+  {
+   "id": "people:valar",
+   "title": "The Valar",
+   "hint": "the Powers of Arda who dwell in Valinor: Manwë and Varda on Taniquetil, Mandos and Nienna in the west, Lórien, Oromë and Yavanna in the south, Aulë; they meet in the Máhanaxar by Valmar",
+   "realms": [
+    "RG02",
+    "RG01"
+   ]
+  },
+  {
+   "id": "people:maiar-of-aman",
+   "title": "Maiar of Aman",
+   "hint": "lesser Ainur who serve the Valar: Eönwë, Ilmarë, Ossë and Uinen, Melian and Olórin before they went east; Tilion of the hunters of Oromë",
+   "realms": [
+    "RG02",
+    "RG01"
+   ]
+  },
+  {
+   "id": "people:vanyar",
+   "title": "Vanyar",
+   "hint": "the Fair Elves of Ingwë, first of the Eldar to reach Aman; they dwelt in Tirion and later went to the plain of Valinor and the slopes of Taniquetil",
+   "realms": [
+    "RG02",
+    "RG03"
+   ]
+  },
+  {
+   "id": "people:noldor-of-tirion",
+   "title": "Noldor of Tirion",
+   "hint": "the Deep Elves of Finwë in Tirion upon Túna, smiths and loremasters taught by Aulë; Fëanor made the Silmarils; most went into exile in the Flight of the Noldor",
+   "realms": [
+    "RG03"
+   ]
+  },
+  {
+   "id": "people:teleri-of-alqualonde",
+   "title": "Teleri of Alqualondë",
+   "hint": "the Sea-elves of Olwë (Falmari), long on Tol Eressëa, then in the Haven of the Swans on the coast of Eldamar; their ships were taken in the Kinslaying",
+   "realms": [
+    "RG03"
+   ]
+  }
+ ],
+ "battles": [
+  {
+   "id": "battle:darkening-of-valinor",
+   "title": "The Darkening of Valinor",
+   "date": "Years of the Trees (Valian Year 1495 in the Annals of Aman)",
+   "near": "HI02",
+   "dx": 0,
+   "dy": 0,
+   "tier": 1,
+   "hint": "during the festival on Taniquetil Melkor and Ungoliant came down from Hyarmentir across the plain; Melkor struck the Two Trees on Ezellohar, Ungoliant drank their sap and the Wells of Varda, and the Unlight fell on Valinor. Silmarillion ch. 8; Annals of Aman (HoME X)"
+  },
+  {
+   "id": "battle:slaying-of-finwe",
+   "title": "The slaying of Finwë at Formenos",
+   "date": "Years of the Trees (Valian Year 1495 in the Annals of Aman)",
+   "near": "FT01",
+   "dx": 0,
+   "dy": 0,
+   "tier": 2,
+   "hint": "Melkor came to Formenos in the Darkening, slew Finwë before the doors, took the Silmarils and the treasury, and fled north. Silmarillion ch. 8-9"
+  },
+  {
+   "id": "battle:kinslaying-at-alqualonde",
+   "title": "The Kinslaying at Alqualondë",
+   "date": "Years of the Trees (Valian Year 1495-96 in the Annals of Aman)",
+   "near": "HA01",
+   "dx": 0,
+   "dy": 0,
+   "tier": 1,
+   "hint": "the first Kinslaying: the host of Fëanor fought the Teleri on the quays and the haven arch and took the white ships; Fingolfin's host joined unknowing. Silmarillion ch. 9"
+  },
+  {
+   "id": "battle:downfall-of-ar-pharazon",
+   "title": "The landing and downfall of Ar-Pharazôn",
+   "date": "Second Age 3319",
+   "near": "HI01",
+   "dx": 45,
+   "dy": -15,
+   "tier": 2,
+   "hint": "Second Age: the Númenórean fleet passed Avallónë and landed on the shore of Aman; the host camped about Túna, which the Eldar had left; the Valar called on Ilúvatar, the land fell on the host and they lie in the Caves of the Forgotten. Akallabêth"
+  }
+ ],
+ "journeys": [
+  {
+   "id": "journey:coming-of-the-eldar",
+   "title": "The Coming of the Eldar to Aman",
+   "travellers": "Vanyar of Ingwë, Noldor of Finwë, Teleri of Olwë",
+   "dates": "Years of the Trees",
+   "hint": "Ulmo ferried the Vanyar and Noldor over the sea on an island; the Valar opened the Calacirya and raised Túna for them; the Teleri came later on the isle and at last sailed to Alqualondë. Silmarillion ch. 3 and 5",
+   "stages": [
+    {
+     "near": "BA03",
+     "dx": 250,
+     "dy": 250,
+     "title": "Over the Great Sea",
+     "hint": "the Vanyar and Noldor are drawn over Belegaer on the island that Ulmo uprooted"
+    },
+    {
+     "near": "BA01",
+     "dx": 0,
+     "dy": 0,
+     "title": "Landing in the Bay of Eldamar",
+     "hint": "they come to the long shores beneath the Pelóri and enter Aman"
+    },
+    {
+     "near": "VA01",
+     "dx": 0,
+     "dy": 0,
+     "title": "The Pass of Light opened",
+     "hint": "the Valar make the cleft in the mountains so that the light of the Trees reaches the Elves by the shore"
+    },
+    {
+     "near": "TO02",
+     "dx": 0,
+     "dy": 0,
+     "title": "Tirion upon Túna",
+     "hint": "on the green hill in the pass the Elves build Tirion and the tower Mindon Eldaliéva"
+    },
+    {
+     "near": "TO01",
+     "dx": 0,
+     "dy": 0,
+     "title": "Valmar and the Trees",
+     "hint": "the Vanyar come to love the light of the Trees; later they go to dwell on the plain of Valinor"
+    },
+    {
+     "near": "IS01",
+     "dx": 0,
+     "dy": 0,
+     "title": "The Teleri on the Lonely Isle",
+     "hint": "Ulmo brings the Teleri on the same isle; at Ossë's prayer it is rooted in the Bay of Eldamar, and they dwell there long"
+    },
+    {
+     "near": "HA01",
+     "dx": 0,
+     "dy": 0,
+     "title": "The Haven of the Swans",
+     "hint": "taught by Ossë, the Teleri sail in swan-drawn ships to the coast and build Alqualondë"
+    }
+   ]
+  },
+  {
+   "id": "journey:darkening-of-valinor",
+   "title": "Melkor and Ungoliant: the Darkening of Valinor",
+   "travellers": "Melkor and Ungoliant",
+   "dates": "Years of the Trees (Valian Year 1495 in the Annals of Aman)",
+   "hint": "Melkor went secretly from the north to Avathar, came with Ungoliant over Hyarmentir to the Trees, robbed Formenos and fled north over the Grinding Ice. Silmarillion ch. 7-9",
+   "stages": [
+    {
+     "near": "RG04",
+     "dx": 0,
+     "dy": 0,
+     "title": "Seen in the north",
+     "hint": "after Formenos turns him away, Melkor is thought to have gone north toward Araman and his old lands"
+    },
+    {
+     "near": "RG05",
+     "dx": 0,
+     "dy": -150,
+     "title": "Avathar",
+     "hint": "he goes secretly south to the dark land between the mountains and the sea and finds Ungoliant in her ravine"
+    },
+    {
+     "near": "MT03",
+     "dx": 0,
+     "dy": 0,
+     "title": "The climb of Hyarmentir",
+     "hint": "in a cloak of Unlight they climb the highest mountain of the south and look down on Valinor at the festival"
+    },
+    {
+     "near": "FO01",
+     "dx": 0,
+     "dy": 0,
+     "title": "Down the western slopes",
+     "hint": "they come down past the woods of Oromë and the fields of Yavanna across the plain"
+    },
+    {
+     "near": "HI02",
+     "dx": 0,
+     "dy": 0,
+     "title": "The death of the Trees",
+     "hint": "Melkor strikes the Trees on Ezellohar; Ungoliant drinks their sap and the Wells of Varda"
+    },
+    {
+     "near": "FT01",
+     "dx": 0,
+     "dy": 0,
+     "title": "Formenos robbed",
+     "hint": "Melkor slays Finwë and takes the Silmarils"
+    },
+    {
+     "near": "RG04",
+     "dx": 30,
+     "dy": 250,
+     "title": "North through Araman",
+     "hint": "pursued in vain by Tulkas and Oromë, he flees north by the mists of Oiomúrë"
+    },
+    {
+     "near": "RG07",
+     "dx": 0,
+     "dy": 0,
+     "title": "Over the Grinding Ice",
+     "hint": "Melkor and Ungoliant pass the Helcaraxë into Middle-earth"
+    }
+   ]
+  },
+  {
+   "id": "journey:flight-of-the-noldor",
+   "title": "The Flight of the Noldor",
+   "travellers": "Fëanor and his sons; Fingolfin, Finarfin and their hosts",
+   "dates": "Years of the Trees (Valian Year 1495-97 in the Annals of Aman)",
+   "hint": "the Oath in Tirion, the Kinslaying at Alqualondë, the Doom of Mandos in Araman, the ships of Fëanor and the crossing of the Helcaraxë by Fingolfin. Silmarillion ch. 9",
+   "stages": [
+    {
+     "near": "TO02",
+     "dx": 0,
+     "dy": 0,
+     "title": "The Oath in Tirion",
+     "hint": "by torchlight on the summit of Túna Fëanor and his sons swear the Oath; the Noldor go out of Tirion"
+    },
+    {
+     "near": "VA01",
+     "dx": 0,
+     "dy": 0,
+     "title": "Down the Calacirya",
+     "hint": "the host goes down through the pass to the coast of Eldamar"
+    },
+    {
+     "near": "HA01",
+     "dx": 0,
+     "dy": 0,
+     "title": "Kinslaying and the ships taken",
+     "hint": "Fëanor's host slays the Teleri at Alqualondë and seizes the white ships"
+    },
+    {
+     "near": "RG03",
+     "dx": 80,
+     "dy": 220,
+     "title": "North along the coast",
+     "hint": "the ships sail along the coast and the rest go by land, through storm sent by Uinen"
+    },
+    {
+     "near": "RG04",
+     "dx": 60,
+     "dy": -100,
+     "title": "The Doom of Mandos",
+     "hint": "on a high rock above the shore of Araman a dark figure speaks the Doom; Finarfin turns back to Valinor"
+    },
+    {
+     "near": "RG06",
+     "dx": 0,
+     "dy": 0,
+     "title": "Fëanor sails away",
+     "hint": "from the north of Araman Fëanor takes the ships over the strait to Losgar and leaves Fingolfin behind"
+    },
+    {
+     "near": "RG07",
+     "dx": 0,
+     "dy": 0,
+     "title": "The Helcaraxë",
+     "hint": "Fingolfin leads his host over the Grinding Ice to Middle-earth; Elenwë is lost"
+    }
+   ]
+  },
+  {
+   "id": "journey:voyage-of-earendil",
+   "title": "The Voyage of Eärendil",
+   "travellers": "Eärendil and Elwing with Falathar, Erellont and Aerandir",
+   "dates": "Late First Age, before the War of Wrath",
+   "hint": "Vingilot came through the Shadowy Seas and the Enchanted Isles, past Tol Eressëa, to the Bay of Eldamar; Eärendil walked in empty Tirion and was called before the Valar. Silmarillion ch. 24",
+   "stages": [
+    {
+     "near": "RG08",
+     "dx": 150,
+     "dy": -350,
+     "title": "Out of the east",
+     "hint": "Vingilot, with the Silmaril on Elwing's brow, sails west from the Havens of Sirion"
+    },
+    {
+     "near": "IS02",
+     "dx": 0,
+     "dy": 0,
+     "title": "Past the Enchanted Isles",
+     "hint": "they pass the isles and escape their enchantment"
+    },
+    {
+     "near": "IS01",
+     "dx": 150,
+     "dy": 0,
+     "title": "The Shadowy Seas",
+     "hint": "they cross the dark waters and see the Lonely Isle but do not tarry"
+    },
+    {
+     "near": "BA01",
+     "dx": 0,
+     "dy": 0,
+     "title": "Anchor in the Bay of Eldamar",
+     "hint": "the Teleri see the ship come from the east; Eärendil goes ashore alone"
+    },
+    {
+     "near": "VA01",
+     "dx": 0,
+     "dy": 0,
+     "title": "Up the Calacirya",
+     "hint": "he walks up into the Pass of Light"
+    },
+    {
+     "near": "TO02",
+     "dx": 0,
+     "dy": 0,
+     "title": "Empty Tirion",
+     "hint": "the streets are empty, for the Elves are at the festival in Valmar; he turns back to the shore"
+    },
+    {
+     "near": "HA01",
+     "dx": 0,
+     "dy": 0,
+     "title": "Elwing at Alqualondë",
+     "hint": "Elwing goes to the Teleri at the Haven of the Swans"
+    },
+    {
+     "near": "TO01",
+     "dx": 0,
+     "dy": 0,
+     "title": "Before the Valar",
+     "hint": "summoned by Eönwë, Eärendil speaks for Elves and Men in Valmar; Vingilot is hallowed and set in the sky"
+    }
+   ]
+  }
+ ],
+ "offmap_map": {
+  "Valinor": "RG02",
+  "Halls of Mandos": "BU03",
+  "Formenos": "FT01",
+  "Taniquetil": "MT02",
+  "Gardens of Lórien": "FO02",
+  "Alqualondë": "HA01",
+  "Western sea": "BA03",
+  "The Outer Sea": "BA02",
+  "Ezellohar": "HI02",
+  "Araman": "RG04",
+  "Tol Eressëa": "IS01",
+  "Aman": "RG01",
+  "The Western Sea": "BA03",
+  "Tirion": "TO02",
+  "Helcaraxë": "RG07",
+  "The West": "RG01",
+  "Sea of the West": "BA03",
+  "Avathar": "RG05",
+  "Eressëa": "IS01"
+ },
+ "lore_links": {
+  "lore:land-aman": [
+   "RG01",
+   "RG02"
+  ],
+  "lore:land-valinor": [
+   "RG02",
+   "TO01"
+  ],
+  "lore:land-taniquetil-valmar": [
+   "MT02",
+   "BU01",
+   "TO01"
+  ],
+  "lore:land-tirion": [
+   "TO02",
+   "HI01",
+   "BU02"
+  ],
+  "lore:land-alqualonde": [
+   "HA01"
+  ],
+  "lore:land-tol-eressea": [
+   "IS01",
+   "HA02"
+  ],
+  "lore:land-pelori-calacirya": [
+   "MT01",
+   "VA01"
+  ],
+  "lore:land-helcaraxe": [
+   "RG07",
+   "RG04"
+  ],
+  "lore:land-straight-road": [
+   "HA02",
+   "BA03"
+  ],
+  "lore:land-void-doors-night": [
+   "DO02",
+   "BA02"
+  ]
+ },
+ "art": [
+  {
+   "key": "taniquetil",
+   "for": "MT02",
+   "subject": "A vast snow-white peak rising above a wall of sheer mountains near a calm sea, with pale halls on its summit lit by silver and golden light, seen from the shore at dusk.",
+   "artkey": "ama-taniquetil",
+   "near": 0
+  },
+  {
+   "key": "tirion",
+   "for": "TO02",
+   "subject": "A white walled city with a tall slender tower on a green hill inside a deep mountain cleft, golden light pouring through the pass behind it toward the sea, in the evening.",
+   "artkey": "ama-tirion",
+   "near": 0
+  },
+  {
+   "key": "alqualonde",
+   "for": "HA01",
+   "subject": "A haven of white quays and pearl-strewn beaches behind a great arch of sea-carved rock, swan-prowed ships at anchor, under bright stars.",
+   "artkey": "ama-alqualonde",
+   "near": 0
+  },
+  {
+   "key": "ezellohar",
+   "for": "HI02",
+   "subject": "A green mound on a wide level plain where a silver tree and a golden tree shed mingled light, beside the bell-towers of a domed city, at the hour when their lights blend.",
+   "artkey": "ama-ezellohar",
+   "near": 0
+  },
+  {
+   "key": "toleressea",
+   "for": "IS01",
+   "subject": "A long green island in a wide bay, white haven towers on its eastern shore facing the open sea, high mountains on the far mainland behind, in morning light.",
+   "artkey": "ama-toleressea",
+   "near": 1
+  },
+  {
+   "key": "lorien",
+   "for": "FO02",
+   "subject": "Quiet gardens of willows and fountains around a still lake with a small tree-grown isle, soft silver light and mist, at twilight.",
+   "artkey": "ama-lorien",
+   "near": 1
+  },
+  {
+   "key": "araman",
+   "for": "RG04",
+   "subject": "A cold, barren coastal waste under a dark sky, black mountains on one side and grey sea with floating ice and drifting mist on the other.",
+   "artkey": "r-ama-araman",
+   "near": 1
+  },
+  {
+   "key": "noldor",
+   "for": "people:noldor-of-tirion",
+   "subject": "Elven smiths and craftsmen at work in a lamp-lit stone workshop in a white city, gems and metal tools on the benches, golden light at the windows.",
+   "artkey": "p-ama-noldor",
+   "near": 1
+  },
+  {
+   "key": "teleri",
+   "for": "people:teleri-of-alqualonde",
+   "subject": "Sea-elves on a starlit beach launching white ships shaped like swans, with gulls overhead and gentle waves.",
+   "artkey": "p-ama-teleri",
+   "near": 1
+  },
+  {
+   "key": "darkening",
+   "for": "battle:darkening-of-valinor",
+   "subject": "A spreading cloud of black darkness swallowing the light of two great trees on a mound in a plain, the land beyond falling into shadow, seen from far off.",
+   "artkey": "b-ama-darkening",
+   "near": 1
+  },
+  {
+   "key": "kinslaying",
+   "for": "battle:kinslaying-at-alqualonde",
+   "subject": "Torchlit fighting on white stone quays under a sea-arch, ships pulling away from the harbour, smoke over the water, at night.",
+   "artkey": "b-ama-kinslaying",
+   "near": 1
+  },
+  {
+   "key": "downfall",
+   "for": "battle:downfall-of-ar-pharazon",
+   "subject": "A great armoured host camped around a green hill below towering mountains, as the cliffs above begin to collapse onto them, under a stormy sky.",
+   "artkey": "b-ama-downfall",
+   "near": 1
+  }
+ ],
+ "notes": [
+  "Tolkien drew no detailed map of Aman: every position on this sheet is a model from the text, and the scale (about 1,300 km from the Outer Sea to the Pelóri) is a judgment; the texts give no distances.",
+  "Taniquetil is put just south of the Calacirya, on the sea side of the wall, following the HoME (Ambarkanta) maps; the Silmarillion only says it is the highest peak and stands on the borders of the sea.",
+  "The Pelóri run off the north and south edges of the sheet; the Silmarillion says they were raised sheer east, north and south after the Darkening. How Melkor passed from Formenos to Araman is not told; the sheet leaves the wall unbroken except for the Calacirya.",
+  "Woods of Oromë and Pastures of Yavanna are placed in the south below Hyarmentir as the Silmarillion (ch. 8) describes; the Gardens of Lórien, the Lórellin and the Wells of Varda are approx. placements (Lórien put south of Valmar, near the woods where Tilion rested).",
+  "Halls of Mandos and Halls of Nienna: the texts put them in the west of Valinor by the Outer Sea; their north-south position is a guess.",
+  "Mansions of Aulë: the texts give no position; placed approx. north-east of Valmar.",
+  "Caves of the Forgotten: the Akallabêth says the host camped about Túna and was buried under falling hills; placed approx. just east of Túna, and they are of the Second Age.",
+  "Tower of Elwing: the Silmarillion says only that it was built northward upon the borders of the Sundering Seas; placed approx. on the coast north of Alqualondë. The name is descriptive, not a Tolkien name.",
+  "Avallónë, the Enchanted Isles and the Shadowy Seas are not of the time of the living Trees: Avallónë is of the Second Age; the isles and the shadow came with the Hiding of Valinor after the Flight of the Noldor. They are shown for the later journeys.",
+  "Oiomúrë (region of mists near the Helcaraxë) is from the Silmarillion ch. 9 and Morgoth's Ring; its extent is a guess.",
+  "The three streams on the plain are unnamed decoration; the texts name no river in Aman.",
+  "Dates in 'Valian Years' come from the Annals of Aman (HoME X), not from the published Silmarillion."
+ ]
+}

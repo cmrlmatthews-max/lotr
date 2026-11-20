@@ -1,0 +1,175 @@
+{
+ "person:elros": [
+  {
+   "id": "TO01",
+   "role": "ruled",
+   "note": "Founds Armenelos as the royal city and rules Númenor from it as the first king."
+  },
+  {
+   "id": "GR01",
+   "role": "buried",
+   "note": "Is laid to rest in the royal tombs near the Meneltarma, as were the later kings."
+  }
+ ],
+ "person:tar-aldarion": [
+  {
+   "id": "HA01",
+   "role": "other",
+   "note": "Sails from this eastern haven with the Guild of Venturers on his voyages to Middle-earth."
+  },
+  {
+   "id": "FO01",
+   "role": "other",
+   "note": "Plants great woods in the south-east to supply timber for his ships."
+  },
+  {
+   "id": "BU08",
+   "role": "made",
+   "note": "Builds the White House in Emerië as a home for Erendis."
+  },
+  {
+   "id": "BU03",
+   "role": "made",
+   "note": "Builds the Light-tower Calmindon on the isle of Tol Uinen."
+  },
+  {
+   "id": "TO01",
+   "role": "ruled",
+   "note": "Takes the sceptre in S.A. 883 and reigns from Armenelos until S.A. 1075."
+  }
+ ],
+ "person:erendis": [
+  {
+   "id": "RG08",
+   "role": "lived",
+   "note": "Leaves Armenelos and lives in Emerië, a land of sheep-pastures, apart from Aldarion."
+  },
+  {
+   "id": "BU08",
+   "role": "lived",
+   "note": "Lives in the White House that Aldarion built, later apart from him."
+  },
+  {
+   "id": "TO01",
+   "role": "lived",
+   "note": "Comes to the court at Armenelos, where she is betrothed and wed to Aldarion."
+  }
+ ],
+ "person:tar-ancalime": [
+  {
+   "id": "BU08",
+   "role": "lived",
+   "note": "Is raised by Erendis in her home in Emerië."
+  },
+  {
+   "id": "RG10",
+   "role": "lived",
+   "note": "Goes for a time to the household of Hallatan, her father's kinsman, at Hyarastorni."
+  },
+  {
+   "id": "TO01",
+   "role": "ruled",
+   "note": "Becomes the first ruling queen of Númenor in S.A. 1075 and rules from Armenelos."
+  }
+ ],
+ "person:tar-palantir": [
+  {
+   "id": "TO01",
+   "role": "ruled",
+   "note": "Reigns from Armenelos from S.A. 3177 and seeks to restore the friendship with the Valar."
+  }
+ ],
+ "person:tar-miriel": [
+  {
+   "id": "TO01",
+   "role": "other",
+   "note": "Is forced to wed Ar-Pharazôn at Armenelos and is queen there until the Downfall."
+  }
+ ],
+ "person:ar-pharazon": [
+  {
+   "id": "TO01",
+   "role": "ruled",
+   "note": "Seizes the sceptre in S.A. 3255 and rules from Armenelos."
+  },
+  {
+   "id": "BU01",
+   "role": "other",
+   "note": "Has the White Tree Nimloth cut down at the urging of Sauron."
+  },
+  {
+   "id": "BU02",
+   "role": "other",
+   "note": "Worships Melkor in the great temple raised by Sauron."
+  }
+ ],
+ "person:sauron": [
+  {
+   "id": "TO01",
+   "role": "other",
+   "note": "Is brought to Númenor as a hostage and wins the trust of Ar-Pharazôn."
+  },
+  {
+   "id": "BU02",
+   "role": "made",
+   "note": "Has the great temple raised on the hill in the midst of Armenelos."
+  }
+ ],
+ "person:amandil": [
+  {
+   "id": "HA02",
+   "role": "ruled",
+   "note": "Holds the title of Lord of Andúnië, the last of that line, and leads the Faithful."
+  },
+  {
+   "id": "HA01",
+   "role": "lived",
+   "note": "Dwells at Rómenna in the last days and sails from the east coast into the West alone."
+  }
+ ],
+ "person:elendil": [
+  {
+   "id": "HA01",
+   "role": "lived",
+   "note": "Dwells among the Faithful at Rómenna and readies ships before the Downfall."
+  }
+ ],
+ "person:isildur": [
+  {
+   "id": "BU01",
+   "role": "other",
+   "note": "Takes a fruit of the White Tree by night before it is felled and is wounded."
+  },
+  {
+   "id": "HA01",
+   "role": "travelled",
+   "note": "Waits with the ships of the Faithful at Rómenna before the Downfall."
+  }
+ ],
+ "person:anarion": [
+  {
+   "id": "HA01",
+   "role": "lived",
+   "note": "Lives among the Faithful at Rómenna with Elendil and Isildur."
+  }
+ ],
+ "thing:nimloth": [
+  {
+   "id": "BU01",
+   "role": "other",
+   "note": "Grows in the courts of the King's House at Armenelos, held sacred by the kings."
+  },
+  {
+   "id": "BU02",
+   "role": "destroyed",
+   "note": "Is felled by order of Ar-Pharazôn and burned in the temple."
+  }
+ ],
+ "thing:sceptre-of-annuminas": [
+  {
+   "id": "HA02",
+   "role": "kept",
+   "note": "Is the token of the Lords of Andúnië, who were of the line of Elros."
+  }
+ ]
+}

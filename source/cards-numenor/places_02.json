@@ -1,0 +1,571 @@
+[
+ {
+  "id": "BU08",
+  "title": "White House of Erendis",
+  "kind": "House in Emerië",
+  "tier": 1,
+  "blurb": "The house that Aldarion built for Erendis in the sheep-lands of Emerië, where she later lived apart from him.",
+  "book": "Erendis came of a family of the Westlands, but she loved the sheep-lands of Emerië in the Mittalmar. Tar-Aldarion built a white house for her there. The name White House is used on this map. The books do not give the house an exact place, so its position here is approximate.\n\nAldarion was Lord of the Ships and the Havens, and he spent long years at sea. Erendis grew bitter at his absences. While their daughter Ancalimë was still a small child, Erendis left Armenelos for the house in Emerië and took the girl with her. When Aldarion came home from a long voyage, he rode to the house. Erendis met him at the door and would not take him back. The two never mended the breach.\n\nErendis raised Ancalimë in the house and taught her to distrust men. Ancalimë later became the first ruling Queen of Númenor, as Tar-Ancalimë. The tale does not say what became of the house itself. It lay in the Mittalmar when the isle sank in S.A. 3319.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "The name White House is a label used on this map",
+   "Meaning": "Home built for Erendis"
+  },
+  "facts": {
+   "Region": "Emerië, south-west Mittalmar",
+   "People": "Erendis, Aldarion, Ancalimë",
+   "Built by": "Tar-Aldarion, for Erendis",
+   "Fate": "Lost with the isle, S.A. 3319"
+  },
+  "related": [
+   "RG08",
+   "person:erendis",
+   "person:tar-aldarion",
+   "person:tar-ancalime",
+   "FI03",
+   "RG06"
+  ],
+  "sources": [
+   "Unfinished Tales, 'Aldarion and Erendis'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FI01",
+  "title": "Vineyards of Hyarnustar",
+  "kind": "Wine-growing lands",
+  "tier": 3,
+  "blurb": "The vine-lands in the east and south of the Hyarnustar, the south-western promontory of Númenor.",
+  "book": "The name is a description made for this map, not a name from the books. The books say that vines grew in the Hyarnustar, the south-western land of the isle. Its eastern and southern parts were the vine-growing lands. Its western end rose into mountains that ended in great sea-cliffs. The position on this map is approximate.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "Descriptive name from this map"
+  },
+  "facts": {
+   "Region": "Hyarnustar",
+   "Use": "Vine-growing",
+   "Position": "Approximate"
+  },
+  "related": [
+   "RG03",
+   "MT04"
+  ],
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FI03",
+  "title": "Pastures of the Mittalmar",
+  "kind": "Grazing lands",
+  "tier": 3,
+  "blurb": "The raised grass-lands of the Inlands, the chief sheep and cattle country of Númenor.",
+  "book": "The name is a description made for this map, not a name from the books. The Mittalmar is the central highland of the isle, a wide upland around the Meneltarma. Its grass-lands fed flocks and herds, and its shepherds are named in the tale of Aldarion and Erendis. Emerië in the south-west was a famous place for sheep. The position on this map is approximate.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "Descriptive name from this map"
+  },
+  "facts": {
+   "Region": "Mittalmar",
+   "Use": "Sheep and cattle pasture",
+   "Position": "Approximate"
+  },
+  "related": [
+   "RG06",
+   "RG08",
+   "MT01"
+  ],
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'",
+   "Unfinished Tales, 'Aldarion and Erendis'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FI02",
+  "title": "Grain-lands of Orrostar",
+  "kind": "Farming lands",
+  "tier": 3,
+  "blurb": "The inner Orrostar, a cool eastern land that was good for growing grain.",
+  "book": "The name is a description made for this map, not a name from the books. The Orrostar is the eastern promontory of the isle. Its climate is cooler than in the south, and its inner lands were good for grain. The books give no boundaries for these fields. The position on this map is approximate.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "Descriptive name from this map"
+  },
+  "facts": {
+   "Region": "Orrostar",
+   "Use": "Grain-growing",
+   "Position": "Approximate"
+  },
+  "related": [
+   "RG05",
+   "HI08"
+  ],
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "MT01",
+  "title": "Meneltarma",
+  "kind": "Holy mountain",
+  "tier": 1,
+  "blurb": "The Pillar of Heaven, the tall mountain at the heart of Númenor, with the Hallow of Eru on its summit.",
+  "book": "The Meneltarma stands near the middle of Númenor, in the Mittalmar. Its name means Pillar of Heaven. It was the holiest place of the isle. The wide summit is flat and open, and the Númenóreans called it the Hallow of Eru. It had no roof and no altar, and it was set apart for Eru Ilúvatar alone.\n\nFive long low ridges, the Tarmasundar, run out from its foot toward the five promontories of the isle. The valley of Noirinan lies at its southern foot, and the kings and queens were buried there. Three times each year, at the Erukyermë, the Erulaitalë and the Eruhantalë, the King climbed to the Hallow and prayed for his people.\n\nUnder the later kings the prayers were neglected. Then Sauron taught the King to turn to Melkor, and the Hallow stood empty. When Ar-Pharazôn landed in Aman, Eru changed the world. The Meneltarma burst into fire, and the whole isle sank in S.A. 3319. The books say that Tar-Míriel went toward the Hallow and was lost.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Pillar of Heaven (Quenya)",
+   "Other names": "Hallow of Eru (the summit)"
+  },
+  "facts": {
+   "Region": "Mittalmar, centre of the isle",
+   "Summit": "Hallow of Eru",
+   "Rites": "The Three Prayers, led by the King",
+   "Fate": "Burst into fire, then sank, S.A. 3319"
+  },
+  "related": [
+   "HI01",
+   "VA01",
+   "GR01",
+   "BU07",
+   "RD02",
+   "RG06",
+   "person:tar-miriel",
+   "person:ar-pharazon"
+  ],
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'",
+   "The Silmarillion, Akallabêth"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "HI01",
+  "title": "Tarmasundar",
+  "kind": "Ridges",
+  "tier": 2,
+  "blurb": "The Roots of the Pillar, five long low ridges that run out from the Meneltarma toward the promontories.",
+  "book": "The Tarmasundar are the roots of the Meneltarma. They are five long, low ridges that spread out from the foot of the mountain like the rays of a star. Each ridge points toward one of the five promontories of the isle. Between the ridges lie the valleys and slopes of the Mittalmar.\n\nOne of these valleys is Noirinan, the Valley of the Tombs, which lies between two of the southern roots. The books do not give exact bearings for the ridges. Their positions on this map are the map maker's judgment.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Roots of the Pillar"
+  },
+  "facts": {
+   "Region": "Mittalmar",
+   "Number": "Five",
+   "Source": "The mountain Meneltarma"
+  },
+  "related": [
+   "MT01",
+   "VA01",
+   "RG06"
+  ],
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "MT02",
+  "title": "Sorontil",
+  "kind": "Mountain",
+  "tier": 1,
+  "blurb": "A great height in the north of the Forostar that rises sheer from the sea; eagles nested there.",
+  "book": "Sorontil is a tall mountain in the north of the Forostar, the northern promontory of Númenor. It rises steeply from the sea in tall cliffs. The Forostar is the rockiest and least fertile part of the isle, and Sorontil is its greatest height. Its name refers to the eagles.\n\nThe books say that eagles nested on Sorontil. King Tar-Meneldur, who loved the stars, built a tall tower in the same northern land. From the tower he could watch the sky. The exact place of that tower is not fixed in the books.\n\nNo great tale is set on the mountain itself. The books do not give its height. When the isle sank in S.A. 3319, Sorontil sank with it.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Eagle-horn (Quenya)"
+  },
+  "facts": {
+   "Region": "Forostar, north coast",
+   "Notable": "Nesting place of eagles",
+   "Fate": "Lost with the isle, S.A. 3319"
+  },
+  "related": [
+   "RG01",
+   "MT03",
+   "BU06"
+  ],
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "MT03",
+  "title": "Highlands of the Forostar",
+  "kind": "Upland",
+  "tier": 3,
+  "blurb": "The rocky, stony uplands of the Forostar, the least fertile part of Númenor.",
+  "book": "The name is a description made for this map, not a name from the books. The Forostar is the northern promontory of Númenor. The books call it the least fertile part of the isle, with much bare and stony ground. It holds the great height of Sorontil in the north. The extent of the uplands on this map is approximate.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "Descriptive name from this map"
+  },
+  "facts": {
+   "Region": "Forostar",
+   "Land": "Rocky and stony",
+   "Position": "Approximate"
+  },
+  "related": [
+   "RG01",
+   "MT02",
+   "TO02"
+  ],
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "HI06",
+  "title": "Oromet",
+  "kind": "Hill with a tower",
+  "tier": 1,
+  "blurb": "A hill near Andúnië in the far west where Tar-Minastir built a tower to look toward the West.",
+  "book": "Oromet is a hill near the haven of Andúnië, in the far west of the Andustar. It looks out over the western sea. The books say that Tar-Minastir, the eleventh King, built a tall tower on it.\n\nTar-Minastir loved the Eldar, but he also envied them. From the tower he would gaze westward over the sea. He also sent a great fleet to Middle-earth to help Gil-galad against Sauron, in S.A. 1700. The tower stood as a sign of his hope.\n\nAndúnië was the seat of the Lords of Andúnië, who were friends of the Eldar. Elves of Eressëa came to the isle in their ships. The tower on Oromet was a landmark of this western coast.\n\nWhen the isle sank in S.A. 3319, the hill and its tower went down with it.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "Tower of Tar-Minastir (on its summit)"
+  },
+  "facts": {
+   "Region": "Andustar, near Andúnië",
+   "Builder": "Tar-Minastir",
+   "Purpose": "To look toward the West",
+   "Fate": "Lost with the isle, S.A. 3319"
+  },
+  "related": [
+   "BU05",
+   "HA02",
+   "BA02",
+   "RG02",
+   "BU04"
+  ],
+  "sources": [
+   "Unfinished Tales, 'The Line of Elros'",
+   "Unfinished Tales, 'A Description of the Island of Númenor'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "HI07",
+  "title": "Highlands of the Andustar",
+  "kind": "Upland",
+  "tier": 3,
+  "blurb": "The rocky northern Andustar, a high land of fir-woods above the northern cliffs.",
+  "book": "The name is a description made for this map, not a name from the books. The Andustar is the western promontory of Númenor. Its north is high and rocky, and fir-woods cover much of it. The land ends in steep cliffs above the northern sea. The position on this map is approximate.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "Descriptive name from this map"
+  },
+  "facts": {
+   "Region": "Andustar, north",
+   "Land": "High, rocky, wooded with fir",
+   "Position": "Approximate"
+  },
+  "related": [
+   "RG02",
+   "FO02",
+   "BA03"
+  ],
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "HI08",
+  "title": "Hills of Orrostar",
+  "kind": "Hills",
+  "tier": 3,
+  "blurb": "The highlands toward the northern end of the Orrostar, on the east of the isle.",
+  "book": "The name is a description made for this map, not a name from the books. The books describe the Orrostar as a cool land with higher ground toward its north. The books do not give the place or extent of these hills. Their position here is approximate.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "Descriptive name from this map"
+  },
+  "facts": {
+   "Region": "Orrostar, north",
+   "Land": "Highland",
+   "Position": "Approximate"
+  },
+  "related": [
+   "RG05",
+   "FI02"
+  ],
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'"
+  ],
+  "confidence": "low"
+ },
+ {
+  "id": "MT04",
+  "title": "Cliffs of Hyarnustar",
+  "kind": "Sea-cliffs",
+  "tier": 3,
+  "blurb": "The mountainous west of the Hyarnustar, which ends in great cliffs above the sea.",
+  "book": "The name is a description made for this map, not a name from the books. The Hyarnustar is the south-western promontory of Númenor. Its western part is mountainous and ends in great cliffs on the sea. The bay of Eldanna lies to the north of these heights. The position on this map is approximate.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "Descriptive name from this map"
+  },
+  "facts": {
+   "Region": "Hyarnustar, west",
+   "Land": "Mountains and sea-cliffs",
+   "Position": "Approximate"
+  },
+  "related": [
+   "RG03",
+   "BA04",
+   "FI01"
+  ],
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "LA01",
+  "title": "Nísinen",
+  "kind": "Lake",
+  "tier": 2,
+  "blurb": "A small lake on the Nunduinë, in the land of Nísimaldar, known for its sweet-scented flowers.",
+  "book": "Nísinen is a small lake on the river Nunduinë, in the west of Númenor. The river Nunduinë flows into it and leaves it again on its way to the sea. The river reaches the Bay of Eldanna at Eldalondë.\n\nThe lake takes its name from the many sweet-scented flowers that grew on its shores. Near the coast lies Nísimaldar, the land of fragrant trees.\n\nEldalondë the Green lies just below the lake. The ships of the Eldar of Eressëa came there. The lake is small and quiet, and no great event of the tales is set on its shore. It sank with the isle in S.A. 3319.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Meaning": "Named for its sweet-scented flowers"
+  },
+  "facts": {
+   "Region": "West of the isle",
+   "River": "Nunduinë",
+   "Fate": "Lost with the isle, S.A. 3319"
+  },
+  "related": [
+   "RI02",
+   "HA03",
+   "RG09",
+   "BA04"
+  ],
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FO01",
+  "title": "Forests of Hyarrostar",
+  "kind": "Forests",
+  "tier": 2,
+  "blurb": "The great timber woods of the south-east, where Aldarion planted trees for his ships.",
+  "book": "The name is a description made for this map, not a name from the books. The Hyarrostar is the south-eastern promontory of Númenor, and the books say that great forests grew there. Tar-Aldarion, the Mariner, needed much timber to build the ships of the Guild of Venturers. He had many trees planted so that the isle would not run short of wood. Rómenna, the haven of his ships, lay nearby on the east coast.\n\nThe books do not give the limits of the woods. Their position on this map is approximate. The forests sank with the isle in S.A. 3319.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "Descriptive name from this map"
+  },
+  "facts": {
+   "Region": "Hyarrostar",
+   "Use": "Timber for ships",
+   "Planted by": "Tar-Aldarion, in part"
+  },
+  "related": [
+   "RG04",
+   "HA01",
+   "person:tar-aldarion",
+   "BA01"
+  ],
+  "sources": [
+   "Unfinished Tales, 'Aldarion and Erendis'",
+   "Unfinished Tales, 'A Description of the Island of Númenor'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "FO02",
+  "title": "Fir-woods of the Andustar",
+  "kind": "Forests",
+  "tier": 3,
+  "blurb": "Fir forests on the high northern Andustar, facing the sea.",
+  "book": "The name is a description made for this map, not a name from the books. The books say that fir-woods grew on the high northern part of the Andustar, the western promontory of the isle. They stood above the cliffs that face the northern sea. The position on this map is approximate.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "Descriptive name from this map"
+  },
+  "facts": {
+   "Region": "Andustar, north",
+   "Trees": "Fir",
+   "Position": "Approximate"
+  },
+  "related": [
+   "RG02",
+   "HI07",
+   "BA03"
+  ],
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "SW01",
+  "title": "Marshes of the Siril",
+  "kind": "Marshes",
+  "tier": 3,
+  "blurb": "The reedy marshes where the river Siril reaches the southern sea.",
+  "book": "The name is a description made for this map, not a name from the books. The river Siril runs south from the Meneltarma and reaches the sea through marshes and reedy flats. These wet lands lie at its mouth. Nindamos, a fishing village, stands on the east side of the river mouths.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "Descriptive name from this map"
+  },
+  "facts": {
+   "Region": "South coast, mouth of the Siril",
+   "Land": "Marsh and reed-beds",
+   "Position": "Approximate"
+  },
+  "related": [
+   "RI01",
+   "TO03",
+   "MT01"
+  ],
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI01",
+  "title": "Siril",
+  "kind": "River",
+  "tier": 2,
+  "blurb": "The chief river of Númenor, which rises under the Meneltarma and runs south to the sea.",
+  "book": "The Siril is the chief river of Númenor. It rises under the Meneltarma, in the valley of Noirinan, and runs south across the Mittalmar. Near the sea it spreads into marshes and reedy flats before it reaches the southern coast.\n\nThe village of Nindamos stands near its mouths, on the east side, and it was the chief fishing place of the south coast. The books do not give the exact course of the river, so its path on this map is the map maker's judgment.\n\nIts source lies in the valley of the Tombs of the Kings. It was lost with the isle in S.A. 3319.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "None in the books"
+  },
+  "facts": {
+   "Region": "From Noirinan south to the sea",
+   "Source": "Under the Meneltarma",
+   "Mouth": "South coast, near Nindamos",
+   "Fate": "Lost with the isle, S.A. 3319"
+  },
+  "related": [
+   "VA01",
+   "MT01",
+   "SW01",
+   "TO03",
+   "RG06"
+  ],
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RI02",
+  "title": "Nunduinë",
+  "kind": "River",
+  "tier": 2,
+  "blurb": "A river of the west that flows through the lake Nísinen to the sea at Eldalondë.",
+  "book": "The Nunduinë is a river in the west of Númenor. On its way to the sea it spreads into the small lake Nísinen. It then runs to the sea at the Bay of Eldanna, and its mouth is the haven of Eldalondë.\n\nThe river passes through the land of Nísimaldar, where fragrant trees and flowers grow. The ships of the Eldar of Eressëa came to Eldalondë from the west, and the river was part of the setting of that haven.\n\nThe books give few details of its course. Its path on this map is approximate. It was lost with the isle in S.A. 3319.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "None in the books"
+  },
+  "facts": {
+   "Region": "Nísimaldar, west",
+   "Passes through": "Lake Nísinen",
+   "Mouth": "Eldalondë, Bay of Eldanna"
+  },
+  "related": [
+   "LA01",
+   "HA03",
+   "BA04",
+   "RG09"
+  ],
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RD01",
+  "title": "Road from Rómenna to Andúnië",
+  "kind": "King's highway",
+  "tier": 1,
+  "blurb": "The chief road of Númenor, from Rómenna by Armenelos, Noirinan and Ondosto to Andúnië.",
+  "book": "The great road crossed Númenor from east to west. It began at the haven of Rómenna and passed through Armenelos, the City of the Kings. It then ran to the Valley of the Tombs, Noirinan, at the foot of the Meneltarma. From there it went into the Forostar and reached Ondosto, a town near the stone-quarries. It ended at the western haven of Andúnië.\n\nThe road joined the chief places of the isle. At Noirinan began the path up the Meneltarma to the Hallow of Eru. Travellers took it between the two great havens.\n\nThe books name the towns along the road, but they do not give its exact course between them. The line on this map is the map maker's judgment. The road was lost with the isle in S.A. 3319.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "The name here is a label from this map"
+  },
+  "facts": {
+   "Region": "Crosses the isle, east to west",
+   "From": "Rómenna",
+   "To": "Andúnië",
+   "Via": "Armenelos, Noirinan, Ondosto"
+  },
+  "related": [
+   "HA01",
+   "TO01",
+   "VA01",
+   "TO02",
+   "HA02",
+   "RD02"
+  ],
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "RD02",
+  "title": "Ascent of the Meneltarma",
+  "kind": "Mountain path",
+  "tier": 2,
+  "blurb": "The winding path from the Valley of the Tombs up to the Hallow of Eru on the summit.",
+  "book": "The ascent of the Meneltarma began in the valley of Noirinan, near the Tombs of the Kings. From there a path wound up the mountain to the open summit, the Hallow of Eru. The name used here is a description from this map, not a name from the books.\n\nThe King climbed this path three times each year, at the Erukyermë, the Erulaitalë and the Eruhantalë. He went to pray to Eru Ilúvatar for his people. A great multitude followed him up in silence.\n\nThe books do not give the length or exact course of the path. Its position on this map is approximate. Ar-Pharazôn forbade anyone to climb the mountain. The mountain and its path were lost when the isle sank in S.A. 3319.",
+  "film": "",
+  "series": "",
+  "names": {
+   "Other names": "Descriptive name from this map"
+  },
+  "facts": {
+   "Region": "Meneltarma",
+   "From": "Noirinan",
+   "To": "Hallow of Eru",
+   "Use": "The King's prayers"
+  },
+  "related": [
+   "MT01",
+   "VA01",
+   "GR01",
+   "BU07"
+  ],
+  "sources": [
+   "Unfinished Tales, 'A Description of the Island of Númenor'",
+   "The Silmarillion, Akallabêth"
+  ],
+  "confidence": "medium"
+ }
+]
