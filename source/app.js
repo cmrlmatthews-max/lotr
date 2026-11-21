@@ -11,9 +11,13 @@ const $ = (s, el = document) => el.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 const clamp = (v, a, b) => Math.max(a, Math.min(b, v));
 const params = new URLSearchParams(location.search);
-const STEP = Math.max(1, parseInt(params.get('q') || '1', 10));
+const mqPhone = window.matchMedia('(max-width: 900px), (max-height: 500px) and (pointer: coarse)');
+const PHONE0 = params.get('phone') === '1' || (params.get('phone') !== '0' && mqPhone.matches);   // the state at load sets the terrain detail
+const STEP = Math.max(1, parseInt(params.get('q') || (PHONE0 ? '2' : '1'), 10));
+let PHONE = PHONE0, LANDSCAPE = false, VF = 1;   // VF: how much farther the camera must be on a narrow screen to show the same width
+const TOPH = 62; let TOPB = TOPH;                                  // height of the top bar on a phone
 
-const D = JSON.parse($('#me-data').textContent);
+const meEl = $('#me-data'); const D = JSON.parse(meEl.textContent); meEl.remove();
 let W = 1, H = 1, LAND = null, FE = [];
 const ITEMS = D.items;
 let EX = 15;
@@ -49,6 +53,7 @@ function decodeHeights() {
   const x = c.getContext('2d', { willReadFrequently: true }); x.drawImage(hImg, 0, 0);
   const d = x.getImageData(0, 0, GW, GH).data; heights = new Float32Array(GW * GH);
   for (let i = 0, j = 0; i < heights.length; i++, j += 4) heights[i] = (d[j] * 256 + d[j + 1]) / 65535 * 4.0; // km
+  c.width = c.height = 0;
 }
 function applyCanopy() {
   // forests stand a little above the ground: rasterise the forest shapes on the height grid and add a rough canopy
@@ -61,6 +66,7 @@ function applyCanopy() {
   const d = x.getImageData(0, 0, GW, GH).data, m = new Float32Array(GW * GH);
   for (let j = 1; j < GH - 1; j++) for (let i = 1; i < GW - 1; i++) { const o = j * GW + i; m[o] = (d[o * 4] * 2 + d[(o - 1) * 4] + d[(o + 1) * 4] + d[(o - GW) * 4] + d[(o + GW) * 4]) / 1530; }
   for (let o = 0; o < m.length; o++) if (m[o] > 0.05 && heights[o] > 0) { const n = Math.sin(o * 12.9898 + (o % GW) * 78.233) * 43758.5453; heights[o] += m[o] * (0.04 + 0.05 * (n - Math.floor(n))); }
+  c.width = c.height = 0;
 }
 function hAt(x, y) {
   const fx = clamp(x / W * (GW - 1), 0, GW - 1.001), fy = clamp((1 - y / H) * (GH - 1), 0, GH - 1.001);
@@ -71,7 +77,7 @@ const wx = x => x - W / 2, wz = y => H / 2 - y;
 
 /* ---------- three scene ---------- */
 const canvas = $('#gl');
-const renderer = new THREE.WebGLRenderer({ canvas, antialias: true, alpha: true, powerPreference: 'high-performance' });
+const renderer = new THREE.WebGLRenderer({ canvas, antialias: !PHONE0, alpha: true, powerPreference: 'high-performance' });
 renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
 const scene = new THREE.Scene();
 scene.fog = new THREE.FogExp2(0x1a120b, 0.00011);
@@ -80,6 +86,7 @@ const controls = new MapControls(camera, canvas);
 controls.enableDamping = true; controls.dampingFactor = 0.09; controls.screenSpacePanning = false;
 controls.minDistance = 28; controls.maxDistance = 4300; controls.maxPolarAngle = Math.PI * 0.46;
 controls.zoomToCursor = true; controls.zoomSpeed = 1.1; controls.rotateSpeed = 0.5;
+controls.touches = { ONE: THREE.TOUCH.PAN, TWO: -1 };   // one finger moves the map; the two-finger gestures are below (pinch, turn, tilt)
 const terrain = new THREE.Group(); scene.add(terrain);
 let tex, cv, ctx, KX, KY, mesh, slab;
 const lineMats = [];
@@ -129,7 +136,7 @@ function buildTerrain() {
   g.setAttribute('position', new THREE.BufferAttribute(pos, 3)); g.setAttribute('uv', new THREE.BufferAttribute(uv, 2));
   g.setIndex(new THREE.BufferAttribute(idx, 1));
   g.boundingSphere = new THREE.Sphere(new THREE.Vector3(0, 0, 0), Math.hypot(W, H) / 2 + 100);
-  const maxT = renderer.capabilities.maxTextureSize; const sc = Math.min(1, maxT / bImg.naturalWidth);
+  const maxT = renderer.capabilities.maxTextureSize; const sc = Math.min(1, maxT / bImg.naturalWidth, PHONE0 ? 0.72 : 1);
   cv = document.createElement('canvas'); cv.width = Math.round(bImg.naturalWidth * sc); cv.height = Math.round(bImg.naturalHeight * sc);
   ctx = cv.getContext('2d'); KX = cv.width / W; KY = cv.height / H;
   tex = new THREE.CanvasTexture(cv); tex.colorSpace = THREE.SRGBColorSpace; tex.anisotropy = renderer.capabilities.getMaxAnisotropy();
@@ -283,9 +290,9 @@ function buildLabels() {
 }
 let LS = 1;   // label distances were tuned for the Middle-earth sheet; a larger sheet scales them up
 function rankVisible(L, dl) {
-  dl /= LS;
+  dl /= LS * VF;
   if (L.group === 'realms') return L.rank === 1 ? dl > 520 : L.rank === 2 ? dl > 200 && dl < 1700 : dl > 110 && dl < 800;
-  if (L.group === 'battles') return L.rank === 1 ? dl < 3200 : L.rank === 2 ? dl < 1300 : dl < 600;
+  if (L.group === 'battles') { dl *= VF; return L.rank === 1 ? dl < 3200 : L.rank === 2 ? dl < 1300 : dl < 600; }
   return L.rank === 1 ? dl < 3400 : L.rank === 2 ? dl < 950 : dl < 340;
 }
 const _v = new THREE.Vector3(); let vw = 1, vh = 1; const placed = [], placedR = [], placedL = [];
@@ -381,8 +388,8 @@ function buildSprites() {
 function updateSprites() {
   for (const sp of sprites) {
     sp.position.y = (sp.userData.hy + 0.03) * EX; const d = sp.position.distanceTo(camera.position);
-    sp.visible = S.layers.art && (!sp.userData.it.artNear || d < 1150); if (!sp.visible) continue;
-    const px = clamp(62 + 96 * (1 - d / 1500), 62, 158), k = px / vh * 0.65;
+    sp.visible = S.layers.art && (!sp.userData.it.artNear || d < 1150 * VF); if (!sp.visible) continue;
+    const px = clamp(62 + 96 * (1 - d / (1500 * VF)), 62, 158) * (PHONE ? 0.74 : 1), k = px / vh * 0.65;
     sp.scale.set(k, k, 1); sp.userData.px = px;
   }
 }
@@ -401,6 +408,7 @@ function setHighlight(it) {
 /* ---------- camera ---------- */
 let tween = null;
 function flyTo(x, y, dist, ms = 1500) {
+  controls._panOffset.set(0, 0, 0); controls._sphericalDelta.set(0, 0, 0);
   x = clamp(x, 0, W); y = clamp(y, 0, H);
   const to = new THREE.Vector3(wx(x), hAt(x, y) * EX, wz(y));
   const off = camera.position.clone().sub(controls.target); const cur = off.length(); dist = dist || cur;
@@ -459,7 +467,7 @@ function renderCard(it) {
   if (it.prev || it.next) h += `<p class="pn">${ITEMS[it.prev] ? `<a data-go="${esc(it.prev)}">&larr; ${esc(ITEMS[it.prev].title)}</a>` : '<span></span>'}${ITEMS[it.next] ? `<a data-go="${esc(it.next)}">${esc(ITEMS[it.next].title)} &rarr;</a>` : ''}</p>`;
   if (it.sources && it.sources.length) h += `<p class="sources"><b>Where to read:</b> ${it.sources.map(esc).join('; ')}</p>`;
   if (!it.hidden) h += `<p class="conf c-${esc(it.confidence || 'medium')}">Confidence: ${esc(it.confidence || 'medium')}${it.confidence === 'high' ? '' : '. Check this card against the books.'}</p>`;
-  card.innerHTML = h; card.scrollTop = 0; card.classList.add('open');
+  card.innerHTML = '<div class="grab" title="Drag to change the size"><i></i></div>' + h; card.scrollTop = 0; card.classList.add('open'); setSnap(card.dataset.snap === 'full' ? 'full' : 'half');
 }
 function loreLand(it) {   // the sheet that shows most of the linked places; the current sheet wins a tie
   const n = {}; for (const p of it.places || []) { const t = ITEMS[p.id]; if (t && t.land) n[t.land] = (n[t.land] || 0) + 1; }
@@ -474,7 +482,7 @@ function setLinks(it) {
 function frameLinks() {
   const ps = [...LINKED.keys()].map(id => ITEMS[id]); if (!ps.length) return;
   let x0 = 1e9, x1 = -1e9, y0 = 1e9, y1 = -1e9; for (const t of ps) { x0 = Math.min(x0, t.x); x1 = Math.max(x1, t.x); y0 = Math.min(y0, t.y); y1 = Math.max(y1, t.y); }
-  flyTo((x0 + x1) / 2, (y0 + y1) / 2, clamp(Math.max((x1 - x0) * 2.35, (y1 - y0) * 2.7) + 280, 300, Math.max(W, H * 1.13) * 1.5));
+  flyTo((x0 + x1) / 2, (y0 + y1) / 2, clamp(Math.max((x1 - x0) * 2.35 * VF, (y1 - y0) * 2.7) + 280 * VF, 300, Math.max(W, H * 1.13) * 1.5 * VF));
 }
 function select(id, fly = true, keep = false) {
   const it = ITEMS[id]; if (!it) return;
@@ -486,12 +494,12 @@ function select(id, fly = true, keep = false) {
   if (!(keep && S.ctx && ITEMS[S.ctx])) S.ctx = null;
   if (LAND && it.land !== LAND.id) { setLand(it.land).then(() => select(id, fly, keep)); return; }
   if (it.type === 'journey') { S.ctx = null; setLinks(null); startJourney(id); return; }
-  if (it.type !== 'journey' && J && !(it.type === 'place' || it.type === 'battle')) stopJourney();
+  if (it.type !== 'journey' && J && (PHONE || !(it.type === 'place' || it.type === 'battle'))) stopJourney(PHONE);
   setLinks(S.ctx ? ITEMS[S.ctx] : null);
   S.sel = id; renderCard(it); setHighlight(it);
   if (fly && it.x != null) {
     const d = it.type === 'realm' ? clamp((it.radius || 200) * 4.2, 320, 2200) : it.type === 'battle' ? 200 : it.area ? clamp(Math.sqrt(it.area) * 5, 90, 1500) : /Rivers|Roads/.test(it.layer) ? 420 : (it.tier === 1 ? 170 : 110);
-    flyTo(it.x, it.y, d);
+    flyTo(it.x, it.y, d * (PHONE ? 1.5 : 1));
   } else if (fly && it.type === 'people' && it.realms && ITEMS[it.realms[0]]) { const r = ITEMS[it.realms[0]]; flyTo(r.x, r.y, 900); }
   dirty = true;
 }
@@ -507,9 +515,14 @@ card.addEventListener('click', e => {
   else if (t.dataset.go) select(t.dataset.go, true, !!S.ctx);
   else if (t.dataset.stage !== undefined && J) gotoStage(+t.dataset.stage, true);
 });
-function hitLabel(x, y) {
-  let best = null;
-  for (const L of labels) if (L.on && L.rect && x >= L.rect[0] && x <= L.rect[2] && y >= L.rect[1] && y <= L.rect[3]) { if (L.group !== 'realms') return L; best = best || L; }
+function hitLabel(x, y, pad = 0) {
+  let best = null, near = null, nd = 1e9;   // an exact hit wins; a finger can also hit the nearest name within the pad
+  for (const L of labels) if (L.on && L.rect) {
+    const r = L.rect;
+    if (x >= r[0] && x <= r[2] && y >= r[1] && y <= r[3]) { if (L.group !== 'realms') return L; best = best || L; }
+    else if (pad && L.group !== 'realms' && x >= r[0] - pad && x <= r[2] + pad && y >= r[1] - pad && y <= r[3] + pad) { const d = Math.hypot(x - clamp(x, r[0], r[2]), y - clamp(y, r[1], r[3])); if (d < nd) { nd = d; near = L; } }
+  }
+  if (near) return near;
   if (best) return best;
   for (const sp of sprites) if (sp.visible) {
     _v.copy(sp.position).project(camera); if (_v.z > 1 || _v.z < -1) continue;
@@ -520,7 +533,7 @@ function hitLabel(x, y) {
 }
 let downXY = null, hover = null;
 canvas.addEventListener('pointerdown', e => { downXY = [e.clientX, e.clientY]; });
-canvas.addEventListener('pointerup', e => { if (!downXY) return; const m = Math.hypot(e.clientX - downXY[0], e.clientY - downXY[1]); downXY = null; if (m < 5 && e.button === 0) { const L = hitLabel(e.clientX, e.clientY); if (L) select(L.item.id, false); } });
+canvas.addEventListener('pointerup', e => { if (!downXY) return; const m = Math.hypot(e.clientX - downXY[0], e.clientY - downXY[1]); downXY = null; const touch = e.pointerType === 'touch'; if (m < (touch ? 12 : 5) && e.button === 0 && !multi) { const L = hitLabel(e.clientX, e.clientY, touch ? 9 : 0); if (L) select(L.item.id, false); } });
 canvas.addEventListener('pointermove', e => { if (e.buttons) return; const L = hitLabel(e.clientX, e.clientY); if (L !== hover) { if (hover) hover.el.classList.remove('hov'); hover = L; if (L) L.el.classList.add('hov'); canvas.style.cursor = L ? 'pointer' : ''; } });
 
 /* ---------- journeys ---------- */
@@ -548,12 +561,12 @@ function startJourney(id) {
   J.els = [...stageLayer.children]; S.journey = id; S.sel = id; setHighlight(null); renderCard(it);
   bar.classList.add('open'); walker.classList.add('on'); document.querySelectorAll('#journeys button').forEach(b => b.classList.toggle('act', b.dataset.go === id));
   gotoStage(0, false); const xs = pts.map(p => p[0]), ys = pts.map(p => p[1]);
-  const cx = (Math.min(...xs) + Math.max(...xs)) / 2, cy = (Math.min(...ys) + Math.max(...ys)) / 2, span = Math.max(Math.max(...xs) - Math.min(...xs), (Math.max(...ys) - Math.min(...ys)) * 1.4);
-  flyTo(cx, cy, clamp(span * 1.25, 300, 3200)); dirty = true;
+  const cx = (Math.min(...xs) + Math.max(...xs)) / 2, cy = (Math.min(...ys) + Math.max(...ys)) / 2, span = Math.max((Math.max(...xs) - Math.min(...xs)) * VF, (Math.max(...ys) - Math.min(...ys)) * 1.4);
+  flyTo(cx, cy, clamp(span * 1.25, 300, 3200 * VF)); document.body.classList.add('journey'); dirty = true;
 }
 function stopJourney(keepCard) {
   if (!J) return; dropLine(J.ghost); dropLine(J.done); stageLayer.innerHTML = ''; bar.classList.remove('open'); walker.classList.remove('on');
-  document.querySelectorAll('#journeys button').forEach(b => b.classList.remove('act')); J = null; S.journey = null; if (!keepCard) closeCard(); dirty = true;
+  document.querySelectorAll('#journeys button').forEach(b => b.classList.remove('act')); J = null; S.journey = null; document.body.classList.remove('journey'); if (!keepCard) closeCard(); dirty = true;
 }
 function setProgress(i) {
   J.i = clamp(i, 0, J.pts.length - 1); J.done.geometry.instanceCount = Math.floor(J.i);
@@ -606,7 +619,7 @@ function buildPanel() {
   const nl = t => Object.values(ITEMS).filter(i => i.type === t && !i.hidden).length;
   $('#counts').textContent = `${nl('person')} persons · ${nl('thing')} things · ${nl('lore')} lore entries · ${by('place').length} places · ${rs.length} realms · ${by('people').length} peoples · ${bs.length} battles · ${by('journey').length} journeys`;
 }
-$('#panel').addEventListener('click', e => { const g = e.target.closest('[data-go]'); if (g) { if (S.journey === g.dataset.go) stopJourney(); else select(g.dataset.go); } });
+$('#panel').addEventListener('click', e => { const g = e.target.closest('[data-go]'); if (g) { document.body.classList.remove('menu'); if (S.journey === g.dataset.go) stopJourney(); else select(g.dataset.go); } });
 $('#panel').addEventListener('change', e => {
   const t = e.target; if (t.dataset.layer) { S.layers[t.dataset.layer] = t.checked; if (/woods|water/.test(t.dataset.layer)) redraw(); syncInk(); }
   if (t.dataset.src) { S.src[t.dataset.src] = t.checked; if (S.sel) renderCard(ITEMS[S.sel]); if (J) showStage(J.stage); }
@@ -629,7 +642,7 @@ function search(s) {
 }
 q.addEventListener('input', () => search(q.value));
 q.addEventListener('keydown', e => { if (e.key === 'Enter') { const t = search(q.value); if (t[0]) { select(t[0].id); res.classList.remove('open'); q.value = ''; q.blur(); } } if (e.key === 'Escape') { q.value = ''; search(''); q.blur(); } });
-res.addEventListener('click', e => { const g = e.target.closest('[data-go]'); if (g) { select(g.dataset.go); res.classList.remove('open'); q.value = ''; } });
+res.addEventListener('click', e => { const g = e.target.closest('[data-go]'); if (g) { select(g.dataset.go); res.classList.remove('open'); q.value = ''; q.blur(); } });
 window.addEventListener('keydown', e => {
   if (e.target === q) return;
   if (e.target.closest && e.target.closest('input,textarea,select')) { if (e.key === 'Escape') e.target.blur(); return; }
@@ -643,11 +656,12 @@ $('#about').addEventListener('click', e => { if (e.target.id === 'about' || e.ta
 $('#btn-north').addEventListener('click', () => { const off = camera.position.clone().sub(controls.target); const sph = new THREE.Spherical().setFromVector3(off); sph.theta = 0; camera.position.setFromSpherical(sph).add(controls.target); camera.lookAt(controls.target); dirty = true; });
 $('#btn-home').addEventListener('click', home);
 const togglePanel = () => { document.body.classList.toggle('nopanel'); dirty = true; }; $('#btn-panel').addEventListener('click', togglePanel); $('#btn-panel2').addEventListener('click', togglePanel);
-function home() { tween = null; const k = Math.max(W, H * 1.13) / 2352, cx = W * 0.489, cy = H * 0.487; controls.target.set(wx(cx), 0, wz(cy)); camera.position.set(wx(cx), 2350 * k, wz(cy) + 2050 * k); camera.lookAt(controls.target); dirty = true; }
+function home() { tween = null; const k = Math.max(W, H * 1.13) / 2352, cx = W * 0.489, cy = H * 0.487; controls.target.set(wx(cx), 0, wz(cy)); camera.position.set(wx(cx), 2350 * k * VF, wz(cy) + 2050 * k * VF); camera.lookAt(controls.target); dirty = true; }
 function clearLand() {
   if (J) stopJourney(true); closeCard(); hiLines.forEach(dropLine); hiLines = [];
   for (const k of ['water', 'roads', 'realms']) { ink[k].forEach(dropLine); ink[k] = []; }
   if (mesh) { terrain.remove(mesh); mesh.geometry.dispose(); mesh.material.map.dispose(); if (mesh.userData.grain) mesh.userData.grain.dispose(); mesh.material.dispose(); mesh = null; }
+  if (cv) { cv.width = cv.height = 0; cv = null; }
   if (slab) { scene.remove(slab); slab.traverse(o => { if (o.geometry) o.geometry.dispose(); if (o.material) o.material.dispose(); }); slab = null; }
   for (const sp of sprites) { spriteGroup.remove(sp); sp.material.map.dispose(); sp.material.dispose(); } sprites = [];
   labels.length = 0; labelLayer.innerHTML = ''; hover = null; patWood = patSwamp = patCanopy = null; canvas.style.cursor = '';
@@ -663,22 +677,41 @@ function setLand(id) {
   landBusy = Promise.all([hImg.decode(), bImg.decode()]).then(() => {
     if (LAND !== L) return;
     decodeHeights(); applyCanopy(); buildTerrain(); redraw(); buildInk(); syncInk(); buildLabels(); buildSprites(); buildPanel();
-    controls.maxDistance = Math.max(W, H) * 1.85; home(); landBusy = null; dirty = true;
+    controls.maxDistance = Math.max(W, H) * 1.85 * VF; home(); landBusy = null; dirty = true;
   });
   return landBusy;
 }
-$('#lands').addEventListener('click', e => { const b = e.target.closest('button'); if (b) setLand(b.dataset.land); });
+$('#lands').addEventListener('click', e => { const b = e.target.closest('button'); if (b) { document.body.classList.remove('menu'); setLand(b.dataset.land); } });
 
 /* ---------- loop ---------- */
-let dirty = true, lastT = performance.now(), poCur = 150;
-const poGoal = () => (document.body.classList.contains('chat') ? Math.min(424, vw * 0.36) : document.body.classList.contains('nopanel') ? 0 : Math.min(306, vw * 0.25)) - (card.classList.contains('open') ? Math.min(390, vw * 0.3) : 0);
-function resize() { vw = window.innerWidth; vh = window.innerHeight; renderer.setSize(vw, vh, false); camera.aspect = vw / vh; camera.setViewOffset(vw, vh, -poCur / 2, 0, vw, vh); camera.updateProjectionMatrix(); for (const m of lineMats) m.resolution.set(vw, vh); dirty = true; }
+let dirty = true, lastT = performance.now(), poCur = 150, poYCur = 0, sheetCss = -1;
+/* ---------- phone layout ---------- */
+const SNAP = { peek: () => 104, half: () => Math.round(vh * 0.46), full: () => Math.round(vh - TOPB - 4) };
+function setSnap(s) { card.dataset.snap = s; card.style.height = PHONE && !LANDSCAPE ? SNAP[s]() + 'px' : ''; dirty = true; }
+const sheetPx = () => (!PHONE || LANDSCAPE ? 0 : bar.classList.contains('open') ? bar.offsetHeight : card.classList.contains('open') ? card.offsetHeight : 0);
+function applyPhone() {
+  PHONE = params.get('phone') === '1' || (params.get('phone') !== '0' && mqPhone.matches);
+  LANDSCAPE = PHONE && window.innerWidth > window.innerHeight;
+  document.body.classList.toggle('phone', PHONE); document.body.classList.toggle('land', LANDSCAPE); if (!PHONE) document.body.classList.remove('menu');
+  TOPB = PHONE && !LANDSCAPE ? Math.max(TOPH, Math.round($('#topbar').getBoundingClientRect().bottom) + 8) : TOPH;
+  const qEl = $('#q'), rEl = $('#results'), inTop = qEl.parentElement.id === 'topq';
+  if (PHONE && !inTop) { $('#topq').append(qEl, rEl); qEl.placeholder = 'Search people, places, things…'; }
+  else if (!PHONE && inTop) { $('#btn-ask').before(qEl); $('#panel header').append(rEl); qEl.placeholder = 'Search people, places, things…  ( / )'; }
+  const vf = PHONE && !LANDSCAPE ? clamp(0.505 / (0.325 * window.innerWidth / window.innerHeight), 1, 2.4) : 1;
+  if (vf !== VF) { VF = vf; scene.fog.density = 0.00011 / VF; if (LAND) controls.maxDistance = Math.max(W, H) * 1.85 * VF; }
+  if (card.classList.contains('open')) setSnap(card.dataset.snap || 'half'); else card.style.height = '';
+}
+const poGoalY = () => (PHONE && !LANDSCAPE ? (Math.min(sheetPx(), vh * 0.5) - TOPB) / 2 : 0);
+const poGoalDesk = () => (document.body.classList.contains('chat') ? Math.min(424, vw * 0.36) : document.body.classList.contains('nopanel') ? 0 : Math.min(306, vw * 0.25)) - (card.classList.contains('open') ? Math.min(390, vw * 0.3) : 0);
+const poGoal = () => (PHONE ? (LANDSCAPE && card.classList.contains('open') ? -vw * 0.46 : 0) : poGoalDesk());
+function resize() { vw = window.innerWidth; vh = window.innerHeight; applyPhone(); renderer.setSize(vw, vh, false); camera.aspect = vw / vh; camera.setViewOffset(vw, vh, -poCur / 2, poYCur, vw, vh); camera.updateProjectionMatrix(); for (const m of lineMats) m.resolution.set(vw, vh); dirty = true; }
 window.addEventListener('resize', resize);
 controls.addEventListener('change', () => { dirty = true; });
 function frame(now) {
   const dt = Math.min(0.1, (now - lastT) / 1000); lastT = now;
   stepTween(now); if (!tween) controls.update();
-  const pg = poGoal(); if (Math.abs(pg - poCur) > 0.5) { poCur += (pg - poCur) * Math.min(1, dt * 5); camera.setViewOffset(vw, vh, -poCur / 2, 0, vw, vh); camera.updateProjectionMatrix(); dirty = true; }
+  const pg = poGoal(), pgy = poGoalY(); if (Math.abs(pg - poCur) > 0.5 || Math.abs(pgy - poYCur) > 0.5) { poCur += (pg - poCur) * Math.min(1, dt * 5); poYCur += (pgy - poYCur) * Math.min(1, dt * 7); camera.setViewOffset(vw, vh, -poCur / 2, poYCur, vw, vh); camera.updateProjectionMatrix(); dirty = true; }
+  if (PHONE) { const sp = sheetPx(); if (sp !== sheetCss) { sheetCss = sp; document.documentElement.style.setProperty('--sheet', sp + 'px'); } const th = Math.atan2(camera.position.x - controls.target.x, camera.position.z - controls.target.z); if (Math.abs(th - needleTh) > 0.01) { needleTh = th; needle.style.transform = `rotate(${th}rad)`; } const tl = (camera.position.y - controls.target.y) / camera.position.distanceTo(controls.target) > Math.cos(0.3) ? '3D' : '2D'; if (tiltBtn.textContent !== tl) tiltBtn.textContent = tl; }
   const nEX = exFor(camera.position.distanceTo(controls.target)); if (Math.abs(nEX - EX) > 0.005) { EX = nEX; terrain.scale.y = EX; dirty = true; }
   const t = controls.target; t.x = clamp(t.x, -W / 2, W / 2); t.z = clamp(t.z, -H / 2, H / 2);
   const gy = hAt(t.x + W / 2, H / 2 - t.z) * EX, dy = (gy - t.y) * 0.2; if (Math.abs(dy) > 0.01) { t.y += dy; camera.position.y += dy; dirty = true; }
@@ -693,8 +726,86 @@ async function boot() {
   $('#lands').innerHTML = D.lands.length > 1 ? D.lands.map(l => `<button data-land="${l.id}"><b>${esc(l.age)}</b>${esc(l.name)}</button>`).join('') : '';
   await setLand(D.lands.some(l => l.id === params.get('land')) ? params.get('land') : D.lands[0].id);
   $('#exv').textContent = S.ex + '×'; $('#ex').value = S.ex;
-  requestAnimationFrame(t => { frame(t); document.body.classList.add('ready'); window.__ready = true; });
+  requestAnimationFrame(t => { frame(t); document.body.classList.add('ready'); window.__ready = true; if (PHONE && !hintSeen() && !params.get('q')) setTimeout(() => showHint(true), 900); });
 }
+/* ---------- touch: two fingers pinch to zoom, turn to turn the map, move up or down together to tilt ---------- */
+const tp = new Map(); let g2 = null, multi = false;
+const sphNow = () => new THREE.Spherical().setFromVector3(camera.position.clone().sub(controls.target));
+function planeAt(cx, cy) {   // the point of the level plane through the camera target that lies under a screen point
+  const r = canvas.getBoundingClientRect(); ray.setFromCamera(new THREE.Vector2((cx - r.left) / r.width * 2 - 1, -(cy - r.top) / r.height * 2 + 1), camera);
+  const o = ray.ray.origin, d = ray.ray.direction; if (d.y > -0.05) return null; const t = (controls.target.y - o.y) / d.y; return t > 0 && t < camera.position.distanceTo(controls.target) * 5 ? [o.x + d.x * t, o.z + d.z * t] : null;
+}
+const two = () => { const [a, b] = [...tp.values()]; return { d: Math.hypot(b[0] - a[0], b[1] - a[1]), ang: Math.atan2(b[1] - a[1], b[0] - a[0]), mx: (a[0] + b[0]) / 2, my: (a[1] + b[1]) / 2 }; };
+canvas.addEventListener('pointerdown', e => {
+  if (e.pointerType !== 'touch') return;
+  if (e.isPrimary) { tp.clear(); g2 = null; }   // a new touch sequence: drop pointers whose up event was lost
+  try { canvas.setPointerCapture(e.pointerId); } catch (_) {}
+  tp.set(e.pointerId, [e.clientX, e.clientY]);
+  if (tp.size === 2) { multi = true; controls._panOffset.set(0, 0, 0); controls._sphericalDelta.set(0, 0, 0); g2 = Object.assign(two(), { mode: null, sd: 0, sa: 0, sx: 0, sy: 0, turn: false }); } else if (tp.size > 2) g2 = null;
+});
+canvas.addEventListener('pointermove', e => {
+  if (!tp.has(e.pointerId)) return; tp.set(e.pointerId, [e.clientX, e.clientY]); if (tp.size !== 2 || !g2) return;
+  const n = two(); let da = n.ang - g2.ang; da = Math.atan2(Math.sin(da), Math.cos(da));
+  g2.sd += n.d - g2.d; g2.sa += da; g2.sx += n.mx - g2.mx; g2.sy += n.my - g2.my;
+  if (!g2.mode) {   // decide one time what the two fingers do
+    if (Math.abs(g2.sd) > 14 || Math.abs(g2.sa) > 0.14) g2.mode = 'pinch';
+    else if (Math.abs(g2.sy) > 16 && Math.abs(g2.sy) > 2 * Math.abs(g2.sx)) g2.mode = 'tilt';
+    else if (Math.hypot(g2.sx, g2.sy) > 24) g2.mode = 'pinch';
+  }
+  if (g2.mode === 'tilt') {
+    const sp = sphNow(); sp.phi = clamp(sp.phi - (n.my - g2.my) * 0.006, 0.05, controls.maxPolarAngle);
+    camera.position.setFromSpherical(sp).add(controls.target); camera.lookAt(controls.target);
+  } else if (g2.mode === 'pinch') {
+    camera.updateMatrixWorld(); const A = planeAt(g2.mx, g2.my);
+    const sp = sphNow(); sp.radius = clamp(sp.radius * g2.d / Math.max(1, n.d), controls.minDistance, controls.maxDistance);
+    if (!g2.turn && Math.abs(g2.sa) > 0.2) g2.turn = true;   // a small turn of the fingers during a pinch does not turn the map
+    if (g2.turn) sp.theta += da;
+    camera.position.setFromSpherical(sp).add(controls.target); camera.lookAt(controls.target); camera.updateMatrixWorld();
+    const B = planeAt(n.mx, n.my);   // keep the ground point that was under the fingers under the fingers
+    if (A && B) { let dx = A[0] - B[0], dz = A[1] - B[1]; const k = Math.hypot(dx, dz), mx = sp.radius * 0.25; if (k > mx) { dx *= mx / k; dz *= mx / k; } controls.target.x += dx; controls.target.z += dz; camera.position.x += dx; camera.position.z += dz; }
+  }
+  Object.assign(g2, n); tween = null; dirty = true;
+});
+const tpEnd = e => { if (!tp.delete(e.pointerId)) return; g2 = tp.size === 2 ? Object.assign(two(), { mode: null, sd: 0, sa: 0, sx: 0, sy: 0, turn: false }) : null; if (!tp.size) setTimeout(() => { if (!tp.size) multi = false; }, 60); };
+canvas.addEventListener('pointerup', tpEnd); canvas.addEventListener('pointercancel', tpEnd);
+['gesturestart', 'gesturechange'].forEach(t => document.addEventListener(t, e => { if (PHONE) e.preventDefault(); }, { passive: false }));   // Safari: no zoom of the whole page
+
+/* ---------- phone: menu, round map buttons, card sheet, first-use hint ---------- */
+const needle = $('#needle'), tiltBtn = $('#btn-tilt'); let needleTh = 0;
+$('#btn-menu').addEventListener('click', () => { document.body.classList.toggle('menu'); res.classList.remove('open'); });
+$('#scrim').addEventListener('click', () => document.body.classList.remove('menu'));
+$('#menu-x').addEventListener('click', () => document.body.classList.remove('menu'));
+$('#btn-tilt').addEventListener('click', () => {   // change between a view from above and a tilted view
+  const sp = sphNow(), flat = sp.phi < 0.3, t = controls.target.clone();
+  tween = { t0: performance.now(), ms: 520, a: t, b: t.clone(), r0: sp.radius, r1: sp.radius, phi0: sp.phi, phi1: flat ? 0.86 : 0.06, theta: sp.theta };
+});
+let drag = null;
+card.addEventListener('pointerdown', e => {
+  if (!PHONE || LANDSCAPE || !e.target.closest('.grab')) return;
+  drag = { y: e.clientY, h: card.offsetHeight, moved: 0, last: e.clientY, dir: 0 }; card.classList.add('drag'); e.target.closest('.grab').setPointerCapture(e.pointerId); e.preventDefault();
+});
+card.addEventListener('pointermove', e => {
+  if (!drag) return; const dy = drag.y - e.clientY; drag.moved = Math.max(drag.moved, Math.abs(dy)); drag.dir = e.clientY < drag.last ? 1 : e.clientY > drag.last ? -1 : drag.dir; drag.last = e.clientY;
+  card.style.height = clamp(drag.h + dy, 70, SNAP.full()) + 'px'; dirty = true;
+});
+const dragEnd = () => {
+  if (!drag) return; const d = drag; drag = null; card.classList.remove('drag'); const h = card.offsetHeight, cur = card.dataset.snap || 'half';
+  if (d.moved < 7) { setSnap(cur === 'half' ? 'full' : 'half'); return; }             // a tap on the handle
+  const order = ['peek', 'half', 'full']; let best = 'half', bd = 1e9; for (const k of order) { const dd = Math.abs(SNAP[k]() - h); if (dd < bd) { bd = dd; best = k; } }
+  if (best === cur && d.moved > 36) best = order[clamp(order.indexOf(cur) + d.dir, 0, 2)];   // a clear drag moves one step
+  setSnap(best);
+};
+card.addEventListener('pointerup', dragEnd); card.addEventListener('pointercancel', dragEnd);
+const hint = $('#hint'), hintSeen = () => { try { return localStorage.getItem('me-explorer.hint') === '1'; } catch (e) { return false; } };
+const showHint = on => { hint.classList.toggle('on', on); if (!on) { try { localStorage.setItem('me-explorer.hint', '1'); } catch (e) { /* storage is not available */ } } };
+hint.addEventListener('click', () => showHint(false));
+document.addEventListener('click', e => { if (e.target.closest('[data-hint]')) { $('#about').classList.remove('open'); document.body.classList.remove('menu'); showHint(true); } });
+if (window.visualViewport) {   // the keyboard of a phone changes the visible height
+  const vv = () => { const st = document.documentElement.style; st.setProperty('--vvh', window.visualViewport.height + 'px'); st.setProperty('--vvt', window.visualViewport.offsetTop + 'px'); };
+  window.visualViewport.addEventListener('resize', vv); window.visualViewport.addEventListener('scroll', vv); vv();
+}
+if ('serviceWorker' in navigator && location.protocol === 'https:') navigator.serviceWorker.register('sw.js').catch(() => { /* the page works without it */ });
+
 const CHAT = initChat({ ITEMS, D, S, TYPE_NAME, ROLE_NAME, esc, fold, select, showPlaces, landId: () => (LAND ? LAND.id : null), onLayout: () => { dirty = true; } });
-window.__api = { S, ITEMS, D, CHAT, showPlaces, setLand, get LAND() { return LAND; }, select, flyTo, startJourney, stopJourney, setPlaying, gotoStage, home, get J() { return J; }, camera, controls, labels };
+window.__api = { S, ITEMS, D, CHAT, showPlaces, setSnap, showHint, get PHONE() { return PHONE; }, get VF() { return VF; }, setLand, get LAND() { return LAND; }, select, flyTo, startJourney, stopJourney, setPlaying, gotoStage, home, get J() { return J; }, camera, controls, labels };
 boot().catch(e => { document.body.classList.add('ready'); $('#loading').textContent = 'The map did not load: ' + e.message; console.error(e); });

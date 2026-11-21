@@ -28,6 +28,28 @@ The buttons below the title change the sheet. Search finds cards on all sheets. 
 | `Esc` | Close the card or the journey |
 | `Space`, `←`, `→` | Play a journey, go to the previous or next stage |
 
+## On an iPhone
+
+The page changes its layout when the screen is narrower than 900 px. This includes an iPhone, and an iPad that you hold upright.
+
+- **Top bar.** The menu button (three lines) opens the sheets, the layers, the journeys, and the lists. The search field is in the middle. **Ask** opens the loremaster.
+- **Card.** A card comes up from the bottom to half height. Drag the handle up for the full card, or down to make it small. Tap the handle to change between half and full.
+- **Round buttons** (right side): **2D / 3D** changes between a view from above and a tilted view. The **compass** turns north to the top. The last button shows the whole map.
+
+| Fingers | Result |
+|---|---|
+| One finger, drag | Move the map |
+| Two fingers, pinch | Zoom |
+| Two fingers, turn | Turn the map. The map follows your fingers. |
+| Two fingers, move up or down together | Tilt the map |
+| Tap a name | Open the card |
+
+The first visit shows these gestures in a short note. **About** has a link that shows the note again.
+
+**Home Screen app.** Open the web address in Safari. Tap **Share**, then **Add to Home Screen**. The map then opens full screen from its own icon. After one visit with a connection, the map also opens without a connection. The loremaster always needs a connection.
+
+**Lighter graphics.** On a phone the page uses half the terrain detail, a smaller relief image, and no edge smoothing. Add `?q=1` to the address for full terrain detail.
+
 ## Contents: Middle-earth
 
 - **Terrain.** A 2 km height grid with a 600 m parchment relief image. Relief is exaggerated 15 times. The factor decreases when you zoom in.
@@ -135,6 +157,7 @@ An AI model wrote the card text in its own words. A second model then examined e
 | `data-numenor/`, `data-aman/` | The modelled data of the two new sheets |
 | `scripts-numenor/`, `scripts-aman/` | `geo.py` (the control geometry) for each new sheet |
 | `scripts-landgen/` | The sheet generator: `terrain.py`, `make_vectors.py`, `preview.py`, `run.sh`, the briefs for the agents, and `check_cards.py` |
+| `icon-*.png`, `manifest.webmanifest`, `sw.js` | The Home Screen files: the icons, the app description, and the service worker that keeps the offline copy |
 | `source/` | `app.js`, `chat.js`, `template.html`, `build.py`, `package.json`, and the card files in `source/cards/`, `source/cards-beleriand/`, `source/cards-numenor/`, and `source/cards-aman/` |
 | `art/` | `out/` (processed images that `build.py` puts in the HTML file) and `process.py` |
 
@@ -154,5 +177,6 @@ An AI model wrote the card text in its own words. A second model then examined e
 - The loremaster can make errors, also in text that it gives a card for. The card is the source: open it to check.
 - The Aman sheet is a model with little support from the books. Do not use it as a source for where a place is.
 - 63 of the 116 map cards on the two new sheets have medium confidence, and 7 have low confidence.
+- The phone layout was tested in a simulated iPhone only (Chromium with touch emulation). No test used a real iPhone, Safari, or the Home Screen mode.
 - The file is about 24 MB. The first load can take some seconds.
 - Beleriand terrain is modelled, not measured. It is smoother than the Middle-earth terrain.

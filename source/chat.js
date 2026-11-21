@@ -302,16 +302,18 @@ export function initChat(ctx) {
   /* ---------- wiring ---------- */
   const isOpen = () => document.body.classList.contains('chat');
   function setOpen(on) {
+    if (!on && document.activeElement && document.activeElement.closest('#chat')) document.activeElement.blur();
     document.body.classList.toggle('chat', on); ctx.onLayout();
-    if (on) { if (!log.children.length) welcome(); renderSetup(!key); if (!IDX) setTimeout(() => { if (!IDX) buildIdx(); }, 60); setTimeout(() => (key ? input : $('#chat-key')).focus(), 80); }
+    if (on) { document.body.classList.remove('menu'); if (!log.children.length) welcome(); renderSetup(!key); if (!IDX) setTimeout(() => { if (!IDX) buildIdx(); }, 60); if (!document.body.classList.contains('phone')) setTimeout(() => (key ? input : $('#chat-key')).focus(), 80); }
   }
   form.addEventListener('submit', e => { e.preventDefault(); if (busy) { busy.abort(); return; } const v = input.value; input.value = ''; ask(v); });
   input.addEventListener('keydown', e => { if (e.key === 'Enter' && !e.shiftKey && !e.isComposing) { e.preventDefault(); if (!busy) form.requestSubmit(); } });
   log.addEventListener('click', e => {
     const a = e.target.closest('[data-go],[data-ask],[data-places]'); if (!a) return;
-    if (a.dataset.go) ctx.select(a.dataset.go);
+    const phone = document.body.classList.contains('phone');   // on a phone the chat covers the map: close it to show the card or the places
+    if (a.dataset.go) { if (phone) setOpen(false); ctx.select(a.dataset.go); }
     else if (a.dataset.ask) ask(a.dataset.ask);
-    else if (a.dataset.places) ctx.showPlaces(a.dataset.places.split('|'));
+    else if (a.dataset.places) { if (phone) setOpen(false); ctx.showPlaces(a.dataset.places.split('|')); }
   });
   $('#chat-x').addEventListener('click', () => setOpen(false));
   $('#chat-set').addEventListener('click', () => renderSetup(!setup.classList.contains('open')));

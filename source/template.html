@@ -2,7 +2,15 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Middle-earth">
+<meta name="theme-color" content="#1e150d">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="icon" type="image/png" href="icon-192.png">
+<link rel="manifest" href="manifest.webmanifest">
 <title>Middle-earth Explorer</title>
 <style>
 :root{--paper:#e6dabb;--paper2:#d8c9a4;--edge:#7b6038;--ink:#33251a;--ink2:#6a553a;--red:#8e2f1f;--blue:#4c483b;--green:#4d4829;--gold:#a07c34;
@@ -195,6 +203,68 @@ body.chat #chat{transform:none;visibility:visible}
 #chat-in{flex:1;resize:none;padding:7px 9px;border:1px solid var(--edge);border-radius:2px;background:rgba(255,250,232,.7);font:15px/1.35 var(--serif);color:var(--ink);outline:none}#chat-in:focus{background:#fffaea;box-shadow:0 0 0 2px rgba(142,47,31,.25)}
 #chat-send{align-self:stretch;min-width:58px;font:14px var(--serif);background:var(--red);color:#fbf0d2;border:1px solid #5e1c10;border-radius:2px;cursor:pointer}
 #chat .foot{margin:0;padding:2px 16px 10px;font-size:11.5px;color:var(--ink2);font-style:italic}
+#topbar,#scrim,#menu-x,#hint,.grab,#btn-tilt,.tools .ic{display:none}
+/* ---------- phone layout: the map fills the screen, a search bar at the top, cards rise from the bottom ---------- */
+html,body{overscroll-behavior:none}
+body.phone{font-size:16px;-webkit-tap-highlight-color:transparent;-webkit-text-size-adjust:100%}
+body.phone{touch-action:pan-x pan-y}
+body.phone button,body.phone a,body.phone label,body.phone summary,body.phone input{touch-action:pan-x pan-y}
+body.phone #about>div{touch-action:pan-y}
+body.phone #scroll,body.phone #card,body.phone #chat-log,body.phone #chat-setup,body.phone #results{touch-action:pan-y;-webkit-overflow-scrolling:touch}
+body.phone #topbar{display:flex;position:fixed;z-index:4;left:calc(10px + env(safe-area-inset-left));right:calc(10px + env(safe-area-inset-right));top:calc(8px + env(safe-area-inset-top));gap:8px}
+#topbar button{flex:0 0 auto;min-width:46px;height:46px;padding:0 13px;border:1px solid var(--edge);border-radius:9px;background:var(--paper);color:var(--ink);font:16px var(--serif);box-shadow:0 3px 12px rgba(0,0,0,.42)}
+#topbar #btn-menu{font-size:23px;line-height:1;padding:0}
+#topq{flex:1;position:relative;min-width:0}
+body.phone #q{margin:0;height:46px;font-size:16px;border-radius:9px;background:var(--paper);box-shadow:0 3px 12px rgba(0,0,0,.42);-webkit-appearance:none;appearance:none}
+body.phone #results{left:0;right:0;top:100%;margin-top:6px;border-radius:9px;max-height:calc(var(--vvh,100vh) - 90px - env(safe-area-inset-top))}
+body.phone #results a{padding:11px 12px;font-size:16px;flex-direction:column;gap:1px}body.phone #results span{white-space:normal;font-size:13px}
+body.phone #panel{z-index:12;left:0;top:0;bottom:0;width:min(88vw,350px);transform:translateX(-106%);padding-top:env(safe-area-inset-top);padding-bottom:env(safe-area-inset-bottom);padding-left:env(safe-area-inset-left)}
+body.phone.menu #panel{transform:none}
+body.phone.menu #scrim{display:block;position:fixed;inset:0;z-index:11;background:rgba(18,12,7,.58)}
+body.phone #menu-x{display:block;position:absolute;right:6px;top:6px;width:46px;height:46px;border:0;background:none;font:32px/1 var(--serif);color:var(--ink2)}
+body.phone #panel #btn-ask,body.phone #btn-panel,body.phone.nopanel #btn-panel{display:none}
+body.phone label.ck{padding:9px 0}body.phone label.ck input{width:21px;height:21px}
+body.phone summary{padding:7px 0;font-size:17px}
+body.phone #lands button{padding:10px 6px 9px;font-size:16px}
+body.phone .chip{padding:6px 12px;font-size:15px;border-radius:17px}
+body.phone .lorelist a,body.phone #battlelist a{padding:9px 0 9px 8px;font-size:15px}
+body.phone #journeys button{padding:11px 10px;font-size:16px}
+body.phone .groups summary{padding:9px 0;font-size:15.5px}
+body.phone #panel footer a{padding:8px 0 8px 12px}
+body.phone:not(.land) #card{left:0;right:0;top:auto;bottom:0;width:auto;height:46vh;border-radius:16px 16px 0 0;padding:0 18px calc(22px + env(safe-area-inset-bottom));transform:translateY(106%);transition:transform .3s,height .28s;z-index:5;overscroll-behavior:contain;box-shadow:0 -6px 24px rgba(0,0,0,.45)}
+body.phone:not(.land) #card.open{transform:none}
+body.phone:not(.land) #card.drag{transition:none}
+body.phone:not(.land) .grab{display:block;position:sticky;top:0;z-index:3;height:30px;margin:0 -18px 2px;touch-action:none;cursor:grab;background:linear-gradient(var(--paper) 62%,rgba(230,218,187,0))}
+.grab i{display:block;width:46px;height:5px;border-radius:3px;background:rgba(51,37,26,.4);margin:0 auto;position:relative;top:10px}
+body.phone #card .x{top:28px;width:46px;height:46px;margin:-8px -14px 0 0;font-size:33px;z-index:4}
+body.phone.land #card .x{top:0}
+body.phone.journey #card{display:none}
+body.phone #card h2{font-size:25px}body.phone .cardart{max-height:min(230px,27vh)}
+body.phone #card .chip,body.phone #card .links li a{margin:2px 0}
+body.phone.land #card{right:0;top:0;bottom:0;width:46vw;border-radius:0;padding-right:calc(22px + env(safe-area-inset-right));padding-bottom:calc(18px + env(safe-area-inset-bottom));z-index:5}
+body.phone.land #topbar{right:calc(46vw + 10px)}
+body.phone .tools{right:calc(10px + env(safe-area-inset-right));bottom:calc(max(var(--sheet,0px), env(safe-area-inset-bottom)) + 14px);flex-direction:column;gap:9px;z-index:3}
+body.phone .tools button{width:46px;height:46px;padding:0;border-radius:50%;display:flex;align-items:center;justify-content:center}
+body.phone .tools [data-chat],body.phone #btn-panel2,body.phone .tools .tx{display:none}
+body.phone .tools .ic{display:block;width:26px;height:26px}
+body.phone #btn-tilt{display:flex;font:600 14px -apple-system,"Helvetica Neue",sans-serif;letter-spacing:.02em}
+body.phone #card.open[data-snap=full]~.tools{display:none}
+body.phone.land .tools{right:auto;left:calc(10px + env(safe-area-inset-left));bottom:calc(12px + env(safe-area-inset-bottom))}
+body.phone #jbar{left:0;right:0;bottom:0;width:auto;min-width:0;transform:translateY(110%);border-radius:16px 16px 0 0;padding:12px 16px calc(14px + env(safe-area-inset-bottom));z-index:5}
+body.phone #jbar.open{transform:none}
+body.phone #jbar button{padding:9px 13px;font-size:15px}body.phone #jnote{font-size:14.5px}
+body.phone.land #jbar{right:auto;width:54vw;border-radius:0 16px 0 0;padding-left:calc(16px + env(safe-area-inset-left))}
+body.phone #chat{left:0;top:var(--vvt,0px);bottom:auto;height:var(--vvh,100vh);width:100vw;z-index:14;transform:translateY(106%);padding-top:env(safe-area-inset-top)}
+body.phone.chat #chat{transform:none}
+body.phone #chat-in,body.phone #chat-setup input[type=password],body.phone #chat-setup select{font-size:16px}
+body.phone #chat header button{padding:8px 12px;font-size:15px}body.phone #chat-x{font-size:26px!important;padding:2px 12px 4px!important}
+body.phone #chat-form{padding-bottom:calc(8px + env(safe-area-inset-bottom))}body.phone #chat .foot{display:none}
+body.phone .msg .chip.cite{padding:3px 8px;font-size:13px}body.phone .mapbtn,body.phone .ideas button,body.phone #chat-setup button{padding:9px 13px;font-size:15px}
+body.phone #about>div{width:calc(100vw - 20px);max-height:calc(var(--vvh,100vh) - 30px);padding:18px 18px 14px}
+#hint{position:fixed;z-index:9;left:50%;transform:translateX(-50%);bottom:calc(26px + env(safe-area-inset-bottom));width:min(340px,calc(100vw - 84px));padding:12px 16px 14px;border-radius:12px;font-size:14.5px;line-height:1.5;box-shadow:0 6px 26px rgba(0,0,0,.55)}
+#hint.on{display:block}
+#hint b{display:block;font-variant:small-caps;letter-spacing:.12em;color:var(--red);font-weight:400;font-size:15px;margin-bottom:2px}
+#hint em{display:block;margin-top:6px;font-size:12.5px;color:var(--ink2)}
 #loading{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;color:#d9c9a0;font:italic 20px var(--serif);background:#1a120b;z-index:30;transition:opacity .6s}
 body.ready #loading{opacity:0;pointer-events:none}
 .hide{display:none}
@@ -204,8 +274,12 @@ body.ready #loading{opacity:0;pointer-events:none}
 <canvas id="gl" tabindex="0"></canvas>
 <div id="labels"></div><div id="stages"></div><div id="walker"></div>
 
+<div id="topbar"><button id="btn-menu" aria-label="Open the menu">&#9776;</button><div id="topq"></div><button data-chat aria-label="Ask the loremaster, an AI assistant">Ask</button></div>
+<div id="scrim"></div>
+
 <aside id="panel" class="sheet">
   <header>
+    <button id="menu-x" aria-label="Close the menu">&times;</button>
     <h1><span id="land-name">Middle-earth</span><small id="land-sub">An explorer's map of the Third Age</small></h1>
     <nav id="lands"></nav>
     <input id="q" type="search" placeholder="Search people, places, things…  ( / )" autocomplete="off" spellcheck="false">
@@ -265,13 +339,16 @@ body.ready #loading{opacity:0;pointer-events:none}
   <div id="jstage"></div><div id="jnote"></div>
 </div>
 
-<div class="tools"><button data-chat title="Ask the AI assistant a question">Ask</button><button id="btn-home" title="Show the whole map">Whole map</button><button id="btn-north" title="Turn north to the top">North up</button><button id="btn-panel2" title="Hide or show the left panel">Panel</button></div>
+<div class="tools"><button data-chat title="Ask the AI assistant a question">Ask</button><button id="btn-tilt" title="Change between a view from above and a tilted view" aria-label="Tilt the map">2D</button><button id="btn-north" title="Turn north to the top" aria-label="Turn north to the top"><svg class="ic" id="needle" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.5 15.6 12H8.4z" fill="#8e2f1f"/><path d="M12 21.5 8.4 12h7.2z" fill="#8a7a5e"/><circle cx="12" cy="12" r="1.5" fill="#33251a"/></svg><span class="tx">North up</span></button><button id="btn-home" title="Show the whole map" aria-label="Show the whole map"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="#33251a" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/><rect x="8.5" y="8.5" width="7" height="7" rx="1"/></svg><span class="tx">Whole map</span></button><button id="btn-panel2" title="Hide or show the left panel">Panel</button></div>
+
+<div id="hint" class="sheet" role="status"><b>Move the map with your fingers</b>One finger: move the map.<br>Pinch: zoom in and out.<br>Turn two fingers: turn the map.<br>Two fingers up or down: tilt the map.<br>The compass button turns north to the top.<em>Touch this note to close it.</em></div>
 
 <div id="about"><div class="sheet">
   <h2>About this map</h2>
   <p>A personal, non-commercial explorer for Tolkien's world. It has four sheets: the north-west of Middle-earth at the end of the Third Age, Beleriand in the First Age, Númenor in the Second Age, and Aman in the Years of the Trees. Use the buttons below the title to change the sheet.</p>
   <h3>How to move</h3>
   <ul><li><b>Drag</b> to move. <b>Scroll</b> or pinch to zoom. <b>Shift-drag</b> or right-drag to turn and tilt.</li>
+  <li><b>On a phone:</b> one finger moves the map, a pinch zooms, a turn of two fingers turns the map, and two fingers up or down tilt it. The round buttons change between 2D and 3D, turn north to the top, and show the whole map. Drag the handle of a card up or down to change its size. <a data-hint>Show the finger gestures.</a></li>
   <li><b>Click</b> a name to open its card. <b>Double-click</b> a name or the land to fly there.</li>
   <li><b>Search</b> finds persons, creatures, things, places, realms, battles, and journeys on all sheets.</li>
   <li>When you open a <b>person</b> or a <b>thing</b>, the map marks each linked place in red. A small tag shows the link, for example <em>born</em>, <em>ruled</em>, or <em>died</em>. The buttons on the card move the map to each place.</li>
