@@ -2,7 +2,10 @@
 """Assembles the single-file explorer: for each land, data + cards + images; then the bundled script -> one HTML file."""
 import json, glob, base64, os, math, subprocess, sys, re, unicodedata
 from collections import Counter
-R = '/home/claude/me'; B = R + '/build'
+R = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))   # repo root (was '/home/claude/me')
+B = R + '/source'                                                   # esbuild project and template (was R + '/build', files in src/)
+DIST = os.environ.get('LOTR_DIST', B + '/dist')                     # scratch folder for the esbuild bundle
+SHEETS = {'bel': ('data-beleriand', 'source/cards-beleriand'), 'num': ('data-numenor', 'source/cards-numenor'), 'ama': ('data-aman', 'source/cards-aman')}
 LANG = ['English', 'Westron', 'Sindarin', 'Quenya', 'Khuzdul', 'Rohirric', 'Other']
 KIND = {'Towns': 'Settlement', 'Harbors': 'Haven', 'Fortresses': 'Stronghold', 'Doors_Gates': 'Gate', 'Buildings': 'Building', 'Bridges': 'Bridge', 'Fords': 'Ford', 'Cave_entrances': 'Cave', 'Falls': 'Waterfall', 'Graves_Tombs': 'Tomb', 'Mountains': 'Mountains', 'Mountains_of_Moria': 'Mountain', 'Hills': 'Hills', 'Forests': 'Forest', 'Swamps': 'Marsh', 'Lakes': 'Lake', 'Islands': 'Island', 'Bays': 'Bay', 'Fields': 'Field', 'Valleys': 'Valley', 'Rivers': 'River', 'Roads': 'Road', 'Walls': 'Wall'}
 warn = []
@@ -123,20 +126,20 @@ ART_CARDS = {'me': {('people', 'Hobbits'): 'p-hobbits', ('people', 'Rohirrim (Me
              'bel': {('people', 'Noldor'): 'p-noldor', ('people', 'Sindar'): 'p-sindar', ('people', 'House of Hador'): 'p-hador', ('people', 'Dragons'): 'p-dragons',
                      ('battle', 'Dagor Bragollach (Battle of Sudden Flame)'): 'b-bragollach', ('battle', 'Nírnaeth Arnoediad (Battle of Unnumbered Tears)'): 'b-nirnaeth',
                      ('battle', 'Fall of Gondolin'): 'b-gondolinfall', ('battle', 'War of Wrath'): 'b-warofwrath'}}
-LANDS = [('me', R + '/data', R + '/cards', {'name': 'Middle-earth', 'age': 'The Third Age', 'sub': "An explorer's map of the Third Age", 'compass': [250, 250, 62], 'sea': [['BELEGAER', 118, 900, 50, 30, -1.5708]],
+LANDS = [('me', R + '/data', R + '/source/cards', {'name': 'Middle-earth', 'age': 'The Third Age', 'sub': "An explorer's map of the Third Age", 'compass': [250, 250, 62], 'sea': [['BELEGAER', 118, 900, 50, 30, -1.5708]],
           'orn': {'border': 16, 'corner': 200, 'items': [['ship', 215, 735, 105], ['serpent', 160, 1130, 150]], 'cartouche': [272, 522, 380]}}, None)]
-if os.path.exists(R + '/bel/data/height.png'):
-    rg = {r['id']: r for r in load(R + '/bel/slices/regions.json', [])}
-    LANDS.append(('bel', R + '/bel/data', R + '/bel/cards', {'name': 'Beleriand', 'age': 'The First Age', 'sub': 'The lost lands of the Elder Days', 'modelled': True, 'compass': [182, 225, 56], 'sea': [['BELEGAER', 62, 820, 32, 20, -1.5708]],
+if os.path.exists(R + '/data-beleriand/height.png'):
+    rg = {r['id']: r for r in load(R + '/data-beleriand/regions.json', [])}
+    LANDS.append(('bel', R + '/data-beleriand', R + '/source/cards-beleriand', {'name': 'Beleriand', 'age': 'The First Age', 'sub': 'The lost lands of the Elder Days', 'modelled': True, 'compass': [182, 225, 56], 'sea': [['BELEGAER', 62, 820, 32, 20, -1.5708]],
         'orn': {'border': 11, 'corner': 100, 'items': [['ship', 150, 640, 70], ['swanship', 470, 105, 70], ['serpent', 128, 1060, 105]], 'cartouche': [128, 400, 205]}}, rg))
 # sheets made with landgen/ (Númenor, Aman): the map maker's plan.json holds the sheet settings, the art list and the link maps
 PLANS = {}
 for tag in ('num', 'ama'):
-    d = R + '/' + tag
-    if not (os.path.exists(d + '/data/height.png') and os.path.exists(d + '/plan.json')): continue
-    P = json.load(open(d + '/plan.json')); PLANS[tag] = P
-    rg = {r['id']: r for r in load(d + '/slices/regions.json', [])}
-    LANDS.append((tag, d + '/data', d + '/cards', dict(P['meta'], modelled=True), rg))
+    dd_, cd_ = R + '/' + SHEETS[tag][0], R + '/' + SHEETS[tag][1]
+    if not (os.path.exists(dd_ + '/height.png') and os.path.exists(cd_ + '/plan.json')): continue
+    P = json.load(open(cd_ + '/plan.json')); PLANS[tag] = P
+    rg = {r['id']: r for r in load(dd_ + '/regions.json', [])}
+    LANDS.append((tag, dd_, cd_, dict(P['meta'], modelled=True), rg))
 art = {}
 mime = {'jpg': 'image/jpeg', 'png': 'image/png'}
 for f in sorted(glob.glob(R + '/art/out/*')):
@@ -168,7 +171,7 @@ for tag, dd, cd, meta, rg in LANDS:
         if key in art: t['art'] = key; t.update({'artNear': 1} if a.get('near') else {})
     images += f'<img id="img-height-{tag}" class="hide" alt="" src="data:image/png;base64,{b64(dd + "/height.png")}">\n<img id="img-base-{tag}" class="hide" alt="" src="data:image/jpeg;base64,{b64(dd + "/base_sepia.jpg")}">\n'
 # ---- expansion: new places, persons, things (cards in new/cards) ----
-NEW = R + '/new/cards'
+NEW = R + '/source/cards-lore'
 def _load(pat):
     out = []
     for f in sorted(glob.glob(NEW + '/' + pat)):
@@ -190,7 +193,7 @@ for tag, P in PLANS.items():
         if PREFIX[tag] + i in items: OFFMAP.setdefault(name, PREFIX[tag] + i)
         else: warn.append(f'{tag}: offmap_map target {i!r} does not exist')
     for k, v in (P.get('lore_links') or {}).items(): LORELINKS.setdefault(k, []).extend(PREFIX[tag] + i for i in v)
-    lf = R + '/' + tag + '/cards/links.json'
+    lf = R + '/' + SHEETS[tag][1] + '/links.json'
     if os.path.exists(lf):
         for k, v in json.load(open(lf)).items(): XLINKS.setdefault(k, []).extend(dict(p, id=PREFIX[tag] + p['id']) for p in v)
 LORE_KEYS = ('id', 'title', 'kind', 'group', 'aka', 'blurb', 'book', 'film', 'series', 'facts', 'sources', 'confidence')
@@ -228,7 +231,7 @@ KNOW = ['hob', 'fotr', 'tt', 'rotk', 'silm', 'ut', 'time_a', 'time_b', 'idea_a',
 ORDERED = {'The Hobbit', 'The Fellowship of the Ring', 'The Two Towers', 'The Return of the King', 'The Silmarillion', 'Timeline'}
 know = []
 for n in KNOW:
-    f = R + '/new/know/lore_' + n + '.json'
+    f = R + '/source/knowledge/lore_' + n + '.json'
     if not os.path.exists(f): warn.append('no knowledge file ' + f); continue
     for c in json.load(open(f)):
         if c['id'] in items: warn.append(f"knowledge id clash {c['id']}"); continue
@@ -258,12 +261,12 @@ for it in items.values():   # place and battle cards may point to persons and th
 print('expansion: new places', nplaces, '| persons', sum(1 for i in lore if i['type'] == 'person'), '| things', sum(1 for i in lore if i['type'] == 'thing'), '| places with links', sum(1 for i in items.values() if i.get('linked')))
 data = {'lands': lands, 'items': items, 'art': art}
 print('art', {k: sorted(v) for k, v in art.items()})
-subprocess.run(['npx', 'esbuild', 'src/app.js', '--bundle', '--minify', '--format=iife', '--target=es2020', '--outfile=dist/app.js', '--log-level=warning'], cwd=B, check=True)
-app = open(B + '/dist/app.js').read().replace('</script', '<\\/script')
-html = open(B + '/src/template.html').read()
+subprocess.run(['npx', 'esbuild', 'app.js', '--bundle', '--minify', '--format=iife', '--target=es2020', '--outfile=' + DIST + '/app.js', '--log-level=warning'], cwd=B, check=True)
+app = open(DIST + '/app.js').read().replace('</script', '<\\/script')
+html = open(B + '/template.html').read()
 dj = json.dumps(data, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/')
 out = html.replace('__IMAGES__', images).replace('__DATA__', dj).replace('__APP__', app)
-dest = sys.argv[1] if len(sys.argv) > 1 else B + '/dist/Middle-earth Explorer.html'
+dest = sys.argv[1] if len(sys.argv) > 1 else DIST + '/Middle-earth Explorer.html'
 open(dest, 'w').write(out)
 print('html MB', round(len(out.encode()) / 1e6, 2))
 for w in warn: print('WARN', w)

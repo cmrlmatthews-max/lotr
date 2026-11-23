@@ -10,6 +10,10 @@ import { initChat } from './chat.js';
 const $ = (s, el = document) => el.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 const clamp = (v, a, b) => Math.max(a, Math.min(b, v));
+const SU = () => (window.SharedUI && typeof window.SharedUI === 'object' ? window.SharedUI : null);   // the shared library may be missing: every call is guarded
+const tryRun = f => { try { return f(); } catch (e) { return undefined; } };
+const mqCoarse = window.matchMedia('(pointer: coarse)');
+const mqRM = window.matchMedia('(prefers-reduced-motion: reduce)'); let RM = mqRM.matches;   // reduced motion: camera moves jump, nothing coasts
 const params = new URLSearchParams(location.search);
 const mqPhone = window.matchMedia('(max-width: 900px), (max-height: 500px) and (pointer: coarse)');
 const PHONE0 = params.get('phone') === '1' || (params.get('phone') !== '0' && mqPhone.matches);   // the state at load sets the terrain detail
@@ -38,8 +42,9 @@ const isLore = it => it && (it.type === 'person' || it.type === 'thing' || it.ty
 /* ---------- art (Gemini drawings prepared by art/process.py) ---------- */
 const ART = D.art || {}, artImg = {};
 function loadArt() {
-  const ps = [];
-  for (const [k, v] of Object.entries(ART)) for (const kind of ['sprite', 'orn', 'tex']) if (v[kind]) { const im = new Image(); im.src = v[kind]; artImg[k + ':' + kind] = im; ps.push(im.decode().catch(() => {})); }
+  const ps = []; let done = 0, total = 0;
+  for (const v of Object.values(ART)) for (const kind of ['sprite', 'orn', 'tex']) if (v[kind]) total++;
+  for (const [k, v] of Object.entries(ART)) for (const kind of ['sprite', 'orn', 'tex']) if (v[kind]) { const im = new Image(); im.src = v[kind]; artImg[k + ':' + kind] = im; ps.push(im.decode().catch(() => {}).then(() => setLoad(0.05 + 0.35 * ++done / total))); }
   return Promise.all(ps);
 }
 const haveArt = k => artImg[k] && artImg[k].naturalWidth > 0;
@@ -83,7 +88,7 @@ const scene = new THREE.Scene();
 scene.fog = new THREE.FogExp2(0x1a120b, 0.00011);
 const camera = new THREE.PerspectiveCamera(36, 1, 6, 14000);
 const controls = new MapControls(camera, canvas);
-controls.enableDamping = true; controls.dampingFactor = 0.09; controls.screenSpacePanning = false;
+controls.enableDamping = !RM; controls.dampingFactor = 0.09; controls.screenSpacePanning = false;
 controls.minDistance = 28; controls.maxDistance = 4300; controls.maxPolarAngle = Math.PI * 0.46;
 controls.zoomToCursor = true; controls.zoomSpeed = 1.1; controls.rotateSpeed = 0.5;
 controls.touches = { ONE: THREE.TOUCH.PAN, TWO: -1 };   // one finger moves the map; the two-finger gestures are below (pinch, turn, tilt)
@@ -408,22 +413,25 @@ function setHighlight(it) {
 /* ---------- camera ---------- */
 let tween = null;
 function flyTo(x, y, dist, ms = 1500) {
+  if (RM) ms = 0;
   controls._panOffset.set(0, 0, 0); controls._sphericalDelta.set(0, 0, 0);
   x = clamp(x, 0, W); y = clamp(y, 0, H);
   const to = new THREE.Vector3(wx(x), hAt(x, y) * EX, wz(y));
   const off = camera.position.clone().sub(controls.target); const cur = off.length(); dist = dist || cur;
   const sph = new THREE.Spherical().setFromVector3(off); const phi1 = dist < 500 ? clamp(sph.phi, 0.75, 1.05) : sph.phi;
   tween = { t0: performance.now(), ms, a: controls.target.clone(), b: to, r0: cur, r1: dist, phi0: sph.phi, phi1, theta: sph.theta };
+  if (RM) stepTween(performance.now());
 }
+function finishTween() { if (tween) { tween.t0 -= tween.ms + 1; stepTween(performance.now()); } }
 function stepTween(now) {
-  if (!tween) return; let k = clamp((now - tween.t0) / tween.ms, 0, 1); const e = k < 0.5 ? 4 * k * k * k : 1 - Math.pow(-2 * k + 2, 3) / 2;
+  if (!tween) return; let k = tween.ms > 0 ? clamp((now - tween.t0) / tween.ms, 0, 1) : 1; const e = k < 0.5 ? 4 * k * k * k : 1 - Math.pow(-2 * k + 2, 3) / 2;
   controls.target.lerpVectors(tween.a, tween.b, e);
   const r = Math.exp(Math.log(tween.r0) + (Math.log(tween.r1) - Math.log(tween.r0)) * e) + Math.sin(e * Math.PI) * tween.a.distanceTo(tween.b) * 0.22;
   const sph = new THREE.Spherical(r, tween.phi0 + (tween.phi1 - tween.phi0) * e, tween.theta);
   camera.position.setFromSpherical(sph).add(controls.target); camera.lookAt(controls.target);
   if (k >= 1) tween = null; dirty = true;
 }
-canvas.addEventListener('pointerdown', () => { tween = null; if (J && J.playing) setPlaying(false); });
+canvas.addEventListener('pointerdown', () => { tween = null; if (J && J.playing) setPlaying(false); if (hint.classList.contains('on')) showHint(false); });
 canvas.addEventListener('wheel', () => { tween = null; }, { passive: true });
 const ray = new THREE.Raycaster();
 function groundAt(clientX, clientY) {
@@ -438,7 +446,7 @@ canvas.addEventListener('dblclick', e => { const L = hitLabel(e.clientX, e.clien
 const card = $('#card');
 const paras = t => String(t || '').split(/\n\s*\n/).map(p => `<p>${esc(p.trim()).replace(/\n/g, '<br>')}</p>`).join('');
 const chip = id => ITEMS[id] ? `<a class="chip" data-go="${esc(id)}">${esc(ITEMS[id].title)}</a>` : '';
-function renderCard(it) {
+function renderCard(it, refresh) {
   let h = `<button class="x" data-close title="Close (Esc)">&times;</button><div class="kind">${esc(it.kind || TYPE_NAME[it.type])}${it.status ? ' &middot; ' + esc(it.status) : ''}</div><h2>${esc(it.title)}</h2>`;
   if (it.date || it.dates) h += `<div class="date">${esc(it.date || it.dates)}${it.war ? ' &middot; ' + esc(it.war) : ''}</div>`;
   if (it.travellers) h += `<div class="date">${esc(it.travellers)} &middot; <em>${esc(it.source || '')}</em></div>`;
@@ -467,8 +475,15 @@ function renderCard(it) {
   if (it.prev || it.next) h += `<p class="pn">${ITEMS[it.prev] ? `<a data-go="${esc(it.prev)}">&larr; ${esc(ITEMS[it.prev].title)}</a>` : '<span></span>'}${ITEMS[it.next] ? `<a data-go="${esc(it.next)}">${esc(ITEMS[it.next].title)} &rarr;</a>` : ''}</p>`;
   if (it.sources && it.sources.length) h += `<p class="sources"><b>Where to read:</b> ${it.sources.map(esc).join('; ')}</p>`;
   if (!it.hidden) h += `<p class="conf c-${esc(it.confidence || 'medium')}">Confidence: ${esc(it.confidence || 'medium')}${it.confidence === 'high' ? '' : '. Check this card against the books.'}</p>`;
-  card.innerHTML = '<div class="grab" title="Drag to change the size"><i></i></div>' + h; card.scrollTop = 0; card.classList.add('open'); setSnap(card.dataset.snap === 'full' ? 'full' : 'half');
+  const wasOpen = card.classList.contains('open');
+  card.innerHTML = '<div class="grab" title="Drag to change the size"><i></i></div>' + h; card.scrollTop = 0; card.classList.add('open'); card.setAttribute('aria-label', it.title || 'Details'); setSnap(card.dataset.snap === 'full' ? 'full' : 'half');
+  if (!refresh) {
+    if (!wasOpen) { const a = document.activeElement; cardOpener = a && a !== document.body && a !== document.documentElement && !card.contains(a) ? a : null; }
+    if (!booting) tryRun(() => card.focus({ preventScroll: true }));
+    syncUrl(); noteResume(it);
+  }
 }
+let cardOpener = null;
 function loreLand(it) {   // the sheet that shows most of the linked places; the current sheet wins a tie
   const n = {}; for (const p of it.places || []) { const t = ITEMS[p.id]; if (t && t.land) n[t.land] = (n[t.land] || 0) + 1; }
   let best = LAND ? LAND.id : null, bn = best ? (n[best] || 0) : -1; for (const [k, v] of Object.entries(n)) if (v > bn) { best = k; bn = v; }
@@ -508,7 +523,11 @@ function showPlaces(ids) {   // the assistant asks the map to mark a set of plac
   ITEMS['chat:places'] = { id: 'chat:places', type: 'lore', hidden: 1, land: null, title: 'Places in the answer', kind: 'From the loremaster', blurb: 'The map marks these places in red. Select a name to go to its card.', places: pl };
   select('chat:places');
 }
-function closeCard() { card.classList.remove('open'); S.sel = null; S.ctx = null; setLinks(null); setHighlight(null); dirty = true; }
+function closeCard() {
+  const was = card.classList.contains('open'); card.classList.remove('open'); S.sel = null; S.ctx = null; setLinks(null); setHighlight(null); dirty = true;
+  if (was) { const a = document.activeElement; if (cardOpener && cardOpener.isConnected && (!a || a === document.body || card.contains(a))) tryRun(() => cardOpener.focus({ preventScroll: true })); }
+  cardOpener = null; syncUrl();
+}
 card.addEventListener('click', e => {
   const t = e.target.closest('[data-go],[data-close],[data-stage]'); if (!t) return;
   if (t.dataset.close !== undefined) { J ? stopJourney() : closeCard(); }
@@ -554,19 +573,19 @@ function startJourney(id) {
   for (let i = 1; i < pts.length; i++) cum.push(cum[i - 1] + Math.hypot(pts[i][0] - pts[i - 1][0], pts[i][1] - pts[i - 1][1]));
   let last = 0; const sp = it.stages.map(s => { let bi = last, bd = 1e9; for (let i = last; i < pts.length; i++) { const d = Math.hypot(pts[i][0] - s.x, pts[i][1] - s.y); if (d < bd) { bd = d; bi = i; } } last = bi; return bi; });
   sp[0] = 0; sp[sp.length - 1] = pts.length - 1;
-  J = { it, pts, cum, total: cum[cum.length - 1], sp, i: 0, k: 0, playing: false, stage: 0 };
+  J = { it, pts, cum, total: cum[cum.length - 1], sp, i: 0, k: 0, playing: false, stage: 0, quiet: true };
   J.ghost = makeLine(pts, 0x8e2f1f, 2.2, { dash: [1, 0.8], opacity: 0.6, order: 3, lift: 0.09 });
   J.done = makeLine(pts, 0xb3261a, 4, { opacity: 0.95, order: 4, lift: 0.1 }); J.done.geometry.instanceCount = 0;
-  stageLayer.innerHTML = it.stages.map((s, i) => `<div class="stg" data-stage="${i}" title="${esc(s.title)}"><b>${i + 1}</b></div>`).join('');
+  stageLayer.innerHTML = it.stages.map((s, i) => `<div class="stg" data-stage="${i}" title="${esc(s.title)}" aria-label="Stage ${i + 1}: ${esc(s.title)}"><b>${i + 1}</b></div>`).join('');
   J.els = [...stageLayer.children]; S.journey = id; S.sel = id; setHighlight(null); renderCard(it);
-  bar.classList.add('open'); walker.classList.add('on'); document.querySelectorAll('#journeys button').forEach(b => b.classList.toggle('act', b.dataset.go === id));
-  gotoStage(0, false); const xs = pts.map(p => p[0]), ys = pts.map(p => p[1]);
+  bar.classList.add('open'); walker.classList.add('on'); document.querySelectorAll('#journeys button').forEach(b => { const on = b.dataset.go === id; b.classList.toggle('act', on); b.setAttribute('aria-pressed', on ? 'true' : 'false'); });
+  gotoStage(0, false); J.quiet = false; const xs = pts.map(p => p[0]), ys = pts.map(p => p[1]);
   const cx = (Math.min(...xs) + Math.max(...xs)) / 2, cy = (Math.min(...ys) + Math.max(...ys)) / 2, span = Math.max((Math.max(...xs) - Math.min(...xs)) * VF, (Math.max(...ys) - Math.min(...ys)) * 1.4);
   flyTo(cx, cy, clamp(span * 1.25, 300, 3200 * VF)); document.body.classList.add('journey'); dirty = true;
 }
 function stopJourney(keepCard) {
   if (!J) return; dropLine(J.ghost); dropLine(J.done); stageLayer.innerHTML = ''; bar.classList.remove('open'); walker.classList.remove('on');
-  document.querySelectorAll('#journeys button').forEach(b => b.classList.remove('act')); J = null; S.journey = null; document.body.classList.remove('journey'); if (!keepCard) closeCard(); dirty = true;
+  document.querySelectorAll('#journeys button').forEach(b => { b.classList.remove('act'); b.setAttribute('aria-pressed', 'false'); }); J = null; S.journey = null; document.body.classList.remove('journey'); if (!keepCard) closeCard(); dirty = true;
 }
 function setProgress(i) {
   J.i = clamp(i, 0, J.pts.length - 1); J.done.geometry.instanceCount = Math.floor(J.i);
@@ -576,11 +595,12 @@ function setProgress(i) {
 }
 function showStage(st) {
   const s = J.it.stages[st];
+  say(`Stage ${st + 1} of ${J.it.stages.length}: ${s.title}`);
   $('#jtitle').textContent = J.it.title; $('#jstage').innerHTML = `<b>${st + 1} / ${J.it.stages.length} &middot; ${esc(s.title)}</b>${s.date ? ` <span>${esc(s.date)}</span>` : ''}`;
   $('#jnote').innerHTML = esc(s.note) + (s.film && S.src.film ? ` <span class="tag f">Film</span> ${esc(s.film)}` : '');
   J.els.forEach((e, i) => { e.classList.toggle('cur', i === st); e.classList.toggle('past', i < st); });
   card.querySelectorAll('.stages li').forEach((li, i) => li.classList.toggle('cur', i === st));
-  const li = card.querySelector('.stages li.cur'); if (li && !J.playing) li.scrollIntoView({ block: 'nearest' });
+  const li = card.querySelector('.stages li.cur'); if (li && !J.playing && !J.quiet) li.scrollIntoView({ block: 'nearest' });
 }
 function gotoStage(st, fly) { st = clamp(st, 0, J.it.stages.length - 1); setPlaying(false); setProgress(J.sp[st]); J.stage = st; showStage(st); if (fly) { const s = J.it.stages[st]; flyTo(s.x, s.y, Math.min(camera.position.distanceTo(controls.target), 380), 1100); } }
 function setPlaying(p) {
@@ -605,7 +625,7 @@ function stepJourney(dt) {
 const GROUP_ORDER = ['Hobbits', 'Men', 'Elves', 'Dwarves', 'Wizards and Maiar', 'Valar', 'Enemies', 'Creatures', 'Rings', 'Jewels', 'Weapons and armour', 'Seeing-stones', 'Ships', 'Books and heirlooms', 'Trees, plants and substances', 'Other', 'The Hobbit', 'The Fellowship of the Ring', 'The Two Towers', 'The Return of the King', 'The Silmarillion', 'Unfinished Tales and other books', 'Timeline', 'Powers, peoples and ideas', 'Lands beyond the map', 'Lines and lists', 'Films and series', 'Questions readers ask'];
 function buildPanel() {
   const by = t => Object.values(ITEMS).filter(i => i.type === t && i.land === LAND.id);
-  $('#journeys').innerHTML = by('journey').map(j => `<button data-go="${esc(j.id)}"><b>${esc(j.title)}</b><span>${esc(j.travellers || '')}</span></button>`).join('') || '<p class="muted">No journeys loaded.</p>';
+  $('#journeys').innerHTML = by('journey').map(j => `<button data-go="${esc(j.id)}" aria-pressed="false"><b>${esc(j.title)}</b><span>${esc(j.travellers || '')}</span></button>`).join('') || '<p class="muted">No journeys loaded.</p>';
   $('#peoples').innerHTML = by('people').sort((a, b) => a.title.localeCompare(b.title)).map(p => `<a class="chip" data-go="${esc(p.id)}">${esc(p.title)}</a>`).join('');
   const bs = by('battle').sort((a, b) => (a.year_sort || 0) - (b.year_sort || 0));
   $('#battlelist').innerHTML = bs.map(b => `<a data-go="${esc(b.id)}"><span>${esc((b.date || '').replace(/,.*/, ''))}</span>${esc(b.title)}</a>`).join('');
@@ -621,8 +641,8 @@ function buildPanel() {
 }
 $('#panel').addEventListener('click', e => { const g = e.target.closest('[data-go]'); if (g) { document.body.classList.remove('menu'); if (S.journey === g.dataset.go) stopJourney(); else select(g.dataset.go); } });
 $('#panel').addEventListener('change', e => {
-  const t = e.target; if (t.dataset.layer) { S.layers[t.dataset.layer] = t.checked; if (/woods|water/.test(t.dataset.layer)) redraw(); syncInk(); }
-  if (t.dataset.src) { S.src[t.dataset.src] = t.checked; if (S.sel) renderCard(ITEMS[S.sel]); if (J) showStage(J.stage); }
+  const t = e.target; if (t.dataset.layer) { S.layers[t.dataset.layer] = t.checked; if (/woods|water/.test(t.dataset.layer)) redraw(); syncInk(); syncUrl(); }
+  if (t.dataset.src) { S.src[t.dataset.src] = t.checked; if (S.sel) renderCard(ITEMS[S.sel], true); if (J) showStage(J.stage); }
   dirty = true;
 });
 $('#ex').addEventListener('input', e => { S.ex = +e.target.value; $('#exv').textContent = S.ex + '×'; dirty = true; });
@@ -630,7 +650,7 @@ const q = $('#q'), res = $('#results'); let INDEX = [];
 const fold = s => s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
 function buildIndex() { INDEX = Object.values(ITEMS).map(it => ({ it, t: fold(it.title), alt: fold(Object.values(it.names || {}).concat(it.aka || []).join(' | ')) })); }
 function search(s) {
-  s = fold(s.trim()); if (!s) { res.innerHTML = ''; res.classList.remove('open'); return []; }
+  s = fold(s.trim()); if (!s) { res.innerHTML = ''; res.classList.remove('open'); q.setAttribute('aria-expanded', 'false'); q.removeAttribute('aria-activedescendant'); return []; }
   const out = [];
   for (const e of INDEX) {
     const t = e.t, it = e.it; let sc = t === s ? 0 : t.startsWith(s) ? 1 : t.includes(' ' + s) || t.includes('-' + s) ? 2 : t.includes(s) ? 3 : (' | ' + e.alt).includes(' | ' + s) ? 3.5 : e.alt.includes(s) ? 5 : -1;
@@ -638,16 +658,28 @@ function search(s) {
   }
   out.sort((a, b) => a[0] - b[0] || a[1].title.localeCompare(b[1].title)); const top = out.slice(0, 12).map(o => o[1]);
   const where = it => isLore(it) ? '' : it.land !== LAND.id ? ' · ' + esc(D.lands.find(l => l.id === it.land).name) : '';
-  res.innerHTML = top.map(it => `<a data-go="${esc(it.id)}"><b>${esc(it.title)}</b><span><i class="ty ty-${it.type}">${TYPE_NAME[it.type]}</i>${esc(it.kind || '')}${where(it)}</span></a>`).join('') || '<p class="muted">No match.</p>'; res.classList.add('open'); return top;
+  res.innerHTML = top.map((it, i) => `<a data-go="${esc(it.id)}" role="option" id="opt-${i}" aria-selected="false"><b>${esc(it.title)}</b><span><i class="ty ty-${it.type}">${TYPE_NAME[it.type]}</i>${esc(it.kind || '')}${where(it)}</span></a>`).join('') || '<p class="muted">No match.</p>'; res.classList.add('open'); if (!document.body.classList.contains('phone')) { res.style.maxHeight = ''; const rt = res.getBoundingClientRect().top; res.style.maxHeight = Math.max(120, Math.min(innerHeight * .6, innerHeight - rt - 12)) + 'px'; } else res.style.maxHeight = ''; q.setAttribute('aria-expanded', 'true'); q.removeAttribute('aria-activedescendant'); say(top.length ? `${top.length} ${top.length === 1 ? 'result' : 'results'}` : 'No match', 500); return top;
 }
 q.addEventListener('input', () => search(q.value));
-q.addEventListener('keydown', e => { if (e.key === 'Enter') { const t = search(q.value); if (t[0]) { select(t[0].id); res.classList.remove('open'); q.value = ''; q.blur(); } } if (e.key === 'Escape') { q.value = ''; search(''); q.blur(); } });
-res.addEventListener('click', e => { const g = e.target.closest('[data-go]'); if (g) { select(g.dataset.go); res.classList.remove('open'); q.value = ''; q.blur(); } });
+const closeResults = () => { const was = res.classList.contains('open'); res.classList.remove('open'); q.setAttribute('aria-expanded', 'false'); q.removeAttribute('aria-activedescendant'); return was; };
+function moveOpt(d) {
+  const opts = [...res.querySelectorAll('[role=option]')]; if (!opts.length || !res.classList.contains('open')) return false;
+  let i = opts.findIndex(o => o.classList.contains('act')); opts.forEach(o => { o.classList.remove('act'); o.setAttribute('aria-selected', 'false'); });
+  i = i < 0 ? (d > 0 ? 0 : opts.length - 1) : (i + d + opts.length) % opts.length;
+  opts[i].classList.add('act'); opts[i].setAttribute('aria-selected', 'true'); q.setAttribute('aria-activedescendant', opts[i].id); opts[i].scrollIntoView({ block: 'nearest' }); return true;
+}
+q.addEventListener('keydown', e => {
+  if (e.key === 'ArrowDown' || e.key === 'ArrowUp') { if (moveOpt(e.key === 'ArrowDown' ? 1 : -1)) e.preventDefault(); return; }
+  if (e.key === 'Enter') { const a = res.querySelector('.act'); const t = a ? [ITEMS[a.dataset.go]] : search(q.value); if (t[0]) { select(t[0].id); closeResults(); q.value = ''; q.blur(); } }
+  if (e.key === 'Escape') { e.preventDefault(); if (res.classList.contains('open') || q.value) { q.value = ''; search(''); closeResults(); } else { q.blur(); closeTopLayer(); } }
+});
+res.addEventListener('click', e => { const g = e.target.closest('[data-go]'); if (g) { select(g.dataset.go); closeResults(); q.value = ''; q.blur(); } });
 window.addEventListener('keydown', e => {
   if (e.target === q) return;
+  if (e.key === 'Escape') { if (closeTopLayer()) { e.preventDefault(); return; } }
+  if ((e.key === 'Enter' || e.key === ' ') && e.target.matches && e.target.matches('[data-kb]')) { e.preventDefault(); e.target.click(); return; }
   if (e.target.closest && e.target.closest('input,textarea,select')) { if (e.key === 'Escape') e.target.blur(); return; }
-  if (e.key === '/') { e.preventDefault(); q.focus(); q.select(); }
-  if (e.key === 'Escape') { if ($('#about').classList.contains('open')) $('#about').classList.remove('open'); else if (J) stopJourney(); else if (S.sel) closeCard(); else if (CHAT && CHAT.isOpen()) CHAT.setOpen(false); }
+  if (e.key === '/') { e.preventDefault(); document.body.classList.remove('nopanel'); q.focus(); q.select(); }
   if (e.key === ' ' && J) { e.preventDefault(); setPlaying(!J.playing); }
   if (J && e.key === 'ArrowRight') gotoStage(J.stage + 1, true); if (J && e.key === 'ArrowLeft') gotoStage(J.stage - 1, true);
 });
@@ -667,24 +699,28 @@ function clearLand() {
   labels.length = 0; labelLayer.innerHTML = ''; hover = null; patWood = patSwamp = patCanopy = null; canvas.style.cursor = '';
 }
 let landBusy = null;
-function setLand(id) {
+function setLand(id, view) {
   const L = D.lands.find(l => l.id === id); if (!L) return Promise.resolve();
   if (LAND && LAND.id === id) return landBusy || Promise.resolve();
   clearLand(); LAND = L; W = L.wkm; H = L.hkm; FE = L.features; LS = Math.max(1, Math.max(W, H * 1.13) / 2352);
   hImg = $('#img-height-' + id); bImg = $('#img-base-' + id);
-  document.querySelectorAll('#lands button').forEach(b => b.classList.toggle('act', b.dataset.land === id));
+  document.querySelectorAll('#lands button').forEach(b => { const on = b.dataset.land === id; b.classList.toggle('act', on); b.setAttribute('aria-pressed', on ? 'true' : 'false'); });
   $('#land-name').textContent = L.name; $('#land-sub').textContent = L.sub; $('#land-note').classList.toggle('hide', !L.modelled);
-  landBusy = Promise.all([hImg.decode(), bImg.decode()]).then(() => {
-    if (LAND !== L) return;
-    decodeHeights(); applyCanopy(); buildTerrain(); redraw(); buildInk(); syncInk(); buildLabels(); buildSprites(); buildPanel();
-    controls.maxDistance = Math.max(W, H) * 1.85 * VF; home(); landBusy = null; dirty = true;
-  });
+  landBusy = (async () => {
+    await Promise.all([hImg.decode(), bImg.decode()]); if (LAND !== L) return;
+    setLoad(0.55); await yieldPaint(); if (LAND !== L) return;
+    decodeHeights(); applyCanopy(); setLoad(0.66); await yieldPaint(); if (LAND !== L) return;
+    buildTerrain(); redraw(); setLoad(0.8); await yieldPaint(); if (LAND !== L) return;
+    buildInk(); syncInk(); buildLabels(); buildSprites(); setLoad(0.92); await yieldPaint(); if (LAND !== L) return;
+    buildPanel();
+    controls.maxDistance = Math.max(W, H) * 1.85 * VF; if (view) applyView(view); else home(); landBusy = null; dirty = true; syncUrl(); noteResume(null);
+  })();
   return landBusy;
 }
 $('#lands').addEventListener('click', e => { const b = e.target.closest('button'); if (b) { document.body.classList.remove('menu'); setLand(b.dataset.land); } });
 
 /* ---------- loop ---------- */
-let dirty = true, lastT = performance.now(), poCur = 150, poYCur = 0, sheetCss = -1;
+let dirty = true, lastT = performance.now(), poCur = 150, poYCur = 0, sheetCss = -1, viewT = 0;
 /* ---------- phone layout ---------- */
 const SNAP = { peek: () => 104, half: () => Math.round(vh * 0.46), full: () => Math.round(vh - TOPB - 4) };
 function setSnap(s) { card.dataset.snap = s; card.style.height = PHONE && !LANDSCAPE ? SNAP[s]() + 'px' : ''; dirty = true; }
@@ -692,7 +728,9 @@ const sheetPx = () => (!PHONE || LANDSCAPE ? 0 : bar.classList.contains('open') 
 function applyPhone() {
   PHONE = params.get('phone') === '1' || (params.get('phone') !== '0' && mqPhone.matches);
   LANDSCAPE = PHONE && window.innerWidth > window.innerHeight;
-  document.body.classList.toggle('phone', PHONE); document.body.classList.toggle('land', LANDSCAPE); if (!PHONE) document.body.classList.remove('menu');
+  document.body.classList.toggle('phone', PHONE); document.body.classList.toggle('land', LANDSCAPE); document.body.classList.toggle('coarse', mqCoarse.matches); if (!PHONE) document.body.classList.remove('menu');
+  const pe = $('#panel'); if (PHONE) { pe.setAttribute('role', 'dialog'); pe.setAttribute('aria-modal', 'true'); } else { pe.removeAttribute('role'); pe.removeAttribute('aria-modal'); }
+  $('#chat').setAttribute('aria-modal', PHONE ? 'true' : 'false'); syncLayers();
   TOPB = PHONE && !LANDSCAPE ? Math.max(TOPH, Math.round($('#topbar').getBoundingClientRect().bottom) + 8) : TOPH;
   const qEl = $('#q'), rEl = $('#results'), inTop = qEl.parentElement.id === 'topq';
   if (PHONE && !inTop) { $('#topq').append(qEl, rEl); qEl.placeholder = 'Search people, places, things…'; }
@@ -710,7 +748,7 @@ controls.addEventListener('change', () => { dirty = true; });
 function frame(now) {
   const dt = Math.min(0.1, (now - lastT) / 1000); lastT = now;
   stepTween(now); if (!tween) controls.update();
-  const pg = poGoal(), pgy = poGoalY(); if (Math.abs(pg - poCur) > 0.5 || Math.abs(pgy - poYCur) > 0.5) { poCur += (pg - poCur) * Math.min(1, dt * 5); poYCur += (pgy - poYCur) * Math.min(1, dt * 7); camera.setViewOffset(vw, vh, -poCur / 2, poYCur, vw, vh); camera.updateProjectionMatrix(); dirty = true; }
+  const pg = poGoal(), pgy = poGoalY(); if (Math.abs(pg - poCur) > 0.5 || Math.abs(pgy - poYCur) > 0.5) { if (RM) { poCur = pg; poYCur = pgy; } else { poCur += (pg - poCur) * Math.min(1, dt * 5); poYCur += (pgy - poYCur) * Math.min(1, dt * 7); } camera.setViewOffset(vw, vh, -poCur / 2, poYCur, vw, vh); camera.updateProjectionMatrix(); dirty = true; }
   if (PHONE) { const sp = sheetPx(); if (sp !== sheetCss) { sheetCss = sp; document.documentElement.style.setProperty('--sheet', sp + 'px'); } const th = Math.atan2(camera.position.x - controls.target.x, camera.position.z - controls.target.z); if (Math.abs(th - needleTh) > 0.01) { needleTh = th; needle.style.transform = `rotate(${th}rad)`; } const tl = (camera.position.y - controls.target.y) / camera.position.distanceTo(controls.target) > Math.cos(0.3) ? '3D' : '2D'; if (tiltBtn.textContent !== tl) tiltBtn.textContent = tl; }
   const nEX = exFor(camera.position.distanceTo(controls.target)); if (Math.abs(nEX - EX) > 0.005) { EX = nEX; terrain.scale.y = EX; dirty = true; }
   const t = controls.target; t.x = clamp(t.x, -W / 2, W / 2); t.z = clamp(t.z, -H / 2, H / 2);
@@ -718,16 +756,70 @@ function frame(now) {
   const cx = camera.position.x + W / 2, cy = H / 2 - camera.position.z;
   if (cx > 0 && cx < W && cy > 0 && cy < H) { const fl = hAt(cx, cy) * EX + 6; if (camera.position.y < fl) { camera.position.y = fl; dirty = true; } }
   if (J) { stepJourney(dt); if (J && J.playing) dirty = true; }
+  if (dirty) viewT = now;
+  if (viewT && now - viewT > 500) { viewT = 0; saveView(); }
   if (dirty) { dirty = false; const ds = 1 / (0.0075 * camera.position.distanceTo(controls.target)); for (const m of dashMats) m.dashScale = ds; camera.updateMatrixWorld(); updateSprites(); renderer.render(scene, camera); updateLabels(); if (J) stepJourney(0); }
   requestAnimationFrame(frame);
 }
+let booting = true;
+const loadbar = $('#loadbar');
+const setLoad = f => { if (loadbar) loadbar.value = Math.max(loadbar.value, Math.min(1, f)); };
+const yieldPaint = () => (booting ? new Promise(r => { let d = false; const go = () => { if (!d) { d = true; r(); } }; requestAnimationFrame(() => setTimeout(go, 0)); setTimeout(go, 80); }) : Promise.resolve());
+function snapOffsets() { poCur = poGoal(); poYCur = poGoalY(); camera.setViewOffset(vw, vh, -poCur / 2, poYCur, vw, vh); camera.updateProjectionMatrix(); }
 async function boot() {
-  resize(); buildIndex(); await loadArt();
-  $('#lands').innerHTML = D.lands.length > 1 ? D.lands.map(l => `<button data-land="${l.id}"><b>${esc(l.age)}</b>${esc(l.name)}</button>`).join('') : '';
-  await setLand(D.lands.some(l => l.id === params.get('land')) ? params.get('land') : D.lands[0].id);
+  const su = SU(); if (su) { tryRun(() => su.init({ module: 'lotr', title: 'Middle-earth' })); const hr = $('#hubrow'); if (hr && su.hubLink) tryRun(() => hr.append(su.hubLink())); }
+  resize(); buildIndex(); setLoad(0.05);
+  const urlLand = params.get('land'), urlCard = params.get('card'), urlLayers = params.get('layers');
+  if (urlLayers !== null) { const on = new Set(urlLayers.split(',')); for (const k of Object.keys(S.layers)) S.layers[k] = on.has(k); document.querySelectorAll('[data-layer]').forEach(c => { c.checked = !!S.layers[c.dataset.layer]; }); }
+  let view = !urlCard ? readView() : null; const landOk = id => D.lands.some(l => l.id === id);
+  if (view && urlLand && landOk(urlLand) && view.land !== urlLand) view = null;
+  await loadArt(); setLoad(0.4);
+  $('#lands').innerHTML = D.lands.length > 1 ? D.lands.map(l => `<button data-land="${l.id}" aria-pressed="false"><b>${esc(l.age)}</b>${esc(l.name)}</button>`).join('') : '';
+  const startLand = landOk(urlLand) ? urlLand : view ? view.land : D.lands[0].id;
+  await setLand(startLand, view && view.land === startLand ? view : null);
   $('#exv').textContent = S.ex + '×'; $('#ex').value = S.ex;
+  if (urlCard && ITEMS[urlCard] && !ITEMS[urlCard].hidden) {   // a link with a card: show it at once, with no flight
+    const it = ITEMS[urlCard], ld = isLore(it) ? loreLand(it) : it.land; if (ld && LAND && ld !== LAND.id) await setLand(ld);
+    select(urlCard, true); if (landBusy) await landBusy; finishTween();
+  }
+  snapOffsets(); setLoad(1); booting = false; viewReady = true;
   requestAnimationFrame(t => { frame(t); document.body.classList.add('ready'); window.__ready = true; if (PHONE && !hintSeen() && !params.get('q')) setTimeout(() => showHint(true), 900); });
 }
+/* ---------- state in the address, saved camera, resume record for the hub ---------- */
+let viewReady = false;
+const VIEW_KEY = 'me-explorer.view';
+function syncUrl() {
+  tryRun(() => {
+    const u = new URL(location.href), p = u.searchParams;
+    if (LAND) p.set('land', LAND.id);
+    const it = S.sel && ITEMS[S.sel]; if (it && !it.hidden) p.set('card', S.sel); else p.delete('card');
+    const keys = Object.keys(S.layers), on = keys.filter(k => S.layers[k]); if (on.length === keys.length) p.delete('layers'); else p.set('layers', on.join(','));
+    const s = (u.pathname + u.search + u.hash).replace(/%3A/gi, ':').replace(/%2C/gi, ',');
+    if (s !== location.pathname + location.search + location.hash) history.replaceState(history.state, '', s);
+  });
+}
+function noteResume(it) {
+  const su = SU(); if (!su || !su.resume || !LAND) return;
+  const age = String(LAND.age || '').replace(/^The\s+/i, ''), label = it && !it.hidden ? `${it.title}, ${age ? age + ' ' : ''}map` : LAND.name;
+  tryRun(() => su.resume.set({ label, url: location.href }));
+}
+function readView() {
+  return tryRun(() => { const v = JSON.parse(localStorage.getItem(VIEW_KEY)); return v && D.lands.some(l => l.id === v.land) && [v.x, v.y, v.r, v.phi, v.theta].every(Number.isFinite) ? v : null; }) || null;
+}
+function applyView(v) {
+  const x = clamp(v.x, 0, W), y = clamp(v.y, 0, H), r = clamp(v.r, controls.minDistance, controls.maxDistance);
+  EX = exFor(r); terrain.scale.y = EX; tween = null;
+  controls.target.set(wx(x), hAt(x, y) * EX, wz(y));
+  camera.position.setFromSpherical(new THREE.Spherical(r, clamp(v.phi, 0.05, controls.maxPolarAngle), v.theta)).add(controls.target); camera.lookAt(controls.target); dirty = true;
+}
+let lastView = '';
+function saveView() {
+  if (!viewReady || !LAND) return;
+  const t = controls.target, sp = new THREE.Spherical().setFromVector3(camera.position.clone().sub(t));
+  const s = JSON.stringify({ land: LAND.id, x: +(t.x + W / 2).toFixed(2), y: +(H / 2 - t.z).toFixed(2), r: +sp.radius.toFixed(1), phi: +sp.phi.toFixed(4), theta: +sp.theta.toFixed(4) });
+  if (s !== lastView) { lastView = s; tryRun(() => localStorage.setItem(VIEW_KEY, s)); }
+}
+window.addEventListener('pagehide', saveView); document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'hidden') saveView(); });
 /* ---------- touch: two fingers pinch to zoom, turn to turn the map, move up or down together to tilt ---------- */
 const tp = new Map(); let g2 = null, multi = false;
 const sphNow = () => new THREE.Spherical().setFromVector3(camera.position.clone().sub(controls.target));
@@ -768,16 +860,17 @@ canvas.addEventListener('pointermove', e => {
 });
 const tpEnd = e => { if (!tp.delete(e.pointerId)) return; g2 = tp.size === 2 ? Object.assign(two(), { mode: null, sd: 0, sa: 0, sx: 0, sy: 0, turn: false }) : null; if (!tp.size) setTimeout(() => { if (!tp.size) multi = false; }, 60); };
 canvas.addEventListener('pointerup', tpEnd); canvas.addEventListener('pointercancel', tpEnd);
-['gesturestart', 'gesturechange'].forEach(t => document.addEventListener(t, e => { if (PHONE) e.preventDefault(); }, { passive: false }));   // Safari: no zoom of the whole page
+['gesturestart', 'gesturechange'].forEach(t => document.addEventListener(t, e => { if (PHONE && e.target && e.target.closest && e.target.closest('#gl,#labels,#stages')) e.preventDefault(); }, { passive: false }));   // Safari: the map keeps its own pinch; the text of cards, lists and dialogs can be zoomed
 
 /* ---------- phone: menu, round map buttons, card sheet, first-use hint ---------- */
 const needle = $('#needle'), tiltBtn = $('#btn-tilt'); let needleTh = 0;
-$('#btn-menu').addEventListener('click', () => { document.body.classList.toggle('menu'); res.classList.remove('open'); });
+$('#btn-menu').addEventListener('click', () => { document.body.classList.toggle('menu'); closeResults(); });
 $('#scrim').addEventListener('click', () => document.body.classList.remove('menu'));
 $('#menu-x').addEventListener('click', () => document.body.classList.remove('menu'));
 $('#btn-tilt').addEventListener('click', () => {   // change between a view from above and a tilted view
   const sp = sphNow(), flat = sp.phi < 0.3, t = controls.target.clone();
-  tween = { t0: performance.now(), ms: 520, a: t, b: t.clone(), r0: sp.radius, r1: sp.radius, phi0: sp.phi, phi1: flat ? 0.86 : 0.06, theta: sp.theta };
+  tween = { t0: performance.now(), ms: RM ? 0 : 520, a: t, b: t.clone(), r0: sp.radius, r1: sp.radius, phi0: sp.phi, phi1: flat ? 0.86 : 0.06, theta: sp.theta };
+  if (RM) stepTween(performance.now());
 });
 let drag = null;
 card.addEventListener('pointerdown', e => {
@@ -797,7 +890,8 @@ const dragEnd = () => {
 };
 card.addEventListener('pointerup', dragEnd); card.addEventListener('pointercancel', dragEnd);
 const hint = $('#hint'), hintSeen = () => { try { return localStorage.getItem('me-explorer.hint') === '1'; } catch (e) { return false; } };
-const showHint = on => { hint.classList.toggle('on', on); if (!on) { try { localStorage.setItem('me-explorer.hint', '1'); } catch (e) { /* storage is not available */ } } };
+let hintT = 0;
+const showHint = on => { hint.classList.toggle('on', on); clearTimeout(hintT); if (on) hintT = setTimeout(() => showHint(false), 6000); if (!on) { try { localStorage.setItem('me-explorer.hint', '1'); } catch (e) { /* storage is not available */ } } };
 hint.addEventListener('click', () => showHint(false));
 document.addEventListener('click', e => { if (e.target.closest('[data-hint]')) { $('#about').classList.remove('open'); document.body.classList.remove('menu'); showHint(true); } });
 if (window.visualViewport) {   // the keyboard of a phone changes the visible height
@@ -806,6 +900,58 @@ if (window.visualViewport) {   // the keyboard of a phone changes the visible he
 }
 if ('serviceWorker' in navigator && location.protocol === 'https:') navigator.serviceWorker.register('sw.js').catch(() => { /* the page works without it */ });
 
+/* ---------- layers: Escape, focus, inert background, keyboard access to the links ---------- */
+const live = $('#live'); let liveT = 0;
+function say(text, delay = 0) { clearTimeout(liveT); liveT = setTimeout(() => { live.textContent = ''; setTimeout(() => { live.textContent = text; }, 30); }, delay); }
+const aboutEl = $('#about'), panelEl = $('#panel'), chatEl = $('#chat'), menuBtn = $('#btn-menu');
+const layerOpeners = {}; let prevLayer = null;
+function topLayer() {
+  if (aboutEl.classList.contains('open')) return 'about';
+  if (document.body.classList.contains('chat')) return 'chat';
+  if (PHONE && document.body.classList.contains('menu')) return 'menu';
+  return null;
+}
+function syncLayers() {
+  const cur = topLayer(), b = document.body;
+  menuBtn.setAttribute('aria-expanded', PHONE && b.classList.contains('menu') ? 'true' : 'false');
+  const modal = cur === 'about' ? 'about' : PHONE && cur ? cur : null, keep = modal === 'chat' ? chatEl : modal === 'menu' ? panelEl : null;
+  for (const el of document.querySelectorAll('#topbar,#panel,#card,#jbar,.tools,#btn-panel,#chat,#hint')) el.inert = !!modal && el !== keep;
+  if (cur === prevLayer) return;
+  const was = prevLayer; prevLayer = cur;
+  if (cur) {
+    const a = document.activeElement; layerOpeners[cur] = a && a !== document.body && a !== document.documentElement && !(cur === 'about' ? aboutEl : cur === 'chat' ? chatEl : panelEl).contains(a) ? a : null;
+    if (!booting) tryRun(() => (cur === 'about' ? $('#about>div') : cur === 'chat' ? chatEl : panelEl).focus({ preventScroll: true }));
+  } else if (was) {
+    const a = document.activeElement, op = layerOpeners[was] || (was === 'about' ? $('#btn-about') : was === 'menu' ? menuBtn : [...document.querySelectorAll('[data-chat]')].find(x => x.checkVisibility ? x.checkVisibility() : x.offsetParent));
+    if (op && op.isConnected && (!a || a === document.body || a === document.documentElement || (was === 'about' ? aboutEl : was === 'chat' ? chatEl : panelEl).contains(a))) tryRun(() => op.focus({ preventScroll: true }));
+  }
+}
+new MutationObserver(syncLayers).observe(document.body, { attributes: true, attributeFilter: ['class'] });
+new MutationObserver(syncLayers).observe(aboutEl, { attributes: true, attributeFilter: ['class'] });
+function closeTopLayer() {   // one layer per press: about, chat, menu, journey or card, search results
+  if (aboutEl.classList.contains('open')) { aboutEl.classList.remove('open'); return true; }
+  if (CHAT && CHAT.isOpen()) { CHAT.setOpen(false); return true; }
+  if (PHONE && document.body.classList.contains('menu')) { document.body.classList.remove('menu'); return true; }
+  if (J) { stopJourney(); return true; }
+  if (S.sel) { closeCard(); return true; }
+  if (res.classList.contains('open')) { q.value = ''; search(''); closeResults(); return true; }
+  return false;
+}
+const KB_SEL = 'a[data-go],a[data-ask],a[data-hint],#btn-about,li[data-stage],.stg';
+function kbify(root) {
+  const one = el => { if (el.hasAttribute('tabindex') || el.closest('#results')) return; el.tabIndex = 0; el.setAttribute('data-kb', ''); if (!el.getAttribute('role')) el.setAttribute('role', el.matches('a[data-go]') ? 'link' : 'button'); };
+  if (root.nodeType !== 1) return; if (root.matches(KB_SEL)) one(root); root.querySelectorAll(KB_SEL).forEach(one);
+}
+kbify(document.body);
+const kbObs = new MutationObserver(ms => { for (const m of ms) for (const n of m.addedNodes) kbify(n); });
+for (const el of [panelEl, card, $('#chat-log'), $('#stages'), aboutEl]) kbObs.observe(el, { childList: true, subtree: true });
+if (window.ResizeObserver) new ResizeObserver(() => document.documentElement.style.setProperty('--jbh', bar.offsetHeight + 'px')).observe(bar);
+const onRM = () => {
+  RM = mqRM.matches; controls.enableDamping = !RM;
+  if (RM) { controls._sphericalDelta.set(0, 0, 0); controls._panOffset.set(0, 0, 0); finishTween(); snapOffsets(); }
+};
+if (mqRM.addEventListener) mqRM.addEventListener('change', onRM); else if (mqRM.addListener) mqRM.addListener(onRM);
+
 const CHAT = initChat({ ITEMS, D, S, TYPE_NAME, ROLE_NAME, esc, fold, select, showPlaces, landId: () => (LAND ? LAND.id : null), onLayout: () => { dirty = true; } });
-window.__api = { S, ITEMS, D, CHAT, showPlaces, setSnap, showHint, get PHONE() { return PHONE; }, get VF() { return VF; }, setLand, get LAND() { return LAND; }, select, flyTo, startJourney, stopJourney, setPlaying, gotoStage, home, get J() { return J; }, camera, controls, labels };
+window.__api = { get RM() { return RM; }, get tween() { return tween; }, syncUrl, finishTween, S, ITEMS, D, CHAT, showPlaces, setSnap, showHint, get PHONE() { return PHONE; }, get VF() { return VF; }, setLand, get LAND() { return LAND; }, select, flyTo, startJourney, stopJourney, setPlaying, gotoStage, home, get J() { return J; }, camera, controls, labels };
 boot().catch(e => { document.body.classList.add('ready'); $('#loading').textContent = 'The map did not load: ' + e.message; console.error(e); });
